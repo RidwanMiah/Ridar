@@ -66,8 +66,9 @@
   .btn.ghost{background:transparent;color:var(--red)}
   .btn.ghost:hover{background:rgba(138,14,31,.07);color:var(--red-deep)}
 
-  main{display:grid;grid-template-columns:1fr 460px;min-height:0}
-  @media (max-width:1100px){main{grid-template-columns:1fr 400px}}
+  main{display:grid;grid-template-columns:minmax(0,1fr) 600px;min-height:0}
+  @media (max-width:1280px){main{grid-template-columns:minmax(0,1fr) 540px}}
+  @media (max-width:1080px){main{grid-template-columns:minmax(0,1fr) 460px}}
 
   /* ---------- globe ---------- */
   #stage{position:relative;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
@@ -205,9 +206,55 @@
   .hist li{display:grid;grid-template-columns:82px 1fr auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:13.5px;align-items:baseline}
   .hist li:last-child{border-bottom:0}
   .hist b{font-family:"Source Serif 4",serif;font-size:16px}
+
+  /* ---------- landing ---------- */
+  #landing{position:fixed;inset:0;z-index:60;background:var(--beige);overflow:hidden;
+    transition:opacity .6s ease,visibility .6s}
+  #landing.gone{opacity:0;visibility:hidden;pointer-events:none}
+  .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(30%,-50%);
+    width:min(96vh,860px);height:min(96vh,860px);pointer-events:none}
+  #landingGlobe{width:100%;height:100%;display:block}
+  .landing-grid{position:relative;z-index:1;max-width:1200px;margin:0 auto;
+    height:100%;padding:0 max(6vw,28px);display:flex;align-items:center}
+  .landing-copy{max-width:460px;padding-right:20px;
+    background:radial-gradient(ellipse 120% 90% at 20% 50%,var(--beige) 55%,transparent 100%)}
+  .landing-brand{display:flex;align-items:baseline;gap:12px;margin-bottom:40px}
+  .landing-brand h1{font-family:"Source Serif 4",serif;font-size:24px;font-weight:700;margin:0;color:var(--red)}
+  .landing-brand .mono{color:var(--muted);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase}
+  .landing-eyebrow{color:var(--muted);letter-spacing:.14em;text-transform:uppercase;font-size:11px;margin:0 0 16px}
+  .landing-copy h2{font-family:"Source Serif 4",serif;font-weight:700;
+    font-size:clamp(33px,5vw,58px);line-height:1.05;margin:0 0 20px;color:var(--ink)}
+  .landing-lede{font-size:16px;line-height:1.62;color:var(--muted);margin:0 0 32px}
+  #enterBtn{display:inline-flex;align-items:center;gap:12px;border:0;cursor:pointer;
+    background:var(--red);color:#fff;font:500 15px/1 "IBM Plex Sans",sans-serif;
+    padding:16px 26px;border-radius:2px;transition:gap .2s ease,background .2s ease}
+  #enterBtn:hover{gap:20px;background:#700b18}
+  #enterBtn span{font-size:17px}
+  .landing-foot{color:var(--muted);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;margin:34px 0 0}
+  @media (max-width:860px){
+    .landing-globe-wrap{top:auto;bottom:-6vh;right:50%;transform:translateX(50%);
+      width:min(130vw,600px);height:min(130vw,600px);opacity:.2}
+    .landing-grid{align-items:flex-start;width:100%;padding-top:clamp(56px,12vh,150px)}
+    .landing-copy{max-width:100%;width:100%;padding-right:0;background:none}
+    .landing-brand{margin-bottom:26px}
+    .landing-foot{margin-top:26px}
+  }
 </style>
 </head>
 <body>
+<div id="landing">
+  <div class="landing-grid">
+    <div class="landing-copy">
+      <div class="landing-brand"><h1>Ridar</h1><span class="mono">Markets on your radar</span></div>
+      <p class="landing-eyebrow mono">Commercial awareness · every morning</p>
+      <h2>The markets,<br>explained plainly.</h2>
+      <p class="landing-lede">Ten economies briefed every day from public financial news — beginner to advanced, with a quiz that makes it stick. Built for everyone. Free forever.</p>
+      <button id="enterBtn">Enter Ridar <span aria-hidden="true">→</span></button>
+      <p class="landing-foot mono">Education, not investment advice</p>
+    </div>
+    <div class="landing-globe-wrap"><svg id="landingGlobe" aria-hidden="true"></svg></div>
+  </div>
+</div>
 <div id="app">
   <header>
     <div class="brand">
@@ -862,7 +909,7 @@ function setZoom(z){
 
 function rescale(){
   const r = stage.getBoundingClientRect();
-  size = Math.max(260, Math.min(r.width - 80, r.height - 80));
+  size = Math.max(240, Math.min(r.width - 88, r.height - 88, 560));
   svg.attr("width", r.width).attr("height", r.height);
   projection.scale(size/2 * zoom).translate([r.width/2, r.height/2]);
   gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2 * zoom);
@@ -989,11 +1036,49 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json").th
   trimOutlyingIslands();
   setupGlobe();
   renderCountries();
+  setupLanding();
 }).catch(() => {
   stage.insertAdjacentHTML("beforeend",
     "<p style='position:absolute;max-width:32ch;text-align:center;color:var(--muted)'>Map geometry could not be loaded. Country briefings are still available from the list on the right.</p>");
   setupGlobe();
 });
+
+/* ============ landing ============ */
+function dismissLanding(){
+  const el = document.getElementById("landing");
+  if(!el) return;
+  el.classList.add("gone");
+  setTimeout(() => el.remove(), 700);
+}
+function setupLanding(){
+  const el = document.getElementById("landingGlobe");
+  if(el && features.length){
+    const SZ = 540;
+    const proj = d3.geoOrthographic().scale(SZ/2 - 6).translate([SZ/2, SZ/2]).clipAngle(90);
+    const gp = d3.geoPath(proj);
+    const s = d3.select(el).attr("viewBox", `0 0 ${SZ} ${SZ}`);
+    s.append("circle").attr("cx",SZ/2).attr("cy",SZ/2).attr("r",SZ/2-6)
+      .attr("fill","#FBE9DA").attr("stroke","#E4D0BE");
+    const grat = s.append("path").attr("fill","none").attr("stroke","#E9D6C5")
+      .attr("stroke-width",.7).datum(d3.geoGraticule10());
+    const land = s.append("g");
+    land.selectAll("path").data(features).join("path")
+      .attr("fill", d => MARKETS[d.properties.name] ? "rgba(138,14,31,.20)" : "transparent")
+      .attr("stroke", d => MARKETS[d.properties.name] ? "#8A0E1F" : "#CBA88E")
+      .attr("stroke-width", d => MARKETS[d.properties.name] ? .9 : .5);
+    let rot = [-18, -10];
+    const spin = d3.timer(() => {
+      rot[0] += 0.16; proj.rotate(rot);
+      grat.attr("d", gp); land.selectAll("path").attr("d", gp);
+    });
+    const wrap = document.getElementById("landing");
+    if(wrap) wrap.addEventListener("transitionend", () => spin.stop(), { once:true });
+  }
+}
+document.getElementById("enterBtn").addEventListener("click", dismissLanding);
+document.addEventListener("keydown", e => { if(e.key === "Enter" || e.key === "Escape"){
+  if(document.getElementById("landing")) dismissLanding();
+}});
 
 /* ============ panel ============ */
 function emptyPanel(){
