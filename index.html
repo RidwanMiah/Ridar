@@ -211,10 +211,10 @@
   #landing{position:fixed;inset:0;z-index:60;background:var(--beige);overflow:hidden;
     transition:opacity .5s ease .35s,visibility .5s .35s}
   #landing.gone{opacity:0;visibility:hidden;pointer-events:none}
-  .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(30%,-50%);
-    width:min(96vh,860px);height:min(96vh,860px);pointer-events:none;
+  .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(28%,-50%);
+    width:min(112vh,1040px);height:min(112vh,1040px);pointer-events:none;
     transition:transform .9s cubic-bezier(.5,0,.15,1),opacity .5s ease .25s}
-  #landing.gone .landing-globe-wrap{transform:translate(30%,-50%) scale(2.6);opacity:0}
+  #landing.gone .landing-globe-wrap{transform:translate(28%,-50%) scale(2.6);opacity:0}
   .landing-copy{transition:opacity .4s ease,transform .5s cubic-bezier(.4,0,.2,1)}
   #landing.gone .landing-copy{opacity:0;transform:translateY(-14px)}
   #landingGlobe{width:100%;height:100%;display:block}
@@ -923,7 +923,7 @@ function setZoom(z){
 
 function rescale(){
   const r = stage.getBoundingClientRect();
-  size = Math.max(240, Math.min(r.width - 80, r.height - 80, 900));
+  size = Math.max(240, Math.min(r.width - 48, r.height - 52, 1100));
   svg.attr("width", r.width).attr("height", r.height);
   projection.scale(size/2 * zoom).translate([r.width/2, r.height/2]);
   gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2 * zoom);
