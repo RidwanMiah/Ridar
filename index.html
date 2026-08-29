@@ -240,7 +240,7 @@
       </div>
       <div class="stage-note">
         <span class="mono">Drag to rotate · click a country</span>
-        <p>Ten markets are briefed today. Summaries are condensed from the Financial Times, Bloomberg, Reuters and central bank releases.</p>
+        <p>Ten markets on the radar; the ones with news today are filled in. Summaries are condensed from the Financial Times, Bloomberg, Reuters and central bank releases.</p>
       </div>
       <div class="legend">
         <div><span class="swatch" style="background:rgba(138,14,31,.22)"></span> Briefed today</div>
@@ -258,6 +258,16 @@
 /* ============ content ============ */
 const LEVEL_NAMES = {b:"Beginner", i:"Intermediate", a:"Advanced"};
 let level = localStorage.getItem("mrd_level") || "b";
+
+/* The ten markets Ridar tracks. All ten always appear on the globe; whether a
+   briefing exists for one *today* is a separate question (see COUNTRIES, which
+   holds only the countries with news in the last 24h). Names must match the
+   world-atlas TopoJSON exactly. */
+const MARKETS = {
+  "United States of America":"United States", "United Kingdom":"United Kingdom",
+  "Germany":"Germany", "Japan":"Japan", "China":"China", "India":"India",
+  "Brazil":"Brazil", "Saudi Arabia":"Saudi Arabia", "Nigeria":"Nigeria", "Australia":"Australia"
+};
 
 let COUNTRIES = {
   "United States of America": {
@@ -862,8 +872,7 @@ function rescale(){
 function resize(){ rescale(); }
 
 function fill(name){
-  const has = !!COUNTRIES[name];
-  if(!has) return "transparent";
+  if(!COUNTRIES[name]) return MARKETS[name] ? "rgba(138,14,31,.06)" : "transparent";
   if(topicSel){
     return TOPICS[topicSel].countries.includes(name) ? "rgba(138,14,31,.42)" : "rgba(138,14,31,.10)";
   }
@@ -902,24 +911,43 @@ function renderCountries(){
     .attr("class","country")
     .attr("d", path)
     .attr("fill", d => fill(d.properties.name))
-    .attr("stroke", d => COUNTRIES[d.properties.name] ? "#8A0E1F" : "#CBA88E")
-    .attr("stroke-width", d => COUNTRIES[d.properties.name] ? 1 : .6)
+    .attr("stroke", d => MARKETS[d.properties.name] ? "#8A0E1F" : "#CBA88E")
+    .attr("stroke-width", d => COUNTRIES[d.properties.name] ? 1 : MARKETS[d.properties.name] ? .8 : .6)
     .style("pointer-events","all")
     .on("mousemove", (ev,d) => {
+      const nm = d.properties.name, briefed = !!COUNTRIES[nm], market = !!MARKETS[nm];
+      if(!briefed && !market){ tooltip.style.opacity = 0; return; }
       const r = stage.getBoundingClientRect();
-      tooltip.textContent = (COUNTRIES[d.properties.name]?.label || d.properties.name)
-        + (COUNTRIES[d.properties.name] ? " · briefed" : " · no briefing");
+      tooltip.textContent = (COUNTRIES[nm]?.label || MARKETS[nm])
+        + (briefed ? " · briefed today" : " · no briefing yet");
       tooltip.style.opacity = 1;
       tooltip.style.left = (ev.clientX - r.left + 14) + "px";
       tooltip.style.top = (ev.clientY - r.top - 8) + "px";
-      if(!COUNTRIES[d.properties.name]) return;
-      d3.select(ev.currentTarget).attr("fill","rgba(138,14,31,.34)");
+      if(briefed) d3.select(ev.currentTarget).attr("fill","rgba(138,14,31,.34)");
     })
     .on("mouseleave", (ev,d) => {
       tooltip.style.opacity = 0;
       d3.select(ev.currentTarget).attr("fill", fill(d.properties.name));
     })
-    .on("click", (ev,d) => { if(COUNTRIES[d.properties.name]) select(d); });
+    .on("click", (ev,d) => {
+      const nm = d.properties.name;
+      if(COUNTRIES[nm]) select(d);
+      else if(MARKETS[nm]) noBriefingNote(nm);
+    });
+}
+
+function noBriefingNote(name){
+  selected = null; topicSel = null;
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  p.innerHTML = `<div class="empty">
+    <span class="mono">${esc(MARKETS[name])}</span>
+    <h2 style="margin:8px 0 12px">No briefing today</h2>
+    <p style="font-size:15px;line-height:1.6;color:var(--muted);max-width:none">There weren’t enough distinct stories about ${esc(MARKETS[name])} in the last 24 hours to write a briefing worth reading. It returns automatically as soon as the news does — check back tomorrow.</p>
+    <button class="btn ghost" id="backToday" style="margin-top:16px">Back to today</button>
+  </div>`;
+  document.getElementById("backToday").addEventListener("click", emptyPanel);
+  repaint();
 }
 
 function select(feature){
