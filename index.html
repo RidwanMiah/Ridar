@@ -182,6 +182,11 @@
   .saved-list button:hover{color:var(--red)}
 
   /* ---------- auth ---------- */
+  #auth{opacity:0;transition:opacity .3s ease}
+  #auth.show{opacity:1}
+  #authcard{opacity:0;transform:translateY(16px) scale(.985);
+    transition:opacity .3s ease,transform .4s cubic-bezier(.2,.7,.2,1)}
+  #auth.show #authcard{opacity:1;transform:none}
   .tabs{display:flex;gap:22px;border-bottom:1px solid var(--rule);margin:0 0 22px}
   .tabs button{
     border:0;background:none;cursor:pointer;padding:0 0 10px;margin-bottom:-1px;
@@ -211,11 +216,12 @@
   #landing{position:fixed;inset:0;z-index:60;background:var(--beige);overflow:hidden;
     transition:opacity .5s ease .35s,visibility .5s .35s}
   #landing.gone{opacity:0;visibility:hidden;pointer-events:none}
-  .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(28%,-50%);
-    width:min(112vh,1040px);height:min(112vh,1040px);pointer-events:none;
+  .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(40%,-50%);
+    width:min(108vh,1000px);height:min(108vh,1000px);pointer-events:none;z-index:0;
     transition:transform .9s cubic-bezier(.5,0,.15,1),opacity .5s ease .25s}
-  #landing.gone .landing-globe-wrap{transform:translate(28%,-50%) scale(2.6);opacity:0}
-  .landing-copy{transition:opacity .4s ease,transform .5s cubic-bezier(.4,0,.2,1)}
+  #landing.gone .landing-globe-wrap{transform:translate(40%,-50%) scale(2.6);opacity:0}
+  .landing-copy{position:relative;z-index:2;
+    transition:opacity .4s ease,transform .5s cubic-bezier(.4,0,.2,1)}
   #landing.gone .landing-copy{opacity:0;transform:translateY(-14px)}
   #landingGlobe{width:100%;height:100%;display:block}
   /* app entrance cascade, triggered while the landing flies away */
@@ -227,8 +233,8 @@
   #app.entering #stage{animation:ridarStage .75s cubic-bezier(.2,.7,.2,1) .1s both}
   .landing-grid{position:relative;z-index:1;max-width:1200px;margin:0 auto;
     height:100%;padding:0 max(6vw,28px);display:flex;align-items:center}
-  .landing-copy{max-width:460px;padding-right:20px;
-    background:radial-gradient(ellipse 120% 90% at 20% 50%,var(--beige) 55%,transparent 100%)}
+  .landing-copy{max-width:440px;padding-right:24px;
+    background:radial-gradient(ellipse 150% 100% at 15% 50%,var(--beige) 62%,rgba(255,241,229,.85) 80%,transparent 100%)}
   .landing-brand{display:flex;align-items:baseline;gap:12px;margin-bottom:40px}
   .landing-brand h1{font-family:"Source Serif 4",serif;font-size:24px;font-weight:700;margin:0;color:var(--red)}
   .landing-brand .mono{color:var(--muted);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase}
@@ -246,8 +252,9 @@
   .landing-foot a:hover{text-decoration:underline}
   @media (max-width:860px){
     .landing-globe-wrap{top:auto;bottom:-6vh;right:50%;transform:translateX(50%);
-      width:min(130vw,600px);height:min(130vw,600px);opacity:.2}
+      width:min(135vw,640px);height:min(135vw,640px);opacity:.18}
     #landing.gone .landing-globe-wrap{transform:translateX(50%) scale(2.6);opacity:0}
+    .landing-copy{background:none}
     .landing-grid{align-items:flex-start;width:100%;padding-top:clamp(56px,12vh,150px)}
     .landing-copy{max-width:100%;width:100%;padding-right:0;background:none}
     .landing-brand{margin-bottom:26px}
@@ -886,6 +893,7 @@ let features = [], path, projection, rotation = [-20, -12], size = 0;
 let gLand, gGrat, gHalo;
 let zoom = 1;
 const ZOOM_MIN = 1, ZOOM_MAX = 6;
+let autoSpin = null, hoverGlobe = false, dragging = false;
 
 function setupGlobe(){
   projection = d3.geoOrthographic().rotate(rotation).clipAngle(90);
@@ -897,13 +905,13 @@ function setupGlobe(){
   resize();
   window.addEventListener("resize", resize);
   svg.call(d3.drag()
-    .on("start", ()=> document.getElementById("globe").classList.add("dragging"))
+    .on("start", ()=> { dragging = true; document.getElementById("globe").classList.add("dragging"); })
     .on("drag", ev => {
       const k = 0.28 / zoom;                 // finer rotation the further you're zoomed in
       rotation = [rotation[0] + ev.dx*k, Math.max(-85, Math.min(85, rotation[1] - ev.dy*k))];
       projection.rotate(rotation); draw();
     })
-    .on("end", ()=> document.getElementById("globe").classList.remove("dragging")));
+    .on("end", ()=> { dragging = false; document.getElementById("globe").classList.remove("dragging"); }));
 
   // Scroll wheel / trackpad pinch to zoom the globe in and out.
   svg.on("wheel", ev => {
@@ -912,6 +920,19 @@ function setupGlobe(){
   }, { passive: false });
   document.getElementById("zoomIn").addEventListener("click", () => setZoom(zoom * 1.5));
   document.getElementById("zoomOut").addEventListener("click", () => setZoom(zoom / 1.5));
+
+  // Idle auto-rotation. Pauses while the cursor is over the globe (so you can
+  // grab and spin it), while dragging, when a country or theme is open, when
+  // zoomed in, or while the landing screen is still up.
+  svg.on("mouseenter.spin", () => hoverGlobe = true)
+     .on("mouseleave.spin", () => hoverGlobe = false);
+  autoSpin = d3.timer(() => {
+    if(hoverGlobe || dragging || selected || topicSel || zoom > 1.01
+       || document.getElementById("landing")) return;
+    rotation[0] += 0.09;
+    projection.rotate(rotation);
+    draw();
+  });
 }
 
 function setZoom(z){
@@ -1072,11 +1093,19 @@ function dismissLanding(){
     if(landingSpin) landingSpin.stop();
     el.remove();
     app.classList.remove("entering");
+    // Let the dashboard settle before the sign-up prompt slides in.
+    setTimeout(maybePromptSignup, 2400);
   };
   el.addEventListener("transitionend", e => {     // ignore child transitions bubbling up
     if(e.target === el && e.propertyName === "opacity") finish();
   });
   setTimeout(finish, 1600);                       // fallback if transitionend never fires
+}
+function maybePromptSignup(){
+  if(!users.session && !localStorage.getItem("mrd_guest")
+     && !document.getElementById("landing") && !authEl.classList.contains("show")){
+    openAuth("up");
+  }
 }
 function setupLanding(){
   const el = document.getElementById("landingGlobe");
@@ -1395,8 +1424,17 @@ function renderResult(){
 const authEl = document.getElementById("auth"), authCard = document.getElementById("authcard");
 let authMode = "in";
 
-function openAuth(mode){ authMode = mode || "in"; authEl.style.display = "flex"; renderAuth(); }
-function closeAuth(){ authEl.style.display = "none"; }
+function openAuth(mode){
+  authMode = mode || "in";
+  authEl.style.display = "flex";
+  renderAuth();
+  void authEl.offsetWidth;                 // reflow so the transition has a start state
+  authEl.classList.add("show");            // fade + rise in
+}
+function closeAuth(){
+  authEl.classList.remove("show");
+  setTimeout(() => { if(!authEl.classList.contains("show")) authEl.style.display = "none"; }, 320);
+}
 
 function renderAuth(err){
   const isIn = authMode === "in";
@@ -1613,7 +1651,9 @@ loadLiveData();
     const { data:{ session } } = await sb.auth.getSession();
     await onAuth(session);
   } catch(e){ /* offline or Supabase paused — app still works as guest */ }
-  if(!users.session && !localStorage.getItem("mrd_guest")) openAuth("up");
+  // If the landing screen isn't showing (edge case), prompt sign-up directly;
+  // otherwise dismissLanding() fires maybePromptSignup a beat after the transition.
+  if(!document.getElementById("landing")) setTimeout(maybePromptSignup, 800);
 })();
 </script>
 </body>
