@@ -9,6 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script src="https://unpkg.com/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
   :root{
     --beige:#FFF1E5;
@@ -72,6 +73,12 @@
   #stage{position:relative;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
   #globe{display:block;cursor:grab;touch-action:none}
   #globe.dragging{cursor:grabbing}
+  .zoomctl{position:absolute;left:26px;top:20px;display:flex;flex-direction:column;gap:6px}
+  .zoomctl button{width:32px;height:32px;border:1px solid var(--rule);background:var(--paper);
+    color:var(--ink);border-radius:8px;font-size:18px;line-height:1;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;box-shadow:0 1px 3px rgba(31,26,23,.12)}
+  .zoomctl button:hover{border-color:var(--red);color:var(--red)}
+  .zoomctl button:disabled{opacity:.35;cursor:default}
   .stage-note{position:absolute;left:26px;bottom:20px;max-width:280px}
   .stage-note p{margin:6px 0 0;font-size:12.5px;color:var(--muted);line-height:1.45}
   .legend{position:absolute;right:26px;bottom:20px;display:flex;flex-direction:column;gap:7px;align-items:flex-end}
@@ -227,6 +234,10 @@
     <div id="stage">
       <svg id="globe"></svg>
       <div id="tooltip"></div>
+      <div class="zoomctl">
+        <button id="zoomIn" aria-label="Zoom in" title="Zoom in">+</button>
+        <button id="zoomOut" aria-label="Zoom out" title="Zoom out">&minus;</button>
+      </div>
       <div class="stage-note">
         <span class="mono">Drag to rotate · click a country</span>
         <p>Ten markets are briefed today. Summaries are condensed from the Financial Times, Bloomberg, Reuters and central bank releases.</p>
@@ -685,30 +696,105 @@ let QUESTIONS = [
    e:"Both measures raise prices immediately but remove distortions that drained reserves. Durability depends on maintaining positive real rates through the disinflation."}
 ];
 
-/* ============ accounts ============ */
+/* ============ accounts (Supabase) ============ */
+const SB_URL  = "https://hdxrkyytxxynbppudqze.supabase.co";
+const SB_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhkeHJreXl0eHh5bmJwcHVkcXplIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODc5OTQzMDYsImV4cCI6MjEwMzU3MDMwNn0.jALAsqRMOgUNvf5y-xJJ2_Iwy2a9Ysdf45niDUIH0tg";
+/* If the Supabase library fails to load (CDN blip), the site still runs as a
+   guest-only experience rather than showing a blank page. */
+const sb = window.supabase
+  ? window.supabase.createClient(SB_URL, SB_ANON)
+  : { auth: { getSession: async () => ({ data: { session: null } }),
+              onAuthStateChange: () => {},
+              signInWithPassword: async () => ({ error: { message: "Login is offline right now." } }),
+              signUp: async () => ({ error: { message: "Sign-up is offline right now." } }),
+              signOut: async () => {} },
+      from: () => ({ select: () => ({ eq: () => ({ single: async () => ({ data: null }) }) }),
+                     update: () => ({ eq: async () => ({}) }) }) };
+
+/* Synchronous mirror of the signed-in user, kept fresh by onAuthStateChange.
+   Everything else in the app reads users.current / users.session as before. */
+let sbUser = null;   // { id, email, name, joined } or null
 const users = {
-  all(){ try{ return JSON.parse(localStorage.getItem("mrd_users")||"{}") }catch(e){ return {} } },
-  write(o){ localStorage.setItem("mrd_users", JSON.stringify(o)) },
-  /* prototype-only obfuscation — never real password storage */
-  scramble(s){ let h=0; for(const c of s) h=(h*31+c.charCodeAt(0))|0; return String(h) },
-  get session(){ return localStorage.getItem("mrd_session") || "" },
-  set session(v){ v ? localStorage.setItem("mrd_session", v) : localStorage.removeItem("mrd_session") },
-  get current(){ const e = this.session; return e ? (this.all()[e] ? Object.assign({email:e}, this.all()[e]) : null) : null }
+  get session(){ return sbUser ? sbUser.id : "" },
+  get current(){
+    return sbUser
+      ? { email: sbUser.email, name: sbUser.name || sbUser.email.split("@")[0], level, joined: sbUser.joined || "today" }
+      : null;
+  }
 };
+
+function niceErr(e){
+  const m = (e && e.message || "").toLowerCase();
+  if(m.includes("invalid login"))       return "Wrong email or password.";
+  if(m.includes("already registered"))  return "That email already has an account. Sign in instead.";
+  if(m.includes("not confirmed"))       return "Check your email for the confirmation link first.";
+  if(m.includes("rate limit"))          return "Too many attempts. Wait a minute and try again.";
+  return (e && e.message) || "Something went wrong. Try again.";
+}
+
+/* Pull this user's saved progress out of the cloud into the local cache, so
+   every synchronous store.* getter below just works unchanged. */
+async function pullCloud(){
+  if(!sbUser) return;
+  const { data, error } = await sb.from("profiles").select("name,data").eq("id", sbUser.id).single();
+  if(error || !data) return;
+  if(data.name) sbUser.name = data.name;
+  const d = data.data || {};
+  if(d.level) { level = d.level; localStorage.setItem("mrd_level", level); }
+  const put = (k, v) => localStorage.setItem(K(k), typeof v === "string" ? v : JSON.stringify(v));
+  if(d.streak != null) put("streak", String(d.streak));
+  if(d.last   != null) put("last", d.last);
+  if(d.saved  != null) put("saved", d.saved);
+  if(d.hist   != null) put("hist", d.hist);
+  if(d.read   != null) put("read", d.read);
+}
+
+/* Push the local cache back to the cloud, debounced so a burst of writes
+   (finishing a quiz) is one request. */
+let cloudTimer = null;
+function pushCloud(){
+  if(!sbUser) return;
+  clearTimeout(cloudTimer);
+  cloudTimer = setTimeout(async () => {
+    const payload = { level, streak: store.streak, last: store.last,
+                      saved: store.saved, hist: store.history, read: store.read };
+    await sb.from("profiles").update({ data: payload, updated_at: new Date().toISOString() })
+            .eq("id", sbUser.id);
+  }, 800);
+}
+
+/* Called on every auth change (sign in, sign out, tab focus, page load). */
+async function onAuth(session){
+  if(session && session.user){
+    const u = session.user;
+    sbUser = { id: u.id, email: u.email,
+               name: (u.user_metadata && u.user_metadata.name) || u.email.split("@")[0],
+               joined: (u.created_at || "").slice(0,10) };
+    localStorage.removeItem("mrd_guest");
+    await pullCloud();
+  } else {
+    sbUser = null;
+  }
+  syncLevelButtons();
+  refreshHeader();
+  repaint();
+  if(sbUser && document.getElementById("auth").style.display === "flex") closeAuth();
+}
+sb.auth.onAuthStateChange((_evt, session) => { onAuth(session); });
 
 /* ============ state ============ */
 const K = k => "mrd_" + (users.session || "guest") + "_" + k;
 const store = {
   get streak(){ return +(localStorage.getItem(K("streak"))||0) },
-  set streak(v){ localStorage.setItem(K("streak"), v) },
+  set streak(v){ localStorage.setItem(K("streak"), v); pushCloud() },
   get last(){ return localStorage.getItem(K("last"))||"" },
-  set last(v){ localStorage.setItem(K("last"), v) },
+  set last(v){ localStorage.setItem(K("last"), v); pushCloud() },
   get saved(){ try{ return JSON.parse(localStorage.getItem(K("saved"))||"[]") }catch(e){ return [] } },
-  set saved(v){ localStorage.setItem(K("saved"), JSON.stringify(v)) },
+  set saved(v){ localStorage.setItem(K("saved"), JSON.stringify(v)); pushCloud() },
   get history(){ try{ return JSON.parse(localStorage.getItem(K("hist"))||"[]") }catch(e){ return [] } },
-  set history(v){ localStorage.setItem(K("hist"), JSON.stringify(v)) },
+  set history(v){ localStorage.setItem(K("hist"), JSON.stringify(v)); pushCloud() },
   get read(){ try{ return JSON.parse(localStorage.getItem(K("read"))||"[]") }catch(e){ return [] } },
-  set read(v){ localStorage.setItem(K("read"), JSON.stringify(v)) }
+  set read(v){ localStorage.setItem(K("read"), JSON.stringify(v)); pushCloud() }
 };
 let selected = null, topicSel = null;
 const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;");
@@ -727,6 +813,8 @@ const svg = d3.select("#globe");
 const tooltip = document.getElementById("tooltip");
 let features = [], path, projection, rotation = [-20, -12], size = 0;
 let gLand, gGrat, gHalo;
+let zoom = 1;
+const ZOOM_MIN = 1, ZOOM_MAX = 6;
 
 function setupGlobe(){
   projection = d3.geoOrthographic().rotate(rotation).clipAngle(90);
@@ -740,21 +828,38 @@ function setupGlobe(){
   svg.call(d3.drag()
     .on("start", ()=> document.getElementById("globe").classList.add("dragging"))
     .on("drag", ev => {
-      const k = 0.28;
+      const k = 0.28 / zoom;                 // finer rotation the further you're zoomed in
       rotation = [rotation[0] + ev.dx*k, Math.max(-85, Math.min(85, rotation[1] - ev.dy*k))];
       projection.rotate(rotation); draw();
     })
     .on("end", ()=> document.getElementById("globe").classList.remove("dragging")));
+
+  // Scroll wheel / trackpad pinch to zoom the globe in and out.
+  svg.on("wheel", ev => {
+    ev.preventDefault();
+    setZoom(zoom * (ev.deltaY < 0 ? 1.18 : 1/1.18));
+  }, { passive: false });
+  document.getElementById("zoomIn").addEventListener("click", () => setZoom(zoom * 1.5));
+  document.getElementById("zoomOut").addEventListener("click", () => setZoom(zoom / 1.5));
 }
 
-function resize(){
+function setZoom(z){
+  zoom = Math.max(ZOOM_MIN, Math.min(ZOOM_MAX, z));
+  document.getElementById("zoomIn").disabled  = zoom >= ZOOM_MAX - 1e-3;
+  document.getElementById("zoomOut").disabled = zoom <= ZOOM_MIN + 1e-3;
+  rescale();
+}
+
+function rescale(){
   const r = stage.getBoundingClientRect();
   size = Math.max(260, Math.min(r.width - 80, r.height - 80));
   svg.attr("width", r.width).attr("height", r.height);
-  projection.scale(size/2).translate([r.width/2, r.height/2]);
-  gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2);
+  projection.scale(size/2 * zoom).translate([r.width/2, r.height/2]);
+  gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2 * zoom);
   draw();
 }
+
+function resize(){ rescale(); }
 
 function fill(name){
   const has = !!COUNTRIES[name];
@@ -834,8 +939,26 @@ function selectByName(name){
   if(f) select(f);
 }
 
+/* The world-atlas USA polygon includes Hawaii, which renders as a lone
+   highlighted speck in the mid-Pacific and reads as a bug. Drop far-flung
+   island parts so each briefed country shows as one recognisable shape. */
+function trimOutlyingIslands(){
+  const DROP = { "United States of America": b => b.lat < 24 && b.lon > -162 && b.lon < -152 };
+  for(const f of features){
+    const test = DROP[f.properties.name];
+    if(!test || f.geometry.type !== "MultiPolygon") continue;
+    f.geometry.coordinates = f.geometry.coordinates.filter(poly => {
+      const ring = poly[0];
+      const lat = ring.reduce((s,c)=>s+c[1],0)/ring.length;
+      const lon = ring.reduce((s,c)=>s+c[0],0)/ring.length;
+      return !test({ lat, lon });
+    });
+  }
+}
+
 d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json").then(topo => {
   features = topojson.feature(topo, topo.objects.countries).features;
+  trimOutlyingIslands();
   setupGlobe();
   renderCountries();
 }).catch(() => {
@@ -1165,7 +1288,7 @@ function renderAuth(err){
     <div class="authrow">
       <button class="link" id="guestBtn">Continue without an account</button>
     </div>
-    <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Prototype: accounts are stored in this browser only. Don\u2019t use a real password.</p>`;
+    <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Your account keeps your streak, saved briefings and quiz history in sync across devices. We store only your name, email and learning progress.</p>`;
 
   document.getElementById("closeA").addEventListener("click", closeAuth);
   document.getElementById("tabIn").addEventListener("click", () => { authMode="in"; renderAuth(); });
@@ -1180,38 +1303,44 @@ function renderAuth(err){
   }));
 }
 
-function submitAuth(){
+async function submitAuth(){
   const email = (document.getElementById("fEmail").value||"").trim().toLowerCase();
   const pass = document.getElementById("fPass").value||"";
-  const all = users.all();
   if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return renderAuth("Enter a valid email address.");
   if(pass.length < 6) return renderAuth("Passwords need at least six characters.");
 
-  if(authMode === "in"){
-    const rec = all[email];
-    if(!rec) return renderAuth("No account with that email. Create one instead?");
-    if(rec.pw !== users.scramble(pass)) return renderAuth("That password doesn\u2019t match.");
-    users.session = email;
-    if(rec.level) level = rec.level;
-  } else {
-    const name = (document.getElementById("fName").value||"").trim();
-    if(name.length < 2) return renderAuth("Tell us your name.");
-    if(all[email]) return renderAuth("That email already has an account. Sign in?");
-    const lvl = document.querySelector("#signupLvl button[aria-pressed='true']")?.dataset.lvl || "b";
-    all[email] = {name, pw:users.scramble(pass), level:lvl, joined:new Date().toISOString().slice(0,10)};
-    users.write(all);
-    users.session = email;
-    level = lvl;
+  const btn = document.getElementById("doAuth");
+  const label = btn.textContent;
+  btn.disabled = true; btn.textContent = "\u2026";
+
+  try {
+    if(authMode === "in"){
+      const { error } = await sb.auth.signInWithPassword({ email, password: pass });
+      if(error) return renderAuth(niceErr(error));
+    } else {
+      const name = (document.getElementById("fName").value||"").trim();
+      if(name.length < 2) return renderAuth("Tell us your name.");
+      const lvl = document.querySelector("#signupLvl button[aria-pressed='true']")?.dataset.lvl || "b";
+      const { data, error } = await sb.auth.signUp({ email, password: pass, options: { data: { name } } });
+      if(error) return renderAuth(niceErr(error));
+      if(!data.session){
+        return renderAuth("Account created. Check your email for a confirmation link, then sign in.");
+      }
+      level = lvl;
+      localStorage.setItem("mrd_level", lvl);
+      await sb.from("profiles").update({ data: { level: lvl } }).eq("id", data.user.id);
+    }
+  } finally {
+    btn.disabled = false; btn.textContent = label;
   }
-  localStorage.setItem("mrd_level", level);
-  syncLevelButtons();
+  /* onAuthStateChange fires next: it sets sbUser, pulls progress, and closes
+     this dialog. Give it a beat, then show the account panel. */
   closeAuth();
-  refreshHeader();
-  renderAccount();
+  setTimeout(() => { if(users.current) renderAccount(); }, 150);
 }
 
-function signOut(){
-  users.session = "";
+async function signOut(){
+  await sb.auth.signOut();
   selected = null; topicSel = null;
   refreshHeader(); repaint(); emptyPanel();
   openAuth("in");
@@ -1237,7 +1366,7 @@ function renderAccount(){
       <button class="close" id="closeP" title="Close">\u2715</button>
     </div>
 
-    <div class="indicators" style="display:${(c.ind&&c.ind.length)?'grid':'none'}">
+    <div class="indicators" style="display:grid">
       <div class="ind"><span class="mono">Streak</span><div class="v">${store.streak}</div><div class="d">day${store.streak===1?"":"s"}</div></div>
       <div class="ind"><span class="mono">Accuracy</span><div class="v">${acc}%</div><div class="d">${got}/${asked} correct</div></div>
       <div class="ind"><span class="mono">Markets read</span><div class="v">${readN}</div><div class="d">of ${total}</div></div>
@@ -1318,8 +1447,7 @@ async function loadLiveData(){
 document.querySelectorAll("#levels button").forEach(b => b.addEventListener("click", () => {
   level = b.dataset.lvl;
   localStorage.setItem("mrd_level", level);
-  const u = users.current;
-  if(u){ const all = users.all(); all[u.email].level = level; users.write(all); }
+  pushCloud();
   syncLevelButtons();
   if(quizEl.classList.contains("open")) startQuiz();
   else if(topicSel) renderTopic(topicSel);
@@ -1335,13 +1463,19 @@ document.getElementById("savedBtn").addEventListener("click", renderSaved);
 quizEl.addEventListener("click", e => { if(e.target === quizEl) closeQuiz(); });
 document.addEventListener("keydown", e => { if(e.key === "Escape"){ closeQuiz(); closeAuth(); } });
 
-const me = users.current;
-if(me && me.level) level = me.level;
 syncLevelButtons();
 refreshHeader();
 emptyPanel();
 loadLiveData();
-if(!users.session && !localStorage.getItem("mrd_guest")) openAuth("up");
+
+/* Resolve the Supabase session, then decide whether to show the sign-up nudge. */
+(async () => {
+  try {
+    const { data:{ session } } = await sb.auth.getSession();
+    await onAuth(session);
+  } catch(e){ /* offline or Supabase paused — app still works as guest */ }
+  if(!users.session && !localStorage.getItem("mrd_guest")) openAuth("up");
+})();
 </script>
 </body>
 </html>
