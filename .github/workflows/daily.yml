@@ -1,0 +1,46 @@
+name: Ridar daily briefing
+
+# Runs once a day at 06:10 UTC, and on demand from the Actions tab.
+# GitHub Actions is free for public repositories.
+#
+# Want to cut cost further (or you're on a paid AI provider)? Change the cron
+# to weekly:  '10 6 * * 1'  = Mondays only.
+on:
+  schedule:
+    - cron: '10 6 * * *'
+  workflow_dispatch:
+
+# The job commits the generated JSON back into the repo, so it needs write
+# permission on contents.
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install rss-parser
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch, summarise, write data/
+        env:
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'gemini' }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL }}
+        run: node run.js
+
+      - name: Commit the new briefing
+        run: |
+          git config user.name  "ridar-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          # If nothing changed (a quiet day), exit cleanly rather than failing.
+          git diff --staged --quiet && echo "No change today." && exit 0
+          git commit -m "Briefing $(date -u +%Y-%m-%d)"
+          git push

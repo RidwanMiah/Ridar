@@ -1,0 +1,201 @@
+{
+  "generated": "2026-08-29T09:54:22.627Z",
+  "provider": "gemini",
+  "model": "gemini-flash-lite-latest",
+  "digest": {
+    "date": "29 August 2026",
+    "headline": "Federal Reserve policy signals drive market repricing while trade, energy and legal developments unfold globally.",
+    "lede": {
+      "b": "Federal Reserve Chairman Kevin Warsh indicated that borrowing costs might need to rise, which caused bond values to drop.",
+      "i": "Federal Reserve Chairman Kevin Warsh delivered a hawkish address at Jackson Hole, triggering a sell-off in short-term debt instruments and lifting yields.",
+      "a": "Warsh's Jackson Hole rhetoric forced a repricing of the short end of the curve, shifting market expectations regarding the terminal rate and compressing the slope."
+    },
+    "items": [
+      {
+        "c": "United States of America",
+        "b": "The central bank signaled possible interest rate hikes, the government secured a stake in Venezuelan oil reserves, and an appeals court delivered a ruling on event contracts.",
+        "i": "Fed rate hike signals steepened yield curves, a bilateral energy pact targets domestic fuel prices, and an appellate circuit split emerged over event contracts.",
+        "a": "Duration risk increased following Warsh's remarks, the crude arrangement alters supply dynamics, and the Ninth Circuit ruling creates a direct conflict with the Third Circuit regarding swap definitions."
+      },
+      {
+        "c": "United Kingdom",
+        "b": "Households faced higher energy price caps, grocery shoppers bought cheaper food alternatives, and the government delayed its defence spending target timeline.",
+        "i": "Utility price caps drove household inflation, retail data showed a substitution effect into pulses, and the fiscal target for defence was deferred.",
+        "a": "Regulated tariff adjustments are feeding through to consumer price indices, real income squeezes are altering basket composition via relative price shifts, and fiscal consolidation timelines remain pushed out."
+      },
+      {
+        "c": "Brazil",
+        "b": "British farming groups asked the government to ban meat imports from Brazil over rule differences.",
+        "i": "UK agricultural lobbies petitioned for an import ban on Brazilian meat due to veterinary regulations non-compliance.",
+        "a": "Trade friction is escalating as domestic producers leverage sanitary standards to contest market access for South American agricultural exporters."
+      }
+    ],
+    "thread": {
+      "b": "The common theme connecting these events is how governments and central banks are managing prices, regulations, and spending.",
+      "i": "These events are connected by macroeconomic adjustments involving monetary policy calibration, commodity supply interventions, and regulatory enforcement.",
+      "a": "The underlying transmission mechanism linking these developments is the ongoing friction between policy tightening, supply-side administrative interventions, and regulatory divergence across jurisdictions."
+    }
+  },
+  "countries": {
+    "United States of America": {
+      "iso3": "USA",
+      "label": "United States",
+      "sub": "Warsh signals rate hikes as oil and prediction markets shift",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Federal Reserve Chair Warsh signals potential rate increases",
+          "src": "CNBC · Financial Times",
+          "b": "Federal Reserve leader Kevin Warsh stated that the central bank may need to raise borrowing costs because price growth remains an issue. Bond yields increased as investors reacted to this message.",
+          "i": "Federal Reserve Chairman Kevin Warsh delivered a hawkish address at Jackson Hole, prompting markets to reprice the path of monetary policy. Following comments suggesting that the central bank retains <span class='term' data-t='inflation'>inflation</span> risks, short-term debt instruments sold off, driving yields higher.",
+          "a": "The market reaction to Chair Warsh’s Jackson Hole address indicates a repricing of the terminal rate, as the short end of the curve absorbed hawkish forward guidance. The bearish flattening or steepening pressures reflect risk premia adjustments; a failure of CPI prints to validate these rate hike threats would rapidly compress short-end yields.",
+          "gloss": "inflation",
+          "links": [
+            "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+            "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1"
+          ]
+        },
+        {
+          "t": "United States and Venezuela strike oil arrangement",
+          "src": "Financial Times · CNBC",
+          "b": "The American president announced a joint agreement with Venezuela to take control of a vast amount of oil reserves. The stated goal is to reduce fuel costs for citizens.",
+          "i": "The administration announced a bilateral venture securing majority control over substantial Venezuelan crude reserves. The policy objective targets domestic pump prices through increased supply integration.",
+          "a": "The geopolitical recalibration of supply chains via the Venezuelan asset agreement aims to exert downward pressure on domestic energy input costs. Execution risk hinges on infrastructure rehabilitation and sanctions compliance frameworks.",
+          "links": [
+            "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
+            "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html"
+          ]
+        },
+        {
+          "t": "Appeals court delivers ruling against event prediction contracts",
+          "src": "CNBC",
+          "b": "A federal appeals court decided that sports betting event contracts do not qualify as financial swaps. This decision creates a direct disagreement with a ruling from a different circuit court.",
+          "i": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts fall outside the legal definition of swaps. This decision creates an explicit circuit split with a prior April ruling from the Third Circuit.",
+          "a": "The Ninth Circuit's rejection of event contracts as regulatory-compliant swaps creates a direct jurisdictional divergence with the Third Circuit. This legal fracture elevates the probability of a Supreme Court certiorari petition to resolve derivatives oversight authority.",
+          "links": [
+            "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Legal battles continue as a federal court rejected an effort to move a conviction case into the federal system.",
+        "i": "The legal challenges facing the administration persist following a judicial denial to transfer a state-level conviction into federal jurisdiction.",
+        "a": "The denial of the transfer motion leaves the state-level conviction exposed to local sentencing dynamics without federal preemption remedies.",
+        "sources": {
+          "0": {
+            "outlet": "CNBC",
+            "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html"
+          }
+        }
+      },
+      "timeline": [
+        [
+          "2 Mar",
+          "National average gas price was last below three dollars per gallon"
+        ],
+        [
+          "Jul",
+          "Apple raised prices for Apple Music citing licensing expenses"
+        ],
+        [
+          "28 Aug",
+          "Kevin Warsh delivered his keynote address at Jackson Hole"
+        ]
+      ]
+    },
+    "United Kingdom": {
+      "iso3": "GBR",
+      "label": "United Kingdom",
+      "sub": "Budget pressures, energy tariffs and household savings",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Energy tariffs rise as consumers seek savings",
+          "src": "Guardian Business",
+          "b": "Domestic energy tariffs are climbing, but households can lower their annual bills by moving to a fixed tariff plan. Families face higher utility charges as price caps increase.",
+          "i": "Households are facing rising <span class='term' data-t='inflation'>inflation</span> in utility expenses driven by forthcoming price cap adjustments. Consumers can mitigate these cost increases by transitioning to fixed-rate energy contracts.",
+          "a": "The persistence of elevated utility tariffs alters household disposable income dynamics, forcing a reallocation of consumer expenditure. Market pricing for forward energy delivery directly influences the yields demanded across sovereign debt instruments like <span class='term' data-t='gilt'>gilts</span> if consumer spending contracts materially.",
+          "gloss": "inflation",
+          "links": [
+            "https://www.theguardian.com/money/2026/aug/29/households-could-save-up-to-173-a-year-by-switching-to-fixed-energy-deal"
+          ]
+        },
+        {
+          "t": "Consumer spending shifts towards pulses amid tight budgets",
+          "src": "Guardian Business",
+          "b": "British shoppers are buying more legumes, such as beans and lentils, while purchasing less meat and plant-based meat alternatives to cut down on food costs.",
+          "i": "Retail volume data indicates a substitution effect in grocery baskets, with sales of pulses and soya derivatives rising while expenditures on meat products decline.",
+          "a": "The structural increase in legume sales reflects real income compression among retail consumers. This behavioral shift signals margin pressure across traditional meat supply chains and provides a leading indicator for core grocery pricing trends.",
+          "links": [
+            "https://www.theguardian.com/food/2026/aug/28/bean-lentil-sales-british-save-money-improve-diet"
+          ]
+        },
+        {
+          "t": "Chancellor defers timeline for defence spending target",
+          "src": "Guardian Business",
+          "b": "The Treasury confirmed that the chancellor will delay setting a deadline for reaching the three percent defence spending goal until next year's spending review.",
+          "i": "Fiscal authorities have chosen to postpone the implementation roadmap for the three percent gross domestic product defence allocation target, deferring fiscal commitments to the subsequent spending review.",
+          "a": "Deferring the structural fiscal targets indicates near-term budgetary constraints facing the administration. Financial markets will price this delay into sovereign issuance expectations, monitoring how fiscal slippage affects overall <span class='term' data-t='carry'>carry</span> costs for government debt.",
+          "gloss": "carry",
+          "links": [
+            "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Prime Minister Andy Burnham and his chancellor face severe budget difficulties due to worsening economic conditions and unfulfilled spending pledges.",
+        "i": "The administration confronts a challenging fiscal landscape ahead of the budget, constrained by previous tax promises and unhedged spending commitments.",
+        "a": "Eroding fiscal headroom severely limits the policy optionality of the executive branch. The divergence between political promises and macroeconomic reality increases sovereign risk premiums embedded in long-duration debt.",
+        "sources": {
+          "0": {
+            "outlet": "Guardian Business",
+            "url": "https://www.theguardian.com/uk-news/2026/aug/29/andy-burnham-john-healey-autumn-budget-2026-challenges"
+          },
+          "1": {
+            "outlet": "Guardian Business",
+            "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget"
+          }
+        }
+      },
+      "timeline": [
+        [
+          "28 Aug",
+          "The Treasury confirmed that the defence spending target roadmap would be delayed until next year."
+        ],
+        [
+          "29 Aug",
+          "Reports highlighted that millions of households faced higher energy charges as upcoming price caps approached."
+        ]
+      ]
+    },
+    "Brazil": {
+      "iso3": "BRA",
+      "label": "Brazil",
+      "sub": "British farming bodies seek block on Brazilian meat",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Agricultural groups press for ban on Brazilian meat imports",
+          "src": "Guardian Business",
+          "b": "Farming unions in the United Kingdom want authorities to stop importing meat from Brazil. They claim Brazil cannot prove it follows strict European Union standards regarding antibiotic use in farm animals.",
+          "i": "Agricultural organisations in the UK have petitioned the government to halt meat shipments from Brazil, citing the South American exporter's inability to satisfy European Union <span class='term' data-t='inflation'>regulations</span> governing veterinary antibiotic administration in livestock production.",
+          "a": "Domestic agricultural lobbies are attempting to leverage phytosanitary compliance disputes to alter bilateral trade flows, weaponising antibiotic tracking gaps to challenge market access for Latin American proteins.",
+          "links": [
+            "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Farming representatives are lobbying government officials regarding food standards.",
+        "i": "Industry stakeholders are engaging administrative channels to influence import restrictions.",
+        "a": "Non-state actors are attempting to shape regulatory barriers through coordinated political pressure on devolved agricultural departments."
+      },
+      "timeline": [
+        [
+          "28 Aug 2026",
+          "Farming organisations urged a ban on Brazilian meat imports over antibiotic concerns."
+        ]
+      ]
+    }
+  }
+}

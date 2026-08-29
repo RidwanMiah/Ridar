@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ridar — markets on your radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/d3@7.9.0/dist/d3.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/topojson-client@3.1.0/dist/topojson-client.min.js" integrity="sha384-Ukv1p/xTma6P4/2bY5KzWBw+ydSpXmhCMtyciIQVDJ1RmOxtCYNMF1uXT9T63H67" crossorigin="anonymous"></script>
+<style>
+  :root{
+    --beige:#FFF1E5;
+    --beige-2:#FBE9DA;
+    --paper:#FFFAF4;
+    --red:#8A0E1F;
+    --red-deep:#5C0A16;
+    --ink:#1F1A17;
+    --muted:#7A6A5F;
+    --rule:#E4D0BE;
+    --land:#CBA88E;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%}
+  body{
+    background:var(--beige);color:var(--ink);
+    font-family:"IBM Plex Sans",Helvetica,Arial,sans-serif;
+    font-size:15px;line-height:1.5;text-wrap:pretty;
+    overflow:hidden;
+  }
+  a{color:var(--red);text-decoration:none;border-bottom:1px solid rgba(138,14,31,.3)}
+  a:hover{color:var(--red-deep);border-bottom-color:var(--red-deep)}
+  .mono{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+  h1,h2,h3{font-family:"Source Serif 4",Georgia,serif;font-weight:600;margin:0;line-height:1.15}
+
+  /* ---------- shell ---------- */
+  #app{display:grid;grid-template-rows:auto 1fr;height:100%}
+  header{
+    display:flex;align-items:center;gap:28px;
+    padding:14px 26px;border-bottom:1px solid var(--rule);flex-wrap:wrap;row-gap:12px;
+    background:var(--beige);
+  }
+  .brand{display:flex;align-items:baseline;gap:10px}
+  .brand h1{font-size:22px;letter-spacing:-.01em}
+  .brand .mono{font-size:10px}
+  .spacer{flex:1}
+  .levels{display:flex;gap:0;flex:0 0 auto;min-width:max-content;border:1px solid var(--rule);border-radius:2px;overflow:hidden;background:var(--paper)}
+  .hstat,.brand,#savedBtn,#quizBtn{flex:0 0 auto}
+  @media (max-width:1200px){header{gap:18px} #lvlLabel{display:none}}
+  .levels button{
+    font:500 12px/1 "IBM Plex Sans",sans-serif;letter-spacing:.02em;
+    padding:9px 14px;border:0;background:transparent;color:var(--muted);cursor:pointer;
+    border-right:1px solid var(--rule);
+  }
+  .levels button:last-child{border-right:0}
+  .levels button[aria-pressed="true"]{background:var(--red);color:#fff}
+  .hstat{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--muted)}
+  .hstat b{font-family:"Source Serif 4",serif;font-size:18px;color:var(--ink);font-weight:600}
+  .btn{
+    font:600 13px/1 "IBM Plex Sans",sans-serif;padding:11px 16px;border-radius:2px;cursor:pointer;
+    border:1px solid var(--red);background:var(--red);color:#fff;
+  }
+  .btn:hover{background:var(--red-deep);border-color:var(--red-deep)}
+  .btn.ghost{background:transparent;color:var(--red)}
+  .btn.ghost:hover{background:rgba(138,14,31,.07);color:var(--red-deep)}
+
+  main{display:grid;grid-template-columns:1fr 460px;min-height:0}
+  @media (max-width:1100px){main{grid-template-columns:1fr 400px}}
+
+  /* ---------- globe ---------- */
+  #stage{position:relative;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  #globe{display:block;cursor:grab;touch-action:none}
+  #globe.dragging{cursor:grabbing}
+  .stage-note{position:absolute;left:26px;bottom:20px;max-width:280px}
+  .stage-note p{margin:6px 0 0;font-size:12.5px;color:var(--muted);line-height:1.45}
+  .legend{position:absolute;right:26px;bottom:20px;display:flex;flex-direction:column;gap:7px;align-items:flex-end}
+  .legend div{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
+  .swatch{width:11px;height:11px;border-radius:2px;border:1px solid var(--red)}
+  #tooltip{
+    position:absolute;pointer-events:none;opacity:0;transition:opacity .12s;
+    background:var(--ink);color:var(--beige);padding:5px 9px;border-radius:2px;
+    font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.05em;white-space:nowrap;
+  }
+  .country{cursor:pointer}
+
+  /* ---------- panel ---------- */
+  #panel{
+    border-left:1px solid var(--rule);background:var(--paper);
+    overflow-y:auto;padding:26px 28px 60px;
+  }
+  #panel::-webkit-scrollbar{width:9px}
+  #panel::-webkit-scrollbar-thumb{background:var(--rule);border-radius:9px}
+  .empty h2{font-size:26px;margin-bottom:10px}
+  .empty p{color:var(--muted);font-size:14px;max-width:34ch}
+  .quick{margin-top:22px;display:flex;flex-wrap:wrap;gap:8px}
+  .chip{
+    font:500 12.5px/1 "IBM Plex Sans",sans-serif;padding:8px 12px;cursor:pointer;
+    border:1px solid var(--rule);background:#fff;color:var(--ink);border-radius:2px;
+  }
+  .chip:hover{border-color:var(--red);color:var(--red)}
+  .digest{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+  .digest li{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;font-size:14px;line-height:1.5}
+  .digest .chip{padding:5px 9px;font-size:11.5px;white-space:nowrap}
+
+  .p-head{display:flex;align-items:flex-start;gap:12px;justify-content:space-between}
+  .p-head h2{font-size:30px;letter-spacing:-.015em}
+  .close{border:0;background:none;font-size:20px;color:var(--muted);cursor:pointer;line-height:1;padding:4px}
+  .close:hover{color:var(--red)}
+  .p-sub{margin:4px 0 0;font-size:13px;color:var(--muted)}
+
+  .indicators{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);margin:20px 0 4px}
+  .ind{background:#fff;padding:11px 12px}
+  .ind .mono{font-size:9.5px;display:block;margin-bottom:5px}
+  .ind .v{font-family:"Source Serif 4",serif;font-size:19px;font-weight:600}
+  .ind .d{font-family:"IBM Plex Mono",monospace;font-size:11px;margin-top:2px}
+  .up{color:#1F6B4A}.down{color:var(--red)}
+
+  section.block{margin-top:26px;padding-top:20px;border-top:1px solid var(--rule)}
+  section.block > .mono{display:block;margin-bottom:12px}
+  .story{margin-bottom:22px}
+  .story h3{font-size:19px;margin-bottom:7px}
+  .story p{margin:0 0 8px;font-size:14.5px;line-height:1.55}
+  .story .src{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.07em;color:var(--muted);text-transform:uppercase}
+  .term{
+    border-bottom:1px dotted var(--red);color:var(--red-deep);cursor:help;position:relative;
+  }
+  .gloss{
+    display:none;margin:8px 0 12px;padding:10px 12px;background:var(--beige-2);
+    border-left:2px solid var(--red);font-size:13.5px;line-height:1.5;
+  }
+  .gloss.show{display:block}
+  .gloss b{font-weight:600}
+  .timeline{list-style:none;margin:0;padding:0}
+  .timeline li{display:grid;grid-template-columns:78px 1fr;gap:12px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:13.5px}
+  .timeline li:last-child{border-bottom:0}
+  .timeline .mono{font-size:10.5px;padding-top:3px}
+  .brief p{margin:0;font-size:14.5px;line-height:1.55}
+  .cta{margin-top:26px;display:flex;gap:10px}
+
+  /* ---------- quiz ---------- */
+  #quiz{
+    position:fixed;inset:0;background:rgba(31,26,23,.5);
+    display:none;align-items:center;justify-content:center;padding:24px;z-index:20;
+  }
+  #quiz.open{display:flex}
+  .qcard{
+    width:min(680px,100%);max-height:88vh;overflow-y:auto;background:var(--beige);
+    border-radius:3px;padding:30px 34px 34px;box-shadow:0 24px 60px rgba(31,26,23,.3);
+  }
+  .qtop{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+  .qbar{height:3px;background:var(--rule);margin:0 0 24px}
+  .qbar i{display:block;height:3px;background:var(--red);transition:width .3s}
+  .qcard h2{font-size:24px;margin-bottom:6px}
+  .qtag{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.08em;color:var(--muted);text-transform:uppercase;margin-bottom:14px}
+  .qprompt{font-family:"Source Serif 4",serif;font-size:21px;line-height:1.35;margin:0 0 20px}
+  .opts{display:flex;flex-direction:column;gap:9px}
+  .opt{
+    text-align:left;font:400 14.5px/1.45 "IBM Plex Sans",sans-serif;padding:13px 15px;cursor:pointer;
+    background:var(--paper);border:1px solid var(--rule);border-radius:2px;color:var(--ink);
+  }
+  .opt:hover:not(:disabled){border-color:var(--red)}
+  .opt:disabled{cursor:default}
+  .opt.correct{border-color:#1F6B4A;background:#EEF6F1;box-shadow:inset 3px 0 0 #1F6B4A}
+  .opt.wrong{border-color:var(--red);background:#FBEAEC;box-shadow:inset 3px 0 0 var(--red)}
+  .feedback{margin-top:18px;padding:14px 16px;background:var(--paper);border-left:2px solid var(--red);font-size:14px;line-height:1.55;display:none}
+  .feedback.show{display:block}
+  .feedback b{display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+  .qfoot{display:flex;justify-content:space-between;align-items:center;margin-top:22px}
+  .score{font-family:"Source Serif 4",serif;font-size:52px;font-weight:600;line-height:1;margin:10px 0 4px}
+  .saved-list{list-style:none;margin:10px 0 0;padding:0}
+  .saved-list li{padding:10px 0;border-bottom:1px solid var(--rule);font-size:14px;display:flex;justify-content:space-between;gap:12px}
+  .saved-list button{border:0;background:none;color:var(--muted);cursor:pointer;font-size:16px}
+  .saved-list button:hover{color:var(--red)}
+
+  /* ---------- auth ---------- */
+  .tabs{display:flex;gap:22px;border-bottom:1px solid var(--rule);margin:0 0 22px}
+  .tabs button{
+    border:0;background:none;cursor:pointer;padding:0 0 10px;margin-bottom:-1px;
+    font:600 14px/1 "IBM Plex Sans",sans-serif;color:var(--muted);border-bottom:2px solid transparent;
+  }
+  .tabs button[aria-selected="true"]{color:var(--red);border-bottom-color:var(--red)}
+  .field{display:block;margin-bottom:14px}
+  .field span{display:block;font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+  .field input{
+    width:100%;padding:12px 13px;font:400 15px/1.3 "IBM Plex Sans",sans-serif;color:var(--ink);
+    background:var(--paper);border:1px solid var(--rule);border-radius:2px;
+  }
+  .field input:focus{outline:none;border-color:var(--red)}
+  .err{color:var(--red);font-size:13px;margin:0 0 12px;min-height:18px}
+  .authrow{display:flex;align-items:center;gap:14px;margin-top:6px}
+  .link{border:0;background:none;color:var(--muted);cursor:pointer;font:400 13.5px/1 "IBM Plex Sans",sans-serif;text-decoration:underline}
+  .link:hover{color:var(--red)}
+  .acct{display:flex;align-items:center;gap:9px;border:1px solid var(--rule);background:var(--paper);border-radius:2px;padding:6px 12px 6px 7px;cursor:pointer;font:500 13px/1 "IBM Plex Sans",sans-serif;color:var(--ink)}
+  .acct:hover{border-color:var(--red)}
+  .avatar{width:26px;height:26px;border-radius:50%;background:var(--red);color:#fff;display:grid;place-items:center;font-family:"Source Serif 4",serif;font-size:13px;font-weight:600}
+  .hist{list-style:none;margin:10px 0 0;padding:0}
+  .hist li{display:grid;grid-template-columns:82px 1fr auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:13.5px;align-items:baseline}
+  .hist li:last-child{border-bottom:0}
+  .hist b{font-family:"Source Serif 4",serif;font-size:16px}
+</style>
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="brand">
+      <h1>Ridar</h1>
+      <span class="mono">Markets on your radar</span>
+    </div>
+    <span class="mono" id="freshness" title="Where this briefing came from">Sample data</span>
+    <div class="spacer"></div>
+    <span class="mono" id="lvlLabel">Explanation level</span>
+    <div class="levels" id="levels">
+      <button data-lvl="b" aria-pressed="true">Beginner</button>
+      <button data-lvl="i" aria-pressed="false">Intermediate</button>
+      <button data-lvl="a" aria-pressed="false">Advanced</button>
+    </div>
+    <div class="hstat" title="Consecutive days with a completed quiz">
+      <span class="mono">Streak</span><b id="streak">0</b>
+    </div>
+    <button class="acct" id="acctBtn"><span class="avatar" id="avatar">G</span><span id="acctName">Guest</span></button>
+    <button class="btn ghost" id="savedBtn">Saved <span id="savedN">(0)</span></button>
+    <button class="btn" id="quizBtn">Daily quiz</button>
+  </header>
+
+  <main>
+    <div id="stage">
+      <svg id="globe"></svg>
+      <div id="tooltip"></div>
+      <div class="stage-note">
+        <span class="mono">Drag to rotate · click a country</span>
+        <p>Ten markets are briefed today. Summaries are condensed from the Financial Times, Bloomberg, Reuters and central bank releases.</p>
+      </div>
+      <div class="legend">
+        <div><span class="swatch" style="background:rgba(138,14,31,.22)"></span> Briefed today</div>
+        <div><span class="swatch" style="background:transparent;border-color:var(--land)"></span> No briefing yet</div>
+      </div>
+    </div>
+    <aside id="panel"></aside>
+  </main>
+</div>
+
+<div id="quiz"><div class="qcard" id="qcard"></div></div>
+<div id="auth" style="position:fixed;inset:0;background:rgba(31,26,23,.55);display:none;align-items:center;justify-content:center;padding:24px;z-index:30"><div class="qcard" id="authcard" style="width:min(460px,100%)"></div></div>
+
+<script>
+/* ============ content ============ */
+const LEVEL_NAMES = {b:"Beginner", i:"Intermediate", a:"Advanced"};
+let level = localStorage.getItem("mrd_level") || "b";
+
+let COUNTRIES = {
+  "United States of America": {
+    label:"United States", sub:"Rates, tech earnings, election-year fiscal policy",
+    ind:[{k:"S&P 500",v:"5,214",d:"+0.8%",up:true},{k:"10-yr Treasury",v:"4.21%",d:"+6bp",up:false},{k:"Fed funds",v:"4.75%",d:"held",up:null}],
+    stories:[
+      { t:"Fed holds rates, signals one cut before year end",
+        src:"Financial Times · Bloomberg · 2 hrs ago",
+        b:"The US central bank decided to leave interest rates where they are. Rates are the cost of borrowing money, so holding them steady means loans and mortgages stay about as expensive as last month. The Fed hinted it may lower rates once later this year if <span class='term' data-t='inflation'>inflation</span> keeps falling.",
+        i:"The FOMC held the target range at 4.50–4.75% and the median dot now implies a single 25bp cut by December. Officials flagged sticky services inflation as the main obstacle; two-year yields fell 4bp on the statement before reversing on the press conference.",
+        a:"A hold with a hawkish-leaning dot plot: the 2026 median moved to one cut, and the statement dropped its reference to \"further progress\". The curve bear-flattened as the market priced terminal drift rather than a cutting cycle — front-end OIS now discounts 21bp by December against 44bp a month ago.",
+        gloss:"inflation"
+      },
+      { t:"Chipmaker earnings beat, but guidance disappoints",
+        src:"Bloomberg · Reuters · 5 hrs ago",
+        b:"A large semiconductor company earned more money last quarter than analysts expected. But it told investors that next quarter will be weaker than they hoped, and the share price fell. Markets react to expectations, not just results.",
+        i:"Q2 revenue came in 4% above consensus on datacentre demand, but Q3 guidance landed below the street on softer PC and handset volumes. The stock fell 6% after hours — a classic beat-and-lower reaction.",
+        a:"Beat-and-lower: gross margin expanded 180bp on mix, but the guide implies flat sequential datacentre revenue, suggesting hyperscaler digestion rather than demand destruction. At 28x forward the multiple leaves no room for a decelerating growth path."
+      }
+    ],
+    politics:{
+      b:"It is an election year, so politicians are arguing about tax and spending. That matters to markets because government borrowing affects the price of government debt, and tax rules affect company profits.",
+      i:"Fiscal policy is the dominant political risk: both parties have proposed spending packages that widen the deficit, and Treasury issuance guidance is now a market event in its own right. Tariff policy is the second axis, with implications for import-heavy retailers.",
+      a:"The fiscal path is the binding constraint. With deficits near 6% of GDP at full employment, the term premium is doing the disciplining that policy is not; duration supply and any shift in the tariff regime are the two channels through which the political calendar reaches asset prices."
+    },
+    timeline:[["12 Aug","CPI prints 2.9%, third consecutive decline"],["19 Aug","Treasury raises quarterly issuance guidance"],["27 Aug","FOMC holds; dot plot shows one cut"],["28 Aug","Semiconductor guidance miss drags Nasdaq 1.4%"]]
+  },
+  "United Kingdom": {
+    label:"United Kingdom", sub:"Gilts, the Budget, and a cooling labour market",
+    ind:[{k:"FTSE 100",v:"8,402",d:"+0.3%",up:true},{k:"GBP/USD",v:"1.286",d:"−0.4%",up:false},{k:"Bank Rate",v:"4.00%",d:"−25bp",up:null}],
+    stories:[
+      { t:"Bank of England cuts, but warns on wage growth",
+        src:"Financial Times · 1 day ago",
+        b:"The Bank of England lowered its main interest rate by a quarter of a percentage point, making borrowing slightly cheaper. It warned that wages are still rising quickly, which can keep prices rising too, so further cuts are not guaranteed.",
+        i:"A 6–3 vote took Bank Rate to 4.00%. The MPC kept its \"gradual and careful\" language and revised its wage growth forecast up, which the market read as a signal that November is live but not priced.",
+        a:"The split vote and upgraded pay path make this a reluctant cut. With private-sector regular pay near 5% and productivity flat, the implied unit labour cost path is inconsistent with target; the curve prices only 30bp more easing over twelve months."
+      },
+      { t:"Chancellor faces a fiscal gap before the autumn Budget",
+        src:"Financial Times · Reuters · 3 days ago",
+        b:"The government has less room to spend than it planned, because tax income came in lower and debt interest costs more. It will have to raise taxes, cut spending, or borrow more — and <span class='term' data-t='gilt'>gilt</span> investors are watching which.",
+        i:"OBR headroom against the fiscal rules has narrowed to an estimated £15bn, with debt interest the largest single driver. Speculation centres on threshold freezes rather than headline rate rises.",
+        a:"Headroom of roughly 0.4% of GDP is inside forecast error, so the Budget is effectively a credibility exercise. The gilt market's sensitivity is to the composition of consolidation and the DMO remit at the long end, not the headline number.",
+        gloss:"gilt"
+      }
+    ],
+    politics:{
+      b:"The government is preparing its Budget, the yearly announcement of tax and spending plans. Businesses pay close attention because it changes their costs.",
+      i:"The autumn Budget is the fulcrum. Employment tax, capital allowances and business rates reform are all in scope, and the fiscal rules constrain the size of any giveaway.",
+      a:"Budget risk is asymmetric for domestic cyclicals: consolidation weighted towards employer taxes hits labour-intensive services, while any loosening of the fiscal rules would be tested immediately in the long end of the gilt curve."
+    },
+    timeline:[["05 Aug","Bank Rate cut to 4.00%, 6–3 vote"],["14 Aug","Unemployment rises to 4.7%"],["21 Aug","Borrowing overshoots OBR forecast"],["26 Aug","Budget date confirmed for late November"]]
+  },
+  "Germany": {
+    label:"Germany", sub:"Industrial weakness, ECB policy, energy costs",
+    ind:[{k:"DAX",v:"18,940",d:"+0.6%",up:true},{k:"Bund 10-yr",v:"2.44%",d:"−3bp",up:true},{k:"ECB deposit",v:"2.00%",d:"held",up:null}],
+    stories:[
+      { t:"Manufacturing orders fall for a fourth month",
+        src:"Bloomberg · Reuters · 6 hrs ago",
+        b:"German factories received fewer new orders again. Germany sells a lot of machinery and cars abroad, so weak orders usually mean weaker growth across Europe as well.",
+        i:"Factory orders fell 1.8% m/m, with capital goods the weakest component. The manufacturing PMI remains below 50, and the drag is now visible in euro area industrial production.",
+        a:"The order-to-inventory ratio points to another quarter of destocking rather than a trough. With energy-intensive output structurally lower and Chinese import substitution advancing, this reads as a level shift in industrial capacity, not a cyclical dip."
+      },
+      { t:"Government loosens investment rules for infrastructure",
+        src:"Financial Times · 2 days ago",
+        b:"Germany usually limits how much it borrows. It has agreed to allow more borrowing specifically to pay for roads, rail and power grids — money spent now to make the economy work better later.",
+        i:"A carve-out from the debt brake creates a multi-year investment vehicle for grid and transport spending. Construction and capital goods names rallied on the announcement.",
+        a:"Off-balance-sheet investment vehicles preserve the debt brake's optics while raising the effective fiscal impulse. The macro relevance is duration: a credible multi-year capex path steepens the Bund curve and lifts the euro area neutral rate."
+      }
+    ],
+    politics:{
+      b:"The governing coalition disagrees about how much to borrow. That affects how much support German industry gets.",
+      i:"Coalition arithmetic constrains fiscal policy: the debt brake remains politically untouchable, so support arrives through vehicles and guarantees rather than headline spending.",
+      a:"Fragmented coalition politics converts fiscal policy into an institutional design problem. Watch constitutional challenges to the investment vehicle — they are the transmission channel from politics to the Bund curve."
+    },
+    timeline:[["07 Aug","Industrial production −0.9% m/m"],["18 Aug","Ifo expectations index slips again"],["25 Aug","Infrastructure investment vehicle agreed"],["28 Aug","Factory orders fall fourth month"]]
+  },
+  "Japan": {
+    label:"Japan", sub:"Normalising rates after decades of deflation",
+    ind:[{k:"Nikkei 225",v:"39,120",d:"+1.1%",up:true},{k:"USD/JPY",v:"148.6",d:"−0.7%",up:true},{k:"BoJ policy",v:"0.75%",d:"+25bp",up:null}],
+    stories:[
+      { t:"Bank of Japan raises rates to a 30-year high",
+        src:"Bloomberg · Financial Times · 1 day ago",
+        b:"For decades Japan kept interest rates near zero because prices were barely rising. Now prices and wages are rising, so the central bank has raised rates — a big change for global investors who borrowed cheaply in yen.",
+        i:"The BoJ lifted the policy rate to 0.75% and trimmed its JGB purchase schedule. The yen strengthened 0.7%, tightening the <span class='term' data-t='carry'>carry trade</span> that funds positions in higher-yielding markets.",
+        a:"Normalisation is now a balance-sheet story as much as a rate story: taper pace determines the JGB term premium, and the yen leg matters globally because yen funding costs sit under a large stock of cross-border carry positions.",
+        gloss:"carry"
+      }
+    ],
+    politics:{
+      b:"Japan's government wants companies to keep raising wages, so that higher prices don't leave households worse off.",
+      i:"Policy is coordinated around a wage-price virtuous cycle: the spring wage round is treated as a de facto policy instrument alongside corporate governance reform.",
+      a:"The political economy of normalisation depends on wage settlements outpacing CPI; if shuntō momentum fades, the BoJ loses its cover to tighten and the fiscal cost of higher JGB yields becomes the binding issue."
+    },
+    timeline:[["01 Aug","Core CPI holds at 2.4%"],["15 Aug","Q2 GDP revised up to 0.5% q/q"],["27 Aug","BoJ raises policy rate to 0.75%"],["28 Aug","Yen hits three-month high"]]
+  },
+  "China": {
+    label:"China", sub:"Property drag, stimulus, and export competition",
+    ind:[{k:"CSI 300",v:"3,688",d:"−0.5%",up:false},{k:"USD/CNY",v:"7.14",d:"+0.2%",up:false},{k:"1-yr LPR",v:"3.05%",d:"−10bp",up:null}],
+    stories:[
+      { t:"Property developers get a further funding backstop",
+        src:"Reuters · Bloomberg · 8 hrs ago",
+        b:"Chinese housebuilders have struggled to repay debt, and unfinished homes hurt consumer confidence. The state has offered more funding to complete projects, which supports growth but does not fix the underlying oversupply.",
+        i:"A new relending facility expands completion financing for stalled projects. Steel and cement futures rallied, though new starts remain roughly 60% below their 2021 peak.",
+        a:"Completion financing addresses the flow, not the stock. Without household balance-sheet repair, credit demand stays weak and policy has to run through the state sector — which is why the fiscal impulse shows up in industrial capacity rather than consumption."
+      },
+      { t:"Export prices fall as manufacturers chase volume",
+        src:"Financial Times · 2 days ago",
+        b:"Chinese factories are cutting prices to sell more abroad. Cheaper goods help buyers but squeeze competitors in Europe and Asia, which is why tariffs keep coming up in politics.",
+        i:"Export unit values fell again while volumes rose, exporting <span class='term' data-t='deflation'>deflation</span> to trade partners and strengthening the case for EU trade defence measures.",
+        a:"Deflationary export pricing is the release valve for excess domestic capacity. It compresses tradable-goods margins globally and, mechanically, lowers imported goods inflation in the US and euro area — a disinflationary offset central banks are quietly relying on.",
+        gloss:"deflation"
+      }
+    ],
+    politics:{
+      b:"The government sets growth targets and directs banks and state companies to help meet them. Trade tensions with the US and Europe are the main external risk.",
+      i:"Policy priorities favour manufacturing upgrading over household transfers, which sustains the export impulse and therefore trade friction with the EU and US.",
+      a:"The stated growth target is a political commitment, so the marginal policy response is always supply-side. That makes trade defence measures abroad the main second-order risk to the export channel."
+    },
+    timeline:[["09 Aug","CPI flat y/y, PPI negative"],["16 Aug","LPR cut by 10bp"],["24 Aug","EU opens trade investigation"],["28 Aug","Property relending facility expanded"]]
+  },
+  "India": {
+    label:"India", sub:"Fast growth, capital inflows, monsoon-sensitive inflation",
+    ind:[{k:"Nifty 50",v:"24,860",d:"+0.9%",up:true},{k:"USD/INR",v:"83.4",d:"flat",up:null},{k:"RBI repo",v:"6.00%",d:"−25bp",up:null}],
+    stories:[
+      { t:"Bond index inclusion keeps foreign money flowing in",
+        src:"Bloomberg · 1 day ago",
+        b:"India's government bonds were added to major global indices, so funds that track those indices must buy them. That lowers the government's borrowing costs and supports the currency.",
+        i:"Passive inflows since inclusion have compressed the 10-year yield by roughly 40bp. The RBI has been absorbing dollars, building reserves rather than allowing rupee appreciation.",
+        a:"Index inclusion changes the marginal buyer of duration and lowers the sovereign's funding cost, but it also imports global rate beta. Reserve accumulation is the sterilisation channel, with the domestic liquidity consequences that implies."
+      }
+    ],
+    politics:{
+      b:"The government is spending heavily on roads, ports and power, and wants more factories to move to India.",
+      i:"Capex-led fiscal policy plus production-linked incentives aim to capture supply-chain diversification, while state-level politics shapes land and labour reform.",
+      a:"The growth model relies on public capex crowding in private investment. The test is whether private capex broadens beyond incentive-linked sectors before the fiscal impulse fades."
+    },
+    timeline:[["06 Aug","RBI cuts repo to 6.00%"],["13 Aug","CPI at 4.1% on softer food prices"],["22 Aug","Record monthly passive bond inflows"],["27 Aug","Capex data beats estimates"]]
+  },
+  "Brazil": {
+    label:"Brazil", sub:"High real rates, commodity exports, fiscal credibility",
+    ind:[{k:"Ibovespa",v:"131,400",d:"+0.4%",up:true},{k:"USD/BRL",v:"5.42",d:"−0.3%",up:true},{k:"Selic",v:"10.50%",d:"held",up:null}],
+    stories:[
+      { t:"Central bank pauses cuts as fiscal doubts resurface",
+        src:"Reuters · Financial Times · 2 days ago",
+        b:"Brazil's interest rates are among the highest in the world. The central bank stopped cutting them because investors are worried the government will overspend, which can push prices up again.",
+        i:"Copom held Selic at 10.50% and hardened its language on fiscal risk. Breakeven inflation widened, and the real underperformed its commodity peers.",
+        a:"With real ex-ante rates near 6%, the constraint is not monetary but institutional: the fiscal framework's credibility sets the risk premium, and every target revision raises the neutral rate the bank must respect."
+      }
+    ],
+    politics:{
+      b:"Politicians are debating spending rules. Brazil sells iron ore, soy and oil, so global demand — especially from China — matters a lot.",
+      i:"The fiscal framework's primary surplus targets are repeatedly revised, and congressional bargaining over earmarked spending drives the risk premium.",
+      a:"Fiscal dominance risk is the pricing variable. Commodity terms of trade provide a buffer, but the correlation between target revisions and the long end of the local curve has strengthened materially."
+    },
+    timeline:[["08 Aug","IPCA inflation at 4.3%"],["20 Aug","Primary surplus target revised"],["26 Aug","Copom holds Selic at 10.50%"],["28 Aug","Iron ore rallies on China stimulus"]]
+  },
+  "Saudi Arabia": {
+    label:"Saudi Arabia", sub:"Oil policy, diversification spending, IPO pipeline",
+    ind:[{k:"Tadawul",v:"11,720",d:"−0.2%",up:false},{k:"Brent",v:"$78.4",d:"+1.3%",up:true},{k:"Repo",v:"5.25%",d:"held",up:null}],
+    stories:[
+      { t:"OPEC+ extends production restraint into next quarter",
+        src:"Bloomberg · Reuters · 4 hrs ago",
+        b:"A group of oil-producing countries agreed to keep pumping less oil than they could, to keep prices from falling. Higher oil prices help their budgets but raise costs elsewhere.",
+        i:"Voluntary cuts were rolled over, keeping Saudi output near 9mb/d. Brent rallied 1.3%; the fiscal breakeven remains above the current price, implying continued deficit financing.",
+        a:"Extending restraint defends price at the cost of market share and spare capacity optics. With a fiscal breakeven in the high-$80s, the kingdom is choosing debt issuance over volume — supportive for crude, and a supply overhang risk if cohesion fails."
+      }
+    ],
+    politics:{
+      b:"The country is spending oil money on new industries — tourism, sport, technology — to depend less on oil in future.",
+      i:"Vision 2030 giga-projects are being re-phased as capital costs rise, with the sovereign fund shifting towards partnerships and domestic listings.",
+      a:"Capital allocation discipline is the story: project re-phasing plus a deeper local debt market suggests the PIF is optimising for funding cost rather than headline delivery dates."
+    },
+    timeline:[["10 Aug","Q2 budget deficit widens"],["19 Aug","Two giga-projects re-phased"],["25 Aug","Sovereign issues dollar bonds"],["28 Aug","OPEC+ extends voluntary cuts"]]
+  },
+  "Nigeria": {
+    label:"Nigeria", sub:"Reform, currency liberalisation, inflation",
+    ind:[{k:"NGX All-Share",v:"98,300",d:"+0.7%",up:true},{k:"USD/NGN",v:"1,540",d:"−1.1%",up:false},{k:"Policy rate",v:"26.75%",d:"held",up:null}],
+    stories:[
+      { t:"Naira stabilises after a year of reform",
+        src:"Financial Times · 3 days ago",
+        b:"Nigeria used to control the value of its currency artificially. It let the market set the price instead, which caused a sharp fall and high inflation, but foreign investors are returning.",
+        i:"FX liberalisation and fuel subsidy removal have restored portfolio inflows, though headline inflation above 30% continues to compress real incomes.",
+        a:"The reform sequence traded a short-run inflation shock for external balance. Sustainability depends on non-oil FX earnings and whether the central bank can maintain positive real rates through the disinflation path."
+      }
+    ],
+    politics:{
+      b:"Removing fuel subsidies made petrol much more expensive, which is politically difficult even though it saves government money.",
+      i:"Subsidy reform and FX unification are politically costly but fiscally necessary; state-level revenue sharing shapes how the adjustment is absorbed.",
+      a:"Reform durability is the variable investors price. The window for consolidation narrows as real income compression accumulates political cost."
+    },
+    timeline:[["11 Aug","Inflation eases to 32.1%"],["18 Aug","Reserves rise on portfolio inflows"],["23 Aug","Fuel price adjustment announced"],["27 Aug","MPC holds at 26.75%"]]
+  },
+  "Australia": {
+    label:"Australia", sub:"Commodity exports and a stubborn services inflation problem",
+    ind:[{k:"ASX 200",v:"7,980",d:"+0.2%",up:true},{k:"AUD/USD",v:"0.667",d:"+0.5%",up:true},{k:"Cash rate",v:"4.10%",d:"held",up:null}],
+    stories:[
+      { t:"RBA holds as iron ore revenues cushion the economy",
+        src:"Bloomberg · 1 day ago",
+        b:"Australia sells huge amounts of iron ore, mostly to China. Strong Chinese demand supports Australian income, so the central bank can wait before changing rates.",
+        i:"The RBA held at 4.10% with services inflation near 4%. Terms of trade remain supportive, and the currency is trading as a proxy for Chinese stimulus expectations.",
+        a:"The RBA's reaction function is constrained by a tight labour market and a housing-heavy transmission channel. AUD remains the cleanest liquid expression of China's fiscal impulse, which is why it decouples from domestic data."
+      }
+    ],
+    politics:{
+      b:"Politics focuses on housing costs, energy policy and the relationship with China, its largest trading partner.",
+      i:"Housing affordability and energy transition costs dominate, alongside a trade relationship with China that is commercially essential and strategically contested.",
+      a:"The strategic-commercial tension with China is the standing tail risk to the terms of trade; domestic politics runs on housing supply and transition capex allocation."
+    },
+    timeline:[["05 Aug","RBA holds cash rate at 4.10%"],["14 Aug","Wage price index steady at 3.9%"],["21 Aug","Iron ore exports hit record volume"],["28 Aug","Services inflation revised up"]]
+  }
+};
+
+let GLOSSARY = {
+  inflation:{term:"Inflation", b:"The rate at which prices rise. If inflation is 3%, something that cost £100 last year costs £103 now. Central banks usually aim for about 2%.", i:"The annual rate of change in a price index. Central banks target headline inflation but steer by core and services measures, which exclude volatile food and energy.", a:"The change in the price level; policy-relevant when decomposed into goods, core services and shelter, since each responds to policy with a different lag and different sensitivity to labour costs."},
+  gilt:{term:"Gilt", b:"A loan to the UK government. Investors buy gilts and get interest. If they demand more interest, government borrowing gets more expensive.", i:"A UK sovereign bond. Yields reflect expected policy rates plus a term premium, so gilt moves are a live verdict on fiscal credibility.", a:"UK sovereign debt. The long end is dominated by DMO remit composition and structural demand from LDI-driven pension flows, which is why supply news moves 30-year yields disproportionately."},
+  carry:{term:"Carry trade", b:"Borrowing money where interest rates are low (like Japan) and investing it where they are higher. It makes money until the exchange rate moves against you.", i:"Funding a long position in a higher-yielding asset with a low-yielding currency. Profitable while volatility is low; unwinds are fast and correlated.", a:"A short-vol strategy: the carry-to-vol ratio determines position sizing, so a repricing of yen funding costs forces deleveraging across correlated legs simultaneously."},
+  deflation:{term:"Deflation", b:"Prices falling instead of rising. It sounds good, but it makes people delay purchases and makes debts harder to repay.", i:"A sustained fall in the price level. Damaging because it raises real debt burdens and, once expected, becomes self-reinforcing.", a:"A negative price-level trend that raises real debt service and pushes the real rate above neutral even at a zero nominal policy rate — the balance-sheet recession mechanism."}
+};
+
+let DIGEST = {
+  date:"29 August 2026",
+  headline:"Two central banks moved in opposite directions, and that is the whole story.",
+  lede:{
+    b:"Japan raised interest rates while the UK cut them. Rates are the cost of borrowing money, so when they move in opposite directions in two big economies, money moves too — out of one currency and into another. That is why the yen rose and the pound fell today, and why almost every other story on the map traces back to it.",
+    i:"The BoJ lifted its policy rate to 0.75% while the BoE cut to 4.00%, widening the policy divergence that has driven cross-currency flows all year. Yen strength tightens the carry trade; sterling weakness arrives just as the market starts pricing Budget risk into the long end of the gilt curve.",
+    a:"Divergence is now the dominant factor across assets. Yen normalisation raises the cost of the cheapest funding leg in the system, forcing position reduction in correlated carry legs, while the UK's reluctant cut against upgraded pay forecasts leaves the front end priced for less easing than the cut implies. Both moves compress the same variable: the global term premium."
+  },
+  items:[
+    {c:"Japan", b:"Rates at a 30-year high; investors who borrowed cheap yen are unwinding.", i:"BoJ to 0.75% plus a JGB taper; yen at a three-month high.", a:"Taper pace, not the rate, sets the JGB term premium — and the global carry cost."},
+    {c:"United Kingdom", b:"Bank Rate cut to 4.00%, but wages are still rising fast.", i:"6–3 vote, upgraded pay path; November live but not priced.", a:"Unit labour costs near 5% with flat productivity are inconsistent with target."},
+    {c:"United States of America", b:"The Fed held rates and hinted at just one cut this year — fewer than hoped.", i:"Hawkish dot plot; the curve bear-flattened on the statement.", a:"Guidance did the tightening: front-end OIS now discounts 21bp by December."},
+    {c:"Saudi Arabia", b:"Oil producers agreed to keep supply tight, pushing Brent higher.", i:"OPEC+ rolled over voluntary cuts; Brent +1.3% with breakeven above spot.", a:"Price defence over market share — accumulating spare capacity is the overhang."}
+  ],
+  thread:{
+    b:"The thread: when borrowing costs change, everything priced in money — shares, currencies, oil — reprices with them.",
+    i:"The thread: policy divergence is repricing currencies and funding costs, and commodity supply restraint is landing on top of it.",
+    a:"The thread: with policy paths diverging and supply restrained, dispersion is doing the work correlation did in the last cycle."
+  }
+};
+
+let TOPICS = {
+  rates:{
+    label:"Interest rates & central banks", sub:"Why the price of money moves everything else",
+    countries:["United States of America","United Kingdom","Japan","Brazil"],
+    what:{
+      b:"Central banks set the interest rate that banks pay to borrow. That rate feeds through to mortgages, business loans and savings. Raising it slows spending and cools <span class='term' data-t='inflation'>inflation</span>; cutting it does the opposite. Right now most Western central banks are cutting slowly, while Japan is raising for the first time in decades.",
+      i:"Policy rates are near or just past their peak across developed markets, and the debate has shifted from how high to how long. The BoE and Fed are easing cautiously against sticky services inflation; the BoJ is normalising from zero; Brazil has paused on fiscal concerns. Rate expectations, not current levels, drive bond and equity prices.",
+      a:"The cycle's second phase is a dispersion trade rather than a level trade. Terminal-rate uncertainty has migrated into the term premium, and cross-market correlation is falling as each central bank's reaction function is tested against its own labour-cost and fiscal constraints. Japan's normalisation is the systemic variable, because yen funding underprices global carry."
+    },
+    stories:[
+      {t:"Why 'one cut' is a hawkish message", src:"Financial Times · Bloomberg · 2 hrs ago",
+       b:"Investors had expected two rate cuts this year. The Fed now signals one. Fewer cuts than expected means borrowing stays expensive for longer, so share and bond prices fell even though nothing changed today.",
+       i:"The dot plot's move from two cuts to one repriced the front end by roughly 20bp. Markets trade the expected path, so a hold with a reduced projected path tightens financial conditions without any actual policy change.",
+       a:"Guidance is the policy instrument at this stage of the cycle. Removing a cut from the projected path steepens the OIS curve's near section and tightens conditions mechanically — the statement did more work than any hike would have."},
+      {t:"Japan raises rates and the world feels it", src:"Bloomberg · 1 day ago",
+       b:"Japan kept rates near zero for thirty years, so investors borrowed yen cheaply and invested elsewhere. Now that yen borrowing costs money, some of those investments are being sold — which moves prices in markets far from Japan.",
+       i:"The BoJ's move to 0.75% plus a JGB taper raises yen funding costs, compressing the carry trade's risk-adjusted return and prompting position reduction across higher-yielding markets.",
+       a:"Yen normalisation removes the cheapest funding leg in the global system. Because carry positions are sized off carry-to-vol, a repricing of funding cost forces simultaneous deleveraging across uncorrelated-looking legs — the mechanism behind most recent volatility spikes."}
+    ],
+    terms:["inflation","carry"],
+    ask:{b:"If rates fall, are shares more or less attractive than bonds?",i:"How much of the current curve is expectations versus term premium?",a:"Where does the reaction function break if unit labour costs don't decelerate?"}
+  },
+  trade:{
+    label:"Trade, tariffs & supply chains", sub:"The politics that reshapes company costs",
+    countries:["China","United States of America","Germany","India"],
+    what:{
+      b:"Countries tax imports with tariffs to protect their own producers. China is making goods more cheaply and selling them abroad, so Europe and the US are considering more tariffs. Tariffs make imports dearer, which protects local factories but raises prices for buyers.",
+      i:"Excess Chinese manufacturing capacity is being exported as lower unit prices, triggering trade defence investigations in the EU and tariff proposals in the US. Companies are diversifying production towards India, Mexico and South East Asia, which raises unit costs but lowers concentration risk.",
+      a:"The system is reorganising from cost-optimal to risk-weighted. Tariffs and local content rules are becoming a permanent input to capital allocation, so the relevant equity question is who can pass costs through. Supply-chain diversification is structurally inflationary in goods and margin-dilutive for import-dependent retailers."
+    },
+    stories:[
+      {t:"Cheap Chinese exports become a European political problem", src:"Financial Times · Reuters · 2 days ago",
+       b:"Chinese factories are selling abroad at lower prices to keep their machines running. Shoppers benefit, but European manufacturers competing with them lose sales, so governments face pressure to act.",
+       i:"Export unit values are falling while volumes rise. The EU has opened an investigation, and the affected sectors — autos, solar, steel — are exactly where European industrial employment is concentrated, which is what makes it political.",
+       a:"Export price deflation is the release valve for domestic overcapacity. It transfers the adjustment cost to trade partners' producers, which guarantees a policy response; the investment question is whether tariffs arrive before or after European capacity is impaired."},
+      {t:"Diversification shows up in the cost line", src:"Bloomberg · 4 days ago",
+       b:"Companies moving factories out of China pay more to make the same product. That cost either reduces profit or gets passed to customers as higher prices.",
+       i:"Reshoring and 'China plus one' strategies raise landed unit costs by an estimated 5–15% depending on sector, absorbed through margin or price depending on pricing power.",
+       a:"Duplicated capacity carries a permanent return-on-capital penalty. Screening for pricing power and asset-light exposure is the practical response; the aggregate effect is a higher floor under goods inflation than the 2010s allowed."}
+    ],
+    terms:["deflation"],
+    ask:{b:"Who pays for a tariff — the exporter or the shopper?",i:"Which sectors have the pricing power to pass costs through?",a:"How does a risk-weighted supply chain change sector ROIC dispersion?"}
+  },
+  energy:{
+    label:"Energy & commodities", sub:"Oil, gas, metals and the cost of the transition",
+    countries:["Saudi Arabia","Australia","Brazil","Germany"],
+    what:{
+      b:"Oil and gas prices affect almost everything, because it costs energy to make and move goods. A group of oil producers is deliberately pumping less to keep prices up. Metals like copper and iron ore matter too — you need them for power grids, buildings and electric cars.",
+      i:"OPEC+ restraint is holding Brent near $78 despite soft demand, defending price at the cost of market share. Industrial metals are trading on Chinese stimulus expectations and grid investment, while European gas remains the swing input for industrial competitiveness.",
+      a:"Commodity markets are pricing a supply-constrained transition: capex discipline in hydrocarbons plus grid and metals demand from electrification implies a structurally tighter medium-term balance. OPEC+ cohesion is the near-term risk, and the spare-capacity overhang caps upside if it fails."
+    },
+    stories:[
+      {t:"OPEC+ chooses price over volume", src:"Bloomberg · Reuters · 4 hrs ago",
+       b:"Producers agreed to keep supply restricted for another quarter. That supports the oil price, which helps their government budgets but raises costs for everyone else.",
+       i:"Rolling over voluntary cuts keeps Saudi output near 9mb/d with a fiscal breakeven still above spot, implying continued deficit financing — a choice of price defence over market share.",
+       a:"Restraint accumulates spare capacity, which is itself a bearish overhang. The trade is long crude while cohesion holds and short on any evidence of quota slippage; the fiscal breakeven tells you how long the kingdom can absorb the trade-off."},
+      {t:"Grid spending becomes a metals story", src:"Financial Times · 3 days ago",
+       b:"Building power grids and electric cars needs a lot of copper and steel. Governments committing to that spending creates years of predictable demand for those metals.",
+       i:"Germany's infrastructure vehicle and Indian capex programmes create multi-year grid demand, supporting copper and electrical steel against otherwise weak industrial data.",
+       a:"Electrification demand is policy-anchored and therefore less cyclical than historical industrial metals demand. With mine supply growth constrained by permitting timelines, the medium-term copper balance is the cleanest transition expression."}
+    ],
+    terms:[],
+    ask:{b:"Why does a higher oil price raise the price of unrelated goods?",i:"Is metals demand cyclical or policy-anchored right now?",a:"What breaks the supply-constrained transition thesis?"}
+  },
+  fiscal:{
+    label:"Government debt & fiscal policy", sub:"When borrowing becomes a market event",
+    countries:["United Kingdom","United States of America","Germany","Brazil"],
+    what:{
+      b:"Governments spend more than they collect in tax, so they borrow by selling bonds. If investors doubt a government will control its borrowing, they demand higher interest — which makes the problem worse. That is why budgets move markets.",
+      i:"Deficits are running near cycle highs at full employment across major economies. The market's discipline now arrives through the term premium rather than the policy rate, making issuance guidance and fiscal rules first-order market events.",
+      a:"Fiscal dominance is the organising risk. With debt service rising faster than nominal GDP in several majors, the long end is pricing supply and credibility rather than expected policy. Composition matters more than headline: who bears the consolidation determines the growth path and therefore the debt trajectory."
+    },
+    stories:[
+      {t:"A thin Budget becomes a credibility exercise", src:"Financial Times · 3 days ago",
+       b:"The UK government has about £15bn of room before it breaks its own borrowing rules. That is small enough that a small change in growth could wipe it out, so the Budget is really about convincing investors.",
+       i:"Headroom of roughly 0.4% of GDP sits inside normal forecast error. Speculation centres on threshold freezes, and <span class='term' data-t='gilt'>gilt</span> sensitivity is to the composition of consolidation and the long-end issuance remit.",
+       a:"With headroom inside forecast error, the fiscal rule constrains signalling more than spending. The gilt market's reaction function keys off DMO remit composition and the credibility of the medium-term path, not the headline number.",
+       gloss:"gilt"},
+      {t:"Germany finds a way round its own rule", src:"Bloomberg · 2 days ago",
+       b:"Germany limits its borrowing by law. It has created a separate fund for infrastructure so it can invest without technically breaking the limit.",
+       i:"An off-balance-sheet vehicle raises the effective fiscal impulse while preserving the debt brake's optics. Construction and capital goods rallied on the announcement.",
+       a:"Institutional design substitutes for fiscal reform. The consequence is a higher euro area neutral rate and a steeper Bund curve if the vehicle survives constitutional challenge — which is the actual variable to watch."}
+    ],
+    terms:["gilt"],
+    ask:{b:"Why does higher government borrowing push up mortgage rates?",i:"What is the difference between a rate rise and a term premium rise?",a:"At what point does composition dominate the headline consolidation number?"}
+  },
+  tech:{
+    label:"Technology & AI capital spending", sub:"The largest capex cycle in a generation",
+    countries:["United States of America","Japan","India","China"],
+    what:{
+      b:"Big technology companies are spending enormous sums on data centres and chips to run AI. That spending supports chipmakers and power companies, but investors are starting to ask when it will produce profit.",
+      i:"Hyperscaler capex is the single largest swing factor in US earnings growth. The market has moved from rewarding capex announcements to scrutinising returns, which is why guidance now matters more than results.",
+      a:"The cycle has entered its returns-scrutiny phase: depreciation is arriving in the P&L while revenue attribution remains contested. Watch the capex-to-operating-cash-flow ratio and any lengthening of useful-life assumptions — both are the tells for a digestion phase."
+    },
+    stories:[
+      {t:"Beat and lower: the reaction that confuses beginners", src:"Bloomberg · Reuters · 5 hrs ago",
+       b:"A chip company earned more than expected but said next quarter would be weaker. The shares fell. Markets pay for the future, not the past.",
+       i:"Revenue beat consensus by 4% on datacentre demand, but the guide implied flat sequential growth. The 6% after-hours fall reflects a valuation that leaves no room for deceleration.",
+       a:"Flat sequential datacentre revenue points to hyperscaler digestion rather than demand destruction — a distinction worth 10 multiple points. At 28x forward the market is underwriting a growth path, so second-derivative news dominates the level."},
+      {t:"AI's constraint turns out to be electricity", src:"Financial Times · 5 days ago",
+       b:"Data centres need huge amounts of power. In several countries the electricity grid, not the chips, is now the thing holding AI expansion back — which makes utilities and grid builders unexpected beneficiaries.",
+       i:"Grid interconnection queues and local power availability are now binding on datacentre siting, redirecting capital towards generation, transmission and cooling.",
+       a:"Power availability is the physical bottleneck, which converts an information-technology capex cycle into an infrastructure one. The second-order beneficiaries — regulated utilities with rate-base growth, electrical equipment, cooling — have better visibility than the compute layer."}
+    ],
+    terms:[],
+    ask:{b:"Why can good results still send a share price down?",i:"What would distinguish digestion from a demand downturn?",a:"Which line item first reveals overbuild — depreciation or useful-life assumptions?"}
+  },
+  em:{
+    label:"Emerging markets & reform", sub:"Where policy credibility is the asset",
+    countries:["India","Nigeria","Brazil","China"],
+    what:{
+      b:"Emerging economies grow faster but carry more risk. Investors watch whether governments stick to difficult reforms — like letting the currency float or removing fuel subsidies. Follow through and money flows in; reverse course and it leaves quickly.",
+      i:"The current cycle rewards reform credibility: India's bond index inclusion and Nigeria's FX liberalisation have both drawn inflows, while Brazil's repeated fiscal target revisions have widened its risk premium despite high real rates.",
+      a:"EM returns are increasingly a function of institutional quality rather than commodity beta. Index inclusion changes the marginal buyer of duration but imports global rate beta; reform durability is priced through the local curve, and real-rate buffers determine who survives a dollar-funding shock."
+    },
+    stories:[
+      {t:"Index inclusion changes who buys your debt", src:"Bloomberg · 1 day ago",
+       b:"India's government bonds joined major global indices, so funds that copy those indices have to buy them. That lowers India's borrowing cost without India doing anything else.",
+       i:"Passive inflows have compressed the 10-year yield by around 40bp. The RBI is absorbing dollars into reserves rather than allowing appreciation, with domestic liquidity consequences.",
+       a:"Inclusion substitutes price-insensitive passive demand for domestic captive demand, lowering funding cost but raising sensitivity to global duration. Sterilisation choices determine whether the benefit reaches the real economy."},
+      {t:"Nigeria's painful reform starts to work", src:"Financial Times · 3 days ago",
+       b:"Nigeria stopped fixing its currency's value and removed fuel subsidies. Prices jumped and life got harder, but foreign investors have started returning.",
+       i:"FX unification and subsidy removal restored portfolio inflows and reserves, at the cost of inflation above 30% and real income compression.",
+       a:"The sequence traded a short-run price shock for external balance. Sustainability rests on positive real rates through the disinflation path and non-oil FX earnings — and the political window narrows as income compression accumulates."}
+    ],
+    terms:[],
+    ask:{b:"Why would a country let its currency fall on purpose?",i:"What does a high real rate buy a central bank?",a:"How do you separate reform beta from commodity beta in EM returns?"}
+  }
+};
+
+let QUESTIONS = [
+  {lvl:"b", tag:"United States · Monetary policy", q:"A central bank raises interest rates. What is it usually trying to do?",
+   o:["Slow down price rises by making borrowing more expensive","Increase company profits directly","Make the currency weaker","Reduce government debt immediately"], a:0,
+   e:"Higher rates make borrowing dearer, so households and firms spend less, which cools demand and slows inflation. It also tends to strengthen the currency, not weaken it."},
+  {lvl:"b", tag:"United Kingdom · Fixed income", q:"A gilt is best described as:",
+   o:["A share in a UK company","A loan to the UK government","A UK property fund","A type of savings account"], a:1,
+   e:"Gilts are UK government bonds. The government borrows, investors receive interest. The yield investors demand is a running verdict on the government's credibility."},
+  {lvl:"b", tag:"Japan · FX", q:"The yen strengthens sharply. Who is most likely to be hurt?",
+   o:["Japanese consumers buying imported food","An investor who borrowed in yen to buy US shares","The Japanese government's debt interest bill","European tourists visiting Tokyo"], a:1,
+   e:"Borrowing in yen and investing elsewhere is the carry trade. If the yen strengthens, repaying the loan costs more, which can wipe out the gain."},
+  {lvl:"b", tag:"China · Trade", q:"Chinese factories cut export prices. What is the effect on Europe?",
+   o:["Cheaper imported goods, but pressure on European manufacturers","Higher inflation in Europe immediately","No effect, since trade is unrelated to prices","European wages rise"], a:0,
+   e:"Cheaper imports lower goods inflation for buyers, but domestic producers competing with those imports face squeezed margins. That is why tariffs become political."},
+  {lvl:"b", tag:"Germany · Macro", q:"Why do weak German factory orders matter beyond Germany?",
+   o:["Germany sets European interest rates alone","Germany is a large exporter, so its orders signal wider demand","German orders determine oil prices","It only matters for German shares"], a:1,
+   e:"Germany is the euro area's industrial core. Falling orders for its machinery and vehicles usually indicate weakening demand across its trading partners."},
+  {lvl:"b", tag:"Brazil · Rates", q:"Brazil's policy rate is 10.5% while the UK's is 4%. The most likely reason is:",
+   o:["Brazil has higher inflation and risk, so investors demand more","Brazil's economy is larger","Brazil has no central bank independence","UK banks are less profitable"], a:0,
+   e:"Higher inflation and a higher perceived risk premium both push nominal rates up. Investors need compensation for holding assets in that currency."},
+  {lvl:"b", tag:"United States · Equities", q:"A company beats earnings expectations but its share price falls. Why?",
+   o:["Its guidance for the next quarter disappointed","Beating expectations always hurts the price","Earnings do not affect share prices","Its dividend was cancelled by regulators"], a:0,
+   e:"Share prices reflect expectations of future cash flows. A weak outlook can matter more than a strong past quarter."},
+
+  {lvl:"i", tag:"United States · Rates", q:"The yield curve bear-flattens after a central bank statement. That implies:",
+   o:["Short-dated yields rose more than long-dated yields","All yields fell together","Long-dated yields rose while short fell","The curve inverted permanently"], a:0,
+   e:"Bear = yields rising; flattening = the spread between long and short narrowing. So the front end rose faster, typically on a hawkish policy signal."},
+  {lvl:"i", tag:"United Kingdom · Fiscal", q:"Fiscal headroom of £15bn against the rules is considered thin because:",
+   o:["It is smaller than typical forecast error over the horizon","It exceeds total government spending","Headroom must legally be zero","Debt interest is not counted"], a:0,
+   e:"Roughly 0.4% of GDP sits well inside the OBR's normal forecast error, so a small growth or rate surprise can eliminate it — making the Budget a credibility exercise."},
+  {lvl:"i", tag:"Japan · Monetary policy", q:"Why does the Bank of Japan's bond purchase taper matter globally?",
+   o:["It raises yen funding costs, tightening the carry trade","It changes Japanese corporate tax rates","It sets the US Fed's policy rate","It has no effect outside Japan"], a:0,
+   e:"Yen funding sits underneath a large stock of cross-border positions. Higher yen yields raise the cost of that funding, forcing deleveraging in other markets."},
+  {lvl:"i", tag:"China · Property", q:"Completion financing for stalled housing projects addresses:",
+   o:["The flow of unfinished homes, not the stock of oversupply","Household debt levels directly","Export competitiveness","Bank capital requirements"], a:0,
+   e:"It gets existing projects finished, supporting confidence and construction inputs. It does not reduce excess inventory or repair household balance sheets."},
+  {lvl:"i", tag:"India · Fixed income", q:"Global bond index inclusion lowers a sovereign's borrowing cost mainly because:",
+   o:["Passive funds must buy the bonds to track the index","The central bank guarantees the yield","Inflation falls automatically","Ratings agencies are required to upgrade"], a:0,
+   e:"Index-tracking funds are price-insensitive buyers. That structural demand compresses yields — but it also imports global rate volatility."},
+  {lvl:"i", tag:"Saudi Arabia · Commodities", q:"A fiscal breakeven oil price above the market price implies:",
+   o:["The budget runs a deficit that must be financed","Oil production is unprofitable","Subsidies are being increased","The currency must devalue"], a:0,
+   e:"The fiscal breakeven is the oil price needed to balance the budget. Below it, the government borrows or draws on reserves — hence continued sovereign issuance."},
+  {lvl:"i", tag:"Australia · FX", q:"AUD often trades as a proxy for Chinese stimulus expectations because:",
+   o:["Australia's exports are commodities bought largely by China","The RBA targets the yuan","Australia and China share a currency peg","Chinese banks set Australian rates"], a:0,
+   e:"Iron ore and coal revenues dominate Australia's terms of trade, and China is the marginal buyer, so AUD reacts to Chinese policy news more than to domestic data."},
+
+  {lvl:"a", tag:"United States · Fiscal", q:"Deficits near 6% of GDP at full employment most directly affect long yields through:",
+   o:["The term premium, via duration supply","The policy rate, set mechanically by deficits","Corporate credit spreads only","Reserve requirements"], a:0,
+   e:"Persistent issuance at full employment raises the compensation investors demand for holding duration. The term premium does the disciplining that fiscal policy is not."},
+  {lvl:"a", tag:"United Kingdom · Monetary policy", q:"Regular pay growth near 5% with flat productivity implies unit labour costs:",
+   o:["Growing at roughly 5%, inconsistent with a 2% target","Falling, supporting faster rate cuts","Unchanged, since pay excludes productivity","Irrelevant to inflation"], a:0,
+   e:"Unit labour cost growth is roughly wage growth minus productivity growth. Near 5% is incompatible with 2% inflation unless margins compress persistently."},
+  {lvl:"a", tag:"China · Global macro", q:"Deflationary Chinese export pricing acts on developed-market policy by:",
+   o:["Lowering imported goods inflation, offsetting domestic services inflation","Raising headline inflation abroad","Forcing higher policy rates immediately","Reducing global trade volumes"], a:0,
+   e:"Excess domestic capacity is exported as lower tradable-goods prices, giving central banks a disinflationary offset against sticky domestic services inflation."},
+  {lvl:"a", tag:"Germany · Fiscal design", q:"Off-balance-sheet investment vehicles under a debt brake principally change:",
+   o:["The effective fiscal impulse while preserving the rule's optics","Statutory debt limits","The ECB's inflation target","Corporate tax incidence"], a:0,
+   e:"Spending moves outside the constrained aggregate, so the real impulse rises without amending the rule. The constitutional challenge risk is the transmission channel to Bunds."},
+  {lvl:"a", tag:"Japan · Political economy", q:"BoJ normalisation depends politically on:",
+   o:["Wage settlements outpacing CPI so real incomes rise","A weaker yen","Falling corporate profits","Lower JGB issuance only"], a:0,
+   e:"Tightening is tolerable while the wage-price cycle raises real incomes. If shuntō momentum fades, the fiscal cost of higher JGB yields becomes politically dominant."},
+  {lvl:"a", tag:"Brazil · Risk premia", q:"Repeated primary surplus target revisions raise the neutral rate because:",
+   o:["They widen the sovereign risk premium the central bank must respect","They lower inflation expectations","They reduce currency volatility","They are unrelated to monetary policy"], a:0,
+   e:"Weakening framework credibility raises required real returns. Copom must set policy relative to that higher risk-adjusted neutral rate, limiting how far it can cut."},
+  {lvl:"a", tag:"Nigeria · Reform sequencing", q:"FX liberalisation followed by subsidy removal trades:",
+   o:["A short-run inflation shock for improved external balance","External balance for lower inflation","Growth for lower reserves","Nothing measurable"], a:0,
+   e:"Both measures raise prices immediately but remove distortions that drained reserves. Durability depends on maintaining positive real rates through the disinflation."}
+];
+
+/* ============ accounts ============ */
+const users = {
+  all(){ try{ return JSON.parse(localStorage.getItem("mrd_users")||"{}") }catch(e){ return {} } },
+  write(o){ localStorage.setItem("mrd_users", JSON.stringify(o)) },
+  /* prototype-only obfuscation — never real password storage */
+  scramble(s){ let h=0; for(const c of s) h=(h*31+c.charCodeAt(0))|0; return String(h) },
+  get session(){ return localStorage.getItem("mrd_session") || "" },
+  set session(v){ v ? localStorage.setItem("mrd_session", v) : localStorage.removeItem("mrd_session") },
+  get current(){ const e = this.session; return e ? (this.all()[e] ? Object.assign({email:e}, this.all()[e]) : null) : null }
+};
+
+/* ============ state ============ */
+const K = k => "mrd_" + (users.session || "guest") + "_" + k;
+const store = {
+  get streak(){ return +(localStorage.getItem(K("streak"))||0) },
+  set streak(v){ localStorage.setItem(K("streak"), v) },
+  get last(){ return localStorage.getItem(K("last"))||"" },
+  set last(v){ localStorage.setItem(K("last"), v) },
+  get saved(){ try{ return JSON.parse(localStorage.getItem(K("saved"))||"[]") }catch(e){ return [] } },
+  set saved(v){ localStorage.setItem(K("saved"), JSON.stringify(v)) },
+  get history(){ try{ return JSON.parse(localStorage.getItem(K("hist"))||"[]") }catch(e){ return [] } },
+  set history(v){ localStorage.setItem(K("hist"), JSON.stringify(v)) },
+  get read(){ try{ return JSON.parse(localStorage.getItem(K("read"))||"[]") }catch(e){ return [] } },
+  set read(v){ localStorage.setItem(K("read"), JSON.stringify(v)) }
+};
+let selected = null, topicSel = null;
+const esc = s => String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;");
+
+function refreshHeader(){
+  document.getElementById("streak").textContent = store.streak;
+  document.getElementById("savedN").textContent = "(" + store.saved.length + ")";
+  const u = users.current;
+  document.getElementById("acctName").textContent = u ? u.name.split(" ")[0] : "Sign in";
+  document.getElementById("avatar").textContent = u ? u.name.trim()[0].toUpperCase() : "\u00b7";
+}
+
+/* ============ globe ============ */
+const stage = document.getElementById("stage");
+const svg = d3.select("#globe");
+const tooltip = document.getElementById("tooltip");
+let features = [], path, projection, rotation = [-20, -12], size = 0;
+let gLand, gGrat, gHalo;
+
+function setupGlobe(){
+  projection = d3.geoOrthographic().rotate(rotation).clipAngle(90);
+  path = d3.geoPath(projection);
+  gHalo = svg.append("circle").attr("fill","#FBE9DA").attr("stroke","#E4D0BE");
+  gGrat = svg.append("path").attr("fill","none").attr("stroke","#E9D6C5").attr("stroke-width",.7)
+    .datum(d3.geoGraticule10());
+  gLand = svg.append("g");
+  resize();
+  window.addEventListener("resize", resize);
+  svg.call(d3.drag()
+    .on("start", ()=> document.getElementById("globe").classList.add("dragging"))
+    .on("drag", ev => {
+      const k = 0.28;
+      rotation = [rotation[0] + ev.dx*k, Math.max(-85, Math.min(85, rotation[1] - ev.dy*k))];
+      projection.rotate(rotation); draw();
+    })
+    .on("end", ()=> document.getElementById("globe").classList.remove("dragging")));
+}
+
+function resize(){
+  const r = stage.getBoundingClientRect();
+  size = Math.max(260, Math.min(r.width - 80, r.height - 80));
+  svg.attr("width", r.width).attr("height", r.height);
+  projection.scale(size/2).translate([r.width/2, r.height/2]);
+  gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2);
+  draw();
+}
+
+function fill(name){
+  const has = !!COUNTRIES[name];
+  if(!has) return "transparent";
+  if(topicSel){
+    return TOPICS[topicSel].countries.includes(name) ? "rgba(138,14,31,.42)" : "rgba(138,14,31,.10)";
+  }
+  return name === selected ? "rgba(138,14,31,.42)" : "rgba(138,14,31,.20)";
+}
+
+function repaint(){ if(gLand) gLand.selectAll("path").attr("fill", d => fill(d.properties.name)); }
+
+/* attach a plain-English definition box to any .term in a scope */
+function wireTerms(scope){
+  scope.querySelectorAll(".term").forEach(t => {
+    const key = t.dataset.t, g = GLOSSARY[key];
+    if(!g) return;
+    t.title = "Click for a plain-English definition";
+    let box = t.closest(".story")?.querySelector(`.gloss[data-g="${key}"]`)
+      || t.closest("p, .story")?.parentElement?.querySelector(`.gloss[data-g="${key}"]`);
+    if(!box){
+      const host = t.closest("p") || t.closest(".story");
+      box = document.createElement("div");
+      box.className = "gloss" + (level === "b" ? " show" : "");
+      box.dataset.g = key;
+      box.innerHTML = `<b>${esc(g.term)}</b> \u2014 ${esc(g[level] || g.b)}`;
+      host.insertAdjacentElement("afterend", box);
+    }
+    t.addEventListener("click", () => box.classList.toggle("show"));
+  });
+}
+
+function draw(){
+  gGrat.attr("d", path);
+  gLand.selectAll("path").attr("d", path);
+}
+
+function renderCountries(){
+  gLand.selectAll("path").data(features).join("path")
+    .attr("class","country")
+    .attr("d", path)
+    .attr("fill", d => fill(d.properties.name))
+    .attr("stroke", d => COUNTRIES[d.properties.name] ? "#8A0E1F" : "#CBA88E")
+    .attr("stroke-width", d => COUNTRIES[d.properties.name] ? 1 : .6)
+    .style("pointer-events","all")
+    .on("mousemove", (ev,d) => {
+      const r = stage.getBoundingClientRect();
+      tooltip.textContent = (COUNTRIES[d.properties.name]?.label || d.properties.name)
+        + (COUNTRIES[d.properties.name] ? " · briefed" : " · no briefing");
+      tooltip.style.opacity = 1;
+      tooltip.style.left = (ev.clientX - r.left + 14) + "px";
+      tooltip.style.top = (ev.clientY - r.top - 8) + "px";
+      if(!COUNTRIES[d.properties.name]) return;
+      d3.select(ev.currentTarget).attr("fill","rgba(138,14,31,.34)");
+    })
+    .on("mouseleave", (ev,d) => {
+      tooltip.style.opacity = 0;
+      d3.select(ev.currentTarget).attr("fill", fill(d.properties.name));
+    })
+    .on("click", (ev,d) => { if(COUNTRIES[d.properties.name]) select(d); });
+}
+
+function select(feature){
+  const name = feature.properties.name;
+  selected = name; topicSel = null;
+  renderPanel(name);
+  const c = d3.geoCentroid(feature);
+  d3.transition().duration(900).tween("rot", () => {
+    const ip = d3.interpolate(rotation, [-c[0], -c[1]]);
+    return t => { rotation = ip(t); projection.rotate(rotation); draw(); };
+  }).on("end", () => gLand.selectAll("path").attr("fill", d => fill(d.properties.name)));
+  gLand.selectAll("path").attr("fill", d => fill(d.properties.name));
+}
+
+function selectByName(name){
+  const f = features.find(f => f.properties.name === name);
+  if(f) select(f);
+}
+
+d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json").then(topo => {
+  features = topojson.feature(topo, topo.objects.countries).features;
+  setupGlobe();
+  renderCountries();
+}).catch(() => {
+  stage.insertAdjacentHTML("beforeend",
+    "<p style='position:absolute;max-width:32ch;text-align:center;color:var(--muted)'>Map geometry could not be loaded. Country briefings are still available from the list on the right.</p>");
+  setupGlobe();
+});
+
+/* ============ panel ============ */
+function emptyPanel(){
+  const names = Object.keys(COUNTRIES);
+  const L = k => (DIGEST[k][level] || DIGEST[k].b);
+  document.getElementById("panel").innerHTML = `
+    <div class="empty">
+      <span class="mono">Today · ${esc(DIGEST.date)} · ${LEVEL_NAMES[level]}</span>
+      <h2 style="margin:8px 0 12px">${esc(DIGEST.headline)}</h2>
+      <p style="font-size:15px;line-height:1.6;color:var(--ink);max-width:none">${esc(L("lede"))}</p>
+
+      <section class="block">
+        <span class="mono">What moved</span>
+        <ul class="digest">
+          ${DIGEST.items.map(it => `<li><button class="chip" data-c="${esc(it.c)}">${esc(COUNTRIES[it.c]?.label||it.c)}</button><span>${esc(it[level]||it.b)}</span></li>`).join("")}
+        </ul>
+        <p style="font-size:14px;line-height:1.55;color:var(--muted);margin:14px 0 0">${esc(L("thread"))}</p>
+      </section>
+
+      <section class="block">
+        <span class="mono">Read a market</span>
+        <div class="quick" style="margin-top:0">
+          ${names.map(n => `<button class="chip" data-c="${esc(n)}">${esc(COUNTRIES[n].label)}</button>`).join("")}
+        </div>
+      </section>
+
+      <section class="block">
+        <span class="mono">Or read by theme</span>
+        <div class="quick" style="margin-top:0">
+          ${Object.keys(TOPICS).map(k => `<button class="chip" data-topic="${k}">${esc(TOPICS[k].label)}</button>`).join("")}
+        </div>
+      </section>
+
+      <div class="cta">
+        <button class="btn" id="quizFromDigest">Take today’s quiz</button>
+      </div>
+      <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Prototype: briefings are sample content standing in for AI summaries of Financial Times, Bloomberg and Reuters reporting. Education, not investment advice.</p>
+    </div>`;
+  document.querySelectorAll(".chip[data-c]").forEach(b =>
+    b.addEventListener("click", () => { topicSel = null; selectByName(b.dataset.c); }));
+  document.querySelectorAll(".chip[data-topic]").forEach(b =>
+    b.addEventListener("click", () => renderTopic(b.dataset.topic)));
+  document.getElementById("quizFromDigest").addEventListener("click", startQuiz);
+}
+
+function storyHTML(s){
+  const body = s[level] || s.b;
+  let html = `<div class="story"><h3>${esc(s.t)}</h3><p>${body}</p>`;
+  if(s.gloss && GLOSSARY[s.gloss]){
+    const g = GLOSSARY[s.gloss];
+    html += `<div class="gloss ${level==="b"?"show":""}" data-g="${esc(s.gloss)}"><b>${esc(g.term)}</b> \u2014 ${esc(g[level]||g.b)}</div>`;
+  }
+  const link = (s.links && s.links.length)
+    ? ` \u00b7 <a href="${esc(s.links[0])}" target="_blank" rel="noopener">read the source</a>`
+    : "";
+  html += `<div class="src">${esc(s.src)}${link}</div></div>`;
+  return html;
+}
+
+function renderPanel(name){
+  const c = COUNTRIES[name];
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  if(!store.read.includes(name)) store.read = store.read.concat(name);
+  const isSaved = store.saved.includes(name);
+  p.innerHTML = `
+    <div class="p-head">
+      <div>
+        <span class="mono">Briefing · ${LEVEL_NAMES[level]}</span>
+        <h2>${esc(c.label)}</h2>
+        <p class="p-sub">${esc(c.sub)}</p>
+      </div>
+      <button class="close" id="closeP" title="Close">✕</button>
+    </div>
+
+    <div class="indicators" style="display:${(c.ind&&c.ind.length)?'grid':'none'}">
+      ${(c.ind||[]).map(i => `<div class="ind"><span class="mono">${esc(i.k)}</span>
+        <div class="v">${esc(i.v)}</div>
+        <div class="d ${i.up===true?"up":i.up===false?"down":""}">${esc(i.d)}</div></div>`).join("")}
+    </div>
+    <span class="mono" style="display:${(c.ind&&c.ind.length)?'block':'none'}">Indicative levels, close of previous session</span>
+
+    <section class="block">
+      <span class="mono">What happened</span>
+      ${c.stories.map(storyHTML).join("")}
+    </section>
+
+    <section class="block brief">
+      <span class="mono">Political situation</span>
+      <p>${esc(c.politics[level]||c.politics.b)}</p>
+    </section>
+
+    <section class="block">
+      <span class="mono">Recent events</span>
+      <ul class="timeline">
+        ${c.timeline.map(t => `<li><span class="mono">${esc(t[0])}</span><span>${esc(t[1])}</span></li>`).join("")}
+      </ul>
+    </section>
+
+    <div class="cta">
+      <button class="btn" id="quizFromPanel">Take the daily quiz</button>
+      <button class="btn ghost" id="saveBtn">${isSaved?"Saved ✓":"Save briefing"}</button>
+    </div>`;
+
+  p.querySelectorAll(".story .term").forEach(t => {
+    const g = t.closest(".story").querySelector(".gloss");
+    if(!g) return;
+    t.addEventListener("click", () => g.classList.toggle("show"));
+    t.title = "Click for a plain-English definition";
+  });
+  document.getElementById("closeP").addEventListener("click", () => { selected=null; emptyPanel(); repaint(); });
+  document.getElementById("quizFromPanel").addEventListener("click", startQuiz);
+  document.getElementById("saveBtn").addEventListener("click", e => {
+    const s = store.saved;
+    if(s.includes(name)) store.saved = s.filter(x => x !== name);
+    else store.saved = s.concat(name);
+    e.target.textContent = store.saved.includes(name) ? "Saved ✓" : "Save briefing";
+    refreshHeader();
+  });
+}
+
+/* ============ topics ============ */
+function renderTopic(key){
+  const t = TOPICS[key];
+  topicSel = key; selected = null;
+  repaint();
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  p.innerHTML = `
+    <div class="p-head">
+      <div>
+        <span class="mono">Theme \u00b7 ${LEVEL_NAMES[level]}</span>
+        <h2>${esc(t.label)}</h2>
+        <p class="p-sub">${esc(t.sub)}</p>
+      </div>
+      <button class="close" id="closeP" title="Close">\u2715</button>
+    </div>
+
+    <section class="block brief" style="margin-top:22px">
+      <span class="mono">How it works</span>
+      <p>${t.what[level] || t.what.b}</p>
+    </section>
+
+    <section class="block">
+      <span class="mono">Where it is playing out</span>
+      <div class="quick" style="margin-top:0">
+        ${t.countries.map(c => `<button class="chip" data-c="${esc(c)}">${esc(COUNTRIES[c]?.label || c)}</button>`).join("")}
+      </div>
+    </section>
+
+    <section class="block">
+      <span class="mono">Stories that show it</span>
+      ${t.stories.map(storyHTML).join("")}
+    </section>
+
+    <section class="block brief">
+      <span class="mono">Question to ask yourself</span>
+      <p>${esc(t.ask[level] || t.ask.b)}</p>
+    </section>
+
+    <div class="cta">
+      <button class="btn" id="quizFromPanel">Take the daily quiz</button>
+      <button class="btn ghost" id="backHome">All themes</button>
+    </div>`;
+  wireTerms(p);
+  p.querySelectorAll(".chip[data-c]").forEach(b =>
+    b.addEventListener("click", () => { topicSel = null; selectByName(b.dataset.c); }));
+  document.getElementById("closeP").addEventListener("click", () => { topicSel = null; emptyPanel(); repaint(); });
+  document.getElementById("backHome").addEventListener("click", () => { topicSel = null; emptyPanel(); repaint(); });
+  document.getElementById("quizFromPanel").addEventListener("click", startQuiz);
+}
+
+/* ============ saved ============ */
+function renderSaved(){
+  const p = document.getElementById("panel");
+  const s = store.saved;
+  p.scrollTop = 0;
+  p.innerHTML = `
+    <div class="p-head">
+      <div><span class="mono">Your library</span><h2>Saved briefings</h2></div>
+      <button class="close" id="closeP" title="Close">✕</button>
+    </div>
+    ${s.length ? `<ul class="saved-list">${s.map(n =>
+      `<li><a href="#" data-open="${esc(n)}">${esc(COUNTRIES[n]?.label||n)}</a><button data-rm="${esc(n)}" title="Remove">✕</button></li>`).join("")}</ul>`
+      : `<p style="color:var(--muted);margin-top:14px">Nothing saved yet. Open a country briefing and use “Save briefing” to keep it here.</p>`}`;
+  document.getElementById("closeP").addEventListener("click", () => topicSel ? renderTopic(topicSel) : selected ? renderPanel(selected) : emptyPanel());
+  p.querySelectorAll("[data-open]").forEach(a => a.addEventListener("click", e => { e.preventDefault(); selectByName(a.dataset.open); }));
+  p.querySelectorAll("[data-rm]").forEach(b => b.addEventListener("click", () => {
+    store.saved = store.saved.filter(x => x !== b.dataset.rm); refreshHeader(); renderSaved();
+  }));
+}
+
+/* ============ quiz ============ */
+const quizEl = document.getElementById("quiz"), qcard = document.getElementById("qcard");
+let qset = [], qi = 0, qscore = 0, answered = false;
+
+function dailySet(){
+  const pool = QUESTIONS.filter(q => q.lvl === level);
+  const seed = new Date().toDateString() + level;
+  let h = 0; for(const ch of seed) h = (h*31 + ch.charCodeAt(0)) | 0;
+  const rng = () => (h = (h*1103515245 + 12345) & 0x7fffffff) / 0x7fffffff;
+  const a = pool.slice();
+  for(let i=a.length-1;i>0;i--){ const j = Math.floor(rng()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; }
+  return a.slice(0, Math.min(5, a.length)).map(q => {
+    const order = q.o.map((_,i) => i);
+    for(let i=order.length-1;i>0;i--){ const j = Math.floor(rng()*(i+1)); [order[i],order[j]]=[order[j],order[i]]; }
+    return Object.assign({}, q, {order});
+  });
+}
+
+function startQuiz(){
+  qset = dailySet(); qi = 0; qscore = 0;
+  quizEl.classList.add("open");
+  renderQ();
+}
+function closeQuiz(){ quizEl.classList.remove("open"); }
+
+function renderQ(){
+  if(qi >= qset.length) return renderResult();
+  const q = qset[qi];
+  answered = false;
+  qcard.innerHTML = `
+    <div class="qtop">
+      <span class="mono">Daily quiz · ${LEVEL_NAMES[level]}</span>
+      <button class="close" id="closeQ" title="Close">✕</button>
+    </div>
+    <div class="qbar"><i style="width:${(qi/qset.length)*100}%"></i></div>
+    <div class="qtag">Question ${qi+1} of ${qset.length} · ${esc(q.tag)}</div>
+    <p class="qprompt">${esc(q.q)}</p>
+    <div class="opts">${q.order.map((oi,i)=>`<button class="opt" data-i="${i}">${esc(q.o[oi])}</button>`).join("")}</div>
+    <div class="feedback" id="fb"></div>
+    <div class="qfoot">
+      <span class="mono">Score ${qscore}/${qi}</span>
+      <button class="btn" id="nextQ" style="visibility:hidden">${qi+1===qset.length?"See result":"Next question"}</button>
+    </div>`;
+  document.getElementById("closeQ").addEventListener("click", closeQuiz);
+  qcard.querySelectorAll(".opt").forEach(b => b.addEventListener("click", () => answer(+b.dataset.i)));
+  document.getElementById("nextQ").addEventListener("click", () => { qi++; renderQ(); });
+}
+
+function answer(i){
+  if(answered) return;
+  answered = true;
+  const q = qset[qi];
+  const correctPos = q.order.indexOf(q.a);
+  const btns = qcard.querySelectorAll(".opt");
+  btns.forEach((b,idx) => { b.disabled = true;
+    if(idx === correctPos) b.classList.add("correct");
+    else if(idx === i) b.classList.add("wrong"); });
+  const right = i === correctPos;
+  if(right) qscore++;
+  const fb = document.getElementById("fb");
+  fb.innerHTML = `<b>${right?"Correct":"Not quite"}</b>${esc(q.e)}`;
+  fb.classList.add("show");
+  document.getElementById("nextQ").style.visibility = "visible";
+}
+
+function renderResult(){
+  const today = new Date().toDateString();
+  store.history = store.history.concat({date:new Date().toISOString().slice(5,10).replace("-","/"), score:qscore, total:qset.length, level});
+  if(store.last !== today){
+    const y = new Date(Date.now()-864e5).toDateString();
+    store.streak = store.last === y ? store.streak + 1 : 1;
+    store.last = today;
+    refreshHeader();
+  }
+  const pct = Math.round(qscore/qset.length*100);
+  const verdict = pct >= 80 ? "Strong. Try the next level up."
+    : pct >= 50 ? "Solid base. Reread the briefings you missed."
+    : "Worth another pass at today's briefings before retrying.";
+  qcard.innerHTML = `
+    <div class="qtop"><span class="mono">Daily quiz · ${LEVEL_NAMES[level]}</span>
+      <button class="close" id="closeQ" title="Close">✕</button></div>
+    <div class="qbar"><i style="width:100%"></i></div>
+    <span class="mono">Result</span>
+    <div class="score">${qscore}/${qset.length}</div>
+    <h2 style="margin-bottom:8px">${esc(verdict)}</h2>
+    <p style="color:var(--muted);font-size:14px;margin:0">Streak: ${store.streak} day${store.streak===1?"":"s"}. A new set of five is drawn each day, and changing your level changes the difficulty.</p>
+    <div class="qfoot">
+      <span class="mono">Level ${LEVEL_NAMES[level]}</span>
+      <button class="btn" id="againQ">Back to the globe</button>
+    </div>`;
+  document.getElementById("closeQ").addEventListener("click", closeQuiz);
+  document.getElementById("againQ").addEventListener("click", closeQuiz);
+}
+
+/* ============ auth ui ============ */
+const authEl = document.getElementById("auth"), authCard = document.getElementById("authcard");
+let authMode = "in";
+
+function openAuth(mode){ authMode = mode || "in"; authEl.style.display = "flex"; renderAuth(); }
+function closeAuth(){ authEl.style.display = "none"; }
+
+function renderAuth(err){
+  const isIn = authMode === "in";
+  authCard.innerHTML = `
+    <div class="qtop">
+      <span class="mono">Ridar \u00b7 your account</span>
+      <button class="close" id="closeA" title="Close">\u2715</button>
+    </div>
+    <div class="tabs">
+      <button id="tabIn" aria-selected="${isIn}">Sign in</button>
+      <button id="tabUp" aria-selected="${!isIn}">Create account</button>
+    </div>
+    <h2 style="margin-bottom:6px">${isIn ? "Welcome back." : "Track what you learn."}</h2>
+    <p style="color:var(--muted);font-size:14px;margin:0 0 20px">${isIn
+      ? "Your streak, saved briefings and quiz history are kept against your account."
+      : "An account keeps your level, streak, quiz history and saved briefings in one place."}</p>
+    ${isIn ? "" : `<label class="field"><span>Name</span><input id="fName" type="text" autocomplete="name" placeholder="Your name"></label>`}
+    <label class="field"><span>Email</span><input id="fEmail" type="email" autocomplete="email" placeholder="you@university.ac.uk"></label>
+    <label class="field"><span>Password</span><input id="fPass" type="password" autocomplete="${isIn?"current-password":"new-password"}" placeholder="At least 6 characters"></label>
+    ${isIn ? "" : `<div class="field"><span>Starting level</span>
+      <div class="levels" id="signupLvl" style="width:max-content">
+        <button type="button" data-lvl="b" aria-pressed="true">Beginner</button>
+        <button type="button" data-lvl="i" aria-pressed="false">Intermediate</button>
+        <button type="button" data-lvl="a" aria-pressed="false">Advanced</button>
+      </div></div>`}
+    <p class="err">${err ? esc(err) : ""}</p>
+    <button class="btn" id="doAuth" style="width:100%;padding:13px">${isIn ? "Sign in" : "Create account"}</button>
+    <div class="authrow">
+      <button class="link" id="guestBtn">Continue without an account</button>
+    </div>
+    <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Prototype: accounts are stored in this browser only. Don\u2019t use a real password.</p>`;
+
+  document.getElementById("closeA").addEventListener("click", closeAuth);
+  document.getElementById("tabIn").addEventListener("click", () => { authMode="in"; renderAuth(); });
+  document.getElementById("tabUp").addEventListener("click", () => { authMode="up"; renderAuth(); });
+  document.getElementById("guestBtn").addEventListener("click", () => { localStorage.setItem("mrd_guest","1"); closeAuth(); });
+  document.getElementById("doAuth").addEventListener("click", submitAuth);
+  authCard.querySelectorAll("input").forEach(i =>
+    i.addEventListener("keydown", e => { if(e.key === "Enter") submitAuth(); }));
+  const lv = document.getElementById("signupLvl");
+  if(lv) lv.querySelectorAll("button").forEach(b => b.addEventListener("click", () => {
+    lv.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b ? "true" : "false"));
+  }));
+}
+
+function submitAuth(){
+  const email = (document.getElementById("fEmail").value||"").trim().toLowerCase();
+  const pass = document.getElementById("fPass").value||"";
+  const all = users.all();
+  if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return renderAuth("Enter a valid email address.");
+  if(pass.length < 6) return renderAuth("Passwords need at least six characters.");
+
+  if(authMode === "in"){
+    const rec = all[email];
+    if(!rec) return renderAuth("No account with that email. Create one instead?");
+    if(rec.pw !== users.scramble(pass)) return renderAuth("That password doesn\u2019t match.");
+    users.session = email;
+    if(rec.level) level = rec.level;
+  } else {
+    const name = (document.getElementById("fName").value||"").trim();
+    if(name.length < 2) return renderAuth("Tell us your name.");
+    if(all[email]) return renderAuth("That email already has an account. Sign in?");
+    const lvl = document.querySelector("#signupLvl button[aria-pressed='true']")?.dataset.lvl || "b";
+    all[email] = {name, pw:users.scramble(pass), level:lvl, joined:new Date().toISOString().slice(0,10)};
+    users.write(all);
+    users.session = email;
+    level = lvl;
+  }
+  localStorage.setItem("mrd_level", level);
+  syncLevelButtons();
+  closeAuth();
+  refreshHeader();
+  renderAccount();
+}
+
+function signOut(){
+  users.session = "";
+  selected = null; topicSel = null;
+  refreshHeader(); repaint(); emptyPanel();
+  openAuth("in");
+}
+
+/* ============ progress ============ */
+function renderAccount(){
+  const u = users.current;
+  if(!u) return openAuth("in");
+  const p = document.getElementById("panel");
+  const h = store.history.slice().reverse();
+  const asked = h.reduce((a,x)=>a+x.total,0), got = h.reduce((a,x)=>a+x.score,0);
+  const acc = asked ? Math.round(got/asked*100) : 0;
+  const readN = store.read.length, total = Object.keys(COUNTRIES).length;
+  p.scrollTop = 0;
+  p.innerHTML = `
+    <div class="p-head">
+      <div>
+        <span class="mono">Account \u00b7 since ${esc(u.joined||"today")}</span>
+        <h2>${esc(u.name)}</h2>
+        <p class="p-sub">${esc(u.email)} \u00b7 reading at ${LEVEL_NAMES[level]}</p>
+      </div>
+      <button class="close" id="closeP" title="Close">\u2715</button>
+    </div>
+
+    <div class="indicators" style="display:${(c.ind&&c.ind.length)?'grid':'none'}">
+      <div class="ind"><span class="mono">Streak</span><div class="v">${store.streak}</div><div class="d">day${store.streak===1?"":"s"}</div></div>
+      <div class="ind"><span class="mono">Accuracy</span><div class="v">${acc}%</div><div class="d">${got}/${asked} correct</div></div>
+      <div class="ind"><span class="mono">Markets read</span><div class="v">${readN}</div><div class="d">of ${total}</div></div>
+    </div>
+
+    <section class="block">
+      <span class="mono">Quiz history</span>
+      ${h.length ? `<ul class="hist">${h.slice(0,8).map(x =>
+        `<li><span class="mono">${esc(x.date)}</span><span>${LEVEL_NAMES[x.level]||""}</span><b>${x.score}/${x.total}</b></li>`).join("")}</ul>`
+        : `<p style="color:var(--muted);font-size:14px;margin:0">No quizzes yet. Five questions a day is enough to build the habit.</p>`}
+    </section>
+
+    <section class="block">
+      <span class="mono">Markets you have read</span>
+      ${readN ? `<div class="quick" style="margin-top:0">${store.read.map(n =>
+        `<button class="chip" data-c="${esc(n)}">${esc(COUNTRIES[n]?.label||n)}</button>`).join("")}</div>`
+        : `<p style="color:var(--muted);font-size:14px;margin:0">Nothing yet \u2014 turn the globe and open a country.</p>`}
+    </section>
+
+    <div class="cta">
+      <button class="btn" id="quizFromPanel">Take the daily quiz</button>
+      <button class="btn ghost" id="outBtn">Sign out</button>
+    </div>`;
+  p.querySelectorAll(".chip[data-c]").forEach(b =>
+    b.addEventListener("click", () => { topicSel=null; selectByName(b.dataset.c); }));
+  document.getElementById("closeP").addEventListener("click", () => emptyPanel());
+  document.getElementById("quizFromPanel").addEventListener("click", startQuiz);
+  document.getElementById("outBtn").addEventListener("click", signOut);
+}
+
+function syncLevelButtons(){
+  document.querySelectorAll("#levels button").forEach(x =>
+    x.setAttribute("aria-pressed", x.dataset.lvl === level ? "true" : "false"));
+}
+
+/* ============ live data ============ */
+/* run.js writes data/briefings.json and data/quiz.json. If they exist they
+   replace the sample constants; if not (first run, or opened straight off
+   the filesystem) the sample content stays and the site still works. */
+async function loadLiveData(){
+  const stamp = document.getElementById("freshness");
+  try{
+    const bRes = await fetch("data/briefings.json", {cache:"no-store"});
+    if(!bRes.ok) throw new Error("no briefings file");
+    const data = await bRes.json();
+    if(!data.countries || !Object.keys(data.countries).length) throw new Error("empty");
+
+    COUNTRIES = data.countries;
+    if(data.digest && data.digest.headline) DIGEST = data.digest;
+
+    try{
+      const qRes = await fetch("data/quiz.json", {cache:"no-store"});
+      if(qRes.ok){
+        const quiz = await qRes.json();
+        if(Array.isArray(quiz.questions) && quiz.questions.length) QUESTIONS = quiz.questions;
+      }
+    }catch(e){}
+
+    const hrs = (Date.now() - new Date(data.generated).getTime()) / 3600000;
+    stamp.textContent = hrs < 1 ? "Updated just now"
+      : hrs < 48 ? "Updated " + Math.round(hrs) + "h ago"
+      : "Updated " + Math.round(hrs/24) + "d ago";
+    stamp.title = "Summarised by " + (data.provider || "AI") + " from public RSS feeds";
+
+    if(features.length) renderCountries();
+    if(selected && !COUNTRIES[selected]) selected = null;
+    if(topicSel) renderTopic(topicSel);
+    else if(selected) renderPanel(selected);
+    else emptyPanel();
+    repaint();
+  }catch(e){
+    stamp.textContent = "Sample data";
+    stamp.title = "data/briefings.json not found. Run: node run.js";
+  }
+}
+
+/* ============ wiring ============ */
+document.querySelectorAll("#levels button").forEach(b => b.addEventListener("click", () => {
+  level = b.dataset.lvl;
+  localStorage.setItem("mrd_level", level);
+  const u = users.current;
+  if(u){ const all = users.all(); all[u.email].level = level; users.write(all); }
+  syncLevelButtons();
+  if(quizEl.classList.contains("open")) startQuiz();
+  else if(topicSel) renderTopic(topicSel);
+  else if(selected) renderPanel(selected);
+  else if(document.getElementById("quizFromDigest")) emptyPanel();
+}));
+document.querySelectorAll("#levels button").forEach(x =>
+  x.setAttribute("aria-pressed", x.dataset.lvl === level ? "true" : "false"));
+document.getElementById("acctBtn").addEventListener("click", () => users.current ? renderAccount() : openAuth("in"));
+authEl.addEventListener("click", e => { if(e.target === authEl) closeAuth(); });
+document.getElementById("quizBtn").addEventListener("click", startQuiz);
+document.getElementById("savedBtn").addEventListener("click", renderSaved);
+quizEl.addEventListener("click", e => { if(e.target === quizEl) closeQuiz(); });
+document.addEventListener("keydown", e => { if(e.key === "Escape"){ closeQuiz(); closeAuth(); } });
+
+const me = users.current;
+if(me && me.level) level = me.level;
+syncLevelButtons();
+refreshHeader();
+emptyPanel();
+loadLiveData();
+if(!users.session && !localStorage.getItem("mrd_guest")) openAuth("up");
+</script>
+</body>
+</html>

@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ridar — build handoff</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  doc-page:not(:defined){visibility:hidden}
+  doc-page{
+    --red:#8A0E1F; --ink:#1F1A17; --muted:#6E6057; --rule:#E4D0BE; --beige:#FFF1E5;
+    font-family:"IBM Plex Sans",Helvetica,Arial,sans-serif;
+    font-size:10.5pt;line-height:1.6;color:var(--ink);
+  }
+  h1,h2,h3,h4{font-family:"Source Serif 4",Georgia,serif;color:var(--ink)}
+  h1{font-size:27pt;line-height:1.1;margin:0 0 6pt;letter-spacing:-.01em}
+  .standfirst{font-size:12pt;line-height:1.5;color:var(--muted);margin:0 0 4pt;max-width:44em}
+  .meta{font-family:"IBM Plex Mono",monospace;font-size:8pt;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin:0 0 22pt;padding-bottom:10pt;border-bottom:2px solid var(--red)}
+  h2{font-size:16pt;margin:24pt 0 8pt;padding-top:8pt;border-top:1px solid var(--rule)}
+  h2 .n{font-family:"IBM Plex Mono",monospace;font-size:9pt;color:var(--red);letter-spacing:.08em;display:block;margin-bottom:4pt}
+  h3{font-size:12pt;margin:16pt 0 5pt}
+  h4{font-size:10.5pt;margin:12pt 0 4pt;font-weight:600}
+  p{margin:0 0 9pt}
+  ul,ol{margin:0 0 10pt;padding-left:18pt}
+  li{margin-bottom:4pt}
+  strong{font-weight:600}
+  code{font-family:"IBM Plex Mono",monospace;font-size:9pt;background:var(--beige);padding:1px 4px;border-radius:2px}
+  table{width:100%;border-collapse:collapse;margin:8pt 0 12pt;font-size:9.5pt}
+  th,td{text-align:left;padding:6pt 8pt;border-bottom:1px solid var(--rule);vertical-align:top}
+  thead th{font-family:"IBM Plex Mono",monospace;font-size:8pt;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--ink)}
+  pre{
+    font-family:"IBM Plex Mono",monospace;font-size:8.5pt;line-height:1.5;
+    background:var(--beige);border-left:2px solid var(--red);padding:10pt 12pt;margin:8pt 0 6pt;
+    white-space:pre-wrap;break-inside:avoid;
+  }
+  .cap{font-family:"IBM Plex Mono",monospace;font-size:8pt;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 14pt}
+  .callout{background:var(--beige);padding:11pt 13pt;margin:10pt 0 12pt;border-left:2px solid var(--red);break-inside:avoid;orphans:3;widows:3}
+  .callout p:last-child{margin-bottom:0}
+  .callout h4{margin-top:0}
+  .flow{font-family:"IBM Plex Mono",monospace;font-size:8.5pt;line-height:1.75;white-space:pre-wrap;background:var(--beige);padding:12pt 14pt;margin:8pt 0 6pt;break-inside:avoid}
+  footer.doc{font-family:"IBM Plex Mono",monospace;font-size:8pt;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);display:flex;justify-content:space-between}
+</style>
+</head>
+<body>
+<doc-page margin="0.8in">
+  <div slot="footer"><footer class="doc"><span>Ridar — build handoff</span><span>August 2026</span></footer></div>
+
+  <h1>Ridar: turning the prototype into a working product</h1>
+  <p class="standfirst">A build specification for the commercial awareness globe — where the news actually comes from, what the database looks like, the prompts that write the summaries, and the order to build it in.</p>
+  <p class="meta">Handoff document · v1 · companion to index.html</p>
+
+  <p>The prototype is complete as an interface: a rotatable globe with ten briefed markets, six cross-cutting themes, three explanation levels, a daily quiz and accounts with streaks. Everything it shows is sample text held in a JavaScript object. This document covers what has to be built behind it.</p>
+
+  <p>There are three moving parts, and only one of them is hard.</p>
+
+  <ol>
+    <li><strong>Getting the news in.</strong> Legally and reliably. This is the hard part, and it is a licensing problem more than an engineering one.</li>
+    <li><strong>Turning it into three-level summaries and quiz questions.</strong> One scheduled job, one AI model, one database write.</li>
+    <li><strong>Serving it to the front end.</strong> The prototype already has the shape; it needs to read from an API instead of a constant.</li>
+  </ol>
+
+  <h2><span class="n">Section 01</span>The news problem</h2>
+
+  <p>You cannot take Financial Times or Bloomberg article text, feed it to an AI model, and republish the output. Both licence their content, and both actively enforce. Summarising an article closely enough to be useful is a derivative work; doing it at scale, on a schedule, for a public site is the thing publishers litigate over.</p>
+
+  <p>What you <em>can</em> do:</p>
+
+  <ul>
+    <li><strong>Report facts in your own words.</strong> Facts are not copyrightable. "The Bank of England cut Bank Rate to 4.00% on a 6–3 vote" is a fact, and you can say it however you like.</li>
+    <li><strong>Attribute and link.</strong> Name the outlet, link the original, never reproduce more than a short quotation.</li>
+    <li><strong>Use primary sources directly.</strong> Central bank statements, statistics agencies, company results and IMF releases are free to use, publish on a schedule, and are what the FT is reporting on anyway.</li>
+    <li><strong>Licence a feed if you go commercial.</strong> Aggregators sell redistribution rights. Read the terms on <em>store-local</em> versus <em>redistribute</em> — they differ, and the cheap tiers usually forbid the second.</li>
+  </ul>
+
+  <div class="callout">
+    <h4>The design implication</h4>
+    <p>Build Ridar's summaries from <strong>primary sources plus multi-outlet corroboration</strong>, not from single articles. Instead of "summarise this FT piece", the pipeline asks: here are five headlines from five outlets, a central bank statement and today's market moves — write what happened and why it matters. That is defensible, better journalism, and produces the level-tiered explanation you actually want.</p>
+  </div>
+
+  <h3>A three-tier source stack</h3>
+
+  <table>
+    <thead><tr><th>Tier</th><th>What it gives you</th><th>Cost</th></tr></thead>
+    <tbody>
+      <tr><td><strong>1. Primary feeds</strong><br>Central bank RSS (Fed, BoE, ECB, BoJ, RBI, PBoC), ONS / BLS / Eurostat release calendars, IMF and World Bank data, OPEC press releases, exchange filings</td><td>Authoritative facts, dates, decisions and numbers. The backbone of every briefing.</td><td>Free</td></tr>
+      <tr><td><strong>2. Aggregator news API</strong><br>Marketaux, NewsData.io, Alpha Vantage News &amp; Sentiment, APITube, Exa</td><td>Headlines, URLs, publisher, timestamp, often sentiment and entity tags across thousands of outlets. Use for corroboration and for "what is the market talking about today".</td><td>Free tier to low hundreds per month</td></tr>
+      <tr><td><strong>3. Licensed wire</strong><br>Reuters, AP, Dow Jones, Bloomberg</td><td>Full text with redistribution rights. Only worth it if Ridar becomes a commercial product with revenue.</td><td>Contact-sales, four figures upward</td></tr>
+    </tbody>
+  </table>
+  <p class="cap">Table 1 — Start at tiers 1 and 2. They are enough for a working product.</p>
+
+  <p>Two practical notes. Aggregator free tiers usually cap you at a few hundred requests a day and delay results by 15–60 minutes — fine for a daily briefing, useless for trading. And <strong>headline plus URL is enough</strong>: you do not need full article text if your prompt is grounded in primary sources, which also keeps you clear of the licensing question.</p>
+
+  <h2><span class="n">Section 02</span>Architecture</h2>
+
+  <div class="flow">
+    06:00 UTC  cron job fires
+       ├─ fetch   primary feeds (RSS/JSON)      ─┐
+       ├─ fetch   news aggregator, per country  ─┤
+       └─ fetch   market data (indices, FX, rates)┘
+                        ↓
+              dedupe + cluster into stories
+                        ↓
+       AI call 1   three-level summaries + jargon terms
+       AI call 2   quiz questions from today's stories
+       AI call 3   daily digest (home screen)
+                        ↓
+              validate → write to database
+                        ↓
+       API  /api/digest  /api/country/:iso  /api/topic/:slug  /api/quiz?level=
+                        ↓
+                  index.html (already built)
+  </div>
+  <p class="cap">Figure 1 — One scheduled job a day; everything else is a read.</p>
+
+  <p>Nothing here needs to be real-time. A daily rebuild at a fixed hour is the right cadence for a learning product: it makes the content finite, which is what makes the "read today's briefing, take today's quiz" habit work.</p>
+
+  <h3>Suggested stack</h3>
+  <table>
+    <thead><tr><th>Layer</th><th>Choice</th><th>Why</th></tr></thead>
+    <tbody>
+      <tr><td>Database + auth</td><td>Supabase (Postgres)</td><td>Free tier, real Postgres, auth and row-level security included — replaces the prototype's localStorage accounts directly.</td></tr>
+      <tr><td>Scheduled job</td><td>GitHub Actions cron, or Supabase Edge Function</td><td>Runs once a day. No server to keep alive.</td></tr>
+      <tr><td>AI</td><td>Claude API, one call per country per day</td><td>Long context handles a bundle of sources in one call; JSON output mode keeps writes clean.</td></tr>
+      <tr><td>Hosting</td><td>Vercel or Netlify, static + serverless functions</td><td>The front end is already a static file.</td></tr>
+      <tr><td>Market data</td><td>Alpha Vantage, Twelve Data or Financial Modeling Prep free tier</td><td>Indices, FX and yields for the indicator strip. Delayed data is fine — label it.</td></tr>
+    </tbody>
+  </table>
+  <p class="cap">Table 2 — Runs at roughly the cost of the AI calls alone.</p>
+
+  <h2><span class="n">Section 03</span>Data schema</h2>
+
+  <p>Eight tables. The shape follows the prototype's objects closely, so the front end changes very little.</p>
+
+<pre>-- reference
+countries(iso3 pk, name, label, region, enabled bool)
+topics(slug pk, label, sub, country_iso3s text[])
+
+-- daily content
+briefings(id pk, iso3 fk, date, sub, published_at)
+stories(id pk, briefing_id fk, topic_slug fk null, headline,
+        body_beginner, body_intermediate, body_advanced,
+        sources jsonb,        -- [{outlet, url, published_at}]
+        term_keys text[],     -- glossary refs used in the body
+        rank int)
+briefs(briefing_id fk, kind,  -- 'politics' | 'topic_what' | 'topic_ask'
+       beginner, intermediate, advanced)
+indicators(briefing_id fk, key, value, delta, direction)  -- direction: up|down|flat
+events(briefing_id fk, date_label, text, sort int)        -- timeline
+terms(key pk, term, beginner, intermediate, advanced)     -- glossary
+
+-- quiz
+questions(id pk, date, level, tag, prompt, options jsonb,
+          correct_index int, explanation, iso3 fk null, topic_slug fk null)
+
+-- users (Supabase auth handles credentials)
+profiles(user_id pk, name, level, streak int, last_quiz_date)
+attempts(id pk, user_id fk, date, level, score, total)
+saved(user_id fk, iso3 fk, saved_at)
+reads(user_id fk, iso3 fk, read_at)
+</pre>
+  <p class="cap">Figure 2 — Schema sketch. Prototype constants map one-to-one onto these tables.</p>
+
+  <p>Two decisions worth making early. Keep the three level variants as <strong>columns on one row</strong>, not three rows: they describe the same story and must stay in sync. And store <code>sources</code> as JSON on the story rather than a join table — you only ever read them together, and it keeps attribution attached to the text it justifies.</p>
+
+  <h2><span class="n">Section 04</span>The AI prompts</h2>
+
+  <p>Three prompts. All three should request JSON output and be validated before anything is written. The critical instruction in each is the same: <strong>use only the supplied sources, and refuse rather than invent</strong>.</p>
+
+  <h3>Prompt 1 — the country briefing</h3>
+
+<pre>SYSTEM
+You write commercial awareness briefings for finance students. You explain
+what happened and why it matters. You do not give investment advice, make
+predictions, or express political opinions.
+
+RULES
+1. Use ONLY the facts in the SOURCES block. If a number, date, vote count
+   or name is not there, do not state it.
+2. Never reproduce source wording. Write every sentence yourself.
+3. If the sources are too thin for a story, return fewer stories. Never pad.
+4. Write three versions of every text field:
+   - beginner: no jargon at all. Any unavoidable term is defined in the
+     sentence that uses it. Short sentences. Assume no prior knowledge.
+   - intermediate: standard financial vocabulary used correctly, with
+     mechanisms named (yield curve, term premium, guidance). Assume a
+     second-year economics student.
+   - advanced: second-order reasoning. What is the transmission channel,
+     what would falsify the reading, what is the market actually pricing.
+     Assume a candidate at final-round interview.
+5. Mark jargon in the intermediate and advanced text with
+   &lt;span class="term" data-t="KEY"&gt;…&lt;/span&gt; using keys from GLOSSARY.
+6. No hype, no "this could mean", no emoji, no exclamation marks.
+
+INPUT
+COUNTRY: {name}
+DATE: {date}
+MARKET DATA: {indices, FX, policy rate, with deltas}
+SOURCES: [{outlet, headline, url, published_at, summary_or_release_text}, …]
+GLOSSARY KEYS: {available term keys}
+
+OUTPUT (JSON)
+{
+  "sub": "one line, max 60 chars, what today is about",
+  "stories": [{
+    "headline": "...",
+    "body_beginner": "...", "body_intermediate": "...", "body_advanced": "...",
+    "term_keys": ["inflation"],
+    "sources": [{"outlet":"...","url":"...","published_at":"..."}]
+  }],
+  "politics": {"beginner":"...","intermediate":"...","advanced":"..."},
+  "timeline": [{"date_label":"12 Aug","text":"..."}]
+}</pre>
+  <p class="cap">Figure 3 — Run once per country per day. Two to three stories is the right length.</p>
+
+  <h3>Prompt 2 — the quiz</h3>
+
+<pre>SYSTEM
+You write multiple-choice questions that test whether someone understood
+today's briefings.
+
+RULES
+1. Every question must be answerable from the briefings supplied. No
+   outside knowledge, no arithmetic on unstated numbers.
+2. Test the mechanism, not recall of a number. "Why did the share price
+   fall despite the earnings beat?" not "What was revenue?"
+3. Four options. Exactly one correct. Wrong options must be plausible and
+   wrong for a reason — the common misconception, not a joke answer.
+4. The explanation teaches: say why the right answer is right AND why the
+   tempting wrong one is wrong. Two or three sentences.
+5. Difficulty by level:
+   - beginner: definitions and direction of effect
+   - intermediate: mechanism and second-order effect
+   - advanced: what the market is pricing, what would falsify the reading
+6. Vary which country and theme each question comes from.
+
+INPUT
+LEVEL: {beginner|intermediate|advanced}
+BRIEFINGS: {today's stories for all enabled countries}
+
+OUTPUT (JSON)
+{"questions": [{
+  "tag": "United Kingdom · Fixed income",
+  "prompt": "...",
+  "options": ["...","...","...","..."],
+  "correct_index": 0,
+  "explanation": "..."
+}]}   // 8 per level; the app serves a deterministic daily 5</pre>
+  <p class="cap">Figure 4 — Generate eight and serve five, so a repeat visit is not the same set.</p>
+
+  <div class="callout">
+    <h4>Option order</h4>
+    <p>Have the model always put the correct answer first and set <code>correct_index: 0</code>, then shuffle at render time with a daily seed — which is what the prototype now does. Asking a model to distribute correct answers randomly across positions produces a detectable bias; shuffling in code does not.</p>
+  </div>
+
+  <h3>Prompt 3 — the daily digest</h3>
+
+<pre>SYSTEM
+You write the one-screen summary of the day's global picture, for someone
+who has two minutes.
+
+RULES
+1. Use only the briefings supplied.
+2. One paragraph naming the single thing that mattered most today and why.
+3. Then three to four one-line items, each tied to a country, in the same
+   three levels.
+4. Say what connects them if anything does. If nothing does, say the day
+   was quiet — do not manufacture a narrative.
+
+OUTPUT (JSON)
+{"headline":"...",
+ "lede":{"beginner":"...","intermediate":"...","advanced":"..."},
+ "items":[{"iso3":"GBR","text":{"beginner":"...","intermediate":"...","advanced":"..."}}],
+ "thread":{"beginner":"...","intermediate":"...","advanced":"..."}}</pre>
+
+  <h3>Validation before writing</h3>
+  <ul>
+    <li>Reject any story whose <code>sources</code> array is empty.</li>
+    <li>Reject any question whose <code>options</code> length is not four, or whose <code>correct_index</code> is out of range.</li>
+    <li>Flag for review any number in the output that does not appear in the input sources — a simple numeric-token diff catches most hallucination.</li>
+    <li>Keep yesterday's briefing live until today's passes validation. Never publish a partial day.</li>
+    <li>Spot-check one country a day by hand for the first month. You will learn more about the prompts in that month than from any amount of tuning up front.</li>
+  </ul>
+
+  <h2><span class="n">Section 05</span>What the front end needs</h2>
+
+  <p>The prototype's constants become fetches. Nothing else in the rendering logic has to change.</p>
+
+  <table>
+    <thead><tr><th>Prototype constant</th><th>Becomes</th></tr></thead>
+    <tbody>
+      <tr><td><code>COUNTRIES</code></td><td><code>GET /api/briefings?date=today</code></td></tr>
+      <tr><td><code>TOPICS</code></td><td><code>GET /api/topics?date=today</code></td></tr>
+      <tr><td><code>GLOSSARY</code></td><td><code>GET /api/terms</code> — cache indefinitely, it barely changes</td></tr>
+      <tr><td><code>QUESTIONS</code></td><td><code>GET /api/quiz?level=i&amp;date=today</code></td></tr>
+      <tr><td><code>DIGEST</code></td><td><code>GET /api/digest?date=today</code></td></tr>
+      <tr><td><code>users</code> / <code>store</code></td><td>Supabase auth plus <code>profiles</code>, <code>attempts</code>, <code>saved</code>, <code>reads</code>. The prototype namespaces every storage key by user, so swapping the getters for API calls is a contained change.</td></tr>
+    </tbody>
+  </table>
+  <p class="cap">Table 3 — Keying on ISO3 rather than country name is worth doing at the same time.</p>
+
+  <p>One thing to fix in the move: the prototype matches countries by the TopoJSON <code>properties.name</code> string, which means "United States of America" and not "United States". Map ISO3 codes to feature ids once, in a lookup, and the fragility goes away.</p>
+
+  <h2><span class="n">Section 06</span>Build order</h2>
+
+  <table>
+    <thead><tr><th>Phase</th><th>Do</th><th>Done when</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>Stand up Supabase, create the schema, move accounts and progress off localStorage.</td><td>You can sign in on two devices and see the same streak.</td></tr>
+      <tr><td>2</td><td>Write the fetch layer for one country — say the UK — from Bank of England RSS plus one aggregator. Store raw sources.</td><td>A table of today's real headlines, with URLs.</td></tr>
+      <tr><td>3</td><td>Run prompt 1 on that one country. Read the output yourself, at all three levels.</td><td>You would show the advanced version to someone who works in markets.</td></tr>
+      <tr><td>4</td><td>Scale to ten countries. Add the cron. Add validation.</td><td>A full briefing appears every morning without you touching it.</td></tr>
+      <tr><td>5</td><td>Prompts 2 and 3 — quiz and digest.</td><td>Daily quiz questions come from that morning's real stories.</td></tr>
+      <tr><td>6</td><td>Point the front end at the API. Delete the sample constants.</td><td>The globe is live.</td></tr>
+    </tbody>
+  </table>
+  <p class="cap">Table 4 — Phase 3 tells you whether the product works. Get there quickly.</p>
+
+  <div class="callout">
+    <h4>Two things to put on the site before it goes public</h4>
+    <p><strong>An explanation of how the summaries are made</strong> — that they are AI-written from named sources, and that readers should follow the links for the reporting itself. Attribution is both the legal position and the honest one.</p>
+    <p><strong>A line saying this is education, not investment advice.</strong> Short, in the footer, and meant.</p>
+  </div>
+</doc-page>
+<script src="./doc-page.js"></script>
+</body>
+</html>
