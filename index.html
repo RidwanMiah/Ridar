@@ -56,6 +56,9 @@
   }
   .levels button:last-child{border-right:0}
   .levels button[aria-pressed="true"]{background:var(--red);color:#fff}
+  .lvlpick{display:flex;align-items:center;gap:14px;margin:0 0 20px;flex-wrap:wrap}
+  .lvlpick .mono{color:var(--muted);font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+  .lvlpick .levels button{padding:8px 15px;font-size:12px}
   .hstat{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--muted)}
   .hstat b{font-family:"Source Serif 4",serif;font-size:18px;color:var(--ink);font-weight:600}
   .btn{
@@ -1142,9 +1145,26 @@ function emptyPanel(){
   const L = k => (DIGEST[k][level] || DIGEST[k].b);
   document.getElementById("panel").innerHTML = `
     <div class="empty">
-      <span class="mono">Today · ${esc(DIGEST.date)} · ${LEVEL_NAMES[level]}</span>
-      <h2 style="margin:8px 0 12px">${esc(DIGEST.headline)}</h2>
+      <span class="mono">Today · ${esc(DIGEST.date)}</span>
+      <h2 style="margin:8px 0 14px">${esc(DIGEST.headline)}</h2>
+
+      <div class="lvlpick">
+        <span class="mono">Reading level</span>
+        <div class="levels">
+          <button type="button" data-lvl="b">Beginner</button>
+          <button type="button" data-lvl="i">Intermediate</button>
+          <button type="button" data-lvl="a">Advanced</button>
+        </div>
+      </div>
+
       <p style="font-size:15px;line-height:1.6;color:var(--ink);max-width:none">${esc(L("lede"))}</p>
+
+      <section class="block">
+        <span class="mono">Explore by theme</span>
+        <div class="quick" style="margin-top:0">
+          ${Object.keys(TOPICS).map(k => `<button class="chip" data-topic="${k}">${esc(TOPICS[k].label)}</button>`).join("")}
+        </div>
+      </section>
 
       <section class="block">
         <span class="mono">What moved</span>
@@ -1155,16 +1175,9 @@ function emptyPanel(){
       </section>
 
       <section class="block">
-        <span class="mono">Read a market</span>
+        <span class="mono">Read a single market</span>
         <div class="quick" style="margin-top:0">
           ${names.map(n => `<button class="chip" data-c="${esc(n)}">${esc(COUNTRIES[n].label)}</button>`).join("")}
-        </div>
-      </section>
-
-      <section class="block">
-        <span class="mono">Or read by theme</span>
-        <div class="quick" style="margin-top:0">
-          ${Object.keys(TOPICS).map(k => `<button class="chip" data-topic="${k}">${esc(TOPICS[k].label)}</button>`).join("")}
         </div>
       </section>
 
@@ -1177,7 +1190,10 @@ function emptyPanel(){
     b.addEventListener("click", () => { topicSel = null; selectByName(b.dataset.c); }));
   document.querySelectorAll(".chip[data-topic]").forEach(b =>
     b.addEventListener("click", () => renderTopic(b.dataset.topic)));
+  document.querySelectorAll(".lvlpick button").forEach(b =>
+    b.addEventListener("click", () => setLevel(b.dataset.lvl)));
   document.getElementById("quizFromDigest").addEventListener("click", startQuiz);
+  syncLevelButtons();
 }
 
 function storyHTML(s){
@@ -1576,7 +1592,7 @@ function renderAccount(){
 }
 
 function syncLevelButtons(){
-  document.querySelectorAll("#levels button").forEach(x =>
+  document.querySelectorAll("#levels button, .lvlpick button").forEach(x =>
     x.setAttribute("aria-pressed", x.dataset.lvl === level ? "true" : "false"));
 }
 
@@ -1622,16 +1638,19 @@ async function loadLiveData(){
 }
 
 /* ============ wiring ============ */
-document.querySelectorAll("#levels button").forEach(b => b.addEventListener("click", () => {
-  level = b.dataset.lvl;
+function setLevel(lvl){
+  if(!lvl || lvl === level) return;
+  level = lvl;
   localStorage.setItem("mrd_level", level);
   pushCloud();
   syncLevelButtons();
   if(quizEl.classList.contains("open")) startQuiz();
   else if(topicSel) renderTopic(topicSel);
   else if(selected) renderPanel(selected);
-  else if(document.getElementById("quizFromDigest")) emptyPanel();
-}));
+  else emptyPanel();
+}
+document.querySelectorAll("#levels button").forEach(b =>
+  b.addEventListener("click", () => setLevel(b.dataset.lvl)));
 document.querySelectorAll("#levels button").forEach(x =>
   x.setAttribute("aria-pressed", x.dataset.lvl === level ? "true" : "false"));
 document.getElementById("acctBtn").addEventListener("click", () => users.current ? renderAccount() : openAuth("in"));
