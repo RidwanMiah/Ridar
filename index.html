@@ -66,9 +66,9 @@
   .btn.ghost{background:transparent;color:var(--red)}
   .btn.ghost:hover{background:rgba(138,14,31,.07);color:var(--red-deep)}
 
-  main{display:grid;grid-template-columns:minmax(0,1fr) 600px;min-height:0}
-  @media (max-width:1280px){main{grid-template-columns:minmax(0,1fr) 540px}}
-  @media (max-width:1080px){main{grid-template-columns:minmax(0,1fr) 460px}}
+  main{display:grid;grid-template-columns:minmax(0,1fr) 500px;min-height:0}
+  @media (max-width:1200px){main{grid-template-columns:minmax(0,1fr) 440px}}
+  @media (max-width:960px){main{grid-template-columns:minmax(0,1fr) 400px}}
 
   /* ---------- globe ---------- */
   #stage{position:relative;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
@@ -209,11 +209,22 @@
 
   /* ---------- landing ---------- */
   #landing{position:fixed;inset:0;z-index:60;background:var(--beige);overflow:hidden;
-    transition:opacity .6s ease,visibility .6s}
+    transition:opacity .5s ease .35s,visibility .5s .35s}
   #landing.gone{opacity:0;visibility:hidden;pointer-events:none}
   .landing-globe-wrap{position:absolute;top:50%;right:0;transform:translate(30%,-50%);
-    width:min(96vh,860px);height:min(96vh,860px);pointer-events:none}
+    width:min(96vh,860px);height:min(96vh,860px);pointer-events:none;
+    transition:transform .9s cubic-bezier(.5,0,.15,1),opacity .5s ease .25s}
+  #landing.gone .landing-globe-wrap{transform:translate(30%,-50%) scale(2.6);opacity:0}
+  .landing-copy{transition:opacity .4s ease,transform .5s cubic-bezier(.4,0,.2,1)}
+  #landing.gone .landing-copy{opacity:0;transform:translateY(-14px)}
   #landingGlobe{width:100%;height:100%;display:block}
+  /* app entrance cascade, triggered while the landing flies away */
+  @keyframes ridarTop{from{opacity:0;transform:translateY(-16px)}to{opacity:1;transform:none}}
+  @keyframes ridarRight{from{opacity:0;transform:translateX(28px)}to{opacity:1;transform:none}}
+  @keyframes ridarStage{from{opacity:0;transform:scale(1.04)}to{opacity:1;transform:none}}
+  #app.entering > header{animation:ridarTop .55s cubic-bezier(.2,.7,.2,1) .15s both}
+  #app.entering #panel{animation:ridarRight .6s cubic-bezier(.2,.7,.2,1) .28s both}
+  #app.entering #stage{animation:ridarStage .75s cubic-bezier(.2,.7,.2,1) .1s both}
   .landing-grid{position:relative;z-index:1;max-width:1200px;margin:0 auto;
     height:100%;padding:0 max(6vw,28px);display:flex;align-items:center}
   .landing-copy{max-width:460px;padding-right:20px;
@@ -231,9 +242,12 @@
   #enterBtn:hover{gap:20px;background:#700b18}
   #enterBtn span{font-size:17px}
   .landing-foot{color:var(--muted);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;margin:34px 0 0}
+  .landing-foot a{color:var(--red);text-decoration:none}
+  .landing-foot a:hover{text-decoration:underline}
   @media (max-width:860px){
     .landing-globe-wrap{top:auto;bottom:-6vh;right:50%;transform:translateX(50%);
       width:min(130vw,600px);height:min(130vw,600px);opacity:.2}
+    #landing.gone .landing-globe-wrap{transform:translateX(50%) scale(2.6);opacity:0}
     .landing-grid{align-items:flex-start;width:100%;padding-top:clamp(56px,12vh,150px)}
     .landing-copy{max-width:100%;width:100%;padding-right:0;background:none}
     .landing-brand{margin-bottom:26px}
@@ -250,7 +264,7 @@
       <h2>The markets,<br>explained plainly.</h2>
       <p class="landing-lede">Ten economies briefed every day from public financial news — beginner to advanced, with a quiz that makes it stick. Built for everyone. Free forever.</p>
       <button id="enterBtn">Enter Ridar <span aria-hidden="true">→</span></button>
-      <p class="landing-foot mono">Education, not investment advice</p>
+      <p class="landing-foot mono">Education, not investment advice · <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener">Built by Ridwan Miah</a></p>
     </div>
     <div class="landing-globe-wrap"><svg id="landingGlobe" aria-hidden="true"></svg></div>
   </div>
@@ -909,7 +923,7 @@ function setZoom(z){
 
 function rescale(){
   const r = stage.getBoundingClientRect();
-  size = Math.max(240, Math.min(r.width - 88, r.height - 88, 560));
+  size = Math.max(240, Math.min(r.width - 80, r.height - 80, 900));
   svg.attr("width", r.width).attr("height", r.height);
   projection.scale(size/2 * zoom).translate([r.width/2, r.height/2]);
   gHalo.attr("cx", r.width/2).attr("cy", r.height/2).attr("r", size/2 * zoom);
@@ -1044,11 +1058,25 @@ d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json").th
 });
 
 /* ============ landing ============ */
+let landingSpin = null;
 function dismissLanding(){
   const el = document.getElementById("landing");
-  if(!el) return;
-  el.classList.add("gone");
-  setTimeout(() => el.remove(), 700);
+  if(!el || el.classList.contains("gone")) return;
+  const app = document.getElementById("app");
+  app.classList.add("entering");                  // header/panel/stage animate in behind
+  el.classList.add("gone");                       // globe scales up + flies out, copy lifts away
+  let done = false;
+  const finish = () => {
+    if(done) return;
+    done = true;
+    if(landingSpin) landingSpin.stop();
+    el.remove();
+    app.classList.remove("entering");
+  };
+  el.addEventListener("transitionend", e => {     // ignore child transitions bubbling up
+    if(e.target === el && e.propertyName === "opacity") finish();
+  });
+  setTimeout(finish, 1600);                       // fallback if transitionend never fires
 }
 function setupLanding(){
   const el = document.getElementById("landingGlobe");
@@ -1067,12 +1095,10 @@ function setupLanding(){
       .attr("stroke", d => MARKETS[d.properties.name] ? "#8A0E1F" : "#CBA88E")
       .attr("stroke-width", d => MARKETS[d.properties.name] ? .9 : .5);
     let rot = [-18, -10];
-    const spin = d3.timer(() => {
+    landingSpin = d3.timer(() => {
       rot[0] += 0.16; proj.rotate(rot);
       grat.attr("d", gp); land.selectAll("path").attr("d", gp);
     });
-    const wrap = document.getElementById("landing");
-    if(wrap) wrap.addEventListener("transitionend", () => spin.stop(), { once:true });
   }
 }
 document.getElementById("enterBtn").addEventListener("click", dismissLanding);
@@ -1115,7 +1141,7 @@ function emptyPanel(){
       <div class="cta">
         <button class="btn" id="quizFromDigest">Take today’s quiz</button>
       </div>
-      <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Prototype: briefings are sample content standing in for AI summaries of Financial Times, Bloomberg and Reuters reporting. Education, not investment advice.</p>
+      <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Briefings are AI-written from public RSS feeds — central banks, governments, and financial news headlines — and always link to the source. Education, not investment advice. <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener" style="color:var(--red)">Built by Ridwan Miah</a>.</p>
     </div>`;
   document.querySelectorAll(".chip[data-c]").forEach(b =>
     b.addEventListener("click", () => { topicSel = null; selectByName(b.dataset.c); }));
