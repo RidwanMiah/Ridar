@@ -47,12 +47,14 @@ const PRIMARY_FEEDS = [
   { source: 'Bank of England',   iso3: 'GBR', url: 'https://www.bankofengland.co.uk/rss/news' },
   { source: 'UK Government',     iso3: 'GBR', url: 'https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-treasury' },
   { source: 'Federal Reserve',   iso3: 'USA', url: 'https://www.federalreserve.gov/feeds/press_monetary.xml' },
-  { source: 'US Treasury',       iso3: 'USA', url: 'https://home.treasury.gov/system/files/126/press-releases.xml' },
   { source: 'European Central Bank', iso3: 'DEU', url: 'https://www.ecb.europa.eu/rss/press.html' },
   { source: 'Bank of Japan',     iso3: 'JPN', url: 'https://www.boj.or.jp/en/rss/whatsnew.xml' },
   { source: 'Reserve Bank of India', iso3: 'IND', url: 'https://www.rbi.org.in/pressreleases_rss.xml' },
   { source: 'Reserve Bank of Australia', iso3: 'AUS', url: 'https://www.rba.gov.au/rss/rss-cb-media-releases.xml' },
-  { source: 'IMF',               iso3: null,  url: 'https://www.imf.org/en/News/RSS?Language=ENG' },
+  // Dropped: US Treasury (serves malformed XML / times out) and the IMF feed
+  // (hard 403 to non-browser clients). USA is covered by the Fed feed plus the
+  // general feeds; IMF stories still arrive via the 'imf' topic keyword. If
+  // either publisher fixes their feed, add the line back here.
 ];
 
 const FEEDS = [...PRIMARY_FEEDS, ...GENERAL_FEEDS];

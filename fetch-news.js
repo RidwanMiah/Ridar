@@ -22,8 +22,13 @@ const { FEEDS, COUNTRIES, tag } = require('./feeds');
 // some publishers reject requests that don't send one.
 // ---------------------------------------------------------------------------
 const parser = new Parser({
-  timeout: 10000,
-  headers: { 'User-Agent': 'Ridar/0.1 (commercial awareness project)' },
+  timeout: 15000,
+  headers: {
+    // Some publishers (RBI, others) reject or 406/418 anything that doesn't
+    // look like a browser, so send a full browser-ish header set.
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+    Accept: 'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.8',
+  },
 });
 
 // ---------------------------------------------------------------------------
