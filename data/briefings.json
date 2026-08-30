@@ -1,105 +1,83 @@
 {
-  "generated": "2026-08-29T09:54:22.627Z",
+  "generated": "2026-08-30T06:12:34.839Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
-    "date": "29 August 2026",
-    "headline": "Federal Reserve policy signals drive market repricing while trade, energy and legal developments unfold globally.",
+    "date": "30 August 2026",
+    "headline": "US hiring slows alongside regional trade and energy frictions.",
     "lede": {
-      "b": "Federal Reserve Chairman Kevin Warsh indicated that borrowing costs might need to rise, which caused bond values to drop.",
-      "i": "Federal Reserve Chairman Kevin Warsh delivered a hawkish address at Jackson Hole, triggering a sell-off in short-term debt instruments and lifting yields.",
-      "a": "Warsh's Jackson Hole rhetoric forced a repricing of the short end of the curve, shifting market expectations regarding the terminal rate and compressing the slope."
+      "b": "Employment growth slowed in the United States over the summer. At the same time, a new oil deal and various international trade issues made news.",
+      "i": "US job creation decelerated during the summer months, while trade tensions and policy adjustments created friction across multiple sectors.",
+      "a": "The macroeconomic picture is defined by softening US labor market dynamics, concurrent with supply-side policy adjustments and international trade friction."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The central bank signaled possible interest rate hikes, the government secured a stake in Venezuelan oil reserves, and an appeals court delivered a ruling on event contracts.",
-        "i": "Fed rate hike signals steepened yield curves, a bilateral energy pact targets domestic fuel prices, and an appellate circuit split emerged over event contracts.",
-        "a": "Duration risk increased following Warsh's remarks, the crude arrangement alters supply dynamics, and the Ninth Circuit ruling creates a direct conflict with the Third Circuit regarding swap definitions."
+        "b": "The United States added fewer workers over the summer as job openings decreased. Meanwhile, a new oil deal with Venezuela faced criticism from local political groups.",
+        "i": "US employment growth slowed down during the summer, accompanied by fewer help-wanted advertisements. Simultaneously, a petroleum pact with Venezuela triggered mutual recriminations among local political factions.",
+        "a": "Deceleration in US payroll expansion points to cooling domestic labor demand and fewer open vacancies. On the geopolitical front, the Venezuelan oil arrangement has altered domestic political positioning without immediate structural supply confirmation."
       },
       {
         "c": "United Kingdom",
-        "b": "Households faced higher energy price caps, grocery shoppers bought cheaper food alternatives, and the government delayed its defence spending target timeline.",
-        "i": "Utility price caps drove household inflation, retail data showed a substitution effect into pulses, and the fiscal target for defence was deferred.",
-        "a": "Regulated tariff adjustments are feeding through to consumer price indices, real income squeezes are altering basket composition via relative price shifts, and fiscal consolidation timelines remain pushed out."
+        "b": "British households faced higher utility bills, shifted to cheaper food like pulses instead of meat, and the government delayed its defence spending goals.",
+        "i": "UK consumers confronted rising utility tariffs and altered spending habits by substituting meat with pulses, while the Treasury delayed its three percent defence expenditure roadmap.",
+        "a": "Utility price cap adjustments are driving consumer cost pressures, inducing a real income squeeze that manifests as substitution effects in retail baskets. Meanwhile, the deferral of the defence spending target reflects near-term fiscal consolidation constraints."
       },
       {
         "c": "Brazil",
-        "b": "British farming groups asked the government to ban meat imports from Brazil over rule differences.",
-        "i": "UK agricultural lobbies petitioned for an import ban on Brazilian meat due to veterinary regulations non-compliance.",
-        "a": "Trade friction is escalating as domestic producers leverage sanitary standards to contest market access for South American agricultural exporters."
+        "b": "British farming groups asked their government to stop meat imports from Brazil because of differences in antibiotic rules.",
+        "i": "British agricultural bodies lobbied for an import ban on Brazilian meat shipments, citing a failure to meet veterinary antibiotic standards.",
+        "a": "Sanitary and phytosanitary barriers are being deployed as trade protection levers, with domestic agricultural lobbies petitioning against Brazilian meat imports over veterinary compliance divergences."
       }
     ],
     "thread": {
-      "b": "The common theme connecting these events is how governments and central banks are managing prices, regulations, and spending.",
-      "i": "These events are connected by macroeconomic adjustments involving monetary policy calibration, commodity supply interventions, and regulatory enforcement.",
-      "a": "The underlying transmission mechanism linking these developments is the ongoing friction between policy tightening, supply-side administrative interventions, and regulatory divergence across jurisdictions."
+      "b": "These events are all connected by changing economic conditions, such as slower hiring, higher utility bills, and disagreements over trade and supplies.",
+      "i": "These developments are linked by shifting macroeconomic pressures, including labor market cooling, tighter household budgets, and friction in international trade channels.",
+      "a": "The common thread is the transmission of cost-of-living and regulatory frictions across jurisdictions, linking domestic fiscal and labor adjustments with cross-border trade disputes."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Warsh signals rate hikes as oil and prediction markets shift",
+      "sub": "US hiring slows, Venezuelan oil deal draws criticism",
       "ind": [],
       "stories": [
         {
-          "t": "Federal Reserve Chair Warsh signals potential rate increases",
-          "src": "CNBC · Financial Times",
-          "b": "Federal Reserve leader Kevin Warsh stated that the central bank may need to raise borrowing costs because price growth remains an issue. Bond yields increased as investors reacted to this message.",
-          "i": "Federal Reserve Chairman Kevin Warsh delivered a hawkish address at Jackson Hole, prompting markets to reprice the path of monetary policy. Following comments suggesting that the central bank retains <span class='term' data-t='inflation'>inflation</span> risks, short-term debt instruments sold off, driving yields higher.",
-          "a": "The market reaction to Chair Warsh’s Jackson Hole address indicates a repricing of the terminal rate, as the short end of the curve absorbed hawkish forward guidance. The bearish flattening or steepening pressures reflect risk premia adjustments; a failure of CPI prints to validate these rate hike threats would rapidly compress short-end yields.",
+          "t": "United States employment growth decelerates amid summer labor market cooling",
+          "src": "MarketWatch",
+          "b": "Job creation in the United States slowed down over the summer. Fewer companies are looking for workers, making it harder for people to find employment.",
+          "i": "The US <span class='term' data-t='inflation'>labor</span> market experienced a deceleration in job creation during the summer months, accompanied by a reduction in help-wanted advertisements.",
+          "a": "The deceleration in payroll growth signals a cooling macro environment, challenging the terminal rate assumptions priced into front-end <span class='term' data-t='gilt'>swap</span> curves if hiring continues to contract.",
           "gloss": "inflation",
           "links": [
-            "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
-            "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1"
+            "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories"
           ]
         },
         {
-          "t": "United States and Venezuela strike oil arrangement",
-          "src": "Financial Times · CNBC",
-          "b": "The American president announced a joint agreement with Venezuela to take control of a vast amount of oil reserves. The stated goal is to reduce fuel costs for citizens.",
-          "i": "The administration announced a bilateral venture securing majority control over substantial Venezuelan crude reserves. The policy objective targets domestic pump prices through increased supply integration.",
-          "a": "The geopolitical recalibration of supply chains via the Venezuelan asset agreement aims to exert downward pressure on domestic energy input costs. Execution risk hinges on infrastructure rehabilitation and sanctions compliance frameworks.",
+          "t": "Bipartisan political backlash follows United States and Venezuelan petroleum arrangement",
+          "src": "Financial Times",
+          "b": "Politicians on both sides in Venezuela criticized a new petroleum agreement involving the United States. Hardliners and opposition groups both expressed anger over the pact.",
+          "i": "A newly established petroleum agreement involving Washington has drawn condemnation from opposing political factions inside Venezuela, with hardliners and opposition figures leveling mutual accusations.",
+          "a": "Cross-border resource pacts face execution risk when domestic sovereign stakeholders across polarized political factions reject the legal legitimacy of the sovereign counterparty.",
           "links": [
-            "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-            "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html"
-          ]
-        },
-        {
-          "t": "Appeals court delivers ruling against event prediction contracts",
-          "src": "CNBC",
-          "b": "A federal appeals court decided that sports betting event contracts do not qualify as financial swaps. This decision creates a direct disagreement with a ruling from a different circuit court.",
-          "i": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts fall outside the legal definition of swaps. This decision creates an explicit circuit split with a prior April ruling from the Third Circuit.",
-          "a": "The Ninth Circuit's rejection of event contracts as regulatory-compliant swaps creates a direct jurisdictional divergence with the Third Circuit. This legal fracture elevates the probability of a Supreme Court certiorari petition to resolve derivatives oversight authority.",
-          "links": [
-            "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+            "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1"
           ]
         }
       ],
       "politics": {
-        "b": "Legal battles continue as a federal court rejected an effort to move a conviction case into the federal system.",
-        "i": "The legal challenges facing the administration persist following a judicial denial to transfer a state-level conviction into federal jurisdiction.",
-        "a": "The denial of the transfer motion leaves the state-level conviction exposed to local sentencing dynamics without federal preemption remedies.",
-        "sources": {
-          "0": {
-            "outlet": "CNBC",
-            "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html"
-          }
-        }
+        "b": "Venezuelan political factions criticized an agreement involving the United States administration.",
+        "i": "Domestic political actors in Venezuela denounced a bilateral arrangement with the United States, citing foreign interference and resource exploitation.",
+        "a": "Geopolitical friction heightens sovereign risk parameters, complicating multilateral trade enforcement and sanction compliance mechanisms."
       },
       "timeline": [
         [
-          "2 Mar",
-          "National average gas price was last below three dollars per gallon"
+          "29 Aug",
+          "MarketWatch reports that United States job creation has slowed during the summer."
         ],
         [
-          "Jul",
-          "Apple raised prices for Apple Music citing licensing expenses"
-        ],
-        [
-          "28 Aug",
-          "Kevin Warsh delivered his keynote address at Jackson Hole"
+          "29 Aug",
+          "Financial Times details multi-sided political opposition in Venezuela to a petroleum deal."
         ]
       ]
     },
