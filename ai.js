@@ -39,8 +39,21 @@ async function askForJson(system, user, { maxTokens = 8000, temperature = 0.3 } 
     throw new Error('No AI_API_KEY set. Export it, or put it in a .env and use --env-file=.env');
   }
 
-  const text = await callProvider(system, user, { maxTokens, temperature });
-  return parseJson(text);
+  // Small models sometimes emit JSON that no amount of repair can save. Ask
+  // again (nudging temperature down) before giving up.
+  let lastErr;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const temp = Math.max(0, temperature - attempt * 0.15);
+    try {
+      const text = await callProvider(system, user, { maxTokens, temperature: temp });
+      return parseJson(text);
+    } catch (err) {
+      lastErr = err;
+      if (!/parse the model|wasn't JSON/i.test(err.message)) throw err;
+      console.log(`  bad JSON, asking again (attempt ${attempt + 2}/3)`);
+    }
+  }
+  throw lastErr;
 }
 
 async function callProvider(system, user, opts) {

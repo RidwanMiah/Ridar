@@ -122,13 +122,25 @@ only events actually named in the sources.`;
       .map((iso3) => `COUNTRY ${iso3} — ${COUNTRIES[iso3].label}\nSOURCES:\n${sourceBlock(byCountry[iso3])}`)
       .join('\n\n----------------\n\n');
 
-    const result = await askForJson(system, user, { maxTokens: 24000 });
+    // One country failing (bad JSON the retries couldn't save) shouldn't sink
+    // the whole run — skip it and keep the rest. Its last good briefing stays.
+    let result;
+    try {
+      result = await askForJson(system, user, { maxTokens: 24000 });
+    } catch (err) {
+      console.log(`  ! skipping ${batch.join(' ')} — ${err.message.split('\n')[0]}`);
+      continue;
+    }
 
     for (const iso3 of batch) {
       const raw = result.briefings?.[iso3];
       if (!raw) { console.log(`  ! no output for ${iso3}`); continue; }
       briefings[COUNTRIES[iso3].name] = shapeCountry(iso3, raw);
     }
+  }
+
+  if (!Object.keys(briefings).length) {
+    throw new Error('every briefing batch failed — not writing an empty file');
   }
 
   return briefings;

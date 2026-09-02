@@ -127,7 +127,14 @@ async function main() {
   const countries = { ...(previous.countries || {}), ...fresh };
 
   // ---- 4. digest ---------------------------------------------------------
-  const digest = await buildDigest(countries);
+  // If the digest call can't be salvaged, keep yesterday's rather than failing
+  // the whole run — the country briefings are the important part.
+  let digest = previous.digest || null;
+  try {
+    digest = await buildDigest(countries);
+  } catch (err) {
+    console.log(`  ! digest failed (${err.message.split('\n')[0]}) — keeping the previous one`);
+  }
 
   // ---- 5. quiz, weekly ---------------------------------------------------
   let quiz = readJson(FILES.quiz, { questions: [] });
