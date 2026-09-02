@@ -1157,7 +1157,7 @@ function emptyPanel(){
         </div>
       </div>
 
-      <p style="font-size:15px;line-height:1.6;color:var(--ink);max-width:none">${esc(L("lede"))}</p>
+      <p class="lede" style="font-size:15px;line-height:1.65;color:var(--ink);max-width:none">${L("lede")}</p>
 
       <section class="block">
         <span class="mono">Explore by theme</span>
@@ -1193,6 +1193,7 @@ function emptyPanel(){
   document.querySelectorAll(".lvlpick button").forEach(b =>
     b.addEventListener("click", () => setLevel(b.dataset.lvl)));
   document.getElementById("quizFromDigest").addEventListener("click", startQuiz);
+  wireTerms(document.getElementById("panel"));
   syncLevelButtons();
 }
 

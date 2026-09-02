@@ -1,317 +1,317 @@
 {
-  "generated": "2026-09-02T18:28:45.565Z",
+  "generated": "2026-09-02T18:59:38.621Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "Why did the S&P 500 recover after a multi-day losing streak?",
+      "tag": "United States of America · Consumer spending",
+      "q": "Why do analysts monitor the spending habits of different income groups in the United States?",
       "o": [
-        "Crude oil prices stopped rising, which paused energy-related price pressures.",
-        "The Federal Reserve announced an emergency cut to benchmark interest rates.",
-        "Commercial real estate debt service coverage ratios improved across Manhattan.",
-        "Corporate earnings reports beat analyst expectations across all technology sectors."
+        "To gauge the overall resilience of domestic demand, which drives broader economic growth.",
+        "To predict future changes in corporate dividend payout ratios across all sectors.",
+        "To determine the exact level of foreign exchange reserves held by commercial banks.",
+        "To calculate the daily trading volume of government bonds and treasury notes."
       ],
       "a": 0,
-      "e": "The recovery was driven by a pause in inflationary energy shocks as crude oil prices halted their advance. The other options are incorrect because no emergency rate cuts or across-the-board earnings beats were mentioned in the text."
+      "e": "Domestic demand acts as the primary engine for broader economic growth. When consumer health diverges, tracking it helps analysts assess whether the market can avoid a deeper slowdown."
     },
     {
       "lvl": "b",
-      "tag": "United Kingdom · Equities",
-      "q": "Why are passive funds expected to rebalance their allocations for the FTSE 100?",
+      "tag": "United States of America · Real estate and equities",
+      "q": "How do rising sovereign yields directly impact present equity valuations?",
       "o": [
-        "EasyJet and Ithaca Energy are joining the index, forcing funds to incorporate the incoming equities.",
-        "Escalating geopolitical risks are forcing automated algorithms to sell all holdings.",
-        "Rising crude oil prices have triggered a mandatory regulatory liquidation across all funds.",
-        "The private equity buyout of EasyJet requires all index funds to liquidate their positions."
+        "They elevate the discount rate applied to future corporate earnings, depressing present valuations.",
+        "They automatically increase corporate revenue through government interest subsidies.",
+        "They force companies to issue more equity instead of retaining earnings.",
+        "They reduce the equity risk premium required by institutional investors."
       ],
       "a": 0,
-      "e": "Index reconstitution flows occur when companies like EasyJet and Ithaca Energy join the benchmark, requiring tracking funds to rebalance. The buyout is anticipated later, but the immediate rebalance is driven by index membership changes."
+      "e": "Higher sovereign yields raise the discount rate used to calculate the present value of future corporate earnings. This mathematical relationship depresses current equity prices."
     },
     {
       "lvl": "b",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "What primary market dynamic caused the British pound to decline against its peers?",
+      "o": [
+        "Heightened risk aversion leading institutional investors to liquidate high-beta exposures.",
+        "A sudden decision by the central bank to lower benchmark interest rates to zero.",
+        "A massive influx of foreign direct investment into domestic manufacturing plants.",
+        "An unexpected surplus in the national trade balance sheet."
+      ],
+      "a": 0,
+      "e": "The currency dropped because systemic risk aversion rippled through global markets, causing investors to rebalance portfolios away from higher-beta currencies into safe-haven instruments."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Inflation",
+      "q": "What drove German headline inflation higher to two point nine percent in August?",
+      "o": [
+        "Upward pressure originating from energy components.",
+        "A sudden collapse in international trade tariffs.",
+        "An unexpected doubling of the national housing stock.",
+        "Massive wage increases legislated across all industrial sectors."
+      ],
+      "a": 0,
+      "e": "Headline inflation edged higher specifically because of upward pressure from energy components, demonstrating how volatile commodity inputs quickly translate into consumer prices."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Currency and lending",
+      "q": "How are higher benchmark interest rates affecting Japanese commercial banking institutions?",
+      "o": [
+        "They increase wholesale funding costs, compelling banks to adjust mortgage pricing and product strategies.",
+        "They eliminate all competition from foreign financial institutions operating domestically.",
+        "They force banks to write off their entire portfolio of residential real estate loans.",
+        "They reduce the net interest margin by making retail lending rates cheaper."
+      ],
+      "a": 0,
+      "e": "As the central bank moves away from ultra-loose policy, bank funding costs rise. This forces lenders to reprice consumer credit products like mortgages to protect their margins."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Automotive sector",
+      "q": "What is a major consequence of aggressive price competition and discounting among electric vehicle manufacturers in China?",
+      "o": [
+        "Margin compression and excess manufacturing capacity that challenge sector-wide profitability.",
+        "An immediate end to all research and development expenditures.",
+        "A guaranteed elimination of smaller competitors within the first week.",
+        "A sharp rise in average selling prices across all vehicle models."
+      ],
+      "a": 0,
+      "e": "Aggressive price cuts and discounting lead directly to margin compression across the domestic electric vehicle ecosystem, threatening a race to the bottom despite volume growth."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Banking liquidity",
+      "q": "Why does the central bank execute variable rate reverse repo auctions?",
+      "o": [
+        "To absorb excess banking system liquidity and keep short-term interest rates aligned with the target policy rate.",
+        "To provide long-term capital grants to newly established manufacturing firms.",
+        "To lower the exchange rate of the local currency against the dollar.",
+        "To purchase commercial real estate assets directly from troubled lenders."
+      ],
+      "a": 0,
+      "e": "The central bank uses these auctions to drain cash and prevent overnight rates from falling below the target corridor due to temporary cash gluts in the banking system."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Currency and growth",
+      "q": "What macroeconomic factor primarily supported the Australian currency alongside robust growth figures?",
+      "o": [
+        "Growing carry trade appeal driven by expectations of monetary tightening.",
+        "A complete elimination of all national public debt.",
+        "A sharp decline in domestic employment statistics.",
+        "The abolition of corporate dividend distributions."
+      ],
+      "a": 0,
+      "e": "Robust gross domestic product figures combined with rising rate expectations increased carry trade appeal, widening yield differentials in favour of local fixed-income assets."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Equity Markets",
+      "q": "Why does the bifurcation in consumer spending between high-income and lower-income households create valuation risks for equity markets?",
+      "o": [
+        "High-income resilience masks distress in mainstream retail, exposing indices to negative earnings revisions if lower-tier spending weakens further.",
+        "Affluent households purchase fewer goods overall, directly lowering the revenue of consumer discretionary firms across all demographics simultaneously.",
+        "Lower-income consumers account for the majority of luxury goods spending, meaning their retrenchment immediately collapses high-end corporate margins.",
+        "Equities are priced under the assumption that all consumer cohorts have identical savings rates and debt-servicing capacities."
+      ],
+      "a": 0,
+      "e": "The divergence in consumer behavior creates a vulnerability where strong high-income spending masks underlying distress in mainstream retail metrics. If lower-tier discretionary spending deteriorates further, equity indices face negative earnings revisions because market participants currently price equities assuming stable overall consumer health. The other options either misstate consumer dynamics or assume uniform behavior which contradicts the stated bifurcation."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Foreign Exchange",
+      "q": "What is the primary transmission mechanism through which global risk aversion caused the British pound to decline toward a two-week low?",
+      "o": [
+        "Institutional investors liquidated high-beta exposures and rebalanced portfolios in favor of G10 liquid safe-haven assets.",
+        "The central bank lowered benchmark lending rates directly in response to external geopolitical supply chain shocks.",
+        "Algorithmic trading desks executed automatic stop-losses triggered by a sudden surge in domestic consumer price inflation.",
+        "Foreign exchange desks purchased high-beta currencies aggressively to protect against incoming downside volatility."
+      ],
+      "a": 0,
+      "e": "Systemic risk aversion caused institutional investors to rebalance portfolios by liquidating high-beta currency exposures in favor of G10 liquid safe havens, driving down the British pound. The other options incorrectly attribute the decline to central bank rate cuts, domestic inflation spikes, or increased buying of high-beta assets."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Macroeconomics",
+      "q": "Why does an acceleration in German consumer prices to two point nine percent driven by energy components challenge the prevailing macroeconomic thesis?",
+      "o": [
+        "It challenges the thesis of monotonic disinflation by demonstrating how volatile energy inputs filter through intermediate production stages.",
+        "It proves that central banks will immediately lower benchmark interest rates to stimulate regional economic growth.",
+        "It shows that consumer spending across all income brackets has entirely collapsed due to structural unemployment.",
+        "It indicates that sovereign debt cancellation proposals have successfully eliminated currency depreciation risks."
+      ],
+      "a": 0,
+      "e": "The acceleration of consumer prices driven by volatile energy components challenges the thesis of monotonic disinflation as cost-push pressures filter through production stages. Central banks do not lower rates in response to rising inflation, and the other choices introduce unrelated factors like unemployment or debt cancellation."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Banking and Lending",
+      "q": "How does the normalisation of domestic yield curves and higher benchmark interest rates affect Japanese commercial banks?",
+      "o": [
+        "It increases wholesale funding costs, which compresses net interest margins unless lenders successfully reprice consumer credit products upward.",
+        "It completely eliminates the need for asset-liability management as retail loan demand drops to zero.",
+        "It reduces mortgage lending rates automatically, causing an immediate surge in leveraged real estate demand.",
+        "It lowers central bank intervention thresholds, forcing banks to hold zero reserves against foreign currency deposits."
+      ],
+      "a": 0,
+      "e": "As benchmark rates rise, wholesale funding costs for commercial banks increase, which compresses net interest margins unless they successfully reprice consumer credit products. The alternative options contradict the mechanics of rising wholesale funding costs and credit pricing."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Equity Markets",
+      "q": "Why does reliance on trading gains rather than operational cash flows complicate fundamental valuation models for certain corporate equities?",
+      "o": [
+        "It introduces earnings volatility that makes it difficult to assess sustainable operational profitability and core business health.",
+        "It guarantees that companies will never face margin compression or excess manufacturing capacity issues.",
+        "It forces central banks to implement immediate protectionist trade policies against international competitors.",
+        "It ensures that retail investors will permanently exit the equity market and eliminate market liquidity."
+      ],
+      "a": 0,
+      "e": "When corporate profit surges rely on trading gains rather than operational cash flows, it introduces earnings volatility that complicates fundamental valuation models because core business health is obscured. The other options describe inaccurate outcomes or unrelated policy actions."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Central Banking",
+      "q": "What is the primary function of the central bank executing a variable rate reverse repo auction to drain short-term cash?",
+      "o": [
+        "To prevent the weighted average call rate from breaching the lower bound of the liquidity adjustment facility corridor due to cash gluts.",
+        "To force commercial banks to increase retail mortgage lending rates and dampen residential real estate demand.",
+        "To permanently cancel sovereign debt obligations and eliminate structural foreign exchange reserves.",
+        "To guarantee that the domestic currency depreciates against the greenback and boosts export competitiveness."
+      ],
+      "a": 0,
+      "e": "The reverse repo auction is a liquidity management operation used to sterilise structural liquidity surpluses and prevent the weighted average call rate from breaching the lower bound of the liquidity adjustment facility corridor. It does not set retail mortgage rates or cancel sovereign debt."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Equities",
+      "q": "Why did equity analysts in Brazil tilt their portfolio recommendations heavily toward exporters during a period of macroeconomic tightening?",
+      "o": [
+        "Exporters offer foreign-revenue streams and a natural hedge that insulates portfolios from domestic demand destruction.",
+        "Exporters rely exclusively on local gross domestic product growth and domestic consumer credit expansion.",
+        "Domestic monetary tightening automatically increases the local currency value and penalises international sales.",
+        "Exporters are completely immune to technical resistance levels and moving average moving trends."
+      ],
+      "a": 0,
+      "e": "Allocators prioritize exporters because foreign-revenue streams and currency translation gains provide a natural defensive hedge against domestic demand destruction caused by restrictive monetary policy. The alternative choices misstate the relationship between domestic monetary policy, currency values, and exporter performance."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Foreign Exchange",
+      "q": "How do robust gross domestic product figures and expectations of monetary tightening impact the Australian currency through the yield channel?",
+      "o": [
+        "They widen yield differentials in favor of local fixed-income assets, making domestic assets more lucrative for yield-seeking investors.",
+        "They compress the equity risk premium to zero and eliminate all cross-border interest rate parity conditions.",
+        "They force the central bank to abandon all interest rate targets and introduce capital controls on foreign inflows.",
+        "They trigger automatic algorithmic selling of long currency positions by institutional market participants."
+      ],
+      "a": 0,
+      "e": "When growth metrics exceed forecasts and central banks signal tightening, yield differentials widen in favor of local fixed-income assets, strengthening the currency as yield-seeking investors increase long positions. The other options describe incorrect macroeconomic adjustments or central bank policy reversals."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Equity markets",
+      "q": "Why does a divergence in consumer spending habits between high-income and lower-income households complicate the macroeconomic outlook for equity markets?",
+      "o": [
+        "Robust high-end consumption masks underlying distress in mainstream retail metrics, leaving equity indices vulnerable to negative earnings revisions if lower-tier discretionary spending deteriorates further.",
+        "Affluent spending growth directly reduces the equity risk premium by lowering sovereign borrowing costs across all corporate sectors.",
+        "Higher spending by budget-conscious consumers forces firms to lower their prices, eliminating margin compression risks entirely.",
+        "Discretionary firms catering to lower-income demographics have zero impact on aggregate demand metrics or broader macroeconomic growth."
+      ],
+      "a": 0,
+      "e": "Resilient high-end spending creates a false sense of security by masking the distress experienced by mainstream consumers. If lower-tier spending weakens further, aggregate demand contracts, putting corporate revenues at risk. The other options misstate the direction of the transmission mechanism or the role of pricing power."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "What mechanism drove the depreciation of the British pound toward a two-week low amid global market risk aversion?",
+      "o": [
+        "Institutional portfolio rebalancing triggered automated liquidations of high-beta exposures in favor of G10 liquid havens, coupled with a spike in implied volatility.",
+        "A sudden reduction in sovereign yield differentials caused domestic commercial banks to slash their retail mortgage lending rates.",
+        "Aggressive monetary tightening by domestic authorities forced algorithmic traders to build long positions in high-beta assets.",
+        "An unexpected surge in crude oil prices acted as a positive terms-of-trade shock for the currency."
+      ],
+      "a": 0,
+      "e": "Systemic risk aversion causes institutional investors to liquidate high-beta assets in favor of safe-haven instruments, driving down the currency. Implied volatility spikes as market participants rush to buy downside protection. Other choices describe incorrect monetary policy responses or positive shocks."
+    },
+    {
+      "lvl": "a",
       "tag": "Germany · Central banking",
-      "q": "Why did the Bundesbank president reject a French far-left proposal for debt cancellation?",
+      "q": "Why did the Bundesbank president explicitly reject external proposals for sovereign debt cancellation?",
       "o": [
-        "He cited extreme inflation risks associated with the proposal.",
-        "He argued that domestic economic growth was already too high.",
-        "He wanted to protect French commercial real estate landlords.",
-        "He preferred to increase funding for artificial intelligence startups instead."
+        "To uphold strict institutional solvency rules and anchor long-term <span class='term' data-t='inflation'>inflation</span> expectations against the systemic threat of hyperinflation.",
+        "To force domestic commercial banks to increase their residential mortgage lending rates immediately.",
+        "To prevent foreign exchange reserves from accumulating through special diaspora deposit facilities.",
+        "To guarantee a reduction in energy input costs for the manufacturing sector."
       ],
       "a": 0,
-      "e": "The central bank chief rejected the debt cancellation proposal specifically by citing extreme inflation risks. The other options do not reflect the stated reasons for the policy rejection."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Banking",
-      "q": "Why are Japanese financial institutions re-evaluating their mortgage pricing models?",
-      "o": [
-        "Higher domestic benchmark interest rates are changing the interest rate environment.",
-        "A sudden collapse in the US dollar has eliminated foreign exchange volatility.",
-        "SoftBank's artificial intelligence initial public offering has flooded retail banks with cash.",
-        "New government regulations forbid long-term retail lending entirely."
-      ],
-      "a": 0,
-      "e": "Higher domestic benchmark interest rates prompt lenders to alter models as the era of negative rates recedes. The other options involve unrelated market events or incorrect facts."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Equities",
-      "q": "What drove the four consecutive limit-up gains for Guofang Group?",
-      "o": [
-        "A net profit surge derived largely from equity market trading gains rather than operations.",
-        "A successful initial public offering of its renewable energy subsidiary.",
-        "Unprecedented consumer demand for its core retail products.",
-        "A government bailout designed to protect the onshore fixed income market."
-      ],
-      "a": 0,
-      "e": "Guofang Group surged because of a net profit increase where a large portion came from equity market trading gains rather than operational activities. Speculative retail momentum followed these non-operating returns."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Foreign exchange",
-      "q": "How did India manage to attract over $136 billion in foreign currency inflows?",
-      "o": [
-        "Through diaspora deposits and central bank swap facilities.",
-        "Through an unexpected boom in domestic automobile manufacturing exports.",
-        "Through a massive wave of foreign venture capital investments in IT startups.",
-        "Through the immediate privatization of all state-owned energy companies."
-      ],
-      "a": 0,
-      "e": "The inflows were achieved via diaspora deposits and central bank swap mechanisms, which provided a buffer for the local currency. The other options mention sectors or transactions unrelated to these specific deposit and swap facilities."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Currency",
-      "q": "Why did the Nigerian local currency appreciate against the dollar in the official window?",
-      "o": [
-        "An increase in foreign exchange liquidity and trading volumes strengthened the spot rate.",
-        "The central bank lowered benchmark borrowing costs to zero.",
-        "Consumer spending shifted entirely toward discount substitutes.",
-        "International oil companies halted all extraction activities in the country."
-      ],
-      "a": 0,
-      "e": "The appreciation was driven by a marked increase in foreign exchange liquidity and trading volumes. The other choices misrepresent the macroeconomic drivers described in the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Currency",
-      "q": "What factors supported the resilience and gains of the Australian dollar?",
-      "o": [
-        "Robust Gross Domestic Product prints and carry trade tailwinds.",
-        "Headline profit surges reported by media and corporate entities.",
-        "A sudden drop in global crude oil prices.",
-        "An increase in central bank swap facilities."
-      ],
-      "a": 0,
-      "e": "The Australian dollar held onto its gains, supported by robust GDP prints and persistent carry trade tailwinds. Corporate profit reports and equity price movements are separate phenomena discussed in the corporate governance section."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "Why did the S&P 500 experience a relief rally following its multi-session selloff?",
-      "o": [
-        "Crude oil prices paused their advance, temporarily easing front-end energy volatility risk premiums.",
-        "The Federal Reserve announced an immediate emergency rate cut to support market liquidity.",
-        "Corporate earnings reports across all sectors exceeded historical profit margins.",
-        "Geopolitical tensions in the Middle East were fully resolved through a formal treaty."
-      ],
-      "a": 0,
-      "e": "The equity recovery was driven by a temporary halt in crude oil price increases, which reduced the front-end risk premium associated with energy volatility. A rate cut or geopolitical resolution is not mentioned in the source material."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Equities",
-      "q": "Why will passive funds tracking the FTSE 100 rebalance their portfolio allocations regarding EasyJet and Ithaca Energy?",
-      "o": [
-        "The incoming equities are being added due to index membership changes and reconstitution flows.",
-        "The firms executed a debt-for-equity swap that forced mandatory index inclusion.",
-        "Passive funds are attempting to capture short-term arbitrage profits from currency fluctuations.",
-        "Regulatory bodies ordered the benchmark to purge all low-liquidity assets."
-      ],
-      "a": 0,
-      "e": "EasyJet and Ithaca Energy are joining the index, which triggers index reconstitution flows that force passive funds tracking the benchmark to incorporate the incoming equities. The other options involve phenomena not supported by the briefings."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Central Banking",
-      "q": "Why did the Bundesbank president reject the French far-left proposal for debt cancellation?",
-      "o": [
-        "He cited extreme inflation risks associated with debt monetisation policies.",
-        "The German constitution legally prohibits bilateral foreign aid within the eurozone.",
-        "Domestic tax receipts had already exceeded annual government expenditure targets.",
-        "Commercial lenders refused to underwrite the secondary restructuring."
-      ],
-      "a": 0,
-      "e": "The Bundesbank chief rejected the debt forgiveness initiative explicitly because of extreme inflation risks. The other choices introduce external regulatory or fiscal concepts absent from the text."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Foreign Exchange",
-      "q": "What drove the sharp cross-asset adjustments and implied volatility repricing following the Japanese Yen's appreciation?",
-      "o": [
-        "Algorithmic traders unwound leveraged exposures amid shifting rate differential expectations.",
-        "Retail investors panicked and sold their domestic real estate holdings en masse.",
-        "The central bank accidentally triggered an automated circuit breaker on the equity exchange.",
-        "Foreign governments imposed sudden tariffs on Japanese semiconductor exports."
-      ],
-      "a": 0,
-      "e": "The sudden currency strength reflected shifting rate differential expectations that caused algorithmic traders to unwind leveraged exposures, producing cross-asset volatility. The other options describe events not present in the sources."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Fixed Income",
-      "q": "Why did domestic bonds in China manage to evade the international debt sell-off?",
-      "o": [
-        "The decoupling stemmed from weak domestic demand and liquidity absorption issues rather than safe-haven status.",
-        "The central bank guaranteed a fixed coupon rate on all sovereign instruments.",
-        "Foreign investors hold zero exposure to mainland Chinese debt markets.",
-        "Strict capital controls completely isolate domestic yields from global financial contagion."
-      ],
-      "a": 0,
-      "e": "The source explicitly states that the absence of contagion stemmed from weak domestic demand and liquidity absorption issues rather than safe-haven status. Capital controls or central bank guarantees are not mentioned."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Foreign Exchange",
-      "q": "How did India manage to attract over $136 billion in foreign currency inflows?",
-      "o": [
-        "Through diaspora deposits and central bank swap facilities that provided stabilization against inflation pressures.",
-        "By executing a massive international bond issuance backed by tech sector revenues.",
-        "Through emergency loans extended by the International Monetary Fund.",
-        "By abolishing all capital gains taxes for foreign portfolio investors."
-      ],
-      "a": 0,
-      "e": "The inflows were achieved via specialized diaspora deposits and central bank swap facilities. International bond issuances or tax abolitions are not cited in the text."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Macroeconomics",
-      "q": "Why are portfolio managers heavily concentrating their equity selections in international trade names in Brazil?",
-      "o": [
-        "To seek revenue streams resilient to domestic economic drag and demand contraction.",
-        "Because domestic regulations forbid institutional holding of local consumer stocks.",
-        "To exploit currency mispricing caused by central bank interest rate cuts.",
-        "Foreign-currency earners currently offer government-guaranteed dividend yields."
-      ],
-      "a": 0,
-      "e": "The structural tilt toward external revenue generators acts as a hedge against domestic demand contraction and economic drag. Regulatory bans and guaranteed yields are fabrications not found in the briefings."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Equities",
-      "q": "Why did equity prices dip despite media reports of headline profit surges and expanded buybacks in Australia?",
-      "o": [
-        "Sell-side participants harbored concerns regarding earnings quality and discounted one-off items.",
-        "Corporate entities announced unexpected share dilution to fund overseas acquisitions.",
-        "Regulatory investigations into market manipulation halted dividend distributions.",
-        "Institutional investors rotated out of equities entirely to buy government bonds."
-      ],
-      "a": 0,
-      "e": "Equity prices dipped because sell-side participants expressed skepticism over earnings quality, discounting one-off items embedded in the reported margins. Dilution, investigations, and bond rotations are absent from the text."
+      "e": "The central bank rejects debt jubilee proposals to protect its statutory mandate of price stability and prevent severe currency depreciation risks. Rejecting bailouts reinforces traditional German fiscal orthodoxy. The other options mix up fiscal policy with unrelated banking or trade operations."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Equities",
-      "q": "Why did the S&P 500 experience a temporary upward re-rating after a multi-session selloff?",
+      "tag": "Japan · Banking and lending",
+      "q": "How does the normalisation of domestic yield curves transmit into the asset-liability management of Japanese commercial banks?",
       "o": [
-        "A pause in crude oil price increases temporarily reduced the front-end risk premium driven by energy volatility.",
-        "An unexpected interest rate cut by the Federal Reserve lowered corporate borrowing costs across all sectors.",
-        "A massive influx of foreign currency reserves permanently eliminated domestic inflationary pressures.",
-        "A sudden resolution to all geopolitical conflicts in the Middle East guaranteed lower long-term commodity prices."
+        "Rising wholesale funding costs compress net interest margins unless lenders successfully reprice consumer credit products upward.",
+        "Lower benchmark interest rates automatically eliminate structural vacancies in commercial real estate portfolios.",
+        "Increased central bank liquidity auctions instantly reduce sovereign yields to negative territory.",
+        "Fixed-income alternatives drain capital out of banks, forcing them to cease all lending activities."
       ],
       "a": 0,
-      "e": "The recovery was driven by a temporary halt in energy price advances, which reduced the near-term risk premium associated with commodity volatility. The other options involve unmentioned rate cuts, permanent reserve shifts, or complete geopolitical resolutions, none of which appear in the text."
+      "e": "When benchmark rates rise, commercial lenders face higher wholesale funding costs, which squeeze their net interest margins unless they pass those costs on to borrowers. This alters asset-liability management. The other options describe incorrect interest rate directions or unrelated real estate dynamics."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Equity markets",
-      "q": "Why are passive funds forced to rebalance their allocations toward EasyJet and Ithaca Energy?",
+      "tag": "China · Automotive sector",
+      "q": "What risk is created by aggressive discounting and excess manufacturing capacity within the domestic electric vehicle ecosystem?",
       "o": [
-        "The incoming equities are being incorporated into the FTSE 100 index due to index reconstitution flows.",
-        "Regulatory mandates require all sovereign wealth funds to hold a minimum percentage of airline and energy stocks.",
-        "Active portfolio managers are dumping large-cap tech shares to purchase speculative micro-cap energy companies.",
-        "Central bank asset purchase programs specifically targeted these two firms to mitigate macroeconomic uncertainty."
+        "Lower average selling prices threaten to trigger a race to the bottom, compressing per-unit margins and pressuring weaker balance sheets.",
+        "Guaranteed long-term operating earnings that eliminate the need for technological differentiation.",
+        "Immediate structural consolidation that forces all automotive firms to abandon research and development expenditures.",
+        "A sudden expansion of valuation multiples driven by zero-cost equity buybacks."
       ],
       "a": 0,
-      "e": "Index reconstitution forces passive benchmark trackers to incorporate incoming equities prior to corporate transaction completion. The other choices incorrectly cite government mandates, active portfolio rotation, or central bank asset purchases."
+      "e": "Aggressive price cuts and excess capacity squeeze per-unit profit margins, creating a race to the bottom that threatens companies with weaker balance sheets. This dynamic complicates fundamental valuation models. The other choices present contradictory or unrealistic outcomes."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Central banking",
-      "q": "Why did the Bundesbank president reject the French far-left proposal for debt cancellation?",
+      "tag": "India · Monetary policy",
+      "q": "Why does the central bank execute variable rate reverse repo auctions to absorb short-term liquidity?",
       "o": [
-        "The proposal was seen as carrying extreme inflation risks that conflict with fiscal orthodoxy and sovereign risk anchoring.",
-        "German commercial banks lacked the capital reserves required to absorb the syndicated loan losses.",
-        "The European Union constitution explicitly forbids member states from engaging in bilateral debt forgiveness.",
-        "Domestic economic growth had already slowed down enough to neutralize any threat of excessive liquidity."
+        "To prevent the weighted average call rate from breaching the lower bound of the liquidity adjustment facility corridor during cash gluts.",
+        "To encourage commercial banks to reduce their foreign exchange reserve buffers.",
+        "To finance commercial real estate refinancing cliffs through direct equity injections.",
+        "To stimulate consumer discretionary spending among lower-income households."
       ],
       "a": 0,
-      "e": "The Bundesbank chief rejected the proposal due to extreme inflation risks, aligning with fiscal orthodoxy and anchoring sovereign risk premia. The other options involve unmentioned capital reserve shortages, constitutional bans, or domestic slowdowns."
+      "e": "Reverse repo auctions drain excess short-term cash to keep overnight rates aligned with the target policy rate and prevent them from falling below the corridor. This sterilization maintains effective monetary transmission. The other choices refer to unrelated fiscal or foreign exchange mechanisms."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Foreign exchange",
-      "q": "What primarily drove the sharp cross-asset adjustments and rapid repricing of implied volatility following the appreciation of the Japanese yen?",
+      "tag": "Brazil · Equity markets",
+      "q": "Why have equity analysts in Brazil tilted their portfolio recommendations heavily toward exporters amid macroeconomic tightening?",
       "o": [
-        "Algorithmic traders unwound leveraged exposures in response to shifting rate differential expectations between domestic authorities and the US central bank.",
-        "Retail investors panicked and sold their entire holdings of domestic residential mortgage-backed securities.",
-        "The Federal Reserve announced an immediate termination of all cross-border currency swap lines with Asian economies.",
-        "Commercial lenders aggressively raised benchmark lending rates to offset declining long-term duration risk."
+        "Exporters provide a natural hedge and foreign-currency revenue streams that insulate portfolios from domestic demand destruction.",
+        "Domestic enterprises currently offer superior free cash flow conversion decoupled from local gross domestic product growth.",
+        "Technical resistance levels on moving averages guarantee that local consumption will accelerate.",
+        "High-beta currencies automatically appreciate against greenbacks during restrictive monetary cycles."
       ],
       "a": 0,
-      "e": "The sudden currency appreciation and volatility spikes were caused by algorithmic traders unwinding leveraged positions amid changing rate differential expectations. The other options misattribute the cause to retail mortgage liquidations, swap line terminations, or commercial lending rate hikes."
+      "e": "Exporters generate foreign-currency earnings that act as a defensive buffer when domestic demand contracts due to restrictive monetary policy. Portfolio allocators prioritize these international revenue streams to insulate against local economic headwinds. Other options incorrectly attribute high cash conversion to domestic firms."
     },
     {
       "lvl": "a",
-      "tag": "China · Fixed income",
-      "q": "Why did onshore Chinese bonds manage to evade the broader international sovereign debt rout?",
+      "tag": "Australia · Foreign exchange",
+      "q": "What is the primary macroeconomic transmission mechanism supporting the Australian dollar following robust gross domestic product figures?",
       "o": [
-        "The decoupling stems from severe domestic liquidity absorption issues and weak domestic demand rather than safe-haven status.",
-        "The People's Bank of China implemented a permanent quantitative easing program that capped domestic yields at zero.",
-        "Foreign institutional investors flooded the onshore market with capital after exiting US and European debt instruments.",
-        "Domestic credit transmission channels operated at peak efficiency, completely shielding local markets from external shocks."
+        "Stronger growth metrics force a repricing of the domestic rate path, widening yield differentials in favor of local fixed-income assets and attracting carry trade capital.",
+        "Immediate central bank intervention to suppress exchange rate volatility through spot market dollar sales.",
+        "A sharp contraction in corporate dividends that eliminates ex-dividend adjustments on the exchange.",
+        "Lower wholesale funding costs that compress net interest margins for commercial lenders."
       ],
       "a": 0,
-      "e": "Commentary suggests that the divergence from global debt sell-offs reflects weak domestic demand and liquidity absorption issues rather than a genuine safe-haven bid. The other options incorrectly claim quantitative easing yield caps, foreign capital inflows, or efficient credit transmission."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Foreign exchange",
-      "q": "How do specialized deposit schemes and swap facilities impact the central bank's framework, despite providing immediate currency stabilization?",
-      "o": [
-        "They alter the balance sheet liabilities and liquidity management framework, leaving structural questions regarding reserve composition and forward liabilities.",
-        "They automatically trigger a mandatory reduction in domestic benchmark interest rates to stimulate auto and IT sector growth.",
-        "They eliminate the need for institutional portfolios to shorten duration or manage equity beta.",
-        "They permanently insulate domestic risk assets from imported energy cost shocks and global equity contractions."
-      ],
-      "a": 0,
-      "e": "The accumulation of foreign currency via these facilities alters balance sheet liabilities and liquidity management, posing structural questions about reserves and forward liabilities. The other choices incorrectly suggest interest rate reductions, elimination of duration adjustments, or permanent insulation from energy shocks."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Macroeconomics",
-      "q": "Why are institutional portfolio managers in Brazil heavily concentrating their equity selections in international trade names?",
-      "o": [
-        "To hedge against domestic demand contraction and seek revenue streams resilient to local economic drag.",
-        "To take advantage of aggressive interest rate cuts implemented by the domestic central bank to boost consumer spending.",
-        "To comply with regulatory caps that restrict domestic corporations from retaining earnings in local currency.",
-        "To offset the massive capital losses incurred from servicing legacy consumer debt."
-      ],
-      "a": 0,
-      "e": "Portfolios tilt toward external revenue generators as a structural hedge against domestic demand contraction and macroeconomic headwinds. The other options mistakenly cite central bank rate cuts, regulatory caps, or consumer debt servicing offsets."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Equities",
-      "q": "Why did equity prices dip despite media reports of headline profit surges, expanded dividends, and buybacks?",
-      "o": [
-        "Sell-side participants discounted one-off items embedded in the reported margins, leading to downward revisions in share prices.",
-        "Investors anticipated an immediate collapse in Gross Domestic Product growth and sudden <span class='term' data-t='carry'>carry</span> trade reversals.",
-        "Corporate entities announced plans to halt all international trade operations to focus solely on domestic markets.",
-        "Regulatory authorities intervened to ban share buybacks and dividend distributions across all primary index constituents."
-      ],
-      "a": 0,
-      "e": "Discretionary downward revisions occurred because sell-side participants questioned earnings quality by discounting one-off items within reported margins. The other options incorrectly propose GDP collapses, trade halts, or regulatory bans on buybacks."
+      "e": "Resilient output leads markets to price in tighter monetary policy, widening yield differentials and making domestic assets more attractive for yield-seeking investors. This yield channel strengthens the currency. The other options describe unrelated corporate actions or central bank operations."
     }
   ]
 }

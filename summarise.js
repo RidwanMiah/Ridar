@@ -32,16 +32,21 @@ RULES
 1. Use ONLY the facts in the SOURCES block. If a number, date, vote count or
    name is not there, do not state it. No outside knowledge.
 2. Never reproduce source wording. Write every sentence yourself.
-3. If the sources are too thin for a story, return fewer stories. Never pad.
-4. Write three versions of every text field, keyed "b", "i" and "a":
+3. If the sources are too thin for a story, return fewer stories. Never pad,
+   but do explain fully — see the length rule below.
+4. Write three versions of every "b" / "i" / "a" text field. Each one is a
+   FULL PARAGRAPH — four to six sentences. Cover what happened, the mechanism
+   behind it, and why it matters for the wider economy or markets. Do not stop
+   at one or two sentences.
    b = BEGINNER. No jargon at all. Any unavoidable term is defined in the
-       sentence that uses it. Short sentences. Assume no prior knowledge.
+       sentence that uses it. Assume no prior knowledge, but still go into
+       detail — a longer plain-English explanation, not a shorter one.
    i = INTERMEDIATE. Standard financial vocabulary used correctly, with the
        mechanism named. Assume a second-year economics student.
    a = ADVANCED. Second-order reasoning: the transmission channel, what the
        market is actually pricing, what would falsify the reading. Assume a
        candidate at a final-round interview.
-5. In the "i" and "a" text only, you may mark ONE jargon term per story as
+5. In the "i" and "a" versions you may mark ONE jargon term per field as
    <span class='term' data-t='KEY'>term</span>, using a KEY from GLOSSARY_KEYS.
    Use single quotes inside that tag, exactly as shown, so it stays valid JSON.
    Never invent a key.
@@ -62,6 +67,22 @@ function plain(v) {
   if (typeof v === 'string') return v.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
   if (v && typeof v === 'object') {
     return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, plain(x)]));
+  }
+  return v;
+}
+
+// Like plain(), but keeps the one <span class='term' …> glossary tag and drops
+// everything else — for fields index.html renders as HTML.
+function keepSpans(v) {
+  if (typeof v === 'string') {
+    return v
+      .replace(/<(?!\/?span\b)[^>]+>/gi, '')
+      .replace(/<span\b(?![^>]*class=['"]term['"])[^>]*>/gi, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+  if (v && typeof v === 'object') {
+    return Object.fromEntries(Object.entries(v).map(([k, x]) => [k, keepSpans(x)]));
   }
   return v;
 }
@@ -180,15 +201,21 @@ async function buildDigest(briefings) {
 
   const system = `${HOUSE_RULES}
 
-You are writing the one-screen summary of the day, for someone with two minutes.
-Name the single thing that mattered most and why. Then three or four one-line
-items, each tied to one country. Then say what connects them — and if nothing
-does, say the day was quiet rather than manufacturing a narrative.
+You are writing the summary of the day.
+
+- "headline": one sentence, the day in a line.
+- "lede": the main briefing — a FULL PARAGRAPH of five to seven sentences at each
+  level. Name the single thing that mattered most, explain the mechanism, and
+  spell out why it matters for the wider economy and markets. This is the piece
+  most readers read, so make it substantial, not a teaser.
+- "items": three or four, each ONE line, tied to one country.
+- "thread": two or three sentences on what connects the items — or say the day
+  was quiet rather than manufacturing a narrative.
 
 OUTPUT SHAPE
-{"headline": "one sentence, the day in a line",
- "lede": {"b": "...", "i": "...", "a": "..."},
- "items": [{"country": "<exact country name as given>", "b": "...", "i": "...", "a": "..."}],
+{"headline": "one sentence",
+ "lede": {"b": "full paragraph", "i": "full paragraph", "a": "full paragraph"},
+ "items": [{"country": "<exact country name as given>", "b": "one line", "i": "one line", "a": "one line"}],
  "thread": {"b": "...", "i": "...", "a": "..."}}`;
 
   const user = Object.entries(briefings)
@@ -200,7 +227,9 @@ OUTPUT SHAPE
   return {
     date: new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }),
     headline: plain(raw.headline) || '',
-    lede: plain(raw.lede) || { b: '', i: '', a: '' },
+    // lede keeps its glossary <span>s — index.html renders it as HTML and wires
+    // up the definition boxes, same as a country story body.
+    lede: keepSpans(raw.lede) || { b: '', i: '', a: '' },
     items: (raw.items || [])
       .filter((it) => briefings[it.country])
       .map((it) => ({ c: it.country, b: plain(it.b), i: plain(it.i || it.b), a: plain(it.a || it.i || it.b) })),
