@@ -70,8 +70,8 @@
   .btn.ghost:hover{background:rgba(138,14,31,.07);color:var(--red-deep)}
 
   main{display:grid;grid-template-columns:minmax(0,1fr) minmax(440px,40%);min-height:0}
-  @media (max-width:1100px){main{grid-template-columns:minmax(0,1fr) minmax(400px,44%)}}
-  @media (max-width:900px){main{grid-template-columns:minmax(0,1fr) 380px}}
+  @media (max-width:1100px){main{grid-template-columns:minmax(0,1fr) minmax(380px,46%)}}
+  @media (max-width:920px){main{grid-template-columns:minmax(0,1fr) 360px}}
 
   /* ---------- globe ---------- */
   #stage{position:relative;min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden}
@@ -270,6 +270,37 @@
     .landing-copy{max-width:100%;width:100%;padding-right:0;background:none}
     .landing-brand{margin-bottom:26px}
     .landing-foot{margin-top:26px}
+  }
+
+  /* ---------- mobile (kept last so it overrides the desktop rules above) ---------- */
+  @media (max-width:720px){
+    html,body{height:auto}
+    body{overflow-y:auto;overflow-x:hidden}
+    #app{height:auto;min-height:100%;grid-template-rows:auto auto}
+
+    header{gap:12px;padding:11px 15px;flex-wrap:nowrap;align-items:center;position:sticky;top:0;z-index:20}
+    .brand h1{font-size:20px}
+    .brand .mono,#freshness,#lvlLabel,#levels,.hstat,#savedBtn{display:none}
+    /* level lives in the panel; streak + saved reachable from the account page */
+    .acct{padding:6px;font-size:12px}
+    .acct #acctName{display:none}                        /* avatar only */
+    #quizBtn{padding:9px 14px;font-size:12px;white-space:nowrap}
+
+    main{display:block}
+    #stage{height:44vh;min-height:250px;width:100%;flex:none}
+    .stage-note,.legend{display:none}
+    .zoomctl{left:12px;top:12px}
+    .zoomctl button{width:30px;height:30px;font-size:17px}
+    #panel{border-left:0;border-top:1px solid var(--rule);overflow:visible;height:auto;padding:22px 16px 44px}
+    #panel h2,.empty h2{font-size:23px}
+    .lede{font-size:15px}
+    .digest li{grid-template-columns:100px 1fr;gap:12px}
+    .lvlpick{gap:10px}
+    .lvlpick .levels button{padding:8px 12px;font-size:11px}
+    .p-head h2{font-size:22px}
+
+    #auth{padding:14px}
+    .qcard{padding:22px 18px}
   }
 </style>
 </head>
