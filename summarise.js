@@ -239,7 +239,7 @@ OUTPUT SHAPE
 
 // ---------------------------------------------------------------------------
 // 3. The quiz — one call per level, run weekly.
-//    Eight questions per level; the site serves a deterministic daily five.
+//    Eighteen questions per level; the site serves a deterministic daily fifteen.
 //
 //    The model always puts the correct answer FIRST and sets a: 0. The site
 //    shuffles at render time with a daily seed. Asking a model to distribute
@@ -276,7 +276,8 @@ QUESTION RULES
    BEGINNER = definitions and direction of effect.
    INTERMEDIATE = mechanism and second-order effect.
    ADVANCED = what the market is pricing, and what would falsify the reading.
-7. Spread the eight questions across different countries and themes.
+7. Write EIGHTEEN questions, spread across as many different countries and
+   themes as the briefings allow. No two questions on the same fact.
 
 OUTPUT SHAPE
 {"questions": [{

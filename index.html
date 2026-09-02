@@ -1355,7 +1355,7 @@ function dailySet(){
   const rng = () => (h = (h*1103515245 + 12345) & 0x7fffffff) / 0x7fffffff;
   const a = pool.slice();
   for(let i=a.length-1;i>0;i--){ const j = Math.floor(rng()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; }
-  return a.slice(0, Math.min(5, a.length)).map(q => {
+  return a.slice(0, Math.min(15, a.length)).map(q => {
     const order = q.o.map((_,i) => i);
     for(let i=order.length-1;i>0;i--){ const j = Math.floor(rng()*(i+1)); [order[i],order[j]]=[order[j],order[i]]; }
     return Object.assign({}, q, {order});
@@ -1429,7 +1429,7 @@ function renderResult(){
     <span class="mono">Result</span>
     <div class="score">${qscore}/${qset.length}</div>
     <h2 style="margin-bottom:8px">${esc(verdict)}</h2>
-    <p style="color:var(--muted);font-size:14px;margin:0">Streak: ${store.streak} day${store.streak===1?"":"s"}. A new set of five is drawn each day, and changing your level changes the difficulty.</p>
+    <p style="color:var(--muted);font-size:14px;margin:0">Streak: ${store.streak} day${store.streak===1?"":"s"}. A new set of fifteen is drawn each day, and changing your level changes the difficulty.</p>
     <div class="qfoot">
       <span class="mono">Level ${LEVEL_NAMES[level]}</span>
       <button class="btn" id="againQ">Back to the globe</button>
@@ -1571,7 +1571,7 @@ function renderAccount(){
       <span class="mono">Quiz history</span>
       ${h.length ? `<ul class="hist">${h.slice(0,8).map(x =>
         `<li><span class="mono">${esc(x.date)}</span><span>${LEVEL_NAMES[x.level]||""}</span><b>${x.score}/${x.total}</b></li>`).join("")}</ul>`
-        : `<p style="color:var(--muted);font-size:14px;margin:0">No quizzes yet. Five questions a day is enough to build the habit.</p>`}
+        : `<p style="color:var(--muted);font-size:14px;margin:0">No quizzes yet. Fifteen questions a day is enough to build the habit.</p>`}
     </section>
 
     <section class="block">
