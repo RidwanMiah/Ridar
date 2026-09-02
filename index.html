@@ -235,13 +235,6 @@
     transition:opacity .4s ease,transform .5s cubic-bezier(.4,0,.2,1)}
   #landing.gone .landing-copy{opacity:0;transform:translateY(-14px)}
   #landingGlobe{width:100%;height:100%;display:block}
-  /* app entrance cascade, triggered while the landing flies away */
-  @keyframes ridarTop{from{opacity:0;transform:translateY(-16px)}to{opacity:1;transform:none}}
-  @keyframes ridarRight{from{opacity:0;transform:translateX(28px)}to{opacity:1;transform:none}}
-  @keyframes ridarStage{from{opacity:0;transform:scale(1.04)}to{opacity:1;transform:none}}
-  #app.entering > header{animation:ridarTop .55s cubic-bezier(.2,.7,.2,1) .15s both}
-  #app.entering #panel{animation:ridarRight .6s cubic-bezier(.2,.7,.2,1) .28s both}
-  #app.entering #stage{animation:ridarStage .75s cubic-bezier(.2,.7,.2,1) .1s both}
   .landing-grid{position:relative;z-index:1;max-width:1200px;margin:0 auto;
     height:100%;padding:0 max(6vw,28px);display:flex;align-items:center}
   .landing-copy{max-width:440px;padding-right:24px;
@@ -310,7 +303,7 @@
       <div class="landing-brand"><h1>Ridar</h1><span class="mono">Markets on your radar</span></div>
       <p class="landing-eyebrow mono">Commercial awareness · every morning</p>
       <h2>The markets,<br>explained plainly.</h2>
-      <p class="landing-lede">Ten economies briefed every day from public financial news — beginner to advanced, with a quiz that makes it stick. Built for everyone. Free forever.</p>
+      <p class="landing-lede">Ten markets, briefed from public financial news and explained at three levels of depth. A short quiz each day so it sticks. Free, no ads.</p>
       <button id="enterBtn">Enter Ridar <span aria-hidden="true">→</span></button>
       <p class="landing-foot mono">Education, not investment advice · <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener">Built by Ridwan Miah</a></p>
     </div>
@@ -1009,7 +1002,7 @@ function repaint(){ if(gLand) gLand.selectAll("path").attr("fill", d => fill(d.p
 function wireTerms(scope){
   scope.querySelectorAll(".term").forEach(t => {
     const key = t.dataset.t, g = GLOSSARY[key];
-    if(!g) return;
+    if(!g){ t.classList.remove("term"); return; }   // model used a key we don't have — drop the styling
     t.title = "Click for a plain-English definition";
     let box = t.closest(".story")?.querySelector(`.gloss[data-g="${key}"]`)
       || t.closest("p, .story")?.parentElement?.querySelector(`.gloss[data-g="${key}"]`);
@@ -1125,17 +1118,14 @@ let landingSpin = null;
 function dismissLanding(){
   const el = document.getElementById("landing");
   if(!el || el.classList.contains("gone")) return;
-  const app = document.getElementById("app");
-  app.classList.add("entering");                  // header/panel/stage animate in behind
-  el.classList.add("gone");                       // globe scales up + flies out, copy lifts away
+  el.classList.add("gone");                       // globe scales up, hero fades out
   let done = false;
   const finish = () => {
     if(done) return;
     done = true;
     if(landingSpin) landingSpin.stop();
     el.remove();
-    app.classList.remove("entering");
-    // Let the dashboard settle before the sign-up prompt slides in.
+    // Let the dashboard settle before the sign-up prompt appears.
     setTimeout(maybePromptSignup, 2400);
   };
   el.addEventListener("transitionend", e => {     // ignore child transitions bubbling up
@@ -1231,7 +1221,7 @@ function emptyPanel(){
       <div class="cta">
         <button class="btn" id="quizFromDigest">Take today’s quiz</button>
       </div>
-      <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Briefings are AI-written from public RSS feeds — central banks, governments, and financial news headlines — and always link to the source. Education, not investment advice. <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener" style="color:var(--red)">Built by Ridwan Miah</a>.</p>
+      <p style="font-size:12px;color:var(--muted);margin:18px 0 0;line-height:1.5">Briefings are AI-written from public RSS feeds and always link to the source. Education, not investment advice. <button class="link" id="aboutLink" style="font-size:12px">About Ridar</button> · <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener" style="color:var(--red)">Ridwan Miah</a></p>
     </div>`;
   document.querySelectorAll(".chip[data-c]").forEach(b =>
     b.addEventListener("click", () => { topicSel = null; selectByName(b.dataset.c); }));
@@ -1242,8 +1232,40 @@ function emptyPanel(){
   document.getElementById("quizFromDigest").addEventListener("click", startQuiz);
   document.querySelectorAll(".pastlist button[data-day]").forEach(b =>
     b.addEventListener("click", () => renderHistory(b.dataset.day)));
+  document.getElementById("aboutLink").addEventListener("click", renderAbout);
   wireTerms(document.getElementById("panel"));
   syncLevelButtons();
+}
+
+function renderAbout(){
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  const markets = Object.keys(MARKETS).map(k => MARKETS[k]).join(", ");
+  p.innerHTML = `
+    <div class="empty">
+      <button class="link" id="aboutBack" style="margin-bottom:14px">← Back</button>
+      <span class="mono">About</span>
+      <h2 style="margin:8px 0 16px">Why this exists</h2>
+      <p style="line-height:1.65">Keeping up with commercial awareness — knowing what is moving markets and why — is genuinely useful, for interviews and for making sense of the news. Doing it properly meant reading five outlets every morning. I am lazy, so I built Ridar to do the reading and explain each story at whatever depth I want, with a quiz to check it stuck.</p>
+
+      <section class="block">
+        <span class="mono">How it works</span>
+        <p style="line-height:1.6">Every hour a script pulls headlines from roughly two dozen public feeds — central banks, government releases, and the market coverage of the FT, Reuters, Bloomberg, CNBC and others. It groups them by country, then has an AI write a three-level briefing from the headlines and feed summaries only, never the article text. Every story links back to where it came from.</p>
+      </section>
+
+      <section class="block">
+        <span class="mono">What it isn't</span>
+        <p style="line-height:1.6">Not investment advice, and not a replacement for the actual reporting — follow the links for that. The AI can get a nuance wrong, which is why the sources are always one click away.</p>
+      </section>
+
+      <section class="block">
+        <span class="mono">Ten markets</span>
+        <p style="line-height:1.6;color:var(--muted)">${esc(markets)}. Free, no ads, no tracking beyond a login if you want your streak saved.</p>
+      </section>
+
+      <p style="font-size:13px;color:var(--muted);margin-top:8px">Built by <a href="https://www.linkedin.com/in/miahridwan/" target="_blank" rel="noopener">Ridwan Miah</a>. Code at <a href="https://github.com/RidwanMiah/Ridar" target="_blank" rel="noopener">github.com/RidwanMiah/Ridar</a>.</p>
+    </div>`;
+  document.getElementById("aboutBack").addEventListener("click", emptyPanel);
 }
 
 /* ============ history ============ */
