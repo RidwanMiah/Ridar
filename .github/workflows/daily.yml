@@ -1,13 +1,16 @@
-name: Ridar daily briefing
+name: Ridar briefing
 
-# Runs once a day at 06:10 UTC, and on demand from the Actions tab.
+# Runs at 10 minutes past every hour, and on demand from the Actions tab.
 # GitHub Actions is free for public repositories.
 #
-# Want to cut cost further (or you're on a paid AI provider)? Change the cron
-# to weekly:  '10 6 * * 1'  = Mondays only.
+# run.js hashes each country's headlines and skips the AI when nothing has
+# changed, so a quiet hour costs nothing — no AI calls, no commit. On a busy
+# hour it makes ~4 calls, well inside the Gemini free tier.
+#
+# Want it calmer? '10 */3 * * *' = every 3 hours.  '10 6 * * *' = once a day.
 on:
   schedule:
-    - cron: '10 6 * * *'
+    - cron: '10 * * * *'
   workflow_dispatch:
 
 # The job commits the generated JSON back into the repo, so it needs write
@@ -15,15 +18,21 @@ on:
 permissions:
   contents: write
 
+# Don't let two hourly runs stack up if one is slow.
+concurrency:
+  group: ridar-briefing
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 12          # a hung feed can't burn a 6-hour job any more
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install rss-parser
         run: npm install --no-audit --no-fund
@@ -40,7 +49,7 @@ jobs:
           git config user.name  "ridar-bot"
           git config user.email "actions@github.com"
           git add data/
-          # If nothing changed (a quiet day), exit cleanly rather than failing.
-          git diff --staged --quiet && echo "No change today." && exit 0
-          git commit -m "Briefing $(date -u +%Y-%m-%d)"
+          # If nothing changed this hour, exit cleanly rather than failing.
+          git diff --staged --quiet && echo "No change this hour." && exit 0
+          git commit -m "Briefing $(date -u +'%Y-%m-%d %H:%MZ')"
           git push

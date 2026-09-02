@@ -44,10 +44,27 @@ async function askForJson(system, user, { maxTokens = 8000, temperature = 0.3 } 
 }
 
 async function callProvider(system, user, opts) {
-  if (PROVIDER === 'gemini') return callGemini(system, user, opts);
-  if (PROVIDER === 'groq') return callGroq(system, user, opts);
-  if (PROVIDER === 'anthropic') return callAnthropic(system, user, opts);
-  throw new Error(`Unknown AI_PROVIDER "${PROVIDER}". Use gemini, groq or anthropic.`);
+  // Free AI tiers throw transient 429/500/503s under load. Retry a few times
+  // with backoff so one blip doesn't fail the whole daily run.
+  const RETRIABLE = /\b(429|500|502|503|overload|high demand|UNAVAILABLE|RESOURCE_EXHAUSTED)\b/i;
+  let lastErr;
+  for (let attempt = 0; attempt < 4; attempt++) {
+    if (attempt) {
+      const wait = 4000 * 2 ** (attempt - 1) + Math.random() * 1000;
+      console.log(`  retrying in ${(wait / 1000).toFixed(0)}s (${lastErr.message.slice(0, 60)}…)`);
+      await new Promise((r) => setTimeout(r, wait));
+    }
+    try {
+      if (PROVIDER === 'gemini') return await callGemini(system, user, opts);
+      if (PROVIDER === 'groq') return await callGroq(system, user, opts);
+      if (PROVIDER === 'anthropic') return await callAnthropic(system, user, opts);
+      throw new Error(`Unknown AI_PROVIDER "${PROVIDER}". Use gemini, groq or anthropic.`);
+    } catch (err) {
+      lastErr = err;
+      if (!RETRIABLE.test(err.message)) throw err;
+    }
+  }
+  throw lastErr;
 }
 
 // --- Google Gemini (free tier) ---------------------------------------------

@@ -39,6 +39,35 @@ const GENERAL_FEEDS = [
 ];
 
 // ---------------------------------------------------------------------------
+// Per-market news, via Google News RSS search. Not authoritative like a central
+// bank release, but the query is tight enough (each market's economy, its
+// central bank, its currency, its index, rates/inflation/trade) that it fills
+// the gap for markets with no usable official feed — China, Saudi, Nigeria —
+// and adds depth for the rest. `when:2d` keeps it recent; the summariser only
+// ever sends headlines and the feed blurb, never article text.
+// ---------------------------------------------------------------------------
+// Each query leads with the market's own anchors (central bank, currency,
+// index) so results are about that market's economy and markets, not just any
+// story that happens to name the country.
+const MARKET_QUERIES = {
+  USA: '"Federal Reserve" OR "Treasury yields" OR "S&P 500" OR "Nasdaq" OR "US inflation" OR "US economy"',
+  GBR: '"Bank of England" OR gilts OR FTSE OR sterling OR "UK inflation" OR "UK economy" OR "the Budget"',
+  DEU: 'Bundesbank OR DAX OR "German economy" OR "German exports" OR "German inflation" OR "German bunds"',
+  JPN: '"Bank of Japan" OR yen OR Nikkei OR "Japanese economy" OR "Japanese government bonds" OR "Japan inflation"',
+  CHN: '"People\'s Bank of China" OR yuan OR "Chinese economy" OR "China exports" OR "China property" OR "China stimulus"',
+  IND: '"Reserve Bank of India" OR rupee OR Nifty OR Sensex OR "Indian economy" OR "India inflation"',
+  BRA: '"Banco Central do Brasil" OR Selic OR "Brazilian real" OR Ibovespa OR "Brazilian economy" OR Petrobras',
+  SAU: '"Saudi economy" OR OPEC OR Aramco OR "Saudi oil output" OR "Public Investment Fund" OR "Saudi non-oil"',
+  NGA: 'naira OR "Central Bank of Nigeria" OR "Nigerian economy" OR "Nigeria inflation" OR "Nigeria foreign reserves"',
+  AUS: '"Reserve Bank of Australia" OR "Australian dollar" OR ASX OR "iron ore price" OR "Australian economy"',
+};
+const gnews = (q) =>
+  `https://news.google.com/rss/search?q=${encodeURIComponent('(' + q + ') when:2d')}&hl=en-US&gl=US&ceid=US:en`;
+const MARKET_FEEDS = Object.entries(MARKET_QUERIES).map(([iso3, q]) => ({
+  source: `${COUNTRIES[iso3].label} markets`, iso3, url: gnews(q),
+}));
+
+// ---------------------------------------------------------------------------
 // Primary feeds. These are the authoritative ones — a rate decision from the
 // Bank of England is a fact, not a report of a fact. They also arrive
 // pre-tagged, which makes them the most valuable stories in the pipeline.
@@ -51,6 +80,7 @@ const PRIMARY_FEEDS = [
   { source: 'Bank of Japan',     iso3: 'JPN', url: 'https://www.boj.or.jp/en/rss/whatsnew.xml' },
   { source: 'Reserve Bank of India', iso3: 'IND', url: 'https://www.rbi.org.in/pressreleases_rss.xml' },
   { source: 'Reserve Bank of Australia', iso3: 'AUS', url: 'https://www.rba.gov.au/rss/rss-cb-media-releases.xml' },
+  ...MARKET_FEEDS,
   // Dropped: US Treasury (serves malformed XML / times out) and the IMF feed
   // (hard 403 to non-browser clients). USA is covered by the Fed feed plus the
   // general feeds; IMF stories still arrive via the 'imf' topic keyword. If
