@@ -1,435 +1,239 @@
 {
-<<<<<<< HEAD
-  "generated": "2026-08-31T06:13:21.861Z",
-  "provider": "gemini",
-  "model": "gemini-flash-lite-latest",
-  "digest": {
-    "date": "31 August 2026",
-    "headline": "Geopolitical tensions in the Middle East drove oil prices higher while central bank messaging and corporate earnings dominated global markets.",
-    "lede": {
-      "b": "Militaries from the United States and Iran exchanged fire, causing oil prices to rise. At the same time, the head of the US central bank hinted that borrowing costs might go up.",
-      "i": "US-Iran military hostilities disrupted the Strait of Hormuz, lifting crude benchmarks and feeding inflation expectations, while Federal Reserve Chair Kevin Warsh signaled a potential rate hike at Jackson Hole.",
-      "a": "The transmission mechanism from geopolitical shocks in the Strait of Hormuz to equity index futures operated via energy-driven inflation expectations, coinciding with a hawkish shift in the Fed reaction function priced into the front-end curve."
-=======
-  "generated": "2026-09-02T10:53:33.636Z",
+  "generated": "2026-09-02T10:58:03.414Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "2 September 2026",
-    "headline": "Global sovereign debt sell-offs push bond yields higher and pressure equity markets worldwide.",
+    "headline": "Global equity markets and sovereign bonds faced broad selling pressure driven by escalating Middle Eastern geopolitical friction, rising energy costs, and climbing government debt yields.",
     "lede": {
-      "b": "Government borrowing costs rose across the globe as investors demanded higher returns, which caused stock prices to fall.",
-      "i": "A broad-based sovereign debt sell-off drove gilt and Treasury yields higher, increasing discount rates and compressing equity valuations.",
-      "a": "Synchronised duration-selling shifted sovereign yield curves upward, driving real rates higher and triggering equity multiple compression through elevated hurdle rates."
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+      "b": "Global stock markets fell and government borrowing costs rose today. This happened because of growing political tensions in the Middle East, higher energy prices, and increasing yields on government bonds.",
+      "i": "Equities experienced a broad sell-off while sovereign yields climbed globally. The transmission mechanism operated via higher energy costs and geopolitical friction, which compressed equity valuations through elevated discount rates.",
+      "a": "Cross-asset price action was dominated by a synchronized duration sell-off and risk-off rotation. The market is pricing dual shocks: energy-driven input cost pressures and a geopolitical risk premium that compresses equity multiples via higher risk-free rates. Falsification would require a swift de-escalation in the Middle East accompanied by a normalization of sovereign yield curves."
     },
     "items": [
       {
         "c": "United States of America",
-<<<<<<< HEAD
-        "b": "An American strike on an island in the Strait of Hormuz pushed oil prices up, and the US central bank suggested interest rates could increase.",
-        "i": "Crude benchmarks climbed following a US strike in the Strait of Hormuz, while equity futures fell as markets priced in tighter monetary conditions after the Fed's hawkish address.",
-        "a": "Energy supply risks triggered upward revisions in near-term inflation prints, compounding equity multiple compression driven by the anticipated policy rate increase at the upcoming FOMC meeting."
+        "b": "Stock index futures fell as higher government bond yields made stocks less attractive to hold.",
+        "i": "Index futures softened as rising yields increased the opportunity cost of holding equities, triggering a technology sector pullback.",
+        "a": "Equity index futures compressed as the equity risk premium narrowed in response to rising sovereign yields, forcing de-risking in high-multiple technology shares."
       },
       {
         "c": "United Kingdom",
-        "b": "A German firm joined the contest to supply new rifles to the British army, and a policy was proposed to cut student debt for care workers.",
-        "i": "Heckler & Koch entered the defence procurement tender to replace the British service rifle, whilst Andy Burnham proposed linking social care work to tuition fee reductions.",
-        "a": "Defence contractor bidding activity highlighted capital allocation across European industrial peers, while domestic fiscal proposals aimed at mitigating municipal expenditure pressures on council budgets."
-      },
-      {
-        "c": "Brazil",
-        "b": "British farming groups asked the government to ban meat imports from Brazil because of veterinary rules.",
-        "i": "Agricultural bodies petitioned for a ban on Brazilian meat shipments due to non-compliance with European Union regulations on veterinary antibiotic use.",
-        "a": "Trade friction intensified as domestic producer lobbies leveraged regulatory compliance standards regarding veterinary inputs to seek quantitative restrictions on South American agricultural imports."
+        "b": "Government bond yields hit an eighteen-year peak and the pound weakened, while banks borrowed more cash from the central bank.",
+        "i": "UK gilts experienced severe downward pressure driving yields to an eighteen-year high, while commercial banks increased their reliance on central bank liquidity facilities.",
+        "a": "The UK complex suffered an acute duration sell-off with gilt yields hitting an eighteen-year high, while rising usage of central bank liquidity facilities indicated a tactical dash for high-quality balance sheet collateral."
       },
       {
         "c": "Germany",
-        "b": "A German weapons maker entered a contest for a British military contract, and the central bank published financial accounts.",
-        "i": "Heckler & Koch joined the defence tender to replace the British service rifle, and the central bank released regional flow of funds data.",
-        "a": "Cross-border industrial competition intersected with macroeconomic balance sheet reporting as the monetary authority published euro area financial asset and liability shifts."
+        "b": "German stocks dropped for a third consecutive session due to high energy costs and geopolitical pressures.",
+        "i": "Higher energy prices weighed on German equities, driving the DAX lower as geopolitical tension lifted sovereign bond yields.",
+        "a": "German industrial valuations absorbed structural headwinds from elevated energy input costs, compounded by discount rate expansion driven by broader sovereign yield movements."
       },
       {
         "c": "Japan",
-        "b": "The central bank released economic datasets, and reports noted past vulnerabilities in critical mineral supplies.",
-        "i": "The Bank of Japan published payment settlement statistics, loan rates, and flow of funds accounts, amid commentary recalling historical critical mineral supply vulnerabilities.",
-        "a": "Systemic financial data releases coincided with renewed market sensitivity to supply chain fragilities in critical minerals, referencing historical trade restrictions."
+        "b": "Japanese stocks dropped sharply and the currency rose after a central bank official hinted at potential interest rate increases.",
+        "i": "A policy board member hinted at consecutive rate increases, prompting currency purchases while domestic equities fell on rising borrowing costs.",
+        "a": "Hawkish signal effects from the central bank spurred short-covering in the domestic currency, while local equities suffered dual compression from higher domestic funding costs and external yield shocks."
       },
       {
         "c": "China",
-        "b": "Factory activity shrank for a second month, and automaker BYD saw its profit margins squeezed.",
-        "i": "Manufacturing contraction persisted for two consecutive months, while BYD faced deflation pressures and domestic competition that squeezed its profit margins.",
-        "a": "Persistent manufacturing contraction sustained macro stimulus expectations, even as microeconomic earnings reports revealed margin compression from intense domestic rivalry."
+        "b": "Industrial metals and precious metals fell across exchange indexes, while Cambricon launched an equity incentive scheme.",
+        "i": "Industrial and precious metals led a broad market sell-off amid shifting inflation expectations, while Cambricon introduced a major employee equity incentive scheme.",
+        "a": "Commodity complexes liquidated across both industrial and precious segments as macro sentiment turned defensive, contrasting with idiosyncratic corporate equity issuance in the technology sector."
       },
       {
         "c": "India",
-        "b": "HDFC Bank shares rose despite its chief executive leaving, Jio Platforms received approval for a share sale, and diplomatic visits were planned.",
-        "i": "HDFC Bank equities advanced despite an unexpected CEO departure, Jio Platforms secured initial public offering approval, and diplomatic state visits were arranged.",
-        "a": "Equity resilience at major lenders defied leadership transition uncertainty, running parallel to structural capital market developments via regulatory clearance for upcoming public floats."
-      }
-    ],
-    "thread": {
-      "b": "The day was driven by a mix of international conflicts pushing up energy costs, central bank policy signals, and updates on manufacturing and trade.",
-      "i": "Markets digested supply-side commodity shocks from geopolitical escalations, paired with central bank communications regarding interest rates and regional manufacturing data.",
-      "a": "The cross-asset tape reflected a synchronized pricing of commodity-led input shocks, shifting central bank reaction functions, and localized structural data releases across major economies."
-=======
-        "b": "American stock prices dropped as rising government bond yields hurt technology companies ahead of a jobs report.",
-        "i": "Wall Street equities retreated as higher sovereign yields increased discount rates for growth-heavy technology sectors.",
-        "a": "Duration repricing weighed directly on long-duration tech equities, testing market tolerance for stretched valuation multiples ahead of employment prints."
-      },
-      {
-        "c": "United Kingdom",
-        "b": "British government borrowing costs reached an eighteen-year high, while the pound fell against the dollar.",
-        "i": "UK gilts experienced heavy selling that pushed yields to an eighteen-year high, while sterling depreciated to a three-week low.",
-        "a": "Fiscal pressures manifested in acute gilt curve steepening, exacerbating currency weakness as foreign exchange markets penalised domestic risk premium expansion."
+        "b": "Indian stock indices fell due to rising crude prices, while the central bank successfully auctioned short-term government debt.",
+        "i": "Domestic equities retreated as West Asian geopolitical friction spurred crude prices and inflation concerns, while the central bank completed scheduled Treasury bill auctions.",
+        "a": "Equity indices registered losses driven by imported crude price shocks and associated macro concerns, running parallel to routine sovereign debt absorption via standard T-bill auctions."
       },
       {
         "c": "Brazil",
-        "b": "Petrobras shares rose following higher crude oil prices, and the main stock index extended its winning streak.",
-        "i": "Petrobras American Depositary Receipts advanced on higher Brent crude benchmarks, while the Ibovespa index extended its winning run.",
-        "a": "Energy-linked equity outperformance sustained the broader index momentum, with equity cash-flow expectations scaling alongside commodity spot prices."
-      },
-      {
-        "c": "Germany",
-        "b": "German stock prices fell for a third session due to high energy costs and rising bond yields.",
-        "i": "German equities declined as energy costs squeezed corporate margins and rising bond yields reduced equity attractiveness.",
-        "a": "Margin compression from persistent energy input costs combined with higher risk-free benchmarks to drive structural equity outflows."
-      },
-      {
-        "c": "Japan",
-        "b": "A central bank official hinted at potential interest rate hikes, causing the yen to rise and domestic bond yields to climb.",
-        "i": "Hawkish remarks from a central bank official signaled potential rate hikes, strengthening the Yen amid a domestic bond rout.",
-        "a": "Policy normalisation signals induced curve adjustments in domestic fixed income, triggering cross-asset volatility and short-covering in the currency."
-      },
-      {
-        "c": "China",
-        "b": "Cambricon issued a large equity incentive package to staff, while industrial metals and precious commodities fell.",
-        "i": "Cambricon launched an equity incentive plan for employees, while industrial metals and precious commodities registered sharp declines.",
-        "a": "Micro-level equity compensation adjustments contrasted with broader macro headwinds as base metals and lithium suffered widespread liquidations."
-      },
-      {
-        "c": "India",
-        "b": "Indian stock indices fell for a third straight day due to external pressures, and the central bank released treasury bill results.",
-        "i": "Domestic indices extended their losing streak amid external pressures from higher crude prices, while the central bank auctioned short-term debt.",
-        "a": "Imported energy inflation and regional geopolitical friction transmitted directly into domestic risk aversion and local debt cut-off adjustments."
+        "b": "Petrobras shares rose following analyst upgrades and strong crude prices, while the main stock index extended its winning streak.",
+        "i": "Petrobras shares advanced on target price upgrades and strong crude metrics, allowing the Ibovespa to extend its winning streak.",
+        "a": "Petrobras outperformed on the back of supportive Brent crude benchmarks that bolster corporate cash generation, contributing to the broader domestic index's sustained momentum."
       },
       {
         "c": "Saudi Arabia",
-        "b": "State authorities bought liquefied natural gas cargoes, Aramco Digital signed technology agreements, and oil exports rose.",
-        "i": "Saudi Arabia procured liquefied natural gas cargoes for domestic needs, Aramco Digital partnered with tech firms, and crude exports rose.",
-        "a": "Domestic fossil fuel balancing coincided with enterprise digital integration initiatives, even as broader global demand projections faced downward revisions."
+        "b": "Aramco Digital partnered on artificial intelligence projects, and the government planned liquefied natural gas purchases as output reached high levels.",
+        "i": "Aramco Digital completed artificial intelligence partnerships, while state procurement targeted liquefied natural gas cargoes as crude production matched peak volumes.",
+        "a": "State-backed entities balanced technological infrastructure expansion with strategic energy procurement, executing LNG imports while maintaining multi-year high crude output volumes."
       },
       {
         "c": "Nigeria",
-        "b": "The Nigerian naira reached a two-year peak against the dollar as foreign exchange trading turnover increased.",
-        "i": "The Nigerian naira strengthened past the N1,330 threshold to a two-year peak while official foreign exchange turnover expanded.",
-        "a": "Official window liquidity expansion accompanied currency appreciation, though structural spreads with parallel market rates persisted."
+        "b": "The Nigerian currency strengthened to a two-year high in the official trading window alongside expanded turnover.",
+        "i": "The domestic currency appreciated to a two-year peak as foreign exchange turnover expanded significantly over the month.",
+        "a": "Official market liquidity improved measurably, evidenced by double-digit volume expansion driving the local currency to a two-year high against the dollar."
       },
       {
         "c": "Australia",
-        "b": "Bhp Group focused on its copper strategy under new leadership, and Austal evaluated high order books.",
-        "i": "BHP Group prioritised copper expansion under new leadership, while Austal managed record order books alongside market uncertainty.",
-        "a": "Corporate restructuring toward transition metals contrasted with order book digestion risks in the defense and shipbuilding segment."
+        "b": "BHP shifted its focus toward copper under new leadership, and the Australian dollar fell as US rate expectations grew.",
+        "i": "BHP Group elevated its copper expansion strategy under a new chief executive, while the Australian dollar fell as US monetary tightening expectations grew.",
+        "a": "Corporate restructuring toward transition metals at major miners contrasted with currency depreciation driven by widening yield differentials against tightening US monetary policy."
       }
     ],
     "thread": {
-      "b": "A worldwide rise in government borrowing costs and bond selling weighed on global stock markets.",
-      "i": "A synchronized global sovereign bond sell-off drove yields higher, tightening financial conditions and pressuring international equity markets.",
-      "a": "Global duration liquidations transmitted upward shifts in sovereign yield curves across international borders, establishing a uniform cost-of-capital constraint on risk assets."
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+      "b": "The common thread connecting these events is that geopolitical tensions in the Middle East and rising energy costs caused financial markets worldwide to worry about higher inflation and increased borrowing expenses.",
+      "i": "Markets globally were unified by a macro transmission channel driven by Middle Eastern geopolitical friction and energy price shocks, which simultaneously raised sovereign yields and depressed equity valuations.",
+      "a": "The cross-border transmission mechanism centers on a synchronized repricing of geopolitical and energy risk premia. Spikes in crude and gas prices reinforced sticky price expectations, forcing global sovereign yield curves upward and compressing risk assets universally."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-<<<<<<< HEAD
-      "sub": "US-Iran conflict escalates and Fed signals hawkish stance",
+      "sub": "Equity futures decline as sovereign yields climb higher",
       "ind": [],
       "stories": [
         {
-          "t": "US-Iran Military Escalation and Oil Market Impact",
-          "src": "CNBC · Financial Times",
-          "b": "The American military attacked an oil hub on an island in the Strait of Hormuz, and Tehran retaliated with an attack on Jordan. This renewed fighting caused oil prices to rise and pushed stock futures down.",
-          "i": "Renewed exchanges of fire between the US and Iran, including an American strike on an island in the Strait of Hormuz, caused crude benchmarks to climb. This geopolitical shock directly impacted equity index futures via <span class='term' data-t='inflation'>inflation</span> expectations linked to energy costs.",
-          "a": "The kinetic escalation in the Strait of Hormuz reprices the energy risk premium directly into the curve. The transmission mechanism operates via supply-side cost shocks feeding immediately into headline prints, forcing macro desks to re-evaluate term premia despite underlying growth prints.",
-          "gloss": "inflation",
-          "links": [
-            "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-            "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1"
-          ]
-        },
-        {
-          "t": "Federal Reserve Signals Potential Rate Hike",
-          "src": "CNBC · MarketWatch",
-          "b": "Federal Reserve Chair Kevin Warsh made hawkish comments at Jackson Hole, meaning he favours higher interest rates to control money supply. Analysts now expect the central bank to raise borrowing costs at its September meeting.",
-          "i": "Fed Chair Kevin Warsh delivered a hawkish address at Jackson Hole, shifting market probabilities toward a policy rate increase at the upcoming Federal Open Market Committee meeting. Equity futures retreated as investors priced in tighter monetary conditions.",
-          "a": "Warsh's Jackson Hole rhetoric functions as a deliberate anchor shift, attempting to preempt financial conditions easing. The market reaction indicates a sudden divergence between Fed reaction functions and Treasury issuance dynamics, falsifying the soft-landing consensus.",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-            "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories"
-=======
-      "sub": "Treasury yields rise as bond sell-off hits stocks",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Treasury Yields Rise Amid Global Bond Sell-Off",
-          "src": "CNBC · FOX 44",
-          "b": "Government bond prices fell across the globe, causing their yields to climb higher. This bond sell-off pushed up borrowing costs.",
-          "i": "Sovereign debt experienced a broad sell-off globally, driving <span class='term' data-t='gilt'>gilt</span> and Treasury yields higher as fixed-income investors demanded higher compensation.",
-          "a": "The synchronized global duration sell-off reflects term-premium expansion and sovereign supply concerns, tightening financial conditions ahead of labor market prints.",
+          "t": "Treasury Yields Pressure Equity Markets",
+          "src": "Barchart.com · Reuters",
+          "b": "Stock futures fell as government bond yields went up. Higher bond returns make stocks less attractive to investors.",
+          "i": "Equity index futures softened as climbing sovereign <span class='term' data-t='gilt'>yields</span> increased the opportunity cost of holding equities, triggering a pullback across technology shares.",
+          "a": "The transmission mechanism operates via the discount rate applied to future corporate cash flows. As risk-free rates reprice higher, equity duration compresses valuations, particularly in growth-heavy sectors like semiconductors.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kTzdvcFpPblpSZkZpcWRPSHhhU21LNEVydjZneUlLVl82dEgtc25DSHg3Uzg0QktBazF5a0RLbnhpN093VklqRWI5VERFWXhzcUk2clJaeURaakN2c2UtdUhSVFNTaDAtNW1XN1JONzVlZFdVWlI00gF8QVVfeXFMTkJLbUdLZ1lYM1l3S3pSUUZQZ2xRWDd6R2NhOVlsOXFZTGszZGhhZHJvSWRrNDd4Q2Y1dHd3Tm9paDRIdGYtUmZJNzUwSDFGRlRwRG5XNEhUUDZMS05qSlhFWjM4cEV4SklPOTAzU3NyNWM1SDE2MC0wdy1vcA",
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHE4Y1VXQlhXeEdRRnFDOUNBTWxhcXZiUVdrY1NjRFItemNWeFBwWGFBcEs3bDkwYkRfN1p6bDJEX2V3RnkzSnZ2enBpeEUzTVVIRW9ELUZqOGpOTW80bjM2YlFTQnVvVjkxc2R4dFdWUHZnQm9IU21OeV9vUlhmQmZLWnBpd0dkaDNDQjNFTVJFeXRwNkF2eDBxelJ0c3RpWHFuZk1nNndzU2c3czVoZ0h5OVJSZndOWjY2NXVwLUU3STZJUm1ySnRCZ1gtTmRNT2xzdkdYUE7SAd4BQVVfeXFMUENWV0t4SzBTWlBYVVVZTVFqQXZocmhnS2RFR0ZOZGYyX3hzYTRRX2RyeW95R0JIQmJHeFE4WEg3UnpxY084bjYxM19uMk84Y192VWx3QUR0bmU5eTRUeGJsVGxFSElPR1VoalRCc0FqbGpsdjZYanRFYnRCdHlveEg0bTltYnk2RTNBblJoRHlFZGhzc0tFcGNwd1JEV19iMkhIR29KcjctcHJNT0ZQLTBPdWo3S05PZnExWTA4UWxCTnY3NUc1dlpVUHpZS3ltdnp4X3pNNi1QUlFldU5n"
+            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlQ0Q2NfZUd3dnhxbml0NDh3OU11Vl9MRmxfSmFjRHFQbWRLa0F4VjRQZ3MwNS1hcTBFa1hlU0Jidk5VU1ZvUWgtRU1nSW5UQS1TVWxHYi1OUTlubTlOblJYeThLTVFLenVGOG02SjM4cEgtaXRlTVhZamtHcDZ6eVhOcVRiVFlhamZ2M1pmX0FmVE5VLXNJV3JWbWZRbWZFdFl1RDhjT2RRMklWMURoa05oakN0T3c5QU5SNVFVS2htVkR1Q3lMYlU4dVVUaEN5QlhrU2xmSFFxcUg4?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JPMlNBNHNJUVR2WWhfd0xOR3ZnWHAzampvY0tJRGFrN1NteWRFR28tekVYR0F1VW5GQ3I4M0FsR0dFalZzYUdERVlOSHJqOWRNNUFCVnFsaURzb0ZwWFZEZ3VHRTQ5czJaYkk2Ym9sOGROUEMxUHJzMzdFMnctMGZDbGRpUHdiOE1DSFI2VHhDNHdwWHlXTW13cG9FSUhOb0lrbEx5bXRaVzAyeVNsaGRYTWJYRnNqWjh1ZjFCcw?oc=5"
           ]
         },
         {
-          "t": "Wall Street Slips as Higher Yields Pressure Technology Shares",
-          "src": "Barchart.com · WKZO",
-          "b": "US stock futures dropped as rising borrowing costs hit major technology companies and chipmakers. Investors also prepared for upcoming employment data.",
-          "i": "Equity indices retreated as rising discount rates compressed valuations for growth-heavy sectors like semiconductors, ahead of the ADP jobs report.",
-          "a": "Higher real yields escalated the equity risk premium pressure on high-multiple growth equities, causing an immediate compression in Nasdaq futures and chipmaker valuations.",
+          "t": "Geopolitical Tensions Compound Stock Market Losses",
+          "src": "benzinga.com",
+          "b": "Stock index futures dropped further following reports of rising tensions between the United States and Iran.",
+          "i": "Index futures extended losses as escalating geopolitical friction between the United States and Iran compounded macro concerns about rising borrowing costs.",
+          "a": "The exogenous shock from Middle Eastern friction introduces risk premia into broader asset classes, exacerbating the duration-driven sell-off already underway in equity indices.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlQ0Q2NfZUd3dnhxbml0NDh3OU11Vl9MRmxfSmFjRHFQbWRLa0F4VjRQZ3MwNS1hcTBFa1hlU0Jidk5VU1ZvUWgtRU1nSW5UQS1TVWxHYi1OUTlubTlOblJYeThLTVFLenVGOG02SjM4cEgtaXRlTVhZamtHcDZ6eVhOcVRiVFlhamZ2M1pmX0FmVE5VLXNJV3JWbWZRbWZFdFl1RDhjT2RRMklWMURoa05oakN0T3c5QU5SNVFVS2htVkR1Q3lMYlU4dVVUaEN5QlhrU2xmSFFxcUg4",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVEMwM1NXSEU3OUdlVnhIZXhjcmJFQmY1enZHVWpTbkdTMGJCQWVNeGE1LXFDNzIzRE8xdEhTalRoZU5TUHpBc3hZZFhDcF8tS0pQV3NmUDFyaER2TDktMlExRlBnb3NfYzZYZXRnaXVNYlNLdnFDMjlKdllUOTYyMEdxVmtyWXJ4cFBjUzFWN2dIY29MYW11cVdBX2VqMzVLY0hoeExLS01ya2c"
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+            "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUGRTeDEtQm5UUXpCRFJPQWFjbW8xMjlVZmJlLTRuc0ZnMmlQN2NxRTFhOGhLVHlkaTNsNmcyZ0xsME92ZjM4WU5kNDVlcHZ1d1h1c3dOQlE1Y2lSeXpIc1VrM0laSS1rdGtYZ01Qc1hZMHU2UU5ickY4VVc3M2dKLXJ5eVd3dnNlOE1LMjBHQ01jZ0YtVVN6NkluRXN2UHF6dDFhQkM4NnhQVXpLV0JiYXhrRzFYeThEVWplTXpuMWZIX3BQdXgwb1ZDaWRrdzBrd0t1d1N6WFoxc0FQLXo5eVowV0tUYmpVQ3M4ZkRvUEhxNV9QZHc?oc=5"
           ]
         }
       ],
       "politics": {
-<<<<<<< HEAD
-        "b": "President Donald Trump criticized NBC and his Treasury barred certain journalists from attending the G20. Meanwhile, Venezuela's interim president defended her government's oil agreement with the US.",
-        "i": "The Trump administration faced scrutiny after the Treasury restricted reporter access from prominent publications at the G20 summit. Concurrently, Venezuelan interim leader Delcy Rodríguez defended the contentious bilateral energy arrangement granting the US influence over vast reserves.",
-        "a": "Institutional friction escalated as the executive branch curtailed press accreditation for major financial dailies at the G20, coinciding with contentious international resource pacts like the Venezuelan crude framework that test sovereign ownership limits."
-      },
-      "timeline": [
-        [
-          "January",
-          "Delcy Rodríguez assumed power in Venezuela."
-        ],
-        [
-          "Late July",
-          "The last major US strikes on Iran were carried out."
-=======
-        "b": "Commentators discussed political records on price stability following recent economic commentary.",
-        "i": "Observers examined past administrative fiscal and monetary records in relation to historical price metrics.",
-        "a": "Policy analysts scrutinized historical governance frameworks and their transmission channels to long-run price stability indicators.",
+        "b": "Commentators have examined historical economic data to evaluate past administration performance on price stability.",
+        "i": "Public discourse focused on historical fiscal records and price stability metrics ahead of scheduled commentary.",
+        "a": "Market participants are scrutinising historical policy records for correlations with consumer price trajectories, evaluating how past administrative stances influenced macroeconomic balances.",
         "gloss": "inflation"
       },
       "timeline": [
         [
           "2 Sep",
-          "Treasury yields rise amid continuing global bond sell-off"
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+          "Stock index futures decline alongside a global bond market sell-off"
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-<<<<<<< HEAD
-      "sub": "Defence procurement and social care policy proposals",
+      "sub": "UK markets react to gas prices, bond yields, and currency lows",
       "ind": [],
       "stories": [
         {
-          "t": "German manufacturer bids for UK military contract",
-          "src": "Financial Times",
-          "b": "A German weapons maker is competing against international defence firms to supply a new rifle for the British army. This weapon would replace the current standard service rifle.",
-          "i": "Heckler & Koch is participating in the tender process to replace the SA80 service rifle, competing against other global <span class='term' data-t='carry'>defence</span> contractors.",
-          "a": "The procurement process for the successor to the SA80 highlights competitive pressures within the European defence industrial base, though contract margins will depend on final treasury allocations.",
-          "links": [
-            "https://www.ft.com/content/53d35170-2b41-4c21-8b41-345158ef0be1?syn-25a6b1a6=1"
-          ]
-        },
-        {
-          "t": "Proposed policy links social care work with tuition fee reductions",
-          "src": "Guardian Business",
-          "b": "Politician Andy Burnham has suggested a new scheme where young people work in social care for one year in exchange for half-price university tuition fees. Local councils currently spend most of their money on struggling care services.",
-          "i": "Andy Burnham has proposed a care year initiative to alleviate social care sector pressures and reduce student liabilities by fifty percent, addressing mounting council expenditure.",
-          "a": "The structural strain on municipal budgets from elderly care costs has prompted fiscal interventions that attempt to subsidise higher education via compulsory sectoral labour.",
-          "links": [
-            "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
-=======
-      "sub": "UK bond yields hit highs while currency drops",
-      "ind": [],
-      "stories": [
-        {
-          "t": "UK Bond Yields Reach Eighteen-Year High",
-          "src": "Reuters",
-          "b": "British government borrowing costs rose to levels not seen in nearly twenty years. This put extra pressure on officials.",
-          "i": "UK <span class='term' data-t='gilt'>gilts</span> experienced heavy selling pressure, pushing yields to an eighteen-year high and creating fiscal stress.",
-          "a": "The duration-weighted sell-off in sovereign debt reflects mounting term premia and fiscal anxiety, pricing in a higher risk-adjusted cost of capital for the sovereign issuer.",
+          "t": "UK bond yields and currency movements",
+          "src": "Reuters · Newsquawk",
+          "b": "British government bonds, which are loans made to the state, saw their returns reach an eighteen-year high. At the same time, the national currency dropped to a three-week low against the US dollar. These market shifts happened while traders focused on geopolitical tensions in the Middle East and high gas prices.",
+          "i": "UK <span class='term' data-t='gilt'>gilts</span> experienced severe downward pressure, driving yields to an eighteen-year peak. Concurrently, sterling weakened to a three-week low against the dollar. The sell-off was compounded by elevated gas prices and ongoing concerns regarding the Middle East.",
+          "a": "The debt complex repriced aggressively as long-end <span class='term' data-t='gilt'>gilts</span> sold off to hit an eighteen-year high in yield, driven by structural pressures from elevated gas prices and regional risk aversion. Foreign exchange markets simultaneously punished sterling, pushing it to a three-week trough against the greenback as traders priced in a combination of deteriorating terms of trade and fiscal stress.",
           "gloss": "gilt",
           "links": [
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUtuN0YtN2lVRGtLUUN4Sm9oZEQzQzMzZ1M0a0RkRWZKVjR5MEV0Nk40S2pIcnVsZjlnYjlKS1JuS1R1emlUM1BDU2N2VExfS05tMVdrMFU5Z0luakdVTl9hYXdaOC1qeVc4TkkzOVdGU1Z2ZU82QVBKU0wtYlJTVTRKaUVGOHlEcWZ2ekxBS19ycG5ET2t3WldxODNvOWtIV2s5a0FZWS1KZ2c?oc=5",
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2NGQmtIRlM1bXNoM0VCdHN5MElubWl5MkJvTlNOX2JpeklvQm9PRlllODdvMFFkNkdoZG0walEyUzVoMFNBT1JUb1FkcG9SNzYtMmMzaEFGdGZVLW9JeVh2eEJzRnB3dTJVYlR1eUpQZzV0WUdqNEkwLTFUWm5QRC1sak1zNi12QmpzcS0xZW1MU09Wb0lleWFRMUhxNnZVVkZJSF9NQWxwWndkUjdYdjJtTWtfUVVCZDNDMDByTXVRQQ?oc=5",
             "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlF1REpnZkFBOEQ5aWtMa2dFUExMOFRLMUxBQzgzeTdfYTByQ0dfbldMajJEVVloel9vb19MMEVkSHgtVTFaTGhhcjZRQURfOWREdkZoZGNtR2tvYmYzWkpIbTNzNGxQSGIwcDhsRnNubGhTN254TEMtek5Xdjhhbi03aDRWVG11RVQxbTNGVm80Ny1sRUVlRzFvVGlaNlVMWk1POEJxdkM5SjdGR3RoeG1lQ3M?oc=5"
           ]
         },
         {
-          "t": "Sterling Falls to Three-Week Low Against Dollar",
-          "src": "globalbankingandfinance.com · Devdiscourse",
-          "b": "The British currency dropped to a three-week low against the US dollar as traders watched geopolitical tensions and local bond markets.",
-          "i": "The British pound depreciated to a three-week trough <span class='term' data-t='inflation'>versus</span> the greenback, driven by regional security concerns and local fixed-income dynamics.",
-          "a": "Spot FX price action broke key technical supports as cross-asset correlations tied currency weakness directly to domestic debt sell-offs and shifting risk sentiment.",
+          "t": "Banks increase usage of central bank liquidity facilities",
+          "src": "marketscreener.com",
+          "b": "Financial institutions in the UK are increasingly swapping lower-quality assets in exchange for cash directly from the central bank. This indicates that commercial lenders are actively seeking safer liquidity options amid current market pressures.",
+          "i": "Domestic commercial banks have ramped up their utilisation of central bank facilities, increasingly exchanging higher-risk collateral for Bank of England cash. This points to a tactical shift <span class='term' data-t='carry'>toward</span> balance sheet liquidity preservation among major lenders.",
+          "a": "Data showing increased collateral transformation highlights liquidity hoarding by domestic lenders. By swapping riskier assets for central bank reserves, commercial institutions are prioritising high-quality liquid assets to buffer against potential funding shocks.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3F3dGVuWlgtWlpCQkFfcFEyXy1sb2tlb0pIVG5qMXNpUkN0b3BaYmRrUFFtU0xHUjZ0Wm04emdKMWNvbGZhM2VNQ2JUQk05Mjc2ZnpWandvcHZRRXBSNjVtS3dvY3pHY05maXhRanVQUmQyQTFfUjJZazJBN01zaUp3TVBOcnJkT2pxS1hQd3ktcjRtZ1d4VndlaWRDdw?oc=5",
-            "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkcxWXFlNVptYmo1dG5uX3RwcUFtWUVTdGUwejFrVEtydjJRR3FhOEFtY2M4a2xLR2pKWDhEcHFETy01Nlhrc01mcG9seFZ4QkJtNGpQT2ZhX0dqZTJncnU0bmRhUTdNT1pwUFdYbkVZOWZXTERHblc0b3gxZFZSN0ZXRGZGN3FSQTRZN0ZwQmF0R3J2NWt1dGZPZkYtQTJmOUg2dFlVSzZBVDRRRUxkSlk2QnlVZ3JPbE9LNkE5bDc5WXhBS3Zv0gHMAUFVX3lxTE1mWkxwOTQ0XzJpSnlnUUxMMFY1a2RTVWM5ZGtFVmItTE1BZmFMR3hscXUxUnNHTmt5M2NzdDRRVFVjZVB3R0E3d1VTZGtrb29NdGd1ZjlDX2FxQnEySDdUaWZ1bUFtWW5jNlBiLUl6Q2xaMnhSOV9IOXozbVN2RUlvbndZODBHZGFqTVoxbDdoZ1NIVFhIWlBIeFpJSmEwRGpacUloVmJFX09tbU4zMlBVcmNBQW5ycDFCQmE1bjVTc3N4OWM1YkFaRHlSQQ?oc=5"
-          ]
-        },
-        {
-          "t": "European Debt Pressured by Energy Prices",
-          "src": "Newsquawk",
-          "b": "High gas prices put downward pressure on European government bonds, including British debt.",
-          "i": "Elevated gas prices weighed on European benchmark debt instruments, causing persistent spread pressures across regional sovereign curves.",
-          "a": "Input cost shocks via the energy channel stoked ongoing anxiety regarding second-round price effects, flattening yield curves as duration holders trimmed exposure.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2NGQmtIRlM1bXNoM0VCdHN5MElubWl5MkJvTlNOX2JpeklvQm9PRlllODdvMFFkNkdoZG0walEyUzVoMFNBT1JUb1FkcG9SNzYtMmMzaEFGdGZVLW9JeVh2eEJzRnB3dTJVYlR1eUpQZzV0WUdqNEkwLTFUWm5QRC1sak1zNi12QmpzcS0xZW1MU09Wb0lleWFRMUhxNnZVVkZJSF9NQWxwWndkUjdYdjJtTWtfUVVCZDNDMDByTXVRQQ?oc=5"
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMkFtY3dtZlJTbi1oZTJHbjlkdWpkZVpBUXZmX2x5amhxVGJ2RlpCYmpISkQyWmxfSnlZN2VQbVMtVEEyVVVkN3kwUHc1aDRnM0hzekJMQksxbk5VLUhZcFg1d2s5VUFWOTRnVXZjUDEtM2FKOHNBV2RNZDB5Nkt4bmpzblNLZWJwOU40cnVqLXRPdHdHcUlxNlphMzZCWHYzTnZBY0NlcTlxTHRBaGFMUFVta3JTd05pSHA5anFwNkxJQmV3WTdUMnk2NzJ1QjF0Nnc?oc=5"
           ]
         }
       ],
       "politics": {
-<<<<<<< HEAD
-        "b": "Local councils are struggling with rising costs in the social care system.",
-        "i": "Municipal authorities continue to allocate significant portions of their operational budgets to escalating social care demands.",
-        "a": "Fiscal sustainability at the local government level remains severely constrained by statutory social care obligations.",
-        "sources": {
-          "0": {
-            "outlet": "Guardian Business",
-            "url": "https://www.theguardian.com/books/2026/aug/30/could-this-one-policy-fix-the-care-system-and-slash-student-debt-at-the-same-time"
-=======
-        "b": "Political leaders faced increased scrutiny as the cost of government borrowing reached multi-year highs.",
-        "i": "Elected officials faced mounting fiscal pressure as elevated sovereign yields constrained budgetary flexibility.",
-        "a": "The administration confronts a narrowing policy space as elevated debt servicing costs restrict fiscal maneuverability and test market confidence.",
+        "b": "Government officials are facing increased pressure as the cost of borrowing for the state climbs to notable multi-year highs.",
+        "i": "Political figures, including Healey, face intensifying fiscal constraints as rising sovereign debt yields increase the cost of government borrowing.",
+        "a": "The administration confronts a narrowing fiscal space as soaring sovereign yields increase debt-servicing costs, directly amplifying political pressure on key officials.",
         "sources": {
           "0": {
             "outlet": "Reuters",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlF1REpnZkFBOEQ5aWtMa2dFUExMOFRLMUxBQzgzeTdfYTByQ0dfbldMajJEVVloel9vb19MMEVkSHgtVTFaTGhhcjZRQURfOWREdkZoZGNtR2tvYmYzWkpIbTNzNGxQSGIwcDhsRnNubGhTN254TEMtek5Xdjhhbi03aDRWVG11RVQxbTNGVm80Ny1sRUVlRzFvVGlaNlVMWk1POEJxdkM5SjdGR3RoeG1lQ3M?oc=5"
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
           }
         }
       },
       "timeline": [
         [
-<<<<<<< HEAD
-          "30 Aug",
-          "Andy Burnham proposes a care year policy linked to student fee reductions"
-        ],
-        [
-          "31 Aug",
-          "Details emerge regarding the competition to replace the British army SA80 rifle"
-=======
           "2 Sep",
-          "UK bond yields reached an eighteen-year high while the pound dropped to a three-week low."
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
-        ]
-      ]
-    },
-    "Brazil": {
-      "iso3": "BRA",
-      "label": "Brazil",
-      "sub": "Equities rally and energy sector updates",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Petrobras securities advance as crude benchmarks climb",
-          "src": "TechStock² · MarketBeat",
-          "b": "Petrobras shares went up because the price of oil went up. Higher oil prices give the company more money to work with.",
-          "i": "Petrobras American Depositary Receipts advanced following an increase in Brent crude pricing, which expands the underlying corporate <span class='term' data-t='carry'>cash-flow</span> buffer.",
-          "a": "The equity reaction highlights sensitivity to commodity pricing dynamics, where elevated Brent valuations directly improve corporate liquidity metrics and dividend visibility.",
-          "gloss": "carry",
-          "links": [
-            "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXpNbDRhNHNGNF9VSjhSd3FEbHVLTUh4T1JQTnMwUURpVW9NRlRtOWNfbGZyQ2l3S2NLTjdsdGxuVldKY0I2Ml9tbGdqbmwyY0piejhRSGVvdFZXNXBFTl81Rnp2MWhsOXFOQWdvYWdKMFBPZ25sYWdTUnBlLXFVZDVlSzlncFJXZXlIY0t3?oc=5",
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXBKZ3p4M055WjI0RDFiTUdsaU1LdEdtNTVsblh3bkpxeXIyeUNKaTJDOS1wLW5UYUdaS1dWTVpJQTQ4QlAxWG1DbGl3YnNDbWQzZjA0QkZQc0I3WE95ckxxVHJ6YUVLQVN0aDZkeXRFem9BNllzWUtLN0NGd1poRHFtdWZDRGxiN1VPN2pxczg4aWZCTzJzTjg4U2xMY3o2V1hEUHpYZHpMRW1qSXNQUUQydk43X0lUenlMYzVibUxaRFJXbUM0RUxyUThKUzdZcGNVSmVtZ1Q?oc=5"
-          ]
-        },
-        {
-          "t": "Ibovespa extends winning run",
-          "src": "TradingView",
-          "b": "The main stock index in Brazil continued to rise for ten days in a row.",
-          "i": "The Ibovespa benchmark equity index prolonged its positive momentum, registering gains across ten consecutive sessions.",
-          "a": "Extended consecutive daily advances in the local bourse reflect sustained portfolio inflows and domestic risk appetite, independent of broader regional macro headwinds.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmRJUUJpMVNYdVBmc0xlTjktVWljN1U1RF9zSW9DUjdCS1dEVE5hamtsQ2owZ0lQQWMzdVhjTGFqX3VNRzBYVHJQWlhuMjRCeGJtUXJDRVltR19OZzVwcUNlTVJ6X0QtaWdyLWdNblNreWJydE9GQWtlcjBRdmRyQ3pqbDJMeWtTZXBKSmhUSkRXMThreHFzakxzOGJhMHM?oc=5"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "There are no political updates for Brazil today.",
-        "i": "No domestic political developments or legislative updates were reported during the period.",
-        "a": "The news flow lacks any fiscal, regulatory, or parliamentary updates that would impact sovereign risk premia.",
-        "sources": {}
-      },
-      "timeline": [
-        [
-          "1 Sep",
-          "Petrobras recorded heavy options trading activity with over two million open contracts."
-        ],
-        [
-          "1 Sep",
-          "The Ibovespa index completed its tenth consecutive day of gains."
+          "UK bond yields hit an eighteen-year high, increasing pressure on officials."
         ],
         [
           "2 Sep",
-          "Seatrium celebrated the sailaway of large production vessels."
+          "Sterling drops to a three-week low against the US dollar."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German equities decline on energy costs and Middle East tensions",
+      "sub": "German equities decline as energy and geopolitical pressures mount",
       "ind": [],
       "stories": [
         {
-          "t": "German Equities Slide as Energy Costs Weigh on Market",
+          "t": "German equities decline amid energy cost pressures",
           "src": "TradingView · marketscreener.com",
-          "b": "German stocks fell for the third consecutive day as high gas and oil prices pressured the market. Rising energy expenses create concern for companies and investors, pushing the main index lower.",
-          "i": "The German index extended its losing streak to a third session as elevated commodity prices and oil costs weighed on investor sentiment. Equity valuations retreated as market participants adjusted for the squeeze on corporate margins caused by costly energy inputs.",
-          "a": "The transmission channel operates via margin compression across energy-intensive industrials as elevated gas and oil inputs compound operational expenditure. Markets are aggressively repricing equity risk premia in cyclical sectors, discounting forward earnings multiples amid geopolitical friction.",
+          "b": "German stock markets dropped because energy prices went up. This pushed the main stock index down for the third day in a row.",
+          "i": "Higher energy prices weighed on German equities, driving the DAX lower for a third consecutive session. Elevated oil and gas costs continue to create headwinds for industrial valuations.",
+          "a": "Energy cost impulses transmitted directly to equity valuations, compressing margins across cyclicals and pushing the DAX to lower levels. The ongoing sell-off reflects market repricing of input costs against constrained corporate earnings capacity.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3M1ZFU2RVVUdTalBjczhjUGhVSTl6YVV1RHNDbW9HbnNqWXIyVUdnUFVTWTZRQUlRT3VkcXl1RHdTNHd3X1NOcU5pR0pGZzNJM0tnWXk4ek5GSkYtR1luNFVzS0tSZUVnUFFvcDFBWWVzMy1VVFRuZE9JNA?oc=5",
-            "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG94b0pXUkVzS2FoU2lqanV0eDVCNHRmNmd0cHZEX0dsaHNuQmVnVWxiUlBBZEQ3eHVwRkdocGt5d1BKMnlTeVdnQzJrY3g3ZDU0eFJVME4xRkhoaVpmSXNWY1hFemw5bGtWVTNaeTUyaWh5LXo1MFJnNzk1SUE4b3lvLThIOWFlTVNNSW5hMDg5Q05KLV9CbUJ3blpzUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMingFBVV95cUxOWG94b0pXUkVzS2FoU2lqanV0eDVCNHRmNmd0cHZEX0dsaHNuQmVnVWxiUlBBZEQ3eHVwRkdocGt5d1BKMnlTeVdnQzJrY3g3ZDU0eFJVME4xRkhoaVpmSXNWY1hFemw5bGtWVTNaeTUyaWh5LXo1MFJnNzk1SUE4b3lvLThIOWFlTVJNSW5hMDg5Q05KLV9CbUJ3blpzUQ?oc=5"
           ]
         },
         {
-          "t": "Geopolitical Tensions Drive Bond Yields Higher and Weigh on Shares",
-          "src": "Reuters",
-          "b": "European shares dropped to a one-month low. Conflicts in the Middle East caused bond yields to rise, which made borrowing costs higher and pushed investors away from stocks.",
-          "i": "Regional shares languished at a one-month low as escalating Middle East tensions spurred safe-haven flows and lifted <span class='term' data-t='gilt'>bond yields</span>. Higher sovereign borrowing benchmarks reduced the relative attractiveness of equities.",
-          "a": "Geopolitical risk premia triggered duration selling across sovereign debt instruments, shifting the risk-free rate upward and precipitating a multiple contraction in equities. The repricing reflects heightened macroeconomic uncertainty and tighter financial conditions.",
+          "t": "Geopolitical tensions lift bond yields and pressure European shares",
+          "src": "Reuters · BBN Times",
+          "b": "European shares dropped to their lowest level in a month. Political tensions caused bond yields to go up, which hurt stock prices.",
+          "i": "European shares hovered near a one-month low as geopolitical friction in the Middle East drove up sovereign bond yields. Higher discount rates reduce the present value of future corporate cash flows.",
+          "a": "Escalating regional friction triggered a flight from risk assets, lifting <span class='term' data-t='gilt'>gilt</span> and Bund yields upward. This yield expansion steepens the equity risk premium discount curve, pressuring valuations across European benchmarks.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPME1pdGN2bXZCdHkxUDdIazdHeHpCM0FrbVNIa2lHOVNOWnA5Ulk2UVpUdGhSWGJpNEE4ckFqeXFVZjhTV2FscDhPNG83RWRxMnVEZDF1TDNUT3ZuSnlYR05PbHVTWTlYUFhnNjhmM3hqR1dZcFJsV25FWmh4cXV1ZkN2RjNQMDcxeDJRMVVoRTE3dEJ4LXJubmdHQ1FjUkowbEFPQmc4SE9mYl9jY0hXeGZnNUJoSU1VU0RQVEN1VHdqeFE4WTc1WA?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPME1pdGN2bXZCdHkxUDdIazdHeHpCM0FrbVNIa2lHOVNOWnA5Ulk2UVpUdGhSWGJpNEE4ckFqeXFVZjhTV2FscDhPNG83RWRxMnVEZDF1TDNUT3ZuSnlYR05PbHVTWTlYUFhnNjhmM3hqR1dZcFJsV25FWmh4cXV1ZkN2RjNQMDcxeDJRMVVoRTE3dEJ4LXJubmdHQ1FjUkowbEFPQmc4SE9mYl9jY0hXeGZnNUJoSU1VU0RQVEN1VHdqeFE4WTc1WA?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVR4ekwzelZZSDBqUE5VQ2ZmLUhrQTNnSDFzMkpIVW5nZ0ZUbUVZNXlEWWl3eFQzUzlvaXA1U0cxNjk1aDN4RjdWTkhiaVNINERSQUtJVWY4eHZ0YkpVWTZSTzlGN29sT25EdlhyWEQ5NGoxTXdRWnlwOGE0R1ltOHJPazdXWHhldHE0aVAzQnB1ZDh6N2JDZlpzSmpvb1VZX2kw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "German political leaders face mounting economic pressure as expensive energy imports strain domestic industries and household finances.",
-        "i": "Policymakers confront structural headwinds from high energy import costs, complicating fiscal strategies and industrial policy amidst regional instability.",
-        "a": "The sovereign administrative apparatus faces acute fiscal calibration challenges, balancing structural subsidies for manufacturing sectors against external supply shocks without undermining fiscal credibility.",
-        "timeline": {
-          "0": {
-            "date": "2 Sep 2026",
-            "text": "DAX opens lower following consecutive sessions of losses driven by energy costs."
-          }
-        }
+        "b": "The central bank views economic growth as stable while price pressures ease.",
+        "i": "The Bundesbank highlighted resilient economic growth alongside moderating price metrics.",
+        "a": "Bundesbank commentary signaled confidence in macroeconomic durability, balancing stable growth indicators against decelerating price trajectories while international counterparts debate policy coordination.",
+        "gloss": null
       },
-      "timeline": []
+      "timeline": [
+        [
+          "1 Sep",
+          "Frankfurt equities trade lower following US-Iran tensions."
+        ],
+        [
+          "2 Sep",
+          "High energy prices push the DAX down for a third consecutive session."
+        ]
+      ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Central bank signals potential rate hikes as bond yields rise",
+      "sub": "Central bank remarks and bond rout impact markets",
       "ind": [],
       "stories": [
         {
-          "t": "Central Bank Official Hints at Possible Consecutive Rate Increases",
+          "t": "Central bank official signals potential consecutive interest rate increases",
           "src": "finance.biggo.com · Bloomberg.com",
-          "b": "A policymaker at the central bank mentioned that borrowing costs might need to rise one after another. This pushed the local currency higher against the dollar.",
-          "i": "A policy board member at the central bank indicated the possibility of consecutive interest rate increases. This hawkish signal accelerated <span class='term' data-t='inflation'>Yen</span> buying and pushed the dollar lower into the mid-159 range.",
-          "a": "The explicit signal of sequential policy tightening by a board member prompted immediate currency appreciation. Markets are re-pricing the policy trajectory, testing the resilience of existing cross-border funding structures.",
+          "b": "A policymaker at the national monetary authority suggested that borrowing costs might rise one after another. This message caused the local currency to strengthen against the US dollar.",
+          "i": "A policy board member at the central bank hinted at back-to-back <span class='term' data-t='inflation'>rate</span> increases, prompting accelerated purchases of the domestic currency in foreign exchange markets.",
+          "a": "Hawkish signalling regarding consecutive policy normalisation forces market participants to reprice the terminal rate, compressing the interest rate differential that previously underpinned short-duration positioning.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rQlltQXhGZGh6ZmdMdV9nTFphZ09rT1V5WnBTV09qdjY1VXZuQ0JMNTUyUmFUSmthSGJnWUlDTzlBVjl2VnVKSkROY3k4a0ptQlUzaGZySFAyamtqNlNFWlNfQ2c1U1k4NS1uWlZkYjFtSW9jX0E?oc=5",
@@ -437,112 +241,117 @@
           ]
         },
         {
-          "t": "Domestic Bond Sell-Off and Regional Equity Declines",
-          "src": "FOX 44 · 毎日新聞",
-          "b": "Local shares dropped sharply as borrowing costs on government debt climbed. Global markets also saw a broad sell-off in sovereign debt.",
-          "i": "Equities fell sharply as rising sovereign bond yields triggered a wider domestic bond rout. This local debt stress coincided with broader declines across Asian shares and Wall Street.",
-          "a": "The intensification of the domestic debt sell-off and subsequent equity drawdown illustrate the transmission of higher sovereign yields into domestic risk assets, altering global capital allocation patterns.",
+          "t": "Local equity index falls sharply amid rising borrowing costs and international pressures",
+          "src": "毎日新聞",
+          "b": "Stock prices dropped significantly as the returns required on government debt climbed higher. External geopolitical tensions also added pressure to regional trading floors.",
+          "i": "The domestic equity benchmark experienced a sharp intraday drop as surging sovereign <span class='term' data-t='gilt'>bond yields</span> and ongoing regional conflicts in the Middle East rattled investor sentiment.",
+          "a": "Higher sovereign yields increase the discount rate applied to future corporate cash flows while tightening domestic financial conditions, triggering cross-asset reallocations away from risk assets.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHE4Y1VXQlhXeEdRRnFDOUNBTWxhcXZiUVdrY1NjRFItemNWeFBwWGFBcEs3bDkwYkRfN1p6bDJEX2V3RnkzSnZ2enBpeEUzTVVIRW9ELUZqOGpOTW80bjM2YlFTQnVvVjkxc2R4dFdWUHZnQm9IU21NeV9vUlhmQmZLWnBpd0dkaDNDQjNFTVJFeXRwNkF2eDBxelJ0c3RpWHFuZk1nNndzU2c3czVoZ0h5OVJSZndOWjY2NXVwLUU3STZJUm1ySnRCZ1gtTmRNT2xzdkdYUE7SAd4BQVVfeXFMUENWV0t4SzBTWlBYVVVZTVFqQXZocmhnS2RFR0ZOZGYyX3hzYTRRX2RyeW95R0JIQmJHeFE4WEg3UnpxY084bjYxM19uMk84Y192VWx3QUR0bmU5eTRUeGJsVGxFSElPR1VoalRCc0FqbGpsdjZYanRFYnRCdHlveEg0bTltYnk2RTNBblJoRHlFZGhzc0tFcGNwd1JEV19iMkhIR29KcjctcHJNT0ZQLTBPdWo3S05PZnExWTA4UWxCTnY3NUc1dlpVUHpZS3ltdnp4X3pNNi1QUlFldU5n?oc=5",
             "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SR2RLWGQxT1ZyNE5XMUd3c29idE1XZGZGZlJqejd0R2dDblhPa2RaUW5uS3dCQnVTb1YxMTJ2ZzkyUFZHMEpPQllYdkZ5a0t2b1RwV3Nna25XemJRTXc3aUZRQjNBb05wRE9BX2tOTS1LUHM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political updates were reported today.",
-        "i": "No significant political developments or administrative policy changes were documented in the session.",
-        "a": "The current market movements are driven entirely by monetary policy signals and macroeconomic debt dynamics rather than direct political interventions."
+        "b": "Government officials focused on managing market stability as currency values fluctuated and bond yields shifted.",
+        "i": "Authorities monitored domestic debt market volatility closely as shifting monetary expectations altered international capital flows.",
+        "a": "Fiscal and monetary authorities face mounting policy trade-offs as domestic yield curve adjustments reverberate through international capital allocations and currency valuation channels."
       },
       "timeline": [
         [
           "2 Sep",
-          "Central bank policymaker suggests consecutive rate increases are possible."
+          "A monetary authority board member hints at potential consecutive rate increases."
         ],
         [
           "2 Sep",
-          "Equities decline amid rising domestic bond yields and broader global debt selling."
+          "Domestic equities decline following a global debt sell-off and rising yields."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Corporate incentives, commodity drops, and currency moves",
+      "sub": "Metals slide, Cambricon equity incentive, yuan sanctions push",
       "ind": [],
       "stories": [
         {
-          "t": "Cambricon Issues Large Equity Incentive Package",
-          "src": "finance.biggo.com",
-          "b": "Cambricon has announced a large equity reward plan worth billions of yuan. Hundreds of workers will receive significant shares on average.",
-          "i": "Cambricon launched a multibillion-yuan equity incentive plan, granting substantial stock values to nearly a thousand staff members to align internal <span class='term' data-t='carry'>incentives</span>.",
-          "a": "The scale of Cambricon's equity compensation package highlights retention strategies in the domestic semiconductor sector, pricing in expected future talent scarcity and competitive wage pressures.",
-          "gloss": "carry",
+          "t": "Chinese Metal Prices Fall Across Exchange Indexes",
+          "src": "Shanghai Metals Market",
+          "b": "Base metals and precious metals experienced broad drops across trading floors. Copper, zinc, tin, and iron ore recorded the steepest drops. Precious assets like gold and silver also slumped.",
+          "i": "Industrial metals such as SHFE copper, zinc, tin, and iron ore led a broad market sell-off. Precious metals including gold, silver, platinum, and palladium also retreated amid shifting <span class='term' data-t='inflation'>inflation</span> expectations.",
+          "a": "The synchronized sell-off across ferrous, non-ferrous, and precious metals reflects broad macroeconomic unwinding. Markets are repricing industrial demand assumptions while liquidating long positions in precious metals.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UMW1TNXNMeFFVZkJHMURycHp6UC1nNDIyZXlfUVVmckR3MVctRXZMYXRvNmNkdlB0dm1jTHI3bEIxNU5xbUV2bDFOMmhYcHM3bDJoWUQ1QklWODlObVctb1NPZXhVLVc0U05yZEF1Tk5XeU1BN3c?oc=5"
+            "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNeTNWcnBhaUZGbVdhRkRMLWY2dUNDTkxuV19Kc2RMZ2o2ejhPaEVxVHVfb2RBVENKWmlJeTJMa2VROHhQY1hWYmpETUE2MHl2alNmVlBhbXJQNzJlQ3huZXhzSWk4ZXJ6akE4VERZYkVVNTdqWEctUGVtVklONUlUcjZ1RzEwYnV1bDdreHNiXzlnMFh6Qm9MSWxESWFpb2JySEtGLXg0eko0LXpKSDhkMWp5Zkh5REV0UVlPTlUzcC1adGg2VHhmb05aRDlNSldibmZXSzV4dlRjNEUyU2NKd3lNVndIV3JCWHE4ZWpTOEJOUXdldU1reUQ5VWtGaF9wbGwtaWRGSUo0b3NQWHlLRkdmT0xVV1ZzUTZqdHU1THpKVnhkNzZ2U0E5bG1XQTZaUHBrcFVESE5CZHAyblE1eVFBU2dNQnBDM1doWUp3QXR3dw?oc=5"
           ]
         },
         {
-          "t": "Industrial Metals and Precious Commodities Decline",
-          "src": "Shanghai Metals Market",
-          "b": "Prices for major metals like copper, zinc, and tin have dropped. Precious metals such as gold and silver also fell in value.",
-          "i": "SHFE copper, zinc, and tin experienced sharp declines alongside iron ore, while lithium carbonate dropped over three percent and precious metals slumped.",
-          "a": "The broad-based liquidation across industrial and precious metals reflects shifting spot demand curves and macroeconomic positioning adjustments across domestic exchange inventories.",
+          "t": "Cambricon Launches Large Equity Incentive Scheme",
+          "src": "finance.biggo.com",
+          "b": "An artificial intelligence enterprise named Cambricon announced a large employee stock incentive plan. Hundreds of workers received substantial share grants.",
+          "i": "Cambricon introduced a multi-billion yuan equity incentive programme. The scheme distributes significant average share allocations across hundreds of eligible staff members.",
+          "a": "Large-scale equity compensation in the technology sector alters insider lock-up schedules and compensation ratios. This signals aggressive talent retention strategies despite underlying sector margin pressures.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNeTNWcnBhaUZGbVdhRkRMLWY2dUNDTkxuV19Kc2RMZ2o2ejhPaEVxVHVfb2RBVENKWmlJeTJMa2VROHhQY1hWYmpETUE2MHl2alNmVlBhbXJQNzJlQ3huZXhzSWk4ZXJ6akE4VERZYkVVNTdqWEctUGVtVklONUlUcjZ1RzEwYnV1bDdreHNiXzlnMFh6Qm9MSWxESWFpb2JySEtGLXg0eko0LXpKSDhkMWp5Zkh5REV0UVlPTlUzcC1adGg2VHhmb05aRDlNSldibmZXSzV4dlRjNEUyU2NKd3lNVndIV3JCWHE4ZWpTOEJOUXdldU1reUQ5VWtGaF9wbGwtaWRGSUo0b3NQWHlLRkdmT0xVV1ZzUTZqdHU1THpKVnhkNzZ2U0E5bG1XQTZaUHBrcFVESE5CZHAyblE1eVFBU2dNQnBDM1doWUp3QXR3dw?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UMW1TNXNMeFFVZkJHMURycHp6UC1nNDIyZXlfUVVmckR3MVctRXZMYXRvNmNkdlB0dm1jTHI3bEIxNU5xbUV2bDFOMmhYcHM3bDJoWUQ1QklWODlObVctb1NPZXhVLVc0U05yZEF1Tk5XeU1BN3c?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China and foreign partners engaged in diplomatic discussions regarding regional policies and trade relationships.",
-        "i": "Bilateral tensions surfaced as diplomatic positioning continued around regional sovereignty issues and international settlement mechanisms.",
-        "a": "Geopolitical friction points involving regional claims and external trade alignments continue to shape cross-border capital flows and diplomatic engagements.",
+        "b": "Chinese officials discussed currency strategies and diplomatic tensions involving Taiwan and regional exhibitions.",
+        "i": "State-level engagements highlighted the international deployment of the yuan, while diplomatic friction emerged over regional trade and territorial disputes.",
+        "a": "Bilateral maneuvers regarding currency settlement architectures highlight efforts to insulate partner states from Western sanctions regimes, creating parallel financial channels.",
         "sources": {
           "0": {
-            "outlet": "Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVd1NlpYa2dmSjlzbVhvZTRSUGEtMV80RUhkcl9UWEoyck10MThMRVd0NFFFOGtER291ZXBsQ21sc2N3YVV2SmhBQ1VoMjYtamFXbVQtOFhRbFZEMXI1eWROV2ZLM2FiNHZpRGZub25vMmFoV1lyaGxFaGxObWgzZ2Y4MjFvbzRkbVllX3BNWlk4RkZobkxyRnRPMDIwY2lYRFFHWXhWOEQ0d05MZjlQb1EyQ0t4b1J0d1BpMkhTVDQ?oc=5"
+            "outlet": "Ynetnews",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TRjBCWG9vbV9aVm5tUFFpR0tGVVZFUVNZcTQtVS02aXB3dk45QS1WenRpSzI1ejkwSFFfZGRhejdhVnlyWWozRDdPYmhKOEVoaVFMNnI1VzlPcXRRM2Zzc1d6MFdMQkM4dGNQWDNn?oc=5"
           }
         }
       },
       "timeline": [
         [
-          "2 Sep",
-          "Cambricon rolls out a multi-billion yuan equity incentive"
+          "2 Sep 2026",
+          "Metal prices fell broadly on domestic commodity exchanges."
+        ],
+        [
+          "2 Sep 2026",
+          "Cambricon announced a new equity incentive package for employees."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Equities fall and short-term debt auction results announced",
+      "sub": "Indian equities decline and central bank holds Treasury auctions",
       "ind": [],
       "stories": [
         {
-          "t": "Stock indices decline amid external pressures",
-          "src": "News18",
-          "b": "Indian share markets dropped for the third consecutive day. Major stock indexes fell as rising crude oil costs and regional tensions created negative sentiment among investors.",
-          "i": "Domestic indices experienced a broad sell-off, extending their losing streak to three sessions. Equity valuations compressed as higher crude prices and geopolitical friction in West Asia weighed on risk sentiment.",
-          "a": "The equity drawdown reflects multiple macro headwinds compressing price-to-earnings multiples. Higher crude oil imports threaten the current account balance and domestic <span class='term' data-t='inflation'>inflation</span> expectations, driving foreign institutional outflows from large-cap indices.",
+          "t": "Stock indices fall as energy costs rise",
+          "src": "India markets",
+          "b": "Indian stock markets dropped because oil prices went up following military strikes involving the United States and Iran. The Sensex fell by more than 370 points and the Nifty dropped below 24,000.",
+          "i": "Domestic equities retreated as geopolitical friction in West Asia spurred a surge in crude prices, which amplified <span class='term' data-t='inflation'>inflation</span> concerns. Consequently, benchmark indices including the Sensex and Nifty closed lower.",
+          "a": "The equity drawdown reflects cost-push pressures propagating through the domestic corporate earnings outlook. Higher crude input costs threaten margins, prompting risk-off positioning in index components despite currency stability.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX216TUtIdkFiTVFQUkJGY1JHbzBTQWNzNTRnRENURk1YcmxvWUx4S2p5c3hmb0Iyc05rVXhVYXFaNmNTdFhnbHBva0NzWXZVRWVncmx5Qnlyb054WVdJenUxZnZ5c0wyc19VU21YVEM0Z1Axb2hENk5kOVdkZ2gxVHljUEM5a0VyZk1WR3R6bmZiYjJ5dnVOOXAtWHZfcVl5c0FVTjZaelhMOE5QQVc1cU9sZjFnWHNxay1ZTURmS3VtRjFkbVByQ01RRE1KU09QR0NDaGo4LW5yVDdVTWpGSWprNEFHdkJ6ZWVwZ3dsQjIzZ9IB9wFBVV95cUxORFZYaVRlLUVxRUV0YVF3OFBmdHJoZGxLWDEwM19lT29YV2JBSXRVZ0tuWk1PeXZueUR5cHBzTnplbzRPVXBnT2hsRm1OQnl4MDdqVUd3b2dHT1NGanA5TzFEenRWaEhSNEg1cXZxWVZ0MWdtbjVLU3A4RTkzUWt6NWJKRkh6bTQzREJ0MHJBaUV3WndUSTNTN1J0dVJRcFJZQmM1alhPc0pRSG83SUw5N3Q2NmhsYkp5Z2NoTFY2WDI5UHRqMzBTUVYxUFd1ZDJwOGFRQm9XUG9XclA4VTdNUEt6MmVTdFJBYW5SLUJJdk9FVTZfUjQ0"
+            "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaWZfUEtlemZSWVpOYUswdVpYajMzdk1lWkIwRjlMNGVQM2hMVzYtTTRyeGpsem56bnRUYUFxTWJhQTQ4dTE2Y2ZEQnYwcFJFVlhfbjhYVk1WNDhfVkdXWWtGemFZNHFxVGVYbEFlaWtWUl9PX25qUFRTaFBudzNrZnZsVDUwLUQzVnU2X3dONkMwX1M0VE5kd1A3b3pnR0dfdmtoc2ZOb0hHR0tfR2l6dG43Q1JsNVVNZ0xDWDlvb2xEeEEyWnlScC1BenBGQ3FYeEVjN3ZqNUhCUdIB3wFBVV95cUxQUHJxbV9uRFQxQUt0bXZXMVdxQ1hzeUtlYlNXSFllbzJtNFFabHpOR1M5c0xJRk9fTHdiTEg3ZnQ2WDJUWHlfaWliZ0c5aDFZdkZpQ3h6RHZQVXI4c1VNWkV2eTVDTWxWZUVCR2Raa2htV19ZajdSOE1Nbnk5X3JVVVhSRVZibTZTcVlZSEtBS1lpN24xaUF5eldHQm5vYnFtU196MEFYNkZyVkNQNjBHem9CcjVRc1FQUGVCWXY5dlVTUWZkbXRxYVBXTmtLZXdLQ0pFWkJ6RFptUmpXTWp3?oc=5",
+            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3VvbU9KYmUzT0x2YVhid0pRVS1nVEZpbERVOE1nQ2ZQNlBfb0hFU2lFZkNya1lkRExocUEwanFZMnhpY20zVjBBOGZWWHR2YkJVTVRRMlVGbzhJODZhMlM5a2RIc0stRHlsQlJYT3htU0ZmZ19EZjhOYVFrQ0g5elZHb2hJNnlLYVdkM0hEd0xoM2haZU0tb3EtOWlFaDJYSjJ6YlJtTTk5aUJSMGNPVXZrTkVXdVlsRHJzcG9qYnR6SDcxUlpzUHBZRVJSWVlWMnFpcDgyNXJyeEdhNDg4Uw?oc=5"
           ]
         },
         {
-          "t": "Central bank releases treasury bill auction outcomes",
+          "t": "Central bank auctions short-term government debt",
           "src": "Reserve Bank of India",
-          "b": "The central bank published the results for government short-term debt auctions spanning three different durations, detailing the bids received and accepted yields.",
-          "i": "The Reserve Bank of India disclosed allotment details for its 91-day, 182-day, and 364-day debt securities. Implicit yields at cut-off prices settled at varying levels across the maturities.",
-          "a": "The primary dealer bidding dynamics across the three tenors reveal short-term liquidity preferences. The clearing yields provide a benchmark for risk-free rates across the sovereign curve.",
+          "b": "The central bank sold short-term debt instruments known as Treasury bills across three different time periods. Investors placed total bids well above the amounts the government originally offered to sell.",
+          "i": "The central bank conducted scheduled Treasury bill auctions spanning ninety-one, one hundred eighty-two, and three hundred sixty-four days. Strong competitive bidding absorbed the notified face values at established cut-off yields.",
+          "a": "The primary auction clearing yields demonstrate liquid demand at the short end of the sovereign curve. Primary dealers arbitraged the bid-cover spreads, setting the marginal price for risk-free assets.",
           "links": [
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63501",
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63500"
           ]
         }
       ],
       "politics": {
-        "b": "Cooperative society officials from multiple states met in New Delhi for a conference hosted by financial authorities.",
-        "i": "State registrars and central officials convened in New Delhi for the third structured cooperative societies conference hosted by the central bank.",
-        "a": "The administrative gathering convened state and central officials to coordinate regulatory oversight across regional cooperative financial structures.",
+        "b": "State cooperative officials and central bank leaders met in New Delhi for a formal conference.",
+        "i": "State registrars of cooperative societies convened in New Delhi alongside senior central bank officials for their third joint conference.",
+        "a": "The administrative summit between state cooperative registrars and monetary authority executives underscores ongoing efforts to standardise regulatory oversight within the cooperative banking tier.",
         "sources": {
           "0": {
             "outlet": "Reserve Bank of India",
@@ -553,364 +362,195 @@
       "timeline": [
         [
           "1 Sep",
-          "Registrars of Cooperative Societies conference held in New Delhi"
+          "The third conference of registrars of cooperative societies is held at the central bank office in New Delhi."
         ],
         [
           "2 Sep",
-          "Short-term treasury bill auction results published by the central bank"
+          "The central bank executes auctions for ninety-one day, one hundred eighty-two day, and three hundred sixty-four day Treasury bills."
+        ]
+      ]
+    },
+    "Brazil": {
+      "iso3": "BRA",
+      "label": "Brazil",
+      "sub": "Petrobras surges, Ibovespa extends winning streak",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Petrobras Shares Climb Following Analyst Optimism and Strong Crude Metrics",
+          "src": "TechStock² · GuruFocus · MarketBeat",
+          "b": "Petrobras shares went up after a major bank raised its price target. This happened while crude oil prices stayed high, giving the company extra cash.",
+          "i": "Petrobras American Depositary Receipts advanced after JP Morgan lifted its target price. The equity appreciation coincided with Brent crude trading at $94.65, which strengthens the firm's <span class='term' data-t='carry'>carry</span> and liquidity profile.",
+          "a": "The equity move reflects both upward revisions to fundamental valuation models and positive covariance with headline energy benchmarks. Higher spot crude prices expand the operational free cash flow buffer, altering dividend discount model inputs.",
+          "gloss": "carry",
+          "links": [
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXpNbDRhNHNGNF9VSjhSd3FEbHVLTUh4T1JQTnMwUURpVW9NRlRtOWNfbGZyQ2l3S2NLTjdsdGxuVldKY0I2Ml9tbGdqbmwyY0piejhRSGVvdFZXNXBFTl81Fnp2MWhsOXFOQWdvYWdKMFBPZ25sYWdTUnBlLXFVZDVlSzlncFJXZXlIY0t3?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1hoRWdDQzY4X0RBYzZRcGpEdG9XNU11ZGNvcXJncEhKa1VvYm5sQ3Nici1zR29EWFpoaFNyMzJVd21JdllJZjA3bzlXdVZHeGdGanN6emh0R3hUa2JWVlEyWVowT2ZlMko3VjZmdGQyaUY4ek5HSUhJYjBiVXdabzVKb29Xd0hiVFYxdEhPaVREYzJuMHJmUk5R?oc=5",
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXBKZ3p4M055WjI0RDFiTUdsaU1LdEdtNTVsblh3bkpxeXIyeUNKaTJDOS1wLW5UYUdaS1dWTVpJQTQ4QlAxWG1DbGl3YnNDbWQzZjA0QkZQc0I3WE95ckxxVHJ6YUVLQVN0aDZkeXRFem9BNllzWUtLN0NGd1poRHFtdWZDRGxiN1VPN2pxczg4aWZCTzJzTjg4U2xMY3o2V1hEUHpYZHpMRW1qSXNQUUQydk43X0lUenlMYzVibUxaRFJXbUM0RUxyUThKUzdZcGNVSmVtZ1Q?oc=5"
+          ]
+        },
+        {
+          "t": "Brazilian Benchmark Index Extends Record Run",
+          "src": "TradingView",
+          "b": "The main stock market index in Brazil continued its winning streak, growing for ten days in a row.",
+          "i": "The Ibovespa extended its consecutive positive daily closes to ten sessions, demonstrating sustained domestic equity momentum.",
+          "a": "A ten-session winning streak signals robust accumulation patterns by institutional participants, though extended momentum without consolidation increases vulnerability to mean-reverting shocks.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmRJUUJpMVNYdVBmc0xlTjktVWljN1U1RF9zSW9DUjdCS1dEVE5hamtsQ2owZ0lQQWMzdVhjTGFqX3VNRzBYVHJQWlhuMjRCeGJtUXJDRVltR19OZzVwcUNlTVJ6X0QtaWdyLWdNblNreWJydE9GQWtlcjBRdmRyQ3pqbDJMeWtTZXBKSmhUSkRXMThreHFzakxzOGJhMHM?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "No political updates are mentioned in the news sources.",
+        "i": "The provided source material contains no updates regarding government policy or legislative developments.",
+        "a": "Fiscal and regulatory catalysts are absent from the reporting window, leaving asset pricing driven strictly by microeconomic developments and commodity spot values.",
+        "sources": {}
+      },
+      "timeline": [
+        [
+          "1 Sep",
+          "Ibovespa extends its winning streak to ten consecutive sessions."
+        ],
+        [
+          "1 Sep",
+          "Petrobras options record heavy trading volume with millions of open contracts."
         ],
         [
           "2 Sep",
-          "Domestic equity indices finish lower following energy price increases"
+          "BYD rolls out solar kits across Brazilian dealerships."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "LNG procurement, enterprise AI agreements, and oil metrics",
+      "sub": "Aramco digital artificial intelligence and oil output updates",
       "ind": [],
       "stories": [
         {
-          "t": "Energy procurement and digital partnerships",
-          "src": "Jagonews24.com · TechAfrica News · 아시아경제",
-          "b": "The government plans to buy four shipments of liquefied natural gas, which is gas cooled into liquid for easy shipping, to cover local power needs. At the same time, Aramco Digital has teamed up with ServiceNow and completed testing with seven South Korean technology firms to expand artificial intelligence use.",
-          "i": "State authorities are procuring four liquefied natural gas cargoes to satisfy domestic energy consumption requirements. Concurrently, Aramco Digital has executed a pact with ServiceNow alongside completing a full-stack artificial intelligence proof of concept involving seven South Korean entities to scale enterprise <span class='term' data-t='inflation'>digital</span> transformation.",
-          "a": "State entities are securing four liquefied natural gas shipments for local power balancing, whilst Aramco Digital deepens its technological capabilities through a ServiceNow partnership and a full-stack artificial intelligence validation with seven South Korean suppliers. Market participants are assessing whether these software and hardware integrations will successfully optimize upstream operational expenditure.",
-          "gloss": "inflation",
+          "t": "Aramco Digital Partners on Artificial Intelligence and Enterprise Systems",
+          "src": "TechAfrica News · 디지털투데이",
+          "b": "South Korean firms and a software company named ServiceNow have teamed up with Aramco Digital. They want to use advanced computer intelligence for business tasks.",
+          "i": "Aramco Digital completed a proof of concept with seven South Korean technology firms for full-stack artificial intelligence. It also partnered with ServiceNow to accelerate enterprise software integration.",
+          "a": "The execution of full-stack artificial intelligence proofs of concept by foreign consortia alongside enterprise workflow automation signals Aramco's pivot toward operational efficiency. The market is pricing in efficiency gains in hydrocarbon extraction, though monetization timelines for enterprise software integration remain unverified.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54RU1PQnVWZGtFUmljMzVIaHNPTlZEQXVKUklaV1Z3OTdvalZBTm9pVE1JVURSRWYtSDdGbEZIcTdfOGowVmFNNmJqanJWTGRXVVhVeWE1QWlLdy1nTlHSAVBBVV95cUxOVng3aC1pXzViajQ5eVJmNU1jUjRueC1Vc190T084SFpDRGRiM0t0eWpZVnVjaDNQZURTX21Xbm01NnpCUk5iQ2R5Z1l0bWswVw?oc=5",
             "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTcxcGxzY3ZMUnBYNzg5RmtWZ01LMHdLam02ZG5yaTAtYm5xOG5MRm41RTVkRG51Y3daa0x2LTZwVWNLMktjRWFXZTl6VFAwOEE1SUhFYTZTWlVRNUhUVzRiUFlOS3FLdFZZVE44TGE4VmRpZjQtWW0tTkRqRjA5R2I3TkNjRVZoa2o3OWFrTkN0M3hNRDN2X3lYaVpXaGdJLUlzOThB?oc=5",
-            "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jMFFOMDVsLV85N25zQm0zZU42WDFLaWM1ZlJTeVpNTmp0aEJnXzNDYTRjOUtjVTREY0V0TFVJXzYzUk1KYVJYYk5qbGxLMlpDYTBxSFJzd1RWMVdma2Y5dUFOc3VLYXBULW9tU0dZYw?oc=5"
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMW82V0JoRnFVdXlPM1NDdDNLenFFM29mU3BmTXZZcVg4TUtwWFhEUEd4emZybWswQ21BMGZxRUFtaUV1a3hoY0FMV29tNXE5OW5KbU5mWWMxYzh3TE83ajBPZHJaY05wUC0zSXl0ZFdxX0h5VjZDYkZHdm1OTnVVZ3BBSEFnanZDWklCQzFFQmhOODQ2Y2RHMjQyXzdtMUw1QUhsTEU3Zw?oc=5"
           ]
         },
         {
-          "t": "Crude export updates and demand forecasts",
-          "src": "EnergyNow.com",
-          "b": "Official figures show the country's crude oil exports and production reached high levels recently. Meanwhile, international organizations have lowered global oil demand estimates due to military conflict.",
-          "i": "Recent Joint Organizations Data Initiative data indicates that crude exports rose and output hit its highest level since two thousand and twenty-two. Simultaneously, global oil demand projections were revised downward due to geopolitical conflict.",
-          "a": "Joint Organizations Data Initiative reporting confirms that local crude exports and production metrics reached multi-year highs. This supply expansion contrasts with downward revisions to global oil demand forecasts driven by geopolitical friction, forcing analysts to re-evaluate near-term supply-demand balances.",
+          "t": "Government Plans Liquefied Natural Gas Purchases as Output Reaches Highs",
+          "src": "Jagonews24.com · EnergyNow.com",
+          "b": "The government needs to buy four shipments of liquefied natural gas to keep up with energy demand. Meanwhile, recent reports show crude output reached its highest point since the year 2022.",
+          "i": "State procurement is targeting four liquefied natural gas cargoes to cover domestic energy requirements. Concurrently, data indicates crude exports and production reached multi-year highs matching 2022 volumes.",
+          "a": "Securing spot liquefied natural gas cargoes alongside peak production prints demonstrates a balancing act between domestic power burn constraints and export commitments. Traders are monitoring whether internal consumption growth starts eroding export quotas.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0hJREN4cU82aUI3X3lGRzFvWWRLNG5oNTllT2NBQ3VsblRrZXRIYzBCUE44LTZoVUQzcUNFSjQ5RHlmWEdnSEtTZ0k4NWkxYUs0a2tUVDN5M0JxWmdvZFRBMWRtVF9abl80TnpSNHlEeE5WWjlQMmliQjVuM3hSc1cwMkFSMGstLVlwdW9YcDNZVER5VC0yTXlHOGE?oc=5",
+            "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54RU1PQnVWZGtFUmljMzVIaHNPTlZEQXVKUklaV1Z3OTdvalZBTm9pVE1JVURSRWYtSDdGbEZIcTdfOGowVmFNNmJqanJWTGRXVVhVeWE1QWlLdy1nTlHSAVBBVV95cUxOVng3aC1pXzViajQ5eVJmNU1jUjRueC1Vc190T084SFpDRGRiM0t0eWpZVnVjaDNQZURTX21Xbm01NnpCUk5iQ2R5Z1l0bWswVw?oc=5",
             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVdCYUdFRGpwMnB5ODFZUGFBQlBhNi1wOVJTa3d5UFRXTVB5aVV4YXppZVdINTBZazl3X2thcS10LWRMaXNPekJwMVI0X0lFVEJUUmlYSnBtUFB2c2tZRGswaW1lTlhRWXAtOUVFV295RWJEWHA2UUtGYk1ibGlDcXJzdWtLcGdWVE5lQjE5dkRFS1JWLUFObWlfQVdpNXZQS0JjZDJTQUg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government is managing domestic energy supplies through outside purchases while keeping close watch on international oil markets and conflicts.",
-        "i": "State administration balances domestic resource allocation through targeted fuel procurement while monitoring international crude supply routes and geopolitical risks.",
-        "a": "The sovereign administration navigates international energy market volatility by securing interim physical supplies while monitoring strategic shipping chokepoints and multilateral production targets.",
-        "sources": {}
+        "b": "The state manages its oil production targets alongside international groups while watching regional conflict effects on global energy demand.",
+        "i": "Policymakers are navigating adjustments to production targets set by OPEC+ while factoring in lower demand forecasts driven by geopolitical conflicts.",
+        "a": "The interplay between output target increases and downward revisions to global demand forecasts highlights the strategic dilemma facing producers. The market is constantly repricing term structures based on geopolitical risk premia and quota compliance."
       },
       "timeline": [
         [
-          "February",
-          "Crude exports increased and output reached its highest level since 2022."
+          "1 Sep",
+          "Data showed crude exports rose and output hit its highest level since 2022."
+        ],
+        [
+          "1 Sep",
+          "Reports indicated plans for output target increases from September."
         ],
         [
           "2 Sep",
-          "Consortiums completed full-stack artificial intelligence proof of concept testing with Aramco Digital."
+          "Aramco Digital completed artificial intelligence integration proofs of concept."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira hits multi-year peak as trading volume expands",
+      "sub": "Nigerian currency strengthens to two-year high",
       "ind": [],
       "stories": [
         {
-          "t": "Nigerian currency registers two-year peak against the dollar",
-          "src": "Nairametrics · Business Post Nigeria",
-          "b": "The national currency of Nigeria, the naira, has climbed past a key exchange rate level against the United States dollar. This puts the currency at its strongest point in two years.",
-          "i": "The Nigerian naira strengthened past the N1,330 threshold in the official foreign exchange window. This move marks the currency's highest valuation in two years, though a spread remains between official figures and parallel market rates.",
-          "a": "The appreciation of the official exchange rate narrows the historical basis against parallel market prints, though arbitrage incentives persist. Sustained convergence relies on structural FX liquidity rather than episodic central bank interventions.",
+          "t": "Nigerian Currency Reaches Two-Year Peak",
+          "src": "Techeconomy · Nairametrics",
+          "b": "The official Nigerian currency, known as the naira, has grown stronger against the US dollar. It reached a rate of 1,329 naira per dollar, marking its strongest level in two years. At the same time, trading volumes in the official foreign exchange market increased during August.",
+          "i": "The domestic currency appreciated significantly in the official trading window, hitting a two-year high of 1,329 per dollar. Concurrently, <span class='term' data-t='inflation'>foreign exchange</span> turnover expanded by double digits over the month of August, signaling improved liquidity.",
+          "a": "The spot appreciation past the 1,330 threshold reflects tighter local liquidity dynamics and sustained portfolio inflows. Market participants are monitoring whether the higher turnover in the official window will compress the parallel market premium sustainably.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mb2ctWmJ1SVRwNnRpektJY0RqX3FGUXZZRGdaOHE1alRnaFRQMUdTNzZFUENfWGFlSHFLVDd4azljRGIwUUZRd21n?oc=5",
-            "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGdSclVud2E2VUlaQ0tYZHlGYVJjQm9VVUJzRERDX3I4ZUg4ZG1YMTFjMFNkX2l6SVBSUmlwbkkxZUM5bTNmb0ZhbFdMT0FKS3RFU25uV1N4MlRNZEFWWjlGQzkzcHFuVmRGeWU4TkRfcUJyRnkxc2E0V2tyZGJHQmpRSHp6MHFpNVZDbXF2R1pJenkxUHFleHBjSlg?oc=5"
-          ]
-        },
-        {
-          "t": "Foreign exchange market turnover climbs through August",
-          "src": "Techeconomy",
-          "b": "Trading activity in Nigeria's official foreign exchange market increased significantly over the month of August. Total turnover rose by double digits.",
-          "i": "Market depth improved as aggregate <span class='term' data-t='carry'>turnover</span> in the official foreign exchange window expanded by 13.8 percent over the month of August, reaching a higher total volume alongside the currency appreciation.",
-          "a": "The increase in monthly transaction volume indicates broadening institutional participation and improved price discovery in the official market segment, which helps validate the durability of recent exchange rate gains.",
-          "gloss": "carry",
-          "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2Y1RFZJLW56YzFJNU9FS3V1d3N0bmgycGsyaF93UWtlU01IUTJfajBhQ1d6cFRUc0ZRTU4zdFdlZGZ6U3RFajZiU0VYUG5MVmR4TUVCSlo4cFJWRF96RjNfZVhic1FxSmJVTUNrOVRVSV8yajZNVDcwR2x3d0R1U0laYmdNSFBadW1ZckRuU09tcDJPd3RlTHNRNDA3OHZFY1ljR1l0NzVoVWtaVlB2ZktB?oc=5"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2Y1RFZJLW56YzFJNU9FS3V1d3N0bmgycGsyaF93UWtlU01IUTJfajBhQ1d6cFRUc0ZRTU4zdFdlZGZ6U3RFajZiU0VYUG5MVmR4TUVCSlo4cFJWRF96RjNfZVhic1FxSmJVTUNrOVRVSV8yajZNVDcwR2x3d0R1U0laYmdNSFBadW1ZckRuU09tcDJPd3RlTHNRNDA3OHZFY1ljR1l0NzVoVWtaVlB2ZktB?oc=5",
+            "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mb2ctWmJ1SVRwNnRpektJY0RqX3FGUXZZRGdaOHE1alRnaFRQMUdTNzZFUENfWGFlSHFLVDd4azljRGIwUUZRd21n?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The ruling political party has introduced a fresh development plan aimed at growing the national economy significantly.",
-        "i": "The ruling party launched an economic strategy document aimed at expanding the national output toward a larger aggregate valuation target.",
-        "a": "Long-term fiscal targets depend heavily on the execution of structural reforms, meaning market participants are likely to discount medium-term macroeconomic projections until implementation metrics materialize.",
-        "i_gloss": null
+        "b": "The ruling political party has introduced a new strategy aimed at expanding the national economy to one trillion dollars.",
+        "i": "The governing party unveiled a comprehensive policy roadmap directed toward achieving a one-trillion-dollar economic target.",
+        "a": "The administration's strategic framework attempts to anchor long-term growth expectations, though fiscal execution risks remain central to market credibility.",
+        "sources": {
+          "0": {
+            "outlet": "Realnews Magazine",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlYxYjFpa0gtUVN1OVlFblRpWE1FelhtRjNVcjVCVktURTY5LUxqbnVRZ3RYUWo4OTJJNUlyWXRZSFM2aU1TaVpLcFlVY0dpdHBPUU05MlZYcG9BZGRfa0dfN3RsUzFQSktsbG5jQ2U4aXI3MWhLR1VZdnplaDVVZE1WZnNFYndXSnc?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "2 Aug",
-          "Official foreign exchange turnover data for August showed a 13.8 percent increase to $14.45 billion."
-        ],
-        [
-          "2 Sep",
-          "The naira strengthened past the N1,330 per dollar threshold in the official trading window."
+          "August foreign exchange turnover figures released alongside new currency exchange rates."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Corporate updates and asset strategy shifts across ASX firms",
+      "sub": "Corporate updates and currency pressures",
       "ind": [],
       "stories": [
         {
-          "t": "BHP Group Realigns Focus Under New Leadership",
+          "t": "BHP Shifts Focus Toward Copper Under New Leadership",
           "src": "Kalkine",
-          "b": "BHP Group has put its focus on growing its copper business under the direction of its new chief executive officer, Brandon Craig.",
-          "i": "BHP Group is prioritising its <span class='term' data-t='carry'>copper</span> expansion strategy following the leadership transition to Brandon Craig.",
-          "a": "The strategic pivot towards copper under Craig reflects a portfolio reweighting toward transition metals, testing whether the market will rerate the equity for higher-margin volume growth against existing iron ore cash flows.",
-          "gloss": "carry",
+          "b": "BHP Group, a large mining company, is putting its main focus on copper under its new chief executive officer, Brandon Craig.",
+          "i": "BHP Group is elevating its copper expansion strategy as Brandon Craig steps into the role of chief executive officer.",
+          "a": "BHP's structural pivot toward copper reflects portfolio reweighting toward transition metals, pricing in long-term electrification demand while managing capital expenditure cycles across legacy bulk commodities.",
           "links": [
             "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVms2X3VXT2NrQUVDQ3liZjhLeUNkajdfQVRWODF5QnNuUVhrM2Fsc1hmMXM0b2E1QmFSenRObGZOOEJPUWJkZlEwV3d4bnJyb2N6bXlCMXdBRFgwNDdNblpLa2VoRXU0NVFBYUZOT2hqanAwWVVaS1VwWEo3dE1xcnJaNU9iTld3bGc4Tm5YODZsNjhFYW53TnN0TzRWckY5ZjZNaklmTlRpV0R2NTJPNUdvR3hoQTA1RVFJY2tHaTNPNUJ0NDF6U3RXbw?oc=5"
           ]
         },
         {
-          "t": "Austal Evaluates Order Books Amid US Market Questions",
-          "src": "simplywall.st",
-          "b": "Austal is managing a large volume of orders while addressing questions surrounding a potential sale involving its United States operations.",
-          "i": "Austal is trading on record orders while the market digests uncertainty regarding potential structural changes to its US business segment.",
-          "a": "Record order books provide robust revenue visibility, but the valuation discount highlights execution risk and governance uncertainty regarding the future configuration of the American shipyards.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWdxLVp2OEI0cVFNMnl2MzlLOEF4T0o3aEZ5U2ZacktUaWE1UVpFNFB1VU1VeU1veUdFbmNrRWczYXgzSXpUdUttams5UnU5NEdmOFdUUm1MUkxhM3JiVUpmQjFvTGFwS1ItUTl4VzQ4Q1gzTVpmR0pnVnJtR3l5cnozMmkxbTVtN0gzTGthZEQ0dm1LX05PaDAtNU1hWm8ydy1Kb0I1ZExJYXZHZ0NpRUt3dklSeFd3SFBnSTZETHNzYzhyd3lnWXZjT1fSAdIBQVVfeXFMT0EyU0hheEpYZGtHVWxaUUdsaGhHdFNKblBNb1cyQi1zbkxvdW0zdzlYUlotMFNTSHVLUnN5a0hYUUpkTUpsNDVIM3VJNmlrSk5oR3FnbHd3T2pXWnJPeHBCTjA2dTZyS0EzVVEwYWRyRFlORVBqNFhFT053UWlXVGNsWDBHbHhTT1FFRXctd19xclNaU29NOGU1eEZlaGcwdXdDZmtzYnZibW9GM25Qb09WNlluUDNZb2pOSDd0ak1yV2FmQkNjX0thbDZwUEFHcURR?oc=5"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "There is no political news reported for Australia today.",
-        "i": "No domestic political developments or regulatory announcements were detailed in the current news cycle.",
-        "a": "The reporting period contains zero macroeconomic policy shifts or fiscal announcements from Canberra, leaving market participants focused entirely on company-specific fundamentals.",
-        "sources": {}
-      },
-      "timeline": [
-        [
-          "2 Sep 2026",
-          "Market updates detail operational strategies across multiple ASX-listed industrial and resource firms."
-        ]
-      ]
-    },
-    "Germany": {
-      "iso3": "DEU",
-      "label": "Germany",
-      "sub": "German defence expansion and international capital flows",
-      "ind": [],
-      "stories": [
-        {
-          "t": "German weapons manufacturer enters British military competition",
-          "src": "Financial Times",
-          "b": "A historic German gun manufacturing business is competing to supply the British military with its upcoming standard rifle. This firm faces rival bids from international military suppliers.",
-          "i": "Heckler & Koch has entered the procurement process to replace the <span class='term' data-t='carry'>SA80</span> service rifle <span class='term' data-t='carry'>for</span> the British army. The German manufacturer competes against global defence industry peers for the contract.",
-          "a": "The tender participation highlights the commercial positioning of European small arms manufacturers within NATO procurement cycles. The ultimate contract allocation depends on comparative sovereign cost parameters and industrial offset requirements.",
-          "links": [
-            "https://www.ft.com/content/53d35170-2b41-4c21-8b41-345158ef0be1?syn-25a6b1a6=1"
-          ]
-        },
-        {
-          "t": "Central bank releases regional financial data",
-          "src": "Bank of Japan",
-          "b": "The central bank of Japan has published comprehensive financial statistics covering the euro area alongside other major global economies.",
-          "i": "Official flow of funds data covering the euro area was released by the monetary authority. These accounts track aggregate financial asset and liability shifts.",
-          "a": "The sectoral balance sheet publication provides cross-border liquidity metrics across the monetary union. Analysts evaluate these capital aggregates to monitor systemic credit creation and institutional asset reallocation.",
-          "links": [
-            "https://www.boj.or.jp/en/statistics/sj/sjhiq.pdf"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Official data releases and defence industry competition developments occurred.",
-        "i": "Monetary institution statistics publication coincided with defence sector manufacturing contract competition.",
-        "a": "The convergence of macro financial flow data releases and cross-border defence procurement activity delineates contemporary industrial and monetary reporting parameters."
-      },
-      "timeline": [
-        [
-          "31 Aug 2026",
-          "Bank of Japan publishes euro area flow of funds data."
-        ],
-        [
-          "31 Aug 2026",
-          "Financial Times reports on German gunmaker bidding for British army contract."
-        ]
-      ]
-    },
-    "Japan": {
-      "iso3": "JPN",
-      "label": "Japan",
-      "sub": "Central bank data releases and rare earth supply concerns",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Bank of Japan releases multiple July and quarterly datasets",
-          "src": "Bank of Japan",
-          "b": "The central bank published new economic figures, covering payments and settlements for July, the first quarter flow of funds, and average loan interest rates for July.",
-          "i": "The central bank published systemic financial figures, including July <span class='term' data-t='inflation'>payment</span> settlement statistics, Q1 flow of funds accounts, and July loan interest rate averages.",
-          "a": "Data releases covering Q1 flow of funds, July settlement statistics, and average loan contract rates provide a comprehensive cross-section of monetary transmission dynamics and liquidity conditions.",
+          "t": "Australian Dollar Falls as United States Rate Hike Expectations Grow",
+          "src": "FXStreet",
+          "b": "The Australian dollar dropped in value because people expect the central bank in the United States to raise interest rates.",
+          "i": "The Australian currency extended its downward movement as market participants increased their bets on United States monetary tightening and <span class='term' data-t='inflation'>inflation</span> persistence.",
+          "a": "The AUD exchange rate transmission channel reflects widening yield differentials driven by market pricing of Federal Reserve policy tightening, forcing cross-asset capital flows out of domestic risk proxies.",
           "gloss": "inflation",
           "links": [
-            "https://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2607.pdf",
-            "https://www.boj.or.jp/en/statistics/sj/sjhiq.pdf",
-            "https://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2607.pdf"
-          ]
-        },
-        {
-          "t": "Historical context recalled on critical mineral supply vulnerabilities",
-          "src": "Guardian Business",
-          "b": "Commentary highlighted a past event from sixteen years ago when China blocked critical mineral exports to Japan due to a dispute over islands in the East China Sea.",
-          "i": "Media commentary revisited the vulnerability of critical mineral supply chains, citing the historical 2010 trade restriction where Beijing halted exports of these materials following a territorial dispute.",
-          "a": "Geopolitical risk pricing around critical material dependencies remains anchored to historical precedent, specifically the bilateral trade disruption over East China Sea island sovereignty.",
-          "links": [
-            "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0VDeHVFcUs1WGVIc3JaQzFsam9PVkpjdnJtWS1STHIxNWJ3dFhMbEJHaW8xaklIcnRveWx2eDA0YXA2QXZUUXBYSW5hTUhGTDdYT1R5SWJNYUxveWhjcFdBX3czVkZHX0J5bl8tZ2RDc051YlgxbzIyTUZhVi1weTctMnRURUpZeWMtak5ldkNEUWVaOHZfdzVqLUdVNWFhZlZYZnVDSUNkOEFUYy1DalpB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Discussions focused on securing essential supply chains for critical minerals away from single-country reliance.",
-        "i": "Political commentary emphasized the strategic necessity of diversifying critical material supply chains away from Chinese dominance.",
-        "a": "Structural policy shifts are increasingly pricing long-term industrial security risks into trade and manufacturing supply chains.",
-        "sources": {
+        "b": "No political updates were reported for Australia today.",
+        "i": "There were no relevant domestic policy developments or government announcements covered in today's news feeds.",
+        "a": "The domestic political docket remained quiet, leaving asset prices entirely exposed to corporate operational disclosures and macroeconomic cross-border currency dynamics.",
+        "timeline": {
           "0": {
-            "outlet": "Guardian Business",
-            "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains"
+            "date": "2 Sep",
+            "text": "BHP highlights copper strategy under new chief executive officer."
+          },
+          "1": {
+            "date": "2 Sep",
+            "text": "Australian dollar declines amid United States rate expectations."
           }
         }
       },
-      "timeline": [
-        [
-          "2010",
-          "China blocked exports of key rare earths to Japan in a dispute over islands."
-        ],
-        [
-          "30 Aug 2026",
-          "Bank of Japan published average contract interest rates on loans and discounts for July."
-        ],
-        [
-          "31 Aug 2026",
-          "Bank of Japan released flow of funds and payment settlement statistics."
-        ]
-      ]
-    },
-    "China": {
-      "iso3": "CHN",
-      "label": "China",
-      "sub": "Factory activity slows and BYD earnings miss profit goals",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Manufacturer BYD experiences equity drop following competitive profit squeeze",
-          "src": "CNBC",
-          "b": "BYD's stock price fell after the car manufacturer published its financial results. Even though the company made more money in the second quarter and grew its international business, intense local competition hurt its profits for the first half of the year.",
-          "i": "BYD <span class='term' data-t='deflation'>deflation</span> pressures weighed on equity valuations as the automaker reported its earnings. The firm registered higher second-quarter profit and international expansion, yet intense domestic competition compressed margins across the first half.",
-          "a": "Domestic pricing pressure manifested in the latest half-yearly figures for BYD, depressing the equity valuation despite sequential margin expansion in the second quarter and export growth. The market is discounting top-line international gains against structural domestic discounting.",
-          "gloss": "deflation",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html"
-          ]
-        },
-        {
-          "t": "Manufacturing contraction persists for consecutive months",
-          "src": "CNBC",
-          "b": "Factory activity contracted for the second month in a row. This drop keeps the government under pressure to help the wider economy as national growth slows down.",
-          "i": "Manufacturing activity contracted for a second consecutive month, maintaining policy pressure on Beijing to stimulate the slowing economy as growth momentum wanes.",
-          "a": "Consecutive months of manufacturing contraction reinforce the necessity for fiscal and monetary policy intervention, as the cyclical slowdown intensifies pressure on authorities to meet growth targets.",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "President Xi Jinping is planning a visit to India before traveling to the United States to meet President Donald Trump.",
-        "i": "State visits are scheduled for President Xi Jinping, including an initial trip to India followed by a summit with U.S. President Donald Trump.",
-        "a": "Diplomatic engagement is intensifying as President Xi Jinping prepares for bilateral meetings in India and an upcoming summit with U.S. President Donald Trump.",
-        "sources": {
-          "0": {
-            "outlet": "CNBC",
-            "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html"
-          }
-        }
-      },
-      "timeline": [
-        [
-          "2010",
-          "China blocked exports of key rare earths to Japan during a dispute over islands in the East China Sea."
-        ],
-        [
-          "30 Aug 2026",
-          "Editorial commentary highlighted ongoing European efforts to secure alternative supply chains for critical minerals."
-        ],
-        [
-          "31 Aug 2026",
-          "Data showed manufacturing activity shrinking for a second straight month while BYD released its half-year results."
-        ]
-      ]
-    },
-    "India": {
-      "iso3": "IND",
-      "label": "India",
-      "sub": "HDFC CEO exit, Jio IPO approval, and upcoming state visits",
-      "ind": [],
-      "stories": [
-        {
-          "t": "HDFC Bank shares gain despite unexpected chief executive departure",
-          "src": "CNBC",
-          "b": "The head of HDFC Bank, the country's top private lender, announced he will not seek another term. Company shares rose following the unexpected news.",
-          "i": "Equities in HDFC Bank advanced despite the chief executive officer deciding against seeking reappointment, defying expectations of <span class='term' data-t='deflation'>deflation</span>ary pressure on bank multiples.",
-          "a": "The idiosyncratic equity reaction reflects market indifference to executive tenure relative to underlying structural loan book quality, falsifying the hypothesis that succession uncertainty triggers immediate multiple contraction.",
-          "gloss": "deflation",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/hdfc-largest-bank-india-ceo-exit.html"
-          ]
-        },
-        {
-          "t": "Jio Platforms secures regulatory approval for initial public offering",
-          "src": "CNBC",
-          "b": "Jio Platforms, a major digital and telecom provider supported by Meta and Google, received permission from regulators to launch a stock market float. Another large entity, the National Stock Exchange, is still waiting for its clearance.",
-          "i": "Jio Platforms cleared regulatory hurdles for an <span class='term' data-t='carry'>initial public offering</span>, while the National Stock Exchange continues to await similar clearance from authorities.",
-          "a": "The primary market pipeline expands as Jio Platforms secures listing clearance, though the absolute valuation capture remains conditional on absorption capacity given the pending National Stock Exchange float.",
-          "gloss": "carry",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html"
-          ]
-        },
-        {
-          "t": "Chinese President plans state visit ahead of summit meetings",
-          "src": "CNBC",
-          "b": "The leader of China is scheduled to visit the country before traveling onward to meet the President of the United States.",
-          "i": "State visits by foreign dignitaries are building diplomatic engagement ahead of multilateral summits involving the United States and other global leaders.",
-          "a": "Bilateral diplomatic signaling precedes broader macroeconomic summits, creating a channel for trade policy expectations to reprice across emerging market assets.",
-          "links": [
-            "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Political leaders prepared for diplomatic visits involving foreign heads of state.",
-        "i": "Diplomatic engagements focused on managing bilateral relations and upcoming international summits.",
-        "a": "State visits serve as a signaling mechanism for strategic alignment, altering the geopolitical risk premium embedded in regional sovereign debt and equities."
-      },
-      "timeline": [
-        [
-          "30 Aug",
-          "Global commentary highlights supply chain vulnerabilities involving rare earth minerals."
-        ],
-        [
-          "31 Aug",
-          "HDFC Bank chief executive announces departure plans while shares rise."
-        ],
-        [
-          "31 Aug",
-          "Jio Platforms receives regulatory approval for a public share offering."
-        ]
-      ]
+      "timeline": []
     }
   }
 }

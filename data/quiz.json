@@ -1,633 +1,317 @@
 {
-<<<<<<< HEAD
-  "generated": "2026-08-31T06:13:21.861Z",
-  "questions": [
-    {
-      "lvl": "b",
-      "tag": "United States of America · Commodities",
-      "q": "Why did military clashes between the United States and Iran in the Strait of Hormuz cause equity index futures to drop?",
-      "o": [
-        "Because investors worried that higher energy costs would drive up overall price inflation.",
-        "Because the American strike destroyed critical technology manufacturing plants.",
-        "Because oil production in the region completely stopped for the entire year.",
-        "Because the central bank immediately lowered interest rates in response."
-      ],
-      "a": 0,
-      "e": "Geopolitical shocks in the Strait of Hormuz push up energy prices, which markets translate into rising inflation expectations. When energy costs jump, equity futures tend to fall as traders price in higher expenses for businesses and consumers."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Monetary policy",
-      "q": "How did financial markets react when Federal Reserve Chair Kevin Warsh signaled a potential policy rate increase at Jackson Hole?",
-      "o": [
-        "Equity futures retreated as investors priced in tighter monetary conditions.",
-        "Stock prices surged because lower interest rates make borrowing cheaper.",
-        "Bond yields fell sharply as investors expected an immediate economic boom.",
-        "Foreign exchange markets ignored the speech because it contained no new data."
-      ],
-      "a": 0,
-      "e": "A hawkish address signals that borrowing costs might go up. Investors respond to these tighter monetary conditions by selling equity futures."
-    },
-    {
-      "lvl": "b",
-      "tag": "United Kingdom · Public policy",
-      "q": "What was the main purpose of Andy Burnham's proposed care year initiative in the United Kingdom?",
-      "o": [
-        "To help solve social care sector pressures while cutting student tuition fees in half.",
-        "To increase municipal taxes on elderly care facilities across every council.",
-        "To replace all military service rifles with German-made alternatives.",
-        "To fund new international trade agreements with South American exporters."
-      ],
-      "a": 0,
-      "e": "The proposed policy aims to address mounting council expenditure and pressures in social care by linking that work to a reduction in student liabilities."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · International trade",
-      "q": "Why did agricultural groups in the United Kingdom petition their government to stop meat shipments from Brazil?",
-      "o": [
-        "Because Brazil could not meet European Union regulations regarding veterinary antibiotics in livestock.",
-        "Because shipping costs from South America became too expensive for British importers.",
-        "Because domestic British farms produced more meat than the country could consume.",
-        "Because trade treaties between the two nations expired at the beginning of the year."
-      ],
-      "a": 0,
-      "e": "British farming groups leveraged phytosanitary compliance rules, pointing out that Brazilian meat producers failed to satisfy European Union regulations on veterinary antibiotic administration."
-    },
-    {
-      "lvl": "b",
-      "tag": "Germany · Defence",
-      "q": "Why is German manufacturer Heckler & Koch participating in the tender process for the British army?",
-      "o": [
-        "To compete for the contract to replace the SA80 service rifle.",
-        "To supply electric vehicles and transport trucks to municipal councils.",
-        "To acquire shares in rival British financial institutions.",
-        "To establish a new central bank clearing house in London."
-      ],
-      "a": 0,
-      "e": "Heckler & Koch entered the procurement process specifically to bid for the contract that will replace the SA80 service rifle used by the British army."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Central banking",
-      "q": "What types of financial information did the Bank of Japan publish in its recent data releases?",
-      "o": [
-        "July payment settlement statistics, Q1 flow of funds accounts, and July loan interest rate averages.",
-        "Daily stock prices for automotive manufacturers and quarterly tax receipts.",
-        "Foreign exchange reserves held exclusively in European sovereign debt.",
-        "Consumer confidence surveys measuring retail spending during public holidays."
-      ],
-      "a": 0,
-      "e": "The central bank released specific datasets including July payment settlement figures, flow of funds accounts for the first quarter, and average loan contract rates."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Equities",
-      "q": "Why did BYD's equity valuation drop despite reporting higher second-quarter profit and international expansion?",
-      "o": [
-        "Intense domestic competition compressed profit margins across the first half of the year.",
-        "The Chinese government banned the automaker from exporting vehicles abroad.",
-        "International sales declined sharply due to new trade tariffs in Europe.",
-        "The company failed to secure regulatory approval for its upcoming stock market listing."
-      ],
-      "a": 0,
-      "e": "Despite second-quarter growth and international expansion, severe domestic pricing pressure squeezed margins during the first half, which weighed heavily on the company's equity valuation."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Equities",
-      "q": "How did HDFC Bank shares perform after the chief executive officer decided against seeking reappointment?",
-      "o": [
-        "The shares advanced despite expectations that succession uncertainty would hurt the bank.",
-        "The stock price collapsed because investors lost confidence in the loan book quality.",
-        "Trading was suspended by regulators until a replacement chief executive was found.",
-        "Equity values remained completely unchanged because the announcement was leaked early."
-      ],
-      "a": 0,
-      "e": "HDFC Bank shares advanced despite the departure of the chief executive, showing that the market focused on underlying loan book quality rather than executive tenure."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Commodities",
-      "q": "Why did the military escalation in the Strait of Hormuz impact equity index futures?",
-      "o": [
-        "Because the energy shock altered <span class='term' data-t='inflation'>inflation</span> expectations, forcing macro desks to re-evaluate term premia.",
-        "Because investors anticipated a direct military subsidy for domestic oil refiners.",
-        "Because central banks immediately lowered policy rates to offset supply chain costs.",
-        "Because lower crude prices boosted consumer discretionary spending globally."
-      ],
-      "a": 0,
-      "e": "The kinetic shock directly reprices the energy risk premium, driving up expected costs that feed into headline prints and alter macroeconomic pricing. The wrong answers either contradict the direction of oil prices or assume incorrect monetary and fiscal responses."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Monetary policy",
-      "q": "How did Federal Reserve Chair Kevin Warsh's Jackson Hole address affect financial markets?",
-      "o": [
-        "It shifted market probabilities toward a policy rate increase, causing equity futures to retreat as tighter conditions were priced in.",
-        "It assured investors of aggressive monetary easing to support soft-landing economic models.",
-        "It permanently removed Treasury issuance dynamics from the central bank reaction function.",
-        "It signaled a shift toward eliminating policy rates entirely."
-      ],
-      "a": 0,
-      "e": "Warsh's hawkish rhetoric served as a deliberate anchor shift that preempted financial conditions easing, causing equity futures to pull back as tighter conditions were priced in. The soft-landing consensus was challenged, making easing assumptions incorrect."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Public policy",
-      "q": "What motivated Andy Burnham's proposed care year initiative linking social care work with university tuition reductions?",
-      "o": [
-        "To alleviate social care sector pressures and address municipal budget strains caused by elderly care costs.",
-        "To privatise higher education institutions by transferring university ownership to local councils.",
-        "To replace all private sector labour in the United Kingdom with compulsory student deployments.",
-        "To eliminate municipal tax rates for all students enrolled in manufacturing courses."
-      ],
-      "a": 0,
-      "e": "The proposal was designed to combat structural strain on municipal budgets driven by elderly care expenditures by using compulsory sectoral labour. It did not involve privatising universities or eliminating municipal taxes."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Trade",
-      "q": "Why did British agricultural organisations petition the government to halt meat shipments from Brazil?",
-      "o": [
-        "Due to Brazil's failure to satisfy European Union <span class='term' data-t='inflation'>regulations</span> governing veterinary antibiotic administration in livestock.",
-        "Because British farmers wanted to lower domestic meat prices by increasing Latin American supply.",
-        "Because trade agreements mandated that Brazil halt all agricultural exports permanently.",
-        "Because maritime transport costs rendered Brazilian protein imports unprofitable for British grocers."
-      ],
-      "a": 0,
-      "e": "Domestic lobbies leveraged phytosanitary compliance disputes regarding veterinary antibiotic tracking to challenge market access. They were not seeking to increase supply or lower domestic prices."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Corporate",
-      "q": "What determines the ultimate contract allocation for Heckler & Koch's bid to supply the British army?",
-      "o": [
-        "Comparative sovereign cost parameters and industrial offset requirements.",
-        "The unilateral approval of European Union monetary authorities.",
-        "Direct equity valuation multiples of the German manufacturer.",
-        "Bilateral trade quotas established for agricultural goods."
-      ],
-      "a": 0,
-      "e": "The tender outcome depends on comparative sovereign cost parameters and industrial offset requirements rather than EU monetary approvals or unrelated agricultural trade quotas."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Monetary economics",
-      "q": "What do the Bank of Japan's releases of settlement statistics, flow of funds accounts, and loan interest rates collectively provide?",
-      "o": [
-        "A comprehensive cross-section of monetary transmission dynamics and liquidity conditions.",
-        "Direct evidence of permanent sovereign debt forgiveness across commercial banks.",
-        "An accurate prediction of foreign exchange reserve depletion dates.",
-        "Guaranteed metrics for corporate equity dividend distributions."
-      ],
-      "a": 0,
-      "e": "These datasets track aggregate financial asset and liability shifts, offering insights into systemic credit creation and liquidity conditions. They do not predict corporate dividends or sovereign debt forgiveness."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Equities",
-      "q": "Why did BYD's equity valuation drop despite reporting higher second-quarter profit and international expansion?",
-      "o": [
-        "Intense domestic competition created <span class='term' data-t='deflation'>deflation</span>ary pricing pressure that compressed margins across the first half, which the market weighed against top-line gains.",
-        "International export growth was entirely offset by foreign currency exchange losses.",
-        "The company failed to secure regulatory approval for its domestic manufacturing operations.",
-        "Higher domestic interest rates forced the automaker to suspend its equity trading."
-      ],
-      "a": 0,
-      "e": "The equity decline reflected domestic pricing pressure and margin compression during the first half of the year, outweighing sequential second-quarter gains. The market discounted domestic structural discounting against international expansion."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Banking",
-      "q": "How did HDFC Bank equities react to the chief executive officer deciding against seeking reappointment, and what did this reflect?",
-      "o": [
-        "Equities advanced, reflecting market indifference to executive tenure relative to underlying structural loan book quality.",
-        "Equities plummeted due to immediate systemic multiple contraction triggered by succession uncertainty.",
-        "Equities remained completely flat because trading was suspended during the announcement.",
-        "Equities dropped because investors anticipated an immediate liquidity crisis in the bank."
-      ],
-      "a": 0,
-      "e": "The idiosyncratic equity advance defied expectations of multiple contraction, demonstrating that the market prioritised underlying structural loan book quality over executive tenure. Succession uncertainty did not trigger the feared multiple contraction."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Fixed income",
-      "q": "Why did Kevin Warsh's Jackson Hole address cause equity futures to retreat, and what would falsify this market interpretation?",
-      "o": [
-        "The speech acted as a deliberate anchor shift against easing financial conditions, and the reading would be falsified if subsequent Treasury issuance and incoming macroeconomic data forced a dovish pivot.",
-        "The speech guaranteed an immediate emergency rate cut at the next meeting, which would be falsified if the central bank raised rates instead.",
-        "The speech signalled quantitative easing expansion to support equity valuations, which would be falsified if asset purchases were halted entirely.",
-        "The speech confirmed permanent zero-interest-rate policy, which would be falsified if inflation prints exceeded central bank targets."
-      ],
-      "a": 0,
-      "e": "The correct option identifies the mechanism as an anchor shift against easing, noting that incoming data and issuance dynamics would disprove a premature dovish consensus. The most tempting wrong answers mischaracterise the speech as dovish or easing-focused."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Equities",
-      "q": "How did the market process BYD's latest earnings report, and what dynamic explains the equity price drop despite strong second-quarter performance?",
-      "o": [
-        "Investors discounted international expansion and sequential second-quarter margin gains because intense domestic pricing pressure compressed first-half profitability.",
-        "Traders punished the stock because domestic sales completely collapsed to zero while exports remained flat.",
-        "The equity valuation fell because the firm announced the total cessation of all international manufacturing operations.",
-        "Markets reacted negatively because the company reported a complete absence of any second-quarter revenue."
-      ],
-      "a": 0,
-      "e": "The correct option points to structural domestic discounting offsetting international gains in the half-yearly figures. Wrong options fabricate extreme scenarios like total sales collapse."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Equities",
-      "q": "What does the positive equity reaction to HDFC Bank despite its chief executive's departure reveal about market pricing of bank multiples?",
-      "o": [
-        "It demonstrates that the market prices structural loan book quality above executive tenure, falsifying the hypothesis that succession uncertainty causes immediate multiple contraction.",
-        "It proves that executive leadership has zero impact on financial institution share prices under any economic conditions.",
-        "It shows that central bank monetary policy is entirely irrelevant to commercial bank valuations.",
-        "It indicates that investors expected the chief executive to remain in office indefinitely despite the announcement."
-      ],
-      "a": 0,
-      "e": "The correct option highlights the resilience of the equity valuation due to underlying asset quality over succession fears. Plausible wrong options claim executive leadership never matters."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Trade",
-      "q": "What strategy are UK agricultural organisations employing by petitioning to halt Brazilian meat shipments?",
-      "o": [
-        "They are attempting to weaponise phytosanitary compliance gaps concerning veterinary antibiotic administration to alter bilateral trade flows and restrict Latin American market access.",
-        "They are trying to permanently abolish all international trade agreements globally through judicial enforcement.",
-        "They are attempting to subsidise higher education costs via compulsory agricultural labour programs.",
-        "They are trying to fix domestic retail food prices through direct central bank intervention."
-      ],
-      "a": 0,
-      "e": "The correct option outlines the use of regulatory and phytosanitary disputes to manipulate market access. Wrong options introduce unrelated policy areas like education or central bank price-fixing."
-    },
-    {
-      "lvl": "a",
-      "tag": "United Kingdom · Fiscal policy",
-      "q": "What is the structural motivation behind Andy Burnham's proposed care year initiative linking social care to tuition fees?",
-      "o": [
-        "It attempts to alleviate municipal budget strain caused by elderly care costs by subsidising higher education through compulsory sectoral labour.",
-        "It aims to replace all military procurement contracts with social care grants funded by foreign debt.",
-        "It seeks to increase central bank policy rates by directly targeting commercial bank lending spreads.",
-        "It tries to eliminate all corporate tax liabilities for international manufacturing firms."
-      ],
-      "a": 0,
-      "e": "The correct option matches the text's explanation of municipal budget strain and sectoral labour. Wrong options falsely link social care to military contracts or central bank rates."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Industrial policy",
-      "q": "What factors determine whether Heckler & Koch will successfully secure the British military contract to replace the SA80?",
-      "o": [
-        "Comparative sovereign cost parameters and industrial offset requirements within NATO procurement cycles.",
-        "The immediate implementation of euro area retail payment settlement statistics by the European Central Bank.",
-        "The total abolition of all critical mineral trade restrictions between Beijing and Tokyo.",
-        "The absolute absorption capacity of the National Stock Exchange primary market pipeline."
-      ],
-      "a": 0,
-      "e": "The correct option focuses on sovereign cost parameters and industrial offsets. Wrong options mix up unrelated themes like central bank payment statistics or stock exchange listings."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Geopolitics",
-      "q": "How does the market currently price critical mineral supply vulnerabilities involving East Asian trade routes?",
-      "o": [
-        "Risk pricing remains anchored to historical precedent, specifically the 2010 bilateral trade disruption and export halts following territorial disputes.",
-        "Risk is priced entirely out of the market due to permanent trade treaties signed after World War II.",
-        "Valuations are driven exclusively by quarterly flow of funds accounts and retail loan interest rates.",
-        "Asset prices fluctuate solely based on unexpected chief executive departures in the banking sector."
-      ],
-      "a": 0,
-      "e": "The correct option refers directly to the historical 2010 trade restriction precedent. Wrong options incorrectly dismiss the risk or attribute it to unrelated banking metrics."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Commodities",
-      "q": "Through which transmission channel does kinetic escalation in the Strait of Hormuz impact equity index futures?",
-      "o": [
-        "Supply-side cost shocks from energy risk premiums feed immediately into headline inflation prints, forcing macro desks to re-evaluate term premia.",
-        "Direct central bank purchases of agricultural commodities eliminate all pricing volatility across global shipping lanes.",
-        "Mandatory tuition fee reductions automatically lower municipal bond yields across emerging markets.",
-        "Corporate executives resigning from commercial banks trigger immediate currency appreciation."
-      ],
-      "a": 0,
-      "e": "The correct option outlines the exact transmission mechanism from energy risk premiums to inflation expectations and term premia. Wrong options combine mismatched concepts from other briefings."
-=======
-  "generated": "2026-09-02T10:53:33.636Z",
+  "generated": "2026-09-02T10:58:03.414Z",
   "questions": [
     {
       "lvl": "b",
       "tag": "United States of America · Fixed income",
-      "q": "Why did United States Treasury yields rise during the global bond sell-off?",
+      "q": "Why did rising sovereign bond yields cause technology shares to fall?",
       "o": [
-        "Fixed-income investors demanded higher compensation.",
-        "The central bank lowered interest rates to boost the economy.",
-        "Foreign governments purchased massive amounts of sovereign debt.",
-        "Inflation rates fell rapidly across domestic markets."
+        "Higher risk-free rates increase the discount rate applied to future corporate cash flows, reducing present valuations.",
+        "Higher bond yields force companies to pay higher dividends immediately to keep investors interested.",
+        "Governments ban people from owning technology shares when bond yields go up.",
+        "Technology companies must spend all their cash buying government bonds instead of building products."
       ],
       "a": 0,
-      "e": "Bond yields rise when investors demand higher compensation to hold government debt, leading to a sell-off. Lowering interest rates or buying debt would generally push yields down rather than up."
+      "e": "When sovereign yields climb, the discount rate used to calculate the present value of future cash flows also rises. This reduces the theoretical value of growth-heavy sectors like technology, whose earnings are expected far in the future. The other options describe rules or behaviours that do not exist."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Fixed income",
-      "q": "What happened to United Kingdom government bonds, known as gilts, according to the reports?",
+      "q": "Why did commercial banks increase their usage of central bank liquidity facilities?",
       "o": [
-        "They experienced heavy selling pressure, pushing yields to an eighteen-year high.",
-        "They reached their highest market value in two decades due to strong demand.",
-        "They were completely withdrawn from the market by regulators.",
-        "They experienced a sharp increase in price as interest rates fell to zero."
+        "To exchange riskier assets for central bank cash and prioritize high-quality liquid assets.",
+        "To pay higher bonuses to their employees using free central bank money.",
+        "Because the government ordered all banks to stop lending money to businesses.",
+        "To buy shares in foreign technology companies and increase risk."
       ],
       "a": 0,
-      "e": "The text states that UK gilts faced heavy selling pressure, which pushed yields up to an eighteen-year high. Higher selling pressure lowers bond prices and raises yields, rather than increasing market value."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Equities",
-      "q": "Why did Petrobras American Depositary Receipts advance?",
-      "o": [
-        "An increase in Brent crude pricing expanded its cash-flow buffer.",
-        "The government announced a complete tax exemption for oil companies.",
-        "Domestic inflation rates dropped below zero.",
-        "The company halted all oil production to cut operating costs."
-      ],
-      "a": 0,
-      "e": "Petrobras securities advanced because higher Brent crude pricing increases the corporate cash-flow buffer. Halting production or cutting taxes are not mentioned as drivers of this movement."
+      "e": "Commercial banks swapped riskier assets for central bank reserves to prioritize high-quality liquid assets. This acts as a buffer against potential funding shocks. Banks do this for safety and liquidity preservation, not to pay bonuses or buy foreign shares."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "Why did German equities decline over a three-session losing streak?",
+      "q": "Why did higher energy costs weigh on German industrial equities?",
       "o": [
-        "Elevated commodity and oil costs squeezed corporate margins.",
-        "The central bank banned equity trading for industrial firms.",
-        "Foreign investors sold all their shares to buy government bonds exclusively.",
-        "Corporate earnings reports showed zero revenue across all sectors."
+        "Higher oil and gas prices compressed profit margins and created headwinds for industrial valuations.",
+        "Factories had to close forever because electricity was banned.",
+        "Industrial companies spent all their money paying taxes on energy.",
+        "Workers refused to go to work unless energy prices fell."
       ],
       "a": 0,
-      "e": "German equities fell because elevated commodity and oil costs squeezed corporate margins and weighed on investor sentiment. Banning equity trading or zero revenue are incorrect and unsupported by the text."
+      "e": "Elevated energy costs directly compress corporate profit margins because energy is a key input for manufacturing. When input costs rise and companies cannot pass them all on, their earnings capacity falls, pulling down equity valuations. The other choices are extreme or fictional scenarios."
     },
     {
       "lvl": "b",
       "tag": "Japan · Monetary policy",
-      "q": "What signal did a central bank official in Japan give regarding interest rates?",
+      "q": "What was the immediate market reaction when a central bank official hinted at potential consecutive interest rate increases?",
       "o": [
-        "They hinted at the possibility of consecutive interest rate increases.",
-        "They promised to keep interest rates negative indefinitely.",
-        "They announced an immediate halt to all bond purchases.",
-        "They stated that interest rates would be fixed for a decade."
+        "Accelerated purchases of the domestic currency in foreign exchange markets.",
+        "An immediate collapse of the central bank building.",
+        "Commercial banks stopped accepting deposits from the public.",
+        "The stock market rose by fifty percent in a single hour."
       ],
       "a": 0,
-      "e": "A policy board member at the central bank indicated the possibility of consecutive interest rate increases, which is a hawkish signal. Promising negative rates forever or fixing rates for a decade contradicts the text."
+      "e": "Hawkish comments about potential interest rate increases cause market participants to buy the domestic currency because higher rates generally make that currency more attractive. The other options are fictional extremes that do not happen in financial markets."
     },
     {
       "lvl": "b",
       "tag": "China · Commodities",
-      "q": "What happened to industrial metals and precious commodities on Chinese exchanges?",
+      "q": "What did the synchronized sell-off across ferrous, non-ferrous, and precious metals reflect?",
       "o": [
-        "They experienced sharp declines, including a drop in lithium carbonate.",
-        "They reached record highs due to an unexpected surge in global manufacturing demand.",
-        "Trading was suspended due to a severe shortage of physical inventory.",
-        "Their prices remained completely unchanged throughout the reporting period."
+        "A broad macroeconomic unwinding and shifting assumptions about industrial demand.",
+        "A sudden global shortage of all metal storage buildings.",
+        "A law passed by the government making metals illegal to own.",
+        "All metal miners deciding to stop digging on the same day."
       ],
       "a": 0,
-      "e": "The text notes that industrial and precious commodities experienced sharp declines, with lithium carbonate dropping over three percent. Record highs or unchanged prices contradict this broad-based liquidation."
+      "e": "A broad retreat across industrial and precious metals reflects macro unwinding and changing views on industrial demand. Governments do not outlaw metal ownership overnight, and miners do not coordinate global work stoppages."
     },
     {
       "lvl": "b",
-      "tag": "India · Macroeconomics",
-      "q": "Why did domestic stock indices decline in India?",
+      "tag": "India · Commodities",
+      "q": "Why did Indian equity indices fall when crude oil prices surged?",
       "o": [
-        "Higher crude prices and geopolitical friction weighed on risk sentiment.",
-        "The central bank nationalised all major commercial banks.",
-        "Foreign institutional investors increased their holdings to historic highs.",
-        "Domestic interest rates were lowered to stimulate retail spending."
+        "Higher crude input costs threatened corporate margins and amplified inflation concerns.",
+        "The stock exchange ran out of paper to print share prices.",
+        "The government forced all companies to buy oil instead of shares.",
+        "Investors sold their stocks to buy physical barrels of crude oil for their homes."
       ],
       "a": 0,
-      "e": "Domestic indices fell because higher crude prices and geopolitical friction in West Asia weighed on risk sentiment. Nationalising banks or increasing foreign holdings would not drive a broad equity sell-off."
+      "e": "When crude prices jump, cost-push pressures threaten corporate margins because energy is vital for production. This causes investors to adopt risk-off positioning. People do not store crude oil at home or trade stocks on paper."
     },
     {
       "lvl": "b",
-      "tag": "Australia · Corporate strategy",
-      "q": "What is BHP Group prioritising under its new leadership?",
+      "tag": "Australia · Foreign exchange",
+      "q": "Why did the Australian dollar fall as United States rate hike expectations grew?",
       "o": [
-        "Its copper expansion strategy.",
-        "A complete liquidation of all mining assets.",
-        "A total exit from the Australian market.",
-        "Investing exclusively in residential real estate."
+        "Market participants priced in wider yield differentials driven by expected Federal Reserve policy tightening.",
+        "Australia decided to stop using its own currency and adopt gold coins.",
+        "The Australian central bank declared bankruptcy.",
+        "All banks in Australia closed their foreign exchange desks permanently."
       ],
       "a": 0,
-      "e": "BHP Group is prioritising its copper expansion strategy under the leadership of Brandon Craig. Exiting the market or investing in real estate are entirely absent from the text."
+      "e": "When United States rate expectations grow, yield differentials widen, causing capital to flow out of domestic risk proxies and into the United States dollar. Australia did not replace its currency with gold, nor did its central bank go bankrupt."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What did the appreciation of the Nigerian currency to a two-year high coincide with?",
+      "o": [
+        "Expanded foreign exchange turnover and tighter local liquidity dynamics.",
+        "The complete disappearance of all foreign currency from the country.",
+        "A government decree fixing the exchange rate at zero.",
+        "The permanent closure of every bank in Nigeria."
+      ],
+      "a": 0,
+      "e": "The stronger currency valuation was supported by tighter local liquidity and a double-digit expansion in foreign exchange turnover, signaling improved liquidity in the official window. Currencies do not get fixed at zero, and banks do not permanently close over a currency move."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "Why did technology shares and Nasdaq futures decline during the global bond sell-off?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did rising sovereign yields trigger a pullback across United States technology shares?",
       "o": [
-        "Higher real yields increased the equity risk premium and compressed valuations for growth-heavy sectors.",
-        "Semiconductor firms reported widespread supply chain failures that disrupted forward earnings projections.",
-        "Central banks directly restricted equity trading limits to curb volatility in the technology sector.",
-        "Institutional investors rotated entirely out of equities to buy physical commodities."
+        "Higher risk-free rates compressed equity duration by increasing the discount rate applied to future corporate cash flows.",
+        "Technology firms rely exclusively on short-term debt financing that immediately matures when bond yields increase.",
+        "Higher sovereign yields directly reduce consumer demand for semiconductor products across domestic retail markets.",
+        "Central banks automatically ban technology sector borrowing whenever government bond yields reach multi-year highs."
       ],
       "a": 0,
-      "e": "Rising bond yields increase the discount rate applied to future cash flows, which hits high-multiple growth equities hardest through valuation compression. The other options introduce factors like supply chain failures or trading bans that were not part of the market dynamics."
+      "e": "The transmission mechanism for equity valuation operates through the discount rate applied to future cash flows. When risk-free rates rise, the present value of distant growth cash flows falls disproportionately. The other options rely on incorrect claims regarding debt structures or direct regulatory interventions."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Fixed Income",
-      "q": "What drove the heavy selling pressure and eighteen-year high yields in UK gilts?",
+      "tag": "United Kingdom · Fixed income",
+      "q": "Why did United Kingdom commercial banks increase their usage of central bank liquidity facilities?",
       "o": [
-        "Mounting term premia and fiscal anxiety, which priced in a higher risk-adjusted cost of capital.",
-        "A mandatory central bank directive forcing commercial banks to offload long-duration holdings.",
-        "An unexpected interest rate cut that triggered massive capital outflows from domestic debt.",
-        "The complete elimination of sovereign debt issuance by the British government."
+        "Institutions prioritized high-quality liquid assets by exchanging riskier collateral for central bank cash to buffer against potential funding shocks.",
+        "Commercial banks wanted to take advantage of falling short-term interest rates to maximize speculative lending profits.",
+        "Regulatory mandates force domestic lenders to completely liquidate their balance sheets at the end of every fiscal quarter.",
+        "The central bank required all commercial institutions to surrender their riskier assets in exchange for foreign currency reserves."
       ],
       "a": 0,
-      "e": "Sovereign debt yields rose due to term-premium expansion and fiscal anxiety, forcing the market to price in higher borrowing costs. An interest rate cut would typically lower yields rather than push them to an eighteen-year high."
+      "e": "Increased collateral transformation highlights liquidity hoarding by domestic lenders, who prioritize high-quality liquid assets over riskier assets during periods of stress. The alternative explanations misstate the regulatory incentives and market motivations behind liquidity management."
     },
     {
       "lvl": "i",
       "tag": "Germany · Equities",
-      "q": "How did elevated commodity and oil prices transmit stress to German equities?",
+      "q": "How did higher energy prices transmit to German equity valuations?",
       "o": [
-        "By compressing profit margins across energy-intensive industrials facing higher operational expenditure.",
-        "By forcing the central bank to ban corporate borrowing for manufacturing firms.",
-        "By eliminating consumer demand entirely across every retail sector in the domestic market.",
-        "By triggering mandatory share buybacks that depleted corporate cash reserves."
+        "Elevated input costs compressed profit margins across industrial cyclicals, forcing the DAX lower as markets repriced earnings capacity.",
+        "Energy costs directly determine the dividend payout ratios mandated by European securities regulators.",
+        "Firms immediately passed all cost increases onto consumers without experiencing any volume reductions or margin compression.",
+        "Higher energy expenses caused chemical and industrial firms to increase their capital expenditure budgets significantly."
       ],
       "a": 0,
-      "e": "High energy inputs increase operational expenses for energy-intensive industrials, causing margin compression that leads equity markets to reprice cyclical sectors. Mandatory share buybacks or borrowing bans are fictional mechanisms."
+      "e": "Energy cost impulses transmit directly to equity valuations by compressing margins across cyclical companies, leading to a downward repricing of corporate earnings capacity. The other choices incorrectly assume infinite pricing power or positive impacts from cost shocks."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Central Banking",
-      "q": "What was the immediate market reaction to a central bank board member hinting at consecutive rate increases?",
+      "tag": "Japan · Monetary policy",
+      "q": "What was the immediate market consequence of a policy board member signaling potential consecutive interest rate increases?",
       "o": [
-        "The yen appreciated and the dollar fell as markets re-priced the policy trajectory.",
-        "Bond yields collapsed immediately as investors anticipated zero interest rate policies.",
-        "Equities rallied strongly due to lower corporate borrowing costs.",
-        "Foreign investors pulled all capital out of the country to escape higher currency volatility."
+        "Market participants accelerated purchases of the domestic currency as they repriced the terminal rate and interest rate differential.",
+        "Domestic equity benchmarks experienced immediate capital inflows due to the elimination of borrowing costs.",
+        "Commercial banks stopped all foreign exchange transactions to recalculate their long-duration portfolios.",
+        "Foreign investors completely liquidated their holdings of domestic sovereign debt to avoid paying higher taxes."
       ],
       "a": 0,
-      "e": "Hawkish signals regarding consecutive rate hikes cause immediate currency appreciation as markets re-price future interest rate differentials. Yields would rise rather than collapse following a tightening signal."
+      "e": "Hawkish signaling regarding consecutive policy normalisation forces market participants to reprice the terminal rate, altering interest rate differentials and driving currency purchases. The other options describe the opposite of standard macroeconomic transmission."
     },
     {
       "lvl": "i",
-      "tag": "India · Macroeconomics",
-      "q": "Why did domestic Indian stock indices experience a broad sell-off alongside rising crude prices?",
+      "tag": "China · Commodities",
+      "q": "What drove the synchronized sell-off across ferrous, non-ferrous, and precious metals on Chinese exchanges?",
       "o": [
-        "Higher crude oil imports threatened the current account balance and inflation expectations, driving foreign outflows.",
-        "The central bank prohibited institutional investors from holding large-cap equities.",
-        "Crude oil price increases directly cancelled all corporate dividend payments nationwide.",
-        "Retail investors liquidated their portfolios to purchase government treasury bills instead."
+        "Macroeconomic unwinding led markets to reprice industrial demand assumptions while liquidating long positions in precious metals.",
+        "New government regulations banned private ownership of all industrial and precious metals simultaneously.",
+        "A sudden surplus of physical storage facilities forced exchanges to auction metal inventories at zero cost.",
+        "International trade agreements prohibited domestic metal producers from exporting products to foreign markets."
       ],
       "a": 0,
-      "e": "Higher crude prices worsen current account dynamics and stoke inflation concerns, leading to foreign institutional outflows from large-cap indices. The other options rely on fictional regulatory bans or retail shifts."
+      "e": "The synchronized sell-off reflects broad macroeconomic unwinding where markets reprice industrial demand assumptions and liquidate long positions. The alternative explanations invoke regulatory bans or physical storage constraints not supported by the text."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Energy",
-      "q": "How do recent Joint Organizations Data Initiative figures depict the state of the Saudi oil sector?",
+      "tag": "India · Corporates",
+      "q": "Why did domestic Indian equities retreat following the West Asian geopolitical friction?",
       "o": [
-        "Crude exports and production reached multi-year highs, contrasting with downward revisions to global demand forecasts.",
-        "Production was completely halted to support collapsing global crude prices.",
-        "Domestic consumption absorbed all available output, leaving zero volume for international export.",
-        "Export volumes dropped significantly due to severe infrastructure damage from geopolitical conflict."
+        "Spiking crude prices generated cost-push pressures that threatened corporate margins, prompting risk-off positioning.",
+        "The central bank prohibited equity trading to prioritize short-term Treasury bill auctions.",
+        "Foreign institutional investors withdrew all capital to purchase domestic government debt exclusively.",
+        "Higher crude input costs automatically doubled corporate tax rates for all benchmark index components."
       ],
       "a": 0,
-      "e": "The data shows that local crude exports and production metrics hit multi-year highs, creating a divergence with downward global demand projections. Output was not halted nor did exports drop."
+      "e": "The equity drawdown reflects cost-push pressures propagating through the domestic corporate earnings outlook as higher crude input costs threaten margins. The wrong options suggest administrative bans or tax changes rather than market-driven cost pressures."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Foreign Exchange",
-      "q": "What does the 13.8 percent increase in August FX market turnover indicate about the Nigerian official foreign exchange window?",
+      "tag": "Australia · Foreign exchange",
+      "q": "Why did the Australian dollar fall as market expectations for United States monetary tightening grew?",
       "o": [
-        "It shows broadening institutional participation and improved price discovery in the official market.",
-        "It proves that parallel market rates have completely ceased to exist.",
-        "It represents a temporary accounting error by commercial banks rather than actual trades.",
-        "It indicates that the central bank has nationalised all foreign exchange transactions."
+        "Widening yield differentials driven by expected Federal Reserve policy tightening forced cross-asset capital flows out of domestic risk proxies.",
+        "The domestic central bank lowered its policy rate to zero to offset United States monetary actions.",
+        "Australian export revenues dropped to zero due to mandatory trade restrictions imposed by overseas buyers.",
+        "Investors preferred holding Australian currency because higher United States rates increase domestic asset values."
       ],
       "a": 0,
-      "e": "Higher transaction volume points to better market depth, broader institutional participation, and enhanced price discovery that supports recent exchange rate gains. Parallel markets still maintained a spread, contrary to the misconception."
+      "e": "The AUD exchange rate transmission reflects widening yield differentials driven by market pricing of Federal Reserve policy tightening, forcing capital out of domestic risk proxies. The incorrect answers invert the direction of capital flows or introduce unmentioned trade bans."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Corporate Strategy",
-      "q": "What is the primary rationale behind BHP Group's leadership transition and strategic pivot under Brandon Craig?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What did the appreciation of the Nigerian currency past the 1,330 threshold indicate about local market dynamics?",
       "o": [
-        "Prioritising a copper expansion strategy to reweight the portfolio toward transition metals.",
-        "Liquidating all mining assets to focus exclusively on commercial real estate development.",
-        "Merging entirely with shipping firms to control global maritime logistics.",
-        "Halting all capital expenditure to return 100 percent of cash flows as executive bonuses."
+        "Tighter local liquidity dynamics and sustained portfolio inflows drove spot appreciation in the official trading window.",
+        "The central bank fixed the exchange rate permanently, eliminating all foreign exchange turnover.",
+        "Commercial banks refused to trade foreign currency, causing artificial price distortions.",
+        "International lenders forgave all sovereign debt obligations, causing an immediate surge in import demand."
       ],
       "a": 0,
-      "e": "The leadership change prioritises a copper expansion strategy to test whether the market will rerate the equity for higher-margin volume growth. The other choices involve complete liquidation or unrelated business shifts not supported by the text."
+      "e": "Spot appreciation past the threshold reflects tighter local liquidity dynamics and sustained portfolio inflows alongside expanding turnover. The other options describe fixed exchange rates or debt forgiveness rather than liquidity-driven spot movements."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Equities",
-      "q": "What mechanism explains why higher Treasury yields immediately compressed technology sector equity valuations on Wall Street?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did rising sovereign yields trigger a sell-off in technology share futures?",
       "o": [
-        "Rising real yields increased the equity risk premium and discount rates applied to future cash flows, leading to a valuation multiple contraction for high-multiple growth stocks.",
-        "Higher bond yields forced technology companies to immediately write down their physical manufacturing assets and reduce their physical capital expenditures.",
-        "Investors rotated capital out of technology stocks entirely to purchase short-term Treasury bills, permanently destroying the liquidity of semiconductor equities.",
-        "Rising discount rates reduced corporate debt levels across the technology sector, artificially inflating earnings per share beyond sustainable market expectations."
+        "They raised the discount rate, compressing equity duration and reducing the present value of future cash flows.",
+        "They signaled an imminent recession that would permanently eliminate corporate revenues in the software sector.",
+        "They forced technology firms to default on their short-term commercial paper liabilities.",
+        "They reduced the opportunity cost of holding cash relative to risk-free bonds."
       ],
       "a": 0,
-      "e": "Higher real yields directly elevate the discount rate applied to future cash flows, driving down the present value of high-multiple growth equities. The most tempting misconception is that yields dictate physical asset write-downs rather than valuation adjustments via present-value discounting."
+      "e": "Higher risk-free rates increase the discount rate applied to future corporate earnings, which disproportionately hits high-duration growth stocks. The wrong options rely on incorrect claims about default risks or inverted opportunity costs rather than standard valuation mechanics."
     },
     {
       "lvl": "a",
       "tag": "United Kingdom · Fixed income",
-      "q": "How does the duration-weighted sell-off in UK gilts accurately reflect the market's pricing of fiscal anxiety?",
+      "q": "What mechanism explains why UK gilts experienced severe downward pressure alongside a weakening sterling?",
       "o": [
-        "It demands a higher term premium and risk-adjusted cost of capital to compensate investors for holding sovereign debt amidst mounting fiscal stress.",
-        "It proves that the central bank has completely lost control of the overnight lending rate, forcing commercial banks to hoard physical cash.",
-        "It indicates that foreign exchange traders are shorting the pound to hedge against imminent structural defaults on local corporate bonds.",
-        "It shows that inflation expectations have fallen to zero, eliminating the need for investors to demand nominal yield compensation."
+        "Deteriorating terms of trade and fiscal stress combined with regional risk aversion to drive out capital and reprice the debt complex.",
+        "The central bank aggressively hiked policy rates to defend the currency, causing an intentional liquidity squeeze in the private sector.",
+        "Commercial banks hoarded high-quality liquid assets, completely starving the primary gilt market of any demand.",
+        "Foreign investors rushed into long-end gilts as a safe haven, causing yields to spike due to extreme demand."
       ],
       "a": 0,
-      "e": "A duration-weighted sell-off in sovereign debt expands term premia, meaning investors price in a higher risk-adjusted cost of capital for the issuer due to fiscal anxiety. A common misconception is that this reflects commercial bank cash hoarding rather than the sovereign's required compensation for duration risk."
+      "e": "The market priced in structural pressures from elevated gas prices, regional risk aversion, and fiscal stress, punishing both the debt and foreign exchange markets. Safe haven demand would have driven yields down rather than up to an eighteen-year high."
     },
     {
       "lvl": "a",
       "tag": "Germany · Equities",
-      "q": "What is the primary transmission channel through which elevated energy prices impact German industrial equities?",
+      "q": "How did energy cost impulses transmit to the German DAX index?",
       "o": [
-        "Input cost shocks compress operating margins across energy-intensive industrials, leading markets to aggressively reprice equity risk premia and discount forward earnings multiples.",
-        "Higher oil prices automatically trigger mandatory government buybacks of cyclical shares, reducing the total float available on the exchange.",
-        "Energy spikes force industrial firms to immediately convert all foreign currency reserves into local government bonds to pay utility bills.",
-        "Elevated gas prices cause an instantaneous drop in retail consumer spending, shifting demand entirely toward software and digital services."
+        "They compressed corporate profit margins across cyclicals, forcing a downward market repricing of input costs against constrained earnings capacity.",
+        "They caused widespread industrial bankruptcies that immediately triggered regulatory trading halts across the exchange.",
+        "They forced the central bank to intervene by purchasing equities directly to support industrial valuations.",
+        "They reduced the discount rate applied to future cash flows, artificially inflating corporate valuations."
       ],
       "a": 0,
-      "e": "High energy input costs compress operating margins for industrial firms, causing a multiple contraction as markets reprice cyclical earnings risk. The wrong option involving government buybacks confuses operational cost pressures with artificial market interventions."
+      "e": "Energy cost impulses act as a negative supply shock that compresses corporate margins, leading to lower equity valuations. The discount rate mechanism moved in the opposite direction via rising bond yields, not falling ones."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Central banking",
-      "q": "What does a hawkish policy signal of sequential interest rate increases by a Japanese central bank official imply for cross-border capital structures?",
+      "tag": "Japan · Monetary policy",
+      "q": "What was the market transmission from a policy board member hinting at back-to-back rate increases?",
       "o": [
-        "It prompts immediate currency appreciation as markets reprice the policy trajectory, testing the resilience of existing funding structures reliant on low rates.",
-        "It guarantees that domestic equity indices will permanently decouple from global macroeconomic trends and sovereign debt movements.",
-        "It forces commercial banks to liquidate all foreign assets to finance domestic mortgage lending at fixed rates.",
-        "It signals that the central bank is abandoning inflation targets in favor of a fixed exchange rate peg against the dollar."
+        "It forced participants to reprice the terminal rate, compressing the interest rate differential that favored short-duration positioning.",
+        "It caused an immediate expansion of the interest rate differential, accelerating capital outflows from the domestic currency.",
+        "It triggered a flight to safety that lowered sovereign bond yields across the entire curve.",
+        "It signaled that monetary policy would remain loose indefinitely to counteract regional geopolitical risks."
       ],
       "a": 0,
-      "e": "Sequential tightening signals cause currency appreciation and force market participants to reprice funding structures that previously relied on cheap domestic rates. The incorrect option about decoupling ignores the integrated nature of global capital flows."
+      "e": "Hawkish signaling causes markets to reprice terminal rate expectations upward, which alters interest rate differentials and prompts currency purchases. A wider differential would have weakened the currency instead of strengthening it."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Commodities",
+      "q": "What does the synchronized sell-off across ferrous, non-ferrous, and precious metals indicate about market pricing?",
+      "o": [
+        "A broad macroeconomic unwinding where markets are repricing industrial demand assumptions and liquidating long positions.",
+        "A localized supply glut driven exclusively by record-breaking domestic extraction volumes.",
+        "An aggressive tightening of monetary policy that specifically targeted the mining sector.",
+        "A coordinated regulatory intervention designed to cap speculative retail trading in futures."
+      ],
+      "a": 0,
+      "e": "A synchronized retreat across unrelated metal categories signals a macro-driven liquidation and a re-evaluation of fundamental demand rather than sector-specific supply shocks."
     },
     {
       "lvl": "a",
       "tag": "India · Macroeconomics",
-      "q": "Why do rising crude oil prices act as a primary driver of foreign institutional outflows from Indian large-cap equity indices?",
+      "q": "Why did benchmark equity indices retreat despite currency stability when crude prices surged?",
       "o": [
-        "Higher oil import costs threaten the current account balance and worsen domestic inflation expectations, compressing price-to-earnings multiples.",
-        "Higher crude expenses legally prohibit domestic firms from paying dividends to foreign institutional investors.",
-        "Rising oil benchmarks automatically trigger a mandatory re-allocation of all institutional portfolios into physical commodities.",
-        "Energy spikes cause the central bank to ban foreign participation in domestic treasury bill auctions."
+        "Cost-push pressures propagated through the corporate earnings outlook, threatening profit margins and prompting risk-off positioning.",
+        "The central bank was forced to devalue the domestic currency to maintain export competitiveness against West Asian producers.",
+        "Higher crude prices caused an immediate liquidity freeze in the short-term Treasury bill auction market.",
+        "Foreign institutional investors were legally mandated to liquidate their equity portfolios to fund state energy purchases."
       ],
       "a": 0,
-      "e": "Crude oil imports strain the current account and stoke inflation expectations, which compresses equity valuations and sparks foreign outflows. The misconception that dividends are legally prohibited confuses macroeconomic channel effects with regulatory restrictions."
+      "e": "Higher crude input costs create cost-push inflation and squeeze corporate margins, triggering risk-off sentiment in equity markets. Currency stability meant foreign exchange pressures were not the primary driver of the equity drawdown."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Foreign exchange",
-      "q": "What structural factor underpins the recent appreciation and rising turnover in Nigeria's official foreign exchange window?",
+      "tag": "Australia · Foreign exchange",
+      "q": "Through what channel did United States rate expectations impact the Australian dollar?",
       "o": [
-        "Broadening institutional participation and improved price discovery help validate the durability of the exchange rate convergence toward parallel market rates.",
-        "A permanent state-mandated ban on parallel market trading that forces all commercial transactions through the central bank ledger.",
-        "An instantaneous collapse in domestic import demand that eliminates the need for foreign currency reserves entirely.",
-        "The complete elimination of all arbitrage opportunities through a single executive decree issued without market intervention."
+        "Widening yield differentials driven by Federal Reserve policy pricing forced cross-asset capital flows out of domestic risk proxies.",
+        "Direct central bank currency market intervention to maintain parity with the greenback.",
+        "A sharp contraction in domestic commodity production caused by importers substituting away from Australian natural resources.",
+        "An increase in local interest rates designed to match United States monetary tightening step for step."
       ],
       "a": 0,
-      "e": "Higher turnover reflects broadening institutional participation and better price discovery, validating the official exchange rate gains and narrowing the parallel market basis. The wrong option regarding a total ban ignores that arbitrage incentives and parallel spreads can persist."
+      "e": "Diverging monetary policy expectations drive yield differentials, causing capital to flow toward higher-yielding jurisdictions and weakening the domestic currency. The domestic central bank did not match the tightening."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Corporate strategy",
-      "q": "What is the core strategic rationale behind BHP Group's portfolio reweighting under its new leadership?",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What is the market implication of Saudi Aramco securing spot liquefied natural gas cargoes while crude production hits multi-year highs?",
       "o": [
-        "Prioritising copper expansion tests whether the market will rerate the equity for higher-margin volume growth to complement existing iron ore cash flows.",
-        "Liquidating all traditional mining assets to transition the enterprise exclusively into a digital software provider.",
-        "Completely exiting global commodity markets to focus entirely on domestic retail banking operations.",
-        "Abolishing all capital expenditure to maximize short-term dividend yields without regard to future asset depletion."
+        "It highlights a balancing act between domestic power burn constraints and international export commitments.",
+        "It proves that domestic hydrocarbon reserves are completely depleted, forcing reliance on foreign imports.",
+        "It signals an intentional strategy to phase out crude oil production in favor of natural gas extraction.",
+        "It demonstrates that internal power consumption has dropped to historic lows, freeing up export capacity."
       ],
       "a": 0,
-      "e": "The strategic pivot to transition metals like copper tests whether investors will rerate the stock for higher-margin growth alongside iron ore cash flows. The misconception that the firm is becoming a software provider misinterprets industrial portfolio reallocation."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Energy markets",
-      "q": "How do recent Joint Organizations Data Initiative reports complicate the near-term supply-demand balance for oil market analysts?",
-      "o": [
-        "Local production and export metrics reached multi-year highs even as global oil demand projections were revised downward due to geopolitical friction.",
-        "Global oil demand surged to record levels while domestic production was completely halted to preserve natural resource reserves.",
-        "State authorities completely stopped procuring liquefied natural gas cargoes because local power consumption dropped to zero.",
-        "Geopolitical conflict caused an instantaneous unification of regional output quotas across all global sovereign producers."
-      ],
-      "a": 0,
-      "e": "The data confirms rising domestic exports and production reaching multi-year highs against a backdrop of downwardly revised global demand forecasts due to geopolitical friction. The tempting wrong option about demand surging contradicts the actual briefing details regarding downward demand revisions."
->>>>>>> fe0a67f (Hourly updates, retry on transient AI errors, per-market news feeds)
+      "e": "Procuring LNG for domestic use while simultaneously exporting record crude volumes shows the state is managing internal energy consumption for power generation without sacrificing lucrative export quotas. Reserves are not depleted."
     }
   ]
 }
