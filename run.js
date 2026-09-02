@@ -21,11 +21,16 @@ const { buildBriefings, buildDigest, buildQuiz } = require('./summarise');
 const { PROVIDER, MODEL } = require('./ai');
 
 const DATA_DIR = path.join(__dirname, 'data');
+const HISTORY_DIR = path.join(DATA_DIR, 'history');
 const FILES = {
   briefings: path.join(DATA_DIR, 'briefings.json'),
   quiz: path.join(DATA_DIR, 'quiz.json'),
   state: path.join(DATA_DIR, 'state.json'),
+  historyIndex: path.join(DATA_DIR, 'history.json'),
 };
+
+// How many past days of briefings to keep on disk / offer in the picker.
+const HISTORY_DAYS = 45;
 
 const args = process.argv.slice(2);
 const FORCE = args.includes('--force');
@@ -154,14 +159,16 @@ async function main() {
 
   // ---- 6. write ----------------------------------------------------------
   console.log('\nwriting…');
-  writeJson(FILES.briefings, {
+  const payload = {
     generated: new Date().toISOString(),
     provider: PROVIDER,
     model: MODEL,
     digest,
     countries,
-  });
+  };
+  writeJson(FILES.briefings, payload);
   writeJson(FILES.quiz, quiz);
+  archiveDay(payload);
 
   state.hashes = { ...(state.hashes || {}), ...nextHashes };
   state.lastRun = new Date().toISOString();
@@ -169,6 +176,44 @@ async function main() {
 
   const seconds = ((Date.now() - started) / 1000).toFixed(1);
   console.log(`\nDone in ${seconds}s. ${Object.keys(countries).length} countries live, ${quiz.questions.length} quiz questions.\n`);
+}
+
+// ---------------------------------------------------------------------------
+// Keep a dated snapshot of each day's briefing so the site can offer "what
+// happened yesterday / the past few days". The hourly run overwrites today's
+// file, so it always holds that day's latest; once the date rolls over the
+// file is frozen. history.json is the lightweight index the front end reads.
+// ---------------------------------------------------------------------------
+function archiveDay(payload) {
+  const date = new Date().toISOString().slice(0, 10); // UTC YYYY-MM-DD
+  writeJson(path.join(HISTORY_DIR, `${date}.json`), payload);
+
+  fs.mkdirSync(HISTORY_DIR, { recursive: true });
+  const kept = fs
+    .readdirSync(HISTORY_DIR)
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort()
+    .reverse()
+    .slice(0, HISTORY_DAYS);
+
+  // Drop anything past the window.
+  for (const f of fs.readdirSync(HISTORY_DIR)) {
+    if (/^\d{4}-\d{2}-\d{2}\.json$/.test(f) && !kept.includes(f)) {
+      fs.rmSync(path.join(HISTORY_DIR, f));
+    }
+  }
+
+  const days = kept.map((f) => {
+    const d = f.replace('.json', '');
+    const snap = readJson(path.join(HISTORY_DIR, f), {});
+    return {
+      date: d,
+      label: new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }),
+      headline: (snap.digest && snap.digest.headline) || '',
+      countries: Object.keys(snap.countries || {}).length,
+    };
+  });
+  writeJson(FILES.historyIndex, { updated: new Date().toISOString(), days });
 }
 
 main().catch((error) => {

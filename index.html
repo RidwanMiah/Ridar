@@ -215,6 +215,13 @@
   .hist li{display:grid;grid-template-columns:82px 1fr auto;gap:12px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:13.5px;align-items:baseline}
   .hist li:last-child{border-bottom:0}
   .hist b{font-family:"Source Serif 4",serif;font-size:16px}
+  .pastlist{list-style:none;margin:10px 0 0;padding:0}
+  .pastlist button{width:100%;text-align:left;border:0;background:none;cursor:pointer;
+    padding:11px 0;border-bottom:1px solid var(--rule);display:flex;flex-direction:column;gap:3px}
+  .pastlist li:last-child button{border-bottom:0}
+  .pastlist button:hover .pd-head{color:var(--red)}
+  .pd-date{font:500 11px/1 "IBM Plex Mono",monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+  .pd-head{font-size:13.5px;line-height:1.4;color:var(--ink)}
 
   /* ---------- landing ---------- */
   #landing{position:fixed;inset:0;z-index:60;background:var(--beige);overflow:hidden;
@@ -559,6 +566,7 @@ let GLOSSARY = {
   deflation:{term:"Deflation", b:"Prices falling instead of rising. It sounds good, but it makes people delay purchases and makes debts harder to repay.", i:"A sustained fall in the price level. Damaging because it raises real debt burdens and, once expected, becomes self-reinforcing.", a:"A negative price-level trend that raises real debt service and pushes the real rate above neutral even at a zero nominal policy rate — the balance-sheet recession mechanism."}
 };
 
+let HISTORY = [];           // [{date, label, headline, countries}] newest first, from data/history.json
 let DIGEST = {
   date:"29 August 2026",
   headline:"Two central banks moved in opposite directions, and that is the whole story.",
@@ -1181,6 +1189,15 @@ function emptyPanel(){
         </div>
       </section>
 
+      ${pastDays().length ? `<section class="block">
+        <span class="mono">Earlier briefings</span>
+        <ul class="pastlist">
+          ${pastDays().slice(0,14).map(d => `<li><button data-day="${esc(d.date)}">
+            <span class="pd-date">${esc(d.label)}</span>
+            <span class="pd-head">${esc(d.headline || "Briefing")}</span></button></li>`).join("")}
+        </ul>
+      </section>` : ""}
+
       <div class="cta">
         <button class="btn" id="quizFromDigest">Take today’s quiz</button>
       </div>
@@ -1193,8 +1210,100 @@ function emptyPanel(){
   document.querySelectorAll(".lvlpick button").forEach(b =>
     b.addEventListener("click", () => setLevel(b.dataset.lvl)));
   document.getElementById("quizFromDigest").addEventListener("click", startQuiz);
+  document.querySelectorAll(".pastlist button[data-day]").forEach(b =>
+    b.addEventListener("click", () => renderHistory(b.dataset.day)));
   wireTerms(document.getElementById("panel"));
   syncLevelButtons();
+}
+
+/* ============ history ============ */
+const todayISO = () => new Date().toISOString().slice(0,10);
+function pastDays(){ return HISTORY.filter(d => d.date !== todayISO()); }
+
+const histCache = {};
+async function loadDay(date){
+  if(histCache[date]) return histCache[date];
+  const res = await fetch(`data/history/${date}.json`, {cache:"no-store"});
+  if(!res.ok) throw new Error("not found");
+  return (histCache[date] = await res.json());
+}
+
+async function renderHistory(date){
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  p.innerHTML = `<div class="empty"><p class="mono" style="color:var(--muted)">Loading ${esc(date)}…</p></div>`;
+  let snap;
+  try { snap = await loadDay(date); }
+  catch(e){ p.innerHTML = `<div class="empty"><p>That day’s briefing isn’t available.</p>
+    <button class="btn ghost" id="histBack">Back to today</button></div>`;
+    document.getElementById("histBack").addEventListener("click", emptyPanel); return; }
+
+  const d = snap.digest || {};
+  const meta = HISTORY.find(x => x.date === date) || { label: date };
+  const pick = o => (o && (o[level] || o.b)) || "";
+  const cs = snap.countries || {};
+  p.innerHTML = `
+    <div class="empty">
+      <button class="link" id="histBack" style="margin-bottom:14px">← Back to today</button>
+      <span class="mono">${esc(meta.label)} · archived briefing</span>
+      <h2 style="margin:8px 0 14px">${esc(d.headline || "Briefing")}</h2>
+      <p class="lede" style="font-size:15px;line-height:1.65;color:var(--ink);max-width:none">${pick(d.lede)}</p>
+
+      ${Array.isArray(d.items) && d.items.length ? `<section class="block">
+        <span class="mono">What moved</span>
+        <ul class="digest">
+          ${d.items.map(it => `<li>${cs[it.c] ? `<button class="chip" data-hc="${esc(it.c)}">${esc(cs[it.c]?.label || it.c)}</button>` : `<span class="chip" style="opacity:.6">${esc(it.c)}</span>`}<span>${esc(pick(it))}</span></li>`).join("")}
+        </ul>
+        ${d.thread ? `<p style="font-size:14px;line-height:1.55;color:var(--muted);margin:14px 0 0">${esc(pick(d.thread))}</p>` : ""}
+      </section>` : ""}
+
+      ${Object.keys(cs).length ? `<section class="block">
+        <span class="mono">Markets briefed that day</span>
+        <div class="quick" style="margin-top:0">
+          ${Object.keys(cs).map(n => `<button class="chip" data-hc="${esc(n)}">${esc(cs[n].label || n)}</button>`).join("")}
+        </div>
+      </section>` : ""}
+    </div>`;
+  document.getElementById("histBack").addEventListener("click", emptyPanel);
+  p.querySelectorAll("[data-hc]").forEach(b =>
+    b.addEventListener("click", () => renderHistoryCountry(date, b.dataset.hc)));
+  wireTerms(p);
+}
+
+async function renderHistoryCountry(date, name){
+  const p = document.getElementById("panel");
+  p.scrollTop = 0;
+  let snap;
+  try { snap = await loadDay(date); } catch(e){ return renderHistory(date); }
+  const c = (snap.countries || {})[name];
+  const meta = HISTORY.find(x => x.date === date) || { label: date };
+  if(!c) return renderHistory(date);
+  p.innerHTML = `
+    <div class="p-head">
+      <div>
+        <button class="link" id="histBack" style="margin-bottom:8px">← ${esc(meta.label)}</button>
+        <span class="mono">Archived · ${LEVEL_NAMES[level]}</span>
+        <h2>${esc(c.label || name)}</h2>
+        <p class="p-sub">${esc(c.sub || "")}</p>
+      </div>
+      <button class="close" id="closeP" title="Close">✕</button>
+    </div>
+    <section class="block">
+      <span class="mono">What happened</span>
+      ${(c.stories || []).map(storyHTML).join("")}
+    </section>
+    ${c.politics ? `<section class="block brief"><span class="mono">Political situation</span>
+      <p>${esc(c.politics[level] || c.politics.b || "")}</p></section>` : ""}
+    ${Array.isArray(c.timeline) && c.timeline.length ? `<section class="block">
+      <span class="mono">Recent events</span>
+      <ul class="timeline">${c.timeline.map(t => `<li><span class="mono">${esc(t[0])}</span><span>${esc(t[1])}</span></li>`).join("")}</ul>
+    </section>` : ""}`;
+  document.getElementById("histBack").addEventListener("click", () => renderHistory(date));
+  document.getElementById("closeP").addEventListener("click", emptyPanel);
+  p.querySelectorAll(".story .term").forEach(t => {
+    const g = t.closest(".story").querySelector(".gloss");
+    if(g) t.addEventListener("click", () => g.classList.toggle("show"));
+  });
 }
 
 function storyHTML(s){
@@ -1617,6 +1726,14 @@ async function loadLiveData(){
       if(qRes.ok){
         const quiz = await qRes.json();
         if(Array.isArray(quiz.questions) && quiz.questions.length) QUESTIONS = quiz.questions;
+      }
+    }catch(e){}
+
+    try{
+      const hRes = await fetch("data/history.json", {cache:"no-store"});
+      if(hRes.ok){
+        const h = await hRes.json();
+        if(Array.isArray(h.days)) HISTORY = h.days;
       }
     }catch(e){}
 
