@@ -1,18 +1,31 @@
 {
+<<<<<<< Updated upstream
   "generated": "2026-09-03T06:32:21.143Z",
+=======
+  "generated": "2026-09-03T08:26:04.310Z",
+>>>>>>> Stashed changes
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "3 September 2026",
+<<<<<<< Updated upstream
     "headline": "The Japanese yen strengthened past 158 per dollar as domestic bond yields hit records.",
     "lede": {
       "b": "The Japanese currency strengthened past 158 against the greenback as traders priced in potential interest rate hikes by the central bank. Higher domestic debt returns compressed interest rate differences between the United States and Japan. This shift triggered a reduction in short positions, which are bets that a currency will fall in value. The resulting dollar weakness propelled other regional currencies to multi-year highs.",
       "i": "The Japanese currency strengthened past 158 against the greenback as a hawkish repricing of rate expectations gathered pace. Higher domestic yields compressed interest rate differentials between the United States and Japan, triggering a reduction in short positions on the currency. Japanese <span class='term' data-t='gilts'>government</span> bond yields printed record highs as the domestic debt market absorbed the shifting monetary stance. The resulting dollar weakness propelled other regional currencies, such as the Chinese renminbi, to multi-year highs.",
       "a": "The Japanese currency strengthened past 158 against the greenback as a hawkish repricing of rate expectations gathered pace. Higher domestic yields compressed interest rate differentials between the United States and Japan, triggering a reduction in short positions on the currency. Japanese <span class='term' data-t='gilts'>government</span> bond yields printed record highs as fixed-income buyers recalibrated portfolios for tighter policy conditions. The resulting dollar weakness propelled other regional currencies, such as the Chinese renminbi, to multi-year highs, shifting cross-rate dynamics across foreign exchange markets."
+=======
+    "headline": "The yen surged as rate hike bets grew while the DAX fell and German inflation rose.",
+    "lede": {
+      "b": "The Japanese yen rallied 1.2% within an hour and pushed toward 158 against the greenback. This is the official American currency, which is widely used in global trade. Traders unwound carry trades, which are strategies where investors borrow cheap money in one country to invest where returns are higher. This happened because markets priced in higher borrowing costs from the central bank. Meanwhile, the German DAX 40 index fell to 25,839.33 as domestic inflation rose. Inflation is the rate at which the general level of prices for goods and services rises.",
+      "i": "The yen rallied 1.2% within an hour to trade near 158 against the dollar as <span class='term' data-t='carry'>carry trade</span> unwinding accelerated. Market participants priced in higher borrowing costs from the Bank of Japan, reviving currency intervention risks. In Europe, the DAX 40 index fell to 25,839.33 amid an industrial slowdown and rising <span class='term' data-t='inflation'>inflation</span>. German economic forecasts were simultaneously upgraded by the Bundesbank and DIW as exports beat expectations. Zalando stock dropped following a weak quarter and a rating adjustment from Goldman Sachs.",
+      "a": "The Japanese currency rallied 1.2% within an hour toward 158 per dollar as <span class='term' data-t='carry'>carry trade</span> liquidation accelerated for a second consecutive session. Implied rate hikes from the central bank revived currency intervention risks across domestic fixed income desks. In Germany, the DAX 40 fell to 25,839.33 amid an industrial slowdown, a crude oil jump, and rising <span class='term' data-t='inflation'>inflation</span>. The Bundesbank president and DIW upgraded growth forecasts on stronger-than-expected exports despite Middle East conflict pressures on Frankfurt equities."
+>>>>>>> Stashed changes
     },
     "items": [
       {
         "c": "United States of America",
+<<<<<<< Updated upstream
         "b": "S&P 500 futures climbed alongside declining bond yields ahead of an employment data publication.",
         "i": "S&P 500 futures climbed alongside declining bond yields ahead of a key employment publication.",
         "a": "S&P 500 futures climbed alongside declining bond yields ahead of a key employment publication, with Treasury yields approaching 5%."
@@ -40,12 +53,78 @@
       "b": "Currency movements and energy prices drove market developments across multiple regions today. The Japanese yen and Chinese renminbi both reached multi-year milestones against the dollar. Stock indices in London, Frankfurt, and New York reacted to shifting commodity costs and forthcoming economic data releases.",
       "i": "Foreign exchange markets experienced broad shifts as currency valuations and bond yields reacted to policy expectations. The Japanese yen strengthened past 158 per dollar, lifting the Chinese renminbi to a multi-year peak. Equity indices in Frankfurt and London retreated as crude oil prices exerted pressure on inflation expectations.",
       "a": "Foreign exchange markets experienced broad shifts as currency valuations and bond yields reacted to policy expectations. The Japanese yen strengthened past 158 per dollar, lifting the Chinese renminbi to a multi-year peak. Equity indices in Frankfurt and London retreated as crude oil prices exerted pressure on inflation expectations."
+=======
+        "b": "Nvidia dominated the S&P 500 market capitalisation amid an artificial intelligence sector boom while Royal Caribbean equity slid 9.4% over seven consecutive negative sessions.",
+        "i": "Nvidia dominated the S&P 500 market capitalization amid an artificial intelligence sector boom. Royal Caribbean equity slid 9.4% over seven consecutive negative sessions.",
+        "a": "Nvidia extended its concentration within the S&P 500 market capitalization driven by the artificial intelligence sector. Royal Caribbean equity fell 9.4% over seven consecutive negative sessions as momentum indicators deteriorated."
+      },
+      {
+        "c": "United Kingdom",
+        "b": "The FTSE 100 opened down 0.02% before edging slightly higher as lower oil prices and ongoing Iran war jitters weighed on market sentiment.",
+        "i": "The FTSE 100 opened down 0.02% before edging higher as lower oil prices on Trump remarks and Iran war jitters weighed on sentiment. Ithaca Energy confirmed it will join the FTSE 100 index on September 21.",
+        "a": "The FTSE 100 opened down 0.02% before edging higher as lower oil prices and Iran war jitters offset gains in Hilton Foods and a gold rally. Ithaca Energy confirmed its scheduled index inclusion for September 21."
+      },
+      {
+        "c": "Germany",
+        "b": "The DAX 40 index fell to 25,839.33 as German inflation rose and Zalando stock dropped following a weak quarter and a rating adjustment from Goldman Sachs.",
+        "i": "The DAX 40 index fell to 25,839.33 as inflation ticked up and Zalando shares dropped following a weak quarter and Goldman Sachs removing its conviction call.",
+        "a": "The DAX 40 fell to 25,839.33 as inflation rose and Zalando dropped after a weak quarter and a Goldman Sachs conviction call removal."
+      },
+      {
+        "c": "Japan",
+        "b": "The Nikkei posted a one-month closing low as domestic equities absorbed rate and foreign exchange uncertainty.",
+        "i": "The Nikkei posted a one-month closing low as domestic equities absorbed rate and foreign exchange volatility driven by US official remarks.",
+        "a": "The Nikkei posted a one-month closing low as domestic equities absorbed rate and foreign exchange volatility driven by contrasting US official remarks."
+      },
+      {
+        "c": "China",
+        "b": "The Chinese yuan touched a three-and-a-half-year high against the greenback while state planners set a 7-trillion-yuan valuation target for the domestic sports industry by 2030.",
+        "i": "The Chinese yuan touched a three-and-a-half-year high against the dollar as authorities rejected G20 trade-imbalance claims. State planners set a 7-trillion-yuan valuation target for the sports industry by 2030.",
+        "a": "The Chinese yuan touched a three-and-a-half-year high against the dollar as authorities rejected G20 trade-imbalance claims. State planners set a 7-trillion-yuan valuation target for the domestic sports industry by 2030."
+      },
+      {
+        "c": "India",
+        "b": "The Reserve Bank of India conducted overnight variable rate reverse repo auctions where banks parked ₹5,18,742 crore and ₹34,652 crore at a 5.24% cut-off rate.",
+        "i": "The Reserve Bank of India conducted overnight variable rate reverse repo auctions, absorbing ₹5,18,742 crore and ₹34,652 crore at a 5.24% cut-off rate.",
+        "a": "The Reserve Bank of India conducted overnight variable rate reverse repo auctions, absorbing ₹5,18,742 crore and ₹34,652 crore at a 5.24% cut-off rate."
+      },
+      {
+        "c": "Brazil",
+        "b": "Bradesco ADRs climbed 3.9% supported by the real's strength in foreign exchange markets and Petrobras gained after JP Morgan lifted its price target to $24.",
+        "i": "Bradesco ADRs climbed 3.9% as the real strengthened in foreign exchange markets. Petrobras gained after JP Morgan lifted its price target to $24 following ANP July 2026 production data.",
+        "a": "Bradesco ADRs climbed 3.9% on real strength in foreign exchange markets. Petrobras gained after JP Morgan lifted its price target to $24 alongside ANP July 2026 production data of 5.851m barrels of oil equivalent per day."
+      },
+      {
+        "c": "Saudi Arabia",
+        "b": "August data revealed that the Saudi non-oil private sector growth achieved a six-month high driven by output and new orders.",
+        "i": "August data revealed that Saudi non-oil private sector growth achieved a six-month high driven by output and new orders. Wa'ed Ventures invested in COFE Tech ahead of an upcoming initial public offering.",
+        "a": "August data revealed that Saudi non-oil private sector growth achieved a six-month high driven by output and new orders. Wa'ed Ventures invested in COFE Tech ahead of an upcoming initial public offering."
+      },
+      {
+        "c": "Nigeria",
+        "b": "The naira climbed to a two-year high of N1,326.69 against the dollar as increased dollar liquidity drove the currency to its strongest run since 2018.",
+        "i": "The naira climbed to a two-year high of N1,326.69 against the dollar. Central bank policy reforms lifted remittance inflows from $250m to $947m.",
+        "a": "The naira climbed to a two-year high of N1,326.69 against the dollar. Central bank policy reforms lifted remittance inflows from $250m to $947m while private sector credit expanded to N83.43tn."
+      },
+      {
+        "c": "Australia",
+        "b": "The ASX 200 recovered from a three-and-four-day slide as major lenders including the Commonwealth Bank of Australia and National Australia Bank pushed the index higher.",
+        "i": "The ASX 200 recovered from a three-day slide as major lenders including the Commonwealth Bank of Australia and National Australia Bank drove gains. DUG Technology posted US$68m in contracted work.",
+        "a": "The ASX 200 recovered from a three-day slide as major lenders drove broad gains. DUG Technology posted revenue growth alongside US$68m in contracted work for the 2026 financial year."
+      }
+    ],
+    "thread": {
+      "b": "Central bank policy shifts and currency movements drove significant market adjustments across multiple global regions today. Major equity indexes reacted to shifting economic forecasts and commodity price fluctuations.",
+      "i": "Central bank policy adjustments and foreign exchange volatility shaped regional asset prices today. Shifting rate expectations and commodity fluctuations drove equity movements across multiple international jurisdictions.",
+      "a": "Monetary policy adjustments and foreign exchange volatility transmitted across global asset classes today. Shifting rate expectations, central bank operations, and commodity repricing dictated cross-border equity performance."
+>>>>>>> Stashed changes
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
+<<<<<<< Updated upstream
       "sub": "Wall Street futures rise ahead of jobs report",
       "ind": [],
       "stories": [
@@ -69,10 +148,35 @@
           "a": "The exchange operator flagged Reborn Coffee for failing to submit required periodic filings within the mandated window. Listing status preservation depends on the subsequent remediation and submission of financial statements. Market surveillance units kept the security on standard monitoring protocols.",
           "links": [
             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmg0YU5sbjE1V1I2TVRIYXJlTmU5X291VWY2LU1NdnVobzYyOEpwSFl0emdjTjNCZi1RcHVsTERTUENiNzgxU0VINkY4QVdTZ1U0TFlLdFpzMk5NUUE1UjI2OFVrYmZBay1kNkRSWlVOSHhSNnZEaHhSZXFzUHB1YkF5R3pvOVlONk1wTjlBMEdfZWtzUkFjSXZ4eEpLcEdLeTZCcl9DM1g1SVc3V3FHcGcwMm5HRGRk?oc=5"
+=======
+      "sub": "Nvidia market cap and Royal Caribbean share slide",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Nvidia Dominates S&P 500 Market Cap",
+          "src": "GuruFocus",
+          "b": "Nvidia leads the S&P 500 index. An index is a group of company shares tracked together to show how the market is doing. Nvidia grows its market value during the AI boom. The AI boom is a period of fast growth for artificial intelligence technology companies. Nvidia reaches a dominant position in the S&P 500.",
+          "i": "Nvidia dominates the S&P 500 <span class='term' data-t='inflation'>market</span> capitalization. The artificial intelligence sector boom drives this valuation surge. Nvidia expands its dominant position within the benchmark index. Market participants track this concentration of value.",
+          "a": "Nvidia commands an outsized proportion of the S&P 500 market capitalization. Secular tailwinds from the artificial intelligence infrastructure buildout accelerate this valuation expansion. Passive index weighting mechanics amplify capital flows into the name. This equity concentration presents specific tail-risk scenarios for broad-market benchmarks.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEhydjRuVjAwR0F6NC15R2h1NXk2TFkyenpTV0Q3T1g0V253TFdlZFZTbHQxRG1YdDlJVk01V0JBaGpCaktoa1liR1RLcWx1M0h2RmRkYjRfaWJSRF9kTHpwYThqVWxQM2pLb0pSU2tTUDJsbkVDai1TUUIxYTViSmNTLVlxTUdPc1JVTWN3WDRBM3JYRUE?oc=5"
+          ]
+        },
+        {
+          "t": "Royal Caribbean Shares Slide",
+          "src": "Trefis",
+          "b": "Royal Caribbean stock drops by 9.4%. The share price falls over seven straight down days. The company is a cruise line operator. Investors see the stock price fall continuously for seven sessions. Royal Caribbean records this multi-day decline.",
+          "i": "Royal Caribbean equity slides 9.4%. The stock records seven consecutive negative sessions. Sellers pressure the cruise operator's valuation over this period. Momentum indicators deteriorate as the price drops.",
+          "a": "Royal Caribbean shares pull back 9.4% across seven consecutive negative closes. Short-term distribution overtakes accumulation in the order book. Trend-following algorithms react to the multi-session drawdown. The equity establishes a lower near-term range.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxPclBYZTQ3T0RJMXEySl9qSUNhTWQ2UlBRNE5oZldjZ1ZVVUUtb3ctTWxFd0xRekFJVFFSb1pfVUUzQ2RNc0dNU1Ywa1NJbVdtNHd5UW9OTlZnT0FpVGQ0RlNIYmg1NWgyc0lkUV9UMkxUTXgyX2tuc0NySVg2c2NraEVlV2M1S3lRdWJzSno3ZGgtYnZ1X05jTDA3a093TFpXSHlDNUNtSl9XbmZVZXZMQW5tc0pKSDl2WFE?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Representative Kevin Hern unloaded shares in Honeywell Aerospace. Lawmakers must disclose stock transactions under congressional rules. Financial reports revealed the asset sale by the congressional member.",
         "i": "Representative Kevin Hern divested holdings in Honeywell Aerospace according to regulatory disclosures. Congressional stock transactions draw scrutiny from ethics watchdogs and market observers alike. The filing detailed the reduction of equity exposure in the aerospace sector.",
         "a": "Legislator Kevin Hern executed a divestment of Honeywell Aerospace equities, logged via statutory financial disclosures. Congressional trading disclosures offer portfolio insights into legislative asset allocation. Market participants track these filings for potential sector sentiment shifts.",
@@ -91,12 +195,31 @@
         [
           "3 Sep",
           "Representative Kevin Hern unloads shares in Honeywell Aerospace."
+=======
+        "b": "Top United States officials make remarks that catch the yen. The yen is the currency used in Japan. Currency traders react to statements from Washington. The exchange rate moves based on these official comments.",
+        "i": "Top United States officials deliver remarks affecting the yen. Foreign exchange traders adjust positions following the commentary. The currency pair reacts to official rhetoric from Washington. Market participants monitor the policy signals.",
+        "a": "Top United States officials issue commentary influencing cross-rate volatility. Foreign exchange desks reprice currency risk premiums in response to the statements. Rate differentials and official rhetoric dictate the intraday price action. Macro accounts adjust positioning ahead of further official guidance."
+      },
+      "timeline": [
+        [
+          "3 Sep 2026",
+          "Nvidia dominates S&P 500 market cap amid the AI boom."
+        ],
+        [
+          "3 Sep 2026",
+          "Royal Caribbean stock slides 9.4% over seven straight down days."
+        ],
+        [
+          "3 Sep 2026",
+          "The yen is caught between top United States officials' remarks."
+>>>>>>> Stashed changes
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
+<<<<<<< Updated upstream
       "sub": "FTSE drops on oil and blockchain initiative",
       "ind": [],
       "stories": [
@@ -120,10 +243,38 @@
           "a": "London Stock Exchange Group and the parent entity of Kraken integrated blockchain rails for FTSE 100 asset representations. Distributed ledger architecture alters custody chains and collateral mobility. Smart contract execution alters clearing workflows. Tokenised public equities reprice settlement risk across alternative venues.",
           "links": [
             "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFdpSWItUmNBOTJHRFBQZWliOU85aWUwWE1hME1oVUcza3lvYXQ5enZkNmM1alhQNHg5cHRoQ0c0akRCZk1aUzVCaXUzVWFIY1RPUUI5V0hHWkp5ZmttSktkTjVzUWxGUzlHTGNXMk5aMmdMNmdUQlljaTRzQS1BeGRxYXREQjg1M2p6S2JGLUdIa2F2MXBNNHdrcjZpbU53U2JsWnhtWGVERExVLVkwcHVtT2lhYWFib3RnU1ZKcnU0eTg?oc=5"
+=======
+      "sub": "FTSE steady as indices await data and oil falls",
+      "ind": [],
+      "stories": [
+        {
+          "t": "FTSE Steady Amid Commodity Shifts and Global Jitters",
+          "src": "AskTraders · marketscreener.com · TradingView",
+          "b": "The main stock market index in London stayed relatively calm. Oil prices dropped following remarks made by Trump. A gold rally helped balance out concerns about a war involving Iran. Housebuilders saw their share prices slide, while Hilton Foods experienced a surge.",
+          "i": "The FTSE 100 opened down 0.02% before edging slightly higher. Lower oil prices on Trump remarks and ongoing Iran war jitters weighed on sentiment. A gold rally and a surge in Hilton Foods helped offset declines in housebuilders.",
+          "a": "The FTSE 100 opened essentially flat at a 0.02% decline, underpinned by conflicting macro crosscurrents. Oil weakness driven by remarks from Trump interacted with Iran war jitters, while a gold rally provided a safe-haven offset. Housebuilders experienced notable downward pressure against a surging Hilton Foods.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFcyNGZEY1hqSTBBSWUzM0pPVzlBeFFzLU02UEdaLUNPNTVRYkRxWHlhWk9GYi1QdEhzcVJyeHFjejM1bkEwODhCLTByaVpDcmVfTWFBblVTTUQ3ZWkwcjdGaWNPT21uaXJVUmd4MGJ6SWM5a0QtV2x1TEl6Mm1teFhsTkg0R3ZFOXUxZlF2S3ZLQ3FPenVyY0FLTEUwWlRpTFQ0Nlk3TzJNRFZSX2tnc0lOc1VvcWJyd0FkRQ?oc=5",
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzEzWVpvcnoyR0d0ZHJMX1duSnN3X1JSdmNXeEtka0IyTTdIRjVncUtpLXR2SWt5UUhsdnBYTklkdHZQclBvVmtpVHptR0QtOWtSY3RCWnptYlVOODdrRlpqa0ZNWTNBR1c5T2tmUVZKLVVsZ2Z1UlE4V0Nsbi1WY0dYVXNOQVlETFQ2OTRvc041cXhMbTdXVGEzcw?oc=5",
+            "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVRIOHF2SmtSdFB1aGpyZW43NUZKYWNLNGU5ZkdNNGw4akg3VGZ5dGNNMFFoU3VkSWJBd19RREZfcWR5LXcxOGVqdm9BUlB4aDhMS3ZxRmF5YzRmcXdTdnJxTDNQODY1UW9wMy1zTUw5T2Z5Qy15Rzg4SnY0bnAwSXotQTcySFo1FjZDZlFCMA?oc=5",
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdkZ5UlY4VkRFVzhtLU1Gc3RhRnJ5SjVVNDcxS0w5N2Z4djR4dktHdlF0VTRqcVQ3Z1BtX1ZyWFlxaGEtc3RsWGhDRHNwdGw0MjdIYjh1Vlg0WUdmMExCeWg2NVUzQlNaWFJzZHRuRWlxZkk5c2VYM2NXY1EwS2ZseG5rWms2VDJPX0tZOFJKbG9mNy1pYWdxdXpYREl0dDA4ZDdYTDJZbzg3OU53TFdBMGpVSUMwemgzR0tLTjlhWDRSakVqMm1fTA?oc=5"
+          ]
+        },
+        {
+          "t": "Ithaca Energy Confirms Spot on FTSE 100 Index",
+          "src": "Pluang · Yahoo Finance UK",
+          "b": "A company called Ithaca Energy will join the biggest stock market index in London. This change will happen on September 21. This move was officially confirmed.",
+          "i": "Ithaca Energy confirmed it will join the FTSE 100 index. The inclusion is scheduled to take effect on September 21.",
+          "a": "Ithaca Energy secured official confirmation for its upcoming inclusion in the FTSE 100. The transition into the large-cap index is slated for September 21.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMGJhNVA4amItNXUwR3VOdUhGNnBQUzBsMThHM1J2ZFZ1Tjhya1FmakNacWFmb3FlRE12SUM4bVJ2bXFFRzVyWm40VGZHdTlIM2FQT284ajV1UVAwZFlVam92QURUVXU2LU5MdA?oc=5",
+            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVYyQ3lIVnZuZklqc3hXZmFZMGkwckJXYlIyZ04wLUxKa3hMOUE5Y01vTlJCZVZJb0dSb1d3QU1RdWRvVG5rZUNPeWxVWG9GdC14TjlkQm9RelJvblI0bHJ6dHptc3hDdmcwUk5yMzR0SzZhS1FZamJmUXlXM2hzME1HUFU4ZzNZ?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Government leaders faced questions regarding the technology gap within public administration. Officials emphasized that capacity constraints matter more than pure budgetary allocations. Public sector digital upgrades require operational resources rather than simple funding increases. Technology deployment speeds depend on internal engineering bandwidth.",
         "i": "State authorities confronted criticism over public sector technological delivery capacity. Bureaucratic execution limits outweighed headline spending allocations in determining digital progress. State IT modernization depends on internal engineering throughput rather than nominal budget expansion. Procurement bottlenecks restricted administrative modernization timelines.",
         "a": "Executive leadership addressed structural technology deficits framed around operational delivery constraints. Fiscal headroom proved secondary to human capital and execution bandwidth in digital procurement. Public IT absorption capacity bounded capital expenditure effectiveness. Bureaucratic friction constrained technology integration velocity across government agencies.",
@@ -150,12 +301,27 @@
         [
           "3 Sep",
           "Oil price gains add to investor worries on London exchange"
+=======
+        "b": "Political discussions focus on budget challenges and upcoming leadership changes in Britain.",
+        "i": "Britain faces mounting budget pressures that threaten political honeymoons.",
+        "a": "Fiscal pressures compound domestic political friction as budgetary challenges strain the administration."
+      },
+      "timeline": [
+        [
+          "3 Sep",
+          "Ithaca Energy confirms its spot on the FTSE 100 index for September 21"
+        ],
+        [
+          "3 Sep",
+          "FTSE 100 opens 0.02% lower as markets eye upcoming PMIs and trade data"
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
+<<<<<<< Updated upstream
       "sub": "German equities retreat as export forecasts receive upward revision",
       "ind": [],
       "stories": [
@@ -180,10 +346,48 @@
           "links": [
             "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzdHcFNuU3J5MVZ3SG9JRDJEWDlZZXVoUGdSdXA5MkUxbUM5dVY3Wk9qRHRMZlNlRmFjTlV0ZHJzVVhCYU92ME1LMXNCWUxDLVp0Ym8wUFNFUjBpdUZOOXF0b3oxTnlYV2JfNExVa3U2ejVTSkp0ZW5NY0s3YkVWUmJveU9fMzZGcmxZaHJjbM1yRGtYaE1GV2Z1T2s5SWVPclJj?oc=5",
             "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjl0bVkxZ29sYzZrQnQzbEZaV1lRb0NWUEhjZDVkRDZETnFUWmVNazJFUXdkRUtnMkxjSjVUNzhJcTRSMzlaVzRVakZ5QWxVNXo2UXZ3ZmdWWWNod1hPUFpIYzlyTTVtYXJYUEJmdU9vVDNWZC1IYlVackdRaWM2eWJGUXpGTHZhamZQN21RandKTkJIb3lfZGk5ODRQTnBreXpFU0VJNVcydw?oc=5"
+=======
+      "sub": "German inflation ticks up while equities drop",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Frankfurt Stocks Decline as Inflation Rises",
+          "src": "WSJ · BBN Times",
+          "b": "Frankfurt stocks dropped to 25,839.33 points. The DAX index tracks the 40 largest companies in Germany. Prices went up for German goods. This rate of price growth is known as inflation. Crude oil prices also jumped.",
+          "i": "The DAX 40 index fell to 25,839.33 amid an industrial slowdown and a crude oil jump. German <span class='term' data-t='inflation'>inflation</span> rose, though reports noted few signs of energy-shock spillover. Middle East conflict added pressure to Frankfurt shares.",
+          "a": "Frankfurt stocks retreated to 25,839.33 as a crude oil jump and an industrial slowdown weighed on sentiment. German <span class='term' data-t='inflation'>inflation</span> printed higher, though underlying data showed limited energy-shock transmission. Middle East geopolitical risk compounded pressures from regional industrial sluggishness.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjl0bVkxZ29sYzZrQnQzbEZaV1lRb0NWUEhjZDVkRDZETnFUWmVNazJFUXdkRUtnMkxjSjVUNzhJcTRSMzlaVzRVakZ5QWxVNXo2UXZ3ZmdWWWNod1hPUFpIYzlyTTVtYXJYUEJmdU9vVDNWZC1IYlVackdRaWM2eWJGUXpGTHZhamZQN21RandKTkJIb3lfZGk5ODRQTnBreXpFU0VJNVcydw?oc=5",
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlYzR2VGSDVfMWhsMWNpUUxpZ0tmMHI0V0dhTDZFR2hQdDRuSG94Y2pLdFRPcEJyWGJwSzNXM0IzdlFBTFNhaTRSVXZhTkhsYzJOWjBLWjdzSWMteF8zbnJRVmJKNm1DNU5VZlptai1GYVhFckRtVTVMNmg2NFZaVms1S0xWSFpzRDlJT2lHRTBRcWIwNUNSNnFMLVV3azJYYUNaMUs4YXdKSFdtb2swN2hQVVFGa0ZyOFd1MFZKT01KWlRndFFHQjVORnFELThPdXRTcE94cFc?oc=5"
+          ]
+        },
+        {
+          "t": "Bundesbank and DIW Issue Economic Forecasts",
+          "src": "Ghana Business News · WKZO",
+          "b": "The Bundesbank president expects stronger economic growth for Germany. Exports beat previous expectations. The DIW raised its economic growth forecasts based on these numbers.",
+          "i": "The Bundesbank president projected stronger German economic growth. DIW subsequently raised German economic growth forecasts because exports beat expectations.",
+          "a": "The Bundesbank president issued an optimistic outlook for domestic economic activity. DIW upgraded its German economic growth forecasts following export figures that exceeded prior expectations.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNmxxeFVlYXo4NWxrTlI4SV9LN3gwTDF3WXgxYmt1TEpjWnFWcHpWLVltdDg0a0tTOGRSWmI0UHVFQVJ4TlVma3pUVnFrcEZHel9rMGJ2S0ZWSE9OQVlveG9FQnBZZmExdW1Tb2ZWNlZ0dEU5TFFvaU1UUzhCS3l2NVBJQmtRUkN4VHJzdDFLdjd1Ty1lNFZCbmVveEwtaEkxcmh6SVJES3NEQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzdHcFNuU3J5MVZ3SG9JRDJEWDlZZXVoUGdSdXA5MkUxbUM5dVY3Wk9qRHRMZlNlRmFjTlV0ZHJzVVhCYU92ME1LMXNCWUxDLVp0Ym8wUFNFUjBpdUZOOXF0b3oxTnlYV2JfNExVa3U2ejVTSkp0ZW5NY0s3YkVWUmJveU9fMzZGcmxZaHJjbS1yRGtYaE1GV2Z1T2s5SWVPclJj?oc=5"
+          ]
+        },
+        {
+          "t": "Zalando Shares Slide After Goldman Recommendation Change",
+          "src": "AD HOC NEWS",
+          "b": "Zalando stock fell after a weak quarter. Goldman Sachs dropped its conviction call on the company. Deutsche Börse stock held firm while the DAX hovered below 26,000 points.",
+          "i": "Zalando stock dropped following a weak quarter and a rating adjustment from Goldman Sachs. Goldman Sachs dropped its conviction call on the retailer. Deutsche Börse shares held firm as the DAX hovered below 26,000.",
+          "a": "Zalando equities declined after a weak quarterly report and the removal of a conviction call by Goldman Sachs. Deutsche Börse shares demonstrated resilience as the DAX index hovered below 26,000.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDdpRTRENGxnbi1Ob1RkZ3FjNEZQSGQyU2UtcEkzdVBob2taTEdKcXNFRXRWWXl5U0lpZkJLLWRuX0FSSVQ0Xy01ODE0ZC1Ob3laSXZTLXpLVVlkdS15N1J1ZDcwNVZJUnJDQTJXV3lWYVpfRFNFRFpMdkxFdktSXzFHaTVucFQwOEo0bDhJeFNVdEZUR19aYkZLU3g1FmVXWjBIcURlMXpCYWJTcDdaZUpZRDRWU2UxcXlLN3dEaW0wZ0JNM0o2WjJLS01vNUtD?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM1ZLLVpBeGpRQUJtWUJIZWxScmszMGdjSE5fb2J4MnU5LThWRTd6X3dTdmJLWUcyUGQyd2k0LTRKMzVtSHZnekpYZDE3aXlTTTMtSmlpcnpHbE1jSUNTNEZNMVJmVUwzZHdmZTR4VEZMemFYV3UwcTl4c0FDeE5nbzA4NVRkOElsSURtcmJmOG9jOTAxVHdqeGwyalkxNlA5R2E0WTJKak5jbWstQjJxYkZCZHZQV2d1WnBsTDRrVQ?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "German economic institutions adjusted their growth predictions. Export sectors performed better than anticipated. Government officials monitored domestic price trends.",
         "i": "German economic institutions adjusted their growth predictions. Export sectors performed better than anticipated. Government officials monitored domestic price trends.",
         "a": "German economic institutions adjusted their growth predictions. Export sectors performed better than anticipated. Government officials monitored domestic price trends."
@@ -196,12 +400,37 @@
         [
           "03 Sep",
           "German inflation rises with few signs of energy-shock spillover."
+=======
+        "b": "German officials discussed economic forecasts and price increases.",
+        "i": "German institutions released updated growth forecasts and inflation data.",
+        "a": "German economic policymakers updated growth projections amid fluctuating regional activity metrics.",
+        "sources": {
+          "0": {
+            "outlet": "Ghana Business News",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNmxxeFVlYXo4NWxrTlI4SV9LN3gwTDF3WXgxYmt1TEpjWnFWcHpWLVltdDg0a0tTOGRSWmI0UHVFQVJ4TlVma3pUVnFrcEZHel9rMGJ2S0ZWSE9OQVlveG9FQnBZZmExdW1Tb2ZWNlZ0dEU5TFFvaU1UUzhCS3l2NVBJQmtRUkN4VHJzdDFLdjd1Ty1lNFZCbmVveEwtaEkxcmh6SVJES3NEQQ?oc=5"
+          },
+          "1": {
+            "outlet": "WSJ",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjl0bVkxZ29sYzZrQnQzbEZaV1lRb0NWUEhjZDVkRDZETnFUWmVNazJFUXdkRUtnMkxjSjVUNzhJcTRSMzlaVzRVakZ5QWxVNXo2UXZ3ZmdWWWNod1hPUFpIYzlyTTVtYXJYUEJmdU9vVDNWZC1IYlVackdRaWM2eWJGUXpGTHZhamZQN21RandKTkJIb3lfZGk5ODRQTnBreXpFU0VJNVcydw?oc=5"
+          }
+        }
+      },
+      "timeline": [
+        [
+          "2 Sep 2026",
+          "DIW raised German economic growth forecasts after exports beat expectations."
+        ],
+        [
+          "3 Sep 2026",
+          "Bundesbank president expected stronger German economic growth."
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
+<<<<<<< Updated upstream
       "sub": "Yen surges past 158 as traders price in rate hikes",
       "ind": [],
       "stories": [
@@ -226,24 +455,63 @@
           "links": [
             "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
             "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUXNSSENjVFctLTNqcDhnU1o0MVFsWHJ3MlItSDZ4QVhtZVBlUXVoSEtDdko4bUxieUdzZWRHbEthWS1PLVk4YVlqelhaWmNKSmk5Y3FHWnd2YWV3NG9j?oc=5"
+=======
+      "sub": "Yen surges as rate hike bets and intervention risks grow",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Yen Spikes Sharply Across Global Markets",
+          "src": "MarketForces Africa · Investing.com · TradingView",
+          "b": "The Japanese currency, called the yen, jumped 1.2% in a single hour. It surged toward 158 per US dollar. The currency climbed for the second straight day. Traders increased their bets that Japan's central bank will raise interest rates.",
+          "i": "The yen rallied 1.2% within an hour, driving toward 158 against the greenback. <span class='term' data-t='carry'>Carry trade</span> unwinding accelerated as the currency extended gains for a second consecutive session. Market participants priced in higher borrowing costs from the central bank, reviving currency intervention risks.",
+          "a": "Intraday momentum drove the yen up 1.2% inside an hour toward the 158 handle against the US dollar. Position liquidations in short-funded structures compounded spot gains as rate-hike probabilities repriced aggressively. The sudden appreciation compressed risk appetite across regional peers and compressed equity multiples.",
+          "gloss": "carry",
+          "links": [
+            "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLW91XzcyazRmY3hVWnB3T2IzU0VlaGpUSHBqMWRRUkpBbnNqODFrNW5acTl6OWtuWWItcGNhNXNuRHVfLUcyWkkxWGN3QmJwdVcwM2k3dGVlRUl5eW5DeFN1YUh1ZEMwRG5INTBleFJuSkxpMWNDTDB0a3BkZldFUUszb1pqaTRsS0ZFbmVaMVFrZw?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTThMWkJtTmNobU5TbG13LTBxZUFnb3dGcmRnSnpZZTNWQUhtTzQ5b2JkRk1LMEd6UENLa0U2T3lHMGpYdkhHM2hxUGxxakVIdEFwU20tbVF4MU1VaEMwXzFLUXAyX3ltRElmLWRidEdsT3hnLUxzTVVFbUdmclU0M2U0M0J0YzFPQklDNEtRTERUbVlWSGdaNDRoenZlXzlGU2RvR2JPVTl5WXVsY2N0d29la3lhc0JBR2dxZDFDaw?oc=5",
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSE9lQWxQNjFFYmIxRXF2cWdUTGhyY2FTWVdyeUZaUjBjOVBqZUI4UTVacF84NjY0NWRmM3dzVlU0UlBOUlZHbzNialJBWXhSbmxLRXNaNkJGeEhLSmlvS2VzYjk5dzYtRGp3QXdQc29JZGpvZ0xVd0xLczZPTUotSnB1WTVjSUdsVTFKM1NB?oc=5"
+          ]
+        },
+        {
+          "t": "Nikkei Hits One-Month Low Amid Currency and Rate Volatility",
+          "src": "The Business Times · WSJ · marketscreener.com",
+          "b": "Japan's main stock market index, the Nikkei, dropped to a one-month closing low. Stock prices fell because investors worried about changing interest rates and foreign exchange shifts. Top US officials also made remarks that caught the yen in the middle.",
+          "i": "The Nikkei posted a one-month closing low as domestic equities absorbed rate and foreign exchange uncertainty. Japanese shares retreated alongside currency volatility driven by contrasting remarks from top US officials. Local market sentiment deteriorated as monetary policy expectations shifted.",
+          "a": "Domestic equities suffered under dual FX and policy headwinds, pushing the Nikkei to a one-month closing low. Cross-asset correlations tightened as local shares reacted to the external friction of conflicting US official commentary regarding the exchange rate. Implied volatility in local equities spiked alongside currency re-pricing.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMi1EbVFFT2czMHhfWnFlZGVyTmxpZDRxZWx5VTg2ZXp1ZmZ6cEhpNmg4WGlLZnBSc0c4aGptYkFLR0IteC03VVZzcEJTY253Q1Zhd251Q3FFNFRiSm5tdEJCSXdtRm4zeUo3emVUbGV2RlVqWWVDa1l5TUY4TDZtVklreXdoSlV1SHpWdnBjdUFObldBVWREV3MtYXF5QkNteHoxV0ZXaDlFc0hPbC1BUENn?oc=5",
+            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmZyUEFWT1BPRU1EZnZvY0E1aU9jYm5WdEl0YVNpUWQ1VVdlbFhSVGd3OVpGQkM3V0JqM2h1U2VpaE1SeVlydV9TRDhCU0tlemhTS2ZsWl9mSUpUZXdMeE05Q1puSXk2RlU2U2JncFBEbUx0X3JadVk1dFdvbVBDb1IyVmdlVGJ5?oc=5",
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVNMNmtmY0tWcklPOXNiZnJ2MS1qMjhwM0RFclU1X3FXRFNTWndBZGItRk9PbFBsTjJMRUI1aWVMZXdGNDlkS2RsaW5LcEMxVHc4clRSd3BVc1ppanllZk5ieGl2ZUI4Z1QycXJuUW81LS1BME1sMldFUVNLWUozRmZLUmJtVjJyV2xXYzRtRHJaSnR5QkJ0U3Y4Z29tMGJoSUlBdXpDR1dfTDdyVjkzQXoyNHlRMzA0NlE?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Political leaders faced questions regarding the economic impact of a stronger national currency. Policy makers monitored financial markets closely as borrowing cost expectations shifted. Officials balanced currency strength against export competitiveness.",
         "i": "Policymakers evaluated the transmission channels of currency appreciation on export-driven sectors. Fiscal authorities coordinated surveillance with monetary officials as market pricing diverged from official guidance. Government representatives addressed the domestic cost implications of shifting yield curves.",
         "a": "Executive branch officials monitored the foreign exchange rate as import cost dynamics shifted domestically. Treasury representatives assessed the fiscal impact of rising sovereign debt yields on debt-servicing costs. Regulatory bodies coordinated surveillance protocols across currency and fixed-income desks."
+=======
+        "b": "Top US officials made official remarks that caught the Japanese currency in the middle. Markets reacted to these statements alongside domestic interest rate questions. The currency movements affected other regional currencies like the Korean won.",
+        "i": "Verbal interventions and remarks from top US officials left the yen caught in crosscurrents. Regional authorities monitored the spillover as the Korean won touched a 14-month high against the US dollar. Domestic monetary policy decisions remained tied to these broader foreign exchange pressures.",
+        "a": "Bilateral policy friction intensified as the currency caught conflicting signals from senior US officials. Spillover effects reached regional FX desks, driving the Korean won to a 14-month high against the dollar. The transmission mechanism linked external official commentary directly to domestic monetary tightening odds."
+>>>>>>> Stashed changes
       },
       "timeline": [
         [
           "3 Sep",
+<<<<<<< Updated upstream
           "Yen strengthens past 158 per dollar as rate hike bets intensify."
+=======
+          "Yen spikes 1.2% in an hour toward 158 against the dollar"
+>>>>>>> Stashed changes
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
+<<<<<<< Updated upstream
       "sub": "Yuan reaches 3.5-year high and firms raise debt",
       "ind": [],
       "stories": [
@@ -256,10 +524,25 @@
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHhxeDU3aEpWTjVyU2RPNDBJb205ZVAyWnZjR0llMTlNZUE2U0VCWkt3QWkwTHJIWmxaV3ljUXpDYmNNSTBjMW1HdUt2OGFGWDkyNnM3VlBHbDV4OGUzaWtwLU9TVDZ1SExMaVg0WEJjRGRuaVBma3dlNDVyWGpRWGZZUE9uN0k1N0hfeXFHUlZGVDBEdFd2V25zSVdzbFNLSGNybjk4cVFnNTk4?oc=5",
+=======
+      "sub": "Yuan hits multi-year high, sports sector and tech targets set",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Yuan Reaches Multi-Year Peak as Authorities Push Back on Trade Claims",
+          "src": "South China Morning Post · KLSE Screener",
+          "b": "The Chinese yuan hit a three-and-a-half-year high against the dollar. Stronger Japanese currency rates weighed on the dollar, pulling the yuan upward. Chinese officials rejected claims from the Group of 20 about trade imbalances. Beijing stated that the country has no need to devalue its currency. The exchange rate reached this milestone amid wider global currency shifts.",
+          "i": "The Chinese yuan touched a three-and-a-half-year high against the greenback as yen strength exerted downward pressure on the dollar. Officials rejected G20 <span class='term' data-t='inflation'>trade</span>-imbalance claims, maintaining that the currency requires no devaluation. Market participants observed the exchange rate strengthen alongside shifting bilateral dynamics. Authorities reiterated their stance on external trade friction.",
+          "a": "The Chinese yuan breached a three-and-a-half-year high as cross-rate dynamics driven by yen appreciation compressed the dollar index. Policymakers formally rejected G20 <span class='term' data-t='inflation'>trade</span>-imbalance assertions, disclaiming any requirement for competitive devaluation. The resulting trajectory underscores the friction between multilateral policy communiqués and domestic exchange-rate management. Current pricing implies sustained official resistance to external currency deprecation pressure.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFh0eWEzdE5qTV9DTk5WYy1kRE92QktCUGpYMG1INlhuRWlSMzBsWUFkb0lpUUg0Z3dpWFNaM0F2V0tXRW1uV0pYcTJ2LVhrNGNMd2RCYnpwYk9KR0tiWWVvbjFrQnhLX21wdW9Hand3NkphS1RjUGI1YUpMNHk0ZjQyQy1JQzM2Um5nc1UxTnhNOTMyMS1hM1VxSTB2NG9IQTJOVkk3eXcwT1N4WlBKR19vRjBkZG5UVGNKWFQ4U1BEVkJ10gHEAUFVX3lxTE4xZkVrTU41V0U0WW85MDVEU2ZpQjV2N01JQkhnR0dlVjgtLU9ibGVQckxYVGE5OVpac3B3bnp5TXBlUHFMaW1GdEhMZU1VR0tzamtNQ2JBbFlKQjdEZ3BBNk96RERFQTB5YjB5RzFrZ0Y4X04ycl9NdnBiR3JjaExDUjgySi1RMm9DXzYyRkppT202RmphV3VEVnVld2hraXNBbjdJTVVQV0FSZHNBRmR2Q1hyakRtcmhDX0tYSmlvQV9Kd2Y?oc=5",
+>>>>>>> Stashed changes
             "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTQ5RGtmOWM5MTVYZHNkYm1oeUFhVDVmeHpINUlHRkE4LXktTWxKRTB4MXFCcXExREdHU0t4WE45QkNyNEphaWhCWXVJMzVKTDc2V2MyNzFKZUZNQmNpV2xEOE1xbDR3Y2g1cEVJa1Y0MHFvQTNFSXZDLUNsUXFkbHlEdkRZOU9FT1YwZ3lHbmI2MmZyWVd5TU1UWGdUVkhBemlHYjNQcElDaDZIUFNNQ0JGVWo?oc=5"
           ]
         },
         {
+<<<<<<< Updated upstream
           "t": "Huadian Power and Jiangsu Expressway Issue Domestic Debt",
           "src": "marketscreener.com",
           "b": "Huadian Power International raised 1 billion yuan through a new bond issue. Equity shares for the power firm rose 3% following the announcement. Jiangsu Expressway also secured 1.5 billion yuan via medium-term notes.",
@@ -269,10 +552,30 @@
           "links": [
             "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV1kyVWRnTmluR3N2VW1LSWlQVkY0Q2dta1Z1dkY1SFpJSzJhS29nVzJuZVpIc3ByN0xXeExQY2ZZYnREeEFVLVNKeFlqemt6ZmxuVzM5Zi1Hb0d4a3d6d3M2NEpGXzdMTEM3S2dZcXFia2xqQ2Rjdl9TRTU1QXppNk4yZlpJTDZJZ2RRRTNJZW1RRDdQczZldFUwdjQ5RmlNVmFFcTZ1aHlST1VGUGVJSFZ0WjJkSkxfbWF3blhDSHU3cTMwZ010SA?oc=5",
             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXRPcW1BZWthV3R2bGZ5U1l6czl4Z0UyNWd5elVPRXlCR3htRTVXQkNOaGYzU0NXeFBSZktQZUhwTWtwMmxvTGpnM0lnVWxyZUZNRXJFY0ppMlp2bGRnT3pIbFdtZmo5MotsZU13VmtRT0N5bEdhQm9VVE9LckpMdk0yX25QWUxQWExQWExQWxB?oc=5"
+=======
+          "t": "Government Targets Seven-Trillion-Yuan Sports Industry by 2030",
+          "src": "bastillepost.com",
+          "b": "China aims to build a sports industry worth 7 trillion yuan by the year 2030. An official announced the target to expand the sector over the coming years. This plan sets a clear financial goal for sports businesses across the country. Local firms and investors now look at this long-term government objective.",
+          "i": "State planners set a 7-trillion-yuan valuation target for the domestic sports industry by 2030. Officials released the strategic objective to spur commercial activity within the sector. Enterprises across sporting goods, venues, and events align their operational footprints with this state roadmap. Analysts track whether structural investment matches the official scale targets.",
+          "a": "State planners promulgated a 7-trillion-yuan output target for the domestic sports economy by 2030. The policy directive aims to accelerate sectoral aggregation across fitness services, equipment manufacturing, and competitive events. Capital allocators evaluate the implied compound annual growth rate required to reach this gross output threshold from current baselines. Execution risk hinges on municipal implementation capacity and discretionary consumer spending trends.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnRzMUp0WDZYOG5IWDNOSGJ1TlVVQ3JtOHRiRC1ZR19vZXdPSmNveWpDRFBHOEhCcG8yT1Fva2VObkc2UTNfVllhTmYzZ1VKLUdBUzFiQnpabTJzZTFoMXVwYWo2UU1UY1c5TlRFTXlHUG5ock9Lc05jeVVGZlFFSlNHYTNNNFdsbUpKMndRaEFkQ3IzSFl0enQ5T05XaHJCdXJuOFpobzJseTB6T0FydVBhYng?oc=5"
+          ]
+        },
+        {
+          "t": "Beijing Stock Exchange Marks Fifth Anniversary at 850 Billion Yuan Market Capitalisation",
+          "src": "bastillepost.com",
+          "b": "The Beijing Stock Exchange reached its fifth anniversary. Total market capitalisation on the exchange hit 850 billion yuan. Companies listed on this venue celebrated half a decade of trading history. Investors trade shares of various growing enterprises on this specialized platform.",
+          "i": "The Beijing Stock Exchange celebrated its fifth anniversary with total market capitalisation standing at 850 billion yuan. The venue reached the milestone after five years of facilitating equity financing for specialized small and medium-sized enterprises. Trading volumes and listing numbers expanded steadily since the exchange opened. Market participants monitor the board for regulatory updates and liquidity changes.",
+          "a": "The Beijing Stock Exchange commemorated its fifth anniversary with aggregate market capitalisation printing at 850 billion yuan. The specialized venue continues to function as a dedicated listing hub for specialized, sophisticated, and innovative enterprises. Valuation multiples on the board reflect distinct retail and institutional participation dynamics compared to the main onshore exchanges. Subsequent growth depends on continuous pipeline generation from regional incubator networks.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT2JmRUJYY2RFUHVyNE94UnEzUHdCeWg0VUxaMzlGeXVSOHZnRVlpSHA2NHJmMEhJc2x2RzVGd213YmtYNnpMOV9hQnBTSmI0TXBFay1PSUVKQTFmMFZzaFpzN1oySXkyaWRWRnJwdXgtaGdBNjhpbnZkT1p6WEdqSzNlUG10bldvQVptRWV4X3FXaTJ2YTdNUFFNdXpJeHJjcURSalEzZW9wVGRYQ1JJZDJrSXRycW9OaUJjYnBWajd2My1PcnBUY0pyVHg?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Chinese industrial sectors experience varying inventory levels across regions. Metal markets track shifting futures prices and spot premiums. Technology firms continue to attract private funding.",
         "i": "Regional metal inventories show stark divergence across eastern and southern trading hubs. SHFE copper spot premiums adjust as physical demand responds to price volatility. Technology enterprises secure fresh venture capital injections.",
         "a": "Industrial commodities exhibit localized inventory imbalances and fluctuating spot differentials across Chinese exchanges. Computing power infrastructure adapts to capacity upgrades and regional power directives. Private technology ventures close multi-million yuan funding rounds against this backdrop.",
@@ -295,12 +598,31 @@
         [
           "3 Sep 2026",
           "Jiangsu Expressway issues medium-term bonds worth 1.5 billion yuan."
+=======
+        "b": "Beijing officials rejected trade-imbalance claims made by the Group of 20. Government representatives stated that the national currency requires no devaluation.",
+        "i": "Chinese authorities formally rejected G20 trade-imbalance accusations. Officials reiterated that the currency needs no external adjustment.",
+        "a": "State representatives formally contested G20 trade-imbalance allegations, disclaiming any policy intent to utilize currency depreciation."
+      },
+      "timeline": [
+        [
+          "3 Sep 2021",
+          "Beijing Stock Exchange marks its founding"
+        ],
+        [
+          "3 Sep 2026",
+          "Beijing Stock Exchange reaches fifth anniversary at 850 billion yuan market cap"
+        ],
+        [
+          "3 Sep 2026",
+          "China rejects G20 trade-imbalance claims and cites no need to devalue yuan"
+>>>>>>> Stashed changes
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
+<<<<<<< Updated upstream
       "sub": "Rupee surges on forex inflows and banking stocks advance",
       "ind": [],
       "stories": [
@@ -323,10 +645,37 @@
           "a": "The Reserve Bank of India executed an overnight variable rate reverse repo auction, accepting five lakh eighteen thousand seven hundred and forty-two crore rupees out of five lakh eighteen thousand seven hundred and forty-two crore rupees offered. The operation cleared at a weighted average rate of five point two four percent against a notified volume of six lakh crore rupees. This absorption mechanism manages short-term interbank liquidity beneath the policy corridor.",
           "links": [
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63505"
+=======
+      "sub": "Reserve Bank repo auctions and diaspora forex deposits",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Central bank absorbs funds through overnight reverse repo auctions",
+          "src": "Reserve Bank of India",
+          "b": "A central bank is the main bank of a country that manages the money supply and interest rates. The Reserve Bank of India held overnight reverse repo auctions to take extra cash out of the banking system. Banks offered ₹5,18,742 crore in the first auction and ₹34,652 crore in the second auction. Both auctions settled at a cut-off rate of 5.24%.",
+          "i": "The Reserve Bank of India conducted overnight <span class='term' data-t='carry'>variable</span> rate reverse repo auctions to manage system liquidity. Banks parked ₹5,18,742 crore in the first facility and ₹34,652 crore in the second. The cut-off rate and weighted average rate both printed at 5.24%.",
+          "a": "The Reserve Bank of India drained system liquidity across two variable rate reverse repo operations. Counterparties tendered ₹5,18,742 crore into the primary 1-day window and ₹34,652 crore into the secondary window. Both auctions cleared at a uniform cut-off and weighted average rate of 5.24%.",
+          "gloss": "carry",
+          "links": [
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63508",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63505"
+          ]
+        },
+        {
+          "t": "Diaspora foreign exchange deposits cross milestone thresholds",
+          "src": "India markets",
+          "b": "Foreign exchange deposits from the Indian diaspora reached $127 billion under a central bank scheme. Total fund inflows connected to this initiative passed $136 billion. This large dollar influx supports the local currency value. Analysts note that these heavy inflows create future economic risks.",
+          "i": "Foreign exchange deposits from the Indian diaspora totaled $127 billion under Reserve Bank of India schemes. Total fund inflows crossed $136 billion overall. The dollar haul aids the rupee, though observers flag emerging structural risks.",
+          "a": "Diaspora foreign exchange deposits under the central bank scheme touched $127 billion, pushing total fund inflows above $136 billion. The capital influx bolsters the rupee while simultaneously introducing medium-term risk factors.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdkdaczJBOXg4bHZQUWh2ZTZ5RE83aUdKaUYxS1Ezd1NLOF8yRDV1d1V3ejZ6YzhVNEVsWk5zVFdFMXBxTkh0dC10ZVkwX2l6LW5UbnBlV0V5M21FQ0FVdGNIRVJDVFBSOXMxeUp2aHRyTmZKdFZ3RlVmRXUySDM2RUF6OURTNXZDT0lyS3VCZm05RGV3Vk1vejhiUXJfOVdTQnFaeE9WdTVTMGtkQnhaeHJtaVJnMmgtalRHbmd2QWt4U1p3a0lSMTg0SnhCajFLaDQwSmx6SHpUdw?oc=5",
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2JMSEk4U3RlTmJDTENsTmFxbmRJd3FBVjQ1TXpfbWhvUFFXS0NHbWtpSjlCRTZBS1pHVDFmTHlXbkw0dlZyM29rT1BNempURnp0ZndXU1dKQmdjekJ0NjIyNmFpZmcxTjdnRi04b01YUG9ZYVBrZENvN1dtbFY0T1RXTHdKTHJ0WENtZlVnRVQya0FUSkhsQ0M2WEZIVmJGMHZxakk4bHpWcGhEeVE0TVc4UXdrenJxRGNMRENiUk1lRGdTa25XRQ?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Government bond auctions and diaspora remittances dominated financial updates from official institutions today.",
         "i": "State debt underwriting auctions and central bank liquidity management shaped the domestic monetary backdrop.",
         "a": "Fiscal debt issuance preparations via government security underwriting auctions coincided with Reserve Bank of India liquidity sterilization operations."
@@ -343,12 +692,31 @@
         [
           "04 Sep 2026",
           "An underwriting auction for government securities worth thirty-two thousand crore rupees is scheduled."
+=======
+        "b": "Government officials announced plans to sell ₹32,000 crore of government securities on September 4, 2026. Money market operations showed total overnight volumes reached ₹6,55,609.02 crore on September 2, 2026. Call money volumes stood at ₹10,677.54 crore.",
+        "i": "The government scheduled an underwriting auction for ₹32,000 crore of government securities for September 4, 2026. Money market operations data for September 2, 2026 recorded total overnight volumes of ₹6,55,609.02 crore. Triparty repo volumes accounted for ₹4,92,388.20 crore of that total.",
+        "a": "The administration scheduled an underwriting auction for ₹32,000 crore of government securities for September 4, 2026. Money market operations for September 2, 2026 reported total overnight segment volume at ₹6,55,609.02 crore with a weighted average rate of 4.71%. Triparty repo turnover represented ₹4,92,388.20 crore of the aggregate volume."
+      },
+      "timeline": [
+        [
+          "14 Nov 2007",
+          "The underwriting commitment scheme was notified."
+        ],
+        [
+          "2 Sep 2026",
+          "Money market operations recorded total overnight volume of ₹6,55,609.02 crore."
+        ],
+        [
+          "3 Sep 2026",
+          "The Reserve Bank of India held two overnight variable rate reverse repo auctions."
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
+<<<<<<< Updated upstream
       "sub": "Brazilian markets rally on election polls and energy updates",
       "ind": [],
       "stories": [
@@ -386,10 +754,45 @@
             "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmNnZGF1QXlvak9QYjV0TXBtOTcwV1FVRVdEakkzRmpVOXZXd3NfRWl5MDlER28zb0M2cXJyMFRrbldUR3dLcTFJZGp5TmFFalBoc2t1dFlMaXhNREtnWkNRMVAxSXJrR3Z0ZmZjSHJwdGNLSnZVeVczQ0dWTUhjQ1BjaFVNdHR3OEUxTDQ4WFBIT3A2Ylctc1RONGVmS1N1T1p1b1hoQXIxb2laU0FPOFR5MTZ1d9IBxAFBVV95cUxPd3hsRzhqUllOYTJ0bXRiUkRuNGJ1MEY4QmM5U2xRQ00wQkRuOGpHNTdTYjhrQjRIS3hIU3pRMUhWZEl2RWgxOFdWb3g3ZTZFR1ktNy1wUEUtQkZjY2pITV9XaGdGeFZMQVJQRUJZWkFBTDNLdHhyYUhWSTdNUmY3OHNVOXZKdDF0RVZkazA3T29lbV9HU3hjdXZ1V25LUUV1ME5rVk9vMXJGcnNneFlpQUZscGV3MEdGV2tRcGdUc0tuWkhS?oc=5",
             "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUt6WHhwLWd2bUxIYjdBNG5sR0pmU2daa2xHZHJaVkoyS3J3aWVyZFhNMGdTTG8zNmtsai1jZHJrOUFjS2JUNXJhZzNkbmhXRDJDZWVNbnlHZnE3V0stclJsS1FrWUptenRWcG5oRmcxbmJ0UXp2ckg1MUMxenhlQ1lxemhaOW9PR3BDN250WmF1VkVTTkFGUnB6R2xxUEJldUliTTRXMnlNc0ZwbHZJ?oc=5",
             "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQkdWMVp0OTNCRlh6RFRPYjN4VzExa1FLeDE0eDFfX3gyWXNQNUNOZjRSQkxjT0EzZGVqR2d2elJWRG4wR2tFVjk0QXBTdnRndDVRUENrclFxWWpoSWhPcW16ZVJxaEpHQTMxWl9mQ2hLc2VoR0lfVmFBUVB0dlhiLWNidHhpTWpqeGtHZWd3OUtobkUzcHV3UXVQYW96eGNIYTA2TkRiSUVGT1hsZGtoQ1E4VGZraWlWdGFIX3B0bnBxVVRVMGNPbTFXdEdUbjEySS00dlBXUU8tLVpzWTNJajJuNm4xNHRpMkE?oc=5"
+=======
+      "sub": "Brazilian markets react to earnings, polls, and oil data",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Bradesco Shares Rise Alongside Currency Strength",
+          "src": "TechStock²",
+          "b": "Bradesco shares traded as American Depositary Receipts climbed 3.9%. This increase happened because the local money, called the real, got stronger. A stronger currency often helps companies that do business abroad. The stock price move reflects this currency shift.",
+          "i": "Bradesco ADRs climbed 3.9%. The rally drew support from the real's strength in foreign exchange markets. Currency gains typically improve cross-border earnings conversions for large financial institutions. This asset price adjustment followed the broader currency move.",
+          "a": "Bradesco ADRs advanced 3.9% as the real appreciated. The currency recovery acted as the primary transmission channel for the equity rally. This repricing aligns with exporters and local lenders capturing the FX impulse. The implied volatility on the depositary receipts adjusted lower following the move.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXh1UUp6SFE0a1pJME9rOTY0Y3hNREY0NGQ4ZnlWS2c1bE9kdk1GbVpXSzBUZl9rWlJ2NWxCWFZwWjFYbk9DOFlnSmJ6OVdlODBjbkIxWjRCdDJ5V1ppR2dobm1jODhGWmZWYk1LQzZDdnBtc2d6RThLYkpRd284a29LdE5ZWkx5cFZxeUlR?oc=5"
+          ]
+        },
+        {
+          "t": "Petrobras Gains Following Price Target Upgrade",
+          "src": "AD HOC NEWS · Brazil Energy Insight",
+          "b": "Petrobras stock went up after analysts at JP Morgan raised their price target to $24. At the same time, official figures showed total oil and gas production reached 5.851 million barrels of oil equivalent per day in July. The national regulator, ANP, released these numbers on September 2.",
+          "i": "PBR stock gained ground after JP Morgan lifted its price target to $24. Concurrently, the ANP released production data for July 2026 showing total output at 5.851 million barrels of oil equivalent per day. Volume metrics provide fundamental backing for the equity valuation. Higher production rates support cash flow expectations across the energy sector.",
+          "a": "PBR equity edged higher following JP Morgan's target revision to $24. The ANP July production print of 5.851 million barrels of oil equivalent per day validated the operational throughput assumptions. This volume metric underpins the fundamental cash generation capacity projected by covering analysts. The underlying commodity output reinforces the revised valuation threshold.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWW52MXA0UmFnVEc3bHJrcUNERXctQ1VFd0t6cTNVcS1EdjlTMlpqZzZxcGlIbzZMWFN0Q2NHZERfNWV3ZmxxOF9Ed0lWV0ZPbWpTM0NkZlY4T21zZXR6MlpBc05YaTc4Mkk1T0x3UUxQdFNfbktrREhHakZwLU9HVTJDLURTNWpyeWtvM21aUjlFZDkzazd1LUhjQklQSUpxN3hWZUwwZGdLZVRuOVFnN1A4TTFVUFZCR0JNUXB3LWw2dDlVeEdlVVNR?oc=5",
+            "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQkdWMVp0OTNCRlh6RFRPYjN4VzExa1FLeDE0eDFfX3gyWXNQNUNOZjRSQkxjT0EzZGVqR2d2elJWRG4wR2tFVjk0QXBTdnRndDVRUENrclFxWWpoSWhPcW16ZVJxaEpHQTMxWl9mQ2hLc2VoR0lfVmFBUVB0dlhiLWNidHhpTWpqeGtHZWd3OUtobkUzcHV3UXVQYW96eGNIYTA2TkRiSUVGT1hsZGtoQ1E4VGZraWlWdGFIX3B0bnBxVVRVMGNPbTFXdEdUbjEySS00dlBXUU8tLVpzWTNJajJuNm4xNHRpMkE?oc=5"
+          ]
+        },
+        {
+          "t": "Equities Climb as Political Polling Tightens",
+          "src": "Finimize",
+          "b": "Brazilian financial markets rallied recently. This movement came as an election poll tightened. Investors often react quickly when political contest numbers shift. Market prices adjusted to this new political information.",
+          "i": "Brazilian markets rallied as an election poll tightened. Asset prices responded directly to the narrowing margins in the electoral contest. Political developments frequently alter risk premiums for domestic assets. Investors repriced local equities in response to the updated survey data.",
+          "a": "Brazilian indices registered gains following the contraction of polling margins in the election cycle. The tightening contest altered the perceived policy trajectory, compressing local risk premia. Portfolio managers adjusted equity allocations to reflect the shifting electoral probabilities. This market reaction demonstrates sensitivity to political tail risks in domestic valuations.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUmIyaEtCVFhDVWxVVTBfZUEtYkdEUlFTTHJWRHdMYktCM1MtLVJtTl9sdWZTOVBlZnJ2SG9ZSU5FeG9XZGVva0tjRTVaSnZ2b2hPcTBPMlFLbEVHaHdHazV5cVBRb3dPOTNodkk4VnlqOVFJQ1lpR2lHNTNKbk`"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Financial markets reacted to tighter opinion polls ahead of the national election. Investors closely watched the shifting political race as candidates campaigned across the country. Asset prices moved in response to the changing probabilities of different political outcomes.",
         "i": "Market valuations adjusted as a narrowing election poll altered the expected political landscape. Portfolio allocations shifted to account for potential policy changes resulting from the tighter race. Equity and currency prices reacted to the shifting survey data.",
         "a": "Traders repriced political risk as new opinion polls showed a tightening contest for the upcoming election. Asset correlations shifted as market participants adjusted portfolios to hedge against potential fiscal revisions. Implied volatility rose across local debt and currency instruments as the electoral margins narrowed."
@@ -406,12 +809,31 @@
         [
           "3 Sep 2026",
           "Cemig delivered stronger earnings for the second quarter of 2026."
+=======
+        "b": "Election polls in Brazil shifted recently. Investors watched these numbers closely because political changes affect the whole country. Market prices moved when the latest survey results came out.",
+        "i": "Electoral polling contracted in recent days. Market participants adjusted their positions as the political race tightened. Policy expectations shifted alongside the updated survey outcomes.",
+        "a": "Electoral polling dynamics shifted the political risk calculus for domestic assets. Market participants reevaluated policy continuity assumptions as the contest narrowed. Asset prices incorporated the revised electoral probabilities without direct fiscal announcements."
+      },
+      "timeline": [
+        [
+          "2 Sep",
+          "ANP reports July oil and gas output at 5.851 million boe/d"
+        ],
+        [
+          "2 Sep",
+          "JP Morgan raises Petrobras price target to $24"
+        ],
+        [
+          "3 Sep",
+          "Cemig delivers stronger second quarter earnings for 2026"
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
+<<<<<<< Updated upstream
       "sub": "Non-oil growth reaches six-month high",
       "ind": [],
       "stories": [
@@ -423,40 +845,76 @@
           "a": "Non-oil private sector metrics printed a six-month high. The divergence between hydrocarbon output caps and domestic private sector acceleration highlights successful economic diversification. Market participants are pricing higher non-oil revenue multiples into domestic equities.",
           "gloss": "inflation",
           "links": [
+=======
+      "sub": "Non-oil growth and corporate expansions in Saudi Arabia",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Non-Oil Sector Reaches Six-Month Peak",
+          "src": "صحيفة مال · TradingView",
+          "b": "Saudi Arabia saw its non-oil private sector growth hit a six-month high in August. This sector includes businesses that do not sell crude oil. The growth shows that other parts of the economy are expanding.",
+          "i": "August data revealed that the Saudi non-oil private sector growth achieved a six-month high. Commercial activity outside the primary fossil fuel sector gathered pace. Output and new orders drove the expansion across domestic markets.",
+          "a": "The non-oil private sector expansion hit a six-month high in August, underscoring domestic resilience. Output metrics strengthened alongside order book inflows. This divergence from hydrocarbon dependency remains a key focus for macro analysts monitoring the kingdom's structural diversification.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZEdpMlhlMjRnXzlRLVBNdnFKVlZMb0c1Q0dBMGNTUzhlQ0VJaVNIazZ3WFVJVkE3OC10dGJzdy05NlhTR2t3MUFEOTl4aDB1SVFaVGdMZXMtX3B6QmNfb0hLYVZvVzZsa1E?oc=5",
+>>>>>>> Stashed changes
             "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1hxa2xGcFNlZlVvNklaME9vVjZpMGxjZF8zdksxbGpSWlA2QTZvUG5rRTk3a2VoeDdpRVZuU1hRbVlXbmVPX0lGX0NfTlZnbXMzWW10alZMNHk3YWNYSVZ0N1JuclhnUmJYcGYya21lMlc3MXpCeVRQbWdxSXM5bTVIY25PVVROZjQtcVVOaXhRNzNIaWZoeGJyaWt3ZE9YSnlGZg?oc=5"
           ]
         },
         {
+<<<<<<< Updated upstream
           "t": "Wa’ed Ventures Backs COFE Tech Prior to Public Offering",
           "src": "tradingview.com",
           "b": "Wa’ed Ventures invested capital into COFE Tech. Saudi Aramco’s venture capital arm funded the technology firm ahead of its planned initial public offering. The financing supports the growth of local digital platforms.",
           "i": "Wa’ed Ventures deployed equity capital into COFE Tech. Saudi Aramco’s corporate venture arm structured the investment prior to the target's initial public offering. This injection of growth capital accelerates the scaling of local digital enterprises.",
           "a": "Wa’ed Ventures executed an equity injection in COFE Tech ahead of its initial public offering. Saudi Aramco’s corporate venture arm utilises these allocations to capture strategic technology adjacencies. The transaction valuation reflects private market pricing for regional software platforms.",
+=======
+          "t": "Wa'ed Ventures Invests in COFE Tech",
+          "src": "TradingView",
+          "b": "Wa'ed Ventures put money into COFE Tech. This company is backed by Saudi Aramco, which is the massive state oil enterprise. The investment happened before a planned initial public offering, where a company sells its shares to the public for the first time.",
+          "i": "Saudi Aramco's venture capital arm, Wa'ed Ventures, executed an investment in COFE Tech. The transaction took place ahead of an upcoming initial public offering. Venture investments by the state oil major target technology platforms to diversify holdings.",
+          "a": "Wa'ed Ventures deployed capital into COFE Tech ahead of its anticipated initial public offering. The Saudi Aramco-backed fund continues to channel resources into regional tech ecosystems. Valuation metrics for these private holdings reflect pre-listing private equity demand.",
+>>>>>>> Stashed changes
           "links": [
             "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS1ZqWG1FMy0xbFFIWU5lbnliY3g2ZUxadjhneklIRGh5aU1kZzFsUU5Nb3J4ZEpmN0dCekJKanRUU0xMMF9WZkZfby1rdDlJdGZJVGlaQnBoNjJYNDE2Q0NtV0xlckFoLXQ2NlQwb2RpWE9PUnlYNjgxNlJqNTVQZ0pCNFc5djB2YlhtcE1hZ3BYNTYzWmpueC1ta0xXck1IRC1OcEtUNVVZdlI0aUVlNTJxLXdsQU9YemJBM3haeE5DUm1qamVmSG81bzRQZ2FrTExYZQ?oc=5"
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "OPEC+ delegates prepared to discuss output quotas. Officials evaluated production targets for the coming year. Saudi authorities participated in international energy policy coordination.",
         "i": "OPEC+ delegates prepared to maintain existing output policies. Officials focused negotiations on upcoming output quota frameworks. Saudi energy ministers engaged in multilateral production coordination.",
         "a": "OPEC+ delegates indicated a preference for stable output targets. Policymakers directed focus toward extended output quota structures. Saudi officials calibrated supply management to balance global crude inventories.",
         "gloss": null
+=======
+        "b": "Firms from multiple nations look at storage opportunities in Pakistan. Saudi Aramco, Kuwait Petroleum, Vitol, and Trafigura are among the companies eyeing these bonded storage sites.",
+        "i": "State officials confirmed that Aramco, Kuwait Petroleum, Vitol, and Trafigura are evaluating bonded storage opportunities in Pakistan. International energy traders and national oil companies seek expanded logistical footprints. Pakistan manages these infrastructure considerations as part of its energy import strategies.",
+        "a": "Official disclosures indicate that Aramco, Kuwait Petroleum, Vitol, and Trafigura are assessing Pakistani bonded storage facilities. Cross-border logistical positioning secures downstream placement for crude and refined products. Regional supply chain integration remains the primary driver for these infrastructure assessments."
+>>>>>>> Stashed changes
       },
       "timeline": [
         [
           "2 Sep",
+<<<<<<< Updated upstream
           "OPEC+ delegates signaled plans to keep oil output policy unchanged."
         ],
         [
           "3 Sep",
           "Saudi non-oil private sector growth reached a six-month high."
+=======
+          "Officials reported that Aramco and other firms are eyeing Pakistan bonded storage."
+        ],
+        [
+          "3 Sep",
+          "Wa'ed Ventures invested in COFE Tech ahead of an initial public offering."
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
+<<<<<<< Updated upstream
       "sub": "Naira appreciates as reserves and remittances grow",
       "ind": [],
       "stories": [
@@ -481,10 +939,38 @@
           "links": [
             "https://news.google.com/rss/articles/CBMikwFBVV95cUxPems4eWhleDVzV2xPXzloSWZiVmU4dklDeS10cWh5TjVLZ3M3M0lTY1BxRmpkcHpQREI2NmN0RTZ6YjBrdENkZlNERXE0TVpqaHZKRWpVTnJIb21PVGpyaUFuenRfTWxqR3FhanZacFJpcTFuckdWeFVYUVAwbEEwQ2pvZm5HWXJPV2RoNDlycGRpZTg?oc=5",
             "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3BuNVJlZEdxYWJTeFpaQldWTDZ3Mm54czJrejBURjhYWFE3SUk2dHI1bGVydjMyckUxbkw2UktiX1BzbUswYy1ybnZRSzZsRnZYVjR2RHgtUDcwN3ZlcVp2T29TamJnVHM2TTZaaDhhWGxNUC1YOGFyQ3JqV2s5Mm9TN1FRQnlLWVJtcU1R?oc=5"
+=======
+      "sub": "Naira climbs, credit grows, and central bank reforms boost cash",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Naira Reaches Multi-Year High on Foreign Currency Support",
+          "src": "Business Post Nigeria · Business News Nigeria",
+          "b": "The naira is the official money used in Nigeria. It just reached a value of N1,326.69 for a single American dollar. This is the highest rate recorded in two years. More foreign currency entered the market to support this move.",
+          "i": "The naira climbed to a two-year high of N1,326.69 against the dollar. Increased dollar liquidity drove the currency to its strongest run since 2018. Official foreign exchange market data captured the exchange rate at N1,326 per dollar.",
+          "a": "The naira appreciated to a two-year high of N1,326.69 against the dollar on improved foreign exchange liquidity. Spot rates at the official market printed at N1,326 per dollar. Sustained inflows continue to compress the implied risk premium despite historical volatility.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NeFppZnhRTzdfVXA3YU93c2Q5UlVmY2V2MFFWcUxuRlllYzBGVXdyQXlUVVNlY2ZzYWNYTnlqY3BHNzBORGJMR1QzQ1ctZDVQNW9oVy1IN1NCanpTTkdoNEhwazUyb2REQVBmbVU5Tmd3RDI5NXUyYUZfeUpLNlE?oc=5",
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1V2TzBNc05ScFluak13QngyRnhKWVV2V0ItbTdSTTNiZ2RTOFl4S3BDa1h0RVU2ZHVrdWJ0ek51akpEc1VudWpvdFFlbTlSc2pSY1h0TEQzZElsUmk4V2pPNGg2UC1taHotRkg4UDVuMHNEek1xZkRVSHM0aHFyZWViZzVGc3ducVVtRDh3QkM1VGtQUFUzX2Z4UQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ182dG52a1lPaVh6QVpCWTdpZzF2ckt4eWFldjRRa21hdElmck5QRmlEX2dYTThsUGxNM1o0Qk91NkVSWHhvSlZhLXNNdjBORXlOblN5c2FqcG43aWl3NmlwdWdILUs3SkhreC1vMXAzZldtNFFkbjRvcUhhYUY2QVVqLUw0aHNpaDUtWENsaE1Rem9RYjdsaWtOMkZkS2J6dlIzeEdROG5Fdw?oc=5"
+          ]
+        },
+        {
+          "t": "Central Bank Policy Shifts and Private Sector Lending Expand",
+          "src": "Nairametrics · streamlinefeed.co.ke · punchng.com",
+          "b": "The central bank made reforms that pushed financial remittances up from $250m to $947m. Private sector credit reached N83.43tn even though interest rates stayed high. Business activity expanded for the third straight month with the composite purchasing managers index rising to 52.7.",
+          "i": "Central bank policy reforms lifted remittance inflows from $250m to $947m. Private sector credit expanded to N83.43tn amid an environment of elevated interest rates. Economic activity grew for the third consecutive month as the composite purchasing managers index climbed to 52.7.",
+          "a": "Central bank regulatory adjustments catalyzed a surge in remittance inflows from $250m to $947m. Private sector credit reached N83.43tn despite restrictive monetary policy settings. The composite purchasing managers index advanced to 52.7, signaling a third consecutive month of expansion in economic activity.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45Q0hUblpTQ3VGSVRDSXIzXzhTaTNMeExfbFdKSjVWcEk2NW5NQ1lMeHZLWUVTOEQtcDdhMlhNN2pORHcyUXJuN3RR?oc=5",
+            "https://news.google.com/rss/articles/CBMikwFBVV95cUxPems4eWhleDVzV2xPXzloSWZiVmU4dklDeS10cWh5TjVLZ3M3M0lTY1BxRmpkcHpQREI2NmN0RTZ6YjBrdENkZlNERXE0TVpqaHZKRWpVTnJIb21PVGpyaUFuenRfTWxqR3FhanZacFJpcTFuckdWeFVYUVAwbEEwQ2pvZm5HWXJPV2RoNDlycGRpZTg?oc=5",
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3BuNVJlZEdxYWJTeFpaQldWTDZ3Mm54czJrejBURjhYWFE3SUk2dHI1bGVydjMyckUxbkw2UktiX1BzbUswYy1ybnZRSzZsRnZYVjR2RHgtUDcwN3ZlcVp2T29TamJnVHM2TTZaaDhhWGxNUC1YOGFyQ3JqV2s5Mm9TN1FRQnlLWVJtcU1R?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Governor Uba Sani praised the impact of tax reforms on national revenue. The Economic and Financial Crimes Commission arraigned a man in Abuja over a N1.09bn loot. Travel associations continued to protest foreign airlines selling tickets in dollars and city locations.",
         "i": "Governor Uba Sani lauded recent tax reforms following surges in national revenue. Anti-corruption authorities arraigned an individual in Abuja concerning a N1.09bn financial crime. Travel agencies protested ticket sales denominated in foreign currency by international carriers.",
         "a": "Fiscal collections benefited from tax reforms praised by Governor Uba Sani. The Economic and Financial Crimes Commission prosecuted a N1.09bn corruption case in Abuja. Trade associations challenged foreign airline distribution practices involving dollar-denominated domestic transactions.",
@@ -511,12 +997,24 @@
         [
           "3 Sep 2026",
           "Private sector credit reached N83.43tn amid high interest rates."
+=======
+        "b": "Bandits in Kebbe town demanded a ransom of 40 million naira during a security crisis in Sokoto. Travel agents complained again about foreign airlines selling tickets in dollars and city locations.",
+        "i": "Bandits issued a 40 million naira ransom demand to Kebbe town amid a security crisis in Sokoto. Meanwhile, travel association NANTA criticized foreign airlines for pricing tickets in dollars and conducting city sales.",
+        "a": "A security crisis in Sokoto intensified as bandits demanded 40 million naira from Kebbe town. Concurrently, industry body NANTA renewed objections to foreign carriers transacting city ticket sales denominated in foreign currency.",
+        "string": ""
+      },
+      "timeline": [
+        [
+          "3 Sep 2026",
+          "Naira trades at N1,326 per dollar at the official foreign exchange market."
+>>>>>>> Stashed changes
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
+<<<<<<< Updated upstream
       "sub": "Trade narrows as corporate updates span resources and tech",
       "ind": [],
       "stories": [
@@ -543,17 +1041,50 @@
             "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVcxTW5tWjJIbVJrWi1jQWdiS05aN0FmbHFJVENLRWR6MTB1RnJJWjVabVA0VWgta1FRQ3NDTDRYbk9Lb3NBd3RpYkhMbXBiNkx0Y3FTMGJHLWg0dGNBbjhmQ2h3YnphT1RSX09uU1JHWXJTNnNWUUJnU1c1SnJ0QndWR1ExNlQtQThSbDczZWdEVUltcEpZbnR0VG9CQnpCZG03T08wWnRidHE4X2NoQTlOMUFNcnpPbTU5RFJR?oc=5",
             "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0RfVThWaUtJRVdfV0lBSHNYd1dydy14VEhIb3NNMmZSUHlkSklHODNCM2U5OVRlTVliOGtJbUk2bVpkNXNEVS0zRlE1WjdLUFNUbEx6YV9UR3J0aHhqbS1PMWk1bU9yTmtBZ3c1T2hJNUV5RVd0MmJhbzFLYnYydVlfUmFyUzlHaVRqMzN6TzEwMFpsUUxncDB5N0UzOWJxNmk2VEJPdVJFMzY4MVBmX19FWlBtWjdJaDJSMTFMVG14Vlk?oc=5",
             "https://news.google.com/rss/articles/CbnitgFBVV95cUxPaDMwTVVEbTNGRXRhSFJQeGVnZHhPUk5pTXlEVHNXMXEtanpxUVBlNlZMVTNtaWpNcmlYZjM5SHJlRG5Bc1NRdnJMQ29SWnVOY21vRUpiSW5DV21GTXd4MG5aTmlkQUdMRnZxcld2R1ctSVBJVkhtUWhXZGNCSkFuOGExUXBuOUQzTWd6U1BZNEV5SVNsYnBoQ0R4NWl5X1VtXzB5N002NnNEOXpvS0JJdC1lZ1pZZw?oc=5"
+=======
+      "sub": "ASX snaps losing streak as banks and commodities recover",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Major Banks Revive ASX 200 After Three-Day Decline",
+          "src": "The Australian · CommBank · Market Index",
+          "b": "The Australian stock market went up today. Major lenders like the Commonwealth Bank of Australia and National Australia Bank led the gains. This stopped a three-day losing streak for the share index. Gold and uranium shares also went up.",
+          "i": "The ASX 200 recovered from a three-day slide as major lenders drove gains across the board. The Commonwealth Bank of Australia and National Australia Bank pushed the index higher. Gold and uranium equities added momentum to the session.",
+          "a": "The S&P/ASX 200 broke its three-day drawdown as systemic heavyweights bid the index higher. Commonwealth Bank of Australia and National Australia Bank anchored the reversal. Precious metal and energy constituents contributed to the broader breadth.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbExHd1dBV3J3ZjBhUUtDT0UyMjFLZGR5MkUtNVNobWpkQmhIMkpBS1RFcDFLTmh4OVNDMXdMLWhtUEpNSnRYUFlOZllFZ2tpZ0h3Q2dtNWdva210VVlZQ0s3elRqbXNQVGhaZDhhdmJ5QmgtY1gwSUszdHM0RVozQzdTbkY4MExkSFcxRTZHYktOSWtuQmxNbjdJbjduUTQwUUVqeDhTa0gyWVJBRFpzeENMbW05bzNwYWI5RHdYeWpKb1VhS0lCeGZ3d2tiZE9YNjRqdEdnLUFPVmV2aERaazVaOGtYZXd1cExiMHNiU3dxb2xDVjJUN9IB_gFBVV95cUxNNWVOVTJPUncyUHhhZjkzbUR0Tm8wWUlZQnFMdVJRaVlXU0pGY0pIMVNNdkctSXVfUjVwQmlqLVNCQU9RM2xfTUx4U3JhNGJyUmhQcXZ6RGJDU3Y3NFhTZ3NnakhJQU1sajdHRExfYUtrSTk1MnRWczlqMXI2VGphVjJ4c0oyZmpNdkhMQXNKdDhuNXlxYS0ySDAxaGFWVFZCb3FMQVRJc0tNeTN2dTVBZWVzRWc5SDB1b1YzZFlOMS1DR3IwbkJmQ0k0VDMyNEJpZjZILXVRUzZveHc0VHVMN2o4ZlYxZ3NZWXhLeHBfeTZyYm5DbVZoM3RXNXNKdw?oc=5",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUd6U25OZDdZZVVydmJQYjN2YWsxV2N3TzQ0Tk1ab3hMb0liV0NmYUpTRC1kOG9ka3p4cUlqZFI3QlVsMHpnRzZuTU5jd2hIazhZa2hNTjdMUldTR294SGYxU05tMHMwWUltWnlMN0hTT0MxaVlGSGRsREZmTjNUMFBRSDd0S3BqLS1QN1FfY1dXLWpLNEExVWhWSWhDRHVMdmJHRQ?oc=5",
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjlJTUkyaW90clZaM3hTdTBpM1VxTGxteTJlNThOQjdYV2dNLV9uUnJ1TmFsaGs5LUpxaWJLZ0hORnRyWGdMbU10MGhZX3hyZmdQdV9vSHJsNFZqaGdNY2J6Q3piLXhLM0VjbzVWdU54MTR2Qko1bkFYTXcxXzZPYTdJLWdDZ0RaUVdERTFSQjZuU1BDbTRlWHNCMW9aNVV2cDNwU1ZZWVZvd2x2?oc=5"
+          ]
+        },
+        {
+          "t": "DUG Technology and Energy One Report Revenue and Contract Updates",
+          "src": "Kalkine",
+          "b": "DUG Technology reached a new financial year with revenue growth and US$68 million in contracted work. Energy One advanced its scale in Europe following progress in the 2026 financial year and a GMSL agreement. Both firms released operational updates on September 3, 2026.",
+          "i": "DUG Technology posted revenue growth alongside US$68 million in contracted work for the 2026 financial year. Energy One expanded its footprint toward European markets backed by a GMSL agreement and 2026 operational progress. Both updates crossed the wire on September 3, 2026.",
+          "a": "DUG Technology outlined its upcoming trajectory via fiscal 2026 revenue expansion and an order book featuring US$68 million in contracted work. Energy One pursued deeper European consolidation leveraging its recent GMSL accord and fiscal 2026 milestones. These corporate updates published on September 3, 2026.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWFuS2wwRVdiVDJDZDdObVFORXpuVlVHTkljQW5CQ29XZFJKRjNWSXVVOEtHV21mRV9ZcmpnLVRxeG9CVnlYb3VSSkxhbERlQkh2OEtkMThxMVJKcVRIWEhxdWtFanQ0U3A5SEFucXIxN3NBWlZ3YTdoTTcyV0xVd1B5bVozS3IzRk1Hb1NUS1JmTTQwQVZ6MzZlQ0RrOXNkQTBHdzBmeTc5cTdwdXprcVJqVDNucEZodXZQUnJGTFlsY1Y2UVZDVjRYZWQ1ZTdu?oc=5",
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeXhRTjFjOEozOTVnNFlxa3lBRGZ3MFdsMnh4Q1JyYmRHdHc3MnFuSVhNUXp0bjk0SWxsSEpOaTZOc3BLSDQ1WlNkUWJ4MGJqb19VcmxOZGJwOFhrZE9rOGt2Zm1pQ1Bxeldia2hLenZCS19VelpLWjlrOWp4eXhNWDJQc0M3ek9Pa0o1U3hMbmtVYlpzTEdqcXB6Z3IxczVybWRydkUwenJnam9ROHF0WkVrQjlydWVCVm0xNUlJMS00MHBV?oc=5"
+>>>>>>> Stashed changes
           ]
         }
       ],
       "politics": {
+<<<<<<< Updated upstream
         "b": "Market commentators analysed the recent corporate reporting season across the exchange. Analysts noted that operational earnings surpassed what overall share prices indicated. Industry participants gathered at the ASX SMIDcaps Conference to evaluate emerging small-cap companies.",
         "i": "Equity analysts assessed corporate performance following the conclusion of the latest reporting season. Fundamental earnings reports exceeded expectations implied by broader share price trajectories. Industry stakeholders convened at the ASX SMIDcaps Conference to review valuations for twenty-seven participating firms.",
         "a": "Sector strategists dissected structural disconnects between corporate earnings reports and equity valuations during the reporting season. Aggregate bottom-line metrics outperformed prevailing equity beta multiples, suggesting an underpricing of operational cash flows. Institutional delegates at the ASX SMIDcaps Conference examined twenty-seven small-to-mid-cap issuers for re-rating catalysts."
+=======
+        "b": "Market reports on September 3, 2026, focused on corporate share prices, banking gains, and company revenues. No government policy changes or votes appeared in the updates.",
+        "i": "Updates on September 3, 2026, concentrated on equities, sector indices, and corporate contract disclosures without referencing legislative actions or government policy.",
+        "a": "Macroeconomic coverage on September 3, 2026, remained strictly bound to equity valuations, corporate earnings visibility, and asset-level updates, omitting state or parliamentary developments."
+>>>>>>> Stashed changes
       },
       "timeline": [
         [
           "3 Sep 2026",
+<<<<<<< Updated upstream
           "Chalice Mining advanced development case studies for the Gonneville critical minerals project."
         ],
         [
@@ -563,6 +1094,17 @@
         [
           "3 Sep 2026",
           "Trading data confirmed that Australia's trade surplus narrowed while the currency held steady."
+=======
+          "ASX 200 breaks its three-day losing streak led by banks, gold, and uranium stocks."
+        ],
+        [
+          "3 Sep 2026",
+          "DUG Technology reports fiscal 2026 revenue growth and US$68 million in contracted work."
+        ],
+        [
+          "3 Sep 2026",
+          "Energy One targets European scale following a GMSL agreement."
+>>>>>>> Stashed changes
         ]
       ]
     }

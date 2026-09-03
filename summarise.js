@@ -33,19 +33,31 @@ RULES
    name is not there, do not state it. No outside knowledge.
 2. Never reproduce source wording. Write every sentence yourself.
 3. If the sources are too thin for a story, return fewer stories. Never pad.
-4. Write three versions of every "b" / "i" / "a" text field: three to five
-   sentences — what happened, the mechanism, the knock-on. Stop when the facts
-   from the sources run out. A four-sentence briefing that is all substance
-   beats a six-sentence one with padding. Your LAST sentence must state a fact,
-   never a summary or a significance line — no "these developments reflect /
-   show / highlight", no "markets will be watching", no "it remains unclear".
-   b = BEGINNER. No jargon. Define any unavoidable term in the sentence that
-       uses it. Assume no prior knowledge.
-   i = INTERMEDIATE. Standard financial vocabulary, mechanism named. Assume a
-       second-year economics student.
-   a = ADVANCED. Second-order reasoning: the transmission channel, what the
-       market is pricing, what would falsify the reading. Assume a candidate at
-       a final-round interview.
+4. Write three versions of every "b" / "i" / "a" text field. They are the SAME
+   story told to three different readers. The gap between them should be large.
+
+   b = BEGINNER. The reader has never taken an economics class and does not know
+       what a bond, a yield, an index or a central bank is. So tell them, in
+       plain words, the first time each one comes up — a short "which is…" or
+       "this means…". Use everyday comparisons where they help ("like the
+       interest on a loan"). Very short sentences. It is fine to spend a
+       sentence explaining how something works — that is the point of this
+       level, not padding. 4 to 6 sentences.
+
+   i = INTERMEDIATE. The reader has done an intro course. They know what
+       inflation, interest rates, bonds and shares are, but not the plumbing.
+       Name the mechanism and the transmission — which lever moved what. Use
+       standard terms without stopping to define the basic ones. 4 to 5
+       sentences.
+
+   a = ADVANCED. The reader works in or seriously studies markets. Go to
+       second-order effects: the transmission channel, what price the market is
+       now implying, which assumption would have to break for the read to be
+       wrong. Assume all vocabulary. 3 to 5 dense sentences.
+
+   Every version: stop when the facts from the sources run out. The LAST
+   sentence states a fact, never a summary or significance line — no "these
+   developments reflect / show", no "markets will be watching".
 5. GLOSSARY: only in "i" and "a", and only when the exact word appears and fits.
    Wrap it as <span class='term' data-t='KEY'>word</span> with single quotes.
    The KEY must be one of GLOSSARY_KEYS and the wrapped word must BE that term or
@@ -62,7 +74,9 @@ VOICE — this is what separates a real briefing from filler:
   sentences.
 - Short sentences, rarely over 25 words. Vary the length.
 - No sentence whose only job is to say something is important, watched, or worth
-  understanding. State the fact and move on.
+  understanding. State the fact and move on. (Exception: in the BEGINNER version,
+  a sentence that explains what a term means or how a mechanism works is not
+  filler — keep it.)
 - Never use: navigate/navigated, grapple, landscape, cross-currents, amid,
   underscore, "highlights" as a verb, "it is worth noting", "plays a key/crucial/
   pivotal role", "in an effort to", "signals a shift", "remains to be seen", "a
@@ -224,10 +238,12 @@ You are writing the summary of the day.
   pound fell to a two-week low." Bad (a theme, a noun-list): "Global markets
   reacted to shifting rate expectations and central bank operations." If several
   things matter, pick the biggest and name it; mention one other at most.
-- "lede": the main briefing — four or five sentences at each level. First
-  sentence: the single thing that mattered most, stated flat. Then the mechanism,
-  then the knock-on. Every sentence carries a specific fact — a figure, a name.
-  No scene-setting first sentence, no significance sentence at the end.
+- "lede": the main briefing. First sentence: the single thing that mattered
+  most, stated flat. Then the mechanism, then the knock-on. Follow the three
+  reader levels from the VOICE rules — the "b" version explains what each term
+  means as it appears and can run a little longer; "a" is dense and assumes
+  everything. No scene-setting first sentence, no significance sentence at the
+  end.
 - "items": three or four, each ONE line, tied to one country.
 - "thread": two or three sentences on what actually connects the items — or say
   the day was quiet. Do not force a narrative.
