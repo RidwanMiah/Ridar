@@ -1,141 +1,137 @@
 {
-  "generated": "2026-09-03T16:27:19.545Z",
+  "generated": "2026-09-03T17:25:05.057Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "3 September 2026",
-    "headline": "Federal Reserve officials hint at a rate hold as Wall Street shares climb and tech stocks gain.",
+    "headline": "The Japanese yen soared against the dollar as traders increased bets on higher borrowing costs.",
     "lede": {
-      "b": "A Federal Reserve official, which is a person who helps manage the country's money and borrowing costs, indicated support for keeping interest rates steady. This helped stock markets go up. When interest rates stay the same, borrowing money is easier, which can make shares in companies more attractive. The S&P 500 index, which tracks five hundred big companies, went up 1.1% at midday. Technology shares, including Meta's new artificial intelligence model called Muse Spark 1.3, led the market gains.",
-      "i": "Federal Reserve official Waller indicated support for an interest rate hold, spurring equity markets higher. When central bank officials signal steady borrowing costs, risk appetite tends to improve. The S&P 500 index climbed 1.1% at midday alongside gains in the technology sector. Meta added momentum to this move by releasing the Muse Spark 1.3 model to challenge rival artificial intelligence systems. Technology shares outperformed the broader market as <span class='term' data-t='inflation'>inflation</span>-sensitive indices advanced.",
-      "a": "Federal Reserve official Waller signaled support for a monetary policy hold, lifting US equities. The S&P 500 gained 1.1% at midday while the Nasdaq <span class='term' data-t='inflation'>inflation</span>-sensitive index rose 1.35%. Meta reinforced this tech-led advance by launching the Muse Spark 1.3 model to compete with offerings from OpenAI and Anthropic. Technology shares outperformed the Dow as policy expectations shifted toward a pause."
+      "b": "The Japanese yen soared by more than 2% against the dollar. A currency is the official money of a country, and the exchange rate tells you how much of one country's money you can buy with another's. The yen reached 155.57 against the dollar. This is its highest level in a month. Traders increased bets that the central bank, which is the official institution that manages a country's money and interest rates, will raise borrowing costs. The central bank announced a Meeting on Market Operations for September.",
+      "i": "The Japanese yen soared by more than 2% against the dollar to 155.57, marking a one-month high. Foreign exchange traders increased bets that the central bank will raise borrowing costs. Market participants reacted directly to speculation regarding upcoming policy shifts. The central bank scheduled a Meeting on Market Operations for September.",
+      "a": "The Japanese yen rallied over 2% against the dollar, touching a one-month high of 155.57. Market participants aggressively re-priced <span class='term' data-t='carry trade'>carry trade</span> exposures and increased bets on policy tightening. The central bank scheduled a Meeting on Market Operations for September, cementing hawkish speculation."
     },
     "items": [
       {
+        "c": "United States of America",
+        "b": "Revolut won a provisional banking licence from the Office of the Comptroller of the Currency.",
+        "i": "Revolut secured a provisional banking licence from the Office of the Comptroller of the Currency.",
+        "a": "Revolut secured provisional regulatory clearance from the Office of the Comptroller of the Currency."
+      },
+      {
         "c": "United Kingdom",
-        "b": "Bank of England chief economist Huw Pill said the bank rate needs to rise to 4% to manage price growth.",
-        "i": "Bank of England chief economist Huw Pill stated that the bank rate needs to rise to 4% to combat inflation.",
-        "a": "Bank of England chief economist Huw Pill called for the bank rate to rise to 4% to curb inflation pressure."
+        "b": "Reform UK received a £4m donation from the cryptocurrency billionaire Ben Delo.",
+        "i": "Reform UK secured a £4m donation from cryptocurrency figure Ben Delo.",
+        "a": "Reform UK accepted a £4m political donation from crypto billionaire Ben Delo."
       },
       {
         "c": "Germany",
-        "b": "The DAX index of German equities climbed 0.65% as European stocks gained ground.",
-        "i": "The DAX index climbed 0.65% as European stocks gained ground following oil price stability.",
-        "a": "The DAX index climbed 0.65% as European equities advanced alongside stable oil prices."
+        "b": "The DAX index climbed 0.65% as European stocks gained ground.",
+        "i": "The DAX index closed up 0.65% amid stabilizing oil prices across European markets.",
+        "a": "German equities advanced as the DAX index closed up 0.65% alongside broader European gains."
       },
       {
-        "c": "Japan",
-        "b": "The Japanese yen climbed to a one-month high as the central bank opened the door to faster rate hikes.",
-        "i": "The Japanese yen climbed to a one-month high as the Bank of Japan hinted at faster rate adjustments, driving carry trade unwinding.",
-        "a": "The Japanese yen reached a one-month high as Bank of Japan rate signals triggered carry trade unwinding."
-      },
-      {
-        "c": "China",
-        "b": "China deployed its first 2026 policy financing funds to stimulate investment activity across projects.",
-        "i": "China deployed its initial 2026 policy financing funds to stimulate investment activity across state-backed infrastructure projects.",
-        "a": "China deployed its first 2026 policy financing funds to accelerate capital deployment across infrastructure projects."
+        "c": "India",
+        "b": "The Reserve Bank of India absorbed excess cash through reverse repo auctions.",
+        "i": "The Reserve Bank of India drained liquidity via overnight variable rate reverse repo auctions.",
+        "a": "The Reserve Bank of India executed overnight variable rate reverse repo auctions to absorb banking sector liquidity."
       }
     ],
     "thread": {
-      "b": "Central banks and interest rates were a major focus across the world today. Officials in the United States and the United Kingdom discussed what to do next with borrowing costs. Meanwhile, currency markets reacted as the Japanese yen and Australian dollar both moved against the US dollar.",
-      "i": "Central bank policy expectations drove market movements across multiple regions today. Federal Reserve comments and Bank of England remarks shifted rate views in the United States and the United Kingdom. Meanwhile, currency adjustments in Japan and Australia reflected shifting monetary dynamics.",
-      "a": "Central bank communication anchored cross-asset moves today. Fed rate-hold hints and Bank of England tightening calls set the tone for equities and currencies. Concurrently, Bank of Japan policy signals triggered foreign exchange adjustments."
+      "b": "Central banks and regulatory bodies took direct action in multiple regions. Financial authorities absorbed cash, issued licences, and adjusted market operations.",
+      "i": "Central banks and regulators managed system liquidity and market access through specific policy auctions and licensing decisions.",
+      "a": "Central bank liquidity management and regulatory approvals dominated cross-border operations as authorities adjusted system cash and institutional permissions."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Wall Street rises as Federal Reserve officials hint at rate hold",
+      "sub": "US banking licence for Revolut and tariff retaliation",
       "ind": [],
       "stories": [
         {
-          "t": "Federal Reserve Comments Spur Stock Gains",
-          "src": "StreetInsider · 24/7 Wall St. · bloomingbit",
-          "b": "Federal Reserve official Waller states he might support keeping interest rates steady. Interest rates are the cost of borrowing money. This news causes major stock indexes to climb. The Nasdaq index rises by 1.35%.",
-          "i": "Federal Reserve official Waller indicates support for a rate hold, lifting equity markets. The Nasdaq <span class='term' data-t='inflation'>inflation</span>-sensitive index gains 1.35%, while the S&P 500 climbs 1.1% at midday. Technology shares outperform the Dow as monetary policy expectations shift.",
-          "a": "Federal Reserve governor Waller signals openness to a policy pause, compressing short-term yields and spurring a risk-on rotation. The Nasdaq outperforms with a 1.35% advance, while the broader S&P 500 adds 1.1% at midday. Markets reprice rate trajectory assumptions in response to the dovish commentary.",
-          "gloss": "inflation",
+          "t": "Revolut secures provisional US banking licence",
+          "src": "Financial Times",
+          "b": "Revolut is a company from the UK that offers financial apps and services. It just won a provisional banking licence from the Office of the Comptroller of the Currency. This approval is an important step for the firm as it tries to expand inside the United States.",
+          "i": "Revolut won a provisional banking licence from the Office of the Comptroller of the Currency. This regulatory clearance marks a major operational milestone for the UK-based fintech firm as it pursues broader commercial expansion into the United States market.",
+          "a": "Revolut secured provisional charter approval from the Office of the Comptroller of the Currency. The authorization lowers regulatory hurdles for the UK fintech as it scales its deposit-taking and operational footprint within the US banking sector.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUk85TU9KR1JIUmRtS3FzUEZJdWE4U2RrdC1HS3loV0dxWGhlTHY5T3N3VE8wLVVGYkk0VnlNczFEM3JUZWE4SDRfSk1abjl5YWsxbGRxRFNqUVBOVkh6MnVOemxQLWVGbmdjWlRvbmNRX1VOLW96Z2pwQkluQjkzbFJMaXE3OHltTF85X1ZIQm95SE5ON1lIWnpvUl9BbDVabElZVDVrblotUUdvS2x3bWZORkpRNGtMRFBxVl9n?oc=5",
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU1R0VWlxb29UanRpbVB2QXl0dTJRNklNcUJPdnRSRXNQdWVRRlhFRGM2aThUXzVVNndfWU1FNjA0VGRNVFJ5Vy14Z3NwZERnSzAxMDktY2c2UUJvc1d0b3ZuZnhyNGd6cjd3VTBIM1RMdUpSSXRlR094YUpvVjBvaC1mTGUtOXA3cUFyWmg1QWNKZS1wZHpzQUM4QW40U2tUS2Q5Nk9mc29maG4wMGdrSXJjbWlJT0ZSdDVDYTBnR0dKTGZyRm5ZLUZn?oc=5",
-            "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NTmtES3RfdkI3RXZpbEczNEZnYUtQTE9pMGxDbW1BZUVaWDBCOHVrZVp2ZEZTaDJIQUhqLTViSDFfR2VZUE4tenJrSE1iU3hKa21ITw?oc=5"
+            "https://www.ft.com/content/d6c24b34-1520-4dc4-8996-83eab8e81941?syn-25a6b1a6=1"
           ]
         },
         {
-          "t": "Meta Launches New Artificial Intelligence Model",
-          "src": "Proactive financial news · 24/7 Wall St.",
-          "b": "Meta announces a new artificial intelligence model called Muse Spark 1.3. The company says this product competes directly with offerings from Anthropic and OpenAI. Technology companies continue to release new software tools to win users. Stock markets respond to these updates during the trading session.",
-          "i": "Meta releases the Muse Spark 1.3 model to challenge competing systems from Anthropic and OpenAI. Technology shares lead market advances as firms expand their artificial intelligence product suites. The S&P 500 rises 1.1% at midday with support from the technology sector.",
-          "a": "Meta positions its Muse Spark 1.3 release directly against incumbent models from Anthropic and OpenAI. Equity benchmarks react positively to commercial developments in generative software, driving tech outperformance. The S&P 500 climbs 1.1% at midday as large-cap technology components bid higher.",
+          "t": "Automakers petition Congress against Chinese vehicles",
+          "src": "CNBC",
+          "b": "Major car companies in the United States are asking Congress to put a permanent ban in place. They want to stop the domestic sale, import, and manufacturing of Chinese connected vehicles. This includes the hardware and software used inside those automobiles.",
+          "i": "Major automakers in the US are lobbying Congress for a permanent prohibition. The petition targets the domestic sale, import, and manufacturing of Chinese connected vehicles, along with their associated hardware and software components.",
+          "a": "Major US automakers petitioned Congress for a statutory ban covering the domestic sale, import, and manufacturing of Chinese connected vehicles. The proposed restriction extends across both physical hardware and embedded software systems.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUnZGTmp6a0huTVAwZEp1am5OdWxoTWdUZHpQcUFZODE1bkhYYUNVcGlzaFpxMERvLV9FdVF2NGkza0NfVW1Fd1BETW1RT1FlbWgxTWVvR1NZdi1xbEdxcVJqcVZNUTlNR29BbG8tOEVteHhtUE1Rdk94MFNudTYyZG11eXg1YzEzRzczUXo5XzN2ZG9HNjdIcVF2OWRUaks5RHZRX2w2b0pIeXlWazVzUjBOdmpnMEZIRlpWMk0tZ1FTbjMtbGZZUXhzcUt0RlR4cm5rZGp3?oc=5",
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU1R0VWlxb29UanRpbVB2QXl0dTJRNklNcUJPdnRSRXNQdWVRRlhFRGM2aThUXzVVNndfWU1FNjA0VGRNVFJ5Vy14Z3NwZERnSzAxMDktY2c2UUJvc1d0b3ZuZnhyNGd6cjd3VTBIM1RMdUpSSXRlR094YUpvVjBvaC1mTGUtOXA3cUFyWmg1QWNKZS1wZHpzQUM4QW40U2tUS2Q5Nk9mc29maG4wMGdrSXJjbWlJT0ZSdDVDYTBnR0dKTGZyRm5ZLUZn?oc=5"
+            "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html"
           ]
         }
       ],
       "politics": {
-        "b": "Federal Reserve officials discuss whether to raise interest rates further. Some officials suggest keeping rates on hold instead. Different members express varied views on the economy.",
-        "i": "Federal Reserve officials debate the path of monetary policy. Several members resist further rate hikes, pointing to evolving economic data. Officials maintain flexibility regarding upcoming policy meetings.",
-        "a": "Federal Reserve participants diverge on terminal rate pricing and forward guidance. Select officials push back against aggressive tightening expectations. FOMC communication reflects internal debate over restrictive policy duration."
+        "b": "Canada is reacting to tariffs put in place by President Donald Trump. Canada placed duties on US goods that match the value of the American tariffs. These new Canadian duties are scheduled to start next week.",
+        "i": "Canada responded to President Donald Trump's 50% tariffs by implementing dollar-for-dollar duties on US goods. These retaliatory measures from Canada are scheduled to take effect the following week.",
+        "a": "Canada enacted dollar-for-dollar retaliatory duties on US goods in response to President Donald Trump's 50% tariff imposition. The countermeasures are scheduled to take effect the following week.",
+        "sources": {
+          "0": {
+            "outlet": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html"
+          }
+        }
       },
       "timeline": [
         [
           "3 Sep 2026",
-          "Fed official Waller signals openness to a rate hold"
+          "Revolut wins provisional US banking licence from the Office of the Comptroller of the Currency."
         ],
         [
           "3 Sep 2026",
-          "Meta introduces the Muse Spark 1.3 artificial intelligence model"
-        ],
-        [
-          "3 Sep 2026",
-          "Nasdaq gains 1.35% following policy comments"
+          "US automakers urge Congress to permanently ban Chinese connected vehicles."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Bank of England chief economist calls for higher interest rates",
+      "sub": "Donations and property warnings",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of England Chief Economist Calls for Rate Rise",
-          "src": "TradingView · The Lufkin Daily News",
-          "b": "Huw Pill is the chief economist at the Bank of England, which is the country's central bank. He spoke to the Edinburgh Chamber of Commerce. He stated that the bank rate needs to rise to 4%. Higher interest rates make borrowing money more expensive, which is like the interest on a loan. This helps head off <span class='term' data-t='inflation'>inflation</span> pressure, which is when the prices of everyday items go up over time. Huw Pill delivered these prepared remarks on 3 September 2026.",
-          "i": "Bank of England chief economist Huw Pill told the Edinburgh Chamber of Commerce that the bank rate needs to rise to 4%. He stated that higher rates would help head off <span class='term' data-t='inflation'>inflation</span> pressure. These prepared remarks were delivered on 3 September 2026. The comments outline a prompt requirement for monetary tightening to manage price growth.",
-          "a": "Bank of England chief economist Huw Pill used an address to the Edinburgh Chamber of Commerce on 3 September 2026 to signal that the bank rate needs to rise to 4%. The intervention frames the required policy trajectory around managing <span class='term' data-t='inflation'>inflation</span> expectations through prompt tightening. Market participants must now reprice the terminal rate assumption to account for this explicit guidance.",
-          "gloss": "inflation",
+          "t": "Reform UK receives £4m donation from Ben Delo",
+          "src": "Guardian Business",
+          "b": "Reform UK received a £4m donation from the crypto billionaire Ben Delo. A crypto billionaire is someone who has made a huge fortune from digital currencies like Bitcoin. The party expressed confidence that the money will not be caught by a new overseas donor cap. Ben Delo was previously convicted in the US in 2022 for failing to implement adequate anti-money laundering measures.",
+          "i": "Reform UK secured a £4m donation from the cryptocurrency billionaire Ben Delo. Party officials expressed confidence that the funds will bypass restrictions under any new overseas donor cap. The donor previously faced legal issues after being convicted in the US in 2022 over inadequate anti-money laundering controls.",
+          "a": "Reform UK accepted a £4m injection from Ben Delo, navigating potential regulatory friction regarding overseas contributions. The party maintains that the donation structure evades the proposed overseas donor cap. The benefactor's legal history includes a 2022 US conviction for deficient anti-money laundering compliance.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONktoSmVFcTg3Rk1xdmtxTTlBdVlrajRUUk1OdF9idTJ4WTBMcjN5bWhDY2FJTmhPTDFvRFFhMHF1OHNBdWtCUkNKa0lUQ0RreDU3Vnp2eXlFdkV4VHludGRPNTJ4cWRZUUFfRFM2bWNpcDFQV3pJczk3RUkwYmN1ZkEwZnVWMHlDQ25ITS1UUjRlOENGQ2RQYWtaaVotekV3NzJ2T0E5LUFXeWpEd3FoSnBwU2xDc0xGY2dIc2xZbDc5d0hNYy15dWRWcTBIM055NlpiYVd2OWk1RV96U0V6RFdXaVlyT0c2c0VlVWRPQnhweTJNa295MHhXN2d3aWdodFRWQXZuVWs?oc=5",
-            "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSi1MWWJZUkNydlFQVTRFa0t4OEVSb2pPODhORXBiODNZQlI2Z2JzalhRV2k2U0VYb1RvQ2V6akl6dno1bnp5b0VRWm1NVm9WUndOVThzZy1qc1EzWWd0ODlTdUU4UURCcXNYbkljRTlkMFZFSDFsSE1OSUM4QWtMUDJlaHpnQXFhajlKVlVDbmVnbVVabm9WRXR5WlpxZFJYcEdSdGJvUU5nS1RYOW9XR250Nm1XZDJ0QTdDRngyVHlQM3h4bTctNDQ0OXQ5ZWx5STZYT0VfZXZ4dERHaVQtRzlucDg4TG5HQnJtbWJxQTZkbmtzbGVqZWY4amV2WWJ4SDBzSGdpX0Q5Zw?oc=5"
+            "https://www.theguardian.com/politics/2026/sep/03/reform-crypto-billionaire-ben-delo-pardoned-trump"
           ]
         },
         {
-          "t": "FTSE 100 Closes Higher as European Markets Split",
-          "src": "24/7 Wall St.",
-          "b": "The FTSE 100 index tracks the stock prices of the biggest companies listed on the London Stock Exchange. It closed up 0.57% at 10,817 on 3 September 2026. European markets were split during this trading session. This movement reflects the daily changes in company valuations across the stock market.",
-          "i": "The FTSE 100 index closed up 0.57% at 10,817 on 3 September 2026. European markets showed a split performance during the session. This increase captures the aggregate valuation shifts of major equities listed in London.",
-          "a": "The FTSE 100 closed up 0.57% at 10,817 on 3 September 2026 amid a split broader European market. This print reflects divergent regional sentiment and sector-specific equity flows on the London exchange.",
+          "t": "Crest Nicholson warns of annual loss",
+          "src": "Guardian Business",
+          "b": "Crest Nicholson warned investors that it will post a surprise annual loss. This company builds houses for buyers across the UK. It blamed difficult trading conditions in a subdued property market. The firm will complete between 1,350 and 1,400 homes in the year to 31 October, which is fewer than previously expected.",
+          "i": "Crest Nicholson issued an unscheduled trading update warning of an annual loss. The housebuilder cited difficult trading conditions within a subdued property market. Completions for the year ending 31 October will total between 1,350 and 1,400 units, falling short of earlier projections.",
+          "a": "Crest Nicholson issued a profit warning for the fiscal year ending 31 October, pointing to persistent headwinds in the domestic housing market. The developer adjusted its expected completions downward to a range of 1,350 to 1,400 units. The downward revision reflects broader margin compression across residential construction.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3lmSndrcWQycnVwems5N0VPdGZ1MDkyR3JXQ0Z5cHIxVDRRMTZtbXdkS1VpRllKZUhCZGVteWJfaFJrN2RIcUtFb3V5blMySF91eHctM2pVOThOd0ZBTjU4NE0ybUtEb0gzbmc5SUlBU09LQmNEcU5JZnZ3dk9CQ2hNdk56WWROaGNPaEVRb09QbXhONXFlRXNpOG1lUnlzTml0a3JQemxEREt1cmpwSWk5MEJlQ2VEVFFkQ1FmZ2VtVDNKQkhqZUhMRQ?oc=5"
+            "https://www.theguardian.com/business/2026/sep/03/housebuilder-crest-nicholson-warns-of-annual-loss-subdued-property-market"
           ]
         }
       ],
       "politics": {
-        "b": "The Bank of England operates independently to set monetary policy for the United Kingdom. Officials make public statements about interest rates to manage the economy. Huw Pill announced his views on 3 September 2026.",
-        "i": "The Bank of England maintains operational independence in executing monetary policy. Chief economist Huw Pill communicated the necessity for higher borrowing costs on 3 September 2026. These remarks form part of the ongoing policy dialogue between central bank officials and the public.",
-        "a": "The Bank of England continues to utilize public communication channels to anchor policy expectations independently of government. Chief economist Huw Pill articulated the case for a 4% bank rate on 3 September 2026. This intervention shapes the macroeconomic framework within which fiscal and monetary authorities operate."
+        "b": "Kemi Badenoch chose a new shadow chancellor. The Conservative leader made this appointment following the defeat of the party at the last election. The editorial argues that the plan remains stuck in the Tory comfort zone.",
+        "i": "Conservative leader Kemi Badenoch appointed a new shadow chancellor following the party's previous electoral defeat. Observers argue that the chosen economic plan remains trapped within the traditional Tory comfort zone.",
+        "a": "Kemi Badenoch restructured her frontbench by naming a new shadow chancellor. Critics argue the appointment fails to address the structural causes of the party's general election defeat, remaining anchored in orthodox Conservative fiscal strategies."
       },
       "timeline": [
         [
-          "3 Sep 2026",
-          "Bank of England chief economist Huw Pill calls for a prompt interest rate hike to 4%."
+          "2022",
+          "Ben Delo convicted in the US for failing to implement adequate anti-money laundering measures."
         ],
         [
-          "3 Sep 2026",
-          "The FTSE 100 closes up 0.57% at 10,817."
+          "31 Oct",
+          "Crest Nicholson financial year concludes with lower home completions."
         ]
       ]
     },
@@ -194,217 +190,188 @@
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Japanese yen strengthens to one-month high",
+      "sub": "Yen surges on rate rise expectations",
       "ind": [],
       "stories": [
         {
-          "t": "Japanese Yen Rises as Central Bank Hints at Faster Rate Adjustments",
-          "src": "Briefs Finance · tmgm.com",
-          "b": "The Japanese yen jumped to a one-month high against the US dollar. The Bank of Japan opened the door to faster interest rate hikes. Traders reacted to the growing possibility of higher borrowing costs. The dollar slid toward the ¥155 level.",
-          "i": "The Japanese yen climbed to a one-month high as the Bank of Japan opened the door to faster rate hikes. Traders priced in higher borrowing costs, driving the <span class='term' data-t='carry'>carry</span> trade unwinding. The dollar subsequently slid toward the ¥155 level against the yen.",
-          "a": "The Japanese yen rallied to a one-month high following signals from the Bank of Japan regarding potential acceleration in monetary policy normalisation. USD/JPY plunged toward critical support near ¥155 as options selling pressure compounded the move. Market participants reassessed terminal rate assumptions amid shifting policy divergences.",
-          "gloss": "carry",
+          "t": "Japanese currency climbs against the dollar",
+          "src": "Guardian Business · Financial Times",
+          "b": "The Japanese currency is called the yen. Currency is the official money used in a country. The yen jumped by more than 2% against the US dollar. This rise pushed the exchange rate to 155.57 yen per dollar. The increase followed a 0.9% gain the previous day.",
+          "i": "The Japanese yen soared by more than 2% against the dollar. This movement drove the currency to its highest level against the dollar in a month at 155.57. The sudden jump followed a 0.9% advance in the previous session.",
+          "a": "The yen appreciated by over 2% against the greenback, breaching the 156 threshold to touch a one-month high of 155.57. This upward momentum extends a 0.9% prior-day move as market participants reprice near-term rate probabilities.",
           "links": [
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0NhNFcyQjdCYl9rdkNZNlFnTkNhbnIzcngtVXBOX0lWWXVQYXZicHlTSUU1WHZLOWVXdmlvSDF4RF9iRk9XX2NRdHJ0dzlBZllMRC1PZUc3T3NZbWNJdVlyNmVBYlg3OWd6Wlk4MFBnUjRTX0RJbWFLSGxFblVGaE16b2hiQ3F5enFtVTQ3RXFsdw?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORTBnS2JfTUY2bV9JVnlHTFBWNktDRFU3aEVzOFJRVEpUX3FKLWtha1AyUHNubEdXbFVJazJoRjlhR1ZVckhqa054aVlScDlBSWVDNFB0aDZwbjJfUWI5b1R1VVpWQURIYWVGWFc2RUs5M1BESmdqNzBEdEFQSXY0S0NNS3BnMDFFMVNPTEZUTWtxRDJKVy1tamFmZmJqQmNBdE0tRmRkQWswSVhWZ3p1N0F4UXpWZVh1dGMxVll6cEo?oc=5"
+            "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+            "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1"
           ]
         },
         {
-          "t": "Daiichi Life Pursues New Zealand Insurer Acquisition",
-          "src": "Nikkei Asia",
-          "b": "Japan's Daiichi Life agreed to buy a New Zealand insurance company. The firm pursues international expansion through this purchase. The deal forms part of an overseas growth push.",
-          "i": "Japan's Daiichi Life agreed to acquire a New Zealand insurer. The transaction advances the firm's international expansion strategy. Overseas acquisitions form a core part of the corporate growth push.",
-          "a": "Daiichi Life agreed to purchase a New Zealand insurer to advance its international expansion strategy. The cross-border transaction reflects capital deployment priorities outside the domestic market. Corporate overseas expansion remains a primary vehicle for asset diversification.",
+          "t": "Traders react to central bank speculation",
+          "src": "Guardian Business · Bank of Japan",
+          "b": "Speculation grew that the Bank of Japan will raise interest rates. Interest rates are the cost of borrowing money. Traders placed bets on this monetary policy shift. The central bank scheduled a Meeting on Market Operations.",
+          "i": "Traders increased bets on higher borrowing costs from the central bank. Market participants reacted to speculation that the Bank of Japan will raise interest rates. The central bank announced a Meeting on Market Operations for September.",
+          "a": "Speculation regarding imminent policy tightening drove aggressive positioning across currency desks. Market participants aggressively priced in higher <span class='term' data-t='inflation'>inflation</span>-linked borrowing costs ahead of the central bank's scheduled Meeting on Market Operations.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEdKbzR4Z044UUpOZ0NqTGxKRUxXOUZ1X2kzZXlub0ZzbUJyMTdzR19LRFc4N0NJQko4T2RpdmFROTN5VVJSSGlWZDVjbV9FQm81U2JPR1IxazZpYnlucWFWYzVncUxBSVFQRXo3NndnNGVVYUc3MERBVUx6LXU3MHNjRXVMdkotWGRIMHc3YTJpZEl3M0hIQkVVUG9NemtaMlJ5NU1YQktsNWtYTzdNVjJtTmtuYmJQ?oc=5"
+            "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+            "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf"
+          ]
+        },
+        {
+          "t": "Australian Dollar weakens against the yen",
+          "src": "FXStreet",
+          "b": "The Australian Dollar dropped in value against the Japanese currency. China released its Services PMI data. PMI stands for Purchasing Managers' Index, which measures economic activity. This economic report influenced the currency move.",
+          "i": "The Australian Dollar weakened against the Japanese Yen. China released its Services PMI data on the same day. Foreign exchange markets adjusted cross-rates following the release of the Chinese economic figures.",
+          "a": "The Australian Dollar depreciated against the Japanese Yen following the publication of China's Services PMI data. Cross-asset currency desks adjusted valuations as the Chinese activity indicator rippled through regional trade pairings.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFRzaGYzZzNjQm85YUk1cVBQMEFXZGZhemhrNHFudWRFRlExbjlfbkwzSXo1M1hHOHlxRnNPQ3JtTzNxNEVoVlZ3VkZvcWpabFkwWWd4eWlNbDdrTTAtUFBoak83TEFBRUtTLWhXSlYwN2p3UzMwVHZGdFVJTDVsWnl1OFBRcUxiRDcySHhNZVE3OUwtbVRrZUJheVB1QU12cmhWck5QcUFlR2p5MkNMR2VFOTE2eTBCWnl3eGQxdG1kZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Japan's top currency diplomat stated that the government remains on high alert regarding foreign exchange movements.",
-        "i": "Japan's top currency diplomat stated that authorities remain on high alert regarding foreign exchange market developments.",
-        "a": "Japan's top currency diplomat reiterated that authorities remain on high alert regarding foreign exchange moves.",
+        "b": "The Bank of Japan issued projections for current account balances for September. Officials published details on changes in these financial accounts. The central bank also scheduled a special market operations meeting.",
+        "i": "The Bank of Japan published projections for current account balances for September. The institution released statistical data detailing sources of changes in current account balances. Officials also called a Meeting on Market Operations.",
+        "a": "The Bank of Japan published its September projections for current account balances, detailing liquidity flows. Officials scheduled a formal Meeting on Market Operations alongside the data release.",
         "sources": {
           "0": {
-            "outlet": "Japan Wire by Kyodo News",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnWE1qTzVqZ08yZEw5NjU0ekhIVmx1Vk1Ia2M0WmpyOGlWUlRVY281cFVLdEg2RGVNLWd5dVdjMTZfMFVVS3BXRU1vTmxfSy1nUURxWEQ5YTdjQQ?oc=5"
+            "outlet": "Bank of Japan",
+            "url": "http://www.boj.or.jp/en/paym/market/mkt260903a.pdf"
+          },
+          "1": {
+            "outlet": "Bank of Japan",
+            "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2609.xlsx"
           }
         }
       },
       "timeline": [
         [
-          "3 Sep 2026",
-          "Daiichi Life announced plans to buy a New Zealand insurer."
+          "2 Sep",
+          "Bank of Japan publishes projections for current account balances for September."
         ],
         [
-          "3 Sep 2026",
-          "The Japanese yen rose to a one-month high against the dollar."
+          "3 Sep",
+          "China releases Services PMI data influencing the Australian Dollar and Japanese Yen."
         ],
         [
-          "3 Sep 2026",
-          "Japan's top currency diplomat confirmed officials remain on high alert over forex moves."
+          "3 Sef",
+          "Bank of Japan holds a Meeting on Market Operations as the yen reaches 155.57 per dollar."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Policy funds deployed, land auctions diverge, and tech IPOs line up",
+      "sub": "China rejects G20 trade pressure and reports emissions drop",
       "ind": [],
       "stories": [
         {
-          "t": "Policy Financing Funds Deployed to Spur Investment",
-          "src": "WKZO · Finimize",
-          "b": "China launched its first policy financing funds for 2026. These funds provide financial backing to boost economic activity and investment. The policy bank started this new funding push to drive growth. The first batch of money was deployed on September 3, 2026. This means the government is injecting cash into the economy to help projects get built.",
-          "i": "China deployed its first 2026 policy financing funds to stimulate investment activity. The policy bank initiated the funding push to accelerate capital deployment across projects. State-backed financial institutions channel these resources to counteract economic sluggishness. The initial tranche reached the market on September 3, 2026. These funds serve as a primary monetary transmission mechanism for infrastructure support.",
-          "a": "State policy banks initiated the 2026 capital expenditure cycle by releasing the initial batch of policy financing funds. This liquidity injection targets targeted fixed-asset formation to offset private sector deleveraging. The deployment mechanism relies on state-directed credit expansion rather than broad rate cuts. Analysts monitor the multiplier effect of these disbursements on downstream industrial demand. The allocation commenced on September 3, 2026.",
+          "t": "China rejects G20 criticism over export reliance",
+          "src": "CNBC",
+          "b": "Government officials in Beijing rejected pressure from the Group of 20 nations on 3 September 2026. The G20 is a club of rich and developing countries that talks about the global economy. The G20 criticized China for depending too much on selling goods to other countries. Beijing accused the group of promoting protectionism. Protectionism means putting up rules and taxes to block foreign goods to help local businesses.",
+          "i": "Beijing pushed back against international criticism on 3 September 2026. The <span class='term' data-t='inflation'>G20</span> statement targeted the nation's reliance on exports for economic growth. Chinese authorities rejected the pressure and accused the group of promoting protectionism. Officials also challenged U.S. sanctions against Iran and European trade measures.",
+          "a": "Chinese officials formally rejected Group of 20 criticism regarding export-driven growth models on 3 September 2026. Beijing countered by accusing the multinational body of fostering protectionism. The diplomatic friction also encompassed challenges to U.S. Iran sanctions and European trade restrictions.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUZSR2EyVE8wRVBVSmc3MFYwMVE5N04wTnd0Zk5DNXJVV2FpTWxDTWhmNTl5bU1QUXhYNkZlWWw5a2tJdVd0VUtMSjMzV3VpUEp5OGx3RFJ4UWZzNlpCMGRNNjhndEJPY2hDcFRqSklyYXk2Y003REpCdFFQbDRZWHVGSHRaVE9LS0JFdVVnZXF0UVhvSjd4bDBZcw?oc=5",
-            "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmNMa19mS1dDVG90NkU5NkVOdlRZUllRY2xxalIzaVJCYm9qTDFDTndjYURTX0F6YW9yT2xWV3JKT2VfcmpzcUMwVHp6WVRjcWdzQmc2bGNnVXZTdldnQ0M2Vy00N2w1Yjk1T1k2dzJlVXE1WjZLQkdLeVp3YVAyNHVLbw?oc=5"
+            "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html"
           ]
         },
         {
-          "t": "Zhen Ding Unit Invests 12 Billion Yuan in Packaging Substrate",
-          "src": "marketscreener.com",
-          "b": "A unit of Zhen Ding Technology plans to spend 12 billion yuan on a new facility. This plant will build advanced packaging substrates for electronics. The investment aims to expand manufacturing capacity for high-tech computer parts. Zhen Ding announced the project on September 3, 2026. Such substrates help connect microchips inside modern computers and phones.",
-          "i": "Zhen Ding Technology approved a 12 billion yuan capital expenditure by a subsidiary. The funds build an advanced packaging substrate manufacturing base. This expansion captures rising demand for high-density interconnect components in semiconductor supply chains. The subsidiary finalized the investment commitment on September 3, 2026. Advanced packaging remains a key bottleneck and growth driver for semiconductor fabrication.",
-          "a": "Zhen Ding Technology committed 12 billion yuan through a subsidiary for advanced packaging substrate production. The capital expenditure expands domestic capacity for high-end IC substrates amid global supply chain restructuring. This investment positions the firm further up the semiconductor value chain into high-margin packaging formats. The corporate board authorized the facility buildout on September 3, 2026. Execution risk centers on equipment delivery timelines and yield rates for fine-pitch substrates.",
+          "t": "Carbon dioxide emissions drop following war on Iran",
+          "src": "Guardian Business",
+          "b": "Carbon dioxide emissions in China fell by 1% after the outbreak of war on Iran. A report published on 2 September 2026 showed that oil consumption dropped sharply. At the same time, sales of electric vehicles and public transport use went up. Analysts say oil demand might not go back to old levels even if crude prices drop.",
+          "i": "Carbon dioxide emissions fell by 1% following the outbreak of the U.S.-Israeli war on Iran. A report published on 2 September 2026 linked the drop to lower oil consumption alongside rising electric vehicle sales. Analysts noted that demand may not fully return even if crude prices fall.",
+          "a": "National carbon dioxide emissions contracted by 1% following the onset of the conflict involving the U.S., Israel, and Iran. Data published on 2 September 2026 attributed the decline to curtailed oil consumption and structural gains in electric vehicle adoption and public transport. Analysts suggest structural demand destruction may persist even if crude oil prices decline.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUGw2c2gzS2xMN2o5UzhUa2ZHV2tWeUFQX0xFS3dETFdDRGExcTcxREZjMW5JVmVqNkhjZndwX0RuemJIUHJWSk1zV2lQS3k1ZFhvU2l5VEZLbUNrU1ZMaDVNQmhuclJRVWpOMm9aUGdmRlRuNGFycGNxdW9JUHlESEVTbTY0R3NxN0N5Yy13VUJuaUNyQ3U0SVBqY0EwdDZhU3prbWZVMENaMUF6MUs0Q2d1T1pVaWUwdEFCN05LdlBfcEZhTlRmNld2OUJ0Sm8wUVhwRTVPcmw?oc=5"
-          ]
-        },
-        {
-          "t": "Beijing Land Auction Shows Sharp Divergence",
-          "src": "finance.biggo.com",
-          "b": "Beijing held its first land auction under a new policy on September 3, 2026. The results showed a very mixed market for real estate developers. Officials suspended the Jiangtai plot before any bidding could even start. Meanwhile, a residential site in Shunyi attracted 170 rounds of competitive bidding. This means builders want land in certain suburbs while ignoring other locations.",
-          "i": "Beijing's initial land auction under revised regulations revealed extreme market polarization on September 3, 2026. Regulators suspended the Jiangtai plot prior to bidding due to a lack of developer interest. Conversely, a Shunyi residential parcel triggered 170 rounds of competitive bidding. This divergence indicates selective risk appetite among developers focused on specific suburban yields. Land market dynamics continue to reflect localized property sector distress.",
-          "a": "The primary land market in Beijing demonstrated acute bimodal dispersion during the initial auction under the revised policy framework on September 3, 2026. Authorities pulled the Jiangtai plot pre-auction following zero participation. Simultaneously, competitive bidding for the Shunyi residential tract reached 170 rounds. This disparity highlights asymmetric valuation models where developers eschew prime urban parcels with unfavorable margin profiles in favor of liquid suburban projects. The bidding intensity underscores localized spot liquidity despite structural real estate headwinds.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aQTF0cVh6NHVwX2dkb0JCRTdlU09lNXoyZFZEa2Q4SEcyLVhhYWpmZXlORlBUaEZ2ZHBkRFpUa3NzRUc5Y0tfTjRVY0w1a0tOMXYzMjYyQTJuT0U2WnVvRk5BYm92WHQ1SmFhc2lVT3JyNU9keWc?oc=5"
+            "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war"
           ]
         }
       ],
       "politics": {
-        "b": "Economic officials rolled out new funding to support investment projects. Regulators also changed rules for city land auctions. These steps aim to manage local growth and property markets.",
-        "i": "Policymakers deployed state financial resources to stimulate capital formation. Authorities also implemented revised regulatory frameworks for municipal land auctions. These administrative measures attempt to recalibrate regional economic activity and property supply.",
-        "a": "State planners deployed policy bank liquidity instruments to stimulate real economy investment velocity. Municipal authorities executed regulatory shifts in land auctions, triggering visible pricing divergence across urban parcels. These policy interventions attempt to balance structural deleveraging with targeted growth floors.",
-        "gloss": null
+        "b": "Donald Trump and Xi Jinping planned a summit in Washington D.C. The meeting was scheduled to happen less than six weeks before a U.S. election. Opinion polls showed Democrats were favored to make gains in Congress.",
+        "i": "Donald Trump and Xi Jinping scheduled a leadership summit in Washington D.C. The meeting takes place less than six weeks before the U.S. election. Polls indicated that Democrats were favored to make gains in Congress.",
+        "a": "A presidential summit between Donald Trump and Xi Jinping was scheduled in Washington D.C. The diplomatic encounter occurs less than six weeks prior to the U.S. election, with polling showing Democrats favored to make gains in Congress.",
+        "sources": {
+          "0": {
+            "outlet": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html"
+          }
+        }
       },
       "timeline": [
         [
-          "3 Sep 2026",
-          "China deployed its first 2026 policy financing funds to stimulate investment."
+          "2 Sep 2026",
+          "A report showed China's carbon dioxide emissions fell by 1% following the war on Iran."
         ],
         [
           "3 Sep 2026",
-          "Zhen Ding Technology approved a 12 billion yuan advanced packaging substrate investment."
-        ],
-        [
-          "3 Sep 2026",
-          "Beijing held its first land auction under new policy, showing divergent bidding results."
+          "China rejected G20 criticism over its export-driven economy and challenged U.S. Iran sanctions."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "RBI liquidity auctions and four days of equity declines",
+      "sub": "Reserve Bank of India liquidity auctions and debt operations",
       "ind": [],
       "stories": [
         {
-          "t": "RBI Schedules Short-Term Reverse Repo While Government Bond Buyback Fails",
-          "src": "Reserve Bank of India · BusinessLine",
-          "b": "The Reserve Bank of India, which is the country's central bank that manages money and interest rates, will run a cash-absorbing auction on September 04, 2026. This auction will remove 7,00,000 crore rupees from the banking system for three days. Meanwhile, the same bank tried to buy back ₹30,000 crore of government <span class='term' data-t='gilt'>securities</span>, but financial institutions offered none at all. On a different note, the Indian rupee climbed to a two-and-a-half month high due to deposit inflows.",
-          "i": "The Reserve Bank of India scheduled a variable rate reverse repo auction to drain 7,00,000 crore rupees of liquidity from the banking system for a three-day tenor starting on September 04, 2026. Simultaneously, a government <span class='term' data-t='gilt'>securities</span> buyback auction targeting ₹30,000 crore received zero accepted offers from participants despite ₹3,109.305 crore being tendered across four specific maturities. Meanwhile, the domestic currency strengthened to a two-and-a-half month high driven by foreign deposit inflows.",
-          "a": "The central bank operationalised a 7,00,000 crore rupee variable rate reverse repo liquidity drain for a three-day tenor, contrasting with the complete rejection of ₹30,000 crore in targeted <span class='term' data-t='gilt'>securities</span> buybacks where participants offered a mere ₹3,109.305 crore across four benchmark tranches. This failure of the debt retirement operation leaves the duration profile intact while short-term liquidity management relies on liquidity adjustment facility windows. Concurrently, the nominal effective exchange rate appreciated to a two-and-a-half month peak underpinned by foreign currency non-resident deposit inflows.",
-          "gloss": "gilt",
+          "t": "Central bank absorbs system cash via reverse repo auctions",
+          "src": "Reserve Bank of India",
+          "b": "The central bank of a country manages the total cash moving around the financial system. This bank is called the Reserve Bank of India. It held an auction to pull in excess cash from commercial banks for 1 day. Banks offered ₹5,18,742 crore, and the central bank accepted all of it. The accepted rate for these funds was set at 5.24%.",
+          "i": "The Reserve Bank of India executed an overnight variable rate reverse repo auction to drain excess cash from the banking sector. Banks submitted ₹5,18,742 crore in total offers against a notified amount of ₹6,00,000 crore. The central bank accepted the full amount tendered at a cut-off rate and weighted average rate of 5.24%. A second overnight auction of the same type later accepted ₹34,652 crore at a matching rate of 5.24%.",
+          "a": "The Reserve Bank of India absorbed system liquidity through dual overnight variable rate reverse repo operations. The primary 1-day auction cleared ₹5,18,742 crore against a ₹6,00,000 crore notification, matching the full tendered amount at a clearing rate of 5.24%. A supplementary overnight facility accepted an additional ₹34,652 crore at the identical 5.24% weighted average rate. These absorption volumes occur alongside a separate 3-day reverse repo notification targeting ₹7,00,000 crore.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63510",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63509",
-            "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUG40VHJuSmVDVEkxWDVsU0wzek5KemxtYWRYN3VUbkd3S3N3UzZnQ3B5X2lzbzVlOGExZTRXNFl0T2FYbGxJWFpDRFVBN1B4UEtHRWxPekp3TVdSZ3ZkWWZ2M28tZFFQNE1aZzQ4Y1cxSW1ONGxOVmJTbUJTT1NXOUxQUGx2VDBya25OLVlGeHNhZ250WkhCN0MyODRaWmctYk5uWjFOYlBHTmF4dTR3SmFIUjlOMmJwa3pSSVRRRkhCNmhQN0ZrVzMtSkRHYllhUl93Q1RWS3lIQXZmNmFGN2ZuTTBwMFXSAe4BQVVfeXFMTzlZUTRkMEhockM4ZUR3TTJLUlJNWmZOdGZzLXFkTldBU2h2TTdWcGw0Z3lvVW9WWHJocmw2LTR6Q3BpTDdhQmN0bWN3bUl1SThHY2VVX1VIMTdxTy0zYjA2b3BlVGZTazhkV1JaYnpZZEJHdEZkSUpDdnUyRTBRZXVQQ0ZMRUNBVzVwYXNpLWtYRG1yRGw0N2pkSVROR0MwMUVya29DT0lPRTA5WVN3TDhJcGFxcTZQM2g2a2xHYnA0NHR5WXFpY1BVYnU1cFhaQ09qLUNpWUdxc0QzRTEwbFJlYXlwWGFIekNiaH43dw?oc=5"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63508",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63505",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63506"
           ]
         },
         {
-          "t": "Sensex and Nifty Slide for Fourth Consecutive Session on Inflation Fears and Sector Drags",
-          "src": "The Indian Awaaz · BusinessLine · INDIA New England News",
-          "b": "Indian stock market indexes called Sensex and Nifty dropped for the fourth day in a row. Information technology and auto shares led the losses. The Sensex index fell 417 points because higher oil prices raised worries about rising costs and <span class='term' data-t='inflation'>inflation</span>. Later, the closing auction saw a wild 2,100-point swing.",
-          "i": "Indian equity benchmarks Sensex and Nifty declined for the fourth straight day as information technology and auto stocks dragged indices lower. The Sensex fell 417 points as rising crude oil prices stoked worries about <span class='term' data-t='inflation'>inflation</span>. Intra-day trading also featured a sharp 2,100-point swing during the closing auction.",
-          "a": "Domestic benchmarks Sensex and Nifty extended their losing streak to four sessions, pressured by liquidations in information technology and auto equities. Higher crude oil quotations amplified macroeconomic <span class='term' data-t='inflation'>inflation</span> concerns, pulling the Sensex down by 417 points. Market depth was further tested by a volatile 2,100-point price swing concentrated within the closing auction mechanism.",
-          "gloss": "inflation",
+          "t": "Government debt buyback receives zero accepted offers",
+          "src": "Reserve Bank of India",
+          "b": "The government of a country issues bonds to borrow money from investors. These bonds are a promise to pay back the borrowed sum later. The Reserve Bank of India tried to buy back some of these older government securities early. Investors offered a face value of ₹3,109.305 crore across four different bonds. The central bank accepted none of these offers.",
+          "i": "The Reserve Bank of India scheduled a buyback auction for Government of India dated securities with an aggregate notified face value of ₹30,000 crore. Participants submitted offers totalling ₹3,109.305 crore across four distinct maturities, including the 7.33% GS 2026 and 8.24% GS 2027 bonds. The central bank rejected all submissions, resulting in zero accepted face value.",
+          "a": "The Reserve Bank of India recorded zero acceptances in its scheduled buyback auction for dated <span class='term' data-t='gilt'>government securities</span>. Notified at an aggregate face value of ₹30,000 crore, the operation drew total participant offers of only ₹3,109.305 crore across the 7.33% 2026, 5.74% 2026, 8.15% 2026, and 8.24% 2027 maturities. The complete rejection of offers implies a divergence between secondary market yield demands and the central bank's repurchase pricing thresholds.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZnBmUllnOF90WWxXVmxTQnFEN2JNTFBRbjJBekI2X2pBMjVMUTcxUTNLZFZhN3R5NlJOeF9qYnczeWRXRldoWDFUeVVmV3hKYmowUG92MkF0Z1A5TGdDWFRPQkJjRzJTQmVlOEZ4cEdDRXJmTU03S3RDRXNTTjVGRTFMTzVaOExSY0NFY2FQaH52M2FtRmNQREVxUmo4MzMzdHRsRUY2MUhaam1sTExFSDUzdFpPVi1tQ1NlY3JWMzXSAccBQVVfeXFMUG84dl9ZYlBFWmlPSHhSclpLQTJFeGdPcUQwRExSSUdaLXdGUlQtT0g5emxUSzJOZGQ4bWZRR2JPSVRFYS10TE9aWmliRGlqRjY3WWlqUFJQVEthRFJRTWpvRThCeUJxVWQ3eEw5d21KN1d2TVhJcWVsOHlsdHhzLVlybjBRTlRzTkJsMTJnSUw4ZVRYY01kTWlnQnA3X1d6VzB4UzNLV3ZSS09abTVQMW9VVFlNX0hPTV9fTGU4eUk4OWl3TlNacw?oc=5",
-            "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVlkT0tLR3NfMDRtQ2tZTGlCanBocDFVMk95d0tNWHplUlNEbGIxTlRrTWd4YV81M2JUNlF6aG81SVNqQUlzbFdfeWhic3BoRlpoeG1hNXZmWEJiOXRFMUpybEt2X3hxTGFiS3Z1S2dmSUxjcl9IS1BJTGZlZ2tTVHVTT0pyQURnaEVseVFSSEdiUFZfeHE0bEVRUkNwTEFsQ2pzMElrTGtnMlZfeGc?oc=5"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63509"
           ]
         }
       ],
       "politics": {
-        "b": "India's central bank deals with large currency deposit costs while markets react to stock losses.",
-        "i": "The Reserve Bank of India manages substantial financial exposures on foreign deposits as equities face sustained selling pressure.",
-        "a": "Fiscal and monetary authorities navigate sovereign debt adjustments and foreign deposit liabilities while equity indices reprice on incoming commodity price signals."
+        "b": "The Reserve Bank of India organized daily money market operations and scheduled new debt underwriting auctions for September. Commercial banks participated in overnight borrowing segments involving call money, triparty repo, and corporate bond repos. Data also showed forex inflows moving through specific deposit and borrowing channels.",
+        "i": "The Reserve Bank of India managed liquidity through money market operations totaling ₹6,55,609.02 crore across overnight segments on September 02, 2026. Triparty repo volumes reached ₹4,92,388.20 crore while call money transactions stood at ₹10,677.54 crore. Separately, the government prepared an underwriting auction for ₹32,000 crore in securities scheduled for September 04, 2026.",
+        "a": "Overnight money market operations handled ₹6,55,609.02 crore in volume on September 02, 2026, with weighted average rates spanning 3.00% to 5.35%. Triparty repo dominated the segment with ₹4,92,388.20 crore at a 4.68% weighted average rate, while corporate bond repos cleared at 5.20%. Concurrently, authorities established underwriting commitments for a ₹32,000 crore debt sale slated for September 04, 2026."
       },
       "timeline": [
         [
-          "3 Sep 2026",
-          "Sensex and Nifty decline for the fourth consecutive trading session"
+          "08 Jun 2026",
+          "RBI introduced a special USD-INR Forex Swap facility."
         ],
         [
-          "3 Sep 2026",
-          "Reserve Bank of India announces a 7,00,000 crore rupee VRRR auction"
+          "",
+          ""
         ],
         [
-          "3 Sep 2026",
-          "RBI accepts zero offers in its government security buyback auction"
+          "02 Sep 2026",
+          "Money market operations recorded ₹6,55,609.02 crore in overnight volume."
+        ],
+        [
+          "03 Sep 2026",
+          "RBI conducted overnight variable rate reverse repo auctions."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Brazilian equities gain on election focus and sector rotation",
+      "sub": "Too thin for Brazil",
       "ind": [],
-      "stories": [
-        {
-          "t": "Ibovespa Climbs Ahead of New Polls",
-          "src": "TradingView",
-          "b": "The Ibovespa is the main index tracking the biggest companies trading on Brazil's stock exchange, like a basket holding shares in many different businesses. This index went up recently. The increase happened because investors were waiting for a fresh political election poll to come out. Markets often move when new information about future leaders arrives.",
-          "i": "The Ibovespa moved upward in trading sessions. Market participants drove the index higher while positioning portfolios ahead of a fresh election poll release. Investors typically adjust risk exposure when political visibility shifts.",
-          "a": "The Ibovespa appreciated as participants re-weighted portfolios ahead of incoming polling data. Price action reflects tactical positioning around electoral risk premiums. The implied volatility surface suggests traders are hedging binary outcomes tied to the ballot.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEpieXB4cjdjSFpLcnNQYnIxTjVTQjV0TUExOFduVVR0QmNHWmZlc2JBUnl5akdLMzQyXzNvRF9ha1piUHJOd3RuckNCMGNOaEk5ZDNpYnBzaVo1aFBYaHVFMDk4c2JlamR5YTRyM1J3Z2VrZk8wNWlCUEtmY0hZaEMwVGtBVUJXNVN5UTVvOERJdHhNelFN?oc=5"
-          ]
-        },
-        {
-          "t": "Vamos Shares Surge on Cyclical Rotation",
-          "src": "AD HOC NEWS",
-          "b": "Vamos saw its stock price jump by more than 16%. This happened because investors decided to move their money into cyclical stocks. Cyclical stocks are shares in companies whose fortunes rise and fall closely with the health of the general economy, such as transport or heavy machinery firms.",
-          "i": "Vamos equity surged over 16% during the session. Institutional flows rotated into Brazilian cyclicals as market participants favored economically sensitive sectors. This buying pressure lifted valuations across asset classes tied to domestic growth.",
-          "a": "Vamos equity rallied in excess of 16%, driven by systemic sector rotation into domestic cyclicals. The transmission channel involved concentrated capital reallocation away from defensive holdings toward high-beta cyclical assets. This buying pulse demonstrates shifting duration and growth expectations among domestic allocators.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmNBZkNmeGxwbTkwUVZSV2o1dkNKSU1QSVJlQy13UlFSRmpjVWliS3hfVW5vWUtKOWJ4Z0VZYlFZLUYzaTV3RDlud192SmhZTjJrSXhIOGtpMllzdXpFVG83VHpzLTR5SWk2S3JIT0pRcFJpSWhmbEQ1VXpEempfNHpvMnVmVWpKTzlHY1dZLXF5VG9GcGFGNFJTYjVrLTV6YVk3cFF6ZE5McHN6MGM5SUNlSkotbEJOSWNVVmdoZW9kTWNPd2c?oc=5"
-          ]
-        }
-      ],
+      "stories": [],
       "politics": {
-        "b": "Elections in Brazil draw strong attention from people who invest money in the country's companies. Fresh poll results can change how traders view the future rules and economic plans of the government. Investors watch these political surveys closely to guess which direction the markets might travel next.",
-        "i": "Brazilian political polls dictate near-term sentiment across domestic asset classes. Investors calibrate equity exposure based on shifting candidate popularity and potential policy outcomes. Electoral visibility remains a primary driver of local market direction.",
-        "a": "Brazilian electoral dynamics function as the principal exogenous risk factor for local asset pricing. Market participants reprice sovereign risk premiums iteratively as new survey data emerges. The intersection of fiscal orthodoxy debates and candidate polling dictates capital allocation strategies.",
-        "node": null
+        "b": "",
+        "i": "",
+        "a": ""
       },
-      "timeline": [
-        [
-          "2 Sep 2026",
-          "SmartFit stock gains as interest spikes and dividend move draws attention."
-        ],
-        [
-          "3 Sep 2026",
-          "Vamos stock jumps over 16 percent as investors rotate into Brazilian cyclicals."
-        ],
-        [
-          "3 Sep 2026",
-          "Ibovespa rises ahead of a new election poll."
-        ]
-      ]
+      "timeline": []
     },
     "Saudi Arabia": {
       "iso3": "SAU",
@@ -466,85 +433,97 @@
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira rally, FTSE index addition, and Treasury bill yields",
+      "sub": "Naira gains and index inclusions",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Gains Ground Against Major Currencies",
-          "src": "TVC News · Channels Television · National Daily Newspaper",
-          "b": "The money used in Nigeria is called the naira. Money has different values when traded between countries, which is called an exchange rate. The naira is heading for its biggest yearly jump since 2018. It recently traded at N1,329 per dollar and around N1,800 against the pound.",
-          "i": "The naira is heading for its strongest annual gain since 2018. Strong foreign exchange inflows, local refining, and the removal of fuel subsidies are driving this currency stability. The exchange rate recently reached N1,329 against the dollar and held around N1,800 against the pound.",
-          "a": "The naira is tracking toward its strongest annual appreciation since 2018 despite impending 2027 election risks. Structural adjustments, notably fuel subsidy removal and domestic refining capacity, continue to underpin foreign exchange inflows and curb persistent <span class='term' data-t='inflation'>inflation</span>ary pressures on the currency. Spot rates recently strengthened to N1,329 per dollar, while cross rates against the pound stabilized near N1,800.",
-          "gloss": "inflation",
+          "t": "Nigerian Stocks Added to Frontier Index",
+          "src": "Arbiterz",
+          "b": "FTSE Russell is a company that creates lists of stocks from around the world to help investors know what to buy. They just added 10 Nigerian companies to their index, which is like a tracked basket of shares representing a stock market. Aradel, Dangote Cement, GTCO, and MTN are among the firms included in this update. This puts these businesses in front of more global investors.",
+          "i": "FTSE Russell added 10 Nigerian equities, including Aradel, Dangote Cement, GTCO, and MTN, to its Frontier Index. Inclusion in an index typically drives passive inflows as benchmark-tracking funds adjust their portfolios to match the new composition. This expansion increases the visibility of Nigerian corporations among international institutional investors.",
+          "a": "FTSE Russell incorporated 10 Nigerian names, featuring Aradel, Dangote Cement, GTCO, and MTN, into its Frontier Index. Passive rebalancing will force benchmark-tracking funds to accumulate these domestic equities to minimize tracking error. The inclusion broadens the foreign institutional investor base for these specific counters.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1BIV3NmNmJTTWlPXzh6X1RrMGcyclFIOTA0WnlYdXlVRlVVQ1FacDVhQ0tObDJBTnRISnZvT1VOX3l1ZEZoQWtrVldaRHNXMnNaZWJISVZ2UGh5WU45Y1htOXA4RVgtNWJsQVk4S1ZPOUhjdVA4LURCZVN4ZjlKaUV3N2ViTzhXQWlzcUlndjhMSkRUelNmUHRuSTV2NnQ1bVo1cjZSY3VWZmY3ejRIamJCM20?oc=5"
+          ]
+        },
+        {
+          "t": "Naira Extends Rally Against Major Currencies",
+          "src": "TVC News · legit.ng · Channels Television",
+          "b": "The naira is the official money used in Nigeria. It is heading for its strongest yearly gain since 2018. It recently traded at ₦1,329 against the United States dollar. Better foreign exchange inflows helped push the value higher.",
+          "i": "The naira is heading toward its strongest annual gain since 2018. It recently traded at ₦1,329 against the dollar amid strong foreign exchange inflows. Market participants attribute the stability to fuel subsidy removal and local refining.",
+          "a": "The naira is tracking toward its strongest annual performance since 2018 despite lingering 2027 election risks. Spot rates touched ₦1,329 against the dollar driven by robust foreign exchange inflows. Domestic refining capacity and the prior removal of fuel subsidies continue to anchor currency stability according to industry figures.",
           "links": [
             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUl4ZERTaDBwTFZBYnFHcUY0RnpnUkFBOGpPejBReWRfcFlFalk2MzgtcHZhT192NkZPU3dXdEF4VU9Vdng4V2ZGdEtjVzRCVkN4Yllob0Vrd1Y2eVZIXzdXM1BTMFlyYUR0MVo3NFVFVkJNQkVfYnliemVHazlydXlLT09JbEJmYUQ2MmdvSEJkLVUwV3ozYmJqTDd4emp3emo3VzRLQkJfTWc?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcU5QeU5ucHA3d2QwMkFQc19NeWcwR2FwUkZuTjRZX3VNX3NkOGNRRnhSX2o2N202cFpPZFRsNmNrY2x2TTQyZlRfRTB1TFhxS3JtVzFWLUgyd1RCUU9zS2M2cVNwTEFSN1JxRTRuY0RSWWFTSDFyYThwXzVQWjNiLWI2RHgtR3c3c0VxQU44Q2tZc2pZNHByMVB2MjhsVTdrN3FUVXJXRTJhNGtLanhn?oc=5",
             "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkh0WmtYRVhpcXBtOU9CNjRBMkY2blA4bjhLYnJST0ZMVVQ3cmRKYjZvdXRjTTA4Z3VUb09XSWx2WFVCMmZuMXZmMlRfcXpGekxyNHJZMHZrT0lSbGg5RTgyNVB0bnhxSGFYUUxrdzZyaXBrNkV2SjRhOENVMmVZcmxOaGN2dGctSmdpUHJNRTBEdHlIbjFOa0xXX1plTVpMU0NzQWlMWmxXQVV5dC1hYVJNeEpqY2Ruc3c?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEQ3T21vOGROVlZUM25HYVJKNVpfQ3phcUsxdzBwb1prYVl2bFlwS3F2TmRlem5jODh2b0hwa0pIbTc0Rk95NGZLbkZFQW1FbGpsa285S0hHUXJvTzhUek9RaExVblpPTzNfRmVXVFZnWU5ndWVOVDdGaE5CaTNBRzFQWkl5VFBNcDlmRWZhQzNHdEQzcnNBellEd0ZFVklobUHSAaIBQVVfeXFMT2hEN09tbzhkTlZWVDNuR2FSSjVaX0N6YXFLMXcwcG9aa2FZdmxZcEtxdk5kZXpuYzg4dm9IcGtKSG03NEZPeTRmS25GRUFtRWxqbGtvOUtIR1Fyb084VHpPUWhMVW5aT08zX0ZlV1RWZ1lOZ3VlTlQ3RmhOQmkzQUcxUFpJeVRQTXA5ZkVmYUMzR3REM3JzQXpZRHdGRVZJaG1B?oc=5",
             "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2hiXzNXdjlfMk9JbnZjZjNWM2hsMUk2T1NUcWJSdV96T2JfNU5xYWFkQW1VOUxONnMwTWQ0QnlYNmJOZldQX1ZmbnpvOWlqQUVYajdKNVF4UHk0UzVZMUkzX2s5UWY5NVRiUldGS0I0OHNpUS05WG5JcmRWZnlDTnVkRTNFWHZjWXc?oc=5"
-          ]
-        },
-        {
-          "t": "FTSE Russell Adds Ten Nigerian Stocks to Frontier Index",
-          "src": "Arbiterz · Business News Nigeria",
-          "b": "Big companies sell tiny pieces of themselves to the public, which are called shares or stocks. Indexes are lists that group many stocks together to track how a market is doing. FTSE Russell added Aradel, Dangote Cement, GTCO, MTN, and six other Nigerian stocks to its Frontier Index.",
-          "i": "Equities markets expanded as FTSE Russell included Aradel, Dangote Cement, GTCO, MTNN, Zenith, First Holdco, and six other Nigerian stocks in its Frontier Index Series. This inclusion increases the visibility of these corporations to international funds tracking benchmark indices. Index adjustments often trigger portfolio rebalancing by institutional asset managers.",
-          "a": "FTSE Russell incorporated Aradel, Dangote Cement, GTCO, MTNN, Zenith, First Holdco, and six other local equities into its Frontier Index Series. Inclusion in this benchmark enhances passive foreign capital inflows by forcing institutional index trackers to adjust their weightings. Market participants monitor these additions to gauge broader international liquidity absorption.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1BIV3NmNmJTTWlPXzh6X1RrMGcyclFIOTA0WnlYdXlVRlVVQ1FacDVhQ0tObDJBTnRISnZvT1VOX3l1ZEZoQWtrVldaRHNXMnNaZWJISVZ2UGh5WU45Y1htOXA4RVgtNWJsQVk4S1ZPOUhjdVA4LURCZVN4ZjlKaUV3N2ViTzhXQWlzcUlndjhMSkRUelNmUHRuSTV2NnQ1bVo1cjZSY3VWZmY3ejRIamJCM20?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRm56V2FXWUNxaUd1a3hyVmZoTXBYNmxVYzdXSEo0b1hNWlRjUDhXZ1NfZEtjWnFKZVd0RnZ2WldLU3gxdEJFRV9LRmQ2U3JKRlNhQkZzSnpxLTJZM0oyZHJ0RUpsbHh2LXk3MlRaMDZaODNUend6aWhhVnQyRHNGLVlpN3JSam9jdTJ4djdaTnk4TUhlRVhkNFdnZFFlQ19pbFlGOVRUUG1ZbTdNWm9aMXltemVELU1yYUZKODhKSHdmUQ?oc=5"
-          ]
-        },
-        {
-          "t": "Central Bank Adjusts Treasury Bill Yields",
-          "src": "streamlinefeed.co.ke",
-          "b": "Governments borrow money by selling short-term loans called Treasury bills, paying a reward called a yield to the lender. The Central Bank of Nigeria lowered these Treasury bill yields to 16.8%. Lower yields mean investors earn smaller returns when lending money to the government for short periods.",
-          "i": "The Central Bank of Nigeria reduced Treasury bill yields to 16.8%. This adjustment lowers the return paid to investors who purchase short-term government debt instruments. Monetary authorities use this rate to influence broader borrowing costs across the financial system.",
-          "a": "The Central Bank of Nigeria lowered its Treasury bill yields to 16.8%. This adjustment compresses short-term fixed-income returns, altering bank balance sheet allocations and domestic debt pricing. Fixed-income investors must reassess risk-adjusted returns across sovereign debt instruments following the cut.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGdHSWFiTnk1aVhveExNdFZPS21fckdCSmhoT1l4UXM4NVhkRHpURjA5TndmbnV6eXR0VHpaOHotSHlWVkJqcm03eXp2MXd1LVNUcnhWVGlGYXg5cVNUQnhrZ1FTbjFRT3NBWjY4SFFpOGpNY0ZqZnVmY1p0bXRDYm1mVDlFTnhfeEZRbExhbkJaVGQxTjJ3LQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Rivers State House of Assembly passed the government's spending plan for the year 2026. Lawmakers agreed on how public money will be allocated. This budget guides government spending and public projects for the entire year.",
-        "i": "The Rivers State House of Assembly passed the 2026 budget. This legislation authorizes government expenditures and operational spending for the fiscal year. Lawmakers finalized the fiscal framework to direct regional capital allocation.",
-        "a": "The Rivers State House of Assembly enacted the 2026 budget. This fiscal authorization establishes regional spending caps and capital allocation priorities for the legislative period. Legislative approval enables execution of the state's planned public expenditure framework."
+        "b": "Lawmakers in Kaduna state passed their spending plan for 2026. This budget controls how public money will be used. Separately, monthly internal revenue collections in Kaduna surpassed ₦10bn.",
+        "i": "The Kaduna State House of Assembly passed the 2026 budget. Internal generated revenue in Kaduna is trending towards ₦120bn annually. Monthly collections have exceeded ₦10bn.",
+        "a": "The Kaduna State House of Assembly enacted the 2026 budget. Internal generated revenue collections surpassed ₦10bn monthly, placing annual trajectories near the ₦120bn threshold."
       },
       "timeline": [
         [
-          "3 Sep",
-          "Central Bank of Nigeria sets Treasury bill yields at 16.8 percent"
+          "3 Sep 2026",
+          "FTSE Russell updates its Frontier Index to include 10 Nigerian companies."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Australian Dollar climbs past 0.72 on soft US data",
+      "sub": "ASX stocks rise and Australian Dollar hits resistance",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Dollar Crosses 0.7200 Threshold",
-          "src": "FXStreet",
-          "b": "The Australian Dollar is the official money used in Australia. It rose in value compared to other global currencies today. Soft economic data coming from the United States pushed the exchange rate up. This move broke past an initial technical resistance line at 0.7200. Traders watch this level to see where the price might go next.",
-          "i": "The Australian Dollar climbed above 0.7200 against its American counterpart. Soft US data triggered the upside break. Initial resistance around the 0.7200 mark gave way under the currency pressure. Markets reacted immediately to the shifting exchange dynamics.",
-          "a": "The AUD/USD pair breached the 0.7200 resistance level following softer US macro prints. Spot prices pushed higher as the greenback softened across major crosses. Momentum traders are now monitoring whether this break above initial technical barriers will sustain buying interest.",
+          "t": "Cochlear and Westpac lift ASX benchmark",
+          "src": "AD HOC NEWS",
+          "b": "Cochlear stock rose after sharing its profit report for the financial year 2026. Westpac stock also gained value. Major banks like Westpac helped push the whole ASX stock market index higher. An index is a group of shares tracked together to show how a market is doing.",
+          "i": "Cochlear shares climbed following the release of its FY26 profit results. Westpac shares advanced alongside other major institutions, boosting the ASX benchmark index. The heavyweight lenders drove positive sentiment across the broader market. Financial stocks continue to anchor index performance.",
+          "a": "Cochlear appreciated on the back of its FY26 earnings print. Major commercial lenders catalysed a broader ASX benchmark advance. Sector-specific buying concentrated in top-tier banking equities. Market breadth expanded as institutional capital rotated into heavyweight components.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZnRNOHk5YWZMdWlzTTg3ajlKV2kwSk4yOWh2dDJucTlsZENnT2Ntd0p0cGNwdFdKNU5FZjJZaXFzczY4UmYtT0lYNFh3U1c3M2VVdzVjUl96WnplSUpYdWZxMXF2OEIyQVU0NERBcHZ5RXRZOVEzeEVYWW5QU2dGa2FrWE1BV285SDhuMHozdmNxdl93R1E1NkswM2pFN0tmQjVXZnQzMzcwSjZPbTJ4bA?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxORW0zSWN2UFFtQ2Q4ajdFQWE5Vzd5S3ZaOXBUNFlPVEMwUGRpY09RY1gxbkRHUjdoWjJIbWdtalIzSERiR1FKS0EwSUlEMHBNQnI1dXQ2X3Y2U1dKTjRfSHRXcEM5NzdIN1JXMXNEQS05S3NpX0lGbHhFeGFCeFQzWVFGekZpcEJDLVllZXhUZjhNYkloZlBKVEhxazR1OHRfR3hVUXpDakFyNm5WVkl0d1VB?oc=5"
+          ]
+        },
+        {
+          "t": "Australian Dollar faces resistance near 0.7200",
+          "src": "FXStreet · tmgm.com",
+          "b": "The Australian Dollar climbed in value against the US Dollar. Weaker US labor data caused the US Dollar to drop. The Australian Dollar hit an initial price resistance level at 0.7200. Resistance is a price ceiling where selling pressure stops a currency from rising further.",
+          "i": "The Australian Dollar advanced against its US counterpart following softer employment figures from the United States. Initial price resistance emerged at the 0.7200 level. Traders note that US dollar weakness provided the primary catalyst for the currency pair's upward movement. Key technical barriers now test further gains.",
+          "a": "The Australian currency appreciated as softer US labor market metrics weighed on the greenback. Price action encountered initial resistance at the 0.7200 handle. Spot rates responded directly to shifting US macroeconomic data prints altering yield differentials. Momentum traders are closely monitoring order book density around this technical ceiling.",
           "links": [
             "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVhyX3FXajU1RUlaUXRLTHdTbkE2cFBZZW5Wamt4VGMxOS1xRGwyQ016RHVsM1VFOTFMMW9DbGQ5RXNSaVdmYkItZW9tYnZwQ0U3YjZQY3J0VU5ObFNvNFZZRFR1a0cybTVjVGx1dGlYTlE4aXR6cUFOb2ZBa2tPZmZqeHpHQk1BNFhFbkNIeXY1TFRCUS04ZXJiamFBVnNXaVpodmVxbU5zN3d3ODlGY3A5TWF1Zw?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFlBT3o5bmxEai1jWTgwUURya2JyWXNmRVlsTXhiU2FIOHlRVnNLVmhEaU1KSXJLWUdCcTN5cnpRcGp2em12b191OWplRHd1YTc4cDBCQkVFel9ENHE0NDYzUTVpTVNUdWR3aFpwaHVOcWxMU29acUhBUmE3akZGM0ZFWGNUdFM5UlZ0dU5FbWRyVDZVNUo3NmVGbXFsYVdPNXVDMkVyS0FEcmVqclpDNA?oc=5"
+            "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTJ0QWlkN1JiX0JPcldoTHZ1SGt1QXNmazlUZkFqaC1WTjRMTzZlMlZvSmZuTU9JQUMtcGNqdDFfamRwWWxsTzZoYVFiYXZHNlNXQWp0Zlh6aTJDR05qbEd3c3VEbDBLN3B3Q2RrVlFaVVlCbDl0V0JCSzRFUjJnd1Y5MXUwU0tJOFZHczBXbjdsLTZKZllUSjRlRl9pVzRaZEwtQ1B4OHJvWTZXN0VLV3p0b1NnbXNqU0lQMUwtOHhHSXlBbkpCZnZObjVTME0?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government leaders made no new policy announcements today. Markets focused entirely on currency movements and company updates. Regular administrative duties continued across state offices.",
-        "i": "State and federal authorities remained silent on fiscal policy shifts. Regulatory bodies processed ongoing corporate filings without interruption. Public sector updates stayed absent from the financial newswire.",
-        "a": "Policy announcements remained absent from federal and state desks. Regulatory approvals proceeded through standard administrative channels without political interference. Ministerial offices issued no commentary on currency fluctuations.",
-        "source": {}
+        "b": "Government bodies approved major energy and infrastructure projects. TasNetworks received official approval. Companies across Australia updated their financial results and operational plans.",
+        "i": "Regulatory approvals shaped the corporate sector alongside half-year results. TasNetworks secured clearance for operational updates. Firms across multiple industries announced strategic adjustments for future fiscal periods.",
+        "a": "Corporate updates and statutory approvals drove individual equity valuations. TasNetworks clearance altered forward cash flow assumptions for participating entities. Sector participants adjusted asset pricing models to reflect recent distribution updates.",
+        "sources": {
+          "0": {
+            "outlet": "simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaGtMOEU0TzZDVVE1aHpyTnFvaXVrb3E4bjdrUnFZeWExNGlrMFhya0w5XzNaTDFLcF9WWm80MUUtWVlQTUdqbVpKTjFOT3U5NXo5eEJEbkF0SDZRbFdMaGZrSEMyMWp0MHlmSFZYQ2dUcjk0UTZtdUl4TEJ4azJYc2taSUpkVEhPUGxLS1A3UFl0ZDhhZjUwLVd1UFR1djVzNEJtR2NHcUhYQlpzVjJqb0RBcmNkOFdleHVVdFNzVjctX3RJS25VaH9iMTV6cFMtUEplcU8zUGotUdIB3wFBVV95cUxPbkRIejhDbnFpN2dhTTd2Y09HN1JzYWpHMzFhNzNxVHZSOVdOLTVIZ3h3elJnekJvNk9hYWRCWUFscG5pTERFMXJGM0ZqOWhtQlZvYVdRU3lzVUtZVjdzeWx1T0tKZktyT1dBR2NBbkhFV3ZOZGVEbUZSZ3E5aVB3LXN5V1pENlhOZDVHWlRrekNPTkxDS3BGbzNoUFZIaGUtWG4xbGE4aWNUQzlzU1J5WVVaVm83a2RzZUZYbG5jaFM2WHlTUUxHQ3pFRE9NQzdjNjdZLTFnWWRMNXRhU2lV?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "3 Sep 2026",
-          "Australian Dollar climbs above 0.72 against the US Dollar"
+          "Cochlear releases FY26 profit figures"
+        ],
+        [
+          "3 Sep 2026",
+          "TasNetworks receives regulatory approval"
+        ],
+        [
+          "3 Sep 2026",
+          "Australian Dollar tests 0.7200 resistance"
         ]
       ]
     }
