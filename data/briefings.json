@@ -1,393 +1,425 @@
 {
-  "generated": "2026-09-03T13:29:29.819Z",
+  "generated": "2026-09-03T14:28:52.314Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "3 September 2026",
-    "headline": "Wall Street snapped its losing streak as the US federal debt reached $40 trillion and the Japanese yen surged.",
+    "headline": "US Treasury yields hit new highs as the Japanese yen surged on policy tightening expectations.",
     "lede": {
-      "b": "The S&P 500 is a stock market index, which is a group of major company shares tracked together to show how the market performs. It broke a three-day losing streak because government bond yields, which are the annual returns paid on government debt loans, paused their recent rises. At the same time, the total federal debt climbed to $40tn, driven by past corporate and individual tax cuts. This debt expansion marks a massive milestone for American borrowing.",
-      "i": "The S&P 500 broke a three-day losing streak as government <span class='term' data-t='gilt'>bond</span> yields stabilized. Concurrently, the total federal debt climbed to $40tn. Analysts attribute this borrowing expansion to trillions in corporate and individual tax cuts.",
-      "a": "The S&P 500 broke a three-day losing streak as duration yields paused their upward trajectory. Simultaneously, aggregate federal debt printed at $40tn. Analysts note that historical corporate and individual tax cuts structurally drove this borrowing expansion."
+      "b": "US government borrowing costs, known as Treasury yields, climbed to new highs as investors repriced bonds, which are loans made to governments in exchange for regular interest payments. Stock markets in the United States stayed mostly calm despite these changes in debt markets. Meanwhile, the Japanese yen strengthened toward the 155 level against the US dollar. Traders increased their bets that the Bank of Japan would raise interest rates.",
+      "i": "US Treasury yields reached new highs following political disagreements at the G-20 meeting, forcing investors to reprice <span class='term' data-t='gilts'>bonds</span> while equities remained largely unaffected. Simultaneously, the Japanese yen surged toward the 155 level against the dollar. Traders increased policy tightening bets on the Bank of Japan, unwinding positions in the <span class='term' data-t='carry'>carry trade</span> and driving broad dollar weakness.",
+      "a": "US sovereign yields scaled new highs amid G-20 friction, triggering significant duration repricing while equity markets displayed idiosyncratic resilience. Concurrently, USD/JPY spot approached the 155 handle as market participants aggressively priced terminal rate divergence. This repricing of the <span class='term' data-t='carry'>carry trade</span> forced systemic liquidations across dollar-funded shorts."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The S&P 500 broke a three-day losing streak, and federal debt hit $40tn.",
-        "i": "The S&P 500 broke a three-day losing streak while federal debt reached $40tn.",
-        "a": "The S&P 500 snapped a three-day losing streak as federal debt printed at $40tn."
+        "b": "The S&P 500 opened up 0.6% as buyers tested market breadth beyond large companies.",
+        "i": "The S&P 500 opened 0.6% higher as breadth expanded into smaller capitalization stocks.",
+        "a": "The S&P 500 opened up 0.6% as participants bid non-megacap breadth."
       },
       {
         "c": "United Kingdom",
-        "b": "EasyJet joined the FTSE 100 index, and sterling hit a one-month low against the yen.",
-        "i": "EasyJet entered the FTSE 100 index during the latest reshuffle, while sterling touched a one-month low against the yen.",
-        "a": "EasyJet entered the FTSE 100 index in the latest reconstitution as sterling touched a one-month low against the yen."
+        "b": "Crest Nicholson reported an unexpected annual loss due to difficult conditions in the property market.",
+        "i": "Crest Nicholson posted an unexpected annual loss amid a subdued property market.",
+        "a": "Crest Nicholson cited a subdued property market in an unscheduled loss warning."
       },
       {
         "c": "Germany",
-        "b": "German 10-year bond yields fell by 1.5 basis points to 3.36%.",
-        "i": "German 10-year bunds saw yields fall by 1.5 basis points to 3.36%.",
-        "a": "German 10-year bund yields declined by 1.5 basis points to 3.36%."
+        "b": "The yield on ten-year German government bonds decreased by 1.5 basis points to 3.36%.",
+        "i": "Ten-year German bund yields fell 1.5 basis points to 3.36% as sovereign debt turmoil eased.",
+        "a": "German 10-year bund yields contracted 1.5 basis points to 3.36% amid moderating peripheral pressures."
       },
       {
-        "c": "Japan",
-        "b": "The yen surged sharply against the US dollar as traders priced in upcoming interest rate rises.",
-        "i": "The yen surged against the US dollar as traders priced in upcoming rate rises, prompting carry trade unwinding.",
-        "a": "The yen surged against the US dollar as rate hike expectations drove an autonomous carry trade unwinding."
+        "c": "China",
+        "b": "The yuan broke 6.72 against the dollar to reach a three-and-a-half-year high.",
+        "i": "The yuan strengthened past 6.72 to hit a 3.5-year high against the greenback.",
+        "a": "Spot yuan breached 6.72 to print a 3.5-year high against the US dollar."
       }
     ],
     "thread": {
-      "b": "Global markets reacted to shifting currency valuations and changing debt levels. Central bank policy expectations drove major currency movements across the world.",
-      "i": "Global markets absorbed shifting carry trade dynamics and central bank policy expectations. Currency valuations adjusted as domestic price metrics diverged.",
-      "a": "Global positioning reflected shifting carry trade dynamics and sovereign debt expansions. Foreign exchange desks repriced cross-currents as central bank divergence expectations widened."
+      "b": "Currency markets moved significantly as the Japanese yen and British pound shifted against the US dollar. Central banks and political events also drove major updates across international economies.",
+      "i": "Global currency desks recalibrated exposures as the yen surged on rate hike bets and sterling recovered from recent lows. Sovereign debt and equity indices responded independently to regional pressures.",
+      "a": "Cross-border capital flows shifted in response to divergent central bank rate expectations and currency repricing. Sovereign debt markets absorbed localized pressures while equity indices diverged."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Wall Street snaps losing streak as federal debt hits $40tn",
+      "sub": "Treasury yields reach new highs as equities stay calm",
       "ind": [],
       "stories": [
         {
-          "t": "Wall Street Ends Losing Streak",
-          "src": "Market Index · The Washington Post",
-          "b": "Wall Street is the main American market where company shares are bought and sold. The S&P 500 is a group of five hundred large companies listed on Wall Street. The S&P 500 stopped a three-day losing streak. Bond yields, which are the money an investor makes from lending to the government, took a breather.",
-          "i": "The S&P 500 broke a three-day losing streak as government bond yields took a breather. Asian shares tracked these Wall Street gains higher. Oil prices edged lower during the same trading window.",
-          "a": "The S&P 500 snapped its three-day losing streak following a pause in sovereign yield expansion. Transmissions from domestic equity recovery supported broader Asian bourses, while crude benchmarks drifted lower.",
+          "t": "Treasury Yields Climb to New Highs",
+          "src": "Investing.com · The Wall Street Journal",
+          "b": "Government borrowing costs reached new highs. These costs are called Treasury yields, which are like the interest paid on loans to the state. World leaders argued at a fractured G-20 meeting. Bond prices were repriced while stock markets barely moved.",
+          "i": "Treasury yields hit new highs amid political squabbling at a fractured G-20. Investors repriced <span class='term' data-t='gilts'>bonds</span> significantly. Equities remained largely unmoved by the shift.",
+          "a": "Treasury yields touched new highs following divisions at the G-20 summit. The repricing concentrated heavily in fixed income markets while the S&P 500 equity complex absorbed the move with minimal price action.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEdTeUN5MHJOSGVadnhPaklyb0xFVEFFNGRoNkFVZDktdFRuY05aZ2ZwNTZXeF9nME5qLVhKQUs0R0lIQ0U1TFpabDdxSlZLV3RpVTc4ekdxbVlvcjRqejd3MjViZEdvdG9faWs5MmYxZlJzaFZGSUJKZy1CWE9VTXU1SDZuRXRiTU1STVRmT2g0N0J6QVFBdTNJMFN5OEJ0dW5Oc3BhTmp1TjZh?oc=5",
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmpacUlpcWhhR1JuWWJuOUpRTnE3Y1VjOWZfVkRPSDQwZGU4V3huMWdwN0hSSlp6QTBBOUx6YVo5a0FVOWNQX0lRN3R2S29FT3FNV2ZlWC1Sd0JpNlU3cldhX3R6bXpNLVhXcXZITVZMbEE0VDFoRUI2alJFMHU2Wk1tcjRmYlZsaE5nekJUOUNNai1PZUw0S2NqQUxNVS1fN0tSZmZhWmJyaDg5a25Qck5pM2hPcG1PZzRlTzlrM2RPTDQtcVZyUVNjcWo?oc=5"
+            "https://news.google.com/rss/articles/CBMingFBVV95cUxNM005bzkxb21IVEJDaXlSM1ZJSFU2STVOMVdiV2kyTGI0MFlhdUFTM0ZEV3VPWmVYdktnWFh3MnRDNk52dmYtcWJ4MFRQSHNyNU4tQmxSLW91LTlPczZxSXY0WTl2ei1faDRuVzlhNUlsR214SnNRRm1qWnhBcm5ncWUwU2FGQXF3QkpPZmpwSHBIRXdDZ3dLbXhXN2oxUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkNhQ0c5eEtWeFo2UEMtQ29DTmVFWW5LR0Z1QWFXRVdnQWJYYU5uZlRqNWdId2YzTjI0aWt2eDROQzhLTl9hSmp3eTEzMTN0Mm1BZXk3M3pmcEloWkdYR2NmUXpqSHAwanBqaUZiMDNLZE9qUTdrMGxFUXJDRW1MYU81R1JpSjJUeThMcXJJY3RfRzN3XzFrWnI4Vlc1WXFQb0drbG9OcTVjb21n?oc=5"
           ]
         },
         {
-          "t": "Federal Debt Reaches $40 Trillion",
-          "src": "Guardian Business",
-          "b": "America's total federal debt has climbed to $40tn. This is the total amount of money the government has borrowed over the years. Critics point out that tax cuts for corporations and rich people contributed to this massive total.",
-          "i": "The total federal debt climbed to $40tn. Analysts note that trillions in corporate and individual tax cuts contributed to the expansion of this borrowing burden.",
-          "a": "The federal debt aggregate reached $40tn. Fiscal commentators highlighted that cumulative tax reductions for corporations and high earners drove the trajectory of the borrowing expansion.",
+          "t": "S&P 500 Opens Higher as Analysts Adjust Targets",
+          "src": "MarketBeat · 24/7 Wall St.",
+          "b": "The S&P 500 index opened up 0.6%. An index is a group of company shares measured together. Ollie's Bargain Outlet had its price target raised to $124.00. Trip.com Group and Fluence Energy saw their shares drop after analyst downgrades.",
+          "i": "The S&P 500 opened up 0.6% as buyers tested market breadth beyond large caps. Ollie's Bargain Outlet saw its price target raised to $124.00. Trip.com Group and Fluence Energy experienced share price gaps down following analyst downgrades.",
+          "a": "The S&P 500 opened 0.6% higher while market participants assessed breadth extension beyond mega-cap equities. Single-stock action featured price target revisions for Ollie's Bargain Outlet at $124.00 alongside negative analyst revisions driving downside gaps for Trip.com Group and Fluence Energy.",
           "links": [
-            "https://www.theguardian.com/commentisfree/2026/sep/03/trump-federal-debt-40-trillion"
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkM4VFEyNjdUU21ZSHVLQWJ5b2swZ1JFT1NBQzFaSDFuZGpWVXJpck9oWkVSUzN5ek9FVXJXemt6WVNWN1JCcXFERi1kMjNJVlpjM1p5S3duaW10WUFkcVA3SF81UUMzSEhWSDhVMEJMa09wemZ6VWdnUWFmcGdoNHFfSGJhZDZrd2J4enZNMXZvampVNkJYb0xTc1ZGbWFGeGVIVFkyWmZiWmZ4dzRBYUliTVlfV1Z4alhEYmpVQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWVBSWV4b0JiUVpGYVB0Zlh1X2ZqbzVaMFRNemR6V3NWQzI2azF2V0xpOV9Qd1J4S1laeldSS19mdzlYempveDQ1a3NfR1N5Ty1GZG5qQmR4MlpKV05XR3UxdGZRN2xsb3BqaEhvZnZRYWFFWFZhaXNHS1pZbE91Y0oyS0Jxak05a0c1UFk5c0Q5QzJURFp4M3VWM1A5aU9HY05ueWEycVIxNnA3VTFlNUd2dXpLSjBBcVRpTEtiOTM?oc=5",
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVU3NmFuYXN1OFlkS0hiSVdnai1DVURCZVh6OEg2djBNd1M2eE9xR2loTnphUmYyQUJDYndLSlZzR0c2WXdPenl3Y2EyalE2X09DWml0N0ttODVDQjI3WlkwVTBPS1htQW50TVl4NHhfaWpPbUcyZ1RqOXhQanRPQnZzZzN5OGNpY2cyWnB1M3dtcXpPYkhzZENBN1hKamN0M0Vfb0lfa0cwZHNXUC1BYXBvSFhBNHozcVNHMGVKUllpZw?oc=5",
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxNblV5N0RUb3A2NjNMUmpyV3RwbDdFTHY5Wlh6bDNjUzBsQ0ZOX2lnLXZoOGVNaEY2NkNQcHFJNzJnc2p1QU5RQTNWMUpiU3Jacm5lSUllcjFoMW5TMENWeHJUTTFwSEZaeXVkOTNIWEY5aDE5VFhRYVVYZ1MzT2Jra1NLVUlQa0VndWZ0YkZoeDAwLUtYLWlwQXlUckthNGowUGxjOGprWW9xUXYyYUxTNFhJdVZZR3RXNWZ6bHFIdGhFNmlRbzFUdXN3?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "JPMorgan is advising investors on how to trade based on different outcomes for the upcoming midterm elections. Stocks could perform differently depending on whether Congress is split between parties or controlled by one. Foreign rivals have also been accessing American artificial intelligence systems illegally.",
-        "i": "JPMorgan released trading strategies for upcoming midterm election outcomes under both split and unified Congress scenarios. Meanwhile, U.S. officials face rising concerns as foreign entities illegally access American artificial intelligence systems to train copycat models.",
-        "a": "JPMorgan outlined sector-specific positioning strategies contingent on unified versus divided congressional outcomes in the midterm elections. Concurrently, security concerns escalated over illicit foreign extraction and distillation of proprietary U.S. artificial intelligence models.",
-        "c": null
+        "b": "World leaders met at the G-20 summit. Arguments broke out among the participants. This political friction happened while financial markets reacted to shifting economic data.",
+        "i": "Global leaders engaged in disputes at a fractured G-20 summit. The political friction accompanied broad moves in sovereign debt markets.",
+        "a": "Intergovernmental friction characterized the G-20 meetings. Disagreements among global officials unfolded alongside macro repricing in United States debt instruments."
       },
       "timeline": [
         [
-          "2 Sep",
-          "S&P 500 snaps a three-day losing streak as bond yields ease"
+          "2 Sep 2026",
+          "World leaders gathered for a fractured G-20 meeting."
         ],
         [
-          "3 Sep",
-          "Federal debt officially reaches the $40tn threshold"
+          "3 Sep 2026",
+          "Treasury yields reached new highs during morning trading."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Sterling falls against the yen and index changes occur",
+      "sub": "Sterling moves, housebuilder warnings, and political donations",
       "ind": [],
       "stories": [
         {
-          "t": "Sterling Declines Against Strengthening Japanese Yen",
-          "src": "Arise News · FXStreet",
-          "b": "The pound sterling is the money used in the UK. It dropped to a low point not seen in a month. This happened because the Japanese yen, the money used in Japan, got stronger. Oil prices also went down at the same time.",
-          "i": "The British currency touched a one-month low against the surging Japanese currency. Sterling managed minor gains elsewhere as oil prices eased. Foreign exchange traders adjusted positions as cross-currents shifted across major pairs.",
-          "a": "Sterling drifted to a one-month trough against the surging yen amid broader cross-asset adjustments. Softer crude benchmarks provided partial offset for the UK currency against other counterparts. Flow dynamics reflected short-term positioning shifts rather than structural repricing.",
+          "t": "Sterling Rises As Yen Strengthens and Oil Cools",
+          "src": "Arise News · Reuters",
+          "b": "The British currency, called sterling, gained value against other currencies recently. This happened because the Japanese yen strengthened and oil prices dropped. Sterling had previously hit a low point lasting three weeks. Currency markets deal in the exchange of different national money.",
+          "i": "Sterling edged higher from a three-week low during international currency trading. The currency recovered slightly as the yen rallied and oil prices cooled. Foreign exchange desks adjusted positions following these external commodity and <span class='term' data-t='carry'>carry</span> shifts.",
+          "a": "Sterling appreciated against a basket of currencies as cross-border <span class='term' data-t='carry'>carry</span> unwinds and falling crude valuations altered global positioning. Spot prices lifted marginally away from the three-week trough observed prior to the yen rally. Traders recalibrated short-term duration risk while energy benchmarks compressed.",
+          "gloss": "carry",
           "links": [
             "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0hHUlVGSU5ScGRqcmd1REJpdHg1N2pJb3Z4bzJMR1ZPZXdQVkxGZTEtd3VIc2VPT0RYYUNlZ3djVzN1SXgyajUxaWk5eFZuNmxhbmhXX1BzSGQtX2R3TE5qVGJQNHc1MGJ3b3laamxYeWl0VTZGajNGNzFaX3M2aGp0Qno?oc=5",
-            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUxVOTdSc216WXM1SkhpRGpKZjhnOXpRbWlRVXdCcS1KLVlzNVRYeTh4bnpjcDBYTGFtR24yQ1V6TVk2T0V6T1ppSk1ta0tWTkhrd3ZEV3Z6Sll6RkxxeGt1b0lPWW1VSXZIV1JRTExnbkNXWm9UM3lfQVhCNHk2VEt1MmlBamc0Q21VUW5yVWRZY1lzNUFKYnRrR2o3OHhnVkpMUjB3Qld5Vm51QVE?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1NGWTdEaERkeW00Z01zWTlKNlVBazh6ZnoxdkJtWHBWaUVDV3BPSnVRTFdodkszeFRfT0t5cElaRC1MWWc5X0N5ZTktWGt2LUktaXFnSkJoRkZ1VUY1TUlpMTQ4Zzd1M3hGZ2F6bjV5TXlzUU1SUEJGUkliUDBLQVNUcWl3U0E3NFBNYzZRMF9SNlhIVWYySnk1NEYxbHhw?oc=5"
           ]
         },
         {
-          "t": "EasyJet Joins FTSE 100 While GBG Exits FTSE 250",
-          "src": "businesscloud.co.uk",
-          "b": "EasyJet is an airline company. It has now moved up into the FTSE 100, which is a list of the 100 biggest companies on the London Stock Exchange. Another company named GBG was dropped from a different index called the FTSE 250. Pinewood made a brief return to the market list too.",
-          "i": "EasyJet entered the FTSE 100 index in the latest reshuffle. GBG dropped out of the FTSE 250 index to make room for other constituents. Pinewood also recorded a brief return during the index adjustments.",
-          "a": "EasyJet secured promotion into the FTSE 100 benchmark. GBG suffered demotion from the FTSE 250 alongside Pinewood's fleeting reappearance. Passive fund rebalancing typically follows these constituent migrations.",
+          "t": "Crest Nicholson Warns of Annual Loss",
+          "src": "The Guardian",
+          "b": "The British housebuilder Crest Nicholson issued a warning about an unexpected financial loss for the year. The company described the property market as subdued. It will finish building between 1,350 and 1,400 homes in the year leading up to 31 October. This completion count sits below previous expectations.",
+          "i": "Crest Nicholson announced an unexpected annual loss in an unscheduled trading update. The firm cited difficult trading conditions within a subdued property market. Completions for the financial year ending 31 October are projected to reach between 1,350 and 1,400 units.",
+          "a": "Crest Nicholson downgraded its operational outlook via an unscheduled trading statement, pointing to acute margin pressure in a subdued residential property sector. Management revised expected volumetric output for the fiscal year ending 31 October down to a range of 1,350 to 1,400 completions. Forward guidance now reflects persistent macroeconomic headwinds affecting transaction volumes.",
           "links": [
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVpNbkxWUHBkNzcyTVJzQlEzNVpvUVFXRzJRbzdqOXBObjZmeWZMYVNtZVYweDRfTFdVOW9rZUZXRUZFYjhXcUVUQzR3UU91eGswelJLVU5xcmhXYmFGWFBuQlFhOHJzdWl0c05jOFVWbnRQUVJoZ1Z5ZXBfX0NUTGplWHZKb2JBSGU3S1FyZ1M?oc=5",
-            "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XNjlLZHBoNVpBYll4Q0tOVWkzSWo4YWtYamYzNjRpX3RiRUdkN0gtZXBSODRfN2pfUXBMci1sdjZnOGwtb21oNmNKWHFHMVNCZWVJZzdWdFlEWkprLUhVeG54Y2RTZ3hRaWhfUUhrb0FzUG1uUXNmYg?oc=5"
+            "https://www.theguardian.com/business/2026/sep/03/housebuilder-crest-nicholson-warns-of-annual-loss-subdued-property-market"
           ]
         },
         {
-          "t": "Bank of England Divergence Anticipated as Price Rises Remain Low",
-          "src": "ING Think",
-          "b": "The Bank of England is the central bank for the UK, which sets monetary policy and interest rates. Analysts expect it to take a different path from the Federal Reserve, the central bank of the United States. This divergence is likely because price increases, known as <span class='term' data-t='inflation'>inflation</span>, remain cool in Britain.",
-          "i": "The Bank of England looks set to diverge from the Federal Reserve's policy path. Cool <span class='term' data-t='inflation'>inflation</span> readings across the UK provide the central bank room to act independently. Analysts at ING highlighted this decoupling based on domestic price metrics.",
-          "a": "The Bank of England faces distinct macroeconomic conditions that justify policy divergence from the Federal Reserve. Benign <span class='term' data-t='inflation'>inflation</span> prints underpin expectations for a decoupled interest rate trajectory. Terminal rate pricing across UK short-term instruments reflects this domestic divergence.",
-          "gloss": "inflation",
+          "t": "Reform UK Receives £4m Crypto Donation",
+          "src": "The Guardian",
+          "b": "The political party Reform UK received a donation of £4 million from Ben Delo. Mr Delo is a British billionaire who made his money in cryptocurrency. He was convicted in the United States in 2022 for failing to apply anti-money laundering controls. Reform UK stated it is confident the businessman will not fall under the new overseas donor cap.",
+          "i": "Reform UK secured an additional £4m contribution from crypto billionaire Ben Delo. Delo previously received a US conviction in 2022 for neglecting anti-money laundering regulations. Party officials expressed confidence that the former Hong Kong-based donor bypasses the newly introduced overseas donor restrictions.",
+          "a": "Reform UK augmented its campaign coffers with a £4m injection from crypto entrepreneur Ben Delo. Delo, previously convicted in 2022 for deficiencies in anti-money laundering compliance, stands as the organisation's second-largest financial backer. Party representatives maintain that his past residency does not trigger the statutory thresholds of the fresh overseas donor cap.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZURrNHY2eHFXNWNsQUFFOUVrbWFjcTVtek85VmxPeGdjc0JVWXFRLW1VNjBHR2J4Q0tkUlNqQjZpdUtReFZ1ZHR0ZU41TTRDU2pfUWE2YUFPMjFxeDhhSm1vYkxWS05ESEkwQklTakFDNEphcXdBcnFBSnFnNnM5SWN3emtLM29ZSlB3SVo3TXN0X0F2MXNkSmV0OElrOEctUS1oSnZFQVI?oc=5"
+            "https://www.theguardian.com/politics/2026/sep/03/reform-uk-crypto-billionaire-ben-delo-pardoned-trump"
           ]
         }
       ],
       "politics": {
-        "b": "Economists are studying the relative slowdown of the UK economy over time. Experts call this ongoing sluggishness the British disease.",
-        "i": "Researchers at the Economics Observatory examined the long-term relative decline of the UK economy. Analysts often refer to this persistent underperformance as the British disease.",
-        "a": "The Economics Observatory published analysis addressing the structural drivers behind the relative decline of the UK economy. Investigations into the so-called British disease focus on productivity stagnation and capital accumulation constraints."
-      },
-      "timeline": [
-        [
-          "3 Sep 2026",
-          "Sterling falls to a one-month low against the Japanese yen."
-        ],
-        [
-          "3 Sep 2026",
-          "EasyJet enters the FTSE 100 while GBG leaves the FTSE 250."
-        ],
-        [
-          "3 Sep 2026",
-          "ING notes UK inflation remains cool, supporting Bank of England divergence from the Fed."
-        ]
-      ]
-    },
-    "Germany": {
-      "iso3": "DEU",
-      "label": "Germany",
-      "sub": "German bond yields dip as political risks mount",
-      "ind": [],
-      "stories": [
-        {
-          "t": "German borrowing costs drop slightly",
-          "src": "Guardian Business",
-          "b": "European government borrowing costs are the interest rates that governments pay to borrow money from investors. The yield, which is the annual return an investor gets on a bond, on 10-year German bunds dropped by 1.5 basis points to 3.36%. A basis point is one-hundredth of a percentage point. French 10-year bond yields also fell by 1.5 basis points to 4.23%.",
-          "i": "European government borrowing costs edged lower as market turmoil eased. The yield on 10-year German <span class='term' data-t='gilt'>bunds</span> fell by 1.5 basis points to 3.36%. French 10-year bond yields declined by 1.5 basis points to 4.23% in the same trading session.",
-          "a": "European sovereign debt markets saw a modest easing of turmoil. The 10-year German <span class='term' data-t='gilt'>bund</span> yield compressed by 1.5 basis points to 3.36%, while French 10-year yields fell by 1.5 basis points to 4.23%.",
-          "gloss": "gilt",
-          "links": [
-            "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates"
-          ]
-        },
-        {
-          "t": "Christian Democrats distance themselves from chancellor",
-          "src": "Financial Times",
-          "b": "The Christian Democrats avoided campaigning with German Chancellor Merz. The party tried to slow the rise of the far-right Alternative for Germany party in Saxony-Anhalt. Merz became a liability for local election candidates.",
-          "i": "Christian Democrats avoided campaigning alongside German Chancellor Merz. The political strategy aimed to slow the surge of the far-right Alternative for Germany party in Saxony-Anhalt. Merz became a liability for regional candidates.",
-          "a": "Christian Democrats bypassed joint campaigning with German Chancellor Merz to contain the electoral rise of the far-right Alternative for Germany party in Saxony-Anhalt. Party strategists identified Merz as a liability for regional candidates.",
-          "links": [
-            "https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Christian Democrats avoided campaigning with German Chancellor Merz. The party attempted to slow the rise of the far right in Saxony-Anhalt.",
-        "i": "Christian Democrats dropped joint campaigning with German Chancellor Merz. The regional maneuver sought to check the surge of the far right in Saxony-Anhalt.",
-        "a": "Christian Democrats severed joint campaigning with German Chancellor Merz to mitigate electoral fallout from the far-right surge in Saxony-Anhalt."
-      },
-      "timeline": [
-        [
-          "03 Sep 2026",
-          "German 10-year bund yields dropped by 1.5 basis points to 3.36%."
-        ]
-      ]
-    },
-    "Japan": {
-      "iso3": "JPN",
-      "label": "Japan",
-      "sub": "Japanese yen surges as rate hike bets intensify",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Yen Surges on Expected Interest Rate Rises",
-          "src": "The Guardian · Seeking Alpha · Reuters",
-          "b": "The Japanese currency, called the yen, goes up in value very quickly. People who trade currencies think the central bank in Japan will raise the cost of borrowing money soon. This makes the currency more attractive to hold. Official fingerprints on the sudden jump remain elusive.",
-          "i": "The yen climbs sharply against the US dollar as traders price in upcoming policy tightening. Expectations build that the central bank will lift interest rates further. Official intervention signs stay absent from the sudden move, leaving the <span class='term' data-t='carry'>carry trade</span> unwinding under its own momentum.",
-          "a": "The yen surges as market participants aggressively reprice policy paths for the central bank. Implied volatility spikes across USD/JPY pairs as short positions face liquidation. Official involvement remains unconfirmed, pointing instead to structural <span class='term' data-t='carry'>carry trade</span> unwinding as the primary driver of the spot move toward the 155.00 level.",
-          "gloss": "carry",
-          "links": [
-            "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTURCTkU3ZnB0MEs3MTl0ZHJYQ0c3dV9SdHFuWUJ1ZmNlYkpoYS1jR2xZODBGUzdjaVFCbXNoQy1VcE05WjU3W1d1enJXSVR0X3ppcHY1Um5KemxfWTk1bmhydmJlRnA5amVsZXg4eUlkVVVsMUt1eEt4UDFHcGktbzBzMzF0YjZ3U1loQUdzRmdjYVF2SkJHbGdXeXpZeG8tUlVn",
-            "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0p5WDJOMVBrYkhEbGgzTENPQzJMZWFuQzBRX3JDWjg0UmpmUTdPVFhGZEFsUTNoeEhBSExCeG10S1ByUlN6QkYtT1dOSFBEQ2VxWDhLS0x1bmEwQUxIdXB0ZmlZOElqTDFLRl9WV1dpQVItVk9iXzlqVlhsTjFlVDZWTDRfZUtuRDNjUExqRGE5a285",
-            "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUk4xazZBQThxRzlWV094ZGRtRGVpZUNWekE2R1lYVnRkQTduUVRHM3N3RW9TcmNjbWJ6TmIwNkliS0xNTzJDM09WVlIzOWktRV8tZE5LaTNJbkdoOHpRZVlWWkpQM2hVSXA5QTBDNklmTUdJbnlVVk9NV0tkT0dUcko3YmFSVUhVVzRkQnMwbw"
-          ]
-        },
-        {
-          "t": "Officials Warn on Markets While Dollar Falls",
-          "src": "marketscreener.com · Investing.com · tmgm.com",
-          "b": "A top currency official in Japan warns about ongoing worries in the market. The US dollar falls against other currencies because of the rising yen. Gold prices go up as the American currency weakens. Stock markets in Japan tread water while the bond selloff pauses.",
-          "i": "Japan's currency diplomat issues warnings regarding ongoing market concerns as the currency holds recent gains. The broader US dollar index weakens, pushing gold prices higher despite hawkish Federal Reserve expectations. Domestic Japanese stocks tread water and the recent bond selloff pauses.",
-          "a": "Japan's currency diplomat articulates ongoing concerns regarding speculative FX positioning. The broader US dollar retreats despite persistent hawkish Fed repricing, dragging USD/JPY lower. Spot gold captures safe-haven demand from the softening dollar while domestic equities consolidate and local bond yields stabilize.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWhST1NNVGlMeGhXNmQtX3BvbXRHZ3dZQjVVWVV3RHIyZmZ5dUdHV3Jkc29nYk5sMGdOdF9lcEU0Z2RSWW5PTFZVMEM1d3BkVW5oNnVSS2tMcDNEU3BBdUlmcUY4UDl0c2kxTGNKU3U5bTRaWnRrb1lyQmVVNENtVU1XUUxPMzZlSThWY18zN292ejZKeXJBay1kUkhUQnZLRXVOeEZ3eko3YWNNenRmZ0dTQW5LVUFQa1pB",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmFyMjhrRDMyWkh4Z0kxNlY3cHJVcmowT2NsMEljSGZEQXh6Z1F6bDNoZWpseFFYVXplSVgwN3RJd1B4cUsyMzlwWm1Xa240dmJLbnFpUjBJT1RwaXVlMzNneDFjLVV1VDVmNWg5Rk1DZWFVZlE1UHlSWUJoaE9QM05TWlE5cmhyYzZGZkQ1dTI2Nl9GQUZEcGt6UVppTjJHbFdPT0gxREZxdVlDNnRJQ3hXbU9lbGs",
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOGRSRXlQeVE1LWhDMDFGajlYaDlHMkEyVjJPUDlBTE4wX0lnempWOE1saHgteEFMT3JMQS1TTlNhWVNLdzNJeEZweTVjajlLT2hkMi02N2dlTFN4azN6RFk4YXRnQnI3MjdZQnJQWU1jLVVvWEFzT3ZyTXZpbXlNaU1fZkQzTDd1d0JSUzZDNW1aTnd0bXhNbDZLX0pLT3ZKN0FGbkVXbFdmTDBtZDY3Z1AyUU1Jc056bmFJWkhlclEyQ0Nfbkd3QktMa21xQlZGUDk3RUFHeFg"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Politicians watch the currency change quickly as people worry about the cost of living. Government officials comment on market stability. No new laws are passed today.",
-        "i": "Policymakers monitor foreign exchange volatility closely as currency swings impact import costs. Officials issue verbal warnings to deter speculative trading. Parliament remains in recess regarding direct legislative interventions.",
-        "a": "Fiscal and monetary authorities maintain verbal intervention channels to manage imported cost pressures. Officials balance currency stabilization against export competitiveness without deploying direct reserves. Policy coordination between the finance ministry and central bank remains closely scrutinized."
-      },
-      "timeline": [
-        [
-          "3 Sep",
-          "Yen surges and Bank of Japan rate hike bets increase."
-        ]
-      ]
-    },
-    "China": {
-      "iso3": "CHN",
-      "label": "China",
-      "sub": "China rejects G20 export criticism and faces shifting trade flows",
-      "ind": [],
-      "stories": [
-        {
-          "t": "G20 Export Disputes and Trade Tensions",
-          "src": "CNBC",
-          "b": "Leaders at the Group of 20 criticised China for relying too much on selling goods to other countries. China hit back at these complaints. China accused other nations of promoting protectionism, which means putting rules in place to block foreign trade. China also challenged US sanctions against Iran and new trade measures from Europe.",
-          "i": "The Group of 20 issued a statement criticising China for its heavy reliance on export-driven growth. China rejected this pressure directly. Officials accused the group of promoting protectionism while challenging separate European trade measures and US sanctions on Iran.",
-          "a": "The Group of 20 targeted Beijing over export-led growth models, prompting a direct rebuttal from officials who labeled the stance as protectionism. This friction coincided with Chinese challenges to European trade barriers and US sanctions on Iran.",
-          "links": [
-            "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html"
-          ]
-        },
-        {
-          "t": "Emissions Drop Amid Industrial Shifts",
-          "src": "Guardian Business",
-          "b": "China saw its carbon dioxide emissions fall by 1% following the outbreak of the war on Iran by the US and Israel. This drop happened because people used much less oil. At the same time, sales of electric vehicles and public transport use went up steadily. Analysts say oil demand might not fully return even if crude oil prices drop.",
-          "i": "China recorded a 1% decline in carbon dioxide emissions following the outbreak of the US-Israeli war on Iran. This reduction stemmed from a sharp contraction in oil consumption alongside rising electric vehicle sales and public transport usage. Analysts suggest oil demand may not fully recover even if crude prices fall.",
-          "a": "China registered a 1% drop in carbon dioxide emissions after the outbreak of the US-Israeli conflict in Iran, driven by plunging oil consumption. Surging electric vehicle adoption and public transport usage underpinned the shift, with analysts projecting a permanent structural break in crude demand even if prices decline.",
-          "links": [
-            "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war"
-          ]
-        },
-        {
-          "t": "Currency Funding and Critical Minerals",
-          "src": "Bloomberg.com · FXStreet · Nikkei Asia",
-          "b": "Financial firm BBVA reported that borrowing money for currency trades, known as the carry trade, might switch from the Japanese yen to the Chinese yuan. Meanwhile, Malaysia is drawing global interest for critical minerals as China prepares curbs on exports. Australian data showed the Australian dollar reacting to recent services purchasing managers' index data from China.",
-          "i": "BBVA noted that <span class='term' data-t='carry'>carry trade</span> funding could shift from the yen to the yuan. Simultaneously, Malaysia attracted global interest in critical minerals as prospective Chinese restrictions loomed. Australian dollar movements also responded to the latest services purchasing managers' index releases from China.",
-          "a": "BBVA projected that <span class='term' data-t='carry'>carry trade</span> funding mechanics might pivot from the yen toward the yuan. Concurrently, Malaysia captured global critical minerals demand as prospective Chinese curbs approached. Foreign exchange markets registered these dynamics alongside incoming services purchasing managers' index prints from China.",
-          "gloss": "carry",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFVjZGRoU3RpUFQ0ZVM2RWUwNHBzUm9ERHdOa0FKVTR0alBBTm1wZ3F6Y2p5OUpnY2ZkTWh5VWtwV3VyZm16M3dCX1dWOEc3ajdQVVVBYk1PdTA5NC1aUmdLOFZkOWlpNkxpaTlaVjVjMXpRd1R5cWQ4dFBOQUd1Vk45TXpVUjVqeE9BUmdpaW4zMDdzNXhVQml1dXBkYmtEaXlzSVczckVkbmM?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFRzaGYzZzNjQm85YUk1cVBQMEFXZGZhemhrNHFudWRFRlExbjlfbkwzSXo1M1hHOHlxRnNPQ3JtTzNxNEVoVlZ3VkZvcWpabFkwWWd4eWlNbDdrTTAtUFBoak83TEFBRUtTLWhXSlYwN2p3UzMwVHZGdFVJTDVsWnl1OFBRcUxiRDcySHhNZVE3OUwtbVRrZUJheVB1QU12cmhWck5QcUFlR2p5MkNMR2VFOTE2eTBCWnl3eGQxdG1kZw?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEFSWERsNUtpVXA5Vm1xTnJ5d0hXWWhoVDdpcW5QUno4bzNxMzM0T3RKZnNMVnVURlR2THNya3JlaG1wV1JyTjJXMndBRjU3NVRVbmt3a1B3T1VSWkVrOEpaLXRlRk5XSjNKaEZCRkVnOUFYM2ZHRHdneGQxLXpsejRvMTlrQmhmV2hsQ1RDc0U4LUM1SFVlVkVSYzR1NWtUTkJDWHJsY2ljUmtwRmE2N1BTckpjdw?oc=5"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Donald Trump and Xi Jinping are scheduled to meet in Washington less than six weeks before the US election. Polls show Democrats are favored to make gains in Congress.",
-        "i": "Donald Trump and Xi Jinping prepared for a summit in Washington scheduled for less than six weeks before the US election. Polls indicated Democrats were favoured to make gains in Congress.",
-        "a": "A presidential summit between Donald Trump and Xi Jinping in Washington was scheduled for under six weeks prior to the US election. Polling data showed Democrats positioned to make gains in Congress.",
+        "b": "Political discussions focus on party leadership choices and upcoming budget questions. Opposition parties adjust their shadow cabinets while managing donor funding and financial scrutiny from the public.",
+        "i": "Political developments centre on strategic opposition appointments and funding compliance. Observers debate the policy positioning of opposition leadership alongside ongoing parliamentary fiscal debates.",
+        "a": "Political commentary examines shadow cabinet selections against the backdrop of broader economic strategy and fiscal credibility constraints. Parties navigate regulatory scrutiny over funding structures while framing alternative economic platforms.",
         "sources": {
           "0": {
-            "outlet": "CNBC",
-            "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html"
+            "outlet": "The Guardian",
+            "url": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone"
+          },
+          "1": {
+            "outlet": "The Guardian",
+            "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/02/burnham-beware-bond-markets-demand-answers-budget"
           }
         }
       },
       "timeline": [
         [
           "2 Sep 2026",
-          "Analysis showed China's carbon dioxide emissions fell by 1% following the outbreak of the war on Iran."
+          "UK 30-year borrowing costs reach their highest level since 1998 amid an international debt sell-off"
         ],
         [
           "3 Sep 2026",
-          "China rejected G20 criticism regarding its reliance on export-driven growth."
+          "Crest Nicholson warns of an annual loss due to a subdued property market"
+        ],
+        [
+          "3 Sep 2026",
+          "Reform UK confirms a £4m donation from crypto billionaire Ben Delo"
+        ]
+      ]
+    },
+    "Germany": {
+      "iso3": "DEU",
+      "label": "Germany",
+      "sub": "German bond yields drop and regional banking updates land",
+      "ind": [],
+      "stories": [
+        {
+          "t": "German bond yields decline",
+          "src": "Guardian Business",
+          "b": "European bond markets see borrowing costs ease. Bond yields, which act like the interest governments pay on debt, go down. The yield on ten-year German bonds drops by 1.5 basis points. This leaves the ten-year German <span class='term' data-t='gilt'>bund</span> yield at 3.36%.",
+          "i": "European sovereign debt markets experience easing <span class='term' data-t='gilt'>gilt</span> turmoil. The yield on ten-year German <span class='term' data-t='gilt'>bunds</span> decreases by 1.5 basis points. This shift brings the benchmark German <span class='term' data-t='gilt'>bund</span> yield down to 3.36%.",
+          "a": "European sovereign debt markets price in easing selling pressure across regional yield curves. Ten-year German <span class='term' data-t='gilt'>bund</span> yields contract by 1.5 basis points to print at 3.36%.",
+          "gloss": "gilt",
+          "links": [
+            "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates"
+          ]
+        },
+        {
+          "t": "German American Bancorp Q2 context",
+          "src": "Yahoo Finance",
+          "b": "Nasdaq-listed German American Bancorp releases second-quarter earnings details. Financial analysts examine these figures alongside other regional banking stocks. The data provides a view of regional lender performance. Second-quarter results for the institution appear in wider market reviews.",
+          "i": "Nasdaq-listed German American Bancorp details its second-quarter earnings performance. Market observers evaluate these financial metrics within the broader regional banking sector. Sector comparisons contextualize the reported figures against rival regional lenders. Second-quarter reports outline the operational standing of the institution.",
+          "a": "Nasdaq-listed German American Bancorp publishes second-quarter earnings metrics. Analysts benchmark these financial results against peer regional banking equities. Valuation multiples and credit metrics reflect prevailing regional sector dynamics. Reporting captures the institution's balance sheet trajectory.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTRuVkFjRm1tM2hLXzl6elZzY3pXUHVDeG1iSndfVjREb3hyTE5kRl96ZHNBUng5RkcxdFlRa0V1WkI2VXd6UXNMaU1naDJlZ3RjNFFKNGR5TFhJdmhLaGJHODFkYlB0QVc0b3pKQXBrVkhYMFNEVE9LVVItVWNQSWRkTFl6RUt1dnRycjRkRjBEc0VwODR4SGlSR09zQWk1MXZ6WA?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Christian Democrats avoid campaigning with the German chancellor. The party tries to slow the rise of the far-right AfD in Saxony-Anhalt. Chancellor Merz becomes a political liability for his party.",
+        "i": "Christian Democrats distance themselves from the German chancellor during campaigning. The party attempts to curb the surge of the far-right AfD in Saxony-Anhalt. Chancellor Merz emerges as an electoral liability.",
+        "a": "Christian Democratic politicians eschew joint campaigning with the German chancellor. The strategy aims to mitigate the far-right AfD surge in Saxony-Anhalt. Chancellor Merz functions as an active liability for regional candidates."
+      },
+      "timeline": [
+        [
+          "03 Sep",
+          "Ten-year German bond yields drop 1.5 basis points to 3.36%"
+        ]
+      ]
+    },
+    "Japan": {
+      "iso3": "JPN",
+      "label": "Japan",
+      "sub": "Yen rises on interest rate hike expectations",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Japanese Yen Surges",
+          "src": "lufkindailynews.com · Action Forex",
+          "b": "The Japanese currency, called the yen, climbed higher against the US dollar. Investors expect the central bank of Japan to raise interest rates soon. Higher rates make a currency more attractive to hold. The dollar slipped following comments from official Waller.",
+          "i": "The yen strengthened toward the 155 level against the dollar. Traders increased bets on policy tightening from the Bank of Japan. This repricing of the <span class='term' data-t='carry'>carry</span> trade drove broad dollar weakness. Speculation around the GPIF also contributed to the currency rally.",
+          "a": "USD/JPY slid toward 155 as repricing of Bank of Japan policy expectations accelerated. Terminal rate pricing forced an unwind of short-yen positions, pressuring risk assets. The transmission from shifting rate differentials overwhelmed equity market correlations.",
+          "gloss": "carry",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGt3OVNNcXBzMWlSWk13eDRaWVpuTzVjc1hiSTYwREtzRlBzUmstZXZ0ZkhoRS1LVE9HM3ZDN3lkWm1TR3Q3c0FwSTlQc2ItRGhyOHpaMkhYZkRhT0hKUEFzb2pKSnFmZjdDd0FLaV9zSkJRM1g1QVNQRElUYXlYNmQ3bl9rX0RXcWN5S2ZTSG1Wa3Q1MHBWVjA3V0djYXlFMTd2dGM2VXNHYzdqYWlxTmpJWTlxNXI5dUNITDk4MktrUDNXdl92Wmx4NjdjNExSNkJxQ3VoQm9oMWp2dEhYcDF4RGtXSG1wNXRmRFg2aw?oc=5",
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTW00dEV4QzBjUU40U2VsWjVROXBxazlZMVBGbzZRb2VGMzZocUZOYU91YTRkTkppa2tEbTVmX212R0R6a0kzaWhhSTYzMFp3YWhTNTlZbmVPYTh1WjQxcExGQTNqWkxEZ1ZlZ1FRMnU0LThOd2hsWWxUSEJPX29vejFqb0xZZWlGb2FQMlJQdURrMDhQWDdnRGhUdl8zWGUzU1p3aE1DQ1JQVERyQzF5SXl2QjNOSWtZazdtZ09GNTM5eXFuOWNF?oc=5"
+          ]
+        },
+        {
+          "t": "Nikkei Falls on Rate Uncertainty",
+          "src": "stocktitan.net · صحيفة مال · トラベルボイス",
+          "b": "Japan's main stock market index dropped to a one-month closing low. Investors worry about rising interest rates. Sony spent 43.5 billion yen on stock buybacks during August. Domestic travel spending grew by 12% to 7.5 trillion yen in the second quarter of 2026.",
+          "i": "The Nikkei index hit a one-month closing low as interest rate uncertainty weighed on equities. Corporate activity continued as Sony spent ¥43.5bn on August buybacks. Meanwhile, domestic travel consumption by Japanese travelers increased 12% to ¥7.5tn in the second quarter of 2026.",
+          "a": "The Nikkei index printed a one-month closing low amid escalating rate uncertainty. Equity valuations compressed as higher discount rates collided with currency volatility. Microeconomic resilience appeared in Sony spending ¥43.5bn on August buybacks and domestic travel consumption rising 12% to ¥7.5tn in Q2 of 2026.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3RTa215VUMzTnp3TmtGczAyYVNLU09kbE5ZYkZBOXJ4NGxtU0NtN2REcDRUZmlNeVZCZjVia1ZCSzl2d0s5ODNpdUlFTWp2YWpBZWs2U1MzOWRESTdzX1dsY01ncDdndm9sUE50T2RhZmhtVkZDUjJnSU10ZG5pOWVPNE5uZmtPZ3hwZDNVdUZUTUwtaTQxcmpJb2lzc0FoUmYwbW9KdnplbnFoNG1ULQ?oc=5",
+            "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YNlIzYzRlc2VZdGE4M3NEalBOOG5ZWEVrMGJtQ09YNU5YdXI2cGhkQmlvR3RMQnJzWC02R2RreVBvd2FSZzMxaUFmWFo1N2JVWlBSdHNVTnBZZnFoazBjZktnQXMzZjFLd1NTWGRn?oc=5",
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlFvNDFINTA5TUFVSmxLanZLYS00T2VQaTdYZnhabkthSWxxNy1KazI1dzIwdkQwTWxlTE85UVlPbmlnc2FQUDdaM2ZRTzJOVHZBT2pCdUVWYUdzbXQ0YTdvNDJiZEZ5blpYaWJUTDU3UURwbzlOaHRCdnVDdHlMWTY1NUFkWXJVMm9fT2pxa2VmT3pZeXJYcFd3bUQxNzluamhKTV90WWJGMi1JMUJtOVpGLVpoejNFQWpRZnVkUVpwamJxSWRR?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Japanese financial authorities monitored currency markets as the yen strengthened rapidly. Officials did not confirm direct market interventions. Economic reports showed strong domestic travel demand during the second quarter.",
+        "i": "Official fingerprints remained elusive as the yen squeezed higher against major peers. Market participants debated potential currency intervention by authorities. Domestic economic indicators showed travel consumption reaching 7.5 trillion yen.",
+        "a": "Speculation regarding official intervention persisted despite authorities maintaining silence. The currency appreciation tested tolerance thresholds without triggering open-market operations. Macro data showed domestic travel consumption expanding to 7.5 trillion yen in Q2 of 2026.",
+        "sources": {
+          "0": {
+            "outlet": "トラベルボイス",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlFvNDFINTA5TUFVSmxLanZLYS00T2VQaTdYZnhabkthSWxxNy1KazI1dzIwdkQwTWxlTE85UVlPbmlnc2FQUDdaM2ZRTzJOVHZBT2pCdUVWYUdzbXQ0YTdvNDJiZEZ5blpYaWJUTDU3UURwbzlOaHRCdnVDdHlMWTY1NUFkWXJVMm9fT2pxa2VmT3pZeXJYcFd3bUQxNzluamhKTV90WWJGMi1JMUJtOVpGLVpoejNFQWpRZnVkUVpwamJxSWRR?oc=5"
+          },
+          "1": {
+            "outlet": "Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0p5WDJOMVBrYkhEbGgzTENPQzJMZWFuQzBRX3JDWjg0UmpmUTdPVFhGZEFsUTNoeEhBSExCeG10S1ByUlN6QkYtT1dOSFBEQ2VxWDhLS0x1bmEwQUxIdXB0ZmlZOElqTDFLRl9WV1dpQVItVk9iXzlqVlhsTjFlVDZWTDRfZUtuRDNjUExqRGE5a285?oc=5"
+          }
+        }
+      },
+      "timeline": [
+        [
+          "Q2 2026",
+          "Domestic travel consumption by Japanese travelers reached 7.5 trillion yen"
+        ],
+        [
+          "August 2026",
+          "Sony spent 43.5 billion yen on share buybacks"
+        ],
+        [
+          "3 September 2026",
+          "The yen climbed as traders priced in potential interest rate hikes"
+        ]
+      ]
+    },
+    "China": {
+      "iso3": "CHN",
+      "label": "China",
+      "sub": "Yuan peaks, policy funds deploy, and land auctions diverge",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Yuan Reaches Three-and-a-Half-Year High",
+          "src": "finance.biggo.com · AKM.RU",
+          "b": "The Chinese currency, called the yuan, just hit a high value that we have not seen in 3.5 years. It broke past 6.72 per dollar. Pan Gongsheng, who leads the central bank, stated that the country has no intention to win trade battles through currency depreciation, which means making money worth less on purpose.",
+          "i": "The yuan broke 6.72 to reach a 3.5-year high against the dollar. Pan Gongsheng reiterated that authorities hold no intention to gain trade advantages through currency <span class='term' data-t='deflation'>depreciation</span>. Meanwhile, the yuan exchange rate on the Moscow Stock Exchange decreased by 0.01 rubles.",
+          "a": "Spot rates breached 6.72 to print a 3.5-year high. Governor Pan Gongsheng reiterated the official stance against leveraging competitive <span class='term' data-t='deflation'>depreciation</span> for trade advantage. Cross-border pricing mirrored these dynamics as the yuan dipped by 0.01 rubles on the Moscow Stock Exchange.",
+          "gloss": "deflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wcG96SUpLT1c1LUQyT1hncGRmSHczV3FoMHAxd1JNbzJYWlFlWFQ4aVFpdkJmLWlHck81T29SQl9jMktNQW5jUzQ4eGw0RHVnMGREcndXemVzVTFLZFZ0X09GS3pHdUFBeFNJaDlIT3FRbklPVkE?oc=5",
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3lDVlNiMTR0bXozQWhwZnpySEFQZzB0ODV1dzZnYl9EMDljRTdSOWd4UDlkV3V6bmpJOWxzcmN2M3Bsem5TcUpfaDFFWW9fZ1NXZzdfdEkxLUM0NnlmOTNKMTRkSnhBWjduZTMzUEtlVVVqYWpibGlsb2FaSDZ3dHBNUG14Q3NoSHhaUU9aN25zUUdMZGlBVW12RFNCczhibzVIZE5pc1ZzN2JhczZJR0tJTG1BcGp0c2c?oc=5"
+          ]
+        },
+        {
+          "t": "China Deploys First Policy Financing Funds for 2026",
+          "src": "The Mighty 790 KFGO · Finimize",
+          "b": "China deployed its first round of policy financing funds for 2026. These are special funds meant to spur investment into the economy. A policy bank started this funding push to drive economic activity.",
+          "i": "China deployed its first batch of 2026 policy financing funds. The policy bank initiated this funding push to spur investment across the economy. Such capital deployment targets growth stimulation via targeted financial plumbing.",
+          "a": "The first tranche of 2026 policy financing funds deployed to spur investment. The policy bank initiated the funding cycle to drive project capitalization. This mechanism bypasses commercial channels to channel liquidity directly into targeted sectors.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2ZqRWRzU3MyS2xFSWh0U3JSTUdLWjdTMlhETFhkNFNYN0NNUGMxZThVUXRRdUxoRXdJTThfeWhfUTlNa24yVDhvbzBiN1M4WXUxZU8zcVNmSVlNTUpfNTBpME44TUpIblIzX1ZGY0NDU1lQV084S1hTc2xzMTM0bkp1RDlIVll4WmtHRkNYQnBobjJhc0NEYXdzZw?oc=5",
+            "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVmNMa19mS1dDVG90NkU5NkVOdlRZUllRY2xxalIzaVJCYm9qTDFDTndjYURTX0F6YW9yT2xWV3JKT2VfcmpzcUMwVHp6WVRjcWdzQmc2bGNnVXZTdldnQ0M2Vy00N2w1Yjk1T1k2dzJlVXE1WjZLQkdLeVp3YVAyNHVLbw?oc=5"
+          ]
+        },
+        {
+          "t": "Beijing Land Auction Shows Sharp Divergence",
+          "src": "finance.biggo.com",
+          "b": "Beijing held its first land auction under a new policy. The results showed a sharp difference between different pieces of land. Officials suspended the Jiangtai plot before bidding even started, while a residential site in Shunyi drew 170 rounds of bids.",
+          "i": "Beijing hosted its first land auction following a new policy shift. Market demand showed a sharp divergence between locations. Authorities suspended the Jiangtai plot prior to bidding, whereas a residential site in Shunyi attracted 170 rounds of competition.",
+          "a": "Beijing completed its inaugural land auction under the revised policy framework. Bidding dynamics exposed sharp divergence across asset tiers. Officials suspended the Jiangtai plot prior to execution, while the Shunyi residential parcel cleared after 170 competitive rounds.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aQTF0cVh6NHVwX2dkb0JCRTdlU09lNXoyZFZEa2Q4SEcyLVhhYWpmZXlORlBUaEZ2ZHBkRFpUa3NzRUc5Y0tfTjRVY0w1a0tOMXYzMjYyQTJuT0U2WnVvRk5BYm92WHQ1SmFhc2lVT3JyNU9keWc?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "PBOC Governor Pan Gongsheng called for multilateralism and policy coordination at the G20 finance meeting.",
+        "i": "PBOC Governor Pan Gongsheng urged multilateralism and policy coordination during the G20 finance meeting.",
+        "a": "Governor Pan Gongsheng emphasized multilateralism and policy coordination at the G20 finance meeting."
+      },
+      "timeline": [
+        [
+          "3 Sep",
+          "Yuan breaks 6.72 to hit a three-and-a-half-year high"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Reserve Bank of India liquidity operations and debt auctions",
+      "sub": "Sensex slides, rupee gains, RBI holds auctions",
       "ind": [],
       "stories": [
         {
-          "t": "Central bank mops up cash via reverse repo auctions",
-          "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India is the main bank that manages money for the country. It ran special sales called reverse repo auctions to pull extra cash out of the banking system. Banks offered ₹5,18,742 crore in the first auction and ₹34,652 crore in the second auction. Both auctions had a one-day term and paid a cut-off rate of 5.24%.",
-          "i": "The Reserve Bank of India conducted two overnight variable rate <span class='term' data-t='inflation'>reverse</span> repo auctions to drain surplus banking liquidity. Banks offered ₹5,18,742 crore into the first window and ₹34,652 crore into the second window, with both clearing at a weighted average rate of 5.24%. These operations match the notified amounts of ₹6,00,000 crore and ₹1,50,000 crore respectively.",
-          "a": "The Reserve Bank of India absorbed system liquidity through dual overnight variable rate reverse repo auctions totaling ₹7,50,000 crore in notified capacity. Authorized institutions allocated ₹5,18,742 crore to the initial window and ₹34,652 crore to the secondary window at an identical cut-off and weighted average rate of 5.24%. The substantial under-subscription in the larger primary auction indicates structural cash distribution dynamics across the overnight segment.",
-          "gloss": "inflation",
+          "t": "Stock Indices Fall for Fourth Consecutive Session",
+          "src": "India Infoline · Moneylife · The Economic Times",
+          "b": "The Sensex index fell by 417 points on September 3, 2026. An index is a tool that tracks the overall performance of a group of stocks. Stock markets dropped because crude oil prices and global yields rose. IT shares also suffered heavy selling.",
+          "i": "The Sensex dropped 417 points on September 3, 2026, marking a fourth straight losing session. Rising crude oil costs and global yields weighed heavily on investor sentiment alongside an IT sell-off. Expiry volatility and fading banking rallies added to the downward pressure.",
+          "a": "The Sensex fell 417 points on September 3, 2026, extending its losing streak to a fourth session. Expiry volatility offset earlier banking support as rising crude prices and climbing global yields triggered a broad IT sell-off. Traders rushed into put options late in the session, pushing option values up by 400%.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63505",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63508"
+            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTlROalIzcVB6R3lfaTJxd0FVYk03U0dZTk5PVkVOS2N2eVN1aUJoLS1vTHUtaWJ3MHBPNWNveUNvUDhVUXVjakc4M0E1STZ6TS1CRlZrdkNvdDZHZ2VNS21JUjYzZGljZFJCdGxHWkZSZVJyWlpxU1p5N1ppakNnRDVHNXFvbXBuZ054N0xJdDY4U29mdmppT0lmRlhfNlR5emdOLVp5MlE2YXdhQWJxdWN0NzB6ckhDY0FMQzQxb3luTklZaTY1RW5iZ05fQ1JOQTZBYWFsSTBuZTFOcnVZ?oc=5",
+            "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUkptYUZxU3RZaXN0cDdiVkprSXFQblVUeWZ0aEk2dFpCa0tEVTJfNVRDMk45SWFCemt0NFhwZkR6VHJxTmhKS3B5QTJ6eS1kcVJ1YzJuSnRVbWFQSDlzNzEwaUY1TmhiZFNpWDdaaS10U0NxWWVHbUxSLW52ZkdpT1pRaXAwUGVVQ1RLZk95ZlNhbEtjckNvdlZ1cE13eFFRS1o2QnllZGgyVWNyWFBHcUJ2NTJGRm9oNVdFTkNKX3dPNUlTTWx6RE9aU3BYUHJIclZGTFdlM3ZtNzNCVm8xSTBn?oc=5",
+            "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNkhFZlBmMGNOcXhNYURhbHZWclJtMjU1ZnFQTFFZSjlnX3ZyeWFXdDFLMkdFN3kwZHdZUG9DdTU5RlplNlpzSXJtREdFNmJONWs5UWFEM3NFeVdQc2lqOFpORV9seFNlbXA2VHhHQmhiaTUyVFN0TmF6MUk5OFE4RHEtcDFzUTJPWFVteGJHRmxMaHJZVE1iU2VLYkVvX0tVRE1WVy1jSUVIVjVuQWNMbll1cEhMOUNkSFFqSGhFcXBKT24zRlo4ZWNYRDktRldNaEpxUVRILTFla2hyWjE0WGNPQkg4Qnc?oc=5"
           ]
         },
         {
-          "t": "Government debt buyback draws zero acceptance from market participants",
-          "src": "Reserve Bank of India",
-          "b": "The government tried to buy back some of its older bonds early to manage its debt. It offered to buy ₹30,000 crore worth of securities. Banks and other financial players offered only ₹3,109.305 crore worth of these bonds back to the government. The central bank accepted none of the offers.",
-          "i": "The Reserve Bank of India announced a buyback auction for Government of India dated securities with an aggregate notified face value of ₹30,000.000 crore. Participants submitted total offers worth ₹3,109.305 crore across securities including the 7.33% GS 2026 and 8.24% GS 2027. The central bank accepted a total face value of zero.",
-          "a": "The Reserve Bank of India attempted a debt buyback targeting an aggregate face value of ₹30,000.000 crore across instruments such as the 7.33% GS 2026, 5.74% GS 2026, 8.15% GS 2026, and 8.24% GS 2027. Aggregate participation reached just ₹3,109.305 crore across 22 total offers. The monetary authority rejected all submitted lots, resulting in zero accepted face value.",
+          "t": "Rupee Rises Against the US Dollar",
+          "src": "Rediff · thehindubusinessline.com · Business Standard",
+          "b": "The Indian rupee gained 14 paise to close at 94.59 against the US dollar on September 3, 2026. This currency climb extended its winning streak to five days. It marked the biggest single-day gain for the rupee since July.",
+          "i": "The Indian rupee rose 14 paise to close at 94.59 against the US dollar on September 3, 2026. This move extended the currency's winning streak to five consecutive sessions. Market participants noted this performance as the largest single-day advance since July.",
+          "a": "The rupee appreciated by 14 paise to settle at 94.59 against the US dollar on September 3, 2026. This advance marked the fifth consecutive daily gain for the domestic currency. Traders recorded the move as the largest single-day appreciation since July despite broader macroeconomic headwinds.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63509"
+            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORjlzOWd1QlpTYVAwaDBoUEdrLWRwYVdMQUctZ1dZaTFfbkhEeDZ6dFFnQTJkVFJIcFJqaW1URk9maDA2SEFGdFdoam9Za0J0S1ZGbFk2U1J1ZFJ6a0JSMjhDWUtfSUI0TlJmUlRPbEhaRnUwdF9Tc3pHWDlLUi1LRF91d0xkNnZndnVfNVI1d1BUd2NRYTJJdXVzOUtJNHBaVXlaaW1vVmIwenpMREhsNlQ1ZjZCU3BHTUR1a3BCeDlJOUtCODZWaEM2NEtmREFQbndETEhQQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOFktWFhYZktuX2FwMVF1a2U0S09CQmk0N2V4TTVtZzR0N0o3d1VTdWZsUWNGTEZnSjM4VTN2cGxwQjgyQUpyWDRMbjlmUktiVnp6d0hEZkxSVE1jdHhaUW9UY1VqVVRiOUFsTHpqeEF3Z0R5WVdUam9aMGtIS1NBVGxnZUFHV3F2ZUxfSlpESUdXQ2xabW9PNWdYTTZqTEl5YVFoQTJ5d0NIRWFSNHNSbXlCVEZneTJ6cFBibTJNWFVJTnh2Y21yWDI4Q0JKcFlxODU1dTJ6d3LSAd8BQVVfeXFMUGpiSlV1ODRCb243ZHl0emN3dV9Bc2FYU1hCRi0yRS1aek9tcVZpcTNlR1Vfb2ZEQTR0NW1CZHRDeTV2eWJjVHhLMWVPOGtkUzZublpNSjJteHg0azZCT21hWTc1WW82Tml4ckdjeE1PT1FlLUo1bDExOGZHWXpmWjM0LWZrZFRrT1dod2xWd3BQTmFqVVh5VDZELTFaYkpicFdhU1FFanBubGZoSTVQVFpIbExYem5NeDJlWERTTnBZRVNEdndPZ3lUZmJ4N2FEVWQ5a0ZkQUVBZDNBTnFGQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1RFNGpaeGJPRzJ1cHNFMzNiNlFKcUc0aHFTcktjYkhRZzd1dlFyY1hycFlNQ3puRi1mLVFJQnZOUjIwVzJHZ3VPNzVjNFJsN0NIa0pGaHVzQVRyb3owQlQxVjhzRTFQTHhDcVo5MHhBamlMUi1TWkFBNjFRZm53MmpoR2QtTDRvN0lvMENwNmRzVy1NOG0tU19NMlJzdEJRX3FSa1lldWRjS1lkNjBLdXNSV1JWZ2xReXlVbUJxUdIBxAFBVV95cUxQYXdWTjAwdkpjOG56dmR6bDg2VjNUYnBFSy0zS3Q2U3NGdkY3d0lTX3JkaHR2TFR3d2Z4NXZOUzNIanlfZTJiX01tOEVydlhaaTJoZnlJSFpQejctUkhidG44TmpESW8tMGJlQkxHUHViUVp1Q1lXdHp3WHRaMjhRQUFOV1I1S0dELURoOUh2Z3NRMGRsSlJ5SHZSREU3ZDVFU1dpVkVONV91dGtnbExlT09haFhQQ3NsamdtbnZKTWZ1eWwx?oc=5"
+          ]
+        },
+        {
+          "t": "Reserve Bank of India Conducts Liquidity Operations",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India announced a three-day Variable Rate Reverse Repo auction for September 4, 2026, with a notified amount of ₹7,00,000 crore. The central bank also reported results from a separate one-day auction held on September 3, 2026, where it accepted ₹34,652 crore at a cut-off rate of 5.24%. Additionally, a government security buyback auction on the same day received ₹3,109.305 crore in total offers against a notified face value of ₹30,000 crore, with all offers rejected.",
+          "i": "The Reserve Bank of India scheduled a three-day Variable Rate Reverse Repo auction for September 4, 2026, targeting ₹7,00,000 crore. For the one-day auction held on September 3, 2026, institutions offered ₹34,652 crore, which the central bank accepted fully at a cut-off rate of 5.24%. Separately, a buyback auction of government dated securities on September 3, 2026, yielded ₹3,109.305 crore in total offers against a notified face value of ₹30,000 crore, resulting in zero accepted bids.",
+          "a": "The Reserve Bank of India scheduled a three-day Variable Rate Reverse Repo auction for September 4, 2026, with a notified quantum of ₹7,00,000 crore and a reversal date of September 7, 2026. In the overnight liquidity window on September 3, 2026, participants tendered ₹34,652 crore against a ₹1,50,000 crore notified amount, clearing entirely at a cut-off and weighted average rate of 5.24%. Concurrently, the sovereign buyback auction on September 3, 2026, drew ₹3,109.305 crore across four securities against a ₹30,000 crore face value target, resulting in NIL acceptance.",
+          "links": [
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63511",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63509",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63508"
           ]
         }
       ],
       "politics": {
-        "b": "The government and central bank manage the country's money supply every day. They hold regular auctions to sell short-term bills and buy back older debt. Officials also track how much cash banks hold to keep the financial system stable.",
-        "i": "Monetary authorities balance domestic liquidity through continuous treasury bill issuance and variable rate operations. The Reserve Bank of India oversees secondary market debt schedules and bank funding rates. Short-term yields settle across specific maturities while liquidity absorption tools adjust daily cash levels.",
-        "a": "The institutional framework relies on active liquidity management via variable rate reverse repos and scheduled debt auctions. Treasury bill yields anchor the short-end curve at 5.2599% for 91-day, 5.6588% for 182-day, and 5.9090% for 364-day tenors. Open market operations and underwriting commitments coordinate sovereign borrowing requirements with prevailing banking sector liquidity.",
-        "sources": {}
+        "b": "There is no political news recorded in the sources for India on this date.",
+        "i": "No political updates or government policy announcements outside of central bank operations appear in the source material.",
+        "a": "The provided sources contain no reporting on political developments or administrative policy shifts."
       },
       "timeline": [
         [
-          "02 Sep 2026",
-          "RBI sold 91-day, 182-day, and 364-day treasury bills accepting ₹23,650 crore total."
+          "3 Sep 2026",
+          "RBI holds overnight VRRR auction accepting ₹34,652 crore"
         ],
         [
-          "03 Sep 2026",
-          "RBI conducted overnight variable rate reverse repo auctions absorbing system liquidity."
+          "3 Sep 2026",
+          "RBI records zero acceptances in government security buyback auction"
         ],
         [
-          "03 Sep 2026",
-          "RBI reported zero acceptance for the ₹30,000 crore government securities buyback auction."
+          "3 Sep 2026",
+          "Sensex falls 417 points and rupee closes at 94.59 per US dollar"
+        ],
+        [
+          "4 Sep 2026",
+          "RBI schedules three-day VRRR auction for ₹7,00,000 crore"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Braskem credit line and stock movements in Brazil",
+      "sub": "Brazilian equities rise on sector rotation and poll data",
       "ind": [],
       "stories": [
         {
-          "t": "Braskem secures Petrobras credit line",
-          "src": "tipranks.com",
-          "b": "Braskem secured a credit line worth R$ 2.35 billion from Petrobras. A credit line is like an agreed limit on a loan that a company can draw from when it needs money. Braskem will use these funds specifically for purchasing feedstock, which is the raw material used in manufacturing. This financial backing was finalized on September 2.",
-          "i": "Braskem obtained a R$ 2.35 billion credit line from Petrobras. The firm will deploy this liquidity for feedstock procurement. This transaction was reported on September 2.",
-          "a": "Braskem secured a R$ 2.35 billion credit facility from Petrobras to finance feedstock acquisitions. The capital injection provides balance sheet flexibility for raw material inventory management. The transaction was disclosed on September 2.",
+          "t": "Vamos Stock Jumps as Investors Rotate into Cyclicals",
+          "src": "AD HOC NEWS",
+          "b": "Vamos shares go up by over 16 percent. Investors are moving their money into Brazilian cyclical companies. These are businesses whose profits go up and down with the health of the economy.",
+          "i": "Vamos stock jumps over 16 percent as investors rotate into Brazilian cyclicals. Market participants reallocate capital toward domestic sectors sensitive to economic momentum. The move drives strong gains across select industrial equities.",
+          "a": "Vamos equity gains exceed 16 percent amid a broader sector rotation into Brazilian cyclicals. Price action reflects portfolio rebalancing toward domestic economic proxies. Marginal flows concentrate in rate-sensitive names as participants adjust exposure ahead of macroeconomic catalysts.",
           "links": [
-            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlRuLVJzLTB4MUZmcWxENlpHd1RQRk5uOGpPWkVmdGQyWDd6N01tamtpUjZMX2pXQzBTOHVPWl9vbGZKd0lpLWljMHJTYWRtSmJqdkZBbDZvdElMcmh5b0ptcU52N0t4WHluSDV3UVQ5UWxEYmFiSzBSVEN5aDZQbVpxMTRnZVRYaHExTlFaZW9KRFNiQVpUbm5UbzdkejdfNXJXTzI1WU9raHYzLWdZOUxhYVlpNVhxTXlMcU5qRGJJVVhTUEtz?oc=5"
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmNBZkNmeGxwbTkwUVZSV2o1dkNKSU1QSVJlQy13UlFSRmpjVWliS3hfVW5vWUtKOWJ4Z0VZYlFZLUYzaTV3RDlud192SmhZTjJrSXhIOGtpMllzdXpFVG83VHpzLTR5SWk2S3JIT0pRcFJpSWhmbEQ1VXpEempfNHpvMnVmVWpKTzlHY1dZLXF5VG9GcGFGNFJTYjVrLTV6YVk3cFF6ZE5McHN6MGM5SUNlSkotbEJOSWNVVmdoZW9kTWNPd2c?oc=5"
           ]
         },
         {
-          "t": "Vamos shares jump as investors shift to cyclicals",
-          "src": "ad-hoc-news.de",
-          "b": "Vamos saw its stock price jump by over 16 percent. Shares represent tiny pieces of ownership in a business, bought and sold on a public market. Investors moved their money into Brazilian cyclical stocks, which are companies whose fortunes rise and fall closely with the health of the wider economy. This market movement occurred on September 3.",
-          "i": "Vamos equity surged over 16 percent. Market participants rotated capital into domestic cyclical shares, which track economic expansions and contractions. This price action was recorded on September 3.",
-          "a": "Vamos equities rallied over 16 percent amid a broader sector rotation into Brazilian cyclicals. Market participants reallocated duration and risk exposure toward economically sensitive equities. The repricing materialized on September 3.",
+          "t": "Ibovespa Rises Ahead of Upcoming Election Poll",
+          "src": "TradingView",
+          "b": "The main Brazilian stock market index goes up. This happens as traders wait for a new public opinion poll about the election. Elections can change government spending and business rules.",
+          "i": "The Ibovespa rises ahead of a new election poll. Equity markets react to anticipated political sentiment updates. Traders adjust positions as survey results approach.",
+          "a": "The Ibovespa advances ahead of upcoming election polling data. Price discovery incorporates political risk premiums as market participants await fresh voter preference metrics. Valuation multiples remain sensitive to survey outcomes regarding future fiscal policy direction.",
           "links": [
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmNBZkNmeGxwbTkwUVZSV2o1dkNKSU1QSVJlQy13UlFSRmpjVWliS3hfVW5vWUtKOWJ4Z0VZYlFZLUYzaTV3RDlud192SmhZTjJrSXhIOGtpMllzdXpFVG83VHpzLTR5SWk2S3JIT0pRcFJpSWhmbEQ1VXpEempfNHpvMnVmVWpKTzlHY1dZLXF5VG9GcGFGNFJTYjVrLTV6YVk3cFF6ZE5McHN6MGM5SUNlSkotbEJOSWNVVmdoZW9kTWNPd2c?oc=5"
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEpieXB4cjdjSFpLcnNQYnIxTjVTQjV0TUExOFduVVR0QmNHWmZlc2JBUnl5akdLMzQyXzNvRF9ha1piUHJOd3RuckNCMGNOaEk5ZDNpYnBzaVo1aFBYaHVFMDk4c2JlamR5YTRyM1J3Z2VrZk8wNWlCUEtmY0hZaEMwVGtBVUJXNVN5UTVvOERJdHhNelFN?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Brazil's financial markets rallied recently. This came as an election poll tightened. Investors reacted to the shifting political figures on September 2.",
-        "i": "Brazilian markets experienced a rally driven by tightening election polls. Asset prices responded to the political shift on September 2.",
-        "a": "Brazilian asset prices rallied following the publication of a tighter election poll on September 2. Market valuations adjusted to the shifting political probabilities."
+        "b": "Investors watch election polls in Brazil very closely. Elections decide who runs the government. This affects taxes and laws for businesses.",
+        "i": "Brazilian market sentiment responds directly to upcoming election polls. Political developments influence fiscal policy expectations and regulatory outlooks.",
+        "a": "Market pricing incorporates political uncertainty as election poll releases approach. Fiscal trajectory assumptions remain tied to prospective administration changes."
       },
       "timeline": [
         [
           "2 Sep",
-          "Brazil's markets rallied as an election poll tightened"
-        ],
-        [
-          "2 Sep",
-          "Braskem secured a R$ 2.35 billion credit line from Petrobras"
+          "Bradesco ADRs climb 3.9 percent as the real strengthens"
         ],
         [
           "3 Sep",
-          "Vamos stock jumped over 16 percent"
+          "Vamos stock jumps over 16 percent on cyclical rotation"
         ]
       ]
     },
@@ -487,34 +519,29 @@
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Australian shares close higher and currency climbs",
+      "sub": "RBA designates Linfox Armaguard under new framework",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Shares and Currency Rise",
-          "src": "FXStreet · Investing.com India",
-          "b": "The main share index in Australia went up by 0.46% at the end of the trading day. An index is a group of different company stocks measured together to show how a market is doing. At the same time, the Australian dollar rose past the level of 0.72 against the US dollar. This happened because weak economic figures came out of the United States. Currency values often shift when investors react to new data from foreign economies.",
-          "i": "The S&P/ASX 200 index advanced 0.46% by the close of trade in Australia. Simultaneously, the Australian dollar pushed above 0.72 against its American counterpart. Softer macroeconomic releases out of the United States drove the move in the currency pair. Foreign exchange markets routinely reprice exchange rates when US data prints below consensus expectations.",
-          "a": "The S&P/ASX 200 closed 0.46% higher amid broad domestic equity support. Concurrently, the AUD/USD spot rate breached 0.72 following soft US data releases. This upside price action in the currency reflects immediate dollar weakness transmitted via lower yield expectations abroad. Cross-border capital flows reacted dynamically to the downward revision in US macro indicators.",
+          "t": "Central bank designates cash distributor",
+          "src": "Reserve Bank of Australia",
+          "b": "The Reserve Bank of Australia is the country's central bank, which manages the money supply and sets economic policy. The Reserve Bank of Australia designated Linfox Armaguard Pty Ltd today. This action falls under the Cash Distribution Framework Act 2026. The company holds the Australian Company Number 099 701 872. The media release carries the reference number 2026-25.",
+          "i": "The Reserve Bank of Australia designated Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026. The formal designation carries media release number 2026-25. The company is registered with Australian Company Number 099 701 872. The regulatory action invokes specific powers granted by the 2026 statute.",
+          "a": "The Reserve Bank of Australia enacted a formal designation of Linfox Armaguard Pty Ltd pursuant to the Cash Distribution Framework Act 2026. The statutory intervention, catalogued as media release 2026-25, applies to the corporate entity bearing Australian Company Number 099 701 872. The regulatory mechanism establishes oversight under the newly instituted statutory framework.",
           "links": [
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFlBT3o5bmxEai1jWTgwUURya2JyWXNmRVlsTXhiU2FIOHlRVnNLVmhEaU1KSXJLWUdCcTN5cnpRcGp2em12b191OWplRHd1YTc4cDBCQkVFel9ENHE0NDYzUTVpTVNUdWR3aFpwaHVOcWxMU29acUhBUmE3akZGM0ZFWGNUdFM5UlZ0dU5FbWRyVDZVNUo3NmVGbXFsYVdPNXVDMkVyS0FEcmVqclpDNA?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGpJaFFKT3Jtbk5XTVVDSUZQckNfYkJJbFNMSnl3eVh3TjBPa1FoM2ZIUFBCQzJ5VXpXSmhrNXFydURsQVBaSlk4QmhNSDZfcjZnckNaVmF5YjN5eWlhbWZzbmdEZnhReUdtbnZUbklEdkZpdDcxNWpDUjlLTk50OFlHN0U1aU82UHB4cGxkVGdyS1RjNW9hUm8zNmJ0R3djN0pyWVpULXJIQmVycEVoQmNKdTE?oc=5"
+            "https://www.rba.gov.au/media-releases/2026/mr-26-25.html"
           ]
         }
       ],
       "politics": {
-        "b": "There is no political news recorded for Australia in the current market reports.",
-        "i": "No domestic political developments were reported in the current market data feeds for Australia.",
-        "a": "The feed contains no verifiable political data points or government policy announcements for Australia."
+        "b": "The Reserve Bank of Australia issued media release number 2026-25 today. The release announced the designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026.",
+        "i": "The Reserve Bank of Australia published media release 2026-25. The document details the designation of Linfox Armaguard Pty Ltd via the Cash Distribution Framework Act 2026.",
+        "a": "The Reserve Bank of Australia promulgated media release 2026-25, establishing the designation of Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026."
       },
       "timeline": [
         [
-          "3 Sep",
-          "The S&P/ASX 200 index closes up 0.46% in Australia."
-        ],
-        [
-          "3 Sep",
-          "The Australian dollar climbs above 0.72 against the US dollar."
+          "3 Sep 2026",
+          "The Reserve Bank of Australia designated Linfox Armaguard Pty Ltd under the Cash Distribution Framework Act 2026."
         ]
       ]
     }
