@@ -26,7 +26,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 12          # a hung feed can't burn a 6-hour job any more
+    timeout-minutes: 18          # a hung feed can't burn a 6-hour job any more; 10 countries can legitimately take ~8-10 min
     steps:
       - uses: actions/checkout@v5
 

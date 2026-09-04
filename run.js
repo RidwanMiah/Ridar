@@ -146,7 +146,14 @@ async function main() {
   const quizAge = daysSince(state.quizGeneratedAt);
   if (FORCE || quizAge >= QUIZ_MAX_AGE_DAYS || !quiz.questions?.length) {
     console.log(`\nquiz is ${quizAge === Infinity ? 'missing' : `${quizAge.toFixed(1)} days old`} — regenerating`);
-    const questions = await buildQuiz(countries);
+    // A quiz failure (e.g. a sustained Gemini outage) must never take down a
+    // run that already has good briefings — keep the existing quiz instead.
+    let questions = [];
+    try {
+      questions = await buildQuiz(countries);
+    } catch (err) {
+      console.log(`  ! quiz failed (${err.message.split('\n')[0]}) — keeping the existing quiz`);
+    }
     if (questions.length) {
       quiz = { generated: new Date().toISOString(), questions };
       state.quizGeneratedAt = quiz.generated;

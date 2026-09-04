@@ -324,7 +324,15 @@ OUTPUT SHAPE
   "e": "..."
 }]}`;
 
-    const raw = await askForJson(system, `BRIEFINGS\n\n${context}`, { maxTokens: 24000 });
+    // One level failing (e.g. a sustained AI outage) shouldn't lose the other
+    // two — skip it and carry on.
+    let raw;
+    try {
+      raw = await askForJson(system, `BRIEFINGS\n\n${context}`, { maxTokens: 24000 });
+    } catch (err) {
+      console.log(`  ! skipping ${label.toLowerCase()} quiz — ${err.message.split('\n')[0]}`);
+      continue;
+    }
 
     for (const q of raw.questions || []) {
       if (!q.q || !Array.isArray(q.o) || q.o.length !== 4 || !q.e) continue;
