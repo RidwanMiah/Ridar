@@ -63,7 +63,7 @@ async function askForJson(system, user, { maxTokens = 8000, temperature = 0.3 } 
 // through the rest quickly (each skip keeps yesterday's data) and still reach
 // the digest and quiz before the job times out. A single success clears it.
 let consecutiveOutages = 0;
-const OUTAGE_THRESHOLD = 2;
+const OUTAGE_THRESHOLD = 1;
 
 async function callProvider(system, user, opts) {
   // Free AI tiers throw transient 429/500/503s under load. Retry a few times

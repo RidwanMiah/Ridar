@@ -26,7 +26,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 18          # a hung feed can't burn a 6-hour job any more; 10 countries can legitimately take ~8-10 min
+    timeout-minutes: 22          # a hung feed can't burn a 6-hour job any more; a genuinely bad Gemini day can push a normal run past 15 min
     steps:
       - uses: actions/checkout@v5
 
