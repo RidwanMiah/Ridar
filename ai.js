@@ -56,27 +56,42 @@ async function askForJson(system, user, { maxTokens = 8000, temperature = 0.3 } 
   throw lastErr;
 }
 
+// If the provider is in a sustained outage, hammering every one of ten calls
+// with a full retry budget just burns the run's time limit for no benefit —
+// a few consecutive full-retry exhaustions means "the AI is down right now",
+// not "this one call was unlucky". After that, fail fast so the run can skip
+// through the rest quickly (each skip keeps yesterday's data) and still reach
+// the digest and quiz before the job times out. A single success clears it.
+let consecutiveOutages = 0;
+const OUTAGE_THRESHOLD = 2;
+
 async function callProvider(system, user, opts) {
   // Free AI tiers throw transient 429/500/503s under load. Retry a few times
-  // with backoff so one blip doesn't fail the whole daily run.
+  // with backoff so one blip doesn't fail the whole run.
   const RETRIABLE = /\b(429|500|502|503|overload|high demand|UNAVAILABLE|RESOURCE_EXHAUSTED)\b/i;
+  const inOutage = consecutiveOutages >= OUTAGE_THRESHOLD;
+  const maxAttempts = inOutage ? 1 : 4;
   let lastErr;
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < maxAttempts; attempt++) {
     if (attempt) {
       const wait = 4000 * 2 ** (attempt - 1) + Math.random() * 1000;
       console.log(`  retrying in ${(wait / 1000).toFixed(0)}s (${lastErr.message.slice(0, 60)}…)`);
       await new Promise((r) => setTimeout(r, wait));
     }
     try {
-      if (PROVIDER === 'gemini') return await callGemini(system, user, opts);
-      if (PROVIDER === 'groq') return await callGroq(system, user, opts);
-      if (PROVIDER === 'anthropic') return await callAnthropic(system, user, opts);
-      throw new Error(`Unknown AI_PROVIDER "${PROVIDER}". Use gemini, groq or anthropic.`);
+      const result = await (PROVIDER === 'gemini' ? callGemini(system, user, opts)
+        : PROVIDER === 'groq' ? callGroq(system, user, opts)
+        : PROVIDER === 'anthropic' ? callAnthropic(system, user, opts)
+        : Promise.reject(new Error(`Unknown AI_PROVIDER "${PROVIDER}". Use gemini, groq or anthropic.`)));
+      consecutiveOutages = 0;
+      return result;
     } catch (err) {
       lastErr = err;
       if (!RETRIABLE.test(err.message)) throw err;
     }
   }
+  consecutiveOutages++;
+  if (inOutage) lastErr.message += ' (skipping retries — provider looks down for this run)';
   throw lastErr;
 }
 
