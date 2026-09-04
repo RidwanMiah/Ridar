@@ -1,707 +1,707 @@
 {
-  "generated": "2026-09-04T01:20:41.223Z",
+  "generated": "2026-09-04T02:24:45.230Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "Why did Wall Street indices rise as equities climbed ahead of the non-farm payrolls employment report?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did United States Treasury yields fall in the market session?",
       "o": [
-        "Market participants anticipated dovish inflation and rate signals from the Federal Reserve.",
-        "Corporate earnings across all sectors beat analyst estimates by record margins.",
-        "The federal government announced a permanent corporate tax elimination.",
-        "Global oil production was completely halted by international agreement."
+        "Federal Reserve official Waller made dovish remarks that shifted policy expectations.",
+        "The Federal Reserve announced an unexpected emergency interest rate cut.",
+        "Foreign central banks sold large volumes of sovereign debt to support the dollar.",
+        "Commercial banks increased their demand for reserves to meet regulatory ratios."
       ],
       "a": 0,
-      "e": "Equities climbed because investors expected dovish inflation and interest rate signals from the Federal Reserve, which lowers borrowing costs and boosts risk assets. The other options involve events not mentioned in the source text."
+      "e": "Treasury yields fell because of dovish remarks from Waller, which changed policy expectations in the fixed-income market. The sources do not mention an emergency rate cut or foreign central bank debt sales."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Fixed income",
+      "q": "What did Bank of England officials identify as the greatest threat to central bank independence?",
+      "o": [
+        "Government demands to finance fiscal deficits through public debt.",
+        "Persistent price inflation driven by supply chain bottlenecks.",
+        "Excessive commercial lending to the residential property sector.",
+        "Rapid technological disruption within the retail banking industry."
+      ],
+      "a": 0,
+      "e": "Officials stated that government demands to finance fiscal deficits pose the primary threat to central bank independence. They did not cite inflation, property lending, or retail banking technology as the primary institutional threat."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "What happened to the benchmark index on the Frankfurt exchange to end a three-day losing streak?",
+      "q": "What caused the DAX index to reach 26,003.32 points and snap its losing streak?",
       "o": [
-        "It advanced by 0.65% to reach 26,003.32.",
-        "It fell by an additional 2.50% due to heavy selling.",
-        "It remained completely unchanged throughout the entire session.",
-        "It split into two separate indexes to manage trading volume."
+        "Broader improvements in market risk appetite and general buying across European bourses.",
+        "A massive emergency bailout package funded by the European Central Bank.",
+        "Surprise corporate earnings beats announced by every constituent in the index.",
+        "New government regulations forcing pension funds to buy domestic shares."
       ],
       "a": 0,
-      "e": "The benchmark index advanced 0.65% by the closing bell to reach 26,003.32, ending its three-day losing streak. The other choices contradict the specific figures provided in the sources."
+      "e": "The DAX rose alongside broader improvements in market risk appetite and regional buying across European bourses. The sources do not attribute the move to an ECB bailout, universal earnings beats, or pension fund regulations."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Indices",
-      "q": "Which German company assumed the position of Hugo Boss within the MDax index during STOXX adjustments?",
+      "tag": "Germany · Equities",
+      "q": "Why do scheduled STOXX index adjustments trigger portfolio rebalancing?",
       "o": [
-        "Ströer",
-        "Petrobras",
-        "Core Lithium",
-        "NIO"
+        "Passive institutional funds tracking the benchmarks must adjust their holdings to match new constituents.",
+        "Regulatory laws require all corporate executives to own shares in index components.",
+        "Stock exchanges automatically suspend trading in companies that change index status.",
+        "Central banks buy the displaced shares to stabilize market capitalization."
       ],
       "a": 0,
-      "e": "Ströer took over the slot vacated by Hugo Boss in the MDax index. The other listed firms operate in entirely different countries and sectors."
+      "e": "Index adjustments trigger rebalancing flows among passive institutional funds that track the benchmarks. Regulatory laws for executives and central bank interventions are not mentioned in the source."
     },
     {
       "lvl": "b",
       "tag": "Japan · Currencies",
-      "q": "Why did the Japanese yen strengthen sharply toward the 155 range in New York trading?",
+      "q": "Why did the Japanese yen strengthen toward the 155 range?",
       "o": [
-        "Expectations grew for a Bank of Japan interest rate hike in September.",
-        "The US Federal Reserve lowered its benchmark interest rate to zero overnight.",
-        "Japan announced the complete elimination of its national debt.",
-        "Foreign central banks flooded Tokyo with emergency loans."
+        "Speculation regarding the reversal of carry trades drove the currency movement.",
+        "The Japanese government imposed strict legal limits on foreign exchange trading.",
+        "Foreign investors dumped domestic bonds to purchase overseas equities.",
+        "A massive surge in national tax revenues strengthened the domestic currency."
       ],
       "a": 0,
-      "e": "The yen strengthened as market participants priced in a higher probability of a Bank of Japan rate hike in September alongside carry trade reversal speculation. The other choices describe actions by different institutions or fictitious events."
+      "e": "The yen climbed amid speculation of a carry trade reversal and active unwinding. Capital controls, foreign bond dumping, and tax revenues are not supported by the text."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Fixed income",
-      "q": "What are the key terms of the SoftBank Group corporate debt issuance in Tokyo?",
+      "tag": "Japan · Public finance",
+      "q": "What milestone did Japanese government budget requests reach for fiscal year 2027?",
       "o": [
-        "A 1 trillion yen bond with a coupon set at 4.75%.",
-        "A 500 billion yen bond with a zero coupon structure.",
-        "A 2 trillion yen perpetual bond with variable interest.",
-        "A 100 billion yen short-term bill maturing in one week."
+        "They hit a record total of 143 trillion yen in initial funding demands.",
+        "They declined by fifty percent following strict parliamentary spending caps.",
+        "They balanced the national budget for the first time in three decades.",
+        "They fell below the statutory minimum required by the central bank."
       ],
       "a": 0,
-      "e": "SoftBank priced a 1 trillion yen bond with a coupon set at 4.75%. The other numbers and terms do not match the source text."
+      "e": "Government budget requests hit a record 143 trillion yen, marking the highest level of initial funding demands. The sources make no mention of spending caps, balanced budgets, or statutory minimums."
     },
     {
       "lvl": "b",
-      "tag": "China · Corporate results",
-      "q": "How did electric vehicle manufacturer NIO perform regarding its first-half financial results?",
+      "tag": "China · Banking",
+      "q": "What did China's six largest banks achieve despite record-low interest rates?",
       "o": [
-        "It narrowed its first-half net loss by 90%.",
-        "It reported a 50% increase in overall net losses.",
-        "It announced a total bankruptcy filing in Hong Kong.",
-        "It achieved record annual profits exceeding expectations."
+        "They accumulated $845 billion in new time deposits from savers.",
+        "They eliminated all non-performing loans from their balance sheets.",
+        "They increased their lending rates to corporate borrowers by two percentage points.",
+        "They transferred their reserve holdings directly to the central bank."
       ],
       "a": 0,
-      "e": "NIO narrowed its first-half net loss by 90% under the leadership of William Li. The other options misrepresent the direction of the financial change reported."
+      "e": "The six largest banks pulled in $845 billion of new time deposits as savers committed funds despite low yields. The text does not mention non-performing loans, lending rate hikes, or reserve transfers."
     },
     {
       "lvl": "b",
-      "tag": "China · Debt restructuring",
-      "q": "What challenge does property developer Agile currently confront according to the briefing?",
-      "o": [
-        "Looming debt pressures requiring a complicated restructuring process.",
-        "An immediate hostile takeover by a foreign technology conglomerate.",
-        "A sudden government ban on all real estate construction nationwide.",
-        "The complete conversion of all corporate debt into common equity."
-      ],
-      "a": 0,
-      "e": "Agile faces looming debt pressures and a complicated restructuring process while creditors await resolution details. The other choices are imaginative scenarios not found in the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Equities",
-      "q": "Why did the Sensex and Nifty decline for a fourth consecutive session on September 3, 2026?",
-      "o": [
-        "Information technology and auto equities pressured the indices alongside oil concerns.",
-        "The Reserve Bank of India banned all stock market trading for retail investors.",
-        "Foreign institutional investors permanently withdrew all capital from the country.",
-        "A nationwide electricity blackout halted all exchange computer systems."
-      ],
-      "a": 0,
-      "e": "Information technology and auto equities pressured the indices alongside macro energy and oil concerns. The other answers describe extreme regulatory or infrastructure failures not mentioned in the source."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Currencies",
-      "q": "What drove the Rupee to a ten-week high of 94.59 against the US dollar?",
-      "o": [
-        "Strong foreign exchange inflows managed by the Reserve Bank of India.",
-        "A sudden decision by the US Treasury to devalue the dollar by half.",
-        "The complete abolition of India's import tariffs on electronics.",
-        "A massive discovery of gold reserves inside domestic commercial banks."
-      ],
-      "a": 0,
-      "e": "Substantial forex inflows via the central bank drove the spot appreciation and lifted the domestic currency. The other options rely on outside economic events not present in the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Central banking",
-      "q": "What is the purpose of the Reserve Bank of India scheduling a three-day variable rate reverse repo auction?",
-      "o": [
-        "To absorb excess cash from the banking system with a notified amount of 7,00,000 crore rupees.",
-        "To inject massive amounts of emergency cash into failing manufacturing firms.",
-        "To purchase foreign government bonds to lower international trade deficits.",
-        "To fund a new national infrastructure project focusing on renewable energy."
-      ],
-      "a": 0,
-      "e": "The reverse repo auction is a liquidity management tool designed to drain systemic liquidity by absorbing excess cash from banks. The other options describe monetary expansion rather than absorption."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Equities",
-      "q": "What happened to the Ibovespa index after its 11-session winning streak?",
-      "o": [
-        "It closed flat, pausing its streak across the Brazilian market.",
-        "It suffered its largest single-day percentage crash in history.",
-        "It was permanently suspended from trading by market regulators.",
-        "It split into multiple regional exchanges to improve liquidity."
-      ],
-      "a": 0,
-      "e": "The Ibovespa closed flat, halting its 11-session winning streak. The other options describe catastrophic market failures rather than a flat close."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Macroeconomics",
-      "q": "What structural adjustment was submitted by Kanczuk regarding Brazilian monetary policy?",
-      "o": [
-        "Proposals to adjust Copom inflation forecasts to refine tracking.",
-        "A complete replacement of the national currency with a digital token.",
-        "An immediate reduction of the central bank interest rate to zero percent.",
-        "The transfer of all tax collection duties to private commercial banks."
-      ],
-      "a": 0,
-      "e": "Kanczuk submitted proposals to adjust Copom inflation forecasts to refine monetary policy tracking. The other options involve radical policy shifts not supported by the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Technology",
-      "q": "Which entities did Aramco Digital and Aramco partner with for advanced computing applications?",
-      "o": [
-        "Avathon for industrial AI and Quantinuum for quantum computing.",
-        "Microsoft for cloud storage and Apple for mobile device manufacturing.",
-        "Tesla for electric vehicle batteries and SpaceX for satellite launches.",
-        "Amazon for retail distribution and Netflix for streaming services."
-      ],
-      "a": 0,
-      "e": "Aramco Digital partnered with Avathon for industrial artificial intelligence, and Aramco signed an MoU with Quantinuum for quantum computing. The other choices list consumer technology giants absent from the source."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What action did OPEC take regarding its global oil demand growth forecast for 2026?",
-      "o": [
-        "It cut its global oil demand growth forecast while asserting that energy security supersedes climate targets.",
-        "It doubled its demand growth forecast after discovering new consumption patterns.",
-        "It completely eliminated future oil production quotas for all member nations.",
-        "It transferred all oil pricing authority to independent international courts."
-      ],
-      "a": 0,
-      "e": "OPEC cut its 2026 global oil demand growth forecast and maintained that energy security takes precedence over climate concerns. The other options contradict the briefing's statements on OPEC policy."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Currencies",
-      "q": "What factors supported the naira in achieving a two-year high of 1,315.67 per dollar?",
-      "o": [
-        "Domestic refining and fuel subsidy reforms alongside expanding foreign reserves.",
-        "A massive international bailout loan provided by foreign governments.",
-        "The complete prohibition of foreign currency exchange within the country.",
-        "A sudden collapse in global demand for imported manufactured goods."
-      ],
-      "a": 0,
-      "e": "Domestic refining and fuel subsidy reforms, alongside growing foreign reserves, underpinned the currency stability and carry trade appeal. The other choices rely on restrictive bans or bailout funds not mentioned."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Indices",
-      "q": "Why were companies such as GTCO, Zenith, and Dangote Cement recently designated by FTSE Russell?",
-      "o": [
-        "They became eligible equities for its Frontier Index Series by meeting liquidity and market capitalization hurdles.",
-        "They were chosen to manage the national central bank's foreign exchange reserves.",
-        "They were selected to merge into a single state-owned monopoly enterprise.",
-        "They were granted exclusive tax exemptions for all international exports."
-      ],
-      "a": 0,
-      "e": "FTSE Russell designated them as eligible for its Frontier Index Series after they met requisite liquidity and market capitalization hurdles. The other options describe administrative interventions rather than index inclusion."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Commodities",
-      "q": "What milestone did Core Lithium reach regarding its inventory management on September 4, 2026?",
-      "o": [
-        "It finalized its stockpile sales programme through a final transaction with Glencore.",
-        "It discovered a massive new lithium deposit worth billions of dollars.",
-        "It halted all mining operations permanently due to environmental regulations.",
-        "It merged with a major Swedish copper-gold exploration company."
-      ],
-      "a": 0,
-      "e": "Core Lithium completed its stockpile sales programme via a terminal transaction with Glencore, concluding its inventory liquidation schedule. The other choices involve new discoveries or mergers not in the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Capital raising",
-      "q": "How does Turnstone Resources intend to allocate the A$1.1 million in fresh capital it recently secured?",
-      "o": [
-        "Toward its critical minerals strategy and Swedish copper-gold exploration assets.",
-        "To pay off historic debt obligations owed to domestic commercial banks.",
-        "To distribute immediate cash dividends to its retail shareholders.",
-        "To purchase real estate properties in downtown Sydney for office space."
-      ],
-      "a": 0,
-      "e": "Turnstone Resources will allocate the proceeds toward its critical minerals strategy and Swedish copper-gold exploration assets. The other options describe corporate uses of funds not supported by the briefing."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "Why did Wall Street indices rise prior to the non-farm payrolls report?",
-      "o": [
-        "Equities climbed because dovish Federal Reserve rate signals compressed discount rates and drove capital into growth sectors.",
-        "Equities rose because corporate earnings across all sectors beat consensus analyst estimates by wide margins.",
-        "Equities advanced because the Federal Reserve announced an immediate emergency rate cut before the data release.",
-        "Equities increased because foreign central banks injected trillions of dollars directly into New York commercial banks."
-      ],
-      "a": 0,
-      "e": "Lower expected borrowing costs reduce the discount rate applied to future earnings, which supports multiple expansion in risk assets. Corporate earnings beats and emergency rate cuts are not mentioned in the source texts."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "What caused the Frankfurt benchmark index to rise to 26,003.32?",
-      "o": [
-        "Broader European risk appetite pushed the exchange higher and ended a three-session losing streak.",
-        "The European Central Bank lowered its primary lending rate during an unscheduled emergency meeting.",
-        "The German government announced a massive fiscal stimulus package aimed at the manufacturing sector.",
-        "A hostile takeover bid for Hugo Boss triggered aggressive buying across all major European indices."
-      ],
-      "a": 0,
-      "e": "The sources state that improving cross-border risk sentiment and broader European risk appetite catalyzed the move to 26,003.32. None of the other catalysts appear in the text."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "How did STOXX index maintenance affect the flagship Dax index?",
-      "o": [
-        "The flagship Dax index recorded zero net alterations from the rebalance.",
-        "The Dax index removed Hugo Boss from its constituents list permanently.",
-        "The Dax index added Ströer to replace the slot vacated by Hugo Boss.",
-        "The Dax index expanded its total number of constituent firms by two."
-      ],
-      "a": 0,
-      "e": "The sources explicitly note that the primary Dax index remains untouched by the rebalancing with zero net alterations. Ströer and Hugo Boss were swapped within the MDax index instead."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Currencies",
-      "q": "What drove the Japanese yen to strengthen sharply toward the 155 range?",
-      "o": [
-        "Market participants priced in a higher probability of a Bank of Japan rate hike in September alongside carry trade reversal speculation.",
-        "The Bank of Japan intervened directly in the foreign exchange market by selling dollars from its reserves.",
-        "Commercial banks in Tokyo increased their prime lending rates following a surprise inflation spike.",
-        "The Japanese government implemented capital controls to restrict outbound direct investment."
-      ],
-      "a": 0,
-      "e": "The yen rallied as market participants priced in a September rate hike and speculated on a carry trade reversal. Direct forex intervention or capital controls are not mentioned in the briefings."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Fixed income",
-      "q": "What are the primary structural features of the SoftBank bond issuance?",
-      "o": [
-        "SoftBank priced a 1 trillion yen corporate debt tranche with a coupon set at 4.75%.",
-        "SoftBank issued perpetual convertible bonds with variable coupons tied to equity performance.",
-        "SoftBank sold short-term commercial paper yielding zero percent to foreign institutional buyers.",
-        "SoftBank issued US dollar-denominated bonds backed by its overseas telecommunications assets."
-      ],
-      "a": 0,
-      "e": "The source text confirms that SoftBank finalized a 1 trillion yen corporate debt issuance with a coupon of 4.75%. Convertible features and dollar denominations are unsupported by the text."
-    },
-    {
-      "lvl": "i",
       "tag": "China · Equities",
-      "q": "How did NIO perform during the first half of the year under William Li?",
+      "q": "How did NIO perform regarding its interim financial metrics?",
       "o": [
-        "NIO narrowed its H1 net loss by 90% through tighter cost controls during a difficult operating window.",
-        "NIO achieved full-year profitability ahead of schedule due to surging export deliveries.",
-        "NIO expanded its net losses by 90% as capital expenditure surged on new factory builds.",
-        "NIO maintained flat earnings as supply chain disruptions completely offset vehicle sales."
+        "It reduced its first-half net loss by 90% under William Li's leadership.",
+        "It declared bankruptcy after failing to service its corporate debt.",
+        "It reported a 200% increase in net profit driven by overseas expansion.",
+        "It suspended all vehicle production to restructure its manufacturing operations."
       ],
       "a": 0,
-      "e": "The source notes that NIO compressed its H1 losses by 90% through tighter cost controls under William Li. Achieving full-year profitability or expanding losses contradicts the text."
+      "e": "NIO reduced its first-half net loss by 90% as William Li steered the electric vehicle maker through a difficult market phase. Bankruptcy, profit surges, and production suspensions are not in the text."
     },
     {
-      "lvl": "i",
-      "tag": "China · Fixed income",
-      "q": "What challenges does Agile currently face regarding its corporate liabilities?",
-      "o": [
-        "Agile navigates severe debt obligations without clear restructuring terms finalized, requiring formal agreements to avoid default.",
-        "Agile successfully completed a debt-for-equity swap with its primary bank syndicate.",
-        "Agile filed for Chapter 11 bankruptcy protection in New York after creditors seized its overseas assets.",
-        "Agile paid off all maturing bond obligations early using cash reserves from property sales."
-      ],
-      "a": 0,
-      "e": "The text states that Agile navigates severe debt obligations without clear restructuring terms finalized and requires formal agreements to avoid deeper default proceedings. Successful swaps or bankruptcy filings are not stated."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Equities",
-      "q": "What accompanied the four-session losing streak for the Sensex and Nifty?",
-      "o": [
-        "A 500% surge in option premiums and severe intraday mean reversion driven by IT and auto drag alongside macro energy headwinds.",
-        "A coordinated regulatory ban on short-selling across all major financial institutions.",
-        "An emergency liquidity injection by the Reserve Bank of India to support retail brokerages.",
-        "A sudden surge in foreign institutional buying that overwhelmed domestic sell orders."
-      ],
-      "a": 0,
-      "e": "The source text highlights persistent IT and auto drag, energy headwinds, a 500% surge in option premiums, and severe intraday mean reversion. Regulatory bans or emergency support are not mentioned."
-    },
-    {
-      "lvl": "i",
+      "lvl": "b",
       "tag": "India · Currencies",
-      "q": "What drove the Rupee to touch a ten-week high of 94.59 against the US dollar?",
+      "q": "What drove the Indian Rupee to a 10-week high against the US dollar?",
       "o": [
-        "Substantial forex inflows via the central bank drove the spot appreciation and lifted the currency.",
-        "A sharp collapse in global crude oil prices eliminated the nation's current account deficit overnight.",
-        "The Reserve Bank of India abandoned its currency peg, allowing the market to set a floating rate.",
-        "Commercial export houses flooded the domestic market with US dollars to meet local tax obligations."
+        "Substantial foreign exchange inflows from overseas markets.",
+        "An immediate decree by the central bank to fix the exchange rate.",
+        "A sudden collapse in domestic demand for imported energy products.",
+        "The elimination of all commercial bank lending within the country."
       ],
       "a": 0,
-      "e": "The text attributes the spot appreciation directly to substantial forex inflows managed by the Reserve Bank of India. Oil price collapses and peg abandonments do not appear in the sources."
+      "e": "Foreign exchange inflows from overseas drove the strengthening of the local currency. Fixed exchange rates, collapsing import demand, and lending bans are not mentioned."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Banking",
+      "q": "What action did the Reserve Bank of India take through its liquidity adjustment facility?",
+      "o": [
+        "It scheduled a 3-day variable rate reverse repo auction to absorb 7,00,000 crore rupees.",
+        "It lowered benchmark lending rates to stimulate residential mortgage growth.",
+        "It purchased long-term sovereign bonds to inject permanent liquidity into banks.",
+        "It issued a new digital currency to replace all physical banknotes."
+      ],
+      "a": 0,
+      "e": "The central bank scheduled a 3-day variable rate reverse repo auction to absorb a notified amount of 7,00,000 crore rupees. The other options are incorrect and lack source backing."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Commodities",
+      "q": "What did Petrobras and Petrochina secure in PPSA's spot oil auction?",
+      "o": [
+        "Five hundred thousand barrels of oil each from offshore production-sharing agreements.",
+        "Exclusive drilling rights across all pre-salt maritime exploration blocks.",
+        "Full ownership of the federal state manager's export distribution network.",
+        "Guaranteed subsidies for domestic petroleum refining operations."
+      ],
+      "a": 0,
+      "e": "Both companies secured five hundred thousand barrels of oil each in the spot auction managed by PPSA. Exclusive drilling rights, network ownership, and subsidies are not in the text."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Regulation",
+      "q": "How did the CADE Tribunal respond to the Petrobras appeal regarding a corporate merger?",
+      "o": [
+        "It dismissed the appeal and upheld the clearance for the vessel operator combination.",
+        "It blocked the transaction permanently to prevent market monopolization.",
+        "It ordered the companies to divest half of their operating assets.",
+        "It transferred jurisdiction over the case to the international court of arbitration."
+      ],
+      "a": 0,
+      "e": "The tribunal dismissed the appeal filed by Petrobras and upheld the clearance for the vessel operator combination. The other choices contradict the source statement."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What adjustment did OPEC make to its global oil demand forecasts?",
+      "o": [
+        "It lowered its second-quarter forecast and reduced its 2026 growth forecast.",
+        "It raised its short-term demand projections to match record industrial consumption.",
+        "It left all projections unchanged despite regional geopolitical conflicts.",
+        "It abandoned forecasting entirely due to excessive market volatility."
+      ],
+      "a": 0,
+      "e": "OPEC lowered its second-quarter global demand forecast and made a broader reduction to its 2026 growth forecast. Raising projections, leaving them unchanged, or abandoning forecasts is incorrect."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Infrastructure",
+      "q": "What physical event impacted Saudi Aramco's Ras Tanura facility?",
+      "o": [
+        "A drone strike hit the refinery during ongoing regional production dynamics.",
+        "A major earthquake disrupted pipeline operations across the domestic oil field.",
+        "A severe cyberattack disabled the automated control systems of the plant.",
+        "A massive flood submerged the storage tanks and halted all export shipping."
+      ],
+      "a": 0,
+      "e": "A drone struck Aramco's Ras Tanura refinery, according to the provided text. Earthquakes, cyberattacks, and floods are not mentioned in the sources."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Currencies",
+      "q": "To what level did the Nigerian naira strengthen amid subsidy shifts and refining capacity?",
+      "o": [
+        "N1,315.67 per dollar, reaching a two-year high.",
+        "N500.00 per dollar, matching official central bank parity targets.",
+        "N2,500.00 per dollar, reflecting severe currency depreciation.",
+        "N100.00 per dollar, driven by a sudden surge in agricultural exports."
+      ],
+      "a": 0,
+      "e": "The currency strengthened to a two-year high of N1,315.67 per dollar. The other exchange rate figures and economic drivers are not supported by the text."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Equities",
+      "q": "What action did FTSE Russell take regarding Nigerian equities?",
+      "o": [
+        "It included 31 Nigerian stocks in its index ahead of a return to frontier status.",
+        "It banned all Nigerian companies from participating in international equity markets.",
+        "It liquidated its entire holding of domestic sovereign bonds.",
+        "It appointed local regulators to oversee its global index methodology."
+      ],
+      "a": 0,
+      "e": "FTSE Russell included 31 Nigerian stocks in its index ahead of the market's return to frontier status. Banning companies, liquidating bonds, and appointing local regulators are false."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Currencies",
+      "q": "What drove the Australian dollar to a four-month peak?",
+      "o": [
+        "Changing monetary policy expectations and increased bets on potential rate hikes.",
+        "A sudden decision by the central bank to abolish the national currency.",
+        "Massive capital outflows from the mining sector into overseas property.",
+        "The complete elimination of the country's international trade deficit."
+      ],
+      "a": 0,
+      "e": "Changing monetary policy expectations and increased trader bets on rate hikes drove the currency to a four-month peak. Abolishing the currency, capital outflows, and trade deficits are incorrect."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Materials",
+      "q": "How much capital did Andromeda Metals raise for its high-purity alumina project?",
+      "o": [
+        "$3.04 million in fresh capital to advance its development pipeline.",
+        "$500 million through a government-guaranteed sovereign bond issuance.",
+        "$10 billion via an international initial public offering.",
+        "Zero dollars because underwriters canceled the fundraising round."
+      ],
+      "a": 0,
+      "e": "Andromeda Metals raised $3.04 million in fresh capital to advance its project pipeline. The alternative figures and canceled fundraising claims contradict the text."
     },
     {
       "lvl": "i",
-      "tag": "India · Fixed income",
-      "q": "Why did the Reserve Bank of India schedule a variable rate reverse repo auction?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did US Treasury yields fall following Waller's remarks?",
       "o": [
-        "The central bank aimed to absorb 7,00,000 crore rupees of excess cash from the banking system.",
-        "The central bank wanted to inject long-term capital into the banking system to stimulate credit growth.",
-        "The central bank needed to purchase government bonds to fund a fiscal deficit expansion.",
-        "The central bank sought to lower short-term interbank interest rates by flooding desks with liquidity."
+        "Dovish signaling from Waller caused duration bids to absorb a shift in policy expectations, compressing the curve.",
+        "An unexpected surge in non-farm payrolls forced the Federal Reserve to immediately lower its benchmark rate.",
+        "A massive corporate bond issuance by SoftBank drew liquidity away from government debt markets.",
+        "Foreign exchange inflows from overseas drove down borrowing costs across all domestic equities simultaneously."
       ],
       "a": 0,
-      "e": "The text explains that the variable rate reverse repo auction is a liquidity management tool designed to drain systemic liquidity and absorb excess cash. Injecting capital or lowering rates opposes the function of a reverse repo drainage."
+      "e": "Waller's dovish remarks caused market participants to shift policy expectations, leading duration bids to absorb the change and compress the yield curve. Non-farm payrolls and SoftBank's issuance are unrelated events from different countries."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Equities",
-      "q": "What notable events occurred around Brazilian equities and Petrobras alongside the Ibovespa?",
+      "tag": "United Kingdom · Fixed income",
+      "q": "Why do Bank of England officials view government demands to finance fiscal deficits as a threat?",
       "o": [
-        "The Ibovespa stalled after an 11-session winning streak while Petrobras secured spot oil and faced a CADE Tribunal ruling.",
-        "The Ibovespa surged to new all-time highs after Petrobras announced a massive special dividend payout.",
-        "The Ibovespa collapsed by 5% after the CADE Tribunal blocked all domestic energy mergers.",
-        "The Ibovespa closed flat because trading was suspended due to extreme volatility in agricultural futures."
+        "Monetising public debt or accommodating fiscal expansion compromises monetary policy reaction functions and anchors.",
+        "Excessive public spending directly increases the share prices of companies in the DAX index.",
+        "Government deficits automatically trigger foreign exchange interventions by the Reserve Bank of India.",
+        "State funding demands lower domestic time deposit yields across the nation's six largest banks."
       ],
       "a": 0,
-      "e": "The sources state that the Ibovespa stalled after 11 sessions, Petrobras secured 500,000 barrels in the PPSA auction, and the CADE Tribunal dismissed the Petrobras appeal regarding the OceanPact-CBO merger. Surges, collapses, and suspensions are not in the text."
+      "e": "BoE officials noted that sovereign financing demands for fiscal deficits compromise monetary policy reaction functions and anchors, undermining independence. The other choices involve unrelated metrics from other regional markets."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Macroeconomics",
-      "q": "What structural adjustment did Kanczuk submit regarding Copom forecasts?",
+      "tag": "Germany · Equity markets",
+      "q": "What drove the 0.65% advance in the DAX index to reach 26,003.32 points?",
       "o": [
-        "Kanczuk outlined structural adjustments for Copom inflation forecasts to refine monetary policy tracking.",
-        "Kanczuk proposed fixing the domestic exchange rate to a basket of stablecoins to eliminate currency risk.",
-        "Kanczuk recommended abolishing Copom entirely and outsourcing interest rate decisions to the IMF.",
-        "Kanczuk suggested calculating inflation using real-time retail transaction data instead of official surveys."
+        "A recovery in European risk sentiment that drove local betas higher through broad-based buying rather than sector-specific catalysts.",
+        "The official replacement of Hugo Boss by Ströer in the index composition during the quarterly review cycle.",
+        "A surprise reduction in the second-quarter global oil demand forecast issued by OPEC.",
+        "The massive accumulation of $845 billion in new time deposits by commercial banking institutions."
       ],
       "a": 0,
-      "e": "The source explicitly states that Kanczuk outlined structural adjustments for Copom inflation forecasts to refine monetary policy tracking. Abolishing Copom or pegging to stablecoins is not mentioned."
+      "e": "The DAX gain was driven by a regional recovery in risk sentiment and broad-based buying rather than sector-specific catalysts. The index changes mentioned Ströer entering the MDax, not the DAX, and the other options describe unrelated events."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Technology",
-      "q": "What agreements did Aramco execute regarding advanced computing technologies?",
+      "tag": "Germany · Equity markets",
+      "q": "How do scheduled index adjustments by STOXX typically affect asset managers?",
       "o": [
-        "Aramco Digital partnered with Avathon for industrial AI, while Aramco signed an MOU with Quantinuum for quantum computing.",
-        "Aramco acquired a majority stake in a Silicon Valley semiconductor manufacturer to build proprietary microchips.",
-        "Aramco cancelled all IT contracts to focus exclusively on upstream fossil fuel extraction infrastructure.",
-        "Aramco launched a domestic sovereign cloud network in partnership with foreign hyperscalers."
+        "Active and passive asset managers adjust portfolio weights to match the new index constituents following portfolio adjustments.",
+        "Fund managers are legally required to liquidate all equity holdings in companies that experience a three-day losing streak.",
+        "Institutional investors must immediately purchase shares of state-owned crude oil producers in spot auctions.",
+        "Asset managers shift their capital exclusively into government debt securities to avoid monetary policy changes."
       ],
       "a": 0,
-      "e": "The text confirms the industrial AI partnership with Avathon and the quantum computing memorandum of understanding with Quantinuum. Acquisitions and cancellations are not part of the source text."
+      "e": "Index adjustments trigger rebalancing flows as asset managers adjust their portfolio weights to match new constituents like Ströer. The other options describe regulatory or operational actions unrelated to index reviews."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Foreign exchange",
+      "q": "Why did Japanese bond yields fall while the yen strengthened into the 155 range?",
+      "o": [
+        "Market participants priced in imminent monetary tightening alongside active carry trade unwinding.",
+        "The Ministry of Finance announced an increase in fiscal year budget requests to 143 trillion yen.",
+        "SoftBank successfully priced its large 1 trillion yen corporate bond offering with a 4.75% coupon.",
+        "Global oil demand forecasts from OPEC were lowered following geopolitical conflicts."
+      ],
+      "a": 0,
+      "e": "The yen strengthened and domestic bond yields fell because market participants priced in imminent monetary tightening alongside carry trade unwinding. Budget requests and corporate bond issuances do not directly dictate this currency-yield dynamic."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Corporate finance",
+      "q": "What characterized SoftBank Group's latest domestic market transaction?",
+      "o": [
+        "The firm priced a 1 trillion yen bond offering with a 4.75% coupon through a lead underwriter.",
+        "The company submitted preliminary expenditure figures totaling 143 trillion yen to the administration.",
+        "Management executed an active carry trade unwinding to strengthen the domestic currency.",
+        "The corporate borrower slashed its interim net loss by 90% amid severe margin compression."
+      ],
+      "a": 0,
+      "e": "SoftBank priced its 1 trillion yen bond with a 4.75% coupon, constituting a major corporate debt placement. The 143 trillion yen figure represents government budget requests, not SoftBank's issuance."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Banking",
+      "q": "What did China's six largest banks experience despite record-low yields?",
+      "o": [
+        "Depositors locked in capital by accumulating $845 billion in new time deposits.",
+        "Electric vehicle manufacturers slashed their net losses by 90% during the interim period.",
+        "Foreign exchange inflows propelled the local currency to a 10-week high against the dollar.",
+        "Antitrust authorities dismissed administrative appeals regarding maritime corporate combinations."
+      ],
+      "a": 0,
+      "e": "Despite record-low yields prevailing across the banking system, China's six largest banks pulled in $845 billion of new time deposits from savers. NIO's loss reduction is a separate corporate development."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Automotive",
+      "q": "How did NIO perform in its interim financial report under William Li?",
+      "o": [
+        "The electric vehicle manufacturer navigated severe margin compression and slashed its first-half net loss by 90%.",
+        "The firm accumulated billions in new time deposits despite record-low interest rates across the sector.",
+        "Management secured spot oil cargo allocations in competitive federal export tenders.",
+        "The company issued a major corporate debt placement with a 4.75% coupon."
+      ],
+      "a": 0,
+      "e": "William Li steered NIO through severe margin compression to slash its first-half net loss by 90%. Time deposits and bond issuances apply to entirely different corporate entities."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Foreign exchange",
+      "q": "What propelled the Indian Rupee to touch a 10-week high against the US dollar?",
+      "o": [
+        "Substantial foreign exchange inflows propelled the local unit upward, supported by the Reserve Bank of India.",
+        "The central bank deployed a 3-day variable rate reverse repo auction to drain systemic liquidity.",
+        "Commercial banks accumulated massive time deposits despite record-low interest rates.",
+        "Equity indices across major global markets posted synchronized gains driven by risk appetite."
+      ],
+      "a": 0,
+      "e": "Substantial foreign inflows propelled the local unit upward, with RBI-managed foreign exchange inflows reinforcing the trajectory. The reverse repo auction is a liquidity management tool, not the direct driver of the exchange rate gain."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Central banking",
+      "q": "Why did the Reserve Bank of India deploy a 3-day variable rate reverse repo auction?",
+      "o": [
+        "The central bank targeted systemic liquidity management by absorbing 7,00,000 crore rupees.",
+        "Officials aimed to offset foreign exchange inflows that caused the rupee to hit a 10-week high.",
+        "The monetary authority sought to finance government fiscal deficits directly to protect independence.",
+        "Policymakers wanted to reclassify domestic equities into frontier status benchmarks."
+      ],
+      "a": 0,
+      "e": "The Reserve Bank of India deployed the variable rate reverse repo auction specifically to absorb 7,00,000 crore rupees for systemic liquidity management. Direct financing of fiscal deficits is cited as a threat by the BoE, not an RBI repo goal."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Commodities",
+      "q": "What did the clearing prices in PPSA's spot oil auction reflect?",
+      "o": [
+        "Current Brent-linked differentials for heavy sweet grades as two equal allocations were cleared.",
+        "The CADE Tribunal's decision to dismiss administrative appeals on corporate mergers.",
+        "Prolonged profit-taking activity across heavyweight index constituents on the Ibovespa.",
+        "Record-low interest rates prevailing across the state-run banking system."
+      ],
+      "a": 0,
+      "e": "The spot auction clearing prices reflect current Brent-linked differentials for heavy sweet grades as Petrobras and Petrochina secured their allocations. The CADE tribunal decision relates to antitrust clearance, not auction pricing."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Antitrust",
+      "q": "Why did the CADE Tribunal reject the administrative appeal filed by Petrobras?",
+      "o": [
+        "Brazil's antitrust regulator sustained its original competition assessment regarding the OceanPact-CBO business combination clearance.",
+        "The state oil producer failed to secure spot crude allocations in the federal export supply tender.",
+        "Prolonged profit-taking across key sector components exhausted short-term buying pressure on the Ibovespa.",
+        "Federal production-sharing agreements required mandatory state ownership of offshore maritime vessels."
+      ],
+      "a": 0,
+      "e": "CADE sustained its original competition assessment, allowing the OceanPact-CBO business combination to proceed despite objections from Petrobras. The Ibovespa and PPSA crude auctions have no bearing on antitrust merger reviews."
     },
     {
       "lvl": "i",
       "tag": "Saudi Arabia · Energy",
-      "q": "What stance did OPEC take regarding global oil demand in its latest forecast?",
+      "q": "Why did OPEC reduce its second-quarter demand projections and 2026 growth forecasts?",
       "o": [
-        "OPEC cut its 2026 demand growth forecast while asserting that energy security supersedes climate targets, precluding any peak in demand.",
-        "OPEC predicted that global oil demand would peak within the year due to rapid electric vehicle adoption.",
-        "OPEC announced an immediate end to all production quotas in response to rising non-OPEC supply.",
-        "OPEC agreed to transition all member states to renewable energy generation by the end of the decade."
+        "Market adjustments followed the Iran war and changing supply-demand dynamics.",
+        "A drone strike hit Aramco's Ras Tanura facility, causing immediate structural damage.",
+        "Saudi Aramco established an industrial artificial intelligence partnership with Avathon.",
+        "The UAE officially exited OPEC, carrying a massive long-term structural impact."
       ],
       "a": 0,
-      "e": "The source states that OPEC cut its 2026 global oil demand growth forecast while maintaining that energy security supersedes climate targets, precluding a peak in demand. Predicting an imminent peak contradicts the text."
+      "e": "OPEC reduced its demand projections amid the Iran war and downgraded growth forecasts. HSBC observed limited near-term structural impact from the UAE's exit, and the Ras Tanura incident was a separate operational disruption."
     },
     {
       "lvl": "i",
+      "tag": "Saudi Arabia · Technology",
+      "q": "How did Saudi Aramco diversify its technological capabilities concurrently with oil market shifts?",
+      "o": [
+        "It established an industrial AI partnership with Avathon and signed a quantum computing memorandum of understanding with Quantinuum.",
+        "It negotiated direct crude supply allocations with Petrobras in PPSA spot export tenders.",
+        "It raised its oil output targets to offset production losses from regional drone strikes.",
+        "It adjusted terminal rate risks to tighten yield differentials against international trading partners."
+      ],
+      "a": 0,
+      "e": "Saudi Aramco established an industrial AI partnership with Avathon and signed a quantum computing MoU with Quantinuum to diversify technological capabilities. PPSA tenders involve Brazilian pre-salt crude, not Aramco's tech ventures."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Currency",
+      "q": "What drove the sustained currency stability and appreciation of the Nigerian naira?",
+      "o": [
+        "Structural adjustments from fuel subsidy removal alongside domestic refining capacity and expanding foreign exchange reserves.",
+        "The integration of 31 local equities into international indices ahead of frontier market reclassification.",
+        "A dovish policy shift by central bank officials that compressed fixed-income yield curves.",
+        "Massive corporate debt placements priced at a 4.75% coupon in the domestic market."
+      ],
+      "a": 0,
+      "e": "Market participants attribute the sustained currency stability to structural adjustments from fuel subsidy removal, domestic refining capacity, and expanding gross foreign exchange reserves. FTSE Russell's index integration alters passive flows but does not drive the currency's underlying stability."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Equity markets",
+      "q": "What is a direct consequence of FTSE Russell integrating 31 Nigerian equities into its index?",
+      "o": [
+        "It alters passive tracking mandates and forces rebalancing among institutional investors benchmarking against the index.",
+        "It forces the central bank to intervene in foreign exchange markets to maintain currency stability.",
+        "It immediately triggers fuel subsidy removals and expands gross foreign exchange reserves.",
+        "It requires state-run oil producers to secure spot crude allocations in competitive tenders."
+      ],
+      "a": 0,
+      "e": "Index integration alters passive tracking mandates and mandates rebalancing among institutional investors benchmarking against the index ahead of frontier reclassification. Currency reserves and fuel subsidies are distinct macroeconomic factors."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Foreign exchange",
+      "q": "What drove the Australian dollar to print a four-month high?",
+      "o": [
+        "Hawkish repricing of terminal rate risks as market participants adjusted rate-hike probabilities.",
+        "Fresh capital raised by junior materials firms to advance high-purity alumina development pipelines.",
+        "A synchronized rally across major global equity benchmarks following risk-on sentiment.",
+        "Substantial foreign exchange inflows managed by central bank reverse repo auctions."
+      ],
+      "a": 0,
+      "e": "The Australian dollar's rise was driven by a hawkish repricing of terminal rate risks and adjusted rate-hike probabilities that tightened yield differentials. Andromeda Metals' capital raise is a micro-level equity event for a junior miner."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Materials",
+      "q": "How did Andromeda Metals fund its high-purity alumina project?",
+      "o": [
+        "The junior mining firm completed a $3.04 million capital raise to advance its development pipeline.",
+        "It issued a 1 trillion yen corporate bond offering with a fixed 4.75% coupon.",
+        "It secured spot oil cargo allocations through federal pre-salt export supply auctions.",
+        "It accumulated millions in new time deposits despite prevailing record-low yields."
+      ],
+      "a": 0,
+      "e": "Andromeda Metals completed a $3.04 million capital raise, allocating proceeds to its high-purity alumina development pipeline under selective equity issuance conditions for junior miners. The other options refer to corporate debt, banking, or oil tenders."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Fixed income",
+      "q": "What mechanism primarily drove the compression in US Treasury yields following Waller's remarks?",
+      "o": [
+        "Duration bids absorbed a shift in policy expectations driven by dovish signaling.",
+        "Commercial banks absorbed $845 billion in new time deposits, reducing liquidity.",
+        "Foreign exchange inflows from overseas drove the strengthening of the domestic currency.",
+        "Passive institutional funds rebalanced their portfolios to match new index constituents."
+      ],
+      "a": 0,
+      "e": "Waller's dovish signalling prompted duration bids that absorbed the shift in policy expectations, leading to a curve compression. The other options refer to deposit accumulation in China, forex inflows in India, or index rebalancing, which are unrelated to US Treasury yield movements."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Fixed income",
+      "q": "Why do Bank of England officials view government demands to finance fiscal deficits as a threat?",
+      "o": [
+        "Monetising public debt or accommodating fiscal expansion compromises monetary policy reaction functions and anchors.",
+        "Scheduled changes to blue-chip index rosters trigger rebalancing flows among passive institutional funds.",
+        "Active and passive asset managers adjust portfolio weights to match new index constituents.",
+        "State ministries submit preliminary expenditure figures for administrative evaluation."
+      ],
+      "a": 0,
+      "e": "Central bank independence is threatened when sovereign financing demands force the monetisation of public debt, compromising policy reaction functions. Index rebalancing and budget requests are distinct concepts from different jurisdictions."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Equities",
+      "q": "What drove the price action of the DAX index when it reached 26,003.32 points?",
+      "o": [
+        "European risk sentiment recovered across regional desks, driving local betas higher through broad-based buying.",
+        "The CADE Tribunal dismissed an administrative appeal challenging a corporate business combination.",
+        "Federal production-sharing agreements distributed state-owned crude to active refiners and traders.",
+        "The Reserve Bank of India deployed a variable rate reverse repo auction to manage systemic liquidity."
+      ],
+      "a": 0,
+      "e": "The DAX advance reflected a recovery in European risk sentiment and broad-based buying rather than sector-specific catalysts. The other choices involve Brazilian antitrust rulings, oil auctions, or Indian central bank operations."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Equities",
+      "q": "What market consequence typically follows scheduled portfolio adjustments across the STOXX blue-chip index hierarchy?",
+      "o": [
+        "Active and passive asset managers adjust portfolio weights to match the new index constituents.",
+        "Foreign exchange reserves expand to reinforce external buffers against balance of payments shocks.",
+        "State-run auctions distribute state-owned crude to active refiners based on Brent-linked differentials.",
+        "Corporations price their large debt offerings with specific coupon structures in domestic markets."
+      ],
+      "a": 0,
+      "e": "Index adjustments by providers like STOXX force both active and passive asset managers to alter portfolio weights to align with the new constituents. Foreign exchange reserves, spot oil auctions, and corporate debt offerings do not follow index hierarchy updates."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Currencies",
+      "q": "What simultaneous market dynamics accompanied the Japanese yen strengthening into the 155 range?",
+      "o": [
+        "Active carry trade unwinding coincided with domestic bond yields falling as market participants priced in tightening.",
+        "Gross foreign exchange reserves expanded to $53.99bn following domestic petroleum refining growth.",
+        "Federal production-sharing agreements cleared two equal export supply allocations in spot tenders.",
+        "Equity issuance conditions for junior materials miners remained highly selective and constrained."
+      ],
+      "a": 0,
+      "e": "The strengthening of the yen into the 155 range occurred alongside active carry trade unwinding and falling domestic bond yields driven by tightening expectations. The other choices describe Nigerian reserves, Brazilian oil auctions, or Australian capital raises."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Fiscal policy",
+      "q": "What status did Japanese fiscal year 2027 budget requests achieve upon submission by state ministries?",
+      "o": [
+        "They reached a record 143 trillion yen, establishing a new peak for initial state funding demands.",
+        "They triggered a variable rate reverse repo auction to absorb 7,000,000 crore rupees of systemic liquidity.",
+        "They forced the CADE Tribunal to dismiss an appeal regarding a vessel operator corporate combination.",
+        "They established an industrial artificial intelligence partnership with Avathon and Quantinuum."
+      ],
+      "a": 0,
+      "e": "The budget requests hit 143 trillion yen, marking the highest level of initial funding demands recorded by the government. The other options incorrectly mix Indian liquidity operations, Brazilian tribunal rulings, or Saudi tech partnerships with Japanese fiscal data."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Corporate finance",
+      "q": "How was the SoftBank Group debt issuance structured in the local fixed-income market?",
+      "o": [
+        "The lead underwriter priced a 1 trillion yen bond offering with a 4.75% coupon.",
+        "The central bank absorbed 7,000,000 crore rupees through a 3-day variable rate reverse repo auction.",
+        "The state-run auction distributed state-owned crude oil allocations based on Brent-linked differentials.",
+        "The antitrust regulator sustained its original competition assessment despite objections from state producers."
+      ],
+      "a": 0,
+      "e": "SoftBank priced its 1 trillion yen corporate debt placement with a 4.75% coupon as confirmed by the lead underwriter. The remaining choices describe Indian repo auctions, Brazilian antitrust decisions, or PPSA oil tenders."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Banking",
+      "q": "What behaviour did depositors demonstrate regarding China's six largest banks during the deposit accumulation phase?",
+      "o": [
+        "Depositors locked in capital by adding $845 billion in new time deposits despite record-low yields prevailing across the banking system.",
+        "Asset managers adjusted portfolio weights to match new index constituents following structural adjustments.",
+        "Market participants priced in imminent monetary tightening as domestic bond yields fell alongside futures declines.",
+        "Foreign exchange inflows from overseas drove the strengthening of the local currency against the US dollar."
+      ],
+      "a": 0,
+      "e": "Savers committed funds and locked in capital to new time deposits despite record-low interest rates across the sector. Index rebalancing, yen tightening, and rupee inflows represent different markets and mechanisms."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Equities",
+      "q": "How did NIO perform financially during the interim reporting period managed by William Li?",
+      "o": [
+        "The electric vehicle manufacturer slashed its first-half net loss by 90% amid severe margin compression.",
+        "The company raised $3.04 million in fresh capital to advance its high-purity alumina development pipeline.",
+        "The firm priced its 1 trillion yen bond offering with a 4.75% coupon via a lead underwriter.",
+        "The central bank lowered its second-quarter global oil demand forecast following the Iran war."
+      ],
+      "a": 0,
+      "e": "NIO reduced its first-half net loss by 90% while navigating severe margin compression under William Li. The other options incorrectly attribute capital raises, bond coupons, or oil forecasts to the electric vehicle maker."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Currencies",
+      "q": "What factors reinforced the Indian Rupee's appreciation to a 10-week high against the US dollar?",
+      "o": [
+        "Substantial foreign inflows propelled the local unit upward, reinforced by forex inflows managed by the Reserve Bank of India.",
+        "Active carry trade unwinding pushed domestic bond yields down as market participants priced in monetary tightening.",
+        "Fuel subsidy removal and domestic petroleum refining capacity drove structural currency stability.",
+        "Terminal rate risks were repriced as market participants adjusted rate-hike probabilities across major pairs."
+      ],
+      "a": 0,
+      "e": "The rupee gained 0.5% due to substantial foreign inflows and forex inflows managed by the central bank. Carry trade unwinding applies to Japan, subsidy removal to Nigeria, and terminal rate risks to Australia."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Monetary policy",
+      "q": "What was the operational purpose of the Reserve Bank of India's 3-day variable rate reverse repo auction?",
+      "o": [
+        "The central bank targeted systemic liquidity management by absorbing 7,000,000 crore rupees.",
+        "The administrative body reviewed preliminary expenditure figures for fiscal year 2027 budget demands.",
+        "The federal state manager cleared two equal export supply allocations from its pre-salt export supply.",
+        "Passive institutional funds adjusted their portfolio allocations ahead of a return to frontier status."
+      ],
+      "a": 0,
+      "e": "The variable rate reverse repo auction was deployed through the liquidity adjustment facility specifically for systemic liquidity management by absorbing 7,000,000 crore rupees. Budget evaluations, oil tenders, and index tracking belong to different contexts."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Energy",
+      "q": "What did the PPSA spot tender clearing prices reflect for Petrobras and Petrochina?",
+      "o": [
+        "Current Brent-linked differentials for heavy sweet grades as two equal pre-salt export allocations cleared.",
+        "Terminal rate risks and rate-hike probabilities following hawkish yield curve repricing.",
+        "Record-low yields prevailing across the banking system despite massive new time deposit inflows.",
+        "Initial state funding demands reaching a record peak for preliminary expenditure figures."
+      ],
+      "a": 0,
+      "e": "PPSA spot auction clearing prices reflect current Brent-linked differentials for heavy sweet grades. The other answers mix up interest rate expectations, Chinese bank deposits, or Japanese budget requests."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Antitrust",
+      "q": "Why did the CADE Tribunal reject the Petrobras administrative appeal regarding the OceanPact-CBO business combination?",
+      "o": [
+        "Brazil's antitrust regulator sustained its original competition assessment despite objections from the state oil producer.",
+        "FTSE Russell integrated Nigerian equities into its index ahead of a market reclassification to frontier status.",
+        "OPEC+ raised its oil output targets for September as market participants weighed global demand forecasts.",
+        "The central bank lowered its oil demand growth forecast following geopolitical conflicts in the Middle East."
+      ],
+      "a": 0,
+      "e": "CADE sustained its original competition assessment, allowing maritime support service providers to proceed with corporate integration despite Petrobras's appeal. Index reclassifications, OPEC targets, and demand forecasts are unrelated regulatory or market events."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Equities",
+      "q": "What price action characterised the Ibovespa following its eleven-session consecutive rally?",
+      "o": [
+        "The benchmark index settled unchanged as short-term buying pressure was exhausted by multi-session profit-taking.",
+        "An index measures the performance of a basket of equities, terminating a three-day bearish correction.",
+        "Equity indices captured upward momentum as risk appetite expanded across major regional benchmarks.",
+        "Foreign exchange reserves expanded to $53.99bn, reinforcing external buffers against currency volatility."
+      ],
+      "a": 0,
+      "e": "The Ibovespa settled flat as market participants locked in multi-session gains and sectoral rotation neutralised downward impulses after an 11-session rally. The other options refer to DAX index definitions, US risk appetite, or Nigerian foreign reserves."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Energy",
+      "q": "How did OPEC adjust its market outlook while Saudi Aramco pursued domestic corporate technology developments?",
+      "o": [
+        "OPEC reduced second-quarter demand projections amid the Iran war and downgraded 2026 growth forecasts while Aramco pursued AI and quantum computing partnerships.",
+        "Aramco priced its 1 trillion yen corporate debt offering with a 4.75% coupon while FTSE Russell integrated Nigerian equities.",
+        "State ministries submitted preliminary expenditure figures for administrative evaluation as government budget requests hit a record high.",
+        "The central bank deployed a 3-day variable rate reverse repo auction to absorb 7,000,000 crore rupees of systemic liquidity."
+      ],
+      "a": 0,
+      "e": "OPEC lowered demand forecasts due to the Iran war and 2026 outlooks, while Aramco formed industrial AI and quantum computing partnerships. The remaining distractors incorrectly combine Saudi developments with Japanese debt, Japanese budgets, or Indian repo auctions."
+    },
+    {
+      "lvl": "a",
       "tag": "Nigeria · Currencies",
-      "q": "What macroeconomic factors underpinned the naira reaching a two-year high?",
+      "q": "What structural factors drove the Nigerian naira toward its strongest annual appreciation since 2018?",
       "o": [
-        "Gross foreign reserves climbed to $53.99bn, underpinning carry trade appeal alongside domestic refining capacity and subsidy removal.",
-        "The central bank redenominated the currency and pegged it directly to a basket of precious metals.",
-        "Foreign portfolio investors dumped domestic assets to repatriate all capital back to western economies.",
-        "The government defaulted on its external debt obligations, freeing up foreign exchange for imports."
+        "Fuel subsidy removal and domestic refining capacity sustained currency stability alongside expanded gross foreign exchange reserves.",
+        "Substantial foreign inflows propelled the local unit upward during the session alongside Reserve Bank of India forex operations.",
+        "Active carry trade unwinding pushed domestic bond yields down as market participants priced in monetary tightening.",
+        "Repricing of terminal rate risks drove the Australian dollar to a four-month high as rate-hike probabilities increased."
       ],
       "a": 0,
-      "e": "The text explicitly links the currency stability and two-year high to growing foreign reserves ($53.99bn), local refining capacity, and fuel subsidy reforms. Redenominations and defaults are not mentioned."
+      "e": "The naira advanced due to structural adjustments from fuel subsidy removal, domestic refining capacity, and a rise in foreign exchange reserves to $53.99bn. Indian forex inflows, yen carry trades, and Australian rate expectations do not apply to Nigeria."
     },
     {
-      "lvl": "i",
+      "lvl": "a",
       "tag": "Nigeria · Equities",
-      "q": "Why were companies like GTCO, Zenith, and Dangote Cement designated by FTSE Russell?",
+      "q": "What mandatory consequence followed FTSE Russell integrating 31 Nigerian equities into its index?",
       "o": [
-        "They met requisite liquidity and market capitalization hurdles for benchmark inclusion in the Frontier Index Series.",
-        "They won a government tender to manage the national foreign exchange reserves.",
-        "They completed cross-border mergers that mandated relisting on the London Stock Exchange.",
-        "They issued new dollar-denominated bonds to institutional investors in Europe."
+        "The inclusion altered passive tracking mandates and required rebalancing among institutional investors benchmarking against the index.",
+        "Active and passive asset managers adjusted portfolio weights to match unchanged blue-chip index constituents.",
+        "State-run auctions distributed state-owned crude oil allocations to active refiners based on Brent-linked differentials.",
+        "Corporate fundraising in the materials sector supported early-stage development milestones for junior miners."
       ],
       "a": 0,
-      "e": "The text states that these constituents met the requisite liquidity and market capitalization hurdles for benchmark inclusion in the Frontier Index Series. Government tenders and cross-border mergers are incorrect."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Materials",
-      "q": "What milestone did Core Lithium reach regarding its operational assets?",
-      "o": [
-        "Core Lithium completed its stockpile sales programme via a terminal transaction with Glencore, removing a lingering supply variable.",
-        "Core Lithium discovered a massive new lithium deposit in Sweden, doubling its estimated reserves.",
-        "Core Lithium sold its entire operating business to Glencore to avoid imminent bankruptcy proceedings.",
-        "Core Lithium ceased all mining operations indefinitely due to a collapse in global lithium prices."
-      ],
-      "a": 0,
-      "e": "The source notes that Core Lithium completed its stockpile sales programme via a terminal transaction with Glencore, concluding its active inventory liquidation and removing a supply variable. Discoveries and bankruptcies are unsupported."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Materials",
-      "q": "What does Turnstone Resources plan to do with its newly secured capital?",
-      "o": [
-        "Turnstone Resources intends to allocate the proceeds toward its critical minerals strategy and Swedish copper-gold exploration.",
-        "Turnstone Resources plans to return the capital to shareholders through a special dividend distribution.",
-        "Turnstone Resources will use the funds to acquire a controlling stake in a domestic lithium producer.",
-        "Turnstone Resources intends to pay off its maturing corporate bonds held by foreign creditors."
-      ],
-      "a": 0,
-      "e": "The text states that the firm allocates proceeds toward its critical minerals strategy and Swedish copper-gold exploration assets. Dividends, acquisitions, and bond repayments do not appear in the sources."
+      "e": "Integration into the FTSE Russell index ahead of a return to frontier status alters passive tracking mandates and triggers institutional portfolio rebalancing. DAX reviews, oil auctions, and junior miner capital raises represent entirely different corporate actions."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Equities",
-      "q": "How did market participants react to dovish Federal Reserve pricing ahead of the non-farm payrolls data?",
+      "tag": "Australia · Currencies",
+      "q": "What macroeconomic pricing shift drove the Australian dollar to print a four-month peak?",
       "o": [
-        "They drove capital into growth-oriented sectors as lower yields compressed discount rates.",
-        "They initiated massive short positions across all major equity benchmarks.",
-        "They liquidated risk assets entirely to hold risk-free government paper.",
-        "They reallocated exclusively into defensive utilities and consumer staples."
+        "A hawkish repricing of terminal rate risks and increased rate-hike probabilities tightened yield differentials against major trading partners.",
+        "Federal production-sharing agreements cleared two equal export supply allocations from pre-salt export supplies.",
+        "Gross foreign exchange reserves expanded to $53.99bn, reinforcing external buffers alongside structural fuel subsidy removal.",
+        "Depositors locked in capital by adding $845 billion in new time deposits despite record-low banking system yields."
       ],
       "a": 0,
-      "e": "Anticipated monetary easing lowers the discount rate applied to future corporate earnings, which supports multiple expansion in growth-oriented sectors. Risk-on positioning dominated order books as participants weighed the employment release against falling yields."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Equities",
-      "q": "What caused the Frankfurt benchmark index to advance 0.65% to 26,003.32?",
-      "o": [
-        "Improving cross-border risk sentiment catalyzed the move after a three-session retracement.",
-        "An emergency interest rate cut by the European Central Bank boosted market liquidity.",
-        "The complete removal of all blue-chip constituents from the flagship Dax index.",
-        "A sudden surge in domestic manufacturing orders across the eurozone."
-      ],
-      "a": 0,
-      "e": "The Frankfurt bourse snapped its three-day losing streak due to improving cross-border risk sentiment, terminating a three-session retracement at 26,003.32."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Equities",
-      "q": "What was the structural impact of STOXX executing scheduled adjustments on German indices?",
-      "o": [
-        "Ströer absorbed the slot vacated by Hugo Boss in the MDax, leaving the flagship Dax unchanged.",
-        "Hugo Boss replaced Ströer in the primary Dax index following a net rebalance.",
-        "Both Ströer and Hugo Boss were removed from all regional indices simultaneously.",
-        "The primary Dax index recorded a net addition of two new industrial constituents."
-      ],
-      "a": 0,
-      "e": "STOXX implemented periodic index maintenance where Ströer assumed the MDax position of Hugo Boss, while the flagship Dax index recorded zero net alterations."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Foreign Exchange",
-      "q": "What drove the Japanese yen to strengthen sharply toward the 155 range during New York trading?",
-      "o": [
-        "Surging speculation of a carry trade reversal and a higher probability of a September rate hike by the Bank of Japan.",
-        "A coordinated market intervention by the Federal Reserve to weaken the US dollar.",
-        "Massive corporate debt issuances denominated in US dollars by domestic technology firms.",
-        "An unexpected contraction in Japanese trade surpluses during the start of September."
-      ],
-      "a": 0,
-      "e": "The Japanese yen rallied into the 155 range as market participants priced in a higher probability of a Bank of Japan rate hike alongside carry trade unwinding."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Fixed Income",
-      "q": "What characterized SoftBank Group's primary debt issuance in Tokyo?",
-      "o": [
-        "A 1 trillion yen corporate debt tranche priced with a coupon of 4.75%.",
-        "A zero-coupon bond issuance designed to avoid immediate domestic interest obligations.",
-        "A foreign currency syndicated loan priced below prevailing domestic benchmark rates.",
-        "A perpetual debt instrument carrying variable coupons linked to equity performance."
-      ],
-      "a": 0,
-      "e": "SoftBank Group finalized a 1 trillion yen corporate debt issuance with a coupon of 4.75% to absorb large domestic funding needs in the primary market."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate Earnings",
-      "q": "How did NIO navigate its financial operating window under William Li?",
-      "o": [
-        "By compressing H1 net losses by 90% through tighter cost controls.",
-        "By expanding production facilities despite accelerating net deficits.",
-        "By issuing new equity shares to cover widening quarterly operational deficits.",
-        "By divesting its entire manufacturing division to eliminate fixed liabilities."
-      ],
-      "a": 0,
-      "e": "NIO narrowed its H1 net losses by 90% by enforcing tighter cost controls, though margins must sustain this trajectory to reach profitability."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Debt Restructuring",
-      "q": "What operational challenge does Agile currently face in the market?",
-      "o": [
-        "Severe debt obligations without clear restructuring terms finalized.",
-        "Immediate bankruptcy liquidation ordered by domestic commercial courts.",
-        "Mandatory nationalization of all corporate assets by regional regulators.",
-        "A complete freeze on all foreign exchange remittances by the central bank."
-      ],
-      "a": 0,
-      "e": "Agile navigates severe debt obligations without clear restructuring terms finalized, leaving bondholders monitoring asset disposal plans and potential liability management exercises."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Equities",
-      "q": "What accompanied the fourth consecutive session decline of the Sensex and Nifty?",
-      "o": [
-        "A 500% surge in option premiums reflecting a dramatic spike in implied volatility.",
-        "A complete suspension of trading by the exchange due to systemic circuit breakers.",
-        "An instantaneous collapse in foreign exchange reserves held by commercial banks.",
-        "A permanent halt in option trading across all domestic derivative segments."
-      ],
-      "a": 0,
-      "e": "Persistent IT and auto drag alongside macro energy headwinds caused a four-session losing streak, while implied volatility spiked dramatically as evidenced by a 500% surge in option premiums."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Foreign Exchange",
-      "q": "What drove the Rupee to appreciate by 49 paise to a ten-week high of 94.59 against the US dollar?",
-      "o": [
-        "Substantial foreign exchange inflows managed by the central bank.",
-        "A sudden halt in all domestic corporate import payments.",
-        "An emergency devaluation of the greenback by international monetary authorities.",
-        "Massive capital flight from domestic equity markets into foreign assets."
-      ],
-      "a": 0,
-      "e": "Substantial forex inflows via the central bank drove spot appreciation, creating a persistent dollar supply that compressed volatility and lifted the currency."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Central Bank Operations",
-      "q": "What is the primary objective of the Reserve Bank of India scheduling a 3-day variable rate reverse repo auction for 7,00,000 crore rupees?",
-      "o": [
-        "To drain systemic liquidity by absorbing excess cash from the banking system.",
-        "To inject emergency capital into commercial banks facing severe asset depletion.",
-        "To finance long-term infrastructure projects managed by regional municipal authorities.",
-        "To artificially depreciate the domestic currency against the US dollar."
-      ],
-      "a": 0,
-      "e": "The Reserve Bank of India utilizes a variable rate reverse repo auction under the liquidity adjustment facility to absorb excess cash from the banking system, with counterparties parking funds ahead of the reversal."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Equities and Commodities",
-      "q": "What notable corporate and market events coincided with the pause in the Ibovespa winning streak?",
-      "o": [
-        "Petrobras and Petrochina secured 500,000 barrels each in a spot oil auction, while the CADE Tribunal dismissed a Petrobras appeal.",
-        "Petrobras divested its entire upstream oil portfolio to foreign sovereign funds.",
-        "The CADE Tribunal mandated the immediate breakup of the OceanPact-CBO merger.",
-        "The Ibovespa recorded an 11.5% drop driven by a collapse in agricultural commodity prices."
-      ],
-      "a": 0,
-      "e": "The Ibovespa stalled after 11 consecutive sessions of gains while Petrobras and Petrochina secured 500,000 barrels each in the PPSA spot oil auction, and the CADE Tribunal simultaneously dismissed the Petrobras appeal against the OceanPact-CBO merger."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Monetary Policy",
-      "q": "How do Kanczuk's proposals interact with regional market observations in Brazil?",
-      "o": [
-        "Kanczuk outlined structural adjustments for Copom inflation forecasts while observers analyzed the debasement trade paradox of stablecoins.",
-        "Kanczuk abolished inflation targeting while stablecoins were banned by the central bank.",
-        "Kanczuk introduced a fixed exchange rate peg while stablecoins replaced sovereign currency reserves.",
-        "Kanczuk eliminated interest rate forecasting models in favor of direct commodity indexing."
-      ],
-      "a": 0,
-      "e": "Kanczuk outlined structural adjustments for Copom inflation forecasts to refine monetary policy tracking, concurrently with regional observers dissecting the debasement trade paradox introduced by stablecoins in Latin America."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Technology and Energy",
-      "q": "What strategic partnerships did Aramco undertake regarding advanced computing applications?",
-      "o": [
-        "Aramco Digital partnered with Avathon for industrial AI, and Aramco signed an MoU with Quantinuum for quantum computing.",
-        "Aramco acquired a majority equity stake in both Avathon and Quantinuum.",
-        "Aramco canceled all fossil fuel research to exclusively fund consumer software startups.",
-        "Aramco outsourced its entire upstream exploration pipeline to domestic quantum computing firms."
-      ],
-      "a": 0,
-      "e": "Aramco Digital executed an industrial artificial intelligence partnership with Avathon, and Aramco executed an MoU with Quantinuum targeting industrial quantum computing to expand enterprise technological capabilities."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Energy Markets",
-      "q": "What position did OPEC maintain alongside Saudi Aramco setting October official selling prices for Arab crude grades?",
-      "o": [
-        "OPEC cut its 2026 global oil demand growth forecast while asserting that energy security supersedes climate targets.",
-        "OPEC announced an immediate total cessation of crude oil production across all member states.",
-        "OPEC declared that peak oil demand had officially been reached due to global climate policies.",
-        "OPEC froze member production quotas indefinitely to force a collapse in global benchmark prices."
-      ],
-      "a": 0,
-      "e": "Saudi Aramco set official selling prices for October delivery as OPEC cut its 2026 global oil demand growth forecast while asserting that energy security supersedes climate targets, precluding any peak in demand."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Foreign Exchange",
-      "q": "What macroeconomic factors underpinned the naira reaching a two-year high of 1,315.67 per dollar?",
-      "o": [
-        "Gross foreign reserves climbing to $53.99bn alongside domestic refining capacity and subsidy removal.",
-        "A complete prohibition on foreign currency holdings by domestic commercial banks.",
-        "An emergency bailout package funded entirely by international multilateral lenders.",
-        "A massive contraction in foreign trade volumes reducing overall dollar demand."
-      ],
-      "a": 0,
-      "e": "Spot rates for the naira printed at 1,315.67 per dollar as gross foreign reserves climbed to $53.99bn, underpinning carry trade appeal alongside local refining capacity and subsidy removal."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Indices",
-      "q": "What was the significance of FTSE Russell designating major Nigerian companies for its Frontier Index Series?",
-      "o": [
-        "It broadens passive institutional weightings after constituents met liquidity and market capitalization hurdles.",
-        "It mandates the immediate cross-listing of these firms on European and North American stock exchanges.",
-        "It removes these equities from domestic exchanges to consolidate liquidity in London.",
-        "It grants these corporations direct voting rights over global index rebalancing rules."
-      ],
-      "a": 0,
-      "e": "Index inclusion by FTSE Russell for GTCO, Zenith, First Holdco, Aradel, MTNN, and Dangote Cement broadens passive institutional weightings within the Frontier Index Series after meeting requisite liquidity and market capitalization hurdles."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Mining",
-      "q": "How did Core Lithium conclude its active inventory liquidation schedule?",
-      "o": [
-        "Through a terminal transaction with Glencore that wrapped up its stockpile sales programme.",
-        "By transferring its entire remaining inventory to the Australian federal government for strategic reserves.",
-        "By burning all residual stockpile assets to artificially inflate global market prices.",
-        "By writing off the inventory losses entirely without executing any final commercial sales."
-      ],
-      "a": 0,
-      "e": "Core Lithium completed its stockpile sales programme via a terminal transaction with Glencore, wrapping up the planned liquidation of residual inventory assets and removing a lingering supply variable."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Capital Markets",
-      "q": "What is the intended use of the A$1.1 million secured by Turnstone Resources?",
-      "o": [
-        "To fund its critical minerals strategy and Swedish copper-gold exploration assets.",
-        "To pay down maturing corporate bond debt held by domestic institutional lenders.",
-        "To acquire a controlling stake in competing domestic lithium extraction firms.",
-        "To distribute immediate dividend yields to early-stage private equity backers."
-      ],
-      "a": 0,
-      "e": "Turnstone Resources completed a A$1.1 million capital raise to fund its critical minerals strategy and Swedish copper-gold exploration, providing the requisite runway for early-stage jurisdictional drilling vectors."
+      "e": "The Australian dollar reached a four-month high because market participants adjusted rate-hike probabilities and repriced terminal rate risks, tightening yield differentials. The other options mention Brazilian oil tenders, Nigerian foreign reserves, or Chinese bank deposits."
     }
   ]
 }
