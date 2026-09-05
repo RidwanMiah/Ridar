@@ -1,96 +1,134 @@
 {
-  "generated": "2026-09-05T22:22:35.915Z",
+  "generated": "2026-09-05T23:23:45.031Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "5 September 2026",
-    "headline": "US indices slide on a strong jobs report while Astera Labs rallies 11% on S&P 500 rebalance speculation.",
+    "headline": "US stocks fall on strong jobs data while Saudi Aramco signs French agreements and PetroChina secures Brazilian oil.",
     "lede": {
-      "b": "The S&P 500 and the Dow Jones Industrial Average dropped because a new jobs report showed high employment. When employment is strong, people worry that borrowing costs, which are the fees charged on loans, might go up instead of down. Traders then cut back on their bets that central banks will make money cheaper to borrow. Astera Labs shares jumped by 11% because people expected the firm to join the S&P 500 stock index, which is a list of major companies. At the same time, Trade Desk lost its place on that exact index while cutting 575 jobs. Oura also filed for an initial public offering on the Nasdaq exchange, which means it is selling shares to the public for the first time.",
-      "i": "US <span class='term' data-t='equities'>equities</span> fell as a robust jobs report forced traders to scale back expectations for monetary easing. The S&P 500 and the Dow Jones Industrial Average finished lower because strong employment data fuelled fears of higher borrowing costs. Meanwhile, Astera Labs rallied 11% ahead of the September rebalance, while Trade Desk lost its index seat alongside a layoff of 575 staff. Oura filed for an initial public offering on the Nasdaq exchange targeting a valuation of $16bn.",
-      "a": "US indices contracted across the board following a blowout employment print that compressed rate-cut pricing and lifted yield expectations. Astera Labs rallied 11% on index inclusion positioning ahead of the September rebalance, inversely mirroring Trade Desk's removal alongside a 575-person workforce reduction. Oura formally filed for a Nasdaq initial public offering implying a $16bn valuation."
+      "b": "United States stocks fell after a strong jobs report stoked fears that the central bank, which sets the cost of borrowing money across the economy, will raise interest rates. The S&P 500 and the Dow indices ended lower, though strength among chipmakers supported the Nasdaq index. Oura filed for an initial public offering on the Nasdaq targeting a valuation of $16bn, while Astera Labs shares surged 11% on S&P 500 index rebalance betting. Market participants adjusted portfolios following the labor market release.",
+      "i": "US equities slid after a robust jobs report fueled speculation that the <span class='term' data-t='central bank'>central bank</span> will hike interest rates. The S&P 500 and the Dow finished in negative territory, while chipmaker strength cushioned the Nasdaq. Oura filed for a Nasdaq IPO targeting a $16bn valuation, and Astera Labs surged 11% ahead of the S&P 500 index rebalance. Passive funds tracking the benchmark adjusted equity weightings to mirror announced composition changes.",
+      "a": "US indices retreated following a blowout employment print that priced in tighter monetary policy paths. S&P 500 and Dow constituents faced downward pressure while tech-heavy Nasdaq components found idiosyncratic support from chipmakers. Oura filed a $16bn Nasdaq IPO, and Astera Labs rallied 11% on index inclusion arbitrage ahead of the September rebalance. Passive trackers adjusted portfolio allocations concurrently with The Trade Desk exiting the benchmark alongside a workforce reduction."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The S&P 500 and the Dow Jones Industrial Average fell after a strong jobs report.",
-        "i": "The S&P 500 and the Dow Jones Industrial Average finished lower following a blowout jobs report.",
-        "a": "US indices retreated as employment data forced traders to price out monetary easing."
+        "b": "US stocks fell as a strong jobs report drove interest rate fears, and Oura filed for a $16bn Nasdaq IPO.",
+        "i": "US equities retreated on strong jobs data, while Oura filed for a $16bn Nasdaq IPO.",
+        "a": "US indices declined post-employment data while Oura targeted a $16bn valuation in its Nasdaq IPO filing."
       },
       {
         "c": "Germany",
-        "b": "German price growth climbed while avoiding a severe energy shock.",
-        "i": "German inflation climbed while avoiding severe energy-shock transmission.",
-        "a": "German headline price growth accelerated without severe energy-shock transmission into broader metrics."
+        "b": "German price growth edged up without secondary pass-through into core baskets.",
+        "i": "German inflation edged higher without broad secondary pass-through into core baskets.",
+        "a": "German price growth ticked up while exhibiting limited secondary pass-through into core baskets."
+      },
+      {
+        "c": "Japan",
+        "b": "Japanese officials monitored the yen amid rising price pressures, and regulators tightened lending oversight.",
+        "i": "Japanese authorities monitored the yen amid rising price pressures while tightening overseas nonbank lending oversight.",
+        "a": "Japanese authorities maintained surveillance on the yen amid domestic price pressures alongside tightened oversight of overseas nonbank lending exposures."
       },
       {
         "c": "China",
-        "b": "PetroChina bought 1 million barrels of oil at a Brazilian auction.",
-        "i": "PetroChina secured 1 million barrels of oil at the 8th spot auction hosted by the Brazilian Union.",
-        "a": "PetroChina secured 1 million barrels at the Brazilian Union spot auction alongside international peers."
+        "b": "PetroChina secured Brazilian oil at an auction, and CITIC reported a first-half profit increase.",
+        "i": "PetroChina secured Brazilian oil at an auction, and CITIC posted an 8.1% first-half profit increase.",
+        "a": "PetroChina secured oil at the 8th spot auction while CITIC reported an 8.1% first-half net profit increase."
+      },
+      {
+        "c": "India",
+        "b": "Indian indices extended their slump for the fifth consecutive session.",
+        "i": "Indian indices extended their slump for the fifth consecutive session.",
+        "a": "Indian indices extended their losing streak to 5 consecutive sessions under global headwinds."
+      },
+      {
+        "c": "Brazil",
+        "b": "Petrobras secured oil at an auction, drilled three Amazon wells, and extended its stock rally.",
+        "i": "Petrobras secured oil at an auction, drilled new Amazon wells, and extended its stock rally.",
+        "a": "Petrobras secured spot auction oil, advanced FZA-M-59 Amazon drilling, and extended its equity rally."
+      },
+      {
+        "c": "Saudi Arabia",
+        "b": "Saudi Aramco signed $3.7 billion in deals with French entities, and crude output reached its highest mark since 2022.",
+        "i": "Saudi Aramco signed $3.7bn in French deals while crude output reached its highest level since 2022.",
+        "a": "Saudi Aramco concluded $3.7bn in French pacts as February crude output hit its highest mark since 2022."
+      },
+      {
+        "c": "Nigeria",
+        "b": "The naira closed at N1,322.50 per dollar as foreign exchange turnover contracted by 33%.",
+        "i": "The naira closed at N1,322.50 per dollar as weekly foreign exchange turnover contracted by 33%.",
+        "a": "The official naira closed at N1,322.50 per dollar alongside a 33% contraction in weekly foreign exchange turnover."
+      },
+      {
+        "c": "Australia",
+        "b": "ASX 200 bank shares led a financial sector rebound while Sandfire Resources issued a dividend.",
+        "i": "ASX 200 bank shares led a financial sector rebound while Sandfire Resources issued an A$0.35 dividend.",
+        "a": "ASX 200 bank shares rebounded while Sandfire Resources posted earnings alongside an A$0.35 dividend."
       }
     ],
     "thread": {
-      "b": "Energy companies and commodity auctions made news in multiple regions. PetroChina bought oil in Brazil at the same time Saudi Aramco signed multi-billion dollar contracts.",
-      "i": "Cross-border energy expansion featured prominently as PetroChina secured barrels in Brazil and Saudi Aramco expanded international contractor agreements.",
-      "a": "State-backed energy giants expanded international operational footprints, evidenced by PetroChina securing Union oil barrels in Brazil and Saudi Aramco executing large-scale contractor agreements."
+      "b": "Energy firms and oil production featured prominently across multiple regions. PetroChina and Petrobras secured crude in Brazil, while Saudi Aramco increased its output to the highest mark since 2022.",
+      "i": "Energy sector activity drove cross-border developments. PetroChina and Petrobras acquired oil assets in Brazil, and Saudi Aramco expanded operations alongside rising production figures.",
+      "a": "Energy sector developments anchored multiple regional updates, spanning PetroChina and Petrobras spot auction acquisitions in Brazil to Saudi Aramco production expansions and French partnership agreements."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US indices fall as jobs report fuels rate hike fears",
+      "sub": "Stocks fall as strong jobs report fans rate hike fears",
       "ind": [],
       "stories": [
         {
-          "t": "Jobs report sparks rate fears as S&P 500 and Dow slide",
-          "src": "Stocktwits · Modern Ghana",
-          "b": "Stock market indexes are groups of company shares tracked together. The S&P 500 and the Dow Jones are two major indexes. Both indexes ended the day lower. A strong jobs report caused this drop. A jobs report tells the public how many people got work. Good hiring data makes people worry that the Federal Reserve, which is the central bank that sets borrowing costs, will raise interest rates to slow the economy down.",
-          "i": "The S&P 500 and the Dow Jones Industrial Average finished lower after a blowout jobs report. Strong employment data stoked fears that borrowing costs might rise rather than fall. Traders trimmed expectations for monetary easing as the labour market showed robust health.",
-          "a": "Equities retreated across the S&P 500 and the Dow Jones Industrial Average following a robust employment print. The hotter-than-expected jobs addition forced a repricing of the interest rate path, dampening hopes for imminent monetary loosening. Market participants immediately weighed the probability of further policy tightening against existing economic momentum.",
+          "t": "US Stocks Fall After Strong Jobs Data",
+          "src": "Stocktwits",
+          "b": "The S&P 500 and Dow indices fell after a strong jobs report. An index is a group of shares tracked together to show how a market is doing. Strong job numbers can cause worry that interest rates will rise. Interest rates are the cost of borrowing money. Chipmaker shares helped the Nasdaq index.",
+          "i": "The S&P 500 and Dow indices ended lower after a blowout jobs report. Strong employment data stoked fears of higher interest rates from the central bank. Strength among chipmakers provided support to the Nasdaq. Market participants adjusted portfolios following the labor market release.",
+          "a": "The S&P 500 and Dow retreated following an employment print that exacerbated monetary tightening concerns. Robust labor expansion compressed the probability of near-term rate cuts by the Federal Reserve. Semiconductor strength idiosyncratic to the sector lent relative outperformance to the Nasdaq. Terminal rate pricing shifted upward across swap curves in response to the payroll data.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0E2dXEwWjNSZlJPY0tnMWl6NHNlRW9vMktYd2dpNGc4amYyYnQ5aE9MS3RwZXhIdGZaNkRmbXk5N09EcWwxR1dnLWh6MG42VEhZQzZtdTBwdXg1M1lBdkxFbktVQXI1ZlJGdXk2SUg5NmFMZ3FEeWxtdUw0cHVBbVp1WTU4OE1NSG1mRVZlWXF6MXlyeHJMM3NoREI2ZXNsbmRfX2tuUlhGbXVMLUZVRUw0cWlyTXRlb3FqQXg3WFZpS1hyTTE3dzY5dVpmZUpnSWxBa3BpMy1hRnh0cHBQODhhdXJqRHJUQlZpVGNhVFVjOWZZQmVPQ2pkVmNQNU1TalNyaEo0eTh4OU1BYmJGbmhwajI1djc0dVNVSEhGS2ktS0U?oc=5",
-            "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNjhmeEZxVXAzWGVfMFczaHE3VGRuRHZ0UzBkcE9sdldJdUUxbHBmRkdxSXQyaDBzMlozUGZlSnUzLUhjR1lRbEVlYVRlc0Y2NDFqLTQ3REdVMEh0LUdV0gFcQVVfeXFMTml0Zm10dGc4bVNENVFLOUNKZ2ptRHNDVE9OR1dwdV8wSFFpeGpZV1JKd0RPUmRCOWhiaHpEQ1VZVEh5Znlmak5LbThWanNreC0xWkJnZkFCTVNHNWU?oc=5"
+            "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX0E2dXEwWjNSZlJPY0tnMWl6NHNlRW9vMktYd2dpNGc4amYyYnQ5aE9MS3RwZXhIdGZaNkRmbXk5N09EcWwxR1dnLWh6MG42VEhZQzZtdTBwdXg1M1lBdkxFbktVQXI1ZlJGdXk2SUg5NmFMZ3FEeWxtdUw0cHVBbVp1WTU4OE1NSG1mRVZlWXF6MXlyeHJMM3NoREI2ZXNsbmRfX2tuUlhGbXVMLUZVRUw0cWlyTXRlb3FqQXg3WFZpS1hyTTE3dzY5dVpmZUpnSWxBa3BpMy1hRnh0cHBQODhhdXJqRHJUQlZpVGNhVFVjOWZZQmVPQ2pkVmNQNU1TalNyaEo0eTh4OU1BYmJGbmhwajI1djc0dVNVSEhGS2ktS0U?oc=5"
           ]
         },
         {
-          "t": "Astera Labs jumps on S&P 500 rebalance speculation",
-          "src": "finance.biggo.com · PPC Land",
-          "b": "Astera Labs saw its stock jump by 11%. Traders bought shares because they bet the company will join the S&P 500 index. This potential change happens before the September rebalance. Meanwhile, the Trade Desk lost its seat on the same index.",
-          "i": "Astera Labs rallied 11% as market participants positioned themselves ahead of the September rebalance. Traders speculated on the firm securing an entry into the S&P 500. Conversely, Trade Desk lost its seat on the index on the exact day it cut 575 jobs.",
-          "a": "Astera Labs surged 11% on heavy volume as arbitrageurs and index funds adjusted portfolios ahead of the September rebalance. Speculation centred on the semiconductor connectivity provider gaining inclusion in the S&P 500. Simultaneously, Trade Desk was excised from the benchmark index on the same day it eliminated 575 positions.",
+          "t": "Oura Files for Nasdaq IPO and SK Hynix Draws Interest",
+          "src": "Yahoo Finance · Startup Fortune",
+          "b": "Ring maker Oura filed for a Nasdaq stock market listing. An initial public offering, or IPO, is when a private company sells shares to the public for the first time. Oura could reach a value of $16 billion. SK Hynix American Depositary Receipts also drew heavy interest from Korean buyers after debuting on Nasdaq.",
+          "i": "Ring manufacturer Oura filed for an initial public offering on the Nasdaq targeting a valuation of $16bn. SK Hynix American Depositary Receipts attracted heavy retail and institutional interest following their Nasdaq debut. These exchange-listed securities broaden cross-border access to foreign chip equities. The listings reflect continued primary market activity in technology sectors.",
+          "a": "Oura filed an S-1 for a Nasdaq initial public offering implying a $16bn valuation ceiling. SK Hynix ADRs experienced heightened volume driven by Korean domestic demand post-listing. Arbitrageurs and cross-border flow desks monitored the liquidity distribution between the Seoul primary listing and the Nasdaq secondary vehicle. Syndicate banks structured the book to capture optimal tech sector multiples.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjlINzRBUGo4R25mdHYtSm9mb0pJMGt6UGM1Uk9VZ3FvTlhuMkVubHdobkRoZl93eXgxLWFaZzBfa3FKWUdEZkFucWd6dUJVMlRkX3VZYWdvZEJmYXFnXzZYMnUwR3lDazVnY2pKUEVBMjhGbjVUTXBUakR6UHZjOWxrSGxCSWxIWUZxbkNnWjh1NUx1WmJV?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1FoakpsRnhoU01Rd2ZvXzhUS0VVMkFTSVZIdEFZUG9xYnhmaHdRSjVWMTJHT21mbTBtUnVCREZaODhRNHZneGJsa3ozWnBZSEktal9CRnRqNWhPNHNZelNhaFkwbG5LWDgwekpheVNyNHFjM2QzS1NjZl92bXkzNnlaaVF0V2hhUzk2Y1lfU3B4VG1MX3o2SFpUMEJsd1NqN3ZR?oc=5"
+          ]
+        },
+        {
+          "t": "Astera Labs Jumps on S&P 500 Index Rebalance Betting",
+          "src": "finance.biggo.com · ppc.land",
+          "b": "Astera Labs shares jumped 11% as traders bet on its entry into the S&P 500 index. The Trade Desk lost its seat in the S&P 500 index on the same day it ended 575 jobs. Index changes force funds that track the index to buy and sell shares.",
+          "i": "Astera Labs shares surged 11% as market participants positioned for its inclusion in the S&P 500 during the September rebalance. Conversely, The Trade Desk lost its S&P 500 index seat concurrently with a workforce reduction of 575 jobs. Passive funds tracking the benchmark adjusted their equity weightings to mirror the committee's announced composition changes.",
+          "a": "Astera Labs rallied 11% ahead of the September rebalance on expectations of forced buying by index-tracking passive vehicles. The Trade Desk was excised from the S&P 500 benchmark alongside operational downsizing terminating 575 roles. Quantitative funds recalibrated tracking error parameters to account for the constituent turnover. Portfolio managers adjusted liquidity buffers ahead of the effective reconstitution date.",
           "links": [
             "https://news.google.com/rss/articles/CBMidkFVX3lxTE94V2JQZ2FhdUZvXzRMakRSY2NOZUczNms2SWFCM2hMRHpMYkRXaW41N3FSMmNwNENHcnoxNm03RWEzVTJYaHVuQTJCaEd5M1Q5RjVzTVhHQWpNNW5TTDVBWDNDQkNfQVBHYnlaME5IdWJBc1ZHdEE?oc=5",
             "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcXJtMUdqTWI2NGN3QmJoTVpUXzZiems3TFdIdTRtMFRSZTJnQWRoN1Z6WC1ZTzRxcU5PSUs5SWJTRU1ZZ2RQTTA1X2xXQjEyNE9tNGZkRF9zaVotcnkxLU5OeHdFeDdOS094UEo2aGFqejJ3NE04NXlCSUNTZw?oc=5"
           ]
-        },
-        {
-          "t": "Oura files for Nasdaq IPO valued at $16bn",
-          "src": "Startup Fortune",
-          "b": "Oura wants to sell its shares to the public for the first time through an initial public offering, or IPO. The ring maker filed paperwork to list on the Nasdaq stock exchange. The company could be valued at $16bn based on this filing.",
-          "i": "Oura filed for an initial public offering on the Nasdaq exchange. The smart ring manufacturer could achieve a valuation of $16bn through the listing. This move brings the wearable tech maker into public markets.",
-          "a": "Oura submitted a registration for an initial public offering on the Nasdaq. The transaction could price the wearable device manufacturer at a $16bn valuation. This flotation marks a major liquidity event for the private company.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1FoakpsRnhoU01Rd2ZvXzhUS0VVMkFTSVZIdEFZUG9xYnhmaHdRSjVWMTJHT21mbTBtUnVCREZaODhRNHZneGJsa3ozWnBZSEktal9CRnRqNWhPNHNZelNhaFkwbG5LWDgwekpheVNyNHFjM2QzS1NjZl92bXkzNnlaaVF0V2hhUzk2Y1lfU3B4VG1MX3o2SFpUMEJsd1NqN3ZR?oc=5"
-          ]
         }
       ],
       "politics": {
-        "b": "Political pressure surrounds Federal Reserve Chair Warsh as he faces a tough choice on interest rates.",
-        "i": "Federal Reserve Chair Warsh confronts rate hike dilemmas amid direct political pressure from Trump.",
-        "a": "Federal Reserve Chair Warsh navigates monetary tightening decisions under executive pressure from Trump.",
-        "sources": {
-          "0": {
-            "outlet": "조선일보",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnd5bl85ekY1RXRtczJwRjNSc3RxLUQ5SngzT2pfdTZsejlTT0JZOGRjeUI2SG1lZVJGcnZwWXhxWUlHLUNrNUQ3OUpDMHZTaXFSWjI2MGJBZ1N6RWt4X1F3QnRIMlhKT3A1RTYwUE1Lc3k2a0ZXRXpNNWZIOWkwR1F2SWh3VnRSaGFrYV9n?oc=5"
-          }
-        }
+        "b": "Federal Reserve Chair Warsh faces a dilemma over rate hikes under pressure from Trump.",
+        "i": "Federal Reserve Chair Warsh navigated monetary policy decisions amid political pressure from Donald Trump regarding rate hikes.",
+        "a": "Federal Reserve Chair Warsh confronted policy execution constraints under executive pressure from Trump regarding interest rate trajectories."
       },
       "timeline": [
         [
           "5 Sep 2026",
-          "Oura files for a Nasdaq initial public offering targeting a $16bn valuation."
+          "Oura filed for a Nasdaq initial public offering targeting a $16 billion valuation."
+        ],
+        [
+          "5 Sep 2026",
+          "Astera Labs shares rose 11% on S&P 500 rebalance speculation."
+        ],
+        [
+          "5 Sep 2026",
+          "The Trade Desk lost its S&P 500 index seat and cut 575 jobs."
         ]
       ]
     },
@@ -110,15 +148,15 @@
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German price growth accelerates with limited energy impact",
+      "sub": "German price growth and equity markets update",
       "ind": [],
       "stories": [
         {
-          "t": "German Price Growth Increases",
+          "t": "German Price Growth Edges Up",
           "src": "Wall Street Journal",
-          "b": "German <span class='term' data-t='inflation'>inflation</span>, which is the rate at which prices for everyday items go up, has risen. Recent reports show minimal impact from energy shocks. Officials monitor these costs closely as household budgets adjust to the changes. Price increases remain contained across major sectors.",
-          "i": "German <span class='term' data-t='inflation'>inflation</span> climbed recently while avoiding severe energy-shock transmission. Analysts note that broader price pressures remain subdued despite the headline increase. Markets track these metrics to gauge upcoming central bank policy adjustments. Supply chains show steady absorption of prior commodity volatility.",
-          "a": "German <span class='term' data-t='inflation'>inflation</span> printed higher without triggering secondary energy-shock spillovers. The absence of wage-price spirals indicates anchored expectations despite the headline uptick. Rates traders are recalibrating term premiums as core components decouple from legacy commodity shocks.",
+          "b": "German <span class='term' data-t='inflation'>inflation</span> goes up. This is the rate at which prices for everyday items increase over time. Energy shocks do not show wide spillover effects yet. The data comes from Wall Street Journal reports on September 5, 2026.",
+          "i": "German <span class='term' data-t='inflation'>inflation</span> rises in the latest reading. The figures show limited transmission from broader energy-shock pressures across the broader economy. Analysts note the lack of secondary pass-through into core baskets.",
+          "a": "German headline <span class='term' data-t='inflation'>inflation</span> prints higher on September 5, 2026, while underlying dynamics show minimal energy-shock contagion. This containment implies wage-price spirals remain absent from current aggregate metrics, leaving terminal rate expectations unadjusted for now.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjl0bVkxZ29sYzZrQnQzbEZaV1lRb0NWUEhjZDVkRDZETnFUWmVNazJFUXdkRUtnMkxjSjVUNzhJcTRSMzlaVzRVakZ5QWxVNXo2UXZ3ZmdWWWNod1hPUFpIYzlyTTVtYXJYUEJmdU9vVDNWZC1IYlVackdRaWM2eWJGUXpGTHZhamZQN21RandKTkJIb3lfZGk5ODRQTnBreXpFU0VJNVcydw?oc=5"
@@ -126,110 +164,101 @@
         }
       ],
       "politics": {
-        "b": "German authorities review current economic data releases. Policymakers study the latest price shifts carefully. Officials respond to changing market conditions.",
-        "i": "German policymakers evaluate the latest inflation prints against broader European trends. Legislative bodies assess fiscal impacts from shifting price dynamics. Regulatory authorities maintain existing surveillance on core sectors.",
-        "a": "German fiscal authorities monitor core inflation prints against ECB policy transmission channels. Policymakers assess structural cost pressures within domestic industrial output. Regulatory bodies maintain current monitoring frameworks across regional exchanges."
+        "b": "No political updates are available in the current market sources for Germany.",
+        "i": "No political updates are available in the current market sources for Germany.",
+        "a": "No political updates are available in the current market sources for Germany."
       },
       "timeline": [
         [
-          "4 Sep",
-          "European stocks trade across regional markets."
+          "04 Sep 2026",
+          "European stocks are tracked by market reports."
         ],
         [
-          "5 Sep",
-          "German price data shows rising annual figures."
+          "05 Sep 2026",
+          "German price growth figures are published by the Wall Street Journal."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Japan currency monitoring, bank loan checks, and power trading",
+      "sub": "Yen scrutiny and bank loan checks",
       "ind": [],
       "stories": [
         {
-          "t": "Japanese Currency Monitoring and Price Pressures",
+          "t": "Japan monitors currency moves amid rising price pressures",
           "src": "WSJ",
-          "b": "Officials in Japan watch the yen closely as worries about rising prices grow. Prices going up mean people pay more for everyday goods. Leaders keep an eye on these currency values to protect the economy. The Ministry watches exchange rates while citizens face higher costs.",
-          "i": "Japanese authorities monitor the currency closely as <span class='term' data-t='inflation'>inflation</span> pressures mount. Officials track foreign exchange movements to protect domestic purchasing power. Rising costs generate heightened anxiety among consumers and policymakers alike. The government maintains close watch over currency valuations.",
-          "a": "Japanese authorities maintain rigorous surveillance over the yen as <span class='term' data-t='inflation'>inflation</span> expectations accelerate. Policymakers monitor currency fluctuations to mitigate imported cost pressures. Officials intervene verbally to counter speculative positioning in foreign exchange markets. Domestic price stability remains a central focus for financial regulators.",
+          "b": "The Japanese yen is the money used in Japan. Officials in Japan promised to keep a close eye on the yen. This comes as worries about rising prices grow. Prices going up across the economy are called <span class='term' data-t='inflation'>inflation</span>.",
+          "i": "Japanese authorities promised to maintain strict surveillance of the yen. Officials expressed concern over rising price pressures. The currency moves occur as <span class='term' data-t='inflation'>inflation</span> fears increase across the domestic economy.",
+          "a": "Japanese officials pledged to monitor currency dynamics closely. Policymakers responded directly to intensifying <span class='term' data-t='inflation'>inflation</span> expectations. The foreign exchange path remains sensitive to shifting monetary policy stances.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnNWQ0dqeXNXZkJrOVRrd0lzMEttb0s2amZVZVFOUGpmSXl1T0RGbVRWNTZHbWdUODUyR1k0SXdlUHRBQ0JmNW1Ed0JVcUkzUnZ0U2l2S3dmMi1uYXpNZnItRklnNEYtY1BjaFg3OHBTUUtpal9vMzQwUVR6Rk1UbmZmX1VkSHlnc0dwRkdXRWg0a19WdV9OaU14TUx1emdaWXJr?oc=5"
           ]
         },
         {
-          "t": "Increased Bank Loan Scrutiny and Power Trading",
+          "t": "Banking regulators tighten oversight of overseas nonbank lending",
           "src": "Nikkei Asia",
-          "b": "Regulators in Japan plan to check bank loans to overseas nonbank lenders more carefully. A company unit from ABN Amro also enters the electric power trading market in Japan. Banks face tougher reviews on money lent abroad. New firms join the local electricity market.",
-          "i": "Japanese regulators increase scrutiny of bank loans directed to overseas nonbank lenders. Financial authorities tighten oversight on cross-border lending exposures. Meanwhile, an ABN Amro unit enters the domestic electric power trading market. Companies expand operations within the local energy sector.",
-          "a": "Japanese regulators step up scrutiny of bank lending exposures to overseas nonbank entities. Financial authorities seek to curb systemic risks originating from cross-border credit extension. Concurrently, an ABN Amro subsidiary enters the domestic electric power trading market. Commercial participants expand footprint in the regional energy sector.",
+          "b": "Japan plans to check bank loans more closely. The loans go to nonbank lenders outside the country. Regulators want a clearer view of these financial links. Financial authorities announced this increased scrutiny.",
+          "i": "Japanese regulators intend to intensify oversight of commercial lending. The increased scrutiny targets bank loans extended to overseas nonbank lenders. Financial authorities aim to capture risk exposures across international borders.",
+          "a": "Japanese supervisors prepared to step up inspections of cross-border credit channels. The regulatory focus centers on bank exposures to foreign nonbank financial intermediaries. Authorities seek to mitigate systemic vulnerabilities originating outside domestic jurisdiction.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGJJa1diOEFlYzY2WUViVTducmtEMHMxc2JRcVRDTnVKWS0xU1dQaURHNFk3ZjREdG1wYjJZcGtnaVZSbXVaTEgzRFBaSEZKc2dzRWpmWWE1SVVUejFBMW9VV25VM21jQzNMZFJyUUVqaGhwYmlnMmpkcGoyN2JuMG5WT05TSWpXVm0tZmZB?oc=5",
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxON20tSll4T19xcXU3U3NGM3FjalZBQzdlT3NHQjVzcXU0N0h3OExUNlE2bGt4allCdzhEYnowVHpOOG10MWk3TGNISkNoR2VySHpITVUyWjdXYm5Uc2lyZnVvdWZGbUtKTDVYWnNwb3BpbUhTcERXeXdOcVVtaElaU2FTeHdRTFhYSUNFbnZGUWV4UWNFWENUZ0xJQURialROWHdyMEZEMmdtR0Nv?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Japanese leaders keep watch on the currency value. Officials monitor market shifts closely. Authorities manage financial stability measures.",
-        "i": "Japanese policymakers maintain close surveillance over exchange rate dynamics. Authorities assess financial stability risks across domestic institutions. Government officials respond to shifting external cost pressures.",
-        "a": "Japanese authorities calibrate policy responses to foreign exchange volatility. Regulators evaluate systemic exposures within cross-border lending channels. Government officials monitor macroeconomic transmission mechanisms closely."
+        "b": "Government officials watched currency markets closely. Authorities focused on financial stability and price trends.",
+        "i": "State officials monitored foreign exchange volatility. Policy makers assessed risks stemming from external credit exposures.",
+        "a": "State administrators tracked currency fluctuations and credit metrics. Executive branches coordinated with financial regulators on supervisory policy."
       },
       "timeline": [
         [
           "5 Sep 2026",
-          "Hakuhodo survey results published regarding wealthy Japanese households."
+          "Japan vowed to monitor the yen as price worries rose."
         ],
         [
           "5 Sep 2026",
-          "NEC scraps its development effort for a quantum computer."
-        ],
-        [
-          "5 Sep 2026",
-          "Berkshire confirms ongoing plans to sell yen bonds for investments."
+          "Japan announced plans to increase scrutiny of bank loans to overseas nonbank lenders."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Chinese energy expansion and corporate earnings growth",
+      "sub": "Chinese energy firms secure oil assets and CITIC reports profit",
       "ind": [],
       "stories": [
         {
-          "t": "PetroChina Secures Union Oil at Brazilian Auction",
+          "t": "PetroChina Secures Brazilian Oil and Energy Giants Expand Exploration",
           "src": "CPG Click Oil and Gas · Nikkei Asia",
-          "b": "PetroChina bought 1 million barrels of oil at an auction in Brazil. It competed against other major energy companies like ExxonMobil and TotalEnergies. Chinese energy firms are expanding their reach into South American oil fields. The auction took place on 2026-09-05. State-backed entities secured the petroleum directly from the Union.",
-          "i": "PetroChina acquired 1 million barrels of oil at the 8th spot auction hosted by the Brazilian Union. The firm competed alongside rivals including CNOOC, Equinor, and ExxonMobil. Chinese energy giants continue to scale their operational footprint across South American exploration blocks. The transaction was finalised on 2026-09-05.",
-          "a": "PetroChina secured 1 million barrels at the Brazilian Union's 8th spot auction, beating out international supermajors such as TotalEnergies, Galp, and Equinor. This participation underscores the aggressive strategy of Chinese state-owned enterprises in securing upstream asset exposure within Latin America. The transaction settled on 2026-09-05.",
+          "b": "PetroChina and Petrobras purchased 1 million barrels of oil from the Union at the 8th spot auction. They competed against rivals such as CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Chinese energy companies continue to tap Brazil for imports and oil field exploration.",
+          "i": "PetroChina and Petrobras acquired 1 million barrels of oil from the Union at the 8th spot auction. The firms competed against CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Chinese energy giants actively target Brazil for imports and oil field exploration.",
+          "a": "PetroChina and Petrobras secured 1 million barrels of oil from the Union at the 8th spot auction against competition from CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Chinese energy enterprises expand their upstream footprint by tapping Brazil for imports and oil field exploration.",
           "links": [
             "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbFBUSC1uRXFtYllYVThtNjRWTTBXdWVDS0ZDUEZITUh3Z08zZk5uU1V1RVFHb0N6SG44ZHV6WVFZX1NReVU1Y000N3V6b2RERzV6Q2V1QUtrb2ZHRWxVaDF6VnNWb1hXeURaWW5qZTRMQ25qQUJ6aFJnaVphSHJ4ZmRJRURUdGh3Z1RnSHdxYllibEk2TDRZUU0zbE5yYWJveHFrV0VnY1RYYUl3ZFU5SFQya3QzcUwtcDA4OHRuVDJSMEg4RTJoa3FxNUo3OExJbnVOT2NndzVwS3RXVm9yOUEycm5tckozd0k2R0RNbHdJNHRlMERDWFpMbVJ1UFdPYVQtSElqbjdWbGZPY1ZZMw?oc=5",
             "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkZNQmxVRml1cXdxYm1lYkVISmk2bDU3Mzg2eXFNNVNkbnA4ZUtUU0ZnTy1wUjlCcXFlNDdyR3RVdDhpR09JM2JZWFcxanBENjNHXzk4V2RpUTRGRFJ5V3hfTGtKaXFZcEpuZmhtNGtSVFpHSHRSWWtpSVF5VjBjVHFBRUIyZ0sxNVpLdFEwbWNBeEM2U3I2YkNpcDNUQV8wVm5FQ2pVaFpQUQ?oc=5"
           ]
         },
         {
-          "t": "CITIC Limited Reaches Multi-Year Market Valuation High",
+          "t": "CITIC Reports First-Half Profit Growth and Market Capitalisation Peak",
           "src": "finance.biggo.com",
-          "b": "CITIC Limited reported that its net profit rose by 8.1% in the first half of the year. Its total market value crossed HK$400bn. This pushed the company's valuation to its highest point in nearly 10 years. Financial results were published in September 2026.",
-          "i": "CITIC Limited posted an 8.1% increase in net profit for the first half of the year. Its market capitalization surpassed HK$400bn, touching a near-decade peak. The financial milestone reflects strong corporate performance through the first two quarters of 2026.",
-          "a": "CITIC Limited delivered an 8.1% expansion in first-half net profit, driving its market capitalization above HK$400bn. This valuation milestone marks a near-decade high for the conglomerate as of September 2026.",
+          "b": "CITIC Limited posted an 8.1% rise in first-half net profit. Its market capitalisation topped HK$400bn, hitting a near-decade high.",
+          "i": "CITIC Limited reported an 8.1% increase in first-half net profit. The company market capitalisation surpassed HK$400bn to touch a near-decade high.",
+          "a": "CITIC Limited delivered an 8.1% expansion in first-half net profit. Market capitalisation breached the HK$400bn threshold, reaching a near-decade high.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BZkNmemlIVFgwRnl2Zy1JWGs0LTBIMUNaNE03M1AyQ0JsNnJ0TW9VMndmT1R4V2c5eXpNdEpLcTljRkZ2cGpMWHNNWTBwRkZGOWFFZ3VFcHJMWXlyckN5M3pMUXRKcDdTakotZS14R0Q4eFFUOGc?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTENBZkNmemlIVFgwRnl2Zy1JWGs0LTBIMUNaNE03M1AyQ0JsNnJ0TW9VMndmT1R4V2c5eXpNdEpLcTljRkZ2cGpMWHNNWTBwRkZGOWFFZ3VFcHJMWXlyckN5M3pMUXRKcDdTakotZS14R0Q4eFFUOGc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The People's Bank of China released new compliance instructions for financial institutions regarding data security and cyber security measures.",
-        "i": "The People's Bank of China implemented specific data and cyber security compliance frameworks for domestic financial institutions.",
-        "a": "The People's Bank of China formalized operational guidance for financial institutions to comply with updated data and cyber security regulatory mandates."
+        "b": "The People's Bank of China established data and cyber security measures for financial institutions. These rules provide a practical compliance guide.",
+        "i": "The People's Bank of China introduced data and cyber security measures. Financial institutions must follow these rules as a practical compliance guide.",
+        "a": "The People's Bank of China implemented data and cyber security measures. Financial institutions utilize the framework as a practical compliance guide."
       },
       "timeline": [
         [
-          "05 Sep 2026",
-          "PetroChina secures 1 million barrels of oil at the 8th Brazilian Union spot auction."
-        ],
-        [
-          "05 Sep 2026",
+          "5 Sep 2026",
           "CITIC Limited reports an 8.1% rise in first-half net profit with a market cap topping HK$400bn."
         ]
       ]
@@ -237,134 +266,121 @@
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indian equities extend slump as tech invests billions",
+      "sub": "Indian equities extend slump for 5th consecutive day",
       "ind": [],
       "stories": [
         {
-          "t": "Indices extend losing run as global headwinds weigh",
+          "t": "Indices extend consecutive decline",
           "src": "News On AIR · The New Indian Express",
-          "b": "The Nifty and Sensex indices dropped for the 5th consecutive day. An index is a group of stocks tracked together to measure the market. Global headwinds created pressure on Indian equities. Domestic fundamentals remained resilient.",
-          "i": "The Nifty and Sensex extended their slump for the 5th consecutive session. Indian <span class='term' data-t='inflation'>equities</span> faced pressure as global headwinds overshadowed domestic fundamentals. Market participants digested diverging signals across indices.",
-          "a": "The Nifty and Sensex registered a 5th consecutive session of losses. Global headwinds continued to trump resilient domestic fundamentals in the transmission of cross-border risk. Investors parsed diverging index signals ahead of the upcoming week.",
-          "gloss": "inflation",
+          "b": "The Nifty and the Sensex are major stock indexes, which are tools that track the performance of a group of companies. Both indexes fell for the 5th day in a row. Global pressures created this downward pressure.",
+          "i": "The Nifty and the Sensex extended their slump for the 5th consecutive session. Global headwinds created negative sentiment that overshadowed domestic fundamentals across the market.",
+          "a": "The Nifty and Sensex logged a 5th consecutive day of losses as global headwinds overwhelmed domestic fundamentals. Price action across major indices reflects persistent distribution driven entirely by exogenous sentiment.",
           "links": [
-            "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUZmdWlWb1duY25Kd1VPVWRiYllMRGxzTGxGZjRXTVpFNFdzVHdwc254Y3FZZXA0TFpkUFNqeUdvQktMM0hHVlFyYVloSy0xenAzR1gzVnk3d1ktWTViNzNaenAwM0lJX3ZjZmdSSGptTnVvT21zcnNTUzd2MFNSSw?oc=5",
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSVJmUVJRdTBpdlE1S2dUZWZqRGxPMmtqNFJMTGZDVTNldGttTUV6LVJzTnpFbHFITTInfTYwcG9zR085aF90N2wzb3JrNERtaDhJOG91ZGRLRXdVU3pZRmJqcHF1ekR4MWJUMnQ2bDBzckZ5SWRDQjZfbjVsUHUyWWJhRDdxQXZkZnI4MndJWDJyMVlJMUZBWkNMNkcyQ0tyQnFobGJkUmtSd2ZPYVJyWVpuYkM3U1pNUW55aDF3U3p2RkVjZEItLWM0WTBXVkRnTmpRTDJ5ZXFtNlg1UFZQc2xmaXpsdldsWE5aQmh3c9IB_AFBVV95cUxPRS1CR2Uwb0lWZ0d2cklmTEVHcUNNTHFTQTRQcjhFbDlWT1Fqek1lbXlvaTVsR3d5cTVEd2d4VUtJRGt3OHdoV2VRMVhiUno4M0JlSFUzaXhueXMwWWNDaU83cmZlWW5LX1pMVEhQMlUzWnpKejlUdzMzY0N4YTM4NGNUeEZOWXZOZzVGQWs2a0lOQXgxVXlUcWYwREt0MmF5dWVKS193bHBQRmk1T3g1NUFrcUVXWUx0aTRMTzBOeTJJMEpmc3NaTTFuLXJpSERwS3pnT0VjQzNiVlJpVjluRmJOaTR0Sm9IekthdkoxZ0hBY29JNE8zVDAzaHE?oc=5"
+            "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUZmdWlWb1duY25Kd1VPVWRiYllMRGxzTGxGZjRXTVpFNFdzVHdwc254Y3FZZXA0TFpkUFNqeUdvQktMM0hHVlFyYVloSy0xenAzR1gzVnk3d1ktWTViNzNaenAwM0lJX3ZjZmdSSGptTnVvT21zcnNTUzd2MFNSSw?oc=5",
+            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSVJmUVJRdTBpdlE1S2dUZWZqRGxPMmtqNFJMTGZDVTNldGttTUV6LVJzTnpFbHFITTFnNjkwcG9zR085aF90N2wzb3JrNERtaDhJOG91ZGRLRXdVU3pZRmJqcHF1ekR4MWJUMnQ2bDBzckZ5SWRDQjZfbjVsUHUyWWJhRDdxQXZkZnI4MndJWDJyMVlJMUZBWkNMNkcyQ0tyQnFobGJkUmtSd2ZPYVJyWVpuYkM3U1pNUW55aDF3U3p2RkVjZEItLWM0WTBXVkRnTmpRTDJ5ZXFtNlg1UFZQc2xmaXpsdldsWE5aQmh3c9IB_AFBVV95cUxPRS1CR2Uwb0lWZ0d2cklmTEVHcUNNTHFTQTRQcjhFbDlWT1Fqek1lbXlvaTVsR3d5cTVEd2d4VUtJRGt3OHdoV2VRMVhiUno4M0JlSFUzaXhueXMwWWNDaU83cmZlWW5LX1pMVEhQMlUzWnpKejlUdzMzY0N4YTM4NGNUeEZOWXZOZzVGQWs2a0lOQXgxVXlUcWYwREt0MmF5dWVKS193bHBQRmk1T3g1NUFrcUVXWUx0aTRMTzBOeTJJMEpmc3NaTTFuLXJpSERwS3pnT0VjQzNiVlJpVjluRmJOaTR0Sm9IekthdkoxZ0hBY29JNE8zVDAzaHE?oc=5"
           ]
         },
         {
-          "t": "TCS commits billions to Hyderabad artificial intelligence campus",
+          "t": "Tata Consultancy Services funds AI data center campus",
           "src": "Briefs Finance",
-          "b": "Tata Consultancy Services committed 700 billion rupees to build an artificial intelligence data center campus. A data center is a large facility that houses computer systems. The project is located in Hyderabad.",
-          "i": "Tata Consultancy Services allocated 700 billion rupees for an artificial intelligence data center campus. The massive infrastructure project is stationed in Hyderabad. Corporate capital expenditure targeted digital infrastructure growth.",
-          "a": "Tata Consultancy Services deployed 700 billion rupees toward an artificial intelligence data center campus in Hyderabad. Capital allocation concentrated heavily on domestic tech infrastructure expansion. The investment underscored enterprise scaling within the sector.",
+          "b": "Tata Consultancy Services is a major technology company. The firm invested 700 billion rupees into a new artificial intelligence data center campus. This massive facility is located in Hyderabad.",
+          "i": "Tata Consultancy Services committed 700 billion rupees to build an artificial intelligence data center campus. The massive infrastructure project is stationed in Hyderabad.",
+          "a": "Tata Consultancy Services allocated 700 billion rupees toward an artificial intelligence data center campus. The large-scale infrastructure investment expands regional compute capacity in Hyderabad.",
           "links": [
             "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVZXNTI3LVdkR2x5RGdTU25SNS1fRGp3UHdHS19yUWVtREU4UUdnUWdEQUUyZzJHQjA3YnEtenR1TzUxOVBwQTUzSnItbjdoZmtPbmdUUHZHeWE5QkdXRHBmYlN4NVB1SHBLRGpJYnh6ck9FZ1VzV0pjSkFVdVZIYTg0Z2F4WjF3QjhnVTNqT0J3Zw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Market participants monitored global events and local currency strength. Analysts forecasted future exchange rates for the Indian rupee. Luxury real estate prices reached new milestones in Chandigarh.",
-        "i": "Market participants tracked currency strength and foreign exchange forecasts projecting the Indian rupee toward 92 against the US dollar. Luxury real estate demand expanded into Chandigarh. Trading desks evaluated derivative signals ahead of the next session.",
-        "a": "Currency appreciation dynamics altered crypto trading behaviors for domestic investors. Foreign exchange forecasters targeted a recovery to 92 for the US dollar against the Indian rupee by 2027. Prime residential valuations crossed billion-rupee thresholds in regional markets.",
+        "b": "Market reports focused purely on financial indices, currency movements, and corporate technology investments.",
+        "i": "Market commentary stayed confined to asset price movements, index slumps, and corporate capital expenditure.",
+        "a": "Coverage remained strictly focused on financial asset performance, corporate capital allocation, and equity index declines.",
         "sources": {
           "0": {
-            "outlet": "Cryptonews.net",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94THJ6SzhNQkZhdy1fUmJDU0lFMjVxbDVGNU9hNVRVS1pTZE5kXzJxWkFrT2VpTF9jTXk5S2pXaXpHWnJmbVdCY1d1QWVCdzdNbzlteUZKbVo?oc=5"
-          },
-          "1": {
-            "outlet": "Exchange Rates Org UK",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFNOeldzUVgxZ3pFaURLcnZGc1RCbDRFWFRvZE5Ta1BuUkVOZFFCTHhEVGZTRE0weWVZcnBISFRBeWVudHdwa3R5YldySzlvRGsycTBmOTd3bURoaHg3VXhVTmVObDRsSVlJQzBBaFZIN0xDX1kxVVh5amlUaFFCaTlXQXhQS0FqcnV0YXllTzd5eHpMT21Bdm5uWHVVdkc5ZGhfcEpKVGJQOXlRR0xKU25jYjVGeGNOMFpnNnhZWWFQdw?oc=5"
-          },
-          "2": {
-            "outlet": "The Indian Express",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXprOTRzeFZSRUFIOFRHV2taZXB1Q2pIUkMwSUxsaXFBQ0tDSTU2Wnh1dlZWdWRrWGk4OFNpNkhXTzJtUWRublZqcGpaQUZMY3Z4alB2ZldEUWJSX3NUMGw0LWdfc3FFZkNIYTBpQml2Sjg5UExWSFJpZy1fb3FxdVVpUVdUZVBLZS1ER3JaeWNnNGRiamZPMjIwVGJ6ZUNYcTVCTHFucVhqM1FlcTY3TkktSdIBugFBVV95cUxPMVdmb0RWNjBWMFRWaXFUV2tBSEFlWElPYmctSDVFdGFJN2l2UmkzTHJ3SXpRT1ZKMk5TcVVLTVlJamJSQ2tsbk5LQzdtUGFnWFVBbFZFeVRxeElKSGVOaDVNRlZDOXdqVlhSTm84VWNPdzBBRnd5ZjBQOUJhYXVSa1pYVXpJMUFXVFZFYjdRZEFoNUJseF9seDlnTkJYcU1WYUs2SVJYeWZPTnprUG4wS0JWempId1V2b3c?oc=5"
+            "outlet": "News On AIR",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZUZmdWlWb1duY25Kd1VPVWRiYllMRGxzTGxGZjRXTVpFNFdzVHdwc254Y3FZZXA0TFpkUFNqeUdvQktMM0hHVlFyYVloSy0xenAzR1gzVnk3d1ktWTViNzNaenAwM0lJX3ZjZmdSSGptTnVvT21zcnNTUzd2MFNSSw?oc=5"
           }
         }
       },
       "timeline": [
         [
           "5 Sep 2026",
-          "TCS committed 700 billion rupees to an artificial intelligence data center campus in Hyderabad."
+          "Tata Consultancy Services announced a 700 billion rupee investment for an AI data center campus in Hyderabad."
         ],
         [
           "5 Sep 2026",
-          "The Nifty and Sensex indices extended their slump for the 5th consecutive day."
+          "The Nifty and Sensex extended their losing streak to 5 consecutive sessions."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras output, auctions and Amazon drilling permissions",
+      "sub": "Petrobras output rallies and Amazon drilling advances",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras secures auction barrels alongside Chinese state energy firms",
-          "src": "CPG Click Oil and Gas · Nikkei Asia",
-          "b": "Petrobras and PetroChina bought 1 million barrels of oil from the Union. This happened at the 8th spot auction. Other companies like CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies also tried to buy. Chinese energy firms have stepped up their involvement in Brazil for imports and oil field exploration.",
-          "i": "Petrobras and PetroChina secured 1 million barrels of oil from the Union at the 8th spot auction. Rival bidders at the sale included CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Chinese energy giants continue expanding their footprint in Brazil for imports and oil field exploration.",
-          "a": "Petrobras and PetroChina claimed 1 million barrels of oil from the Union via the 8th spot auction, outcompeting a slate of international majors including CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Chinese energy conglomerates are systematically scaling participation in Brazilian upstream assets and import channels.",
+          "t": "Petrobras secures oil auction and drills new wells",
+          "src": "CPG Click Oil and Gas",
+          "b": "Petrobras and PetroChina bought 1 million barrels of oil from the Union at the 8th spot auction. They competed against firms like ExxonMobil and TotalEnergies. Ibama also adjusted an operational license to authorize Petrobras to drill 3 additional wells in the Amazon's FZA-M-59 block.",
+          "i": "Petrobras and PetroChina secured 1 million barrels of oil from the Union at the 8th spot auction against competitors including CNOOC and Equinor. Ibama adjusted an operational license to permit Petrobras to drill 3 additional wells in the Amazon's FZA-M-59 block under new restrictions.",
+          "a": "Petrobras and PetroChina acquired 1 million barrels of oil from the Union at the 8th spot auction, prevailing over CNOOC, Equinor, ExxonMobil, Galp, and TotalEnergies. Ibama adjusted operational licensing parameters to authorize Petrobras for 3 additional wells in the Amazon's FZA-M-59 block subject to new restrictions.",
           "links": [
             "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbFBUSC1uRXFtYllYVThtNjRWTTBXdWVDS0ZDUEZITUh3Z08zZk5uU1V1RVFHb0N6SG44ZHV6WVFZX1NReVU1Y000N3V6b2RERzV6Q2V1QUtrb2ZHRWxVaDF6VnNWb1hXeURaWW5qZTRMQ25qQUJ6aFJnaVphSHJ4ZmRJRURUdGh3Z1RnSHdxYllibEk2TDRZUU0zbE5yYWJveHFrV0VnY1RYYUl3ZFU5SFQya3QzcUwtcDA4OHRuVDJSMEg4RTJoa3FxNUo3OExJbnVOT2NndzVwS3RXVm9yOUEycm5tckozd0k2R0RNbHdJNHRlMERDWFpMbVJ1UFdPYVQtSElqbjdWbGZPY1ZZMw?oc=5",
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkZNQmxVRml1cXdxYm1lYkVISmk2bDU3Mzg2eXFNNVNkbnA4ZUtUU0ZnTy1wUjlCcXFlNDdyR3RVdDhpR09JM2JZWFcxanBENjNHXzk4V2RpUTRGRFJ5V3hfTGtKaXFZcEpuZmhtNGtSVFpHSHRSWWtpSVF5VjBjVHFBRUIyZ0sxNVpLdFEwbWNBeEM2U3I2YkNpcDNUQV8wVm5FQ2pVaFpQUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMzVkS0k4UDV5QnMtMFZlMGw4OXY3bGtPRy1xUUp4cUhWTkttbkhvMFp6bDN5RE5URDZxRnJmajRtbjlERjBBRldhX1lrZVByaGFuRGYwa2Z3MG5FcUhZaDNZNlIwQXViSy1xWnZOMFpyUTdZU05zUWlqNWV4ZjBVX09jMnNsR3k4RXlpem5mMFhaWWdiSDVCRjJYZS1iQkIxMU1aVFJYalg3aEFGZnk1OVVKbEpMdlJSRFd5eWNhLW5mWm9DTmVyUEpkYlNvNlZicjJyOTUwSUp1bG1QVmxEcGh0Z2tJVXdhZnRoaGYyaG02Snk2R2dla0s5Wk5CVWtXT2ZZd28xX0t6WVBO?oc=5"
           ]
         },
         {
-          "t": "Ibama adjusts license for Amazon drilling as Petrobras stock rallies",
-          "src": "CPG Click Oil and Gas · AD HOC NEWS",
-          "b": "Ibama adjusted an operational license to let Petrobras drill three extra wells. These wells are located in the Amazon's FZA-M-59 block, subject to new restrictions. Meanwhile, Petrobras stock extended a strong 2026 rally. This share price rise follows record second-quarter output.",
-          "i": "Ibama adjusted an operational license to authorize Petrobras to drill three additional wells in the Amazon's FZA-M-59 block under new restrictions. Petrobras stock extended its strong 2026 rally, bolstered by record second-quarter output figures.",
-          "a": "Ibama modified an operational license permitting Petrobras to sink three additional wells in the Amazon's FZA-M-59 block under stringent new restrictions. Petrobras equity continued its robust 2026 upward trajectory, catalyzed by record second-quarter production volumes.",
+          "t": "Petrobras stock extends rally on production figures",
+          "src": "AD HOC NEWS",
+          "b": "Petrobras stock extended its strong 2026 rally. The gains followed record second quarter output figures. Eztec stock also traded on B3 as investors watched real estate figures.",
+          "i": "Petrobras stock extended its 2026 rally following record second quarter output. Eztec stock traded on B3 as investors monitored the latest Brazilian real estate figures.",
+          "a": "Petrobras stock extended its 2026 rally on the back of record second quarter output. Eztec stock traded on B3 amid ongoing investor focus on domestic real estate metrics.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMzVkS0k4UDV5QnMtMFZlMGw4OXY3bGtPRy1xUUp4cUhWTkttbkhvMFp6bDN5RE5URDZxRnJmajRtbjlERjBBRldhX1lrZVByaGFuRGYwa2Z3MG5FcUhZaDNZNlIwQXViSy1xWnZOMFpyUTdZU05zUWlqNWV4ZjBVX09jMnNsR3k4RXlpem5mMFhaWWdiSDVCRjJYZS1iQkIxMU1aVFJYalg3aEFGZnk1OVVKbEpMdlJSRFd5eWNhLW5mWm9DTmVyUEpkYlNvNlZicjJyOTUwSUp1bG1QVmxEcGh0Z2tJVXdhZnRoaGYyaG02Snk2R2dla0s5Wk5CVWtXT2ZZd28xX0t6WVBO?oc=5",
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE5XeHhXVldxb2JTakI0c2NzSnZ4ZXN6dmJkY1Z3YlQ5RVIzRHAwZ3l3OFMzVkpfMVlZXzREU0VFUWhMQl9wV3VZUzFLMXRNczRsUzhZbFlhOHhhRHI3WGxld2FXMFM3QW4wa1JIUi1XbVJhalNqWUgzZ0FpRXBvN1d2dHZ4c0ZVNTNyWUpDQ3dpSUtVM0l5MVJUcWNzT1dMczl3Q1NzQVIwcVgwc084V29mUVMxVVlpLXRKRA?oc=5"
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE5XeHhXVldxb2JTakI0c2NzSnZ4ZXN6dmJkY1Z3YlQ5RVIzRHAwZ3l3OFMzVkpfMVlZXzREU0VFUWhMQl9wV3VZUzFLMXRNczRsUzhZbFlhOHhhRHI3WGxld2FXMFM3QW4wa1JIUi1XbVJhalNqWUgzZ0FpRXBvN1d2dHZ4c0ZVNTNyWUpDQ3dpSUtVM0l5MVJUcWNzT1dMczl3Q1NzQVIwcVgwc084V29mUVMxVVlpLXRKRA?oc=5",
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHM3WV9HTUxIMVJsS1VlbjFCUUdzNGNmQ2JSRzh5bVdnLTNSQjNYZHJ0NVhsTVR0TmVDMmpTa2FacVFCbjJBaURTM2JvMG43d211Tm9GVW13ajFJSGFPZlJvWWxLUkFHeFFwd01ZTUtNRzV2Ym50MWRNVmlGNENSSEdJR1pYWTZHVE5ubDEzUktrUDFUcjB2V0gzUk45TlZrcVhjLVc1RFFIUWVwNWVvVHdMc2dBcUlfZzQteTVPR1ZNLXIwbVZacVhmVQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government bodies regulate oil drilling licenses in ecological zones. State auctions distribute shares of extracted petroleum resources to competing corporate bidders.",
-        "i": "Environmental regulators manage operational permits for offshore exploration blocks. State-run energy auctions allocate sovereign oil bundles to domestic and international bidders.",
-        "a": "Regulatory oversight by agencies like Ibama dictates operational timelines for frontier blocks such as FZA-M-59. State resource auctions mediate access between sovereign holdings and multinational hydrocarbons conglomerates."
+        "b": "There is no political news reported for Brazil today.",
+        "i": "No political updates or government policy announcements were recorded for Brazil.",
+        "a": "No sovereign or political developments were registered in the reporting period."
       },
       "timeline": [
         [
           "5 Sep 2026",
-          "Eztec stock trades on the B3 exchange amid real estate figures"
+          "Ibama adjusts operational license for Petrobras to drill 3 wells in block FZA-M-59."
         ],
         [
           "5 Sep 2026",
-          "Petrobras and PetroChina acquire 1 million barrels at the 8th spot auction"
-        ],
-        [
-          "5 Sep 2026",
-          "Ibama adjusts operational license for three additional wells in FZA-M-59 block"
+          "Petrobras and PetroChina acquire 1 million barrels of oil from the Union at the 8th spot auction."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco deals and oil production metrics",
+      "sub": "Aramco deals and oil output metrics",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco signs French agreements and standardises workflows",
+          "t": "Aramco Signs French Deals and Digital Pacts",
           "src": "Energies Media · Portal ERP",
-          "b": "Saudi Aramco signed deals worth $3.7 billion with French companies. These agreements cover drilling equipment and artificial intelligence technology. Aramco Digital also chose ServiceNow to standardise global workflows.",
-          "i": "Saudi Aramco signed $3.7 billion in potential contracts with French firms for drilling equipment and artificial intelligence. Meanwhile, Aramco Digital selected ServiceNow to standardise its global workflows.",
-          "a": "Potential agreements totalling $3.7 billion span French vendors across drilling hardware and artificial intelligence integration. Simultaneously, the digital division operationalised ServiceNow for global workflow standardisation.",
+          "b": "Saudi Aramco signed deals worth $3.7 billion with French companies. These agreements cover drilling equipment and artificial intelligence technology. Aramco Digital also chose ServiceNow to standardise workflows around the world.",
+          "i": "Saudi Aramco concluded $3.7 billion in agreements with French entities focusing on artificial intelligence and drilling gear. Simultaneously, Aramco Digital selected ServiceNow to streamline its global operations.",
+          "a": "Saudi Aramco executed $3.7 billion in prospective pacts with French counterparts targeting artificial intelligence and drilling apparatus. Concurrently, the digital subsidiary integrated ServiceNow to standardise operational workflows globally.",
           "links": [
             "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10XzBKU0hPMDRzUUVQWkVYWEN0M1lIcW93bFhkTElxZFFmM1B0V2dNYW0tYXRQUGJRSlNZRG1yaVhjV3Zpc3JzRXYwRWxTbVY0WURLTXJadTFSLTlVcFVMTkl5RzQ1X0I3?oc=5",
             "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSVZIMUpDelk1eDRrXzd2RTRZbFBEcWR5ZkVnOHJxNUwtbTJtS3dtcC1LdTFkVEdCX3JOSm9VWmszNkxjel8wbWZTZ1prWmVlTllHQjFBS3ZxSzM4bWVGYU9TRzRfaWk1X3JmRUtybXphQzFuWk5zV05RaUl3OU1zOHNMMVItcEJMSWc0TmVNdGxaWDUzeE5ZQ3ZROA?oc=5"
           ]
         },
         {
-          "t": "Crude output and export figures",
+          "t": "Crude Output and Exports Rise",
           "src": "EnergyNow.com · Arab News PK",
-          "b": "Saudi Arabia recorded its highest crude output since 2022 in February. February crude exports also increased according to JODI data. Oil production bounced back to 75 percent of its level before the attacks.",
-          "i": "JODI data showed Saudi February crude exports rising alongside output reaching its highest point since 2022. Saudi oil production recovered to 75 percent of the pre-attack level.",
-          "a": "Joint Organisations Data Initiative metrics place February crude output at its highest mark since 2022 alongside increased export volumes. Production metrics demonstrate a recovery to 75 percent of pre-attack capacity.",
+          "b": "Saudi Arabia raised crude oil output to the highest level since 2022 in February. JODI reported that February crude exports also increased. Meanwhile, oil production recovered to 75% of its pre-attack level.",
+          "i": "Saudi Arabia lifted crude output to its highest mark since 2022 during February according to JODI data. February crude exports registered gains alongside this production surge. Oil output subsequently recovered to 75% of pre-attack volume.",
+          "a": "JODI figures indicated Saudi crude output scaled peaks not witnessed since 2022 through February. February crude exports expanded in tandem with the output acceleration. Production recovery metrics reached 75% of pre-attack capacity.",
           "links": [
             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVdCYUdFRGpwMnB5ODFZUGFBQlBhNi1wOVJTa3d5UFRXTVB5aVV4YXppZVdINTBZazl3X2thcS10LWRMaXNPekJwMVI0X0lFVEJUUmlYSnBtUFB2c2tZRGswaW1lTlhRWXAtOUVFV295RWJEWHA2UUtGYk1ibGlDcXJzdWtLcGdWVE5lQjE5dkRFS1JWLUFObWlfQVdpNXZQS0JjZDJTQUg?oc=5",
             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRC1NUi1VeTJwU0hmUUc1WVB1X3pOQnp5N2QwU0VkMXFtN0ZVLTN0TmtnSENHUmVSNTJ3X3Q3SUVrLWdzODQ0V2VzNGI4LVI2UFBCdWhsaGRtTDh3NnZPUFNGcjltbjFZNmVJYndMV0EzN0xLVXJ5eVJPaGxtVmtRcEpkS0R5RUJTQzh6ekpVakxOSjdaYTNNMUF6MHk0djVlM3ZPa05KMnR0WXc?oc=5"
@@ -372,127 +388,111 @@
         }
       ],
       "politics": {
-        "b": "HSBC looked at the United Arab Emirates leaving OPEC+. The bank thinks this departure will have a limited near-term impact on the oil producer group.",
-        "i": "HSBC evaluated the departure of the United Arab Emirates from OPEC+. The analysis indicates limited near-term consequences for the organisation.",
-        "a": "HSBC assessed the exit of the United Arab Emirates from OPEC+, projecting constrained near-term structural implications for the cartel.",
-        "sources": {
-          "0": {
-            "outlet": "EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHFSLWEzMUl3REluZXZybVJJODlGMldnVGs3akNfYnFvYXVyLTFkVm8teGVvRGN1R1ZWYWczbndKbzNQZExMemwwa0RHbm1DNXZQaVFJR2d0Q21kM2c0blNOT2JWT3FiTThPX1A4TDVycVBpWk8xY0RGUVBJdTBQdmhxd2dyYUs0M0VxRVNFeWtMWjByQWZ1Ug?oc=5"
-          }
-        }
+        "b": "HSBC expects the departure of the UAE from OPEC+ to have a limited near-term impact. Commerzbank noted flow uncertainties in the Strait of Hormuz. Meanwhile, Sechin stated that China holds responsibility for global energy markets.",
+        "i": "HSBC projected minimal immediate effects on OPEC+ following the UAE exit. Commerzbank highlighted flow uncertainties surrounding the Strait of Hormuz. Sechin attributed primary responsibility for global energy markets to China rather than OPEC or the United States.",
+        "a": "HSBC forecasted muted near-term structural repercussions for OPEC+ resulting from the UAE departure. Commerzbank underscored ongoing logistical flow uncertainties through the Strait of Hormuz. Sechin designated China as the primary driver of global energy markets over OPEC or the United States.",
+        "g": "null"
       },
       "timeline": [
         [
-          "05 Sep",
-          "Saudi Aramco signed 3.7 billion dollars in potential deals with French firms and JODI published February export data."
+          "5 Sep 2026",
+          "JODI reported February Saudi crude output reached its highest level since 2022."
+        ],
+        [
+          "5 Sep 2026",
+          "Saudi Aramco signed $3.7 billion in potential deals with French firms."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira exchange rates and foreign exchange turnover",
+      "sub": "Naira movements and foreign exchange turnover",
       "ind": [],
       "stories": [
         {
-          "t": "Naira trades at N1,322.50 per dollar amid lower turnover",
-          "src": "PM News Nigeria · streamlinefeed.co.ke · Business Post Nigeria",
-          "b": "The Nigerian currency changed hands at N1,322.50 against the United States dollar. Foreign exchange turnover dropped by 33% over the week. The official market recorded the exchange rate at N1,321 per dollar after shedding 0.42%. The local currency gained 13 Naira earlier in the period.",
-          "i": "The naira settled at N1,322.50 per dollar as weekly foreign exchange turnover contracted by 33%. Official market figures showed the currency shedding 0.42% to trade at N1,321 per dollar. These moves followed an earlier intraday gain of 13 Naira.",
-          "a": "Spot transactions settled at N1,322.50 against the greenback alongside a 33% contraction in weekly foreign exchange turnover. Official matching placed the rate at N1,321 after a 0.42% depreciation, retracing a prior 13 Naira appreciation.",
+          "t": "Naira Trades at Official Market Amid Falling Turnover",
+          "src": "PM News Nigeria",
+          "b": "The official market price for the Nigerian currency changed to N1,322.50 against the dollar. This happened as the total amount of foreign currency traded during the week dropped by 33%. A currency's turnover is the total value of trades changing hands over a period. Lower trading volume can make price swings larger. The rate settled at N1,322.50 per dollar.",
+          "i": "The official market recorded the naira closing at N1,322.50 per dollar alongside a 33% contraction in weekly foreign exchange turnover. Lower liquidity typically amplifies volatility in currency trading sessions. The official rate reflects the price set through sanctioned trading windows. The naira traded at N1,322.50 against the dollar at the close of the week.",
+          "a": "The official fixing printed at N1,322.50 per dollar as weekly foreign exchange turnover plummeted 33%. Reduced market depth exacerbates intraday price sensitivity to order flow imbalances. Liquidity contraction complicates price discovery in the official segment. The session concluded with the naira at N1,322.50 against the dollar.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmdJdFR0ZENwRkNBeDMzMkQyNW9GZ2NFanFMalhWNThNSWtfc295VU1NR3hqNzUzSTVFSS00el9teGRrWWFyWWZ1NDBlSV9lcmx1YXZfeXM5Nk9yQTJDYzNDdUFQbVpEWk1tb0lKbkFPTnd0a1dBX19MYnk3RTRFalZ2bXUzWDB0LXhpQjlOaElBWHU2VHRlTA?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUU50SE5DTHl2ako5anlla3pKR0F1QU9Za0tXcE4zbnVRNllvWWM1UVJOanZjaFJWbjdTLUoyRy1FeFhKYnFBMVJBb0M3SE5URTlZaHpCeDJHREJLMHQ1OFB0SnQtNU5fc0s4UEVFQ2pHSWIzbGxjSHEteWZ1cTVXR1JadjJHbFI5ZjBhRm5VM0dxZw?oc=5",
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTF3Z0FBaFZBM0pwem43TF9BNTNEYmZ0eXVYaFFaaHE3SHZaaHFYb0FES3dtREFvSnM0VkRUNnJIb3dzSnp0VFJPbWc1bVJjY2Rna1R0VTdfNU1CT2E0MlhMSXBLcmRGODVKVVFlNnJMd1gxZU5fS2pVYnpyZE5xU2xrRWZiSlFSeGZBeFJBUDNPQTFMckxhUGVPdFRubms?oc=5"
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmdJdFR0ZENwRkNBeDMzMkQyNW9GZ2NFanFMalhWNThNSWtfc295VU1NR3hqNzUzSTVFSS00el9teGRrWWFyWWZ1NDBlSV9lcmx1YXZfeXM5Nk9yQTJDYzNDdUFQbVpEWk1tb0lKbkFPTnd0a1dBX19MYnk3RTRFalZ2bXUzWDB0LXhpQjlOaElBWHU2VHRlTA?oc=5"
           ]
         },
         {
-          "t": "Dollar reserves reach 18-year high as oil earnings rise",
-          "src": "Legit News · Nairametrics",
-          "b": "Nigeria expanded its dollar reserves to an 18-year high. Higher oil earnings drove the accumulation of foreign currency. Despite these larger reserves, the exchange rate remained above the N1,000 per dollar threshold.",
-          "i": "Foreign exchange reserves climbed to an 18-year peak bolstered by elevated oil earnings. Higher petroleum revenues expanded the reserve buffer. Despite this external accumulation, the naira failed to reach the N1,000 per dollar level.",
-          "a": "Sovereign foreign exchange reserves printed at an 18-year high supported by increased hydrocarbon export revenues. The resulting liquidity influx failed to catalyze a convergence toward the N1,000 per dollar target.",
+          "t": "Foreign Reserves Reach Eighteen-Year High While Exchange Rate Lags",
+          "src": "Business Post Nigeria · legit.ng",
+          "b": "Nigeria's foreign currency reserves reached an eighteen-year high level. Higher oil earnings contributed to the growth of these dollar savings. Despite these large dollar holdings, the exchange rate has not yet reached N1,000 per dollar. The official market recorded a rate of N1,321 per dollar after shedding 0.42%.",
+          "i": "Nigeria's foreign reserves touched an 18-year peak supported by elevated oil earnings. Higher external buffers have yet to propel the naira to the N1,000 per dollar threshold. The official market registered a 0.42% decline, sending the exchange rate to N1,321 per dollar.",
+          "a": "External reserves scaled an 18-year high on the back of increased oil earnings. The transmission from expanded sovereign hard currency buffers to spot currency appreciation toward the N1,000 per dollar target remains constrained. Official spot quotes slipped 0.42% to trade at N1,321 per dollar.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjQzZlJfN3MtUXNzQUJ3djVONUdZY3lGaFVmWEQ4RV8wbURYUmtvcmxzNDVHSHpRVndjT1h5MGFQV2Nsd29UVEc4bW5RRXdMYXZOcVdGbV9hcmtQTUhKZHNHNzR0NXdWYXdzNW5hMUdnLTItc1hncXhVU2pzZlhGT0N3ZHdXTUVwVUhHNnZraEJ2T3Z5aUdWbHJmX3lmTzNvakhmZWE5c3pUdy1qbUxIbThRNU9xWXBFT3ZjdmRqUGFyTXQtZXlIMV9HWGNTQ1dsTUR2Mg?oc=5",
-            "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSk53ZU0zQm9TdE5DYUtURkdKa2JHTDAyQ0Robk81TzlPTUdKWlktOFpHeUZMdWpCczZTTm5RWFhyb1pYWGt6ZVZIaGNFV084Y3NheDdaalluQ2MzdVZFNE5xN3RBTjhXbnJubnFUMWZrZmxFMXlNdWxkUEYtQjFTSHBCRQ?oc=5"
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTF3Z0FBaFZBM0pwem43TF9BNTNEYmZ0eXVYaFFaaHE3SHZaaHFYb0FES3dtREFvSnM0VkRUNnJIb3dzSnp0VFJPbWc1bVJjY2Rna1R0VTdfNU1CT2E0MlhMSXBLcmRGODVKVVFlNnJMd1gxZU5fS2pVYnpyZE5xU2xrRWZiSlFSeGZBeFJBUDNPQTFMckxhUGVPdFRubms?oc=5",
+            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjQzZlJfN3MtUXNzQUJ3djVONUdZY3lGaFVmWEQ4RV8wbURYUmtvcmxzNDVHSHpRVndjT1h5MGFQV2Nsd29UVEc4bW5RRXdMYXZOcVdGbV9hcmtQTUhKZHNHNzR0NXdWYXdzNW5hMUdnLTItc1hncXhVU2pzZlhGT0N3ZHdXTUVwVUhHNnZraEJ2T3Z5aUdWbHJmX3lmTzNvakhmZWE5c3pUdy1qbUxIbThRNU9xWXBFT3ZjdmRqUGFyTXQtZXlIMV9HWGNTQ1dsTUR2Mg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Property worth millions was destroyed in a market fire in Kano. Local traders suffered heavy financial losses from the blaze. Authorities have not yet reported the cause of the incident.",
-        "i": "A commercial fire in Kano destroyed property valued at millions of Naira. The blaze affected traders operating within the local market structure. Emergency services responded to the disaster.",
-        "a": "A destructive fire event struck a commercial district in Kano, annihilating inventory valued in the millions. Local enterprise continuity suffered an immediate shock from the infrastructural loss.",
-        "sources": {
-          "0": {
-            "outlet": "thesun.ng",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHE3X29Ca3V4WFVVMjhhRW1SWlFBUGVJaExaMmVmbHlTUzk4WWg5d3ExMlR6SUI0SENwbGI3aWFBekh3a0ZHdWxwOUpNSjByekdfQXBjeC1QUnVpYm45bHdKc0xjVEU0aGRLckV3Q2l3LWNOX0N2dURWUDlURGhIVnVZbFl1VEptZmJQc3ZuQS0xV0l5WUJz?oc=5"
-          }
-        }
+        "b": "Government officials managed the foreign currency reserves as oil earnings entered state accounts. Market regulators watched the exchange rate fluctuate near N1,321 per dollar. Local authorities reported on property damage after a fire incident in Kano.",
+        "i": "State institutions monitored foreign reserve accumulation alongside petroleum revenue inflows. Kano authorities assessed commercial losses following a major market fire. Central administrators tracked official exchange rate adjustments.",
+        "a": "Sovereign asset managers processed hydrocarbon revenue streams as external reserves reached an 18-year high. Municipal authorities in Kano responded to commercial property destruction from a localized fire disaster. Regulatory bodies observed official foreign exchange pricing dynamics."
       },
       "timeline": [
         [
           "5 Sep 2026",
-          "Naira traded at N1,321 per dollar at the official market"
+          "Foreign exchange reserves hit an 18-year high"
         ],
         [
           "5 Sep 2026",
-          "Weekly foreign exchange turnover dropped by 33%"
+          "Weekly FX turnover drops by 33%"
         ],
         [
           "5 Sep 2026",
-          "Nigeria dollar reserves reached an 18-year high"
+          "Naira trades at N1,321 to N1,322.50 per dollar"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Corporate earnings, dividends and index changes",
+      "sub": "Corporate earnings reports and banking sector activity",
       "ind": [],
       "stories": [
         {
-          "t": "ASX Listed Companies Report Earnings and Board Shifts",
-          "src": "simplywall.st",
-          "b": "Flight Centre, Paladin Energy, Nickel Industries, Woolworths Group and EQ Resources posted higher earnings or profit rebounds alongside board changes and dividend increases. Flight Centre, Paladin Energy, Nickel Industries, Woolworths Group and EQ Resources are companies listed on the Australian stock exchange. A company's board is a group of people chosen to guide the business. A dividend is a share of company profits paid to its owners.",
-          "i": "Flight Centre, Paladin Energy, Nickel Industries, Woolworths Group and EQ Resources recorded stronger earnings and profit rebounds alongside dividend lifts and new director appointments. These ASX-listed firms altered their investment narratives through these financial results. Corporate earnings drive equity valuations across the financial sector.",
-          "a": "Flight Centre, Paladin Energy, Nickel Industries, Woolworths Group and EQ Resources updated market expectations via earnings recovery, dividend increases and governance modifications. These operational metrics re-price the risk premium embedded in respective <span class='term' data-t='gilt'>equity</span> valuations. Analysts must reassess free cash flow yields following these corporate disclosures.",
+          "t": "Financial Sector and Resource Firm Updates",
+          "src": "The Motley Fool Australia · simplywall.st",
+          "b": "ASX 200 bank shares led a financial sector rebound last week. Sandfire Resources reported earnings alongside a dividend payout of A$0.35. Flight Centre announced a dividend lift and board changes alongside stronger earnings. Paladin Energy returned to positive earnings alongside higher sales.",
+          "i": "ASX 200 bank shares led a financial sector rebound last week. Sandfire Resources released financial year earnings alongside an <span class='term' data-t='gilt'>dividend</span> of A$0.35. Flight Centre reported stronger earnings, a dividend lift, and board changes. Paladin Energy returned to positive earnings on higher sales.",
+          "a": "ASX 200 bank shares drove a financial sector rebound last week. Sandfire Resources posted financial year results alongside an A$0.35 payout. Flight Centre introduced board changes alongside an earnings and dividend lift. Paladin Energy logged a return to positive earnings on higher sales.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRl92UVhURnNoeHB3djdYR2JyOG1zVkJIVVRKNEp4YXVIaFpUWEVNTkJBR3pUMG9jZ2s1VVExNl9faVBLQVFVQmFrUlhOWXNoTmFrM0dhVllUT0VhZHdzQmlSUFNCNjhtbmoxaWF2N1RtM2hlRDJiT1FoTkhfb0JFeG1EOEZ3TzFmSWVGTHo2Z1RaaUQ4TXFzVTFvaG9INzItYTdFREVYTjA1a1cyZFY1TmJPbDdBNlpQSUYzQjBncnoxZ1pFLURINko3bnIwTVd6dE5RY1djNmQ1OF91cU1NWXh2T3hsUEFCbVQwYjl30gHzAUFVX3lxTFBpdlZRR04zZ3oxbTdkemZ0bkdNZHAxZFI4dG5TU0xKMF9RMDRIeDhQc3VMMjRSX3NJNGVwMFVWSmlzUzlFaFZScGNMS25JalFYOUk0RWhQYlhXR3JOOEp3bjNWejJlaU9CZU5vZnk3a3hsS3F2Znl3Q21nVnV1LWFnTnBULTIzTjZqOHMyMjA5QUZkXzk4cUk2bGxUc3ljelh0SFVKTkw1ZUx3T3dVN2hRT2ZBM2Q4MS1rVGZwRHFneU4wMzBnU0dOTnE5ckhHdVdkakMwbjRYZmpZVWphQXRMenpvUy0wQlE4Vl9sM0E3eFdwRQ?oc=5",
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2FEUWVVVXhBaHF5TTQ3X3M4MThEallBeDVyeTNGT0tsYTc3M0QwR3FiYWdvSEEtLURPdk5tRHhVWFlKaHByQXM1c0h3QVR4Vmp0U2dKZHNMTGdscUxNUmZidXlBU0tDNEFxb1hVWldJS0pWWjFOTVZ6REZleFZLNUFWNkQwM2dFc2k5ZElEM01iSGQwdk5IejRUMjlCeF93R3ZzSlBJdGdCeGRnbUZkMGVNNFJFMGxEMDZDWkR6N25DNFNjZmlrMGhPVDJfdTDSAdQBQVVfeXFMTUVvLVRjVXZzRFJJUjQtSWhwWUVfZWtUVTd2YnBKYUhaai0xeElNWWdxSnYzOVVub0Q3X3ZHbFU1WmliUEtNclozdTJSWWRmR3I0LUdJeTdUQTZlS0ZSZzFwZER5Zi1QRGM4WFYzdk9ScmpDY2daa3NyU2QzNUV4RVRNeTgxcFdvejZPa0U0djdwb2NIODBhWndjLWExT3NDbjZIakhkUVBybGZ2LWdSR003SWJZa05CQU50cDF6QWhWa0JzUnFHMlRkYWJiVU5jMDFNSVg?oc=5",
-            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM3V4Vk9WZEFDQ0VoNVM4OVB2NkNuMFdoNzltRHJ3RnZSUGtFMFU1OUlwdllxMzhMbjRaSy1WdTVOdkhqYWZUMjFFUi1WNDhtVDlzNVYxRGhraG1DTHN4bW90RjRybV9pWU9tSmVYMWk1Q0JIRnh3aEtkdUFRdEVkc1dIdl9VZnNtaEV3RXUyTXdkaXVNem9icjFwd0hLWGNCQmpyRWVkaUJhdFBzaW05emtkcVJFV3VvWDd0OXlJOV90RGtlbThNdDI1VkUzdmtMTS1CSy130gHbAUFVX3lxTFA3U0NLdGh2NDVlS19xcC1acVVJWFBBRmhZR0lqSTV2cFRIX2xMR1RCSnMxdWQzTXB3cG9vZzd3dVhUUUlkQzQ1dDBYWWtXcEhnMlYwZG9aSC1DTmZ1azBwV2lMLVFUS2ZXQ2JHWWdkMHZDZXhKa1JzSktLVEtfQ3FSanZmRmRkaF9oOThBYTBzSWsyYnJaTHJlTXRzM0ZOcngtVjFuRXMzQW9CdnBWNUdKNkJLZFZ4clFTMkUwelM4TlBwMy1ILWJueDVjWGNGQzRhUjJ4NHdQcXlEaw?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdExkN091clhpSVdVaV9oZFN1MWg2UGlWckFBcFZIQmRReUl2anMyVFlNajlzTnBXbUZwRERSYjRBV25WVElZeTAzVmhtWXFDQzFQczNSMmVIUDgtalFrblFZVzN4LWVPZnVqSzZnRW1HQzFRWS1xRTBVczZIemlBem5WTFZSZTZWRjI2Q1g5WFRaa05wYXNHMDNRZWo3X1R3ckJSb281Ync4eWJJd1NsVWxhVkhVNFdjeThUWGRHWXpDaUdDTzMwRE1TanE4cGw50gHWAUFVX3lxTE94NHhQTXJWWU4zdGR3Y0V0ZWNkektqQ2NUbTJ3aDVKb1hvdHE4ekNpN256RS1tY0hYd2VTVlF1TllRamhrSktadXpxWU1NZk5KOHpxbTdWM3ZNUU5xZ2pUTzJuYjFRMVBlTU1UM3hrRHFuTFpHUWg3Q1ZHZEhwS0ZIdHloSjA2aWVVMjVDdEpQYkM5MmdfMjdGdUUwQ1UwVHJZMmNfbFhMeEswSlI1VG4tZnRoV2EwNy1aa0hCZTBXNzhrOFdzakpSMkhMcnp0ei04WnhRdEE?oc=5",
-            "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdDV4STByM0UwZFJpaXpMdHJCODVhNjVzS0lDbjk5eDNnVkM2RERNUFFveG5fWEt4bHd2Qk1wZFNVM01LVndPaWFfUFJHNjJPcXJwRTdSUFZ3Z2wxMjdpNDZNbWxTNkEyTGVWcjhaN1dMRHM3UV8wbHo1WHZZS0NlYWl2bkROVUlnVHBmQjFqcm42eGd5VW9CT3dtcThhNW1OSHhPM1dLczZKVzhJeTVHbFBhenN0dE5qSnVlb0hGa2czUzd2VzVya3BkVVhFbTZrSzh4MWh1TTNVdDY0QjJROVlBT1bSAeoBQVVfeXFMTTZRdjFDeUZEOUZJd1ZxUFluQmRsYllXb1Y3OElEN3I4cUVqbDJQTnZuNnhzNWNKdHQzMVoxSzdKU1lkNmpzdnBnZjhTM3dIckV2T1plVk1qdEtDSXVXZzhhOHZkYnpKUnZobnB2R1JveE9jSTNQN1ByU1BwOXpVbjJDOEVNSXRPRXJHeW1COUhHdHlZRkhBZnBXNTgwX0VqMHZycjlKNkQtbEZuNmtKTGdmYTgtUkQ5RngzVFBtcTZuTmRXNUN4YXhWODdBalhMUmdUdW03aUtfbWxHN2kwUzBrU2lZWU5TaGR3?oc=5"
+            "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTVCT0ZudnlteDJHOVFRQXdHckxJY01xVVZ5ZlAxWUVibGttRU9lLXpWWXlIWFhoaW01MjVKc1RwMHVublo5cks5UENCbjNDbndVYmpfYXE5NHBlTHptZHJaWTJsYXRMQmhvYmNMbUQta0R1X2ZrN2NjMjJzTm9PV0xiSmotRy1UbTBqMXFBaUxiMmhSVVJ2Q181VWQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1JfLTNYVnNRay1QZWkxSWNPQnVPU1ZVWlcxZ1NybWxSM29BVXZwVmV6bjVTSG4tdm8zOV9OQnN0Rk0wU0lBTXRvemExcWdmdmpUSDl0YUM2bFRNWU1vRE82NkNkOHNyY0tuZktMeU5xQUprNm5tTEYzb1l0S19hN1RtNWxqc1NjdTBxS09NZ242R3VFSjU0cldWU2lsWnpoeHFuUmxyY0VUck55UkVkQWJXUE9NenhaY3h3UmRTMTJtQWNXRmRhMUtnTnhydlVwWnNwUkNoODLSAd4BQVVfeXFMTnNHSFhGXzJuVklLY28wa285c3lua1pJWTFXUHd3VGJiRlVMbUtUc0hOWmNBR05zeTRvTUpDS3VicUNwei10Um11cXdkSmpnS0QyOFltbngtamd0MEttVk13UkE0OF93UEc1azVhZE14T3Z1UDlieFZqcF9tM3ZjY0xWbktGVEktRFFfRTRQSTRONmtxMlN2X0VDVm5xVEZwVjZHcHo1bGtJaGVaVjBidWYtNFRjMEJUQjBYQVdiZ3U2M1otYWpDVzQ5ZWJ2NE9qbnhxMWV3QWNRY0M3THR3?oc=5",
+            "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRl92UVhURnNoeHB3djdYR2JyOG1zVkJIVVRKNEp4YXVIaFpUWEVNTkJBR3pUMG9jZ2s1VVExNl9faVBLQVFVQmFrUlhOWXNoTmFrM0dhVllUT0VhZHdzQmlSUFNCNjhtbmoxaWF2N1RtM2hlRDJiT1FoTkhfb0JFeG1EOEZ3TzFmSWVGTHo2Z1RaaUQ4TXFzVTFvaG9INzItYTdFREVYTjA1a1cyZFY1TmJPbDdBNlpQSUYzQjBncnoxZ1pFLURINko3bnIwTVd6dE5RY1djNmQ1OF91cU1NWXh2T3hsUEFCbVQwYjl30gHzAUFVX3lxTFBpdlZRR04zZ3oxbTdkemZ0bkdNZHAxZFI4dG5TU0xKMF9RMDRIeDhQc3VMMjRSX3NJNGVwMFVWSmlzUzlFaFZScGNMS25JalFYOUk0RWhQYlhXR3JOOEp3bjNWejJlaU9CZU5vZnk3a3hsS3F2Znl3Q21nVnV1LWFnTnBULTIzTjZqOHMyMjA5QUZkXzk4cUk2bGxUc3ljelh0SFVKTkw1ZUx3T3dVN2hRT2ZBM2Q4MS1rVGZwRHFneU4wMzBnU0dOTnE5ckhHdVdkakMwbjRYZmpZVWphQXRMenpvUy0wQlE4Vl9sM0E3eFdwRQ?oc=5"
           ]
         },
         {
-          "t": "Canyon Resources Excluded from ASX Top 500 Index",
-          "src": "Business in Cameroon",
-          "b": "Minim-Martap developer Canyon Resources dropped from the ASX Top 500 Index. An index is a list that tracks a group of shares. Canyon Resources develops the Minim-Martap project.",
-          "i": "Minim-Martap developer Canyon Resources exited the ASX Top 500 Index. Index exclusion alters passive fund ownership thresholds. The developer works on the Minim-Martap project.",
-          "a": "Minim-Martap developer Canyon Resources was removed from the ASX Top 500 Index. Rebalancing adjustments compel index-tracking funds to liquidate holdings. This structural outflow impacts liquidity for the Minim-Martap asset developer.",
+          "t": "Index Rebalancing and Industry Results",
+          "src": "simplywall.st · Business in Cameroon · Forex Factory",
+          "b": "Nickel Industries reported a profit rebound. Canyon Resources dropped from the ASX Top 500 Index. JPMorgan assessed the Australian dollar currency outlook.",
+          "i": "Nickel Industries posted a profit rebound. Canyon Resources dropped from the ASX Top 500 Index. JPMorgan evaluated the Australian dollar currency level.",
+          "a": "Nickel Industries detailed a profit rebound. Canyon Resources exited the ASX Top 500 Index. JPMorgan issued currency valuations on the Australian dollar.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNBN0xwTUVTaGhPdVN3dE9rRkF0LXNXMHB2SElHZ3VsNk9jVHJNdFR1cXdIZXVtdTlaNGo3c0V2dDQxM1hQWHFGYWk5alRrTEtXbTFCQ2hHa21EVV95Yl85NTY5a042TDFZYjEyY2E4MzFsbWNwZDhHdnlURE5MRnBZYlQ1R1ZjZk5VN2NydjFweDF6cjZGLXRuVjd3bkhHZU9zcnRrSGZGWWJidGVwMmVIN0tVQnV1WmwyTW5xcjg?oc=5"
+            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM3V4Vk9WZEFDQ0VoNVM4OVB2NkNuMFdoNzltRHJ3RnZSUGtFMFU1OUlwdllxMzhMbjRaSy1WdTVOdkhqYWZUMjFFUi1WNDhtVDlzNVYxRGhraG1DTHN4bW90RjRybV9pWU9tSmVYMWk1Q0JIRnh3aEtkdUFRdEVkc1dIdl9VZnNtaEV3RXUyTXdkaXVNem9icjFwd0hLWGNCQmpyRWVkaUJhdFBzaW05emtkcVJFV3VvWDd0OXlJOV90RGtlbThNdDI1VkUzdmtMTS1CSy130gHbAUFVX3lxTFA3U0NLdGh2NDVlS19xcC1acVVJWFBBRmhZR0lqSTV2cFRIX2xMR1RCSnMxdWQzTXB3cG9vZzd3dVhUUUlkQzQ1dDBYWWtXcEhnMlYwZG9aSC1DTmZ1azBwV2lMLVFUS2ZXQ2JHWWdkMHZDZXhKa1JzSktLVEtfQ3FSanZmRmRkaF9oOThBYTBzSWsyYnJaTHJlTXRzM0ZOcngtVjFuRXMzQW9CdnBWNUdKNkJLZFZ4clFTMkUwelM4TlBwMy1ILWJueDVjWGNGQzRhUjJ4NHdQcXlEaw?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNBN0xwTUVTaGhPdVN3dE9rRkF0LXNXMHB2SElHZ3VsNk9jVHJNdFR1cXdIZXVtdTlaNGo3c0V2dDQxM1hQWHFGYWk5alRrTEtXbTFCQ2hHa21EVV95Yl85NTY5a042TDFZYjEyY2E4MzFsbWNwZDhHdnlURE5MRnBZYlQ1R1ZjZk5VN2NydjFweDF6cjZGLXRuVjd3bkhHZU9zcnRrSGZGWWJidGVwMmVIN0tVQnV1WmwyTW5xcjg?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmxCanIyekIycnpueTNpVzJLSHZDd05kX2JBaUhGeGFwT2NQNU0zdmk5ZDRxSnVMRFFPamgwR1lKMC1EUUd5cEQ0U2ZSMnBadFlBa1NUTXdobDRwVWZndkxXY2JGMHd1NndfWVNxZVZQRnV2X3ZIXzdLUVFoUzFsSDFEdHJBc1Fvc1JMTnZsWTJXQUtDZVZGYU9wRWtOcVHSAaQBQVVfeXFMT092LWN2MHprQkQ4UFVscnJjdGxxbmVCbHg2OUhqT1pPMGdVeFZwWHpxTURIcW5mTUsyNHlTaXpiMW5tMWZFeXpIa2JDLXZGV19fVHJpRjZHTDV0NXBVWVFWQW1hV1RrUWZrWTVPTXRoVVZYVnR3dzFKcjR6VUUwUFgxeFdoM1FycHFudjQ1TEw5ZDBKcGNVNkg2X29BNDRONGhJTXM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political updates are available in today's sources from Australia.",
-        "i": "The provided market sources contain no political developments for Australia.",
-        "a": "Macroeconomic or political policy disclosures were absent from the Australian source set."
+        "b": "No political updates were reported in the market news today.",
+        "i": "No political updates were reported in the market news today.",
+        "a": "No political updates were reported in the market news today."
       },
       "timeline": [
         [
-          "5 Sep 2026",
-          "Flight Centre reported stronger earnings and board changes."
-        ],
-        [
-          "5 Sep 2026",
-          "Canyon Resources dropped from the ASX Top 500 Index."
-        ],
-        [
-          "5 Sep 2026",
-          "EQ Resources added two directors to its board."
+          "5 Sep",
+          "Canyon Resources was dropped from the ASX Top 500 Index."
         ]
       ]
     }
