@@ -1,187 +1,155 @@
 {
-  "generated": "2026-09-09T16:30:12.015Z",
+  "generated": "2026-09-09T17:25:25.094Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "9 September 2026",
-    "headline": "US Treasury yields climbed to 5.30% after a $6bn debt buyback while Brent crude topped its July peak and global stocks slid.",
+    "headline": "The US Treasury announced a $6 billion bond buyback plan as Brent crude topped $100 and global stock indices slid.",
     "lede": {
-      "b": "US Treasury yields climbed to 5.30% despite a record $6bn debt buyback. Yields measure the return a government pays to investors who buy its bonds, which are like IOUs. Bond prices drop when yields rise. Stocks slid across the US and Europe as Brent crude oil prices topped their July peak. Brent crude is a major global benchmark for oil pricing.",
-      "i": "US Treasury yields climbed to 5.30% following a record $6bn <span class='term' data-t='gilt'>Treasury</span> buyback operation. Bond prices dropped as the market absorbed new supply dynamics. Stocks slid across the US and Europe as Brent crude oil prices topped their July peak. The S&P 500 lost 0.5% at midday, and the DAX dropped 1.74%.",
-      "a": "US Treasury yields climbed to 5.30% despite a $6bn <span class='term' data-t='gilt'>Treasury</span> buyback as supply absorption failed to compress term premium. Brent crude breached its July peak, driving equities lower globally with the S&P 500 sliding 0.5% and the DAX dropping 1.74% to test support at 25,447. Eurozone bond yields followed US curves higher while the S&P 500 and Dow posted triple-digit declines."
+      "b": "The US Treasury said it will buy back up to $6 billion in government debt. Government debt works like an IOU where investors lend money to the state in exchange for regular interest payments. When the Treasury changes its debt plans, the interest rates on these loans, known as yields, often go up. At the same time, the price of crude oil rose above $100 a barrel, which makes energy more expensive for businesses and shoppers. Stock markets around the world fell as these rising costs worried investors about future price increases. Major stock indexes in the US, Germany, and India dropped during the trading sessions.",
+      "i": "The US Treasury announced a plan to repurchase up to $6 billion in longer-dated debt under Scott Bessent. Yields on 10-year to 30-year <span class='term' data-t='gilt'>Treasuries</span> jumped immediately following the auction disclosure. This maneuver alters the duration profile of government liabilities without calming rate pressures. Concurrently, Brent crude futures broke past the $100 mark per barrel, reviving fears about a resurgence in <span class='term' data-t='inflation'>inflation</span>. Consequently, major equity indexes slid globally, with the S&P 500 dropping 0.5% and the DAX falling 1.74%.",
+      "a": "The US Treasury announced a longer-dated debt repurchase program valued up to $6 billion under Scott Bessent, altering the duration profile of government liabilities without containing rate pressures. Long-end <span class='term' data-t='gilt'>Treasury</span> yields jumped sharply in response to the auction details. Concurrently, Brent crude breached $100 per barrel, triggering renewed <span class='term' data-t='inflation'>inflation</span> concerns that compounded equity sell-offs across the S&P 500, DAX, and Sensex. Leveraged speculators faced immediate liquidations as currency and commodity shocks altered cross-border capital flows."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The 30-year Treasury yield rose to 5.30% despite a record $6bn buyback.",
-        "i": "The 30-year yield reached 5.30% despite a record $6bn Treasury buyback operation.",
-        "a": "The 30-year yield pushed to 5.30% despite a record $6bn Treasury buyback."
+        "b": "The S&P 500 slid 0.5% at midday as Brent crude prices climbed past their July peak.",
+        "i": "The S&P 500 dropped 0.5% at midday while Brent crude futures broke above their July peak.",
+        "a": "The S&P 500 retreated 0.5% at midday alongside broader index declines as Brent crude futures broke above their July peak."
       },
       {
         "c": "United Kingdom",
-        "b": "Amazon issued debt in sterling worth nearly $6bn or £4bn.",
-        "i": "Amazon issued its debut sterling debt to raise nearly $6bn or £4bn.",
-        "a": "Amazon issued its debut sterling gilts to raise nearly $6bn."
+        "b": "The FTSE 100 index fell 1.38% to hit a seven-week low as oil prices climbed.",
+        "i": "The FTSE 100 index fell 1.38% to a seven-week low as higher energy costs revived inflation fears.",
+        "a": "The FTSE 100 declined 1.38% to a seven-week low as surging energy costs revived inflation fears and Amazon issued sterling debt."
       },
       {
         "c": "Germany",
-        "b": "German exports dropped for the first time in six months.",
-        "i": "German exports recorded their first decline in six months as the DAX fell 1.74%.",
-        "a": "German exports contracted for the first time in six months while the DAX dropped 1.74% to 25,447."
+        "b": "The DAX index dropped 1.74% to a one-month low as German exports fell for the first time in six months.",
+        "i": "The DAX index dropped 1.74% to a one-month low while German exports posted their first decline in six months.",
+        "a": "The DAX finished 1.74% lower at a one-month low as German exports contracted for the first time in six months."
       },
       {
         "c": "Japan",
-        "b": "Yen appreciation created pressure on the US dollar and regional currencies.",
-        "i": "Yen appreciation exerted pressure on the US dollar as traders adjusted positions.",
-        "a": "Yen appreciation pressured the US dollar and triggered carry trade adjustments."
-      },
-      {
-        "c": "China",
-        "b": "China reported a wider trade surplus due to accelerating export growth.",
-        "i": "China posted a wider trade surplus driven by accelerating export growth.",
-        "a": "China reported an expanded trade surplus driven by outbound export acceleration."
-      },
-      {
-        "c": "India",
-        "b": "The Sensex dropped 813 points as crude oil crossed $100 per barrel.",
-        "i": "The Sensex dropped 813 points as crude oil crossed $100 per barrel.",
-        "a": "The Sensex plunged 813 points as crude oil surpassed $100 and the rupee weakened past 95."
-      },
-      {
-        "c": "Brazil",
-        "b": "The Brazilian real found support against the dollar as political polls narrowed.",
-        "i": "The Brazilian real found support against the dollar while the Ibovespa fell.",
-        "a": "The Brazilian real gained support against the dollar while the Ibovespa declined."
-      },
-      {
-        "c": "Saudi Arabia",
-        "b": "Saudi non-oil exports dropped 6.6% year-on-year in the second quarter.",
-        "i": "Saudi non-oil exports dropped 6.6% year-on-year to SAR 82.6 billion in the second quarter.",
-        "a": "Saudi non-oil exports declined 6.6% year-on-year to SAR 82.6 billion in the second quarter."
-      },
-      {
-        "c": "Nigeria",
-        "b": "Aliko Dangote priced refinery initial public offering shares at ₦525.",
-        "i": "Aliko Dangote priced refinery initial public offering shares at ₦525 ahead of September 14.",
-        "a": "Dangote priced refinery initial public offering shares at ₦525 ahead of the 14 September 2026 launch."
-      },
-      {
-        "c": "Australia",
-        "b": "The Australian Dollar stabilized following a rebound in US yields.",
-        "i": "The Australian Dollar stabilized as US yields rebounded and supported the greenback.",
-        "a": "The Australian Dollar stabilized following a rebound in US yields."
+        "b": "The Japanese yen hovered near a seven-month high against the dollar after policy signals from the US.",
+        "i": "The Japanese yen hovered near a seven-month high as US Treasury policy signals fueled currency strength.",
+        "a": "The Japanese yen traded near a seven-month high as US Treasury policy signals triggered leveraged speculator liquidations."
       }
     ],
     "thread": {
-      "b": "Rising energy costs and climbing oil prices affected markets around the world. Higher Brent crude prices triggered stock market declines in multiple countries. Central banks also monitored inflation pressures linked to these energy shifts.",
-      "i": "Climbing Brent crude oil prices drove synchronous equity declines across multiple regions. Energy cost pressures triggered currency weakness in emerging markets and higher inflation warnings from central banks. Sovereign bond yields adjusted higher as global supply dynamics shifted.",
-      "a": "Rising Brent crude prices above $100 transmitted simultaneous energy shocks across global equities and sovereign curves. Emerging market currencies faced direct depreciation pressure while central banks recalibrated inflation expectations against surging commodity inputs."
+      "b": "Rising oil prices and shifts in government debt policies created a difficult day for stock markets across the world. Higher energy costs pushed up expenses for businesses in multiple countries. Investors responded by selling shares in major companies.",
+      "i": "Spiking oil prices and shifting US debt management operations drove a synchronized retreat in global equities. Higher energy costs fueled renewed inflation concerns across multiple regions. Bond and currency markets reacted instantly to these cross-border pressures.",
+      "a": "Energy price shocks above $100 per barrel and US debt duration adjustments transmitted directly into global equity contractions and currency liquidations. Central bank liquidity operations and shifting yield curves forced immediate repositioning across international trading desks."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Treasury yields climb despite a major debt buyback",
+      "sub": "US indices slide as Treasury yields and oil prices climb",
       "ind": [],
       "stories": [
         {
-          "t": "Treasury Yields Rise After Buyback Announcement",
-          "src": "International Business Times · FXStreet · credaily.com",
-          "b": "Bessent announced increased government bond buybacks. Bond buybacks are when the government purchases its own debt back early from investors. Treasury yields jumped anyway, reaching 5.30% for the 30-year yield. A yield is the return an investor gets on a bond, moving in the opposite direction of the bond's price. The announcement involved a record $6bn debt buyback.",
-          "i": "Bessent announced increased <span class='term' data-t='gilt'>Treasury</span> buybacks designed to manage government debt. Yields jumped anyway, pushing the 30-year yield to 5.30%. The reaction occurred despite a record $6bn debt buyback operation. Bond prices dropped as the market absorbed the new supply dynamics.",
-          "a": "Bessent announced expanded buyback operations totaling a record $6bn. Duration risk repriced immediately, driving the 30-year yield to 5.30%. The resultant curve steepening demonstrates that supply-side interventions failed to compress term premia as structural issuance concerns dominated.",
+          "t": "Treasury Yields Rise Following Bond Buyback Plans",
+          "src": "The Motley Fool · Wolf Street · International Business Times",
+          "b": "The US government borrows money by selling bonds, which are like IOUs that pay regular interest. Treasury Secretary Scott Bessent announced a plan to buy back up to $6bn of longer-dated bonds. Bond yields, which represent the return paid to investors, jumped higher across 10-year to 30-year terms after this announcement. Prices and yields move in opposite directions in the bond market.",
+          "i": "The US Treasury announced plans to repurchase up to $6bn in longer-dated debt under Scott Bessent. Yields on 10-year to 30-year <span class='term' data-t='gilt'>Treasuries</span> jumped following the disclosure of the auction details. This maneuver alters the duration profile of government liabilities without calming rate pressures.",
+          "a": "Scott Bessent unveiled a longer-dated debt repurchase program scaling up to $6bn, yet 10-year to 30-year benchmark yields paradoxically surged. The market reaction indicates that supply absorption mechanics failed to compress term premium as expected by dealers. Traders are now repricing duration risk ahead of forthcoming auction settlements.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFdESWFXQTQxS3lZMUluY21qdFF6OWxjMF9BRmZoRXVIWmJRNWFadGRPUGRHNU5FTk85RDdhLVdHQzRadGZWa19MSVdMSmRfS1YyX1lWbUN5bG1lalgxUDlCVk8tcFJnYmJ6ODVKUHBodFB1ZlIxSG1VVjRVZmlDeUNiNGJuVXpvM2RCMzBKY19wM2JLTEdrSVJpM2NUNk9SNHRsMklR?oc=5",
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnplOUFtbERacUF0OGxPVDFlUnRnMmx2ZUpqRjdSMnVOZjBjUFJBYUlhX0c2c3l3ODFxbVBlOTN5cDNDOU5sVXdxODY1b1E5eEpuZVByYXVJMEJVM0Q1TkV6eDZYV3RDU0dsa0RMNGxIM2tBeE5ERExlRlVNb2JLYUhXYm1HM3Q4UHd1UXRhbkVldWNBTGlBamlPNVp0YjVBdWhISVBvSjc2ZHJjYjVXcUotWXUxYl8zWXQ4?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcE4zdWRaT01kUVRQTEFtdE1idTEyZlgzODZ6dUxPb0lneTZjUEIwTHh5WHRSOGgxaDJTcl9ybWJPa09PemVTbDZVUkNmc3NCdHFwSWN3Q01MUFBSa2xKZHdpOGZVb2hpcnRzRTZtZnFZTGVyeXhHV3RQTDl2eXRPVnplVURBbnVtemVZMQ?oc=5"
+            "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcGVZUnBnUzVHYUxlcThZUUx4ajQ1MllDanRKZm1kblhyVXgzeXpycnBaMVRBMjh1ZnFGd0hnVEJtMDJwMS1hYUplX3U5LXpJdkF4VHltUnFaRGlJYjNZTm9mTm5nbHZLZFhvYS1pQUhBQVRIMHVvT2VaS0pHNlhnTktqM24tZ2duMElGVmxpUVNuN01rSEZDTl9sUUthWE81TmJoanhrdUJuLV84b2xQTjlZZHN2aDEtb0hqNHpaUVgydXREZWMwekt3RWZYa081TFZtVUVVVWVVRU1td1B0Qi01UTFIUDN5VFlNa2dQMEozSXFxVmhpcXdLTHRydVZDamcxcWhwNlFsWkFSclV6N1hsVXRlUlR3MDFsNl90SUZuMHJKWXY4bzlFTm92dUN2?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdXFuOW5YblFVSGswc0djVmF0bWs5VkZpYW5NdkVkWHJ5OGJNWUJmeHBhVXdpNXVHZDJUaTJwcGQ2OFhZRHhrNWIwenhRWVdDZ0VUR3JNTURXbkZMdzR6UXl3Q2FmbUhpbmVhcW9Vd1dNTnU5MzAxR0RTQTh3ZjFtTFY1aDhzVXlDUTF0a003R0xOQlk2cDV1bEx4RU1WM2t1eXVzbTlwXzdhTU1nWUY1MWVnJjc0b3NJSExlODMzNExFVGI5UXZ5bGtYTUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOFdESWFXQTQxS3lZMUluY21qdFF6OWxjMF9BRmZoRXVIWmJRNWFadGRPUGRHNU5FTk85RDdhLVdHQzRadGZWa19MSVdMSmRfS1YyX1lWbUN5bG1lalgxUDlCVk8tcFJnYmJ6ODVKUHBodFB1ZlIxSG1VVjRVZmlDeUNiNGJuVXpvM2RCMzBKY19wM2JLTEdrSVJpM2NUNk9SNHRsMklR?oc=5"
           ]
         },
         {
-          "t": "Stocks Slide as Brent Crude Tops July Peak",
-          "src": "247wallst.com · Schaeffer's Investment Research",
-          "b": "The S&P 500 slid 0.5% at midday. The S&P 500 is an index tracking 500 of the biggest companies in America. The Dow Jones Industrial Average led the decline, while both the Dow and the Nasdaq fell triple digits. Brent crude topped its July peak during the session.",
-          "i": "The S&P 500 slid 0.5% at midday. The Dow Jones Industrial Average led the market decline, with both the Dow and the Nasdaq dropping triple digits. Brent crude oil prices simultaneously topped their previous July peak.",
-          "a": "The S&P 500 retreated 0.5% at midday. The Dow Jones Industrial Average paced the downside, joining the Nasdaq in triple-digit losses. Brent crude breached its July peak, amplifying macroeconomic headwinds across major equity indices.",
+          "t": "US Stocks Slide as Energy Costs and Major Indices Drop",
+          "src": "Investopedia · 24/7 Wall St. · Schaeffer's Investment Research",
+          "b": "Major US stock indexes like the Dow Jones and the S&P 500 fell during trading. Brent crude oil prices climbed past their previous peak from July. Casey's General Stores stock led the S&P 500 lower on the day. The S&P 500 slid by 0.5% by midday.",
+          "i": "The S&P 500 slid 0.5% at midday, pressured by broad declines across the Dow Jones and Nasdaq. Casey's General Stores stock suffered losses that dragged down the wider S&P 500 index. Concurrently, Brent crude futures broke above their July peak, adding cost pressures.",
+          "a": "Equities retreated broadly with the S&P 500 sliding 0.5% at midday and the Dow leading the downside momentum. Casey's General Stores underperformed, acting as a notable drag on the benchmark index. Meanwhile, Brent crude broke above its July peak, tightening energy financial conditions.",
           "links": [
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbXdkeWNyVkF2VzVSdjZ4cHhFczcwRFlCckR6T1FZMWdkcWRZRHZITFZxd0Vpb05yNWs4aGEtWk1iZXh3SzB2UWpUMGRpeTR2ZHYyUU12WUNPUU5FcTF3QWtkWFptUDhmR0ZMQk1OU2lhbDF6bmg1eXNIZmJFcjJxbDJRT3VLUVduaTEzaWNqRzBlQlRVbGRQNDJUZldrZlY1a3dxNGx5S1prbVB5MzVlMlY1aGtJdlVQ?oc=5",
             "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM29HOXRLMUxrZjlKWEt5RE9hckdERklHWkpDMXhwUTc2UGZ2QU1BMm1saHFSVFFRcmR4cVYtWjZERXV6U04ybFRzcUswS19SVlNXa3pnMTg2RkRBVkZBUERxMlpZV2k5M05URjBnZmFvMzd4akpjbGhtNWx3TU5KT1VNYW13NUhNbkxfdzVKc3RnWXM4VDRreFRjOGpkUFlFMjFLemo0UkxFY1hjVVc3V2lGTTRkc2RyV240TG03a2k2OE9CZkdQem1n?oc=5",
             "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVIyaWp3VGVOWXFOTjMwbFJ4eV9aaF9CM2VzeHBkakl6LUp2RWc3bHNlTFB5ckNvMzRCLUdIeGE0R09Dbk92eXpJT3pBUDFaVkd1bFk5WDlTaHhxMlI1YWI2TjRvdU9sSGJrM3g5eFVJaXl5ZzRnV2NFT19WTG9TeUJwenZkRDVxeHptVnpnOWZ5T3M5c1RiYzdFYlNOZ0NaWVUza0dBZW9NWFhuWjBBbmpTSFh5Q2tSajlvVw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Commentators discussed the benefits of the Working Families Tax Cuts.",
-        "i": "Public commentary highlighted the economic effects of the Working Families Tax Cuts.",
-        "a": "Analysts evaluated the structural implications of the Working Families Tax Cuts legislation."
+        "b": "Writers discussed the rules and effects of the Working Families Tax Cuts. Commentary highlighted household financial pressures and legislative changes. Observers noted various impacts on family budgets.",
+        "i": "Commentators debated the distributional impact of the Working Families Tax Cuts. Public commentary focused on household relief measures versus broader fiscal costs. Analysts evaluated the longevity of these tax provisions.",
+        "a": "Public discourse centered on the fiscal efficacy of the Working Families Tax Cuts. Analysts weighed direct household liquidity gains against structural deficit expansions. The debate underscored ongoing legislative tensions over targeted tax relief."
       },
       "timeline": [
         [
-          "9 Sep",
-          "Brent crude tops July peak as major stock indices decline"
+          "11 Sep",
+          "The 9/11 attacks reshaped the US economy, security spending, and confidence."
         ],
         [
           "9 Sep",
-          "Treasury yields rise following a record $6bn debt buyback announcement"
+          "Scott Bessent announced a Treasury bond buyback of up to $6bn."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Amazon's bond debut and Bank of England warning",
+      "sub": "FTSE dips and Amazon issues sterling bonds",
       "ind": [],
       "stories": [
         {
-          "t": "Amazon Enters Sterling Debt Market",
-          "src": "marketscreener.com · Reuters · Dealroom",
-          "b": "Amazon borrowed money from investors by selling bonds for the first time in British pounds. Bonds are certificates where a company promises to pay back money with interest over time, much like a formal loan. The company raised almost $6 billion, which equals £4 billion. Lead managers reported this total sum to the public.",
-          "i": "Amazon issued its debut debt denominated in sterling to raise nearly $6 billion or £4 billion. Corporate <span class='term' data-t='gilt'>gilts</span> and sterling corporate debt offerings allow major technology firms to lock in capital directly from institutional portfolios. Lead managers confirmed the final sizing of the transaction.",
-          "a": "Amazon priced its inaugural sterling tranche to capture institutional liquidity, securing approximately $5.8 billion equivalent to £4 billion. The syndicate managed the order book to absorb large volumes of corporate debt without destabilising secondary yields. Lead managers confirmed the execution metrics following the final pricing.",
-          "gloss": "gilt",
+          "t": "FTSE drops as oil climbs",
+          "src": "Finimize · TradingView",
+          "b": "The FTSE 100 is a big list of major British companies traded on the stock market. It fell by 1.38% to reach a seven-week low. Oil prices jumped above $100 per barrel. This jump brought back worries about rising prices across the economy.",
+          "i": "The FTSE 100 index fell by 1.38% to hit a seven-week low. Brent crude oil broke past the $100 mark per barrel. These higher energy costs revived market fears about a resurgence in <span class='term' data-t='inflation'>inflation</span>.",
+          "a": "The FTSE 100 slid 1.38% to a seven-week low as crude oil breached $100 per barrel. The energy shock reactivated <span class='term' data-t='inflation'>inflation</span> hedging across UK equities. Margin pressures mounted as input costs spiked.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3l6bWVsdTZERGZZOGYxbG1jTVRpNE1Vc19PLW12MW9HMzFQd1NmcFdkeEM4NnY3LTQtSVZrckN0TWV4Yy05N09NX0g0Z0J3TUk5WW9OSkJLUTVmQ2JXTFNPTlNYbVhkT0M4YjYwcHVBbWRIaUtLMC10R1ZIT1BDQV9CeE1YU050Qk02dG9xbVNrUzNsZW5NRWZpZ0ZRcVZWRjM3LUVWZXR1QW9qallzZ1hka3otVnRUM2VyN2JlWERUQ01X?oc=5",
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlZhMHZ0RkVhaWNCVWdOa3N1aXVYdXJ1LS1tUTFFWU5hMlJYYTJaQkQ3SWc5RGhMcklmZkxrQlNZV0ozd1lnWTdZbjFVT1hYYzFRTkJYZVZiTEFNRjBlNWkxVGprb29nRnVEeHBlZ3dkVl9HdkNhcUg1bjBpYlo0dFVDbTl4YXA2MEllSXo5bS16N3lzYUh0TThldUJhci1jYTJiWXFOdU1teDAxZmVhbTRBOA?oc=5",
-            "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0Z5UnpCa1JZOUhtaUc0U2tJSFlrRFJPWExCdjdESnR5SVROeWtXbEFWOC0zejJGYzAxTFpHLXZkdnY1dVV2Smx5UmdEZERHaGNpN29EajNqdWF4S0J2Z1NZZGxvR1hVT2tGaTU5d1QwMjVxbnc0M21BcDU1ZGtmX1VGWDhvdkhQWjFYQUlB?oc=5"
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVVU2S1pUTnJoUjVvelczcjlyTFc2SThDVDBHU0pnSzVMNWVHWHdMZktSQkotTk01eFVLTFQwbHBOYUxzMzJIeTJFV0hxdkp6RXRFV2tJMW14S0ZKaTJhTzNOS3dGOGZBWkQ0R2lJVXFNcnluZjZzdDJlY011NnM2a2xyeDFRY3VYYk1aVEFn?oc=5",
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeFFPZjViNE9NcWxqNTF3bl9tMlNBOGl2TGRoUlBMRmpvMXNDNmI3UHo3SFFKbGNoaHBZMXA1SE4yS2RQdUpuSy1LNEU4MWRHWFFVUzNDUVhoTlM1aEdEcWp4SExlaGVYMW4xZ1AxOUlreEJBNDJybWJhLVhiUk83My1BMThXSkZ4dzBqS0tHb1Y?oc=5",
+            "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUtoX2VCdGc3dll3ejRleEZPZEhQY1lUWW9BY2Fva3hKOEpqNFZrNlFxSWVKNGhob2VLTFNxSlhPejdJZVF5N0FZN2l0X096M0RFdncwYW8wTDl2TU9haDBBcUhFLXJiUHZNNXM1WUYtUzdhbUVZcWNfMl9RaERzRWF5Ukl4Zw?oc=5"
           ]
         },
         {
-          "t": "Bank of England Issues Warning on Price Pressures",
-          "src": "OilPrice.com · Yahoo Finance UK",
-          "b": "The Bank of England is the country's central bank, which is the main financial institution that manages the national currency and sets interest rates. Officials warned that a war involving Iran could push price increases above 4%. Price increases, known as <span class='term' data-t='inflation'>inflation</span>, measure how fast the cost of everyday goods goes up. UBS analysts expect the central bank to keep interest rates steady while using tougher language.",
-          "i": "The Bank of England warned that an ongoing war involving Iran could push <span class='term' data-t='inflation'>inflation</span> past 4%. UBS expects the central bank to hold interest rates steady while adopting a more hawkish communication stance. Officials are monitoring how geopolitical conflicts transmit energy shocks into consumer price indexes.",
-          "a": "The Bank of England flagged potential upside risks to <span class='term' data-t='inflation'>inflation</span> stemming from the Iran war, projecting headline prints above 4%. UBS analysts anticipate the Monetary Policy Committee will maintain current policy rates while signalling a hawkish bias in its forward guidance. This communication strategy aims to anchor market expectations against imported energy shocks.",
-          "gloss": "inflation",
+          "t": "Amazon enters sterling debt market",
+          "src": "marketscreener.com",
+          "b": "Amazon borrowed money in British pounds for the first time by selling new bonds. Bonds are official IOUs where an investor lends cash to a company in exchange for regular interest payments. The company entered the sterling credit market with this fresh debt sale.",
+          "i": "Amazon accessed the sterling debt market for the first time through a new bond offering. Corporate <span class='term' data-t='gilt'>bonds</span> allow large firms to raise capital directly from institutional investors. The technology giant issued these instruments to secure British pound funding.",
+          "a": "Amazon debuted in the sterling corporate bond market with a fresh debt issuance. The primary placement expanded the tech conglomerate's currency-diversified liability structure. Institutional demand absorbed the new sterling-denominated paper.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd09sbnRqc25kQlJ3bVNYZXVGaEd4X01rRnhmTGZ4SzFfM1d6OFdDbGJtWVJuX25Xd3dkcUhCMXhYSVBEZXc3a0JQNjBpZ1llT3hfRm9aaW1nampqaXVlYWk0RFo5UWJramRtOVUxTW5pYnl4eW1WNHh4S2JSTFlkVm8yZ1l4RnBHVU1LS2tmQTRFdmhRNWNJbWRyRHgzUmNTek5PNkQzTy1mcDhPYUow0gG0AUFVX3lxTE5obW56dHZZT1VuelRCcGVKaFYtbmEtMVhkTUtHTjVwdUFWa3dUMUFscUxrX3FDUzd1ZkVkZ3dmUHFJUmxLdkI2ejJYQVJKbUJlbWNLMVhIM0ZCNHB4aEZLYkNkeDFDcWlobVdQeGpFYzdwY0Jic0lpdS1TcVM2WW96V2xqblI1QTA0aEpCLUJNeGdDcUhhbnBSQzBhd2JwdWJma0xycnJHZ0ZlSC1xa3FfNVFzZQ?oc=5",
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmxBS2poUGQtYlA3TEdaWkxYMnhrNWpOSHU0WjRTZFNwWERSbHNJeTZyaWM2ZUJzX3o1Vnh4cmFGWmtXVFB5TDlRanlfMC1ObFJ4Ymo5TzdTV0RJRG9hTjNwYVdDcDdKMXdtSXdpbDVrRTBXajRmV0dvQk43S3BSY1kwQWw?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3l6bWVsdTZERGZZOGYxbG1jTVRpNE1Vc19PLW12MW9HMzFQd1NmcFdkeEM4NnY3LTQtSVZrckN0TWV4Yy05N09NX0g0Z0J3TUk5WW9OSkJLUTVmQ2JXTFNPTlNYbVhkT0M4YjYwcHVBbWRIaUtLMC10R1ZIT1BDQV9CeE1YU050Qk02dG9xbVNrUzNsZW5NRWZpZ0ZRcVZWRjM3LUVWZXR1QW9qallzZ1hka3otVnRUM2VyN2JlWERUQ01X?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Analysts are reviewing public spending plans and budget details as government officials address funding questions.",
-        "i": "Analysts continue to parse fiscal statements and budgetary allocations for upcoming public sector funding.",
-        "a": "Market participants assess fiscal parameters within current budget projections as expenditure pressures intensify."
+        "b": "The Bank of England warned that a war involving Iran could push UK price increases above 4%.",
+        "i": "The Bank of England cautioned that the conflict involving Iran threatens to push UK inflation above 4%.",
+        "a": "The Bank of England flagged geopolitical risks from the Iran conflict as a driver that could push headline inflation past 4%."
       },
       "timeline": [
         [
-          "9 Sep 2026",
-          "Amazon launches its debut sterling bond sale to raise £4 billion."
+          "9 Sep",
+          "Amazon enters the sterling credit market with new bonds"
+        ],
+        [
+          "9 Sep",
+          "FTSE 100 drops 1.38% to reach a seven-week low"
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German stocks slip as exports decline and tensions rise",
+      "sub": "German stocks slide as exports drop and tensions persist",
       "ind": [],
       "stories": [
         {
-          "t": "German Stocks Fall as DAX Index Drops",
+          "t": "German Stocks Drop to One-Month Low",
           "src": "Investing.com · Traders Union · CMC Markets",
-          "b": "German shares fell when the trading day ended. The main stock index, called the DAX, went down by 1.74%. A stock index is a group of company shares tracked together to show how a market is doing. Stocks are small pieces of ownership in a company that people buy and sell.",
-          "i": "German shares closed lower as the DAX dropped by 1.74%. The index tested support levels at 25,447 during the session. Traders noted fading momentum and a thinner support structure beneath the market.",
-          "a": "German equities retreated with the DAX falling 1.74% to test support at 25,447. Persistent geopolitical tensions in the Middle East weighed on sentiment alongside fading technical momentum. The index slipped back below the 26,000 threshold amid deteriorating underlying breadth.",
+          "b": "The DAX index tracks the biggest companies in Germany. Shares are tiny slices of ownership in a business. This major stock market index fell by 1.74% at the close of trade. The index finished at an over one-month low. Middle East tensions persisted throughout the session.",
+          "i": "The DAX index dropped by 1.74% to finish at an over one-month low at the close of trade. Equities faced persistent pressure as Middle East tensions continued. Traders tested support levels at 25,447 during the session.",
+          "a": "The DAX closed down 1.74% at an over one-month low, testing support at 25,447 amid persistent Middle East geopolitical friction. Price action broke below key psychological thresholds as algorithmic selling accelerated into the close.",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFU2bmtvMFNyMnRUakdESlpPNmwtN0dWcmJ5Z3M4SC1MVVM1bE91Sl9fZENLa2JNX1F5OXppUFhjczhNb215c3YwX0QzZEJCX0lZZXFRa3dTMlR1aEQxemtrOXBqS3hQSzVXbW1UTWFYNm1HUGFla2E3X05rd0VTLWdfQl9uQTlqUkk2MDNYblFSTEZRREowcERpUm1OZ2RlUXpkblBQTm03bHo5?oc=5",
             "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVhyX0hpTHRYZUNJMHhIMk91bzZhT2pBc2dUaWpKTDVESlk3MU8zcTdBZThqRml6ZTV3bEw4YWhPNkV2MjVZNmdkYlE0UnkySlRzbmk2amcyMTRqcWM0VFg0MGU1VzhWS3BXSUtrUlNrbVY3UHZOcmZvS21vX3ZBMklCaU9RbHNJbF9yUU5pY0REZ0N6?oc=5",
@@ -189,99 +157,117 @@
           ]
         },
         {
-          "t": "German Exports Drop for First Time in Six Months",
-          "src": "wsj.com · Moomoo",
-          "b": "Goods sent out of Germany to other countries went down. This is the first drop in six months. Exports are products made in one country and sold abroad.",
-          "i": "German exports recorded a decline for the first time in six months. This drop coincides with rising energy costs as Brent crude touched $100. Eurozone bond yields also climbed higher during the session.",
-          "a": "German export volumes contracted for the first time in six months. The macro backdrop deteriorated further as Brent crude touched $100 per barrel, driving eurozone bond yields upward.",
+          "t": "German Exports Post First Decline in Six Months",
+          "src": "WSJ",
+          "b": "Exports are goods made inside a country and sold to buyers abroad. German exports fell for the first time in six months. This drop comes alongside broader economic worries in the region.",
+          "i": "German exports declined for the first time in six months according to Wall Street Journal data. This contraction marks a reversal in foreign trade performance for Europe's largest economy.",
+          "a": "German export data printed a contraction for the first time in six months, terminating the prior expansion streak in foreign shipments. This external sector deterioration compounds domestic equity weakness.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFBoUGlIYW5ONzZ6VGhiSVBEbmlDbnJBdlhUQTVtUFdiRW9Oc0lsRDJmQUtJTGlFZEdmOFFiVm1JaUJyYWU1Q1FwblpmWmxBNEJfWmd6eGZ1cF81UnVidUlURUstV3cxdXd1MWVvNXJFYXJmNUlhVG9XMFpMRm1ySnZhWjlmRkd1LW45Q2I4Z2RZRHNIUW1idVFn?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUG9aS3F6RVpJYThtM3BycFlCX0Y2bmZDcTNOMHFCZ1QxcnNnVEZ2WWViMkZGYTlmV3pXOGVHY3pldDJQMWdxU016blZvWmFQU1pkS1FJcmZkdmQtUUxfUzhSMmJvenkzQ21ER0EyTk9GanVpZ0Noc0N4YWtWamZHQy1zaXo2anFaVjNQbWU3dFdzRkxUb1NXcElDMVB6dzNBQU9PV1E0bw?oc=5"
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFBoUGlIYW5ONzZ6VGhiSVBEbmlDbnJBdlhUQTVtUFdiRW9Oc0lsRDJmQUtJTGlFZEdmOFFiVm1JaUJyYWU1Q1FwblpmWmxBNEJfWmd6eGZ1cF81UnVidUlURUstV3cxdXd1MWVvNXJFYXJmNUlhVG9XMFpMRm1ySnZhWjlmRkd1LW45Q2I4Z2RZRHNIUW1idVFn?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "German political leaders faced questions as overseas sales dropped.",
-        "i": "German policymakers confronted new headwinds as export data turned negative.",
-        "a": "German authorities navigated deteriorating trade metrics alongside regional security strains."
+        "b": "European Central Bank leader Christine Lagarde spoke about choices facing Europeans. No other political events were reported for Germany.",
+        "i": "European Central Bank President Christine Lagarde addressed the choices facing Europeans in a scheduled speech.",
+        "a": "European Central Bank President Christine Lagarde delivered remarks outlining the structural choices facing the eurozone."
       },
       "timeline": [
         [
-          "9 Sep",
-          "DAX index falls 1.74% to test support at 25,447"
+          "9 Sep 2026",
+          "Christine Lagarde delivered a speech regarding choices facing Europeans."
         ],
         [
-          "9 Sep",
-          "German exports decline for the first time in six months"
+          "9 Sep 2026",
+          "German exports declined for the first time in six months."
+        ],
+        [
+          "9 Sep 2026",
+          "The DAX index closed down 1.74% at an over one-month low."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen strength and currency market adjustments",
+      "sub": "Yen surges near seven-month high as dollar slides",
       "ind": [],
       "stories": [
         {
-          "t": "Yen Appreciation Prompts Strategy Shifts in Currency Markets",
-          "src": "LeapRate · Межа. Новини України. · 조선일보",
-          "b": "The Japanese currency recently gained strength against the US dollar. This move forced traders who borrow in cheap currencies to fund investments elsewhere — a setup known as a <span class='term' data-t='carry'>carry trade</span> — to look for alternative funding options. Analysts nevertheless ruled out a sudden or sharp unravelling of these existing positions. Scotiabank noted that the currency built additional strength ahead of an upcoming Bank of Japan decision.",
-          "i": "The recent advance of the Japanese yen exerted fresh pressure on the US dollar and spurred broader regional currency movements. Traders engaged in the <span class='term' data-t='carry'>carry trade</span> responded to the stronger currency by hunting for new funding alternatives, though analysts discounted the risk of a disorderly unwind. Meanwhile, market participants built positions ahead of the upcoming central bank rate decision.",
-          "a": "Persistent yen strength forced a recalibration across global funding desks as participants sought alternative <span class='term' data-t='carry'>carry trade</span> vehicles. While spot appreciation compressed risk premia, analysts downplayed the probability of a systemic, wholesale unwind of legacy shorts. Positioning now hinges on the transmission mechanism of the upcoming Bank of Japan policy meeting relative to Treasury yield trajectories.",
-          "gloss": "carry",
+          "t": "Japanese Currency Climbs Toward Seven-Month High",
+          "src": "TradingView · LeapRate",
+          "b": "The Japanese yen is a form of money used in Japan. It just reached a seven-month high against the United States dollar. The dollar is the official currency of America. This change puts heavy pressure on the dollar. The dollar now hovers near a seven-month low compared to the surging yen.",
+          "i": "The Japanese yen gained significant ground to hover near a seven-month high against the greenback. This appreciation puts fresh <span class='term' data-t='inflation'>inflation</span> and currency pressures on the United States dollar. Foreign exchange desks report that the currency move feels distinct from previous trading sessions. The dollar continues to trade near its weakest level against the Japanese currency in seven months.",
+          "a": "The Japanese yen extended its recent appreciation to test multi-month highs against the United States dollar. Macro desks noted that positioning adjustments and derivative flows exacerbated the move in spot markets. The exchange rate compressed toward the one hundred fifty-three level per dollar. This dynamic squeezed leveraged accounts holding short positions in the Asian currency.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREdRQ0RNU0tYQkR6VWlGS1M4WEoyWk1sWXItYWs0MVQ0VjFsRWFnLXNjbTBiWEpRc1FoRDlldHRuTWhtOGtfMUJJY2wtLXM0UnBJR2VXUXRQWmRneTEtckZ3Qmk5LWlyWll4ek1OZ0F1NXh1b0dWTWRJbEg4dFNSZGJMWUZSZ0k3Y2NZ?oc=5",
-            "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVkNUdUpqZDdaVmVrVy1BNmJDT1RaQWg5a05XNTVqY0xYS1ZfUjVTQy11djh6Z254WS1Zbzk0Wks2SzZJYnFRN1o2VEpRMGwxanJJT2FLeld5SDZNVUtiN0VSX0hBZHM?oc=5",
-            "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkZTbkxuOURLRFRrb3YwMWZSa2x2Qmw1dVpGMzI5RHBZLVF3Q01RRWJCZzAzYy11NTN6YUR3bW1hTjhLejlqazBxeklnQUhuOFg2RXJOQjhPOUVScXlFcmtZbGNiN3pRcjU5ZnNtamNZRmxQZTJQekJzSDhoY0Z3aGJULW5zbVFNakxJY3hn?oc=5",
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTcxSXB1VDRtUzhTZFFENlZ5RGpPUmZVclBsWEhZLWUyM2dtMkVKM1Exd0xSYjNGZE1MU1FYREZnQVlQYkRpdUhxUnk1eWw2U3lkLXlNN2psdDJCT0xya2J6THhLcGRWUW1IYVEtVC1OZU1oTDhlRkQ4cDMxX3p5aDBQaFhpcmNBNFg3MWZuSUVDVVdJdVhPVFRhcGdDellQcUhtRmlZcmJZMF9pWkxVYWRXNGtDdk1Qa0p1Q0pDOA?oc=5"
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXNQTTdvX19qSHB0cklISE9PNzJQUEdia0JDR05iLWJ3QlViTGRIMHUtYzBiRjBfQUtFaWhtNUpabl9HS0ZTQ2NiRHh6NVkzSjlZY21EWFBmS3RyN0FzckQzdXB0UUNTRFcya3BVc2w1eERaVjZhdXNsRG5CVzhTcWZuaG4wcjZmaW4zNDA4MFJhbDdjVmRlYkVmQnFFUUNiaVdvOHlaNkpKY2NHeWVmUDRibjdXTjhmVHE1RlVka2ZTTm1oYnc?oc=5",
+            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREdRQ0RNU0tYQkR6VWlGS1M4WEoyWk1sWXItYWs0MVQ0VjFsRWFnLXNjbTBiWEpRc1FoRDlldHRuTWhtOGtfMUJJY2wtLXM0UnBJR2VXUXRQWmRneTEtckZ3Qmk5LWlyWll4ek1OZ0F1NXh1b0dWTWRJbEg4dFNSZGJMWUZSZ0k3Y2NZ?oc=5"
+          ]
+        },
+        {
+          "t": "Treasury Secretary Challenges Investors on Yen Short Positions",
+          "src": "The Motley Fool · TradingView",
+          "b": "United States Treasury Secretary Scott Bessent challenged investors who bet against the Japanese yen. He stated that he represents the house now. Meanwhile, the Treasury announced plans to repurchase up to $6 billion in longer-dated bonds. This intervention helps fuel the recent strength of the yen, which trades around 153 per dollar.",
+          "i": "United States Treasury Secretary Scott Bessent dared market participants to short the Japanese yen. The Treasury Department announced a longer-dated bond repurchase program valued up to $6 billion. These policy signals helped fuel yen strength around the 153 per dollar threshold. Leveraged speculators faced immediate liquidations as the exchange rate shifted.",
+          "a": "United States Treasury Secretary Scott Bessent publicly challenged short-yen speculators by asserting dominance over market liquidity. Concurrently, the Treasury unveiled a longer-dated bond repurchase operation capped at $6 billion. This liquidity management operation reinforced currency appreciation, pinning the exchange rate near 153 per dollar. Quantitative funds unwound directional bets following the combined policy announcements.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisAJBVV95cUxOcGVZUnBnUzVHYUxlcThZUUx4ajQ1MllDanRKZm1kblhyVXgzeXpycnBaMVRBMjh1ZnFGd0hnVEJtMDJwMS1hYUplX3U5LXpJdkF4VHltUnFaRGlJYjNZTm9mTm5nbHZLZFhvYS1pQUhBQVRIMHVvT2VaS0pHNlhnTktqM24tZ2duMElGVmxpUVNuN01rSEZDTl9sUUthWE81TmJoanhrdUJuLV84b2xQTjlZZHN2aDEtb0hqNHpaUVgydXREZWMwekt3RWZYa081TFZtVUVVVWVVRU1td1B0Qi01UTFIUDN5VFlNa2dQMEozSXFxVmhpcXdLTHRydVZDamcxcWhwNlFsWkFSclV6N1hsVXRlUlR3MDFsNl90SUZuMHJKWXY4bzlFTm92dUN2?oc=5",
+            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdndBeUpIZEVkWTllSzI5Y2RLVlh3b3hLZ01pWVVCRksycUU2cFNobTB6bFY5VVNDWjgyendBcTh5bkViN212aV9VdlFCQ3FfSlU3REpUUjhxay1lX3ltZk8zQTlLMUNQblZQTDlzSW51Y0tYYjByN3diX0JjYlZLRFI5cFlCZF9GTWU1NktCWVFUNTR2aGVTaGlDcTBDX3Z2Qm5VY3ZGZVBQZTZjbmhHU3daT29hY2xaeTdjZFZMeENOXzZUcE5SNFZ1MDB3T2E5X0M4ejNrZm0xY0Rt?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Global currency officials monitored the rising yen closely. Market participants evaluated historical playbooks from 2014 to understand potential official interventions. Treasury announcements in the United States also influenced dollar movements against the Japanese currency.",
-        "i": "US Treasury announcements provided temporary support to the dollar, pausing the yen's advance. Currency desks examined historical 2014 policy playbooks for precedents on official intervention capabilities. Policymakers continued to steer focus toward currency stability and yield management.",
-        "a": "Bessent's recent commentary amplified official focus on steering yen volatility and domestic yields. Desk strategists mapped current policy optionality against the 2014 intervention playbook to gauge tolerance thresholds. Meanwhile, US Treasury issuance updates introduced cross-currents that briefly checked the Japanese currency's upward momentum."
+        "b": "United States Treasury Secretary Scott Bessent took action regarding currency markets by announcing bond repurchases.",
+        "i": "United States Treasury Secretary Scott Bessent intervened verbally and operationally in foreign exchange markets alongside debt management updates.",
+        "a": "United States Treasury Secretary Scott Bessent deployed rhetorical warnings alongside debt repurchase operations to influence cross-border capital flows."
       },
       "timeline": [
         [
           "9 Sep 2026",
-          "Treasury announcements supported the US dollar and paused the yen's advance."
+          "The United States Treasury announced a longer-dated bond repurchase of up to $6 billion."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Trade surplus widens, brokerages plan interim dividends",
+      "sub": "Export growth, broker dividends and EV battery supplier shifts",
       "ind": [],
       "stories": [
         {
-          "t": "China Reports Wider Trade Surplus",
-          "src": "wsj.com",
-          "b": "China records a wider trade surplus as export growth speeds up. A trade surplus means a country sells more goods abroad than it buys from other nations. Faster export growth drives this change. The official figures show the gap expanding. The data comes from trade updates.",
-          "i": "China posts a wider trade surplus driven by accelerating export growth. External demand strengthens as outbound shipments outpace import values. The resulting trade balance creates a larger surplus. Official reports outline the expansion in trade metrics. The figures reflect ongoing shifts in global commerce.",
-          "a": "China registers an expanded trade surplus underpinned by accelerating export growth dynamics. Net external demand prints higher as customs data reveals widening margins between outbound and inbound shipments. The structural trade imbalance highlights resilient external absorption capacity. Macroeconomic tracking confirms the wider surplus trajectory. The reported numbers capture current trade dynamics.",
+          "t": "CATL Faces Supplier Shifts as Automakers Alter Purchases",
+          "src": "finance.biggo.com · 36 Kr",
+          "b": "CATL is a massive company that makes batteries for electric cars. Its stock price dropped by 30% over four months. Chinese carmakers like Li Auto and Xiaomi are moving away from using CATL as their main battery supplier. Other companies are stepping into these supply roles instead.",
+          "i": "Electric vehicle manufacturer choices show a distinct shift away from CATL as core customers reallocate orders. Automakers such as Li Auto and Xiaomi are diversifying their supply chains. This pressure contributed to a 30% retreat in CATL stock over a four-month window.",
+          "a": "Automakers are actively mitigating single-supplier risk away from dominant cell producers like CATL. Li Auto and Xiaomi reallocating their procurement volumes underscores tightening margins across the EV ecosystem. This customer churn directly catalyzed a 30% drawdown in CATL equity over a four-month duration.",
           "links": [
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzlXWTJCbHBEV3JlN0ItV0gtX3A0Y2duVkNvdWRfZ1h1bWtMSVhIejE0angwQTV5SUkzV2VXMkNxYjlhLWt5Vk5QbnBlMVpTaHVuTWczel9wd1ZEWFEwTXQzRDBHbHpWelNNNDhKZl84MzlkaGFmanpBQnpOUU85dWR0Y2VIS21DbExiYlBENUV4QXppNmM4amhWaktqa2Z3?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vbEZZRnlyV1R2WmQ4TWFvemFhenZVRkRlR29ET3BxQ3JNSzlDNGV6UVphbDdFTzdxOUxla1lsd3g4dGtOZ1oyc3B0dFhLYnQ4bnpfZ2RlWDJHT3NyLWw4bXdhVXRTM1oxX2tVM29tYXlpb2tzMXc?oc=5",
+            "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qTXFma1pQT3ZMV3lvYklLTmNvYlhnbFB0cGFGOFlqNjJFYWNOcmxsNXBuV21RV0hYZGtEeHllWUFrRWt3Mjl3UUh1cHJIVElYaDRV?oc=5"
           ]
         },
         {
-          "t": "Brokerages Plan Interim Dividends",
-          "src": "finance.biggo.com",
-          "b": "Nine leading Chinese brokerages plan to pay 23 billion yuan in interim dividends. Dividends are cash payments companies give to their share owners from profits. China Merchants Securities will be the first firm to pay out next week. These payments reward investors holding shares in the financial firms. The plans cover nearly two dozen major brokerages.",
-          "i": "Nine leading Chinese brokerages plan 23 billion yuan in interim <span class='term' data-t='gilt'>dividends</span>. China Merchants Securities will execute the first payout next week. The capital return schedule distributes accumulated earnings to equity holders. Major financial institutions coordinate the interim distributions. The upcoming transfers involve large corporate sums.",
-          "a": "Nine leading Chinese brokerages announce plans for 23 billion yuan in interim distributions. China Merchants Securities initiates the payout schedule next week. The capital allocation strategy returns liquidity directly to equity holders from corporate balance sheets. Major securities firms coordinate the broader return of capital. The announced sums mark significant periodic distributions.",
+          "t": "China Reports Surge in August Exports Amid AI Expansion",
+          "src": "WSJ · Tekedia",
+          "b": "China's exports grew by 25% in August. This jump helped make the country's overall trade surplus bigger. Strong demand related to artificial intelligence helped push these export numbers up while local shopping inside China remained weak.",
+          "i": "August export growth accelerated by 25%, widening the overall trade surplus. Artificial intelligence hardware demand supported these international sales. This external strength compensated for sluggish domestic consumption inside the local economy.",
+          "a": "External trade metrics demonstrated robust resilience as August export growth printed at 25%. This expansion widened the aggregate trade surplus significantly. Sector-specific demand tied to artificial intelligence offset persistent headwinds from depressed domestic consumption.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OalVwcUFEMm4zUXM4anZJcWNneUNiSXY3dUt3VHFBeEJTR19tTzktRXdRRV9RVmFYUjFhRXdqbzVudG5kcGlpZzZpRE81R1Z2RkJHQk1OQ3FUOFh0bmZHeUpZR0NxV211Y0otTFl3YmpKR1lFY0E?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzlXWTJCbHBEV3JlN0ItV0gtX3A0Y2duVkNvdWRfZ1h1bWtMSVhIejE0angwQTV5SUkzV2VXMkNxYjlhLWt5Vk5QbnBlMVpTaHVuTWczel9wd1ZEWFEwTXQzRDBHbHpWelNNNDhKZl84MzlkaGFmanpBQnpOUU85dWR0Y2VIS21DbExiYlBENUV4QXppNmM4amhWaktqa2Z3?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUc0TmFBY3VjcWVhS0JoRHh0N0lLZk1mcDJvQnhvTEc5MWVqaDV4M28xdlFxb2JEWllNc1lnNG00N21YQ3Y0a1JVRGYxYlI2TEM3VUwyY0xqeGJDbnlZck1jaG1uazBTdUFuaHlqaXZxbXRZZTBvbEMyNlpLTDcyMkZhdjJ6ZHliNVhUdnFOV3JZYnpXS2U0b2E0Zm1qYU0?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China injects 360 billion yuan into state banks and insurers. This money supports large state financial institutions. The funds enter the banking and insurance sectors directly.",
-        "i": "China injects 360 billion yuan into state banks and insurers. The state-directed capital injection supports core financial institutions. The liquidity deployment targets major state-backed lenders and insurance providers.",
-        "a": "China injects 360 billion yuan into state banks and insurers. The sovereign capital injection reinforces the balance sheets of systemically important state-owned financial institutions. The targeted fiscal deployment bolsters underwriting and lending capacity across major institutions.",
+        "b": "The state injected 360 billion yuan into major banks and insurance companies. Nine large brokerages also planned to pay out 23 billion yuan in interim dividends. China Merchants Securities will be the first of these firms to pay out next week.",
+        "i": "State authorities deployed a 360 billion yuan capital injection targeting major banks and insurers. Concurrently, nine leading brokerages scheduled 23 billion yuan in interim dividends. China Merchants Securities leads this payout cycle next week.",
+        "a": "State intervention materialised via a 360 billion yuan liquidity and capital deployment into state-owned banks and insurers. Simultaneously, nine major brokerages authorized 23 billion yuan in interim dividends, with China Merchants Securities initiating distributions next week.",
         "sources": {
           "0": {
+            "outlet": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OalVwcUFEMm4zUXM4anZJcWNneUNiSXY3dUt3VHFBeEJTR19tTzktRXdRRV9RVmFYUjFhRXdqbzVudG5kcGlpZzZpRE81R1Z2RkJHQk1OQ3FUOFh0bmZHeUpZR0NxV211Y0otTFl3YmpKR1lFY0E?oc=5"
+          },
+          "1": {
             "outlet": "IndexBox",
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVVQYzRlS0dmZVA3ODVEdkk4TlFUX2d1Nzdmc2ZHMUUwUERXQ0hGRlBRc2J2eVh4ajh4bmpXM21wSnBnZlNiZGVxV2VFMlJXay1UMlZlOGJxYV90MTZ3eE0tR29UTk9LcmcyMHRFaGE0WUdYR3JsajVtZm5OZkpqUlNka0NWeFY0MmxqYTlVMzZEZllq?oc=5"
           }
@@ -289,165 +275,138 @@
       },
       "timeline": [
         [
-          "9 Sep 2026",
-          "China reports a wider trade surplus alongside accelerating export growth."
-        ],
-        [
-          "9 Sep 2026",
-          "Nine leading Chinese brokerages announce plans for 23 billion yuan in interim dividends."
-        ],
-        [
-          "9 Sep 2026",
-          "China injects 360 billion yuan into state banks and insurers."
+          "11 Sep",
+          "Enflame Technology lists on the STAR Market at 142.18 yuan per share."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Rupee drops and stocks fall as crude oil climbs",
+      "sub": "Sensex drops and rupee weakens as oil reaches $100",
       "ind": [],
       "stories": [
         {
-          "t": "Sensex Plunges as Crude Oil Crosses $100",
-          "src": "The Indian Awaaz · The New Indian Express",
-          "b": "Indian stock markets had a sharp fall on September 9, 2026. The Sensex index, which tracks major companies, dropped by 813 points. Crude oil prices moved above $100 per barrel. The Indian rupee fell past 95 against the dollar. The Reserve Bank of India used dollar swaps to pull liquidity from the financial system.",
-          "i": "The Sensex dropped 813 points on September 9, 2026, amid rising energy costs. Crude oil surpassed $100 per barrel, triggering pressure on domestic assets. The rupee weakened past 95 against the dollar. The central bank intervened via dollar swaps to absorb <span class='term' data-t='carry'>liquidity</span>.",
-          "a": "Equities experienced a sharp contraction as the Sensex shed 813 points on September 9, 2026. Brent crude breaching $100 per barrel compounded external pressures on the currency. The rupee depreciated past 95 against the US dollar. The monetary authority utilized foreign exchange swaps to drain excess system liquidity.",
-          "gloss": "carry",
+          "t": "Sensex Plunges and Rupee Weakens on Oil Spike",
+          "src": "India markets",
+          "b": "The Sensex index, which tracks major stock shares, fell by 813 points to hit a 3-month low. Brent crude oil prices rose to $100 per barrel. The Indian rupee currency fell past 95 against the dollar. These moves happened alongside tensions involving the United States and Iran.",
+          "i": "The Sensex index tumbled 813 points to a 3-month low as Brent crude prices reached $100. The Indian rupee dropped below 95 against the dollar. The Reserve Bank of India utilized dollar swaps to absorb liquidity from the system. Geopolitical tensions between the United States and Iran drove the commodity price surge.",
+          "a": "The Sensex shed 813 points to a 3-month low, reacting to Brent crude crossing $100 on escalating US-Iran tensions. The rupee breached 95 per dollar, prompting the Reserve Bank of India to deploy dollar swaps to drain banking liquidity. The equity sell-off reflects broader risk-off sentiment transmitted via higher imported energy costs.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRGp1dlVvWVV0YVROUS1zWjY3UkFDN2pETUk2YVhLUTdrTGh2WHhJSGFpVHJKRXNKOTlVVHpxTDFsLUl6X1ZtT0JVQURucnF4X0NoeWtjNUR6alplMzNybHhfSkpSMmhlQ2pIVkMyb0E2bWRzQVVRUElRTDVPMjUzU295S0UwTmNnTUNBOFJpWUV6dmhGZ1FjOGNzTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUi1MWS1kbDRyNERKMUw4cTRqZUdFSHdkSmp6Z1dfZ2ZsbWtBSFF5WTQyWWJJaGZQcmc1RTdyTUJUWXRwX2hUbU9Benk4RHZ4QXU3UDZHczdTeE1kcE9xYk9jQk5STG5CVGswV2w1ZWsyY2FGZHlDXzl6QkxPb2pOUWRuNWxRX1ExaE9uMVlRMHNmb2NkcTFxWUhScDByX3Y4TFNRQXE1Q1JjaTJlVnVBNmhibWNmTTNRMnFndzBxVW9vN2cxckh3WTFmMG5Ndllab1U2VWVCc2pnLWdfVDgtQ29iQ3c2UzBT0gH2AUFVX3lxTE94OW5PUmN1Z0hMTFN2OFdjaHZ5azBydlNNdkl0MmhkSjFjMzZQaGZjVU8xTkVhZzFPckp3WGZCQVE2ajZ2YldPTmkwcWZub1FRc3NVSUVObl9yUXF0UjMyazhkc2huSzczbEozZmxMaml4emFVdU9CbkMwSmZNeHdCbEQwNG9kbGYxZWxwOFBnbFhkTjZqbk94WGhQWGZ5bEZzSU1LWmllZEVhTV9oT0RkNS03RHVUZ05ETHFydzB1SWRJd0hUQXFLXzk0dDRFUVkxbGNZcTBZRGxIRkhaSWU0MUxwUkVlVElEX2J6dkRkano1bHV1UQ?oc=5"
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnpmQXl4b19pbVJPNFFncTQ5NUlTSEgwNlFVTjlJazgyRGZQeURQaU5wSlRHTUVld3F6dFpQWkt0TUlZMWZBUWMyMzRKdk52aUVBWlg2TXNYb1dWMU50OTNYQ2FfWElXQUt1U2VZeGR3TFFWRDE4SjJ4alhRTmRKRWkzWk54aHQwTzVhaUw0TXJNdTA1ZjV0R19rZG5ET2t0RU1fT2Zkcw?oc=5",
+            "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUi1MWS1kbDRyNERKMUw4cTRqZUdFSHdkSmp6Z1dfZ2ZsbWtBSFF5WTQyWWJJaGZQcmc1RTdyTUJUWXRwX2hUbU9Benk4RHZ4QXU3UDZHczdTeE1kcE9xYk9jQk5STG5CVGswV2w1ZWsyY2FGZHlDXzl6QkxPb2pOUWRuNWxRX1ExaE9uMVlRMHNmb2NkcTFxYHScPj0n"
           ]
         },
         {
-          "t": "RBI Schedules Overnight VRRR Auction",
+          "t": "Reserve Bank Schedules Overnight Reverse Repo Auction",
           "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India announced a Variable Rate Reverse Repo auction on September 10, 2026. The bank set a notified amount of 6,00,000 crore rupees. The auction tenor lasts for 1 day. The bidding window opens at 09:30 AM and closes at 10:00 AM.",
-          "i": "The Reserve Bank of India scheduled a Variable Rate Reverse Repo auction for September 10, 2026. The operation targets a notified amount of 6,00,000 crore rupees. The single-day tenor reverses on September 11, 2026. Bidding takes place between 09:30 AM and 10:00 AM.",
-          "a": "The central bank announced an overnight Variable Rate Reverse Repo auction for September 10, 2026. The operational parameters specify a notified volume of 6,00,000 crore rupees with a 1-day tenor. Reversal is scheduled for September 11, 2026, following the morning bidding window.",
+          "b": "The Reserve Bank of India will hold an overnight variable rate reverse repo auction. This auction lets banks park 6,00,000 crore rupees with the central bank. The auction window opens on September 10, 2026, and reverses the next day.",
+          "i": "The Reserve Bank of India scheduled an overnight variable rate reverse repo auction under the liquidity adjustment facility. The central bank notified an amount of 6,00,000 crore rupees for the one-day tenor. The bidding window operates on September 10, 2026, with reversal scheduled for September 11, 2026.",
+          "a": "The Reserve Bank of India announced a variable rate reverse repo auction for 6,00,000 crore rupees with a one-day tenor under the liquidity adjustment facility. The operation targets evolving liquidity conditions ahead of the September 11 settlement. Eligible counterparties can submit bids during the morning window on September 10, 2026.",
           "links": [
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63561"
-          ]
-        },
-        {
-          "t": "Treasury Bills Auction Yields Released",
-          "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India published treasury bill auction results on September 9, 2026. The 91-day bills received 120 competitive bids totalling 37,880.700 crore rupees. The 182-day bills yielded 5.6174% with a cut-off price of 97.2753 rupees. The 364-day bills achieved a yield to maturity of 5.9148%.",
-          "i": "The Reserve Bank of India issued treasury bill auction results on September 9, 2026. The 91-day paper attracted 37,880.700 crore rupees across 120 competitive bids. The 182-day tranche cleared at a yield to maturity of 5.6174%. The 364-day tranche accepted 6,650 crore rupees at a yield to maturity of 5.9148%.",
-          "a": "Treasury bill auction results released on September 9, 2026, show robust demand across tenors. The 91-day issuance absorbed 8,550 crore rupees from 37,880.700 crore rupees in competitive bids. The 182-day tranche cleared at a yield to maturity of 5.6174% on 7,600 crore rupees accepted. The 364-day paper registered a yield to maturity of 5.9148% with a cut-off price of 94.4300 rupees.",
-          "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63555"
           ]
         }
       ],
       "politics": {
-        "b": "The Reserve Bank of India managed liquidity through auctions on September 9, 2026. Foreign exchange turnover data for August showed daily transactions. Reserve money data for the fortnight ended August 31, 2026, was released.",
-        "i": "The Reserve Bank of India released foreign exchange turnover data for August 24 to August 28, 2026. Reserve money data for the fortnight ended August 31, 2026, was published. Market participants monitored central bank liquidity management tools.",
-        "a": "The central bank published foreign exchange turnover statistics covering August 24 to August 28, 2026, alongside reserve money aggregates for the fortnight ended August 31, 2026. Operations focused on managing system liquidity via reverse repo auctions and currency interventions.",
-        "sources": {
-          "0": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63560"
-          },
-          "1": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63556"
-          }
-        }
+        "b": "The Reserve Bank of India released foreign exchange turnover figures for August. The central bank also published reserve money data for the fortnight ending August 31, 2026.",
+        "i": "The Reserve Bank of India published foreign exchange turnover data covering merchant and inter-bank transactions through August. Reserve money data for the fortnight ended August 31, 2026, was released by the central bank.",
+        "a": "The Reserve Bank of India released weekly foreign exchange turnover statistics spanning merchant and inter-bank segments for August. Reserve money aggregates for the fortnight ending August 31, 2026, were published concurrently."
       },
       "timeline": [
         [
-          "31 Aug 2026",
-          "Reserve Bank of India released reserve money data for the fortnight ended."
+          "10 Aug",
+          "Reserve Bank of India releases foreign exchange turnover data for August 10 to August 14"
         ],
         [
-          "10 Sep 2026",
-          "Reserve Bank of India scheduled the overnight Variable Rate Reverse Repo auction."
+          "17 Aug",
+          "Reserve Bank of India publishes foreign exchange turnover data for August 17 to August 21"
+        ],
+        [
+          "24 Aug",
+          "Reserve Bank of India issues foreign exchange turnover data for August 24 to August 28"
+        ],
+        [
+          "31 Aug",
+          "Reserve Bank of India releases reserve money data for the fortnight ending August 31, 2026"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Brazilian currency movements, equities, and Petrobras operations",
+      "sub": "Brazilian Real currency movements and Petrobras updates",
       "ind": [],
       "stories": [
         {
-          "t": "Brazilian Real Movements and Commodity Support",
-          "src": "FXStreet · stonex.com",
-          "b": "The Brazilian real is a type of money used in Brazil. Money value goes up and down compared to other money like the US dollar. ING says that closer political polls helped support the real against the dollar. Stonex notes that a stronger real helped support coffee prices.",
-          "i": "The Brazilian real found support against the US dollar as narrowing political polls shifted sentiment. Stonex reported that a stronger local currency acted as key support for coffee prices. Meanwhile, the rate gap continued to shape the currency's outlook against the dollar according to Rabobank.",
-          "a": "Political polling convergence provided near-term support for the real against the greenback, altering positioning metrics tracked by ING. Rabobank highlighted ongoing rate differentials as a persistent driver of currency weakness against the US dollar. Concurrently, the stronger real functioned as a transmission mechanism supporting domestic coffee valuations in agricultural markets.",
+          "t": "Petrobras secures drilling approval alongside widening global price gaps",
+          "src": "TradingView · valorinternational.globo.com",
+          "b": "Petrobras received regulatory permission to drill 3 extra wells in Brazil. At the same time, the price gap between Petrobras fuel and the global market neared a record. Companies like Petrobras manage large energy projects across the nation.",
+          "i": "Petrobras obtained regulatory clearance to drill 3 additional wells in Brazil. Meanwhile, the <span class='term' data-t='inflation'>inflation</span> in global commodity benchmarks left the domestic Petrobras price gap near historic records.",
+          "a": "Petrobras secured regulatory approval for 3 new drilling sites while its divergence from global pricing benchmarks approached historic extremes, testing corporate margin assumptions. The persistent wedge implies heightened sensitivity to future international crude shocks.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzR6N0NROC1XazYxLXg4MnFya25mbDR3Q1M0UFFNT3RCQ1FsanR5SDdNVTR2ZjlUZWd5UmZ4Q041RGhMYlNCQzJEeDg4aUJlSE1tcjJlekl4bTdZeU9nZFRRVkt3X0tnc3pudUxoZXhXeVh6M1JwRUx6MnIzdW4yaUFmSDBMZ1hHdlFxVTdaYlJWMHVrN09ER2c3dEplOG1qMFptci1wbzBTZFByMU5UYzlR?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHd2T19LNDkyRlY3eFFlMVpqQTNoTzZ5UHdqT0pxcllEdENuV2J1cV90MlJBNWV4ZzQ2NjJObmZ1R192cnFnR0luWV80SUMtUFY0cGRaMUpZZ2NkdmZMcTMyTFg0UGloNXgyZUFLRVVnUHdvSmxkUnJnTnpUV0FYVUFOVWV4WXBnampHUll3TVpMS0p4MTk4eUFVUU9tdXhodUE?oc=5",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmhiOFRFQVZ5QjEzNHZCelltZ3FadllxbktsanV4M21DUGdEZkdMWENfYzVoWllzZGJBM0syR2tTRGgwTlljNUJrTk5yWlNhWmJTY2lrZGh0djJ6Q3p4enl6N2ZoM1Nqd21nZGJ3NkdZWkhFTl9JVHRnT1Q4ei1wbUFteXVsaVNyeDlmRkZBbzl1WTc3Y0diZkxaZE12R3dSb1l2LXRfSGw1Skk?oc=5"
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDA3WE9BbTdjcjJTSWh4NjM0aFA2R2hSZ0NpSmpRZ2ZOUGNkNTIwSmNRQlo5THZDSzloN1d5NGNiWTFwYVo1QUlyV2dvSjRjTmRmR0w1SWlvdi1qMUhyMVRrQ1VEWF8zZDd6MFVCZk04SG9CekRMM3dvNlJlSVFJd1A4anNPMkFiLTNTMXM5azJGWGNmT1hmNkxpaldMakpDTWxsanRMc3E5MFFJcE50MC0tTDIxRm42?oc=5",
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWsxdk5kczRoS3Q0UTBoMWR2ajgyQkRLd1JySWhLSXhzVEkwc0IyYnl4Mnl6NTFJSDZvRW8xN1NyRVh5Vm4yTzJhcGlOb0RKTU1FcHVmZ3hOcDF3RzdnM21lcHJid2ZNN0RrcC1LemNwWkJzMF9FOXlzQ08zclVEeDItRi05OThyRFQyVkd2LU03b1Y5b1QzUnVyczlMSmZ6YWNYaDZCamVFRVd4blZva2lOMkF5Z28zd1HSAcgBQVVfeXFMUDNnS1ROQm9WZmNpMFk2QnpBQXA2bEZOY0dQR3BOVXlFczAwbDJxZ0k2ZW1ScTlNOTRzUEhfM3NQalUwUkk0aFlIMkNSdFg0YWhQem1BbVU0MTdTdEQwQ3VGVWZHMGsybHRlZ05mT2FyUnRjU1EycERWYnM5QldkZVFvS3ZpZm5qNnY4UEJhQjI3ZGYwd2pRbTNYYnNTZ2hCODlfbUVvUzhISzNoRElYOFJtWGxzUGVwbVlsV09HdnNlYVJlbk1fcjI?oc=5"
           ]
         },
         {
-          "t": "Petrobras Operations and Market Valuations",
-          "src": "Valor International · Zacks Investment Research · TradingView",
-          "b": "Petrobras is a big energy company in Brazil that drills for oil. Valor International says the price gap between Petrobras and the global market is close to a record high. Zacks Investment Research reports that regulators gave Petrobras permission to drill three more wells.",
-          "i": "Petrobras secured regulatory approval to drill three additional wells in Brazil. Valor International noted that the price gap between Petrobras fuel and the global market neared record levels. TradingView reported that the broader Ibovespa index fell as oil prices increased.",
-          "a": "Regulatory clearance granted to Petrobras allows the state-controlled firm to add three new drilling sites to its domestic portfolio. The widening price disparity between domestic fuel rates and global benchmarks approached historic highs according to Valor International. Higher crude oil prices coincided with a decline in the Ibovespa index during the session.",
+          "t": "Brazilian Real gains support from narrowing polls and rate gaps",
+          "src": "Traders Union · FXStreet",
+          "b": "The Brazilian Real held gains against the US dollar and the euro. ING noted that narrowing political polls supported the currency. Rabobank pointed to interest rate gaps driving currency weakness.",
+          "i": "The Brazilian Real maintained strength against the US dollar as narrowing political polls offered support. Rabobank analysts highlighted that the persistent rate gap continues to influence currency valuations.",
+          "a": "BRL retained resilience against the US dollar and euro as tightening poll spreads outweighed widening sovereign rate differentials. Market participants continue to price domestic political risk against structural <span class='term' data-t='carry'>carry</span> dynamics.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWsxdk5kczRoS3Q0UTBoMWR2ajgyQkRLd1JySWhLSXhzVEkwc0IyYnl4Mnl6NTFJSDZvRW8xN1NyRVh5Vm4yTzJhcGlOb0RKTU1FcHVmZ3hOcDF3RzdnM21lcHJid2ZNN0RrcC1LemNwWkJzMF9FOXlzQ08zclVEeDItRi05OThyRFQyVkd2LU03b1Y5b1QzUnVyczlMSmZ6YWNYaDZCamVFRVd4blZva2lOMkF5Z28zd1HSAcgBQVVfeXFMUDNnS1ROQm9WZmNpMFk2QnpBQXA2bEZOY0dQR3BOVXlFczAwbDJxZ0k2ZW1ScTlNOTRzUEhfM3NQalUwUkk0aFlIMkNSdFg0YWhQem1BbVU0MTdTdEQwQ3VGVWZHMGsybHRlZ05mT2FyUnRjU1EycERWYnM5QldkZVFvS3ZpZm5qNnY4UEJhQjI3ZGYwd2pRbTNYYnNTZ2hCODlfbUVmUzhISzNoRElYOFJtWGxzUGVwbVlsV09HdnNlYVJlbk1fcjI?oc=5",
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWtEVmRLQVkzV1p6VDNIdWxYQmhkZzZOMlo1NWdIR25OVFk4cVJHQkwxeklNbERQcWpfR1VIcG5ibUFVNnJORzlNRDlaMW9QUWxISXI4MEtPYnpobUhnNjZhOW9zTEJ6TV9tY1N3Umpkb3ZjQ1dQSzhpWktVaGg1a214Qk53eUxjRklDUlpTTUtqUlRSY1I4SXFZbEdrOEhiSlpCeA?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG14eFBFZTdvT3BkOHo1SWFvdE9XVkF6eDFsVkUyQUstbE9OVzlKZEoxZmRka1FTYmZ0Mzl0LV9YbHdNQnZrdFd5MHFhSEpQbU1XUVZaamFORGw1YVBva05XSUViQ3BLOHZlenJfTjdBMlhPekxVck0zdlp1Y1R4Tm1WRlN0WjhfVDFNcA?oc=5"
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWg2YkxqQS1ETGV1MGpmX0hWRkM1Q203NzFBQm9wWnRiZUp6eEs4RU5hWnhUZVZLOTlQcGt4bllRUXVCTVJMMmc5eVJrbzJWeXpOSkhvN3hlOVpSOEhQZDVpbUcyNThFeWtxT1VNN3ZpcDN1cUNrUmtLN2lLOUViVEt0Q0FKckZHMTB5OEl3?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzR6N0NROC1XazYxLXg4MnFya25mbDR3Q1M0UFFNT3RCQ1FsanR5SDdNVTR2ZjlUZWd5UmZ4Q041RGhMYlNCQzJEeDg4aUJlSE1tcjJlekl4bTdZeU9nZFRRVkt3X0tnc3pudUxoZXhXeVh6M1JwRUx6MnIzdW4yaUFmSDBMZ1hHdlFxVTdaYlJWMHVrN09ER2c3dEplOG1qMFptci1wbzBTZFByMU5UYzlR?oc=5",
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmhiOFRFQVZ5QjEzNHZCelltZ3FadllxbktsanV4M21DUGdEZkdMWENfYzVoWllzZGJBM0syR2tTRGgwTlljNUJrTk5yWlNhWmJTY2lrZGh0djJ6Q3p4enl6N2ZoM1Nqd21nZGJ3NkdZWkhFTl9JVHRnT1Q4ei1wbUFneXVsaVNyeDlmRkZBbzl1WTc3Y0diZkxaZE12R3dSb1l2LXRfSGw1Skk?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political polls in Brazil are getting closer together. This polling shift helped support the Brazilian real against the US dollar. Currency analysts at ING pointed out these political changes.",
-        "i": "Narrowing political polls in Brazil provided fundamental backing for the currency. ING highlighted this polling convergence as a factor supporting the real against the US dollar. Currency traders monitored these political developments alongside macroeconomic rate differentials.",
-        "a": "Political risk dynamics shifted as recent polling data narrowed, providing tangible support for the real against the US dollar according to ING's currency strategy desk. Market participants priced in the electoral tightening alongside existing central bank rate differentials. The political trajectory remains a primary input for cross-border currency flows in Latin America."
+        "b": "Political polls in Brazil narrowed recently. This shift in public opinion supported the Brazilian Real against foreign currencies like the US dollar. Analysts track these political changes closely alongside economic data.",
+        "i": "Narrowing political poll results provided fundamental support for the Brazilian Real against major pairs. ING analysts noted this sentiment shift counteracted pressures from existing macroeconomic interest rate gaps.",
+        "a": "Shifting poll spreads altered the baseline political risk premium embedded in BRL valuations. These domestic developments interact directly with cross-border yield differentials and monetary transmission efficacy."
       },
       "timeline": [
         [
           "9 Sep 2026",
-          "Petrobras received regulatory approval to drill three additional wells."
+          "Petrobras receives regulatory approval to drill 3 additional wells in Brazil"
         ],
         [
           "9 Sep 2026",
-          "Valor International reported that the Petrobras price gap neared a record."
+          "Rabobank publishes analysis on the rate gap affecting the Brazilian Real against the US dollar"
         ],
         [
           "9 Sep 2026",
-          "ING noted that narrowing polls supported the Brazilian real against the dollar."
+          "ING reports that narrowing political polls support BRL strength"
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Dow reviews Aramco venture stake, non-oil exports shift",
+      "sub": "Aramco venture review and non-oil export drops",
       "ind": [],
       "stories": [
         {
-          "t": "Dow Weighs Future of Saudi Aramco Chemicals Venture",
-          "src": "StreetInsider · zawya.com · Business Today",
-          "b": "Dow is a huge company that makes chemicals and plastics. It owns a large share in a joint venture worth $20 billion with Saudi Aramco, the state-backed oil giant of Saudi Arabia. Bloomberg News reported that Dow is now thinking about selling this stake. Bloomberg is a major financial news organization. Dow stock gained in trading after the report.",
-          "i": "Dow is reviewing its stake in Sadara, a $20 billion chemicals joint venture with Saudi Aramco. Bloomberg News reported the potential divestment process. Dow stock advanced following the news publication.",
-          "a": "Dow is weighing a divestment from Sadara, its $20 billion joint venture with Saudi Aramco. Bloomberg News broke the report, prompting a positive equity reaction in Dow shares. The strategic reassessment signals a potential unwinding of large-scale petrochemical exposure in the region.",
+          "t": "Dow considers leaving Aramco partnership",
+          "src": "Bloomberg News · Business Today",
+          "b": "Dow is a huge company that makes chemicals and plastics. It is thinking about selling its part of a 20 billion dollar business it runs with Saudi Aramco. That business is called Sadara. Aramco is the big Saudi oil company. Dow wants to leave this partnership.",
+          "i": "Dow evaluates a withdrawal from its 20 billion dollar chemicals partnership with <span class='term' data-t='inflation'>Saudi Aramco</span> known as Sadara. The industrial firm reviews its stake in this joint venture according to reports from Bloomberg News. Equity markets reacted as shares in Dow moved higher following the news.",
+          "a": "Dow weighs a divestment from Sadara, its 20 billion dollar joint venture with Saudi Aramco. The corporate strategy pivot triggers a positive equity response for Dow as markets price out capital expenditure commitments to the venture. The potential exit signals a recalibration of large-scale petrochemical exposures in the region.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1J2bnk2Ty1yWFRvOFNXNUdjNy1tZEJqTVZSby1ZY1NUSWR1OFA0WWVNSmJ1VGxabGNQR0wzQkpqUW5OM1FkbkNqSk5rNTZfdHJqVUtKazYtcGRCNVhVbmREZWZZX2Vwc09PUlAtTlJmMzhoTjVtM2JKRVhhOVY4MmhCWEpaa1g0VTF4OFptTkQwWXdFNWZQT2FmMHNJTkVQR3Q5Vy1VektTV3pBcHZjdW1DdEpud1V1NUR5RktvMXVrVWRLWk91YlhDcy1lM19FYlE?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEFVaE4zeUxmRlNTUzhYS0dpcUR3Vi1UTnRJeHFHLUU2cUFYSUE5NHV1TnNvMnoxZVRHa0wxVzlTT3Z5M0p3bG1neVItNGRwbUJvSFY4UFdQeWlZejJvR0RVbzhCVnhZcmpvOVA1X1YtU1NBYlN6cVZ6TXAyUFRvc1l2ckwwN2szbWw2ZU12VG9vS1SzcjhTTEpVYThSYTRlcllieDBFaXk4OFdzbkF6WTFtY0g?oc=5",
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUd4OHJfZ19RMVBrM25YaU9ndk5SYVExNTBiVUJkOGhYczZ5ellkRm5IMGNMeUNBWF9CSzlfeHFkTzZFX0JEMEpidTc2V2FDck1tQUdtVks2THBoLWFsVFZFREtGTzAzVU9mc0k3a096d0RkNEVSdklJN3VJN0hzeXBUVlhMRE8waXA2YzhaRVAwVEZ3T0ZVMzhXeDFaVnkyZXNiNXZ5T0tkMzVfbm82NzBZUjRaSlFKaUNHVHVKYUpLVVFBUzhPTGNjVlhZZ9IB0wFBVV95cUxQYmR2ZjBLbFRMWnpadnllZzFtSG84NDhpcWhWbWxjS3JFelZwZl80eHRvZXo5UTRuUU55RnhUX2w1cUU2SXJJVkFTOGIxcUVldnd5SFd3U2NyaXZneTlVQTI3MUgwYXJLWlJzc1dkdGlnSzBrelZwXzV0QXVyYkM3V19SVDd1amN3WFM0X1ZXaS1BanZnZ2pRLV9vb01QSzhjZnd4WjFKNEFqc09YOXlVVUVtZlhER2hSaXVFbFY4eFhUZklvT0NCSl9HYzl1T28tbjYw?oc=5",
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXBfQ0tfbTQ4RXlFZkJuYTZpMGh3VWU5TE51WmJ6VnpSWm5tT2EwZXQxZWZRSGtSMDZWMU5GUkhTQm5PSExoRFk5cGQ1b0VhQzJlMHRURlFBZWpNR1c4VWQ3U3U3dGZVeWFlOWZ6dnYybU9sZDBDOWg4bTBJRlN1dkdNZWlhcExQT3lYaXZoMkNLTUt6MTFWOWtCRFVVSnphRGJWRld6ZDBGcm1JTmxHeXctSTFJYnI4OHpuSDdqbmgzWUI3QkHSAcsBQVVfeXFMT19VZVFjYVRrUENuS29TVDRhQ00xQVJjSUtGRWdLWVpWUWZ1VHdET0lXaUZfajdHUTE1VVgyUnBvbW51WV82cHNzZzJjNXZ5UGpxQjRMRjVMbFd0X3F5OG8yb3RTY0pHaWNaMS1uQUZCMXdtYm9DR1VhSUlFSVNaLU41UFA4MTJjY1hoWTJsZzRhVEl4cHIzSmQ1cW9XQk9naHRlZFFLSG44NFp2QXo0bFlNMUppYS1uQXdYLWw2Skx1Mi1uU2RSc1NuYjg?oc=5",
-            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejZWZnhTNkNsa3lRNE9FOWdRSV9UWXVqanNjTWdiNTBLVlJIUW5uZVF1cm5KcGNvc2dKcXRnVi1RSHpzZHVvSG12a25IaUJibzRlanZuWkNwW0NdyvU3YWNyLTY5UVd4bWdob09GUnJDcnhSc2E2VjlIVlNjOGFVMGM3TFp0RHpnNFVF?oc=5",
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVdDeWdkTWZEdHpXdUp1WWRmeVVPZnd5SUdUOXhzenNZUEo4RHpkcVVzVmNIZXZIR3p2cC1EN1g3b24xR0EwUWFwV1lBZHlySmFyTW05VU03NW9wOHlNRTE4bTFseFdZaWJyTlFWRThpVkk0YkwyaUlKdC1JVXhSSjFMNjIybFVqbkgwcWJkXy03ZlRsTTRSSDl3TU9mUjRqT0VpWVlPQmJBYkx2TDFOY1k3Q2NoY1ho?oc=5",
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaHREZEFBQkZ4UzhiZHgtUzIzM2NwSE5aclU3Qmx2WVBEU2M0VzZzN1ZSUzJUQXpIdGkxaVkwTmhYREcyRUs3cXltcl83OVJLWjJmaFl4SlhkcHNRYnVDdHVGWExjTWg4X2ZIaEZpbzhkaGxSQ1RjVUE3YkY4bVFuUlZneGxmZnF3Nm51MTdEcXZiSUNjd01kNXRGV3NLS3VmYjdDelduZnB5ZWN5VFZYanBCc1BjaXZRWGtJZWVCQlY4MGR2Rm1DalN1cC0?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV3ZyT0wyQnNWYXFROFpBd0lVNFdnNHNFa3Vjczd6T2x4Mkp3VU5KXzdPQkFDTWlFRzI4a2pIRGJoSy1RanFYejdLdzIxWXNSUm1QOXBQTlUzQnppZThtYWt3bmtGR1U2WHZrcWNmOURzeTdDX25mdFp1Rng1SE1hOGJvX1lFa2RINjFYTnY1QzBTMFpKbmRQMGdQV3IyME5mcENNNE0xRDBsU0Y4cDI2dU9TY2tydTNpT2VQdmxNU2c?oc=5"
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0dVa0lCV1BVMWJHRWZiWV9uVDJDX3VCTGhjNlNLaWNyX1hLYTl0NUNvM3YybzUxLWZRaTFWUm9iMjdIZlNlZnB0QlBNMjdISG9YNTBzVl8ya1ZYekl4M2ZkTkt2STYyOHlkYUdRNGIwdk94UnFhOS1kU1duZDlYS0dmQmxWMHdiWEdjbFNVbVVwdHUxSERHWDhnRTR6eE9xZzhoM2tteW92SzFYOFE?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUd4OHJfZ19RMVBrM25YaU9ndk5SYVExNTBiVUJkOGhYczZ5ellkRm5IMGNMeUNBWF9CSzlfeHFkTzZFX0JEMEpidTc2V2FDck1tQUdtVks2THBoLWFsVFZFREtGTzAzVU9mc0k3a096d0RkNEVSdklJN3VJN0hzeXBUVlhMRE8waXA2YzhaRVAwVEZ3T0ZVMzhXeDFaVnkyZXNiNXZ5T0tkMzVfbm82NzBZUjRaSlFKaUNHVHVKYUpLVVFBUzhPTGNjVlhZZ9IB0wFBVV95cUxQYmR2ZjBLbFRMWnpadnllZzFtSG84NDhpcWhWbWxjS3JFelZwZl80eHRvZXo5UTRuUU55RnhUX2w1cUU2SXJJVkFTOGIxcUVldnd5SFd3U2NyaXZneTlVQTI3MUgwYXJLWlJzc1dkdGlnSzBrelZwXzV0QXVyYkM3V19SVDd1amN3WFM0X1ZXaS1BanZnZ2pRLV9vb01QSzhjZnd4WjFKNEFqc09YOXlVVUVtZlhER2hSaXVFbFY4eFhUZklvT0NCSl9HYzl1T28tbjYw?oc=5"
           ]
         },
         {
-          "t": "Saudi Non-Oil Exports Decline in Second Quarter",
-          "src": "ارقام",
-          "b": "Saudi non-oil exports fell by 6.6% to SAR 82.6 billion in the second quarter of 2026. Data published by official sources detailed the quarterly drop. Meanwhile, non-oil business confidence rose by 0.3% in August. This index tracks business sentiment outside the petroleum sector.",
-          "i": "Saudi non-oil exports dropped 6.6% year-on-year to SAR 82.6 billion during the second quarter of 2026. August data separately indicated a 0.3% increase in non-oil business confidence. The <span class='term' data-t='inflation'>inflation</span> metric for trade volumes showed contraction in international non-petroleum shipments.",
-          "a": "Saudi non-oil exports contracted 6.6% to SAR 82.6 billion in the second quarter of 2026. Concurrently, non-oil business confidence edged up 0.3% in August. The divergence highlights sectoral resilience against softer external demand vectors.",
-          "gloss": "inflation",
+          "t": "Non-oil exports contract in the second quarter",
+          "src": "أرقام",
+          "b": "Saudi Arabia sells things other than oil to other countries. These are called non-oil exports. In the second quarter of 2026, these sales went down by 6.6 percent. Total sales dropped to 82.6 billion riyals. At the same time, business confidence for non-oil companies went up by 0.3 percent in August.",
+          "i": "Saudi non-oil exports declined by 6.6% to reach 82.6 billion riyals during the second quarter of 2026. Domestic non-oil business confidence ticked up by 0.3% in August. These metrics illustrate the shifting dynamics outside the petroleum sector.",
+          "a": "Saudi non-oil exports contracted by 6.6% year-on-year to 82.6 billion riyals in the second quarter of 2026. Concurrently, non-oil business sentiment recorded a marginal 0.3% expansion in August. The divergence highlights differing trajectories between trade volumes and domestic commercial sentiment.",
           "links": [
             "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcEktRTNVaWNpYzZ6WlFuYVRQZnRFMXh1bmRRZE4xUzZBb3NIVFF1bGV1TFVJYW5sM01ub3gwRmswUHBpYXBIZ3dUY2ZqQjZGcl8xbnQxcElPU0h2QzZGVmdNWUdkcFctYXhUQlBCdw?oc=5",
             "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wYy0xRUVNYlRaNDlZOTBJNmkwZjNYTzhxMnhOWU5GN042SXJOU295S25qYWJnR210MW85aHgxSzBLYUpxWk9ZWERlSGF2OGJ0SUk5NlhucFFWYW9nNFR5QThPY2I1a29veXc?oc=5"
@@ -455,116 +414,108 @@
         }
       ],
       "politics": {
-        "b": "Government officials managed economic reports and joint venture news. Business confidence numbers came out alongside export data. Aramco remains a state-backed entity.",
-        "i": "State agencies released second-quarter export figures and August business sentiment metrics. Corporate developments involved state-controlled Aramco and international partner Dow.",
-        "a": "State statistical releases detailed second-quarter non-oil export contraction alongside August sentiment expansion. Bilateral corporate ties involving state-backed Aramco underwent public reassessment."
+        "b": "Global markets reacted as Brent crude oil hit 100 dollars a barrel. This price jump happened because of tensions between the United States and Iran, alongside attacks in the Middle East. Stock indexes around the world fell heavily as a result.",
+        "i": "Brent crude breached the 100 dollar threshold following regional Middle East escalations and US-Iran tensions. Equity benchmarks globally experienced steep sell-offs as energy input costs escalated past previous peaks.",
+        "a": "Brent crude surpassed the 100 dollar level amid acute US-Iran friction and sustained Middle East kinetic activity. Global equity indices suffered triple-digit losses as the energy shock triggered broad risk-off positioning across major asset classes.",
+        "gloss": null
       },
       "timeline": [
         [
-          "9 Sep 2026",
-          "Dow considers exit from $20 billion Sadara joint venture with Saudi Aramco."
+          "9 Jun 2026",
+          "Saudi non-oil business confidence rises 0.3% in August according to reports"
+        ],
+        [
+          "9 Jun 2026",
+          "Saudi non-oil exports fall 6.6% to 82.6 billion riyals in the second quarter of 2026"
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Dangote refinery initial public offering and naira foreign exchange levels",
+      "sub": "Dangote refinery IPO details and currency rates",
       "ind": [],
       "stories": [
         {
-          "t": "Dangote Refinery Sets Initial Public Offering Price and Entry Ticket",
-          "src": "Capmad · Head Topics · streamlinefeed.co.ke",
-          "b": "An initial public offering is when a private company sells shares to the public for the first time. Aliko Dangote opens the refinery capital with shares priced at ₦525. The entry ticket is $0.40, and the minimum stake requires ₦5,250. The initial public offering is set for 14 September 2026.",
-          "i": "Aliko Dangote prices the refinery initial public offering shares at ₦525 with a $0.40 entry ticket. The minimum stake for investors sits at ₦5,250. The refinery initial public offering is scheduled for 14 September 2026 following debt reductions.",
-          "a": "Aliko Dangote prices the refinery initial public offering at ₦525 per share with a $0.40 entry ticket and a ₦5,250 minimum stake. The listing is scheduled for 14 September 2026. The entity previously cut debt ahead of this record Nigerian initial public offering.",
+          "t": "Dangote Refinery Launches Initial Public Offering",
+          "src": "Capmad · Head Topics",
+          "b": "Aliko Dangote opened up the refinery capital for investors. Shares cost 525 naira each. An entry ticket costs 0.40 dollars. The initial public offering is set for 14 September 2026. The minimum stake costs 5,250 naira.",
+          "i": "Aliko Dangote opened refinery capital with shares priced at 525 naira and a 0.40 dollar entry ticket. The initial public offering is scheduled for 14 September 2026. Investors face a minimum stake requirement of 5,250 naira.",
+          "a": "Aliko Dangote opened refinery capital with shares at 525 naira and a 0.40 dollar entry ticket. The initial public offering is slated for 14 September 2026. The minimum stake is set at 5,250 naira.",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGRIMFcyR2FTUnhEMExLZjFJOFFVSzQ4SHA1b0dvRC1KdkdldGxqdDd4ZWpBSVR0X0ZQWWd2eERobHNsUnQ0Ung3Mk1JTXU5MmJNM2ZnRXB0ZEt4eU9tQ1gxc0xVRkwtSVRBZi1xUnNreUljU0lNOVUwX2VlcHBoUHRTYXh1Y2hkd3ExdE11WE9jblpfWl9LSHdFRjNfeGRPeHM1NWlXdFIyVTBp?oc=5",
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmQwcFk0WlZpWmJsUHgtaWhGS2hOWjRya0hudEpYSjV3Rk1JdUI3YnEzamJyWHFqUHVKbXRxaVJBbzhLNTQtNWhjMjFZX19UV0lKUXU1UTkyaW44RUozVzVGNURoZm5XRmVSaWJ1RTBEaWxVbDFoZXI1a2hkUmszVVVUbzBELURTdlVLRHN1SWVIV3ZkeDEtUnFPVzdYNms?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDcxMzJyMkZIWFEwUC1DSnpmZzRGSXBIbkxObUk0Z2hIQ0NHY3k4ZEhJQVhGOGNwN0poNmFDRmhzVll4Zi03Tks2U0FqdkRKVF9adDF3aHVDZllpdkxQOFhEZi1LblVWRjNsek9CMk4yaUZmd2pFZF9wa3FpS2dsQVZSSmx6bTZWci1oc0U4QkFGcjQ?oc=5"
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmQwcFk0WlZpWmJsUHgtaWhGS2hOWjRya0hudEpYSjV3Rk1JdUI3YnEzamJyWHFqUHVKbXRxaVJBbzhLNTQtNWhjMjFZX19UV0lKUXU1UTkyaW44RUozVzVGNURoZm5XRmVSaWJ1RTBEaWxVbDFoZXI1a2hkUmszVVVUbzBELURTdlVLRHN1SWVIV3ZkeDEtUnFPVzdYNms?oc=5"
           ]
         },
         {
-          "t": "Naira Trades at ₦1,321 While Parallel Market Rate Reaches ₦1,410",
-          "src": "PM News Nigeria · Traders Union · Vanguard News",
-          "b": "Foreign exchange is the trade of different world currencies. The naira trades officially at ₦1,321 against the dollar. The parallel market rate hits ₦1,410. Kunle Afolayan states that Nollywood producers may leave YouTube if the naira strengthens against the dollar.",
-          "i": "The naira trades at ₦1,321 in the official foreign exchange market. The parallel market rate reaches ₦1,410. Kunle Afolayan attributes Nollywood producers' YouTube patronage to the prevailing dollar-to-naira exchange rate.",
-          "a": "The official naira rate settles at ₦1,321 while the parallel market rate touches ₦1,410. Kunle Afolayan notes that Nollywood producers risk leaving YouTube if the naira strengthens against the dollar.",
+          "t": "Exchange Rates and Creator Economy Concerns",
+          "src": "PM News Nigeria · Vanguard News · TheNiche",
+          "b": "The official foreign exchange rate traded at 1,321 naira. The parallel market rate reached 1,410 naira. Kunle Afolayan stated that filmmakers might leave YouTube if the naira strengthens against the dollar. The producer linked platform patronage directly to the current exchange rate.",
+          "i": "The official foreign exchange rate traded at 1,321 naira while the parallel market rate hit 1,410 naira. Kunle Afolayan noted that Nollywood producers may abandon YouTube if the naira strengthens against the dollar. The producer attributed platform patronage directly to the dollar-to-naira exchange rate.",
+          "a": "The official foreign exchange rate printed at 1,321 naira alongside a parallel market print of 1,410 naira. Kunle Afolayan linked Nollywood creator migration from YouTube to potential currency appreciation. The producer explicitly attributed platform patronage dynamics to the bilateral rate.",
           "links": [
             "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG9nc3E1VnlOWTZmdGZ2bmdFOGJsSWNtT0pXNmh6M2lQbnJhcC1ndXZ5aXVqVklnVEVUd2hXYUd6MU1KUFk0T1ZXZUZQbTl4RWlmYWxWanBTLTNRVWdLVHFqdVBERUZnMEJPc29WTVhlc2ZEVXVBcDBScXJidXNvRHNSVEdQY1dLb3FTOExvTHEyOW5aTG4tWERVcnRhOU96cWZXZWNUNWVUbmpDb2ZqZkhmUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDA2cEpWcWl6ZmFod3Z4TGR0b1NObTZFa2ptelRubEZzQmVIZ2wtcDVDRFMtdWdqRDhmTUZFdTJhbUxhbld0RzF3N0Vqcl9yM0wwRi1zYngwWFdfRUQxSkhEeVNrWWlYakxJdUxvd1VqNmpfNkkweEotTTdybEl4LVpJMjRwbjlCX0RiaWdWUQ?oc=5",
             "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDNRaDMwMExrc254azdYSkFmRDNvSXd5TTFleG94SEpUdmkzWGVmQTNvcHBwWnVmWkhsNFNJTmw4MGZkVVpmN1FQX0I2eTJMUXJ1S3paVHgzZlNXYlp5TG9JeXY0Yzd6Mmd6OEdUcGxaSHFmbTF0VGxIb0RjSDdLQ2EtdE1RUmJueTgzNTJNdkltRnVJUXFINGtYaENWQmZKNmZObGxBUzhtb0V2VmJ3RWhtN3FEN1lfa2VDWG85SGZTajDSAcgBQVVfeXFMTzg1eGlxbHNSa3VPb3NRblVGaTJBNUtxcFFQVThMZGVsT3MyYWdKQW5MZ1ozMzRVMGZBRFRodGlSTUFBUlcxbEFrOEdDUlJsOTdSZjhCM3prQkxzN01ZNkswUTl3SmZoNnhVZDZvQzhfbjJDSFVZTFZ3MnVFOXdEbWlzb2tCTEx1ZHJCM1REa3VWN1ZOTXlabnB0YnJUMUdwYllBSTJuMGhETDNGUzZBNm4xUjNRaURRMEptU2JkVUh6WWp2Skd0Umk?oc=5",
             "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUGZNay1OSHFjQm1kM2VVcWRjdVJhM1pxUVp3ZkpKeDZzenBDVk5leGZFOGxQZy1UTldHazB3Um41TXFIa09SekhwWjF2UzA0VlZDRVd3ajhya19WM1NuVWllSXJ0cjVvT0NteDBZblhpb21teDJNejVGTml3dWdyNlBUTXdFbTNmNHAzQjdVR0RsRGI5NVdHRE1mVjZ6MlZPLVFPanZ2Tm5POVZvQm5za3BrRkRnU1gzMDNMamVobFoyZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Governorship election candidates face new rules as campaigns start. The central bank tightens scrutiny over terror cash.",
-        "i": "Governorship election candidates navigate campaign regulations as new rules take effect. Meanwhile, the central bank tightens scrutiny over terror cash.",
-        "a": "Governorship election candidates face strict regulatory bounds as campaigns launch. Concurrently, the central bank tightens scrutiny over terror cash flows."
+        "b": "The Adamawa disciplinary committee suspended ADC Chairman Dasin over an alleged 250 million naira fraud. The central bank tightened scrutiny over terror cash.",
+        "i": "The Adamawa discipline committee suspended ADC Chairman Dasin over an alleged 250m naira fraud, deepening the party crisis. The central bank tightened scrutiny over terror cash.",
+        "a": "The ADC disciplinary committee in Adamawa suspended Chairman Dasin over allegations of a 250m naira fraud, deepening party friction. The central bank escalated transaction scrutiny targeting illicit terror financing flows."
       },
       "timeline": [
         [
           "9 Sep 2026",
-          "Dangote refinery sets initial public offering price at ₦525 with a $0.40 entry ticket."
+          "Custodian Investment expects FY gross revenue of 312.64 billion naira."
+        ],
+        [
+          "9 Sep 2026",
+          "NEM Insurance forecasts insurance revenue of about 156 billion naira for the period ending 31 Dec 2026."
+        ],
+        [
+          "14 Sep 2026",
+          "Dangote refinery IPO is scheduled to open."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Australian Dollar stabilizes, local equities react to corporate updates",
+      "sub": "Australian Dollar stabilizes as US yields rebound",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Dollar Finds Stability as US Yields Rebound",
+          "t": "Australian Dollar Stabilises After US Yield Recovery",
           "src": "FXStreet",
-          "b": "The Australian Dollar held steady after a drop. This followed a bounce in US bond yields, which are returns paid on government loans. That bounce strengthened the US Dollar.",
-          "i": "The Australian Dollar stabilized following a rebound in US yields. Higher returns on American debt supported the US Dollar.",
-          "a": "The Australian Dollar stabilized as a rebound in US yields supported the USD. Cross-border rate differentials drove the underlying currency flows.",
+          "b": "The Australian Dollar found its footing on 2026-09-09. This happened because yields on US government bonds bounced back. Higher returns in America support the United States Dollar. The local currency in Australia reacted to these overseas shifts.",
+          "i": "The Australian Dollar stabilised on 2026-09-09 as a rebound in US yields lent support to the greenback. Foreign exchange traders observed cross-border capital flows adjusting to shifting American debt returns. The currency pair found a temporary floor following recent downward pressure.",
+          "a": "The Australian Dollar consolidated on 2026-09-09 amid a constructive repricing in US sovereign debt yields that bolstered the USD. Implied volatility across the Antipodean currency reflects sensitivity to offshore rate differentials. Macro accounts continue to monitor the transmission from US fixed-income adjustments into G10 spot rates.",
           "links": [
             "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzBHd0tBV2VvZmt6U0NmODAyZkdkZVpFRmRFZnpPTTU0eGNYMnR4NWJMWFMwUW5RTWxETXQxbTR3Wm5sZ3oxVGM0WW43VVJScy1yYTZSemdSN1FXUXJFWnVqTGtLMmhSVGw4Y1lKV3g5elEtV0VjR1dNRzdpQlhJMFZ5NnVJLVhucmFRTVFmZTNBMF8wQm11Tmdoa28zSm1SYXk2OVN3N2ZiV01YU2R5alFn?oc=5"
           ]
         },
         {
-          "t": "Echo IQ Shares Halve After Regulatory Rejection",
+          "t": "Echo IQ Shares Halve Following US Regulator Rejection",
           "src": "Kalkine",
-          "b": "Investors sold shares in Echo IQ Ltd. The share price fell by half. This happened after regulators in the US rejected their product.",
-          "i": "Echo IQ Ltd stock dropped sharply. Investors sold the shares after an FDA rejection halved the company's price.",
-          "a": "Echo IQ Ltd shares plunged as an FDA rejection halved the share price. Heavy selling volume overwhelmed the order book following the adverse regulatory decision.",
+          "b": "Echo IQ Ltd saw its share price drop by half on 2026-09-09. Investors sold off the stock after the US Food and Drug Administration rejected the company. This regulatory setback caused heavy losses for holders of the ASX-listed medical firm.",
+          "i": "Echo IQ Ltd experienced a sharp share price contraction on 2026-09-09 following an adverse regulatory decision. The FDA rejection triggered immediate selling pressure on the ASX-listed entity. Market participants liquidated positions as the primary commercialisation milestone failed.",
+          "a": "Echo IQ Ltd equity collapsed by 50.0% on 2026-09-09 after an official FDA rejection invalidated the core regulatory thesis. Institutional and retail holders flushed inventory across the ASX order book, completely repricing the asset's terminal value. The terminal shock removes near-term commercial catalysts for the medical technology firm.",
           "links": [
             "https://news.google.com/rss/articles/CBMivwFBVV95cUxORXJTb2NJY2RyVDRmems4RjdsbTFoY2pTcF9TOFkyb3hRd0pxeHdCMUpfLS1kNzRPeFdMUUFVVDNzMWV0TDlib2htT05BMm1LN3A2LUlHeGpZNHkzM3M0Wk9aOEJkWjMyaWF3aFNmMV9NTk4xcnphTnM2di1IU3dXOFVjcXBUVlQxekVydS1oQ0JDNWdSNHd5bzQ3Tk9fYVFhdFM2V1NTbXJrT2E3SmhyamRRMk5YOEhDWVFMaXlTUQ?oc=5"
-          ]
-        },
-        {
-          "t": "SEEK Declines Despite Record Dividend Payout",
-          "src": "Kalkine",
-          "b": "SEEK Ltd stock fell in trading. Sellers pushed the price down. This drop happened even though the company announced a record dividend payment to shareholders.",
-          "i": "SEEK Ltd stock declined despite a record dividend. Investors initiated selling pressure regardless of the higher payout.",
-          "a": "SEEK Ltd stock declined despite a record dividend. Ongoing selling pressure persisted through the session contrary to the income distribution.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVVpaFN2ZDBCd2lkaG1OZDREVGQ5WnB6TW9OSEZDamEzeTROZHVrWVhNdU9PSW5YVUVHbzF0M09PMnF5VFRtNExyOGZoWVgyM1NJQXV5bU1NMmM0Z2JvSy1ZUjVvd2FlLWdsaFVYQXlJemJYNkcwQm5jc1RsZmsweUEzTlJEa3RreWZVU3Y3SG9NU1BJTDhIeWMzNUFHQkJJai1NZzI5cjhSWC1xNnR4a20tZHRVUVJzZkZ4WFpfOA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There is no political news reported for Australia today.",
-        "i": "No political updates were released for Australia.",
-        "a": "No political developments were reported in the source data.",
-        "sources": {}
+        "b": "No political updates were reported for Australia today.",
+        "i": "No domestic political developments or policy announcements were recorded for Australia on 2026-09-09.",
+        "a": "No sovereign policy shifts or executive announcements occurred within the Australian reporting cycle on 2026-09-09."
       },
       "timeline": [
         [
-          "9 Sep 2026",
-          "Echo IQ shares halved following a US regulatory rejection."
-        ],
-        [
-          "9 Sep 2026",
-          "SEEK stock declined despite announcing a record dividend."
-        ],
-        [
-          "9 Sep 2026",
-          "The Australian Dollar stabilized as US yields rebounded."
+          "2026-09-09",
+          "Australian Dollar stabilizes as US yields rebound"
         ]
       ]
     }
