@@ -1,707 +1,694 @@
 {
-  "generated": "2026-09-10T00:32:25.305Z",
+  "generated": "2026-09-10T02:26:29.860Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Fixed income",
-      "q": "Why did Treasury yields rise alongside the drop in major US indices?",
+      "tag": "United States of America · Equities",
+      "q": "What happened to major United States stock indices during the recent trading sessions?",
       "o": [
-        "The rollout of an expanded buyback plan coincided with the equity decline.",
-        "The Federal Reserve announced an unexpected emergency interest rate hike.",
-        "Crude oil prices falling below zero forced massive federal borrowing.",
-        "Foreign central banks simultaneously liquidated all of their US debt."
+        "The S&P 500, Dow, and Nasdaq fell for three consecutive sessions.",
+        "The S&P 500 rose by 0.4% as technology shares led gains.",
+        "The Dow and Nasdaq experienced record highs while the S&P fell.",
+        "All major indices rallied following a drop in global bond yields."
       ],
       "a": 0,
-      "e": "The sources state that Treasury yields popped following the rollout of an expanded buyback plan, coinciding with the equity decline. Emergency rate hikes or foreign liquidations are not mentioned in the text."
+      "e": "The briefings state that the S&P 500 dropped 0.4% and joined the Dow and Nasdaq in marking three consecutive sessions of losses. The wrong options contradict this downward movement."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Fixed Income",
+      "q": "What factors compounded the downward pressure on United States equities?",
+      "o": [
+        "Rising bond yields and higher oil prices.",
+        "Falling bond yields and lower commodity costs.",
+        "A sudden drop in inflation figures and stable currencies.",
+        "Surging consumer spending and tax cuts."
+      ],
+      "a": 0,
+      "e": "The text notes that rising bond yields and higher oil prices compounded the downward pressure on equities. The other choices present economic conditions contrary to the reported facts."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Foreign Exchange",
+      "q": "How did the British Pound Sterling perform against the Nigerian Naira according to the reports?",
+      "o": [
+        "It strengthened, hitting N1,788 per £.",
+        "It weakened, dropping below N1,000 per £.",
+        "It remained completely unchanged throughout the session.",
+        "It was officially pegged to the Naira at a fixed rate."
+      ],
+      "a": 0,
+      "e": "The sources explicitly state that the British Pound Sterling strengthened against the Nigerian Naira, hitting N1,788 per £. The other options are factually incorrect based on the text."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Trade",
+      "q": "What trend did German exports display recently?",
+      "o": [
+        "They contracted for the first time in five months.",
+        "They expanded at their fastest pace in five months.",
+        "They remained completely flat compared to the previous year.",
+        "They doubled due to a surge in domestic industrial output."
+      ],
+      "a": 0,
+      "e": "The briefings record that German exports dropped for the first time in five months. The alternative answers misrepresent this trade data contraction."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "What happened to the DAX index during the broader European equity slide?",
+      "q": "What level did Brent crude breach, impacting European shares and corporate profit margins?",
       "o": [
-        "The index closed 1.74% lower.",
-        "The index surged by a record 5%.",
-        "Trading on the index was halted completely.",
-        "The index remained entirely flat."
+        "$100 per barrel",
+        "$50 per barrel",
+        "$150 per barrel",
+        "$75 per barrel"
       ],
       "a": 0,
-      "e": "The briefings state that the DAX index closed 1.74% lower. Surges or halts are not found in the source text."
+      "e": "The sources note that Brent crude breached $100 per barrel, driving up energy costs and squeezing profit margins. The other price levels are not supported by the text."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Technology",
-      "q": "Which organization evaluated Matter Labs' Prividium core in testing environments?",
+      "tag": "Japan · Equities",
+      "q": "How did the Nikkei Stock Average react amid selling pressure and high oil prices?",
       "o": [
-        "The Bundesbank.",
-        "The European Central Bank.",
-        "The German stock exchange.",
-        "Commercial lenders in Frankfurt."
+        "It plunged over 500 points, erasing previous gains.",
+        "It surged by 500 points to reach an all-time high.",
+        "It stayed completely flat despite volatility in oil markets.",
+        "It closed higher for the third consecutive day."
       ],
       "a": 0,
-      "e": "The text explicitly notes that the Bundesbank tests and evaluates the Prividium core software in testing environments. Other institutions are not mentioned."
+      "e": "The text indicates that the Nikkei plunged over 500 points, completely erasing prior gains under persistent selling pressure. The wrong options misstate the direction of the index."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Monetary policy",
-      "q": "What policy rate is the Bank of Japan preparing to reach this month?",
+      "tag": "Japan · Central Banks",
+      "q": "Which Bank of Japan board member publicly discussed potential interest rate hikes?",
       "o": [
-        "1.25%",
-        "0.50%",
-        "1.75%",
-        "2.00%"
+        "Masu",
+        "Dangote",
+        "Enflame",
+        "TopoScend"
       ],
       "a": 0,
-      "e": "The sources state that the Bank of Japan prepares to raise its policy rate to 1.25% this month, with a path toward 1.75% later. 1.75% is the subsequent target, not this month's target."
+      "e": "The briefings name Bank of Japan board member Masu as the official who addressed potential interest rate hikes. The other names belong to different entities or individuals mentioned in separate contexts."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Currencies",
-      "q": "Where did the dollar trade relative to the yen before rebounding?",
+      "tag": "China · Corporate Finance",
+      "q": "What financial action did H World take regarding its debt?",
       "o": [
-        "Near a seven-month low as the exchange rate dipped below 153.",
-        "At an all-time record high above 200.",
-        "At exactly parity with the Japanese currency.",
-        "Near a historic high for the dollar at 100."
+        "It priced 3.4bn yuan of senior bonds maturing in 2031.",
+        "It defaulted on 3.4bn yuan of short-term loans.",
+        "It converted all its debt into equity shares.",
+        "It bought back 3.4bn yuan worth of junior shares."
       ],
       "a": 0,
-      "e": "The briefings note that the dollar traded near a seven-month low against the yen as the exchange rate dipped below 153. Parity or a level of 200 is not supported by the text."
+      "e": "The sources state that H World priced 3.4bn yuan of senior bonds maturing in 2031. The alternative answers invent different corporate financial maneuvers."
     },
     {
       "lvl": "b",
-      "tag": "China · Fixed income",
-      "q": "What milestone was reached regarding Chinese and American 10-year government yields?",
+      "tag": "China · Markets",
+      "q": "When was Enflame Technology scheduled to make its STAR Market debut?",
       "o": [
-        "The difference between the yields widened to an all-time record.",
-        "The two sovereign yields became completely identical.",
-        "American yields fell below zero for the first time.",
-        "Chinese yields surpassed American yields by 10 percentage points."
+        "September 11",
+        "December 31",
+        "January 1",
+        "July 9"
       ],
       "a": 0,
-      "e": "The sources state that the difference between Chinese and American 10-year government yields widened to an all-time record on September 10, 2026. Identical yields or negative US yields are not mentioned."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Business sentiment",
-      "q": "What happened to US corporate sentiment in mainland China according to published survey data?",
-      "o": [
-        "It recovered from its previous historical low.",
-        "It completely collapsed to zero.",
-        "It remained unchanged from the previous decade.",
-        "It turned into a legal dispute."
-      ],
-      "a": 0,
-      "e": "The text explicitly reports that US corporate sentiment in China recovered from its previous historical low. Complete collapse or legal disputes are not in the sources."
+      "e": "The text explicitly specifies September 11 as the debut date for Enflame Technology on the STAR Market. The other dates are incorrect choices."
     },
     {
       "lvl": "b",
       "tag": "India · Equities",
-      "q": "How did the Sensex index react to the surge in crude oil prices?",
+      "q": "How did the Indian stock market respond when crude oil prices breached $100 per barrel?",
       "o": [
-        "It plunged 813 points.",
-        "It surged by 813 points.",
-        "It remained completely unchanged.",
-        "It closed at a new all-time high."
+        "The Sensex index fell by 813 points.",
+        "The Sensex index rallied by 813 points.",
+        "Indian equities experienced record daily gains.",
+        "Domestic stock exchanges halted all trading activities."
       ],
       "a": 0,
-      "e": "The sources state that the Sensex index plunged 813 points as crude oil surpassed the $100 mark. Surges or all-time highs contradict the reported downward sell-off."
+      "e": "The briefing notes that the Sensex index fell by 813 points as a direct consequence of crude prices crossing $100. The wrong choices describe opposite or extreme market actions not found in the text."
     },
     {
       "lvl": "b",
-      "tag": "India · Technology",
-      "q": "By how much did the Nifty IT index drop due to United States interest rate worries?",
+      "tag": "India · Sectors",
+      "q": "Which sector bore the brunt of the sell-off in India due to US rate hike concerns?",
       "o": [
-        "By nearly 5%.",
-        "By exactly 20%.",
-        "By less than 0.1%.",
-        "By more than 50%."
+        "Technology",
+        "Agriculture",
+        "Real estate",
+        "Utilities"
       ],
       "a": 0,
-      "e": "The briefings state that the Nifty IT index dropped by nearly 5% due to United States interest rate anxiety. The other percentage figures are entirely absent from the text."
+      "e": "The sources state that technology shares plunged, with the Nifty IT index slumping almost 5 percent on US rate hike anxieties. The other sectors are not identified as the primary target of this specific sell-off."
     },
     {
       "lvl": "b",
-      "tag": "Brazil · Infrastructure",
-      "q": "What operational milestone was achieved with the Petrobras P-84 unit?",
+      "tag": "Brazil · Commodities",
+      "q": "What action did Petrobras take regarding domestic gasoline prices?",
       "o": [
-        "CIMC Raffles finalized the hull construction for the first large all-electric floating production, storage and offloading unit of its class.",
-        "The unit was completely decommissioned after failing safety checks.",
-        "The unit was sold to a competing international energy conglomerate.",
-        "The vessel sank off the coast during its initial transit."
+        "It removed a previous discount and raised prices.",
+        "It introduced a large subsidy to lower consumer prices.",
+        "It froze all fuel prices for the rest of the year.",
+        "It transferred control of fuel pricing to the central bank."
       ],
       "a": 0,
-      "e": "The text states that CIMC Raffles finalized the hull for the P-84, establishing the operational parameters for the first large all-electric floating production, storage and offloading unit of its class. Decommissioning, sales, or sinking are not mentioned."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Equities",
-      "q": "Why did the Ibovespa retreat according to market assessments?",
-      "o": [
-        "Market participants weighed domestic political risks and persistent inflation fears.",
-        "The central bank lowered interest rates to zero overnight.",
-        "All trading on the exchange was suspended by regulators.",
-        "Foreign investors abandoned the country due to a natural disaster."
-      ],
-      "a": 0,
-      "e": "The sources state the Ibovespa declined as market participants weighed domestic political risks and persistent inflation fears. Regulatory suspensions or natural disasters do not appear in the text."
+      "e": "The text reports that Petrobras removed a previous discount and raised gasoline prices. The alternative answers incorrectly describe subsidies or price freezes."
     },
     {
       "lvl": "b",
       "tag": "Saudi Arabia · Commodities",
-      "q": "What drove Brent crude to climb above $100 a barrel past its July peak?",
+      "q": "What milestone did Brent crude reach on 9 September 2026?",
       "o": [
-        "New attacks launched by the US and Iran.",
-        "A sudden drop in global electricity demand.",
-        "An agreement by OPEC to double daily production quotas.",
-        "The discovery of a massive new field in the North Sea."
+        "It rose above $101, crossing $100 for the first time since July.",
+        "It dropped below $50 for the first time in years.",
+        "It remained exactly at $100 without moving.",
+        "It surpassed $200 following regional trade agreements."
       ],
       "a": 0,
-      "e": "The text attributes the surge past the July peak to new attacks launched by the US and Iran. Production increases or North Sea discoveries are not stated."
+      "e": "The briefings state that Brent crude rose to top $101, crossing the $100 threshold for the first time since July. The other options present false price levels or movements."
     },
     {
       "lvl": "b",
-      "tag": "Saudi Arabia · Corporate actions",
-      "q": "What partnership is Dow evaluating an exit from due to facility attacks?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "Which nations or groups were involved in direct strikes near the Strait of Hormuz on 9 September 2026?",
       "o": [
-        "Its $20 billion Sadara chemicals joint venture with Saudi Aramco.",
-        "A retail distribution agreement in Riyadh.",
-        "An aviation fuel supply contract with regional airlines.",
-        "A technology sharing pact with the Saudi government."
+        "The United States and Iran",
+        "Germany and Japan",
+        "Brazil and Australia",
+        "China and the United Kingdom"
       ],
       "a": 0,
-      "e": "The sources report that Dow is considering an exit from its $20 billion Sadara chemicals joint venture with Saudi Aramco. Retail, aviation, or tech pacts are not mentioned."
+      "e": "The text reports that the United States and Iran exchanged strikes near the Strait of Hormuz on 9 September 2026. The other country combinations are entirely unsupported by the sources."
     },
     {
       "lvl": "b",
-      "tag": "Nigeria · Currencies",
-      "q": "What happened to the Nigerian naira against the US dollar on September 9, 2026?",
+      "tag": "Nigeria · Foreign Exchange",
+      "q": "What happened to the Nigerian naira on September 9, 2026?",
       "o": [
-        "The local currency tumbled and registered its first depreciation in the sequence.",
-        "The naira strengthened to a record high against the dollar.",
-        "The central bank pegged the exchange rate at parity.",
-        "Trading of the currency was permanently banned."
+        "It recorded its first depreciation against the US dollar.",
+        "It surged to record highs against all major currencies.",
+        "It was officially replaced by a new digital currency.",
+        "Its exchange rate was pegged directly to the British pound."
       ],
       "a": 0,
-      "e": "The text states that foreign exchange demand shifts triggered a depreciation, with the naira recording its first depreciation and tumbling against the US dollar. Strengthening, pegging, or bans are not in the text."
+      "e": "The sources record that the naira experienced its first depreciation against the US currency on September 9, 2026. The incorrect choices describe strengthening or structural changes not mentioned in the text."
     },
     {
       "lvl": "b",
       "tag": "Nigeria · Wealth",
-      "q": "What drove Aliko Dangote's net worth up to $54 billion?",
+      "q": "What event supported Aliko Dangote's net worth reaching $54 billion?",
       "o": [
-        "A new regulatory filing concerning his industrial refinery.",
-        "An inheritance from international banking institutions.",
-        "A government grant funded by oil revenues.",
-        "The winning of a major judicial lawsuit against competitors."
+        "A recent refinery filing",
+        "A government tax exemption",
+        "An initial public offering of tech assets",
+        "A sudden surge in foreign exchange reserves"
       ],
       "a": 0,
-      "e": "The briefings state that a regulatory filing for his industrial refinery drove his net worth to $54 billion. Inheritances, grants, or lawsuits are not found in the sources."
+      "e": "The text notes that Aliko Dangote's fortune reached $54 billion supported by a recent refinery filing. The other options are incorrect causes."
     },
     {
       "lvl": "b",
       "tag": "Australia · Equities",
-      "q": "How did the ASX 200 respond when crude oil crossed US$100 per barrel?",
+      "q": "Which sectors dragged the Australian Securities Exchange down in its steepest daily drop in months?",
       "o": [
-        "The index dropped sharply as global markets retreated.",
-        "The index surged by 10% to a record high.",
-        "The index experienced zero price movement.",
-        "The exchange closed all operations indefinitely."
+        "Miners and banks",
+        "Technology and agriculture",
+        "Retail and real estate",
+        "Utilities and healthcare"
       ],
       "a": 0,
-      "e": "The sources note that the ASX 200 dropped sharply as global markets retreated when crude oil crossed US$100 per barrel. Surges or indefinite closures are not mentioned."
+      "e": "The briefings report that heavy losses among major miners and banks dragged the benchmark index down. The other sectors are not cited as the drivers of this specific drop."
     },
     {
       "lvl": "b",
-      "tag": "Australia · Currencies",
-      "q": "Where did the Australian dollar trade against major currencies during the market sessions?",
+      "tag": "Australia · Foreign Exchange",
+      "q": "Toward which threshold did the Australian dollar soften against major counterparts?",
       "o": [
-        "It touched fresh mid-May highs.",
-        "It plunged to an all-time historical low.",
-        "It remained completely pegged to the US dollar.",
-        "It was suspended from international currency markets."
+        "0.7200",
+        "0.5000",
+        "1.0000",
+        "1.5000"
       ],
       "a": 0,
-      "e": "The text states that currency markets pushed the Australian dollar to its strongest level since mid-May, touching fresh mid-May highs. Historical lows or suspensions are not supported."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Fiscal policy",
-      "q": "How did Atiku Abubakar characterize the recent FAAC revenue figures?",
-      "o": [
-        "As a money illusion and a scam of numbers driven by currency devaluation.",
-        "As an accurate reflection of extraordinary real economic growth.",
-        "As proof of a balanced national budget surplus.",
-        "As a minor accounting error that was immediately corrected."
-      ],
-      "a": 0,
-      "e": "The briefings state that Atiku Abubakar dismissed the figures as a money illusion and a scam of numbers resulting from President Tinubu's currency devaluation. Accurate growth or budget surpluses are not mentioned."
+      "e": "The sources state that the Australian dollar softened toward the 0.7200 threshold. The other exchange rate figures are not mentioned in relation to this currency."
     },
     {
       "lvl": "i",
       "tag": "United States of America · Equities",
-      "q": "What primarily drove the S&P 500, Dow Jones, and Nasdaq into a three-day losing streak?",
+      "q": "Why did major Wall Street indices extend their correction into a third consecutive session?",
       "o": [
-        "Front-month crude oil breaching the $100 threshold alongside rising Treasury yields.",
-        "An unexpected interest rate cut by the Federal Reserve.",
-        "A sudden collapse in technology sector earnings reports.",
-        "New regulatory restrictions placed on Treasury buyback plans."
+        "Rising duration pressures and escalating energy input costs fractured technology leadership.",
+        "Regulatory crackdowns on mega-cap technology firms forced systemic liquidation.",
+        "Unexpected corporate earnings misses across the banking sector dragged down the Dow.",
+        "The Federal Reserve announced an unexpected emergency interest rate hike."
       ],
       "a": 0,
-      "e": "Front-month crude breaching the $100 threshold and rising Treasury yields caused the equity sell-off. The incorrect options introduce events not mentioned in the source texts regarding the US market decline."
+      "e": "The source notes that technology leadership fractured under the weight of rising duration pressures and escalating energy input costs, dragging the S&P, Dow, and Nasdaq lower. Corporate earnings misses and emergency Fed hikes are not mentioned anywhere in the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Foreign Exchange",
+      "q": "How did the British Pound Sterling perform against the Nigerian Naira according to the trade figures?",
+      "o": [
+        "It advanced against the Nigerian Naira to print at N1,788 per £.",
+        "It depreciated significantly as capital fled domestic debt markets.",
+        "It remained completely flat due to central bank intervention limits.",
+        "It plummeted following an unexpected downgrade of sovereign debt ratings."
+      ],
+      "a": 0,
+      "e": "The text explicitly states that the British Pound Sterling advanced against the Nigerian Naira to print at N1,788 per £. The other choices involve unsupported macroeconomic narratives not present in the sources."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · International Trade",
+      "q": "What broader economic implication follows the recent contraction in German external trade data?",
+      "o": [
+        "It threatens regional growth projections and directly impacts manufacturing sector revenues.",
+        "It triggers an immediate intervention by the European Central Bank to lower benchmark borrowing costs.",
+        "It causes a surge in foreign direct investment into domestic automotive firms.",
+        "It leads to an immediate surplus in the current account balance."
+      ],
+      "a": 0,
+      "e": "The briefing specifies that the drop in outbound shipments impacts manufacturing sector revenues and current account balances, threatening broader growth projections. ECB interventions or foreign direct investment surges are outside the scope of the provided text."
     },
     {
       "lvl": "i",
       "tag": "Germany · Equities",
-      "q": "How did the DAX index respond to Brent crude crossing $100?",
+      "q": "Why did Brent crude breaching $100 per barrel cause European shares to slide to over-one-month lows?",
       "o": [
-        "The DAX declined by 1.74% to reach an over-one-month low.",
-        "The DAX surged to an all-time high due to strong export data.",
-        "The DAX remained completely flat as energy shocks were ignored by investors.",
-        "The DAX gained 1.74% following government intervention in manufacturing."
+        "It transmitted immediate cost-push shocks that compressed corporate earnings multiples across capital-intensive sectors.",
+        "It forced retail investors to liquidate equity holdings to cover rising personal fuel bills.",
+        "It prompted commercial banks to tighten lending standards for all energy companies.",
+        "It triggered automatic circuit breakers that suspended trading on the DAX index."
       ],
       "a": 0,
-      "e": "The DAX declined 1.74% to an over-one-month low as part of the broader European equity slide driven by Brent crude crossing $100. The other choices contradict the reported downward movement."
+      "e": "The sources explain that Brent crude crossing $100 transmits immediate cost-push shocks through equity valuations, compressing earnings multiples across capital-intensive sectors. Retail liquidations and circuit breaker suspensions are entirely absent from the text."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Monetary Policy",
-      "q": "What is the anticipated trajectory for the Bank of Japan's policy rate following recent market pricing?",
+      "tag": "Japan · Equities",
+      "q": "How did individual sectors within the Nikkei Stock Average react to macro headwinds and high oil prices?",
       "o": [
-        "An increase to 1.25% this month, followed by a move toward 1.75%.",
-        "An immediate reduction to 0.5% to combat equity market weakness.",
-        "A permanent freeze on rates at the current level of 1.75%.",
-        "A phased decrease to align with falling domestic retail prices."
+        "Sector dispersion remained wide as select semiconductor issues exhibited resilience while Nintendo drifted lower.",
+        "All sectors dropped uniformly because automated trading algorithms executed forced sales across every asset class.",
+        "Export-heavy manufacturing firms rallied strongly to offset the drag from high energy costs.",
+        "Defensive utility stocks surged while technology issues suffered complete liquidations."
       ],
       "a": 0,
-      "e": "Market participants and the central bank trajectory point to a 1.25% rate this month and 1.75% thereafter. The alternative options incorrectly suggest easing instead of tightening."
+      "e": "The source highlights wide sector dispersion where select semiconductor issues exhibited resilience while Nintendo drifted lower. Uniform drops or sector-wide utility surges are contradicted by the specific text."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Foreign Exchange",
-      "q": "Why did the USD/JPY exchange rate rebound to the upper 153 range after dropping below 153?",
+      "tag": "Japan · Central Banking",
+      "q": "What specific factors did Bank of Japan board member Masu explicitly cite when discussing potential interest rate hikes?",
       "o": [
-        "The US Treasury announced a buyback program that supported a rebound.",
-        "The Bank of Japan unexpectedly cut interest rates to zero.",
-        "Brent crude fell back below $50 per barrel.",
-        "Scott Bessent intervened directly by shorting the US dollar."
+        "The transmission channels of a weak currency, rising oil costs, and elevated food prices.",
+        "A sudden spike in domestic unemployment and collapsing retail sales figures.",
+        "Unprecedented wage growth and surging demand-pull price pressures.",
+        "Declining housing starts and tightening commercial real estate credit."
       ],
       "a": 0,
-      "e": "The US Treasury buyback program announcement helped the dollar-yen rebound to the upper 153 range. The other options misstate the policy actions and market drivers described in the text."
+      "e": "Board member Masu explicitly cited the transmission channels of a weak currency, rising oil costs, and elevated food prices. Unemployment spikes and wage growth figures do not appear in the source."
     },
     {
       "lvl": "i",
-      "tag": "China · Sovereign Debt",
-      "q": "What significant milestone was reached in the sovereign debt market between China and the US on September 10, 2026?",
+      "tag": "China · Corporate Finance",
+      "q": "What financial backdrop accompanied Enflame Technology's initial public offering on the STAR Market?",
       "o": [
-        "The sovereign yield differential between the two countries expanded to a historical high.",
-        "China eliminated its 10-year government bond market entirely.",
-        "The US and China agreed to peg their currencies together.",
-        "Chinese 10-year yields fell below zero for the first time."
+        "Cumulative three-year losses totaling 4.3bn yuan.",
+        "Record quarterly profits driven by robust international semiconductor demand.",
+        "A complete restructuring of its corporate debt backed by state subsidies.",
+        "Massive capital injections from foreign sovereign wealth funds."
       ],
       "a": 0,
-      "e": "The difference between Chinese and American 10-year government yields widened to an all-time record on September 10, 2026. The incorrect choices describe extreme events not supported by the sources."
+      "e": "The text states that Enflame Technology priced its IPO against a backdrop of 4.3bn yuan in cumulative three-year losses. Record quarterly profits and state subsidies are completely unmentioned."
     },
     {
       "lvl": "i",
-      "tag": "India · Sector Equities",
-      "q": "What caused the Nifty IT index to fall by nearly 5%?",
+      "tag": "India · Equities",
+      "q": "Why did the Nifty IT index suffer a severe slump of nearly 5 percent?",
       "o": [
-        "Heightened apprehension surrounding prospective United States interest rate hikes.",
-        "A domestic banking crisis triggered by falling oil prices.",
-        "New government taxation on software export revenues.",
-        "A sudden drop in domestic retail demand for technology."
+        "Anticipation of Federal Reserve tightening drove cross-border capital to reallocate away from local growth sectors.",
+        "Domestic software firms reported catastrophic earnings misses for the previous fiscal quarter.",
+        "New government regulations restricted technology outsourcing contracts with Western corporations.",
+        "A major telecommunications failure disrupted operations across all primary data centers."
       ],
       "a": 0,
-      "e": "Growing market worries regarding potential United States interest rate hikes drove the severe sectoral retracement in tech equities. The wrong options invent alternative domestic catalysts not present in the briefings."
+      "e": "The briefing links the technology sell-off to anticipation of Federal Reserve tightening and cross-border capital reallocation away from local growth sectors due to higher US yield expectations. Earnings misses and government outsourcing bans are fabricated distractors."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Macroeconomics",
-      "q": "According to Riza Asset, how is the domestic monetary policy transmission mechanism behaving in Brazil?",
+      "tag": "India · Commodities",
+      "q": "How did Indian equity benchmarks react when crude oil prices broke the $100 threshold?",
       "o": [
-        "Its overall economic effect and marginal efficacy are narrowing.",
-        "It is expanding rapidly to lower consumer price growth.",
-        "It has become completely ineffective due to surging crude oil inventories.",
-        "It is forcing the central bank to reverse its tightening cycle."
+        "They reacted violently with the Sensex shedding 813 points as import-dependent energy consumers absorbed a negative shock.",
+        "They rose sharply because domestic energy producers benefited from higher international commodity revenues.",
+        "They traded sideways as institutional investors had already fully priced in the commodity spike.",
+        "They rallied due to emergency fiscal stimulus packages announced by the central bank."
       ],
       "a": 0,
-      "e": "Riza Asset highlighted that the marginal efficacy and transmission mechanism of domestic monetary policy tightening are narrowing across the financial system. The other choices misinterpret the stated operational limitation."
+      "e": "The text notes that crude breaking $100 acted as an immediate negative shock for import-dependent energy consumers, causing the Sensex to shed 813 points. Rallies or sideways trading due to pricing-in are contradicted by the violent market reaction described."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What physical market dynamic drove Brent crude above $100 a barrel past its July peak?",
+      "tag": "Brazil · Fiscal Policy",
+      "q": "What market dynamic is currently undermining the bullish momentum of the Brazilian real?",
       "o": [
-        "Fresh hostilities and facility strikes between the US and Iran.",
-        "A coordinated global release of strategic petroleum reserves.",
-        "An unexpected collapse in global manufacturing demand.",
-        "The permanent closure of the Sadara petrochemical complex."
+        "A narrowing carry dynamic that limits recent gains alongside persistent fiscal strains.",
+        "A massive influx of foreign portfolio investment causing severe currency overvaluation.",
+        "An aggressive interest rate cutting cycle implemented by the central bank to stimulate growth.",
+        "Direct foreign exchange market intervention by monetary authorities to suppress export competitiveness."
       ],
       "a": 0,
-      "e": "Brent crude climbed above $100 following new attacks launched by the US and Iran, expanding the physical supply risk premium. The wrong choices describe supply-increasing or demand-destroying events that would lower prices."
+      "e": "The source identifies depreciation pressures stemming from ongoing fiscal strains and a narrowing carry dynamic undermining recent bullish momentum. Aggressive rate cuts or direct intervention policies are not supported by the text."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Fiscal Policy",
-      "q": "How did Atiku Abubakar characterize the recent FAAC revenue figures and minimum wage adjustments?",
+      "tag": "Brazil · Commodities",
+      "q": "What action did Petrobras take regarding domestic fuel pricing following a national tax reduction?",
       "o": [
-        "As a fiscal illusion driven by nominal debasement that reduced real purchasing power.",
-        "As an accurate reflection of booming real economic growth.",
-        "As proof of a successful currency peg implemented by President Tinubu.",
-        "As a minor accounting error that had no impact on citizens."
+        "It eliminated its pricing discount to elevate domestic gasoline rates.",
+        "It slashed retail prices proportional to the tax cut percentage to protect consumers.",
+        "It froze all fuel distribution contracts pending a review of international shipping expenses.",
+        "It transferred operational price-setting authority to an independent regulatory agency."
       ],
       "a": 0,
-      "e": "Atiku Abubakar dismissed the FAAC figures as a money illusion because currency devaluation generated larger nominal figures while real purchasing parity contracted. The alternative answers falsely claim the metrics showed positive real gains."
+      "e": "The briefing states that Petrobras eliminated its pricing discount to elevate domestic gasoline rates following a national tax reduction. Slashes proportional to taxes or transfer of authority are incorrect."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Markets",
-      "q": "How did the broader ASX 200 respond when crude oil crossed US$100 per barrel?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What fundamental driver caused Brent crude to breach the $100 threshold for the first time since July?",
       "o": [
-        "The index dropped sharply as global markets retreated.",
-        "The index surged to new all-time highs led by financials.",
-        "The index remained unchanged as resource stocks insulated the market.",
-        "The index experienced record low volatility and flat trading."
+        "Immediate supply disruption risks driven by active military engagements in the region.",
+        "A formal announcement of production quotas agreed upon by international cartel members.",
+        "A sudden seasonal surge in heating oil demand across North American markets.",
+        "Severe logistical bottlenecks at major European maritime shipping terminals."
       ],
       "a": 0,
-      "e": "The ASX 200 dropped sharply as global markets retreated when crude oil crossed US$100. The wrong answers contradict the stated equity drawdown."
+      "e": "The text attributes the upward price action to immediate supply disruption risks driven by active military engagements in the region. Cartel quotas and seasonal heating demand are absent from the source."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Technology",
-      "q": "What is the Bundesbank doing with the Prividium core open-sourced by Matter Labs?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "What military actions coincided with Houthi vectors targeting Saudi urban centers on September 9, 2026?",
       "o": [
-        "Evaluating and testing the software in testing environments.",
-        "Deploying it as the sole settlement layer for German retail banking.",
-        "Rejecting it due to security vulnerabilities found in interoperability trials.",
-        "Selling the technology to commercial lenders across Europe."
+        "Direct strikes exchanged between the United States and Iran near the Strait of Hormuz.",
+        "A naval blockade imposed by international coalition forces along Gulf shipping channels.",
+        "Amphibious landings executed by allied regional forces on disputed coastal territories.",
+        "A coordinated cyber attack disabling regional oil refinery infrastructure."
       ],
       "a": 0,
-      "e": "The Bundesbank is evaluating the software in testing environments following its open-source release. The other options introduce commercial deployment or rejection facts not found in the text."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Sentiment",
-      "q": "What did survey metrics indicate regarding American commercial sentiment within mainland China?",
-      "o": [
-        "It rebounded from depressed trough levels, capturing a partial recovery.",
-        "It fell to a new historical low following regulatory changes.",
-        "It remained entirely stagnant throughout the reporting period.",
-        "It surpassed European corporate sentiment for the first time."
-      ],
-      "a": 0,
-      "e": "US corporate sentiment in China recovered from its previous historical low, indicating a partial recovery in foreign business confidence. The wrong choices state either continued decline or stagnation."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Infrastructure",
-      "q": "What operational milestone was achieved for the Petrobras P-84 project via CIMC Raffles?",
-      "o": [
-        "Hull construction was finalized for the first large all-electric floating production, storage and offloading unit of its class.",
-        "The vessel completed its maiden voyage across the Atlantic Ocean.",
-        "Drilling operations reached the maximum depth of 10,000 metres.",
-        "The unit was decommissioned after failing safety inspections."
-      ],
-      "a": 0,
-      "e": "CIMC Raffles finalized the hull construction for the P-84, establishing parameters for the first large all-electric floating production, storage and offloading unit in its class. The wrong choices misstate the project stage or outcome."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Joint Ventures",
-      "q": "Why is Dow evaluating a withdrawal from its Sadara joint venture with Saudi Aramco?",
-      "o": [
-        "Strategic reassessments coincide with damage assessments following repeated strikes on a Saudi Aramco facility.",
-        "Saudi Aramco decided to buy out Dow's stake at a premium.",
-        "Regulatory authorities in the US ordered an immediate divestment.",
-        "The petrochemical plant ran out of crude oil feedstock permanently."
-      ],
-      "a": 0,
-      "e": "The strategic reassessment and evaluation of an exit coincide with damage assessments following repeated strikes on a Saudi Aramco facility. The incorrect options introduce regulatory orders or buyout premiums not mentioned."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Corporate Wealth",
-      "q": "What drove Aliko Dangote's net worth up to $54 billion?",
-      "o": [
-        "A regulatory filing concerning his industrial refinery that updated asset assessments.",
-        "An unexpected surge in government FAAC revenue disbursements.",
-        "The appreciation of the naira against the US dollar.",
-        "A massive initial public offering of his retail banking assets."
-      ],
-      "a": 0,
-      "e": "A regulatory filing for his industrial refinery drove his net worth to $54 billion via updated asset assessments. The other options point to macroeconomic shifts or unrelated sectors."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Currency",
-      "q": "How did the Australian currency perform alongside technology sector momentum on the ASX?",
-      "o": [
-        "It touched fresh mid-May highs against major currencies.",
-        "It hit historic lows as energy prices surpassed US$100.",
-        "It was pegged to the US dollar to stabilize import costs.",
-        "It depreciated rapidly due to domestic interest rate cuts."
-      ],
-      "a": 0,
-      "e": "Currency markets pushed the Australian dollar to its strongest level since mid-May alongside technology momentum. The alternative choices contradict the reported appreciation."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Energy",
-      "q": "What immediate impact did crude oil prices surpassing the $100 mark have on Indian stock indices?",
-      "o": [
-        "It catalyzed a broad equity sell-off, plunging the Sensex 813 points.",
-        "It triggered an unprecedented rally in the domestic banking sector.",
-        "It forced the central bank to lower interest rates to protect equities.",
-        "It had no discernible impact on local trading desks."
-      ],
-      "a": 0,
-      "e": "Crude oil breaching $100 catalyzed a broad equity sell-off, dropping the Sensex 813 points on the spike in energy costs. The wrong options claim positive market reactions or policy interventions."
+      "e": "The briefing notes that military engagements materialized near the Strait of Hormuz as the United States and Iran traded direct strikes concurrently with Houthi vectors targeting Saudi urban centers. Naval blockades and cyber attacks are not mentioned."
     },
     {
       "lvl": "i",
       "tag": "Nigeria · Foreign Exchange",
-      "q": "What market dynamic caused the naira to register its first depreciation against the US dollar?",
+      "q": "What underlying market condition drove the naira to experience a notable depreciation against the US dollar?",
       "o": [
-        "Order flow imbalances driven by shifting foreign exchange demand across domestic markets.",
-        "A direct instruction from the central bank to devalue the spot rate by 50%.",
-        "A complete halt in all international trade settlements.",
-        "Massive foreign portfolio inflows into local equities."
+        "Shifting foreign exchange demand reflecting structural imbalances in liquidity allocation.",
+        "A coordinated central bank devaluation designed to boost export competitiveness.",
+        "Massive capital flight triggered by political instability during national elections.",
+        "An unexpected collapse in global petroleum demand reducing foreign exchange earnings."
       ],
       "a": 0,
-      "e": "FX demand shifts and order flow imbalances drove the currency down in recent sessions, triggering the depreciation. The other options invent central bank decrees or capital inflow scenarios unsupported by the source text."
+      "e": "The source points to shifting foreign exchange demand reflecting structural imbalances in liquidity allocation as the driver of the naira's depreciation. Central bank devaluations and political election instability are not in the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Corporate Finance",
+      "q": "How did Aliko Dangote's net worth reach $54 billion according to the available disclosures?",
+      "o": [
+        "A recent refinery filing that compelled asset recalculations based on projected cash flow multiples.",
+        "An initial public offering of his primary agricultural holdings on international exchanges.",
+        "The acquisition of several competing cement manufacturing assets across the continent.",
+        "A direct government grant subsidizing industrial expansion projects."
+      ],
+      "a": 0,
+      "e": "The text specifies that net worth reached $54 billion supported by a recent refinery filing, where corporate disclosures compel asset recalculations depending heavily on projected cash flow multiples from new production units. Agricultural IPOs and government grants are fabrications."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Equities",
+      "q": "What drove the Australian Securities Exchange to print its most severe drawdown in months?",
+      "o": [
+        "Broad-based liquidations in tier-one mining and banking equities transmitting global macroeconomic jitters.",
+        "An unexpected domestic interest rate hike announced by the central bank during regular trading hours.",
+        "Massive regulatory fines imposed on major commercial banks for compliance failures.",
+        "A sharp contraction in domestic retail sales figures released by national statistics agencies."
+      ],
+      "a": 0,
+      "e": "The briefing attributes the severe drawdown to broad-based liquidations in tier-one mining and banking equities transmitting global macroeconomic jitters. Domestic rate hikes and retail sales contractions are not supported by the sources."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Foreign Exchange",
+      "q": "Why did the AUD/USD currency pair drift toward the 0.7200 handle ahead of United States producer price index metrics?",
+      "o": [
+        "Spot participants squared books and cross-asset correlations pointed to a defensive stance on Antipodean risk.",
+        "The Reserve Bank of Australia intervened directly to lower the exchange rate and support exporters.",
+        "Unanticipated domestic inflation figures forced traders to reprice interest rate differential expectations.",
+        "Foreign exchange reserves fell below critical thresholds maintained by the central bank."
+      ],
+      "a": 0,
+      "e": "The text explains that spot participants squared books ahead of the US print while cross-asset correlations pointed to a defensive stance on Antipodean risk, with rate differentials anchoring the pair. RBA interventions and reserve depletion are entirely absent from the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Corporate Finance",
+      "q": "How did Waterdrop's financial performance manifest in its recent reporting figures?",
+      "o": [
+        "Revenue growth was offset by margin compression from elevated customer acquisition outlays.",
+        "Both revenue and profit expanded dramatically due to lower operating expenses.",
+        "Revenues contracted sharply while profit margins widened following workforce reductions.",
+        "Earnings remained completely stagnant as marketing expenditures matched revenue gains perfectly."
+      ],
+      "a": 0,
+      "e": "The briefing states that Waterdrop reported revenue growth offset by margin compression from elevated customer acquisition outlays. Expansions in both metrics or sharp revenue contractions directly contradict the source text."
     },
     {
       "lvl": "a",
       "tag": "United States of America · Fixed income",
-      "q": "What mechanism drove Treasury yields higher alongside the equity market decline?",
+      "q": "What mechanism drove the 0.4% decline in the S&P 500 alongside losses in the Dow and Nasdaq?",
       "o": [
-        "An expanded buyback plan rolled out by Bessent",
-        "An unexpected interest rate hike by the Federal Reserve",
-        "A sudden surge in foreign direct investment from China",
-        "A massive liquidation of sovereign debt by foreign central banks"
+        "Rising bond yields and energy costs compounded duration pressures and equity valuations.",
+        "A sudden contraction in corporate dividend payouts across all industrial sectors.",
+        "Massive retail capital outflows following unexpected Federal Reserve rate cuts.",
+        "Regulatory interventions targeting major technology conglomerates in New York."
       ],
       "a": 0,
-      "e": "The sources explicitly note that Treasury yields popped following the rollout of Bessent's expanded buyback plan. None of the other listed mechanisms appear in the provided text."
+      "e": "Rising bond yields and higher energy costs created duration and cost-push pressures that drove down major indices. Corporate dividend changes and retail capital shifts were not mentioned as drivers in the text."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "What underlying economic dynamics explain the shifts in the British Pound Sterling against the Nigerian Naira and Brazilian Real?",
+      "o": [
+        "Relative economic strength and shifting capital flows between the respective nations.",
+        "Mandatory central bank currency pegs enforced by international monetary authorities.",
+        "Arbitrage operations executed exclusively by automated algorithmic trading desks.",
+        "Bilateral trade tariffs imposed to correct chronic current account deficits."
+      ],
+      "a": 0,
+      "e": "Cross-rate valuations reflect relative economic strength and shifting macroeconomic expectations and capital flows. Central bank pegs and bilateral trade tariffs do not appear in the sources."
     },
     {
       "lvl": "a",
       "tag": "Germany · International trade",
-      "q": "What milestone did German trade data reach concurrently with the European equity slide?",
+      "q": "Why does the recent contraction in German exports threaten broader regional growth projections?",
       "o": [
-        "German exports recorded their first contraction in 5 months",
-        "German imports surged to an all-time high due to energy costs",
-        "The trade surplus widened despite Brent crude breaching $100",
-        "Bilateral trade with the US halted following Middle East strikes"
+        "It signals weakening cross-border demand that directly impacts the current account balance and manufacturing revenues.",
+        "It forces domestic commercial banks to increase reserve requirements for foreign loans.",
+        "It triggers immediate retaliatory tariffs from major trading partners across Europe.",
+        "It causes an automatic suspension of European Union structural development funds."
       ],
       "a": 0,
-      "e": "The sources state that German exports fell for the first time in 5 months (or recorded their first contraction in five months), coinciding with the broader equity slide driven by Brent crude breaching $100."
+      "e": "External trade data contraction signals weakening cross-border demand, directly impacting manufacturing revenues and the current account balance. Bank reserves, retaliatory tariffs, and EU funding suspensions are absent from the text."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Technology",
-      "q": "Which organization evaluated Matter Labs' Prividium core in testing environments?",
+      "tag": "Germany · Equities",
+      "q": "How did the breach of $100 per barrel in Brent crude transmit losses through European equity markets?",
       "o": [
-        "The Bundesbank",
-        "The European Central Bank",
-        "CIMC Raffles",
-        "Saudi Aramco"
+        "It generated immediate cost-push shocks that compressed corporate earnings multiples in capital-intensive sectors.",
+        "It prompted the European Central Bank to raise benchmark refinancing rates by 50 basis points.",
+        "It caused widespread operational shutdowns across all continental European utility networks.",
+        "It eliminated consumer demand for automobiles, leading to inventory write-downs."
       ],
       "a": 0,
-      "e": "The text states that the Bundesbank tests the technology / evaluates the software in testing environments following Matter Labs open-sourcing the Prividium core."
+      "e": "Brent crude crossing $100 transmitted immediate cost-push shocks that compressed corporate earnings multiples in capital-intensive sectors. Central bank rate hikes and utility shutdowns are not supported by the sources."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Monetary policy",
-      "q": "How did market participants adjust their pricing regarding the Bank of Japan's terminal policy path?",
+      "tag": "Japan · Equities",
+      "q": "What combination of factors compounded the 500-point plunge in the Nikkei Stock Average at 64,768?",
       "o": [
-        "They priced in a faster path to 1.75% after a 1.25% rate this month",
-        "They anticipated immediate interest rate cuts to combat equity weakness",
-        "They removed all expectations of tightening due to construction stock declines",
-        "They projected a prolonged freeze at the zero lower bound"
+        "Persistent selling pressure alongside Brent crude maintaining levels above $100 and domestic volatility.",
+        "An emergency monetary policy statement announcing negative interest rates.",
+        "A complete moratorium on semiconductor manufacturing imports from overseas suppliers.",
+        "Unprecedented retail margin calls triggered by a sudden spike in the yen."
       ],
       "a": 0,
-      "e": "The briefings state that market participants price in a faster path to 1.75% than previously anticipated, alongside the central bank preparing to raise its policy rate to 1.25% this month."
+      "e": "Heavy selling pressure, Brent crude holding above $100, and domestic volatility compounded macro headwinds for regional equities. Emergency rate changes and retail margin calls are not mentioned."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Foreign exchange",
-      "q": "What drove the USD/JPY exchange rate to rebound from below 153 to the upper 153 range?",
+      "tag": "Japan · Central banking",
+      "q": "What specific transmission channels did Bank of Japan board member Masu explicitly cite regarding potential interest rate hikes?",
       "o": [
-        "The US Treasury buyback program announcement and official warnings",
-        "An unexpected emergency rate cut by the Bank of Japan",
-        "A sharp drop in Brent crude prices below $90 per barrel",
-        "Direct intervention purchases executed solely by the Japanese finance ministry"
+        "Pressures originating from a weak currency, rising oil costs, and elevated food prices.",
+        "Excessive wage growth driven by severe domestic labor shortages in urban centers.",
+        "Rapidly expanding consumer credit volumes financed by foreign institutional lenders.",
+        "Surging residential real estate valuations in metropolitan Tokyo districts."
       ],
       "a": 0,
-      "e": "The sources explain that the exchange rate rebounded to the upper 153 range following the US Treasury buyback program announcement, alongside Scott Bessent's warnings against betting against intervention plans."
+      "e": "Masu explicitly cited the transmission channels of a weak currency, rising oil costs, and elevated food prices. Labor shortages, credit expansions, and real estate valuations are not in the text."
     },
     {
       "lvl": "a",
-      "tag": "China · Sovereign debt",
-      "q": "What macroeconomic milestone occurred on September 10, 2026, regarding Chinese and American 10-year yields?",
+      "tag": "China · Capital markets",
+      "q": "Against what financial backdrop did Enflame Technology price its STAR Market initial public offering at 142.18 yuan?",
       "o": [
-        "The sovereign yield differential expanded to a historical high",
-        "The yield gap completely closed due to synchronized monetary easing",
-        "Chinese yields surpassed US yields for the first time in history",
-        "Both nations suspended issuance of 10-year government bonds"
+        "A backdrop of cumulative three-year losses totaling 4.3bn yuan prior to its September 11 listing.",
+        "An immediate cash injection of 3.4bn yuan from foreign sovereign wealth funds.",
+        "A government mandate requiring all technology startups to list domestically.",
+        "Record quarterly net income driven by surging artificial intelligence hardware sales."
       ],
       "a": 0,
-      "e": "The text notes that the difference between Chinese and American 10-year government yields widened to an all-time record / historical high, recorded on September 10, 2026."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate sentiment",
-      "q": "How did US corporate sentiment in mainland China change according to the report published on September 10, 2026?",
-      "o": [
-        "It recovered from its previous historical low trough levels",
-        "It collapsed to zero following new bilateral trade sanctions",
-        "It remained entirely unchanged despite currency depreciation",
-        "It reached an all-time peak surpassing domestic Chinese firms"
-      ],
-      "a": 0,
-      "e": "The briefings state that US corporate sentiment in China recovered from its previous historical low / depressed trough levels, as captured in the survey data published on September 10, 2026."
+      "e": "Enflame Technology priced its IPO against a backdrop of 4.3bn yuan in cumulative three-year losses. Sovereign wealth injections, government mandates, and record net income are not mentioned."
     },
     {
       "lvl": "a",
       "tag": "India · Equities",
-      "q": "Why did the Nifty IT index suffer a sharp decline of nearly 5%?",
+      "q": "Why did the Sensex shed 813 points following the movement in crude oil prices?",
       "o": [
-        "Heightened market apprehension surrounding prospective US interest rate hikes",
-        "A domestic tax hike levied specifically on software exporters",
-        "An unexpected plunge in crude oil prices boosting traditional energy firms",
-        "Severe supply chain disruptions affecting local semiconductor manufacturing"
+        "Crude breaking the $100 threshold acted as an immediate negative shock for an import-dependent energy consumer.",
+        "Domestic commercial banks were forced to write off bad loans tied to petroleum refiners.",
+        "The central bank immediately implemented capital controls restricting equity transactions.",
+        "Foreign investors dumped domestic assets to cover margin calls in Western markets."
       ],
       "a": 0,
-      "e": "The text highlights that heightened apprehension surrounding prospective United States interest rate hikes drove the severe sectoral retracement and drop of nearly 5% in the Nifty IT index."
+      "e": "Crude breaking the $100 threshold acted as an immediate negative shock for import-dependent energy consumers, causing equity benchmarks to react violently. Bank write-offs, capital controls, and foreign margin calls are not in the source text."
     },
     {
       "lvl": "a",
-      "tag": "India · Commodities",
-      "q": "What triggered the Sensex index to plunge 813 points for its third consecutive session of losses?",
+      "tag": "India · Technology sector",
+      "q": "What cross-border dynamic drove the nearly 5 percent slump in the Nifty IT index?",
       "o": [
-        "Crude oil prices surpassing the $100 mark",
-        "An emergency interest rate hike by the Reserve Bank of India",
-        "A massive capital outflow triggered by new banking regulations",
-        "The collapse of the domestic currency's peg to the US dollar"
+        "Anticipation of Federal Reserve tightening drove risk-off sentiment as US yield expectations ratcheted higher.",
+        "Trade restrictions imposed by Washington on cross-border software service contracts.",
+        "A sharp depreciation of the US dollar reducing the value of overseas earnings repatriations.",
+        "Lower capital expenditure budgets announced by American enterprise technology clients."
       ],
       "a": 0,
-      "e": "The briefings state that crude oil prices surpassing the $100 mark (or breaching the $100 threshold) catalyzed the broad equity sell-off, causing the Sensex to drop 813 points."
+      "e": "Anticipation of Federal Reserve tightening drove risk-off sentiment, causing cross-border capital to reallocate as US yield expectations rose. Trade restrictions, currency depreciation, and lower capex are not in the sources."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Energy",
-      "q": "What operational milestone was established by CIMC Raffles for Petrobras?",
+      "tag": "Brazil · Fiscal policy",
+      "q": "How did Petrobras alter its domestic pricing structure following the national tax reduction?",
       "o": [
-        "Finalizing the hull construction for the P-84 all-electric FPSO unit",
-        "Completing the world's deepest subsea natural gas pipeline network",
-        "Installing the first commercial offshore wind turbine in Amapá",
-        "Decommissioning legacy rigs following the Morpho hydrocarbon find"
+        "It eliminated its previous pricing discount to elevate domestic gasoline rates.",
+        "It introduced state-subsidized price ceilings across all regional distribution networks.",
+        "It tied retail fuel prices directly to daily fluctuations in agricultural export revenues.",
+        "It suspended wholesale fuel deliveries pending a review of corporate tax liabilities."
       ],
       "a": 0,
-      "e": "The sources report that CIMC Raffles finalized the hull for the P-84, establishing operational parameters for the first large all-electric floating production, storage and offloading unit of its class."
+      "e": "Petrobras eliminated its pricing discount to elevate domestic gasoline rates following a national tax reduction. Subsidies, agricultural linkages, and delivery suspensions are not mentioned."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Monetary policy",
-      "q": "According to Riza Asset, what challenge is currently facing Brazilian monetary policy?",
+      "tag": "Brazil · Foreign exchange",
+      "q": "What macroeconomic factor is currently undermining the Brazilian real's bullish momentum against the US dollar?",
       "o": [
-        "The marginal efficacy / transmission mechanism of domestic tightening is narrowing",
-        "Interest rates have dropped below the neutral rate threshold",
-        "Capital controls have rendered central bank rate hikes entirely ineffective",
-        "Fiscal authorities have counteracted policy tightening with massive stimulus"
+        "A narrowing carry dynamic compounded by ongoing domestic fiscal strains.",
+        "Massive foreign direct investment outflows driven by political instability.",
+        "An aggressive monetary easing cycle executed by the central bank of Brazil.",
+        "Collapsing global demand for iron ore and agricultural commodity exports."
       ],
       "a": 0,
-      "e": "The text notes that Riza Asset highlighted that the marginal efficacy / transmission mechanism of domestic monetary policy tightening is narrowing across the broader financial system amidst inflation fears."
+      "e": "A narrowing carry dynamic and ongoing fiscal strains are placing depreciation pressure on the Brazilian real, targeting 5.35. Foreign direct investment outflows, aggressive easing, and commodity collapses are not in the text."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What drove Brent crude to climb above $100 a barrel and surpass its July peak?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What fundamental catalyst drove Brent crude past $101 on September 9, 2026?",
       "o": [
-        "Fresh hostilities and new attacks launched by the US and Iran",
-        "An unexpected announcement of production cuts by OPEC members",
-        "A complete shutdown of major European refineries due to strikes",
-        "Unprecedented demand spikes from Asian manufacturing sectors"
+        "Immediate supply disruption risks driven by active military engagements near the Strait of Hormuz.",
+        "An unexpected production cut agreement ratified by an emergency OPEC ministerial meeting.",
+        "A cyberattack that crippled pipeline infrastructure connecting regional oil fields to export terminals.",
+        "A sudden surge in industrial fuel consumption across developing Asian economies."
       ],
       "a": 0,
-      "e": "The briefings indicate that Brent crude climbed above $100 a barrel following new attacks launched by the US and Iran, expanding the physical supply risk premium."
+      "e": "The upward price action reflected immediate supply disruption risks driven by active military engagements near the Strait of Hormuz. OPEC cuts, cyberattacks, and Asian consumption spikes are not mentioned."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Corporate strategy",
-      "q": "Why is Dow evaluating an exit from its Sadara joint venture with Saudi Aramco?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "How did Washington respond to Tehran's claims regarding military engagements on September 9, 2026?",
       "o": [
-        "Strategic reassessments following repeated strikes on Saudi Aramco facilities",
-        "A regulatory mandate imposed by US authorities on foreign chemical assets",
-        "Complete exhaustion of hydrocarbon reserves near the production complex",
-        "A hostile takeover bid by competing global energy conglomerates"
+        "Washington formally disputed Tehran's assertions regarding successful retaliatory hits on two American naval vessels.",
+        "Washington announced a complete naval blockade of all major Iranian commercial ports.",
+        "Washington requested an emergency session of the United Nations Security Council.",
+        "Washington suspended diplomatic communications with regional intermediaries."
       ],
       "a": 0,
-      "e": "The text explains that Dow's evaluation of a withdrawal from Sadara coincides with strategic reassessments and damage assessments following a repeated strike on a Saudi Aramco facility."
+      "e": "The United States formally disputed Tehran's assertions regarding successful retaliatory hits on two American naval vessels. Blockades, UN sessions, and diplomatic suspensions are not in the sources."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Fiscal policy",
-      "q": "How did Atiku Abubakar characterize the recent FAAC revenue disbursement figures?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What underlying market condition caused the Nigerian naira to record its first depreciation against the US dollar on September 9, 2026?",
       "o": [
-        "As a fiscal illusion driven by nominal debasement and currency devaluation",
-        "As an accurate reflection of surging real economic productivity",
-        "As evidence of sustainable purchasing power parity improvements",
-        "As a direct result of Aliko Dangote's new refinery filing"
+        "Structural imbalances in liquidity allocation driven by shifting foreign exchange demand.",
+        "An official devaluation decree issued by the central bank of Nigeria.",
+        "A sharp drop in global crude oil export revenues reducing foreign reserves.",
+        "Widespread capital flight triggered by an unexpected sovereign debt default."
       ],
       "a": 0,
-      "e": "The sources state that Atiku Abubakar dismissed the figures as a fiscal illusion / money illusion driven by nominal debasement and President Tinubu's currency devaluation, leaving larger nominal figures with less real value."
+      "e": "The naira's depreciation was driven by shifting foreign exchange demand reflecting structural imbalances in liquidity allocation. Central bank decrees, crude revenue drops, and sovereign defaults are not mentioned."
     },
     {
       "lvl": "a",
       "tag": "Nigeria · Wealth tracking",
-      "q": "What drove Aliko Dangote's net worth to increase to $54 billion on September 9, 2026?",
+      "q": "What corporate event facilitated the recalculation of Aliko Dangote's net worth to $54 billion?",
       "o": [
-        "A regulatory filing and documentation concerning his industrial refinery",
-        "A sudden surge in domestic retail stock market valuations",
-        "Direct capital injections from government FAAC revenue disbursements",
-        "A sharp appreciation of the naira against the US dollar"
+        "A recent refinery filing that compelled asset recalculations based on projected cash flow multiples.",
+        "An initial public offering of his primary conglomerate on the London Stock Exchange.",
+        "The acquisition of a major competing cement manufacturer in North Africa.",
+        "A government grant compensating for infrastructure development outlays."
       ],
       "a": 0,
-      "e": "The text notes that Aliko Dangote captured an increase in personal wealth tied to asset disclosures, driven by a regulatory filing concerning his industrial refinery."
+      "e": "Aliko Dangote's net worth reached $54 billion supported by a recent refinery filing that compelled asset recalculations based on projected cash flow multiples. Stock exchange IPOs, competitor acquisitions, and government grants are absent from the text."
     },
     {
       "lvl": "a",
       "tag": "Australia · Equities",
-      "q": "Which sectors outperformed on the ASX 200 despite the broader market drawdown triggered by oil crossing US$100?",
+      "q": "What drove the Australian Securities Exchange to record its most severe drawdown in months?",
       "o": [
-        "Energy and resources",
-        "Financials and health care",
-        "Technology and retail",
-        "Utilities and consumer staples"
+        "Broad-based liquidations in tier-one mining and banking equities transmitting global macroeconomic jitters.",
+        "An emergency interest rate hike implemented by the Reserve Bank of Australia.",
+        "Massive corporate bankruptcies across the retail and real estate sectors.",
+        "Severe regulatory penalties imposed on major domestic financial institutions."
       ],
       "a": 0,
-      "e": "The briefings state that the energy and resources sub-indices outperformed despite the wider market drawdown led by financials and health care, as Brent crossed US$100."
+      "e": "The ASX drawdown was driven by broad-based liquidations in tier-one mining and banking equities transmitting global macroeconomic jitters. RBA rate hikes, bankruptcies, and regulatory penalties are not mentioned."
     },
     {
       "lvl": "a",
       "tag": "Australia · Foreign exchange",
-      "q": "What movement did currency markets record alongside accelerating momentum in technology stocks on the ASX?",
+      "q": "Why did spot participants square books and push AUD/USD toward the 0.7200 handle?",
       "o": [
-        "The Australian dollar touched fresh mid-May highs against major currencies",
-        "The Australian dollar tumbled to an all-time low against the US dollar",
-        "The Reserve Bank intervened to peg the currency against Brent crude",
-        "Foreign exchange demand shifted entirely toward commodity-linked swaps"
+        "They were positioning ahead of the United States producer price index print amid defensive sentiment.",
+        "They were reacting to a surprise contraction in domestic employment data.",
+        "They were executing mandatory portfolio rebalancing required at the end of the quarter.",
+        "They were responding to direct currency market intervention by the central bank."
       ],
       "a": 0,
-      "e": "The text reports that currency markets pushed the Australian dollar to its strongest level since mid-May (fresh mid-May highs), coinciding with technology sector momentum."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Commodities",
-      "q": "What immediate market reaction accompanied front-month crude oil breaching the $100 threshold in the United States?",
-      "o": [
-        "Major indices including the S&P 500, Dow, and Nasdaq finished lower",
-        "The Federal Reserve announced an immediate emergency liquidity injection",
-        "Treasury yields plummeted due to a flight to safety into government debt",
-        "Retail gasoline futures dropped sharply due to strategic reserve releases"
-      ],
-      "a": 0,
-      "e": "The sources state that major US indices including the S&P 500, Dow, and Nasdaq finished lower as front-month crude breached $100, pushing the S&P 500 into a three-day losing streak."
+      "e": "Spot participants squared books ahead of the United States producer price index print, with cross-asset correlations pointing to a defensive stance. Employment data, portfolio rebalancing, and central bank intervention are not in the sources."
     }
   ]
 }
