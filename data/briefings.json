@@ -1,546 +1,488 @@
 {
-  "generated": "2026-09-10T22:23:20.916Z",
+  "generated": "2026-09-10T23:22:33.348Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "10 September 2026",
-    "headline": "US stocks fall and Treasury yields climb as the European Central Bank raises benchmark rates.",
+    "headline": "US equities fell for a fourth session as oil prices surged and the European Central Bank raised interest rates.",
     "lede": {
-      "b": "The S&P 500 index, which is a collection of shares in 500 large companies, closed lower as Treasury yields pushed upward. A Treasury yield is the return the government pays people who lend it money by buying bonds, which are essentially IOUs. Traders worried about inflation, meaning the rising cost of everyday items, while awaiting a consumer price report. Meanwhile, the DAX index in Germany dropped on September 10, 2026, after the European Central Bank lifted its benchmark interest rates, which are the fees charged for borrowing money.",
-      "i": "The S&P 500 index closed lower as <span class='term' data-t='bonds'>Treasury yields</span> pushed upward. Traders tracked <span class='term' data-t='inflation'>inflation</span> expectations ahead of an upcoming consumer price report. In Europe, the DAX index dropped 0.69% and 0.84% by the end of the September 10, 2026 session. Higher borrowing costs from the European Central Bank pressured regional equity valuations as the central bank lifted benchmark <span class='term' data-t='interest rates'>rates</span>.",
-      "a": "The S&P 500 index retraced alongside surging <span class='term' data-t='bonds'>Treasury yields</span> as market participants positioned ahead of incoming consumer price prints. Concurrently, the DAX index compressed between 0.69% and 0.84% on September 10, 2026, following the European Central Bank's benchmark <span class='term' data-t='interest rates'>rate</span> hike. These tightening monetary conditions depressed regional equity valuations and increased corporate borrowing costs."
+      "b": "US stocks like the S&P 500 and Nasdaq fell for a fourth straight day. Oil prices surged, which pushed up Treasury yields. Yields are the return an investor gets on a government loan, like the interest on a bank loan. This rise in costs added to fears about <span class='term' data-t='inflation'>inflation</span>, which is the rising cost of everyday goods. Traders worried about these economic pressures and changed their bets on what central banks, the banks that manage a country's money supply, will do next. In Frankfurt, the DAX index dropped 0.84% as the European Central Bank lifted interest rates to tackle broader economic pressures.",
+      "i": "US equities including the S&P 500 and Nasdaq slid for a fourth consecutive session alongside surging oil prices. Higher commodity costs exacerbated trader anxieties over persistent <span class='term' data-t='inflation'>inflation</span> and pushed Treasury yields higher. The macroeconomic backdrop forced market participants to reprice the probability of upcoming central bank adjustments. In Europe, the Frankfurt DAX 40 index fell 0.84% as the European Central Bank lifted interest rates.",
+      "a": "US equities comprising the S&P 500 and Nasdaq extended their losing streak to a fourth consecutive session on surging crude and rising Treasury yields. Elevated commodity costs amplified concerns regarding sticky <span class='term' data-t='inflation'>inflation</span>, prompting market participants to reprice upcoming monetary tightening probabilities. European indices mirrored this risk-off sentiment, with the Frankfurt DAX 40 closing 0.84% lower as the European Central Bank raised its benchmark interest rates."
     },
     "items": [
       {
-        "c": "United States of America",
-        "b": "The S&P 500 index closed lower while Treasury yields climbed.",
-        "i": "The S&P 500 index closed lower as Treasury yields climbed ahead of inflation data.",
-        "a": "The S&P 500 index declined as Treasury yields advanced prior to the consumer price report."
-      },
-      {
-        "c": "Germany",
-        "b": "The DAX index dropped following a rate increase by the European Central Bank.",
-        "i": "The DAX index dropped 0.69% and 0.84% after the European Central Bank lifted rates.",
-        "a": "The DAX index retreated on September 10, 2026, pressured by the European Central Bank's benchmark rate increase."
-      },
-      {
         "c": "Japan",
-        "b": "A strengthening yen and rising bond yields stirred market anxiety.",
-        "i": "A strengthening yen and rising Japanese government bond yields threatened carry trade positions.",
-        "a": "Yen appreciation and rising Japanese government bond yields escalated the risk of a carry trade unwind."
+        "b": "The yen traded in the early 154 range against the dollar, while JPMorgan flagged a 103 billion dollar short position.",
+        "i": "The yen traded in the early 154 range against the dollar as JPMorgan flagged a 103 billion dollar carry trade position.",
+        "a": "The USD/JPY hovered in the early 154 range as JPMorgan flagged a 103 billion dollar short position vulnerable to a carry trade unwind."
+      },
+      {
+        "c": "China",
+        "b": "China posted a wider trade surplus due to export growth, and CXMT claimed the top profit margin in memory chips.",
+        "i": "China registered a wider trade surplus driven by export growth, while CXMT claimed the top profit margin across the memory sector.",
+        "a": "China reported a widened trade surplus on accelerated export growth, and CXMT surpassed competitors to claim top profit margins in memory semiconductors."
       },
       {
         "c": "India",
-        "b": "The Indian rupee recorded its steepest single-day loss since mid-July.",
-        "i": "The Indian rupee recorded its steepest loss since mid-July as crude oil crossed $100 per barrel.",
-        "a": "The Indian rupee posted its largest single-day drop since mid-July alongside crude oil exceeding $100 per barrel."
+        "b": "Mumbai shares closed higher at 74,902.59, but the rupee suffered its steepest single-day loss since mid-July.",
+        "i": "The BSE SENSEX closed higher at 74,902.59 in Mumbai despite the rupee suffering its steepest single-day loss since mid-July.",
+        "a": "The BSE SENSEX closed higher at 74,902.59 in Mumbai as the rupee slumped to a mid-July low under pressure from crude oil exceeding 100 dollars."
+      },
+      {
+        "c": "Brazil",
+        "b": "Petrobras attracted 1.4 billion dollars for a subsea tender and planned a diesel price hike.",
+        "i": "Petrobras drew 1.4bn dollars for its subsea tender while planning a diesel price hike and lowering gasoline.",
+        "a": "Petrobras attracted 1.4bn dollars for a deep-water subsea tender while adjusting fuel prices through planned diesel hikes and gasoline cuts."
+      },
+      {
+        "c": "Saudi Arabia",
+        "b": "OPEC cut its 2026 demand forecast to 400Mb/d, and Saudi output fell to its lowest level since 1990.",
+        "i": "OPEC reduced its 2026 demand forecast to 400Mb/d as August output drops pushed group production to its lowest level since 1990.",
+        "a": "OPEC lowered its 2026 demand growth forecast to 400Mb/d and August output declines pushed Saudi production to the lowest since 1990."
+      },
+      {
+        "c": "Nigeria",
+        "b": "The naira appreciated against the US dollar in September, and reserves rose.",
+        "i": "The naira appreciated against the US dollar in September following rising foreign reserves and improved market liquidity.",
+        "a": "The naira appreciated against the US dollar in September driven by rising foreign reserves and improved market liquidity."
+      },
+      {
+        "c": "Australia",
+        "b": "Australian shares faced losses as oil prices climbed to their highest mark since May.",
+        "i": "The ASX 200 faced losses as climbing crude prices and rising sovereign bond yields pressured local equities.",
+        "a": "The ASX 200 faced a downward open as surging crude prices and rising sovereign bond yields followed negative leads from Wall Street."
       }
     ],
     "thread": {
-      "b": "Rising energy costs and shifting central bank policies dominated markets across multiple countries. Oil prices surged globally, while various nations managed domestic currency and yield pressures.",
-      "i": "Escalating crude oil prices and central bank policy adjustments drove cross-border market pressures. Energy costs climbed past key thresholds, affecting currency valuations and equity indices globally.",
-      "a": "Energy cost expansion and monetary tightening transmitted pressures across global asset classes. Central bank rate actions and commodity price surges drove concurrent adjustments in currency and equity valuations."
+      "b": "Rising oil prices and tighter monetary policy weighed on global markets. Stock indices fell in multiple regions while currencies reacted to shifting interest rates.",
+      "i": "Surging oil prices and tighter monetary policy created headwinds across international markets. Equities retreated in multiple regions while currency desks managed shifting valuations.",
+      "a": "Escalating energy costs and monetary tightening transmitted downward pressure across global equities. Foreign exchange desks managed divergent currency valuations alongside shifting central bank pricing."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US stocks fall as Treasury yields and inflation worries rise",
+      "sub": "US stocks fall as oil prices and Treasury yields climb",
       "ind": [],
       "stories": [
         {
-          "t": "US Stocks Fall and Treasury Yields Climb Ahead of Inflation Data",
-          "src": "CNBC · The Business Times · Fox Business",
-          "b": "The S&P 500 index, which tracks five hundred large American companies, ends the day lower. Treasury yields, which represent the interest paid to people who lend money to the government by buying its bonds, rise across the market. Traders worry about inflation, which is when the general price of goods and services goes up over time. Stock futures, contracts to buy shares at a later date, change very little as investors wait for a consumer inflation report.",
-          "i": "The S&P 500 index closes lower as Treasury yields push upward. Traders fret about <span class='term' data-t='inflation'>inflation</span> while awaiting the upcoming consumer price report. Stock futures show little movement ahead of the data release. Meanwhile, oil prices and yields surge across the board.",
-          "a": "The S&P 500 index breaches support levels and finishes down as duration yields climb. Market breadth deteriorates alongside the repricing of risk assets ahead of the consumer price index print. Oil price surges compound the macro headwinds facing equities.",
+          "t": "US Indices Slip as Oil and Yields Rise",
+          "src": "Market Index · Stocktwits · The Business Times",
+          "b": "Major US stock indexes like the S&P 500 and the Nasdaq dropped for a fourth straight day. This happened as the cost of oil went up. Rising oil often leads to worries about higher prices for everyday goods. Traders also saw government bond yields climb, which are returns paid on debt issued by the government.",
+          "i": "US equities including the S&P 500 and Nasdaq slid for a fourth consecutive session alongside surging oil prices. Higher commodity costs exacerbated trader anxieties over persistent <span class='term' data-t='inflation'>inflation</span> and pushed Treasury yields higher. The macroeconomic backdrop forced market participants to reprice the probability of upcoming central bank adjustments.",
+          "a": "US benchmarks such as the S&P 500 and Nasdaq extended their losses to a fourth day as an oil surge stoked fears of a reacceleration in headline price pressures. Rising Treasury yields compressed equity valuations across sectors while money markets recalibrated terminal rate probabilities. This repricing reflects heightened sensitivity to energy shocks spilling over into broader monetary policy expectations.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGhxNFNITERzYTJZampfamcxSmsxNmk3MnlVZU51Ulhickl0c0xXWGdIbmFTMWptS21adGZPS0FQdXVOa3EwN3RDTGNPR0ZkZ1ZoaWtlUk1iRURIRGRmMlNPbmc5bWpyOFJfRHpLSWR3UkdPX2l5V1o0ZmJ4cUQyV0V6d3FGRUcyMHBOX1ZPYjVtWkJyOURpSzZIbVJvMnk1UHQtSDR2YTdiWmZpOVc0V0xJYlVwcXVZbExUd1Y0emR5RGNmbUc4NG9zVTFyYVF0T2ZPR3FablVkOFdlRTVPcl82cXhTYmJKQldDNThtaw?oc=5",
-            "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jQ2RnNjJtQW9MTmpVWmd2UHJjT2V0ZEg1eFVDZ3pERncxU0VZSHhqalFETEFndjRiVUk4UEtoRFcyVUNnVmRzOXJxLTVMNVNiOXZpV2ZTbnpOUk0?oc=5"
-          ]
-        },
-        {
-          "t": "Treasury Buyback Falls Short of Expectations",
-          "src": "Bloomberg.com · Fox Business · StockStory",
-          "b": "The United States Treasury takes less money than expected during a recent bond buyback operation. This unexpected move pushes bond yields higher across financial markets. Analysts note that these rising yields make bonds an attractive buy for investors. Copart reports strong revenue results, causing its stock price to soar.",
-          "i": "The Treasury takes less than expected at its recent buyback operation, which pushes up Treasury yields. Phil Blancato describes bonds as an attractive buy as these yields climb. Corporate reporting also features Copart beating revenue expectations and seeing its stock surge.",
-          "a": "The Treasury accepts less than anticipated at the buyback operation, transmitting upward pressure to yields. Market participants frame the resulting yield environment as an attractive entry point for duration. Corporate idiosyncratic strength emerges concurrently, with Copart outperforming on revenue.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDFoMGQwT1RfV280cU11T0IxcTFHbEVSaXkxLXJyaGVaVG1MRGowVWFXSC0xVDNTRDc5cGx1dUlXM3dfbmZxRE1xVmpTclpRQ0gxOVRJX1c5QzR5czd5WDJpWktpdGx3Q0JPcmVQdGs3VU1tS0x4R1FxbHYwMTBwdXlHdEpZM3RtdEJyTjRvbVBxVElLLU02ZGtJbmRpc1B3R0tnc0lSSVR6b0xSalhNcWRZMWxPQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iMzBhTDBDUTVOSjhKbEtuLS00TC1QemNxclNsNjY2MHBxaWREQkkxa2EzVFZsdDlycnpxMVk0QS02OHNvWWkyeGRoYXdFb3BnZGZJZzZWcHJRNmM?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxOal9ublpFZkJqT0FfS0tfWENjVVdpMWJSLUJOa281bmpZRXJ5eGZSSksyekxfMGxnMTdPcEJGVUpFRkFpZmJVTk5GX2xXZE5DbzZ4LXFUZmxTbHljQXNwSm9RcndKckRiVUoyNU90R09VckhoYS02dGRjZFduQ1BQRnBUY2ExdFhlMFZ5V3piZ1E2TTFmUGVRY0RXMUdoVEp6MFFmWlcycmdJdkRTWFlKV3pmSjYxcE0?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1o3alRMbzZ1VzI0enRqbDQ3YWNTQWs2ZGpDNzdSRXFvU1dOQWVLRUtZMEVKMmdXdjAyOGFRNm9pUlozelJUQjgyS1BNQklUbTRGY2V6dG1famkzNWRCYjVIOWVJQVVEeDFPU1NnY3NtU0FfZVBZdE40RW01cXBWZWxlZFk3Q1dzS0VyakZweGtnaHV0MVdkOXFaVU1SMjRhcFV5WE9oQmVQUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVZPb3ZzUnZxNUQwZ1puTFBTXzdlWkRsSXlmTTNCQnZOS3JETHpNcUwta3ZiQUJDSUQ4VW0ySy1wZGhZUHEzaUpxVnFrcXJaVUx0YWFtWkZWSGJjeW5lY1RwQktKc1RfTTVjY3k5UWpwOGZ4dDV5WFY4SE9xWFprazE0Rll0eWVMcUsxTUllaUxDY1MyMnAyR2VQWUZ3WFdLeHdRNlQwMFJmbzQ5dGFyZ3hndlZRR3I5NDNvdHVuYmFuSDZ2ZnlQaDA3WjNRRFkyU3lwaGVhTV9CaUR2b0hTTUZwQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeGhxNFNITERzYTJZampfamcxSmsxNmk3MnlVZU51Ulhickl0c0xXWGdIbmFTMWptS21adGZPS0FQdXVOa3EwN3RDTGNPR0ZkZ1ZoaWtlUk1iRURIRGRmMlNPbmc5bWpyOFJfRHpLSWR3UkdPX2l5V1o0ZmJ4cUQyV0V6d3FGRUcyMHBOX1ZPYjVtWkJyOURpSzZIbVJvMnk1UHQtSDR2YTdiWmZpOVc0V0xJYlVwcXVZbExUd1Y0emR5RGNmbUc4NG9zVTFyYVF0T2ZPR3FablVkOFdlRTVPcl82cXhTYmJKQldDNThtaw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials release official consumer price reports to track changes in the cost of living.",
-        "i": "State agencies prepare consumer price index releases to measure inflation pressures.",
-        "a": "Macroeconomic data releases dictate fiscal and monetary policy expectations across agencies."
+        "b": "Better Markets filed a lawsuit against the Federal Reserve and Vice Chair Bowman. The legal action accuses them of corruption.",
+        "i": "Better Markets initiated legal proceedings against the Federal Reserve and Vice Chair Bowman. The complaint centers on allegations of corruption.",
+        "a": "Advocacy group Better Markets launched a corruption lawsuit against the Federal Reserve and Vice Chair Bowman. The litigation targets regulatory conduct at the central bank."
       },
       "timeline": [
         [
           "10 Sep 2026",
-          "Copart reports second quarter revenue beat"
-        ],
-        [
-          "10 Sep 2026",
-          "Treasury buyback takes less than expected"
-        ],
-        [
-          "10 Sep 2026",
-          "S&P 500 ends lower as Treasury yields rise"
+          "Better Markets filed a corruption lawsuit against the Federal Reserve and Vice Chair Bowman."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "No market updates available",
+      "sub": "No domestic economic data reported in current news feeds",
       "ind": [],
       "stories": [],
       "politics": {
-        "b": "No political updates are available in the current data feeds.",
-        "i": "No political updates are available in the current data feeds.",
-        "a": "No political updates are available in the current data feeds."
+        "b": "No political updates are available in today's news feeds.",
+        "i": "No political developments were reported in the current feeds.",
+        "a": "The current data feed contains no political reporting."
       },
       "timeline": []
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German stocks fall as the European Central Bank lifts rates",
+      "sub": "Frankfurt stocks drop as central bank lifts borrowing costs",
       "ind": [],
       "stories": [
         {
-          "t": "DAX Index Drops Following European Central Bank Rate Increase",
-          "src": "TradingView · Investing.com · marketscreener.com",
-          "b": "The main German stock market index is called the DAX. An index tracks a group of companies to show how a market is doing. The DAX closed lower on September 10, 2026. Trading platforms recorded a drop of 0.69% and 0.84% by the end of the session. Stock prices fell because the European Central Bank lifted interest rates.",
-          "i": "The DAX index closed lower on September 10, 2026. Market sources recorded declines of 0.69% and 0.84% by the end of the session. Higher borrowing costs from the European Central Bank pressured equity valuations across the region. Equities retreated as the central bank lifted benchmark rates.",
-          "a": "German equities retreated across the session on September 10, 2026. The DAX index closed down by 0.69% to 0.84% as monetary tightening weighed on valuations. The European Central Bank lifted interest rates, transmitting immediate pressure across regional risk assets.",
+          "t": "Frankfurt Equities Fall",
+          "src": "BBN Times · TradingView",
+          "b": "The main German stock market index, called the DAX 40, dropped at the close of trade. An index is a group of important company shares tracked together to show how a market is doing. Frankfurt led losses across Europe on the day. The drop came ahead of a major central bank announcement. The DAX Index closed 0.84% lower.",
+          "i": "The DAX 40 index led European losses at the close of trade in Frankfurt. Equities retreated as markets braced for monetary tightening. The DAX Index closed 0.84% lower on the session. Frankfurt stocks declined further as the European central bank lifted interest rates.",
+          "a": "The DAX 40 underperformed broader European equities into the close. Price action reflected aggressive positioning ahead of policy tightening. The DAX Index ultimately closed 0.84% lower following the official rate lift by the European central bank.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0dGbS1RQzRETWI5dXNBeGgtYWRtY05zVjFmNTl1ZDQ5Ui1rUDRUTkl3eHpqS2FjX1ZCaVhncmZBSE9uTVQ1eVZQSHMzamN0aW4yN0RMMUFVSEJoZHNjaFRLaWgwU1hyRE5INjBoUGVFWjRoN3dZUDhNeTgxbE9jVXNYdjRhT2IybkE?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEhOU2xQTW1EaTdwWmtiWURCSjhwNkpzNmFXejN2MWZpYk5HcjN2a3ZRamEzVERoelNoNzFOMTNieUpNcWMyNWlyampqMnpibmo1QjBmNFd0aHBEWjU0ZVE3Z3lnYVRYNDIzX3ItYnZaZ0JqTVU5STd5aFlXUW1CdFo0RVpBaTFNczdxOE94UWs0ZkUzd2ZCUTlrMy1uXzlGZnlTRFhnWmpjQzFlZ2VJWGJfaTVEZkE?oc=5",
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc4SjdqbS1vdm5DX2lhRy1JTXh2OTZjMTFPZGxZMlpDQlQ2cWhWZFQ3VzdoVDE5WmhfcURFUG5rSXVKTElPWU01blJlLU5ja3hYWmdaNUxINWx3V3l2ZHNIbWVwVndJU3NtYkdsTkFwUDNTN3hBVmJtTnkyRzVvTVVmc3p2X3hmTXJwck14VmFPMGtka0pVTWFDUFY2ZER0MG5NUW1fajVrQnhleDFBdGEtNA?oc=5"
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG9Xd2xBNTJraW5UeGpTbUJuVERPVGMydm5hZ24tWTZfeGtCcWw2UF9ZR0tkYWNxR2d3T01TVVNUazNLdTFIcGRCTUJBSG9mcjNLYzhKMGVHNW4wbEpiSXlaUHAtZm05RTNRZDZOcEFwVU9oLWdkVVhiVGpWdHFzM0VkNEFfUU5XSDJlVlRGejlIWVhxUUhGRnVNU19PRnh3N0UycFI5Ym1SQVk0bFllcXQ1ODBaMmM?oc=5",
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0dGbS1RQzRETWI5dXNBeGgtYWRtY05zVjFmNTl1ZDQ5Ui1rUDRUTkl3eHpqS2FjX1ZCaVhncmZBSE9uTVQ1eVZQSHMzamN0aW4yN0RMMUFVSEJoZHNjaFRLaWgwU1hyRE5INjBoUGVFWjRoN3dZUDhNeTgxbE9jVXNYdjRhT2IybkE?oc=5"
           ]
         },
         {
-          "t": "Bundesbank President Warns Political Shift Threatens Investment",
-          "src": "SRN News · Reuters · Bloomberg.com",
-          "b": "Bundesbank President Joachim Nagel spoke about politics on September 10, 2026. The Bundesbank is the central bank of Germany. He stated that he is concerned about the rise of the far-right political party AfD. He warned that this political rise may deter foreign investors from putting money into Germany.",
-          "i": "Bundesbank President Joachim Nagel voiced concern on September 10, 2026, regarding the political ascent of the far-right. The central bank head warned that the rising influence of the AfD risks deterring international investors from committing capital to Germany.",
-          "a": "Bundesbank President Joachim Nagel articulated macro-level governance concerns on September 10, 2026. The central bank official warned that the electoral ascent of the AfD threatens foreign direct investment flows by introducing structural political risk into the German economic outlook.",
+          "t": "Central Bank Raises Rates",
+          "src": "FXStreet · marketscreener.com",
+          "b": "The European Central Bank lifted interest rates, which is the cost of borrowing money set by a central authority. Higher rates make loans more expensive for businesses and people. This decision put pressure on markets around the region. The euro steadied against the Japanese yen after the move.",
+          "i": "The European Central Bank lifted interest rates to tackle broader economic pressures. Markets reacted quickly as the central bank tightened monetary policy. The euro steadied against the yen following the rate hike announcement.",
+          "a": "The European Central Bank executed a rate lift that immediately compressed equity valuations across the continent. Transmission channels pushed the euro into a steady range against the yen as yield differentials adjusted. The policy shift heightened pressures across global asset classes alongside persistent US <span class='term' data-t='inflation'>inflation</span> readings.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQnZqZkJFbWJuRGl2dlF0aXVPWGJtS3E0WkZ5Rm5nY2JBLW5nbmpDWWdfTEVYN0M4dUJLS3B5Y2oyUTNqSC1mRUcwV0xIVUp6bU5xY0xWaGl5OWhEMmVnOUw0RUExOW9CMVJOVUFzejh6YVpFdVhxQVpKUmFacE0yYnNZRkZrWG93dE1uNVh2RG5ybEk?oc=5",
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEJuZzhFUF9yQzZ2Vlg4TjFVSDhtRDZBeW83VzIwUW5aclNsWlJ4d3Z1TkMtYW1wUXVZcGdTZndDRE9YLW5qMUFNNmVZejNfMTg0NDlyUFhwVlNWN0lEbVFGTEo2Y1ktdVBaendOWDF6Rl83QlJwdTZZNkNXTkY0SEpVUi0wSkl6UVcwV184RzFJRDZ0MEo1WjdUZTB0cE5FVV84SUZKYmY1VnRXUDhqRkNtQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3Zwbm0wSTlUVGRpam9FMDQwTzVDejhrcURWWFpjZzFqUVUyVlJhX0RQY3liMDVHUlhCR2pxOEkweUp0V0lVMWh4dVZZQ1JMV0NObGk0V1VqS3BDb2wtc0ZUdUE3ZDJKR2ZVWEdVUFI3WjkxSDVrWHpLOFU1cnFSTVFfNXIwRTlFWl9SMEVJelFjOVhNOFlqRllOeW1FTjNrbGRmRUwtaGVMa2M?oc=5"
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGR0d01fWXFfeGdpbE5KWmtxRUZXQkRvVFo3b1lLbXU0MmxNZ29wUGVmS1V1T0ZPLU9oaFJYc05wVnBnWTF2Z2xkR3o3cThKWVktZklsa0FGdnNqS3dveE5TZmlLLUJHb0FZcFZBaTZzN1QtWjdKeW5wdzFqbFpLWmR3WUFXN1BGNktCRWRQNEdlZzNFY2FibEF3?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXc4SjdqbS1vdm5DX2lhRy1JTXh2OTZjMTFPZGxZMlpDQlQ2cWhWZFQ3VzdoVDE5WmhfcURFUG5rSXVKTElPWU01blJlLU5ja3hYWmdaNUxINWx3V3l2ZHNIbWVwVndJU3NtYkdsTkFwUDNTN3hBVmJtTnkyRzVvTVVmc3p2X3hmTXJwck14VmFPMGtka0pVTWFDUFY2ZER0MG5NUW1fajVrQnhleDFBdGEtNA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Bundesbank President Joachim Nagel warned on September 10, 2026, that the growing popularity of the far-right AfD party could discourage investors from operating in Germany.",
-        "i": "Bundesbank President Joachim Nagel highlighted risks on September 10, 2026, stating that the political rise of the AfD could deter investors from entering the German market.",
-        "a": "Bundesbank President Joachim Nagel flagged political friction on September 10, 2026, cautioning that the parliamentary trajectory of the AfD presents a tangible deterrent to prospective capital allocators."
+        "b": "Bundesbank President Nagel spoke about politics in the country. He said he feels concerned about the rise of the far-right. The Bundesbank is the central bank of Germany.",
+        "i": "Bundesbank President Nagel voiced public concern regarding the political rise of the far-right in Germany. The central bank head made the remarks amidst broader institutional debates. His comments highlighted anxiety within the domestic establishment.",
+        "a": "Bundesbank President Nagel articulated distinct concerns regarding the domestic rise of the far-right. The central bank executive situated institutional stability against current political realignments. The remarks underscore elite apprehensions over shifting voter dynamics in the country."
       },
       "timeline": [
         [
-          "10 Sep 2026",
-          "Bundesbank President Nagel warns that the rise of the far-right AfD could deter investors from Germany."
+          "10 Sep",
+          "Bundesbank President Nagel expresses concern over far-right rise."
         ],
         [
-          "10 Sep 2026",
-          "The European Central Bank lifts interest rates, putting downward pressure on equities."
+          "10 Sep",
+          "European Central Bank lifts interest rates."
         ],
         [
-          "10 Sep 2026",
-          "The DAX index closes lower, recording losses between 0.69% and 0.84%."
+          "10 Sep",
+          "DAX 40 closes 0.84% lower in Frankfurt."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen strength and corporate expansions across Japanese markets",
+      "sub": "Yen positions and currency trading",
       "ind": [],
       "stories": [
         {
-          "t": "Yen Strength and Rising Bond Yields Stir Market Anxiety",
-          "src": "Cryptonews.net",
-          "b": "The Japanese currency has strengthened while government bond yields climb. This movement threatens a popular investment strategy where traders borrow cheap money in Japan to buy higher-yielding assets elsewhere. When the local currency rises, that borrowing strategy becomes risky and traders often reverse it quickly.",
-          "i": "The strengthening yen and rising <span class='term' data-t='gilt'>Japanese government bond</span> yields increase the risk of a global <span class='term' data-t='carry'>carry trade</span> unwind. Higher domestic yields reduce the interest rate differential that previously incentivised investors to fund foreign positions with cheap yen. Sudden currency appreciation forces leveraged market participants to close out these cross-border exposures rapidly.",
-          "a": "Rising local yields and currency appreciation threaten to destabilise global positioning by forcing a systemic unwinding of levered <span class='term' data-t='carry'>carry trade</span> structures. The compression of yield spreads alters the funding cost calculus for macro accounts dependent on cheap domestic liquidity. Market participants now reprice tail risks associated with sudden repatriation flows driven by margin pressures.",
+          "t": "Yen Trades in Early 154 Range Against Dollar",
+          "src": "Moomoo",
+          "b": "The yen is a type of money used in Japan. The dollar is the money used in the United States. Traders check how much one money is worth compared to the other. On the 10th day of the month, the yen traded in the early 154 range against the dollar.",
+          "i": "The yen traded in the early 154 range against the dollar on the 10th. Foreign exchange participants monitored the currency pair as valuation levels shifted in New York trading. Market desks recorded the rate holding steady within this specific band.",
+          "a": "The USD/JPY spot rate printed in the early 154 range during New York forex hours on the 10th. Price action remained contained within this familiar band as macro accounts assessed yield differentials. Flow data suggested balanced two-way interest at these technical levels.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmFQODN2N2Y3ak9kUHRUb28yaWhmLU5Wcko4TXRjUTItMm5VQ2NVUmxHSllNaEFGc2JLRXVkZVBRN1E3MDV5a05ndWtxZjJiWkJNTEh4Y1RXZV9rQ0prcWZ1YkkyOElLSUV0UjJUNFZZbUNMUDY0TWVkVm9rN0FuUUZfb2hwcXdnR1JGdjJHbGVkQkxWc3hz?oc=5"
+          ]
+        },
+        {
+          "t": "JPMorgan Flags Large Yen Short Position",
+          "src": "investingLive",
+          "b": "A short position is a bet that a type of money will drop in value. JPMorgan flagged a short position worth 103 billion dollars against the yen. An unwind is when traders reverse these bets and buy the money back. This reversal could push the USD/JPY rate down to 142.",
+          "i": "JPMorgan flagged a 103 billion dollar yen short position in the market. An <span class='term' data-t='carry'>carry</span> trade unwind of this size changes positioning drastically. This liquidation pressure could push USD/JPY down to 142.",
+          "a": "JPMorgan identified a 103 billion dollar aggregate short yen exposure among leveraged accounts. The institutional <span class='term' data-t='carry'>carry</span> trade vulnerability implies that forced unwinding could catalyze a sharp appreciation. Such a squeeze lower would target the 142 handle on USD/JPY based on current positioning models.",
           "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIZGMxMlNFaXZTX2dEZE12dXhOMTVCMFZsbi1vVlZySXfM3JBc2tXT3pOUjJ5akhsdm9tdG5QRUJicF9lWHUyeUxxVHVBVUpGVHcxdlA5NzE?oc=5"
-          ]
-        },
-        {
-          "t": "Sekisui Chemical Targets Australian Modular Housing Market",
-          "src": "Nikkei Asia",
-          "b": "Sekisui Chemical plans to buy an Australian builder to expand its housing business. The Japanese company wants to sell modular homes in Australia. This acquisition marks a new push into overseas residential markets.",
-          "i": "Sekisui Chemical agrees to acquire an Australian builder to establish a foothold in modular home construction. The Japanese firm leverages its domestic building expertise for international expansion. This strategic purchase diversifies its revenue streams away from the saturated local housing sector.",
-          "a": "Sekisui Chemical targets the Australian residential market through the acquisition of a local builder to scale its modular construction footprint. Management deploys capital offshore to capture structural housing demand abroad. The transaction reflects a broader push by domestic manufacturers to export prefabricated building methodologies into Anglo-Saxon markets.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTlsdFBDMFFTdTZnT0h2dV9iSlFOQkI1YmpvUWlzV0JzeHpILWNBRXFoN1dBNEFhUXJadnUwYUxyQmlBZXpuZmRROGlrVm9TR1pBbWFIeUI1ZldsRWw5X2otV0JwT1k4aXoza0tDUURZejgtak12czg1UUdlZ2MtanZ6MkNGbllsTjhNMmxkaE14NnJBcTBuVk9mMXRWdjVLZG5nYS0xWERGMUlSaldLOGNDTF84YkdFS2pj?oc=5"
-          ]
-        },
-        {
-          "t": "Nissan Commits to Maintaining Domestic Production Capacity",
-          "src": "Nikkei Asia",
-          "b": "Nissan aims to keep its vehicle production capacity inside Japan at one million units. The car manufacturer wants to protect local manufacturing jobs and output levels. Domestic factories will continue building vehicles at this targeted volume.",
-          "i": "Nissan preserves its domestic manufacturing footprint by targeting a production capacity of one million vehicles in Japan. The carmaker resists scaling back local assembly operations despite broader industry shifts toward overseas manufacturing. This baseline volume supports domestic supply chains and assembly plants.",
-          "a": "Nissan sets a structural floor for domestic output by maintaining its Japan capacity target at one million units. Management insulates core domestic facilities from global footprint rationalisation. This strategic choice prioritises domestic supply chain integrity over immediate margin optimisation.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR09MNmVHOGFqelRsM21RWmhtbzdKWWFiZ0pjSmtBejhwY1lBYTRvR2ZtTlBkQU50cXFpS1lTVFNmRVJxOEt4cE4zR1R0UDZOTW1hbHQ4SXBtNEJsVUFpb2hqb1NYM1lTWEprU0o5clBCRlprbTlVdW4xMGtTVFRLaUdIWmU4WmVFbkN0X2s1eHBmMFUtR2hZaE5ZbnVERjlq?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGk1ZXpLNzRHSjJ0NDBpRXN1UjVDNUh2NG1pVE9TOUxRdkx3dEFvZlktSWhrNnNOLW81WFlSdzlOVGFYdHZhUU9hMnR0VHJaVk8tLU55XzQ5RlNCRDlqMTZxNHd2MlpuZWdKN0x4V1NyQVhiaHdYQkJEZjFaYlhzaHF2b25XaXhtRnhiMmdiRktBS0NkbXlkUy02elBjTURlcjZsYk1NcDhGRElh?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Japanese corporate leaders and transport heads are planning new infrastructure projects like flying taxis for casino visitors in Osaka. At the same time, companies watch currency fluctuations affect the cost of imported goods like protein and everyday items.",
-        "i": "Corporate strategy adapts to currency pressures as a weak yen pushes up protein import costs while domestic food staples like curry rice see falling prices. Meanwhile, transport executives plan futuristic infrastructure, such as flying taxis for the upcoming Osaka casino.",
-        "a": "Corporate capital allocation navigates divergent cost pressures driven by FX volatility, which elevates imported protein prices while staple food items deflate locally. Regional infrastructure planners advance commercial projects, highlighted by Kansai Airport integrating flying taxi logistics for the Osaka casino development.",
-        "sources": {
-          "0": {
-            "outlet": "News On Japan",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HT3JTdFFMZDNaU2RDSDdCdlRWMVQ5RGtweng2MFFibzJKZzFiUGZPY2tMN21xM1FTUmlnenR3RndncHg1Wm5ZX0Q5RXRxVUZBR0tHcw?oc=5"
-          },
-          "1": {
-            "outlet": "Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWlidGFvMFRPckZ0T3QxRUw3T2hERGF3X0lGNk9kbUpQbHV6UnVXX05Wa3ZtY01CTUh6c1YyNkNxbzEwY0tPLWpDa0Z1ME11b2o5cDZHcW9aTzdpR3VqTlV0am9FMWNMamhHMWNCWW4tUDVfc0lBRE90NWdSR1BhQTlsOEZfZElQN0N6R2wyLU95cU1ZWHc2NzQwWHhZQUFTUFBFMHA0clZzODRWbUNqYVVPMUtacF91NHZRT0dhaw?oc=5"
-          }
-        }
+        "b": "Traders watch how money values change every day. Big banks study these trends to see what might happen next. People keep an eye on these shifts as the numbers move up and down.",
+        "i": "Currency markets react to large speculative positions and institutional alerts. Analysts track how leveraged bets influence exchange rates. Macro desks monitor these vulnerabilities closely.",
+        "a": "Institutional positioning metrics dictate near-term foreign exchange dynamics. Leverage concentrations dictate the speed of potential mean reversion. Market participants price these risks directly into option structures."
       },
       "timeline": [
         [
-          "10 Sep 2026",
-          "Sekisui Chemical announces plans to acquire an Australian builder for modular housing."
+          "10 Sep",
+          "The yen traded in the early 154 range against the dollar."
         ],
         [
-          "10 Sep 2026",
-          "Nissan confirms its target to maintain domestic manufacturing capacity at one million vehicles."
+          "10 Sep",
+          "JPMorgan flagged a 103 billion dollar yen short position."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Chip maker profit margins and foreign holdings of yuan assets",
+      "sub": "China trade surplus widens and memory maker claims top margin",
       "ind": [],
       "stories": [
         {
-          "t": "CXMT Claims Memory Profit Crown",
-          "src": "Nikkei Asia",
-          "b": "CXMT is a company in China that makes computer memory chips. It has beaten SK Hynix and Micron to take the top spot for memory profit margins. This means it makes more profit on each chip it sells than its rivals. This change shows how fast domestic technology firms are growing. CXMT reached this milestone in September 2026.",
-          "i": "CXMT surpassed SK Hynix and Micron to claim the highest profit margin in the memory sector. The Chinese manufacturer outpaced its international competitors through cost efficiency and domestic demand. Higher margins reflect stronger pricing power in the semiconductor market. This shift alters the competitive balance for memory producers.",
-          "a": "CXMT captured the industry profit margin crown from SK Hynix and Micron, realigning memory pricing dynamics. The firm leveraged domestic supply chains to insulate margins from broader semiconductor commoditisation. This margin expansion challenges the historical oligopoly pricing models of established memory houses. CXMT achieved the top ranking in September 2026.",
+          "t": "Export Growth Drives Wider Trade Surplus",
+          "src": "WSJ",
+          "b": "China sees its trade surplus widen as export growth speeds up. A trade surplus happens when a country sells more goods abroad than it buys from other nations. Faster foreign sales push this gap higher. The data comes from reports on September 10, 2026. Official figures track this wider surplus.",
+          "i": "China registers a wider trade surplus as export growth accelerates. Stronger outbound shipments drive the expansion of net trade. Analysts track the monthly customs data for signs of external demand. The widening surplus reflects ongoing factory resilience. This trade balance update arrives on September 10, 2026.",
+          "a": "China records an expanded trade surplus driven by accelerating export momentum. The marginal shift in outbound shipments widens the net trade vector. Macro desks parse the customs print for external demand resilience against domestic consumption drags. This trade balance expansion is logged on September 10, 2026.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXpUZ05aYzNzZHk5WnFXN3NFRkdHM3l5YUhzTnpGWWNnRExUM1JDYVFKcVhIc2lkR0R6NkhmOXYxRXZ6RFVqT25hVnBBR2VzR3NDcXREYl9oOG5XZXBZQWdaNXZCQ2FBWjBQSV9ZcmQ0Ny1UVkIwOV9GamxqbHFmQzQ4QVVQTTVFRHM4bE5sSGpjbHJYMGVxMFN3S2ItR3Z5LWN5YmZrOWZOc0JkRklvRmMtSjdxNDRRakZ5TVNR?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzlXWTJCbHBEV3JlN0ItV0gtX3A0Y2duVkNvdWRfZ1h1bWtMSVhIejE0angwQTV5SUkzV2VXMkNxYjlhLWt5Vk5QbnBlMVpTaHVuTWczel9wd1ZEWFEwTXQzRDBHbHpWelNNNDhKZl84MzlkaGFmanpBQnpOUU85dWR0Y2VIS21DbExiYlBENUV4QXppNmM4amhWaktqa2Z3?oc=5"
           ]
         },
         {
-          "t": "Foreign Holdings of Onshore Yuan Assets Cross Threshold",
-          "src": "Caixin Global",
-          "b": "Global investors hold money and debt denominated in Chinese currency. These onshore yuan assets have now passed 1.6 trillion dollars in total value. International funds buy these assets to gain exposure to China's economy. This total was reached in September 2026.",
-          "i": "Foreign holdings of onshore yuan assets exceeded 1.6 trillion dollars. Global investors increased their exposure to mainland debt and equities through official quota channels. This milestone demonstrates sustained international appetite for domestic Chinese financial instruments. The data was published in September 2026.",
-          "a": "Non-resident holdings of onshore yuan-denominated assets surpassed the 1.6 trillion dollar mark. Cross-border capital flows into domestic fixed income and equity instruments drove the accumulation. This metric reflects portfolio rebalancing toward mainland markets by institutional allocators. The threshold was crossed in September 2026.",
+          "t": "CXMT Claims Memory Profit Margin Crown",
+          "src": "Nikkei Asia",
+          "b": "CXMT takes the top spot for profit margins in the memory chip market. The Chinese firm beats major rivals SK Hynix and Micron. Memory chips are parts used to store data in computers and phones. High margins mean the company makes good money on each chip it sells. The news breaks on September 10, 2026.",
+          "i": "CXMT captures the highest profit margins across the memory sector, surpassing SK Hynix and Micron. The Chinese memory producer leverages scale and pricing to outearn competitors. Industry trackers note the shift in market leadership for semiconductor profitability. The milestone is reported on September 10, 2026.",
+          "a": "CXMT supersedes SK Hynix and Micron to claim the top memory profit margin crown. The domestic producer achieves structural margin expansion amid shifting memory pricing dynamics. Equity analysts monitor the competitive moat in DRAM production capabilities. The industry ranking update is published on September 10, 2026.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmFMSEc0clpTUEtOSW5QaUw4cE1GcndydmhzZjRlSzgxQVNITkI1b2U0V2hPNUg4aU13eXNWS3hLYUxRN2VFTk8wbURvOEhNQ3dDMEJ5bk9iYS1SZ0pHLXY1bUJBa1ozU1E4eWRXdVRrcFgwaTFZTkRObVBJVUptcGRZcW0xRzhJZ2hUMkotWGdlcFAyNTBIOWt1bVJDWVI2bHB0OTFKTmdDS2xYUzdIVk9PbHM1UFg0MF9EMTBPbw?oc=5"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXpUZ05aYzNzZHk5WnFXN3NFRkdHM3l5YUhzTnpGWWNnRExUM1JDYVFKcVhIc2lkR0R6NkhmOXYxRXZ6RFVqT25hVnBBR2VzR3NDcXREYl9oOG5XZXBZQWdaNXZCQ2FBWjBQSV9ZcmQ0Ny1UVkIwOV9GamxqbHFmQzQ4QVVQTTVFRHM4bE5sSGpjbHJYMGVxMFN3S2ItR3Z5LWN5YmZrOWZOc0JkRklvRmMtSjdxNDRRakZ5TVNR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Hungary's new government is putting pressure on Chinese electric vehicle makers BYD and CATL. These companies operate manufacturing plants and projects in Hungary. The political pressure increased in September 2026.",
-        "i": "Hungary's administration increased political pressure on Chinese manufacturers BYD and CATL. The companies manage large industrial investments and facilities within the European nation. These diplomatic and regulatory frictions escalated in September 2026.",
-        "a": "Hungary's newly formed government intensified regulatory and political scrutiny on Chinese electric vehicle and battery giants BYD and CATL. The firms operate extensive production footprints inside the European jurisdiction. This diplomatic friction developed through September 2026.",
-        "source": {}
+        "b": "Hungary's new government applies fresh pressure on Chinese electric vehicle makers BYD and CATL. Both firms operate facilities and expansion plans within European markets. Local authorities monitor these industrial footprints closely. The diplomatic updates emerge on September 10, 2026.",
+        "i": "Hungary's incoming administration escalates political pressure on Chinese EV and battery champions BYD and CATL. The regulatory friction tests cross-border industrial integration within European production hubs. Sovereign stakeholders recalibrate foreign direct investment terms for major battery supply chain nodes. The diplomatic developments surface on September 10, 2026."
       },
       "timeline": [
         [
           "10 Sep 2026",
-          "CXMT surpassed SK Hynix and Micron to claim the memory profit margin crown."
+          "China reports a widening trade surplus alongside accelerated export growth."
         ],
         [
           "10 Sep 2026",
-          "Foreign holdings of China's onshore yuan assets topped 1.6 trillion dollars."
+          "CXMT surpasses SK Hynix and Micron in memory profit margins."
+        ],
+        [
+          "10 Sep 2026",
+          "Hungary's new government increases pressure on Chinese firms BYD and CATL."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Rupee pressure and crude oil costs shape Indian markets",
+      "sub": "Mumbai shares edge higher as rupee hits mid-July low",
       "ind": [],
       "stories": [
         {
-          "t": "Indian Rupee and Bitcoin Pressured by Rising Oil",
-          "src": "Inshorts · Cryptonews.net",
-          "b": "The Indian rupee suffered its biggest single-day drop since mid-July. Crude oil prices climbed past $100 per barrel. Bitcoin dropped below ₹75 lakh as these factors impacted the market. A weaker currency makes imported energy more expensive. This creates broader financial pressure across the country.",
-          "i": "The Indian rupee recorded its steepest single-day loss since mid-July alongside surging crude oil prices crossing $100 per barrel. Bitcoin slipped below ₹75 lakh as currency weakness compounded broader market pressures. Higher energy import costs typically widen the trade deficit and weigh on domestic asset valuations.",
-          "a": "The Indian rupee registered its steepest single-day loss since mid-July as crude oil breached $100 per barrel, transmitting immediate macro shocks into domestic risk assets. Bitcoin fell below ₹75 lakh under the dual weight of a depreciating currency and energy cost shocks. Higher commodity import bills threaten current account dynamics, testing central bank intervention thresholds.",
+          "t": "Mumbai Shares Edge Higher",
+          "src": "BBN Times",
+          "b": "Mumbai shares closed slightly higher at 74,902.59 on the BSE SENSEX index. An index is a way to track the overall value of a group of companies. This modest rise happened even though crude oil prices stayed above $100 per barrel. Middle East geopolitical tensions also added pressure.",
+          "i": "Mumbai shares closed higher at 74,902.59 on the BSE SENSEX index. Equities advanced despite Brent crude staying above $100 per barrel. Middle East geopolitical tensions created persistent headwinds for the session.",
+          "a": "The BSE SENSEX closed higher at 74,902.59. Domestic equities showed resilience despite Brent crude remaining above $100 per barrel and ongoing Middle East geopolitical tensions.",
           "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlFYbHpVanplQjhLcTl1U0J2dWhFTGNOM0dMM21FaVNyNkI2ZFAxQlpjMlMwOXV6cGVSOEtOTi1zSGNWbWhsaHNESVZXXzVyeW83NDlwVEd2OTdkSWV6VXlMYnFWc0RlSjBwWl9qXzRwYUtJaXpWZXU1Z0hDWVZKSUE5VVE3LUZIbGlhcGgyMVdtZWhvLW80SlJ0RElVRlXSAaQBQVVfeXFMTmhUVFIxaVItbGF6M0hOMzlxVXp0Z2J2UEZ4OG9QcFZ3Y01Yd3dydG1uTElBWHBHZmtocDRPRnZ6WkVoSjR0RFlFc01uVms1NEhMUTMwN0VJek5FZXNENFltNEhidzg1N2VTcFBlWHNLY21tVzB4OVlRQ214bTJFNmQyQjVxenRqVkpxNEdkWlZLS0hLeXRBMHhOZEJGa0hFMWpoY1M?oc=5",
-            "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WSVFCNS1oMXI2ekZrRUhNVktPUEc1R2F2N3ozbjlxSFEzTEdScUVKZUxxYmZYbkhTZ2twN1BfazRzSmJGTjJLOF9QelB1UnNqSFdwajJkaW8?oc=5"
+            "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLU9ZWnVnUDA4cTNFLUdhc0M5dTdJVGdOXzV5UnZQakpEV0R5RWVMYlVpQmZsR3VoSFFJTmVDSFUtc3FldmwxWWFLSFRjYXc5U3FISmU5NG1xM25OSFY5eC11bGxUa0J6ZjlMWXZEYmc4VkpSdmgwQzVyRmctMERJOFdLam9adjVxNGw1LTVuZGU5b1ZjbWMwOFliYmhJZ3ZRZU03Nkl0VFpXci0zZVpKS1dZdXZHWlZEckJkSFVSQ0liMEEzV3RQSUV2NVVDZTRDdGo4RVlnTjNwWG9qNDFwSnRuNHIwMGExZ1VVOEVBUlQ0ZHJLUWtCT2NENi1RQ2FvTmtIUWo2OFk5Z3AxYUpJ?oc=5"
           ]
         },
         {
-          "t": "Reserve Bank of India Announces Government Securities Auctions",
-          "src": "Reserve Bank of India",
-          "b": "State governments offered to sell stock through an auction to raise an aggregate amount of ₹35,900 crore. The Reserve Bank of India also announced a variable rate reverse repo auction to manage liquidity conditions. The government of India scheduled a separate sale of dated securities worth ₹28,000 crore. These operations help manage the cash circulating in the financial system.",
-          "i": "State governments offered to sell stock via auction aiming to raise ₹35,900 crore in face value. The Reserve Bank of India scheduled a ₹5,00,000 crore variable rate reverse repo auction with a 26-day tenor to absorb systemic liquidity. Separately, the central government announced a re-issue of dated securities totalling ₹28,000 crore.",
-          "a": "State governments offered ₹35,900 crore in aggregate face value through debt auctions. The Reserve Bank of India countered evolving liquidity conditions by scheduling a 26-day variable rate reverse repo auction for ₹5,00,000 crore. Concurrently, the central government announced a ₹28,000 crore re-issue of dated securities, setting settlement for September 21, 2026.",
+          "t": "Rupee Plunges Under Oil Pressure",
+          "src": "Prop News Time · Cryptonews.net · Inshorts",
+          "b": "The Indian rupee faced renewed pressure and recorded its steepest single-day loss since mid-July. Higher crude oil prices crossing $100 per barrel drove the currency decline. Bitcoin slipped below ₹75 lakh as the weak currency and expensive oil shaped the market.",
+          "i": "The Indian rupee suffered its steepest single-day loss since mid-July. Crude oil prices moving past $100 per barrel intensified currency depreciation. Bitcoin dropped below ₹75 lakh under the combined weight of a weakening rupee and expensive oil.",
+          "a": "The Indian rupee registered its steepest single-day loss since mid-July. Brent crude crossing $100 per barrel amplified depreciation pressures on the foreign exchange value. Bitcoin slipped below ₹75 lakh amid concurrent currency weakness and high commodity costs.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63571",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63570",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63567"
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWpLWmdUNFR3TlBLeUpiWGhYUHB2N3EzcXl2VDVyODlDVGxDZzNiWGpEQTZ5U0VKNDJmNF85bE5lak03ZmJBcmJPeGxZWWNOeUJyYlZiWndHY1FHR2F1NUE3NENySGFqQzhJSmk1eTdhblNoN21SUk9jVW1BZHRNWnpUcndQMFRRTGY3ay02MG5ETVpkUjl4UHNyd1NKRE1JX3U1Z05wbnF1aFlJdlRNX1A5OWwzZGZxdUJ6eUc2SE9ZbW94SUE?oc=5",
+            "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WSVFCNS1oMXI2ekZrRUhNVktPUEc1R2F2N3ozbjlxSFEzTEdScUVKZUxxYmZYbkhTZ2twN1BfazRzSmJGTjJLOF9QelB1UnNqSFdwajJkaW8?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlFYbHpVanplQjhLcTl1U0J2dWhFTGNOM0dMM21FaVNyNkI2ZFAxQlpjMlMwOXV6cGVSOEtOTi1zSGNWbWhsaHNESVZXXzVyeW83NDlwVEd2OTdkSWV6VXlMYnFWc0RlSjBwWl9qXzRwYUtJaXpWZXU1Z0hDWVZKSUE5VVE3LUZIbGlhcGgyMVdtZWhvLW80SlJ0RElVRlXSAaQBQVVfeXFMTmhUVFIxaVItbGF6M0hOMzlxVXp0Z2J2UEZ4OG9QcFZ3Y01Yd3dydG1uTElBWHBHZmtocDRPRnZ6WkVoSjR0RFlFc01uVms1NEhMUTMwN0VJek5FZXNENFltNEhidzg1N2VTcFBlWHNLY21tVzB4OVlRQ214bTJFNmQyQjVxenRqVkpxNEdkWlZLS0hLeXRBMHhOZEJGa0hFMWpoY1M?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Reserve Bank of India penalised a co-operative bank for rule violations. It also extended operating directions for another co-operative bank. Meanwhile, officials examined an application from the Unified Fintech Forum to become a self-regulatory organisation.",
-        "i": "The Reserve Bank of India imposed a monetary penalty of ₹1.15 lakh on Jilla Sahakari Bank Ltd, Azamgarh, for non-compliance with credit information and know-your-customer directions. The central bank also extended supervisory directions under Section 35A of the Banking Regulation Act for Kanaka Pattana Sahakara Bank Niyamita. Additionally, the regulator examined an application from the Unified Fintech Forum for self-regulatory organisation recognition.",
-        "a": "The Reserve Bank of India levied a ₹1.15 lakh penalty on Jilla Sahakari Bank Ltd for breaching credit information company membership and know-your-customer norms. Supervisory directions under Section 35A read with Section 56 of the Banking Regulation Act were extended for Kanaka Pattana Sahakara Bank Niyamita through September 12, 2026. The regulator also processed a self-regulatory organisation application from the Unified Fintech Forum following its earlier recognition of the FinTech Association for Consumer Empowerment.",
-        "sources": {
-          "0": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63568"
-          },
-          "1": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63566"
-          },
-          "2": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63565"
-          }
-        }
+        "b": "The Reserve Bank of India announced several government debt auctions and a large variable rate reverse repo. It also penalized a cooperative bank for non-compliance with rules.",
+        "i": "The Reserve Bank of India scheduled state and central government security auctions alongside a ₹5,00,000 crore variable rate reverse repo operation. Regulatory actions included a monetary penalty on Jilla Sahakari Bank Ltd.",
+        "a": "The Reserve Bank of India deployed liquidity management through a ₹5,00,000 crore variable rate reverse repo auction while managing state and central government dated security issuances. Regulatory enforcement involved a monetary penalty against Jilla Sahakari Bank Ltd. for KYC and credit information non-compliance.",
+        "gloss": null
       },
       "timeline": [
         [
-          "17 Jun 2026",
-          "Assam issued 7.66% SGS 2036 stock offered for re-issue."
-        ],
-        [
-          "22 Jul 2026",
-          "Bihar issued 7.66% SGS 2041 stock offered for re-issue."
-        ],
-        [
           "28 Aug 2024",
-          "The Reserve Bank recognised the FinTech Association for Consumer Empowerment as a self-regulatory organisation."
+          "The Reserve Bank recognised FinTech Association for Consumer Empowerment as the first SRO-FT."
+        ],
+        [
+          "11 Mar 2020",
+          "SGB 2019-20 Series X was issued with premature redemption scheduled for September 11, 2026."
         ],
         [
           "09 Sep 2026",
-          "The Reserve Bank of India issued a monetary penalty order against Jilla Sahakari Bank Ltd."
+          "The Reserve Bank of India imposed a monetary penalty on Jilla Sahakari Bank Ltd."
+        ],
+        [
+          "10 Sep 2026",
+          "The Reserve Bank of India announced dated security auctions and a variable rate reverse repo."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras adjusts fuel prices and extends supply contracts",
+      "sub": "Petrobras tender and price adjustments amid political risks",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Shifts Fuel Prices Following Tax Adjustments",
-          "src": "Reuters · Valor International",
-          "b": "Petrobras is the state-backed oil company in Brazil. It lowered gasoline prices after tax cuts were announced. It also considered raising diesel prices while waiting for government shields for consumers. The company later walked back a planned gasoline price hike because the tax changes will push pump prices down.",
-          "i": "Petrobras lowered gasoline prices following a tax-cut announcement. Management subsequently walked back a planned <span class='term' data-t='inflation'>inflation</span>-linked gasoline price hike, citing lower pump prices from the tax changes. Sources indicated the firm also weighed a diesel price increase while awaiting government consumer protection measures.",
-          "a": "Petrobras recalibrated its domestic pricing parity after policy-driven tax cuts altered the landed cost calculus at the pump. The company aborted a planned gasoline markup while simultaneously evaluating a diesel adjustment conditional on federal fiscal offsets. These domestic adjustments occur against a backdrop where international crude trades above 100 dollars per barrel.",
-          "gloss": "inflation",
+          "t": "Petrobras Subsea Tender Draws $1.4 Billion",
+          "src": "marketscale.com",
+          "b": "A subsea tender is an auction where companies offer to build or supply equipment that goes deep under the ocean. Petrobras is a giant Brazilian energy company. This auction drew $1.4bn in total bids. Companies want to win these big contracts.",
+          "i": "Petrobras attracted $1.4bn in bids for its latest subsea tender. Suppliers competed for the deep-water infrastructure contracts. The heavy capital commitment shows sustained contractor interest in offshore Brazilian fields.",
+          "a": "The subsea tender secured $1.4bn in aggregate bids, demonstrating resilient contractor appetite for Petrobras's offshore supply chain. Capital allocation remains robust despite broader emerging market headwinds. Participation depth indicates healthy competition among oilfield service providers.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXJubXpMM2ZJY2JIVDhFdVN2alM1bDgwX3FkSFloT1ZFNDRHT1M3YlB3cTRadFpWZEotaGhhbnAxdXlvVUxQNVN4YWhFck1ubE9QTlliOGJlQUNHSHduRUhPaGNMcHZPaHpLamd6QTdKMzJ5ZHZBV0ozZkFUMm5jZDZtWUxrMmljZWtVcFVkVTdtOHJwaGNTaS1HV3dPVHd5dnZWRFBtR2lBNDFKYlhCeWhhWUdVZ2ltQVFWcGpQLXZpN25mOWZRYg?oc=5",
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2tTZVc4NlZNMTNBM0ZIUmJCSmduNjJBZWpZOEM0Y0l2cVU2TlBfSE1nUVlhREQ2OG15Tjlra3NhZ2ZWLU5Id0RQUWtnZG5DdVFSY0VleUtMSF9mNjQ5ZnRVXzJCeFdFbG5rQ01XRmtPSUhBajMxVl8xSzhGR0lUVEdTcm80VGt6bnF2OFNnU2FHWGxUREtVd0VrSGlDRlN3S1h2MnNEb3BDbDliM1JpUTl5WnhvR2tvYlc3c29IM1hTdW5aQnfSAdQBQVVfeXFMT3djWWd5aTFncElOYzVKLWw1ckViQ0h0bXdoM3hkVDYyeGg1aUU0N1Vja2Y0MEhPODJWaFM5TmtmMVgzWHVwaGs5aU5QdUpDRDdmeWt6WTllSTMzRm93YTlOV21MWmw2SGJQZWc4OFJyOVU0c3FnUFpTYVI1QVJ0MlNiOE4wY2RoMVFybF8xQ2V1SXZNcXJPX3lyZWthcVFhY0JyZXJSbjNSMmppdlFfSHVTX1NoYllMVTA5dDlySkNWYjlZV0dWeWIzSTFSSWxvT193SXM?oc=5",
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSW1GdEhla2RfLVphZ3BKNmo0enVCaHloNGNGU2F6a1hfZFpJQlNteWdBWFBCZUVRXzBTd1cxWlRNZGFGSWxnQm5QTWw3Mjkta2dPWFhjcFd4MHdaa2xBMDB6d3h0dC12VDVORDFRVWpuQ2VyX2NxMzFWN3hSejBsTWZDbVRrbDBUaHpLSG45c3pKSGpuWDNfUFJzMEVMVjVva2tYS3NNMmMyMDU2NVBHTUlERUlTdDBIWjFGM2gyT014RU9DdlEybzVR?oc=5"
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG14bExSTEdwb0ZWLU1fYUhYLWt6QWFlelpOdlhCOGNpbDFHaHJseUFlTkc0OGdfcUVtTHpKdVFwb09CQjJDTU5hdWVIZkQtTnJQakI4cjFVRWJGcmpqYlBQbHVQSTVlSjgtSHh4VUhtcG5SSEFsZWk5MEZ0ZkozT1g4UjRid1hUUktBb2I4V1AwVEJkWjFrdkVPTGFqY0cxNWR2OGdqRTlmVW9wNTZWaVpYaHh6ODBLQnc?oc=5"
           ]
         },
         {
-          "t": "Braskem and Petrobras Amend Natural Gas Agreement",
-          "src": "marketscreener.com · marketscale.com",
-          "b": "Braskem and Petrobras extended a natural gas supply agreement through 2029. Voqen Energia joined the amended contract. The total value of this deal reached 1,850 million Brazilian Reais. Petrobras also recently drew 1,400 million dollars in bids for a subsea tender.",
-          "i": "Braskem extended its natural gas supply agreement with Petrobras through 2029 in a deal involving Voqen Energia. The amended contract carries a total valuation of 1,850 million Brazilian Reais. Meanwhile, a subsea tender hosted by Petrobras attracted 1,400 million dollars in bids.",
-          "a": "Braskem prolonged its offtake timeline with Petrobras through 2029 via an amended accord incorporating Voqen Energia. The multi-party agreement carries a total nominal value of 1,850 million Brazilian Reais. In separate upstream operational developments, a Petrobras subsea procurement auction secured 1,400 million dollars in aggregate bids.",
+          "t": "Petrobras Eyes Diesel Hike and Lowers Gasoline",
+          "src": "Seeking Alpha · Valor International",
+          "b": "Petrobras wants to raise the price of diesel. It is waiting for the government to step in with measures to protect consumers from high costs. At the same time, the company lowered gasoline prices after tax cuts were announced.",
+          "i": "Petrobras is planning a diesel price hike while awaiting government consumer-shielding measures. The firm concurrently lowered gasoline prices following recent tax changes. Fuel pricing in Brazil remains tied to political and fiscal adjustments.",
+          "a": "Petrobras is weighing a diesel price increase contingent on executive countermeasures to protect end-users. Concurrently, the company adjusted gasoline prices downward in response to recent tax cuts. These alternating price vectors highlight the friction between corporate revenue goals and state-mandated consumer buffers.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1JRM0ZiWjI4eEcyVlg4S0lKQWgxMF9tSmREb2RFYkY3VktwVG54NUtSQnAzLVdTZVp2QkE0UGpWWTMwc2FTSUsyeHVwOEE5ODlTS2RlbHJhNmwxVjVjR2xuUW12OTVOS3BrcGFKcTJWclZrMGVRRzZWOVFWbEw0SFVnVU1iVk54SUZDQUlyU0xaaTZNc3FRZkYyR3BqSkFnbEFMQ0lOaGhaR2N0VU0xNDRyUi1tM1p3a05fS28xZHBpLUU?oc=5",
-            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ3paQWtveE5Tcl9LU0ZlUU5iQ2pmZWhiaVZ3bVVXSW4wZ0xwQzF0dmFkMTJsbGdXNkZ0MnQ0RnRDWVJUQ25ETklZYTBvRzcyRTFDMVNnWXowbE9FeEZpZ201eGRCbWF1YzVBTXB4RDM5Qk91VHpXS2dRLVR0TDFOV2o5bTRkTWdobGE0Rk9TWXZHNGZVZFJ1MU9KV1F5Qjh0cGhpWElxcG5TeU5wRi02SXVENHRycHl0Q0NBMVpQcGRnVVZEM3BoUmFOd3BYNUtueWlnMWRWVlNWX3hEZVJV?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG14bExSTEdwb0ZWLU1fYUhYLWt6QWFlelpOdlhCOGNpbDFHaHJseUFlTkc0OGdfcUVtTHpKdVFwb09CQjJDTU5hdWVIZkQtTnJQakI4cjFVRWJGcmpqYlBQbHVQSTVlSjgtSHh4VUhtcG5SSEFsZWk5MEZ0ZkozT1g4UjRid1hUUktBb2I4V1AwVEJkWjFrdkVPTGFqY0cxNWR2OGdqRTlmVW9wNTZWaVpYaHh6ODBLQnc?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVzSTNYNFE3Si1NWmJSNEh6NEVxT0JZbTZCMnJxN0xSeDZvNDNyMnBscDZFVGdULThZZWU1ODRseWl4QjhVQ2dlRmFrRDRTZnRQX1g2RTc0dUhSUEVxYkk1T1NNaEtOQVlOR2wxUkZWYlV6b29GbWlyemh0VW8tOHlMNmtRa2ZzTERZOVFoYlJJRjZvNnFYSld6R2RiajdmNV9fMzAzMDBxZTdQMTUwTGRyVWxkaE9xSE83Uk16VGZXVnRTWXFGag?oc=5",
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2tTZVc4NlZNMTNBM0ZIUmJCSmduNjJBZWpZOEM0Y0l2cVU2TlBfSE1nUVlhREQ2OG15Tjlra3NhZ2ZWLU5Id0RQUWtnZG5DdVFSY0VleUtMSF9mNjQ5ZnRVXzJCeFdFbG5rQ01XRmtPSUhBajMxVl8xSzhGR0lUVEdTcm80VGt6bnF2OFNnU2FHWGxUREtVd0VrSGlDRlN3S1h2MnNEb3BDbDliM1JpUTl5WnhvR2tvYlc3c29IM1hTdW5aQnfSAdQBQVVfeXFMT3djWWd5aTFncElOYzVKLWw1ckViQ0h0bXdoM3hkVDYyeGg1aUU0N1Vja2Y0MEhPODJWaFM5TmtmMVgzWHVwaGs5aU5QdUpDRDdmeWt6WTllSTMzRm93YTlOV21MWmw2SGJQZWc4OFJyOVU0c3FnUFpTYVI1QVJ0MlNiOE4wY2RoMVFybF8xQ2V1SXZNcXJPX3lyZWthcVFhY0JyZXJSbjNSMmppdlFfSHVTX1NoYllMVTA5dDlySkNWYjlZV0dWeWIzSTFSSWxvT193SXM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Brazilian stock market index, called the Ibovespa, fell as political risks increased. Currencies such as the British Pound and the Argentine Peso experienced pressure against the Brazilian Real.",
-        "i": "The Ibovespa index dropped as political risks escalated for domestic assets. Foreign exchange markets also reflected pressure, with the British Pound and Argentine Peso trading softly against the Brazilian Real.",
-        "a": "Equities represented by the Ibovespa benchmark retreated as domestic political risk premiums expanded across local asset classes. Cross-rate dynamics kept the British Pound and Argentine Peso under sustained downward pressure relative to the Brazilian Real.",
-        "sources": {
-          "0": {
-            "outlet": "Traders Union",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDBkS1BpeVRzbDdBY0JJV3psQVRobzdaRXVGTUlpc2xBY2dMckRMd3FBc0E4akxWd1Y0TWNQZHhkcjNTWGlvaUxoSFpEc0ExUnFVWGV4M1NqSVc2MXFQcFdRNUdsQnhka0ZmOXlTVnExZFREbnd1UV9ITUNrVUNaVW9qWGU5SEE3UTVlcFlKRDNwc3dGTnJuMGVn?oc=5"
-          },
-          "1": {
-            "outlet": "TradingView",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUl1cjBOX3BpZmhxc1BiZzNZZzlfY3RsbmZDRU9wVmR4b0RiYndWU0RtbDRIOWhQaU0tOXp4ejVQcDlwLU9qMjRoN2gwaEZxc0FEc3JydUdZS3JjbTU5OFRJVUxhM2lzYnV6S09EMk5LQlE1RDJqeTI1M2ZLMnE0bHVXZlE5TWtIX0pyYWlLcVo1T1Zm?oc=5"
-          }
-        }
+        "b": "Political risks caused the Ibovespa stock index to fall. The government is involved in setting fuel taxes and energy prices. Leaders must balance public costs with company profits.",
+        "i": "Political risks weighed on the Ibovespa as state intervention concerns persist. Fiscal adjustments and tax cuts directly influence state-controlled corporate pricing strategies. Markets reacted to the ongoing interplay between public policy and corporate margins.",
+        "a": "Ibovespa valuations contracted as heightened political risks materialized in policy overhang. State influence over fuel pricing and tax structures continues to create regulatory discount factors for equities. Investors are pricing in the probability of further fiscal intervention across state-controlled assets."
       },
       "timeline": [
         [
           "10 Sep",
-          "Petrobras amends natural gas supply agreement worth 1,850 million Brazilian Reais"
+          "Petrobras lowered gasoline prices following tax changes."
+        ],
+        [
+          "10 Sep",
+          "Braskem and Petrobras amended a natural gas supply agreement."
+        ],
+        [
+          "10 Sep",
+          "Petrobras subsea tender drew $1.4bn in bids."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Oil production drops and Dow considers exiting Aramco venture",
+      "sub": "OPEC demand cuts and output drops affect Saudi oil",
       "ind": [],
       "stories": [
         {
-          "t": "Saudi Petroleum Output Drops",
-          "src": "Energy News Beat · UA.NEWS · Yahoo Finance",
-          "b": "Crude oil production in Saudi Arabia falls to its lowest level since 1990. Crude prices top $105 per barrel during this period. The organization known as OPEC cuts its forecast for global oil demand growth in 2026. Global oil demand is predicted to rise by 2.36 million barrels per day in 2027.",
-          "i": "Saudi crude oil production reaches its lowest point since 1990 while crude prices exceed $105. OPEC lowers its forecast for global <span class='term' data-t='inflation'>oil</span> demand growth in 2026. The producer group projects demand growth to reach 2.36 million barrels per day in 2027.",
-          "a": "Saudi production prints at troughs not seen since 1990 alongside crude breaching $105. OPEC trims its 2026 demand growth outlook while issuing a 2.36 million barrels per day expansion figure for 2027. These concurrent supply contractions and demand adjustments shape the current physical market balance.",
-          "gloss": "inflation",
+          "t": "OPEC Cuts Demand Forecast and Saudi Output Falls",
+          "src": "Mexico Business News · energyintel.com · Energy News Beat",
+          "b": "OPEC lowered its demand growth forecast for 2026 to 400Mb/d. OPEC production dropped in August because of Red Sea disruptions. This pushed OPEC output down to its lowest level since 1990.",
+          "i": "OPEC reduced its 2026 demand growth forecast to 400Mb/d. August output slid across the group due to Red Sea disruptions, pushing total production to its lowest level since 1990.",
+          "a": "OPEC revised its 2026 demand growth projection down to 400Mb/d while August output dropped on Red Sea disruptions, taking group production to troughs not seen since 1990.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmhjRnY0Qi1pbUt0RUtLLXNuVVU2dElMS1Y5NEc0TzNFVjBSdEo5eGN6LVowSERiZmNWWWZMWFVOLVZlNzRERUliUURQcGtURFdaSm9Qa2NmanhBajdnaDhnTjB2UjQ1WlcwR2dVZzZ5SHV5blBEeWJfbDVQMWhDZzZ5VGhwUEVzeVE?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHNEUGFjUTUydVJZZ0RnV1VKMHhPSExKYVBEUkhodU9PYWx4UHNGZlpubDhQUlVIeDhNbzU0Wld0ZXVHZlNFM2htRlVPTXYzZGI3V3lhQlF3NURaS2RDOG9PS19zUXdRR015NktiV3JCNDg0VXBrRnp5Mk9TQ254RHM4dmJ3RUk3dUoyMFhOM3IzbW1JWllJMDl0VjBrMzU3MG5jMlh1bkVoanpLOHhkVWpNb1hwUWNlSGdlSGVJMW4?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVFYZTBvMUpkSlBwR25UX1ZoZ0d3SkY1a2ROR05OX28ySV9nd3pPcnlETEtrNld4NGR5WFQxZGZUV3lTQXl6VXZBWGVXd1FGV2tadlduaGRqSHhFaFEzNGlidTRfY0FNc3Z3V1B4bHdtWEFQT1prbHpXX2RuU1lwaHhJbDlqc3VfNlRkSDFCc0Q2SEhRRUJWU2l3NndpWWhPVllPeUtvZHRqaVZ6M3VTeFFxd2pfUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHB5WkdsVDJ2SHpEbjg4SUlhV0lsY01LOWVzeE9ZS3dpcmhLWGhHejdacDdjeHJfWmgzUnhvSkdqVGQ2R0Y1Ri1JVGEyYzI4Q0Q3X25EN2ZEa29JT3BiT19SMXlXeEZHaEJuUUtyTUI0LWFxYW1ETzJkVThqZ1dhVTN3bTlPMFBwdy1lVlNpcw?oc=5",
+            "https://news.google.com/rss/articles/CBMickFVX3lxTE5ldmpENFFUSW1kS3Q4TGNaemNMMHdXMVdEb1ZZdGxjZlVMaDlMcVFHelVWTm43dmd6V2d0aUNHUnFYUjVzTkphX01sdFQzNHRka3VIUmJrejBraXpINGJWZWotSlphZDdDZDBkSHFvN0k2dw?oc=5",
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdmhjRnY0Qi1pbUt0RUtLLXNuVVU2dElMS1Y5NEc0TzNFVjBSdEo5eGN6LVowSERiZmNWWWZMWFVOLVZlNzRERUliUURQcGtURFdaSm9Qa2NmanhBajdnaDhnTjB2UjQ1WlcwR2dVZzZ5SHV5blBEeWJfbDVQMWhDZzZ5VGhwUEVzeVE?oc=5"
           ]
         },
         {
-          "t": "Dow Evaluates Aramco Exit",
-          "src": "Hydrocarbon Processing · AKM.RU",
-          "b": "The American company Dow considers exiting a $20 billion partnership with Saudi Aramco. The joint venture operates in the chemical business. Both firms previously established this large partnership to develop chemical projects. Dow now weighs walking away from the agreement.",
-          "i": "Dow weighs withdrawing from its $20 billion chemical partnership with Saudi Aramco. The American firm evaluates its future involvement in the massive joint venture. This potential exit threatens a major cross-border industrial alliance.",
-          "a": "Dow assesses a withdrawal from its $20 billion chemical sector joint venture with Saudi Aramco. The potential dissolution of this partnership alters the strategic footprint of both corporations in petrochemicals. Stakeholders monitor whether the American firm executes a full divestment from the vehicle.",
+          "t": "Aramco Expands Partnerships Amid Industry Shifts",
+          "src": "Inspenet · Hydrocarbon Processing · BBN Times",
+          "b": "Vallourec and Aramco expanded their alliance for tubular supply. Meanwhile, Dow is weighing an exit from a $20bn partnership with Aramco. These business moves happen while Brent crude stays above $100 per barrel.",
+          "i": "Vallourec and Aramco expanded their alliance for OCTG tubular supply. Dow is considering an exit from its $20bn partnership with Aramco. These updates occur while Brent crude remains above $100 per barrel.",
+          "a": "Vallourec and Aramco expanded their alliance for OCTG tubular supply, whereas Dow weighs an exit from its $20bn joint venture with Aramco. These corporate realignments unfold against a backdrop where Brent crude holds above $100 per barrel.",
           "links": [
+            "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlJRd0JTQ2QzLVpPTkxYb1ZtdmhjYUV6dnpOZmxvdkJMMnd3b09nLXBBVjZuWmdGaDFqdWZJdmo0em4yX1hsaFZVckVBNXhzcjY2ZGpJck02anNZcm1ZMUpMSXJ5YzUwNTZzdTdiX2FGRndiYUl3cVVtUWRDTENOcGFTOHl2U3dnMVhnQ2J5TDRZS1Va?oc=5",
             "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVN3cmRuTEJoUmFWSkpKS2ZRWVJWSUxwQXc1dWpscmlwU051dEdRVU12LVU5NVA0LUNPVnl1aDlLM2d6ODlmS1BZQjAxZjl3Rzl4WUIwc200OGVjUEJVckhPU1Z2aWhfMVF1ZkYzNkpoa0ZobnNaTDJBZGRsQ0lZemxaZjhnRzBDYkpLZDIxZ3lmaENVSERLY3h1Z291NjNfMnJB?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1RxMy1iOHZDN2stNWpWQ3lQWE85dXNUTG5CMkw4NVNtaF9pRzctdzJUYUJoV01JUTJvbU52MzZSNjB3VjBseS15QnB3R3E0ZDFDbWdOa0h2M0V6MFZTd05GSUdHR08ybkFScVNIdVpQby1NdUpKWmpoV2xfT1FwVldfTlg5S3dIV25senpHQ0s4N2llXzA5bWc3LV9vcTRiSllHUnJ3dUdwVkV3WkZMZWlWcEt0dw?oc=5"
+            "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLU9ZWnVnUDA4cTNFLUdhc0M5dTdJVGdOXzV5UnZQakpEV0R5RWVMYlVpQmZsR3VoSFFJTmVDSFUtc3FldmwxWWFLSFRjYXc5U3FISmU5NG1xM25OSFY5eC11bGxUa0J6ZjlMWXZEYmc4VkpSdmgwQzVyRmctMERJOFdLam9adjVxNGw1LTVuZGU5b1ZjbWMwOFliYmhJZ3ZRZU03Nkl0VFpXci0zZVpKS1dZdXZHWlZEckJkSFVSQ0liMEEzV3RQSUV2NVVDZTRDdGo4RVlnTjNwWG9qNDFwSnRuNHIwMGExZ1VVOEVBUlQ0ZHJLUWtCT2NENi1RQ2FvTmtIUWo2OFk5Z3AxYUpJ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Saudi Arabia manages its oil output alongside other nations in the OPEC group. The government deals with shifting global energy demand forecasts. State-backed entities like Aramco also handle major foreign business partnerships.",
-        "i": "Saudi Arabia navigates production cuts within the OPEC framework while balancing global demand projections. The kingdom manages relationships with major international industrial partners such as Dow.",
-        "a": "Saudi policymaking remains anchored in OPEC quota management and domestic industrial joint ventures. State strategy contends with downward revisions to global demand while foreign partners re-evaluate capital commitments."
+        "b": "Global institutions and energy firms adjusted their outlooks on oil demand and production. OPEC altered its growth numbers for future years. Major energy companies revised their operational strategies.",
+        "i": "OPEC recalibrated demand forecasts across multiple horizons, while output levels reacted to regional transit disruptions. Industry participants reassessed joint venture exposures.",
+        "a": "OPEC forecasts adjusted long-term demand trajectories while supply shocks depressed output. Concurrently, strategic equity shifts among major operators reflect evolving risk tolerances in hydrocarbon infrastructure."
       },
       "timeline": [
         [
           "10 Sep 2026",
-          "OPEC lowers its 2026 global oil demand growth forecast"
-        ],
-        [
-          "10 Sep 2026",
-          "Saudi oil output touches its lowest level since 1990 as prices exceed $105"
-        ],
-        [
-          "10 Sep 2026",
-          "Reports emerge that Dow weighs exiting a $20 billion partnership with Aramco"
+          "OPEC cut its 2026 demand growth forecast to 400Mb/d and reported August output drops."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira performance, educational funding, and currency policy",
+      "sub": "Naira appreciates as reserves rise and liquidity improves",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Gains Strength as Liquidity Improves",
+          "t": "Naira Gains Ground Against the US Dollar",
           "src": "Daily Post Nigeria · Proshare",
-          "b": "The Nigerian currency, called the Naira, is worth more compared to the US dollar. This means it takes fewer Naira to buy a dollar than before. Financial experts point to rising foreign reserves and better market liquidity as the main reasons. Liquidity is the amount of cash available for trading. Stronger reserves give the currency more backing.",
-          "i": "The Naira appreciated against the US dollar in August 2026. Higher foreign reserves and improved market liquidity drove the stronger showing. Analysts note that these factors reduced pressure on the foreign exchange market. The currency gains reflect broader improvements in underlying financial conditions.",
-          "a": "The Naira registered notable appreciation against the US currency through August 2026. Expanded foreign reserves and enhanced FX liquidity underpinned the recovery. These dynamics altered domestic yield expectations and compressed the premium in parallel segments. The persistence of this trend relies on sustained capital inflows matching current account demands.",
+          "b": "The Nigerian currency, called the naira, is the money used in Nigeria. It recently gained value against the US dollar, which is the money used in the United States. When a currency appreciates, it buys more of another currency than before. Foreign currency reserves and market liquidity both rose in August 2026. This helped the naira record a stronger showing during that month.",
+          "i": "The naira appreciated against the US dollar in September 2026. Improved market liquidity and rising foreign reserves drove a stronger showing for the currency in August 2026. Official reports from September 10, 2026, confirmed the return to appreciation.",
+          "a": "The naira resumed its appreciation trajectory against the USD on September 10, 2026. Increased FX liquidity and stronger external reserves underpinned the currency's outperformance through August 2026. Market participants tracked the ongoing adjustment in the official foreign exchange windows.",
           "links": [
             "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2YtLUV6NGFmc2dxb21xQUVZemI5WUIwUGkwbGFWTFBROWJNb05ZUW9yUzQ1ekpva2djTGQwdWl2Y2U2a3dTT0V0OEZxZ2FIS0JLR3ZmOXhaYnNhWjNMTGpsRC01N2RzTTBtekw4Q3B2dWw2bEVfQlpWSTJOZW9pWEViM3F3bDZ5ZW44aGl3aEV5M2RaNlRiY1lJOTUxU2FvWVNUTnBMZl9HcXp0X2tkNzFKdlZpZnRFdjB5X0NQa0RpS0hIVjY2ZXBMYXptZUhDZ1E?oc=5",
             "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ2hLWlVDcDVIR1JzOW95Sk1sdzUyTUVudTZmWUl4QWlHOFo1V1pxVDdzM0RKakFBVUUzYUtYZTB0U09JTFBNX1l4T29xNXpibDVTV3Z6S3pSYms2ckVIQmxKc01obTNySm53Mks5a2JvVnM4X1lHejZkRVRURDJOMU91SkEzeVl2RUdrUEZ2OWFYS1BZVjdiV1NFVTN5NDBYWXpBLTM5XzBad2s5RFVGZDNfbHlYSUJqTmxnMllNamdjMmc3MFJqV1VNdlFNRUYtbW45NWR3M3EzdjRIODVOY25GR2oxWHRHbXR5M19neHRPai0xalE?oc=5"
           ]
         },
         {
-          "t": "Federal Government Funds Student Data Project",
+          "t": "Federal Government Schedules Student Data Launch",
           "src": "The Nation Newspaper",
-          "b": "The federal government set an October 1 launch date for a large educational project. The plan provides 180 billion Naira each year for free educational data for students. This scheme aims to help learners access online study materials. Officials hope the project will make digital learning easier across the country.",
-          "i": "The federal government scheduled an October 1 rollout for an educational data initiative. The programme allocates 180 billion Naira annually to supply students with free internet data for learning. This funding targets digital infrastructure access for Nigerian learners. Implementation details emerged as the launch window approached.",
-          "a": "The administration slated an October 1 operational start for the student educational data scheme. An annual fiscal allocation of 180 billion Naira backs the nationwide free data distribution. This outlay targets tertiary and secondary beneficiaries to expand digital penetration. The fiscal impact will be monitored against broader budgetary constraints.",
+          "b": "The federal government set October 1 for the start of a free educational data program for students. This scheme will cost 180 billion naira every year. The announcement was made public on September 10, 2026.",
+          "i": "The federal government scheduled an October 1 launch for its annual student educational data initiative. Funding for this nationwide free data program totals 180 billion naira per year. The implementation timeline was announced on September 10, 2026.",
+          "a": "The administration slated an October 1 rollout for the 180 billion naira annual student data subsidy framework. Fiscal outlays for the educational data program scale up matching the targeted implementation date. Details of the initiative emerged in official reports on September 10, 2026.",
           "links": [
             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWgxaE02S19hSjlyb2VmbEJzMnpYRDI5VmVaYUtEZ1V3RGRtaGxKTzdYN09FeGdTZjA5amJ0WXEwYXJuaVRHalRVd29kaG9kOXlOUmpUbnFMQ2ZCbTNPWW9mSnR5X001bWhzSzBXMTNrZUdlWnQ2YXg2Sk5fcWozVHdTRkFFUWs1b05CdEh5b1QzaXROSUV5MndjVFlRWGxRRmZSUFRTY2FqeGdBa0JfNUZabXFIOFhi0gG-AUFVX3lxTFB5MllZelRNOWM3ZGpJdEZXT19mUW5DR3d2bTdVOS1zWUFVSHVXYWxMU21Jc3hnMWs0UHBaV3JwcFhsQXc1Qk91QzZiNFUxMzhMYkFqZTA3c3dGUEJSMEtaTjEwSzd1SEJ3dHBNSm8tZ19xdjBEQ29KcXpxZXQwSTFoWEZqLTFSTzhCN3ctLVVhOTdyeWhBdDh2bUdoME83WkptZUQ5NC1ZZW91V1UxQXJXM2hkM2dTbkkwWDVlZFE?oc=5"
-          ]
-        },
-        {
-          "t": "Political Figures Debate Currency Float Future",
-          "src": "LEADERSHIP Newspapers · TheNigeriaLawyer",
-          "b": "Politician Peter Obi stated he will keep the current foreign exchange liberalisation policy if he wins power. This policy allows the exchange rate to float, meaning the market decides the value of the Naira rather than the government. Other business analysts argue that private investments, such as the Dangote Refinery, will help strengthen the currency further. They suggest these private projects could push the overall economy to 600 billion dollars by 2030.",
-          "i": "Peter Obi confirmed plans to maintain the foreign exchange liberalisation framework if elected in 2027. The policy leaves currency valuation to market forces rather than fixed state interventions. Concurrently, analysts project that private investments like the Dangote Refinery will support reserves and bolster the Naira. Such capital formation could lift the domestic economy to 600 billion dollars by 2030.",
-          "a": "Peter Obi committed to preserving the existing floating exchange rate architecture through any future administration. This stance anchors market expectations regarding the continuation of current currency liberalisation. Meanwhile, projections from analysts tie long-term external stability to private ventures like the Dangote Refinery. These industrial investments form the basis for estimates scaling the aggregate economy to 600 billion dollars by 2030.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVNMbW9iMDc5R1cwQ2FYam1seG9IQjZzZU1iWG8xRmp3R1ppX3YtZ2FzZVNka3gzckhod05OOUxfdFRRbVBvY0JLWTNiQTQwdmY4dmZoUVA5S2pSRTVOVG5Jc1NwMGhsZXpEOHp4WngyN25oTTRrVmt0VnBsNEpERnJR?oc=5",
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZU5YY3U2MXpQcnF2d2g4RV8yZXZ0dGlMX1dFQjc3dVZ4cWhLczN5bHVCZkROOHdGQ2ZHMzNTXzYyOEc2aWhXSXk0emdxZUxfMjQ4d0xHR2ZSeDZ4U1AtRVhLWmRzUGJjaXBDaVE2SGYybVRJZVlMbHhkRmdNZDdvZlpUY0dJQ0JiQ3MyVFJRSVVDSDJ2SGlnclV2dngyLWFoWnVVMGpCZ3hydEpmdW9mZ0h4VnlYbWkyeEN1TnNCNEs5SFlVOGFLU3l5aG8wdDB4VEoyeUdLMkVyYzMyMjE2ekp3VmZwa2lpZ1BkR19aTQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political discussions focused on upcoming elections and policy continuity. Opposition figures debated whether to keep current currency rules. Administrative changes also affected regional party leadership structures.",
-        "i": "Political discourse centred on electoral platform commitments regarding exchange rate policy. Opposition figures pledged continuity for market-determined currency mechanisms. Regional factions experienced internal leadership disputes.",
-        "a": "Political positioning ahead of the 2027 electoral cycle highlighted bipartisan alignment on structural forex reforms. Opposition figures formally endorsed the retention of the floating exchange rate regime. Simultaneously, organisational friction emerged within regional party apparatuses.",
-        "sources": {
-          "0": {
-            "outlet": "Blueprint Newspapers",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUxzbFA0N0MxMzFOTnZFMDVMaGdJaHJ5QTA1bnAyUmpXcU9rQnB1UmJOR0VNblN2N0ZoaHdpUXMxaDBCNEFieXJtSk1JSGd6dWs4bzJZbVVmOHJKYWtnTjVOVVIxY3p1cU1WYWdjbEt0em45Y1pNc216QkZMd0lPOGdabmJPVDR4OVVWalFpMkdwc1BOWmc?oc=5"
-          }
-        }
+        "b": "Politician Peter Obi stated on September 10, 2026, that he would keep the current forex liberalisation policy if he wins the presidency in 2027. This policy allows the exchange rate to float rather than keeping it fixed.",
+        "i": "Peter Obi declared on September 10, 2026, that he intends to preserve the forex liberalisation and currency float policies initiated by President Tinubu. The political figure confirmed his stance ahead of the 2027 presidential election.",
+        "a": "Peter Obi committed to maintaining the existing foreign exchange liberalisation framework on September 10, 2026. The 2027 presidential contender endorsed the continuation of the current administration's managed float regime.",
+        "gloss": null
       },
       "timeline": [
         [
-          "10 Sep 2026",
-          "Peter Obi confirmed plans to retain the Naira float policy if elected president."
+          "31 Aug 2026",
+          "Foreign exchange reserves and market liquidity increased through the month."
         ],
         [
           "10 Sep 2026",
-          "The federal government scheduled an October 1 start date for the student educational data project."
+          "The naira returned to appreciation against the US dollar."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX faces downward pressure as global oil climbs",
+      "sub": "Australian shares face losses as oil and bond yields climb",
       "ind": [],
       "stories": [
         {
-          "t": "Oil Price Surge Weighs on Local Equities",
-          "src": "SMH.com.au",
-          "b": "An index is a basket of shares grouped together to track a market. The ASX 200 is an index that follows the two hundred biggest companies listed in Australia. Wall Street refers to the major stock markets in the United States. Oil prices climbed to their highest mark since May. The ASX is set to slump following these overseas declines.",
-          "i": "The ASX 200 tracks the largest two hundred companies listed in Australia. Wall Street indices dropped as global energy costs increased. Crude oil climbed to its highest mark since May. Local equities are set to slump following these overnight losses.",
-          "a": "Wall Street equities retreated as crude oil climbed to its highest level since May. The S&P/ASX 200 index is primed for a downward gap following the broader international risk-off sentiment. Energy input cost pressures drove the sell-off across major global benchmarks.",
+          "t": "Oil Surges and Wall Street Slides Pressure Australian Stocks",
+          "src": "Market Index · SMH.com.au",
+          "b": "The Australian share market is set to drop after overseas markets fell. Oil prices reached their highest point since May. Government bond yields, which are like the interest rates paid on government debt, also went up. The S&P 500 and Nasdaq indices fell for the fourth day in a row. These drops on Wall Street in the United States mean local indexes like the ASX 200 will likely fall when trading begins.",
+          "i": "The local market faces a downward open following negative leads from Wall Street. The S&P 500 and Nasdaq extended their losing streak to a fourth consecutive session. Crude oil prices climbed to their highest mark since May, adding pressure to equities. Meanwhile, sovereign bond yields surged alongside energy costs. Consequently, the ASX 200 index is projected to slump.",
+          "a": "Equities face renewed selling pressure as global risk sentiment deteriorates following a fourth consecutive decline in the S&P 500 and Nasdaq. Crude benchmarks reached levels not seen since May, catalysing a surge in sovereign <span class='term' data-t='gilt'>yields</span> across major economies. This macro backdrop transmits directly into domestic indices, pointing to a sharp markdown for the ASX 200 at the opening bell.",
+          "gloss": "gilt",
           "links": [
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1o3alRMbzZ1VzI0enRqbDQ3YWNTQWs2ZGpDNzdSRXFvU1dOQWVLRUtZMEVKMmdXdjAyOGFRNm9pUlozelJUQjgyS1BNQklUbTRGY2V6dG1famkzNWRCYjVIOWVJQVVEeDFPU1NnY3NtU0FfZVBZdE40RW01cXBWZWxlZFk3Q1dzS0VyakZweGtnaHV0MVdkOXFaVU1SMjRhcFV5WE9oQmVQUQ?oc=5",
             "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV09maHQ1U1Q4MmRUemZUanZfWUNHTVpNYzBTeTRhQkpvUXllUXZPeFVzNzRnNEp6UVc0YnVTSmJIdmduMUp3a0ZCZzdCZ2tfbWlkTjBWVjZqQmJaaXFFTkdKNG5KalRoUFM3OTZDNE9aR2pvSmNyMzdWS1hrX3FZRFBQOWJpZ1JjTEk3UFlEZ3FRbllGV09WblBjdlFkR2Uxc1JTcXEwcEcxQUpDYnZ6Zm1MenhlRjV2eWVQemhDZ05EQ3hqcDV3UDJ1bFNvRC1JQmVuaHRR?oc=5"
           ]
         },
         {
-          "t": "Sekisui Chemical Targets Australian Builder Acquisition",
+          "t": "Japanese Chemical Firm Targets Australian Builder",
           "src": "Nikkei Asia",
-          "b": "Sekisui Chemical is a Japanese company. It agreed to buy an Australian builder. The deal focuses on modular homes. Modular homes are buildings made in factories before being moved to a site.",
-          "i": "Sekisui Chemical agreed to acquire an Australian builder. The Japanese firm targets expansion into modular housing. The transaction expands the buyer's footprint in the residential construction sector.",
-          "a": "Sekisui Chemical reached an agreement to buy an Australian builder to scale its modular homes operations. The cross-border transaction increases the Japanese manufacturer's exposure to the local residential construction market.",
+          "b": "Japan's Sekisui Chemical reached a deal to buy an Australian builder. The Japanese company wants to expand its business into modular homes. The acquisition targets the Australian housing construction sector. Details of the purchase involve cross-border corporate expansion.",
+          "i": "Japan's Sekisui Chemical agreed to acquire an Australian construction firm to expand its operations. The strategic move targets the modular homes sector in Australia. Cross-border activity highlights ongoing foreign interest in local building markets. The transaction brings new ownership to the targeted Australian builder.",
+          "a": "Sekisui Chemical announced the acquisition of an Australian builder to scale its modular housing footprint. This cross-border transaction reflects strategic consolidation within the residential construction sector. The deal provides the Japanese firm with a direct operational channel into the Australian housing market.",
           "links": [
             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTlsdFBDMFFTdTZnT0h2dV9iSlFOQkI1YmpvUWlzV0JzeHpILWNBRXFoN1dBNEFhUXJadnUwYUxyQmlBZXpuZmRROGlrVm9TR1pBbWFIeUI1ZldsRWw5X2otV0JwT1k4aXoza0tDUURZejgtak12czg1UUdlZ2MtanZ6MkNGbllsTjhNMmxkaE14NnJBcTBuVk9mMXRWdjVLZG5nYS0xWERGMUlSaldLOGNDTF84YkdFS2pj?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political updates are available in today's financial feeds.",
-        "i": "No political updates are available in today's financial feeds.",
-        "a": "No political updates are available in today's financial feeds."
+        "b": "No government or political updates were reported for Australia today.",
+        "i": "No political developments or government policy announcements were published in today's financial feeds.",
+        "a": "State and federal policy updates remain absent from current market intelligence feeds.",
+        "sources": {}
       },
       "timeline": [
         [
           "10 Sep 2026",
-          "Sekisui Chemical announced plans to buy an Australian builder for modular housing"
+          "Sekisui Chemical announced plans to acquire an Australian builder."
         ],
         [
           "10 Sep 2026",
-          "Oil prices reached their highest mark since May, triggering Wall Street declines"
+          "Oil prices reached their highest level since May."
+        ],
+        [
+          "10 Sep 2026",
+          "Wall Street indices including the S&P 500 fell for a fourth consecutive session."
         ]
       ]
     }
