@@ -1,532 +1,585 @@
 {
-  "generated": "2026-09-11T04:26:17.885Z",
+  "generated": "2026-09-11T05:24:58.206Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "11 September 2026",
-    "headline": "Treasury yields climbed toward 5% as oil prices touched $107 following attacks on Saudi infrastructure.",
+    "headline": "Global bond yields approached 5% as Frankfurt equities fell and the Nikkei dropped 3%.",
     "lede": {
-      "b": "Global bond markets faced heavy selling today, pushing 10-year Treasury yields toward 5%. Bonds are loans that investors buy from governments, and their yields are the annual returns paid on those loans. When bond prices drop because people are selling them, yields automatically rise, which increases overall borrowing costs. This pressure spread across Asia and combined with crude oil reaching $107 per barrel after a pipeline attack in Saudi Arabia. Central banks in Japan and Europe also managed changing interest rates and inflation risks.",
-      "i": "A broad sovereign debt selloff pushed benchmark 10-year <span class='term' data-t='gilt'>Treasury</span> yields toward 5% as global borrowing costs escalated. Bond prices and yields move inversely, meaning heavy liquidation drives required returns higher. This upward pressure on debt instruments rippled across Asian sovereign markets while Brent crude surged 5% to $107 following infrastructure attacks in Saudi Arabia. Meanwhile, Frankfurt equities fell 0.69% after the European Central Bank delivered a rate hike that compounded regional <span class='term' data-t='inflation'>inflation</span> pressures.",
-      "a": "Global duration liquidations pushed 10-year <span class='term' data-t='gilt'>Treasury</span> yields to the 5% threshold amid cross-asset repricing driven by Middle Eastern supply shocks. Brent crude rallied 5% to $107 following a Houthi attack on Saudi oil infrastructure, collapsing domestic production to its lowest level since 1990. Concurrently, the ECB's rate hike transmitted downward pressure into European risk assets, pushing the DAX down 0.69% as terminal rate pricing adjusted to firmer domestic price signals."
+      "b": "A global bond selloff pushed 10-year Treasury yields to the cusp of 5%. Bonds are loans that investors buy, and their yield is the return they pay out over time. Higher yields make borrowing more expensive for companies and governments. Wall Street shares fell as <span class='term' data-t='inflation'>inflation</span> worries grew before new price data. Inflation means that prices for everyday goods and services are rising. Frankfurt equities dropped 0.69% after the European Central Bank raised borrowing costs. This central bank manages money and interest rates for countries using the euro.",
+      "i": "A global bond selloff pushed 10-year Treasury yields toward 5%, raising overall financing costs for corporations and sovereigns. Wall Street equities fell as <span class='term' data-t='inflation'>inflation</span> fears amplified ahead of consumer price index releases. Frankfurt's DAX index extended weekly losses, dropping 0.69% at the close. The European Central Bank delivered a rate hike that pressured markets across the region, reducing equity valuations as future cash flows were discounted more heavily. Bond yields surged across European debt markets following the policy shift.",
+      "a": "A global <span class='term' data-t='gilt'>bond</span> selloff drove 10-year Treasury yields toward 5%, spilling over internationally and increasing sovereign and corporate borrowing costs. Wall Street equities declined as <span class='term' data-t='inflation'>inflation</span> expectations anchored hawkish rate bets ahead of key consumer price index prints. In Europe, the DAX fell 0.69% as the European Central Bank's rate hike triggered acute margin pressure across fixed-income portfolios. Surging European debt yields accelerated the sell-off, forcing financial institutions to seek immediate liquidity."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "Treasury yields rose near 5% while Nasdaq invested $100 million in Payward.",
-        "i": "Benchmark 10-year Treasury yields approached 5% amid a global debt selloff while Nasdaq invested $100 million in Payward.",
-        "a": "Benchmark Treasury yields approached 5% on heavy sovereign liquidations while Nasdaq deployed $100 million into Payward for tokenised equity rails."
-      },
-      {
-        "c": "United Kingdom",
-        "b": "Sterling dropped against the dollar after US producer prices rose.",
-        "i": "Sterling declined against the dollar as firm US producer price data stoked Federal Reserve rate expectations.",
-        "a": "Sterling depreciated against the greenback as firm US producer price prints drove hawkish Federal Reserve rate expectations."
+        "b": "Ten-year Treasury yields neared 5% in a global bond selloff, while Wall Street equities fell ahead of inflation data.",
+        "i": "Ten-year Treasury yields neared 5% during a global bond selloff, while Wall Street equities fell ahead of inflation data.",
+        "a": "Ten-year Treasury yields approached 5% amid a global bond selloff while Wall Street equities dropped ahead of inflation prints."
       },
       {
         "c": "Germany",
-        "b": "Frankfurt equities fell 0.69% following a European Central Bank rate hike.",
-        "i": "The DAX closed down 0.69% as the European Central Bank delivered a rate increase.",
-        "a": "Frankfurt equities underperformed regional peers as the European Central Bank delivered a rate hike that weighed on valuations."
+        "b": "Frankfurt shares dropped 0.69% as the European Central Bank raised borrowing costs.",
+        "i": "Frankfurt shares dropped 0.69% as the European Central Bank raised borrowing costs, pressuring regional assets.",
+        "a": "Frankfurt shares fell 0.69% as the European Central Bank rate hike compressed equity valuations and drove a regional debt sell-off."
       },
       {
         "c": "Japan",
-        "b": "The Nikkei dropped 2.8% as bond yields surged ahead of an expected rate increase.",
-        "i": "The Nikkei fell 2.8% as surging bond yields preceded an anticipated Bank of Japan rate increase.",
-        "a": "The Nikkei declined 2.8% alongside surging domestic bond yields ahead of an expected 25 basis point Bank of Japan rate hike."
-      },
-      {
-        "c": "China",
-        "b": "Enflame tripled in value during its Shanghai debut as artificial intelligence investments grew.",
-        "i": "Enflame tripled in value during its Shanghai debut amid strong artificial intelligence investments.",
-        "a": "Enflame tripled in value during its Shanghai debut as domestic artificial intelligence investments drove heavy trading volumes."
+        "b": "The Nikkei dropped over 1,900 points and the Bank of Japan prepared for a rate increase.",
+        "i": "The Nikkei dropped over 1,900 points as semiconductor shares slid, while the Bank of Japan approached an expected rate increase.",
+        "a": "The Nikkei plunged 3% alongside a semiconductor sell-off, while the Bank of Japan prepared to lift its policy rate to 1.25%."
       },
       {
         "c": "India",
-        "b": "The Sensex lost over 700 points as crude oil reached a four-month high.",
-        "i": "The Sensex index lost over 700 points as crude oil reached $108 per barrel.",
-        "a": "The Sensex index declined over 700 points as crude oil touched $108 per barrel and the rupee weakened to 95.79."
-      },
-      {
-        "c": "Brazil",
-        "b": "Petrobras cancelled a gasoline price increase and reduced prices by R$0.19.",
-        "i": "Petrobras reduced gasoline prices by R$0.19 and secured $1.4bn in subsea bids.",
-        "a": "Petrobras cancelled a gasoline price increase, cut prices by R$0.19, and secured $1.4bn in subsea tender bids."
-      },
-      {
-        "c": "Saudi Arabia",
-        "b": "Brent crude surged 5% to $107 after Houthis attacked a pipeline.",
-        "i": "Brent crude surged 5% to $107 following a pipeline attack that drove production to its lowest level since 1990.",
-        "a": "Brent crude surged 5% to $107 following pipeline attacks that drove Saudi production to its lowest level since 1990."
-      },
-      {
-        "c": "Nigeria",
-        "b": "The naira appreciated against the US dollar and government data funding started.",
-        "i": "The naira appreciated against the US dollar on September 10, 2026, supported by improved liquidity.",
-        "a": "The naira appreciated against the dollar on September 10, 2026, supported by improved liquidity and higher foreign reserves."
-      },
-      {
-        "c": "Australia",
-        "b": "Maritana Minerals increased its Burbanks gold resource by 62% to 755 thousand ounces.",
-        "i": "Maritana Minerals expanded its Burbanks gold resource by 62% to 755 thousand ounces.",
-        "a": "Maritana Minerals expanded its Burbanks gold resource by 62% to 755 thousand ounces, lifting its portfolio above 2.1 million ounces."
+        "b": "Indian equities fell after Brent crude crossed $108 per barrel, and the central bank conducted reverse repo auctions.",
+        "i": "Indian equities fell after Brent crude crossed $108 per barrel, and the Reserve Bank of India conducted reverse repo auctions to manage liquidity.",
+        "a": "Indian equities declined as Brent crude breached $108 per barrel, while the Reserve Bank of India absorbed liquidity via variable rate reverse repo auctions."
       }
     ],
     "thread": {
-      "b": "Rising oil prices and changing interest rates affected financial markets across multiple countries. Higher energy costs pushed up inflation expectations and caused stock prices to fall in several regions.",
-      "i": "Surging crude oil prices following supply disruptions in Saudi Arabia compounded inflation pressures globally. These energy shocks reinforced hawkish central bank expectations and pressured equity markets from Frankfurt to Mumbai.",
-      "a": "Cross-border transmission was dominated by supply-side crude shocks originating in Saudi Arabia, which elevated global inflation expectations and drove sovereign debt liquidations. Central bank tightening in Europe and Asia amplified equity drawdowns across emerging and developed jurisdictions."
+      "b": "Central banks and rising energy costs drove market movements today. Higher oil prices pushed up inflation fears across multiple countries. This caused stock markets and bond prices to fall in several regions.",
+      "i": "Escalating inflation pressures linked to rising crude oil prices drove equity declines across multiple regions. Central bank tightening and shifting monetary policy expectations compounded the sell-off in both stock and bond markets.",
+      "a": "Crude oil price escalation amplified inflation concerns globally, transmitting stress to equity and bond markets. Simultaneous monetary tightening and liquidity-absorption operations by central banks reinforced the downward pressure on asset valuations."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US bond yields rise and inflation data approaches",
+      "sub": "Treasury yields near 5% and Wall Street falls ahead of CPI",
       "ind": [],
       "stories": [
         {
-          "t": "Treasury Yields Climb Near 5% Amid Global Selloff",
-          "src": "Bloomberg.com",
-          "b": "US government bonds are losing value, which pushes their returns higher. A government bond is like an IOU where you lend money to the state in exchange for regular interest payments. The return on these 10-year loans has jumped toward 5%. This increase follows a wider selloff across world bond markets.",
-          "i": "The global debt selloff has pushed benchmark 10-year <span class='term' data-t='gilt'>Treasury</span> yields to the threshold of 5%. Bond prices and yields move inversely, meaning that heavy selling drives borrowing costs higher. This upward pressure on US debt instruments is simultaneously rippling across sovereign debt markets in Asia.",
-          "a": "Sustained selling across international sovereign debt pushed the 10-year US Treasury yield to the edge of 5%. This duration repricing reflects mounting term premium demands as global issuance absorbs liquidity. The resultant yield curve adjustments are forcing cross-border portfolio rebalancing in correlated debt markets.",
+          "t": "Treasury Yields Approach 5% in Global Bond Selloff",
+          "src": "Globest · Bloomberg.com",
+          "b": "Government bonds are IOUs issued by the state to borrow money from investors. When investors sell these bonds, their price falls and the interest rate they pay, known as the yield, goes up. Ten-year Treasury yields moved close to 5% during a broad bond selloff. This rise in borrowing costs increased financing risks across the wider economy.",
+          "i": "A global <span class='term' data-t='gilt'>bond</span> selloff pushed 10-year Treasury yields to the cusp of 5%. Higher yields increase borrowing costs and raise overall financing risks for corporations and sovereigns. The upward pressure on American yields also spilled over internationally, dragging up equivalent debt costs elsewhere.",
+          "a": "Sovereign fixed-income liquidations drove 10-year Treasury yields toward the 5% threshold, steepening financing constraints. This duration repricing reflects heightened term premia as macro participants reassess supply dynamics. The resulting yield shock transmitted directly across global yield curves, pressuring foreign debt instruments.",
           "gloss": "gilt",
           "links": [
+            "https://news.google.com/rss/articles/CBMingFBVV95cUxNZURsXzBrSFlqYXBydkZUdFh2N05zX0sxdFUtUTlVRWFCam1qMDdkMHYxYThheEhjblJZYzR4c1QtZ1Rqb3UydFdJZ3k0QzNSTVU4VzNWbGdTaGtaUGxibFJKb2wyd3FOUk5MVTJNaWE2ZGdXZHljem5UR1B5ZUdVZHVudGw5NUk1cnlYWjNiaUtsRC1wSzB4ZkJMUnVEZw?oc=5",
             "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVE5WaUVsam1zQkNmUndrUlFvZkF3NW80a0NkekZSODZGQVVpX3NaSkJPc05YZktKNWQ4akRySHRsMGNWTVZVOFRrYUVnUlNaRElfNlBLWUdWa0NibkpGeWZ2NXVMZ1Rqb2xSZWxoQ3p2UnFpNWdGbWxpdWFmcUlrYno3QlBtN2huZS1mTUpvdXI1amNEYm5vZXBPSjVtcWNQdWxkVHNpOS1ETk43Ri1tZUloZw?oc=5"
           ]
         },
         {
-          "t": "Nasdaq Invests in Payward to Prepare Tokenised Stock Platform",
-          "src": "blockhead.co",
-          "b": "Nasdaq has put $100 million into Payward, the company that runs Kraken. Nasdaq plans to launch digital tokenised shares in the year 2027. This project aims to bring traditional company stocks onto blockchain technology.",
-          "i": "Nasdaq has injected $100 million into Payward, the parent company of cryptocurrency exchange Kraken. The stock exchange operator has scheduled a 2027 rollout for tokenised Nasdaq equities. This venture bridges traditional equity trading infrastructure with digital asset ledgers.",
-          "a": "Nasdaq committed $100 million of capital to Payward, the parent entity of Kraken, targeting a 2027 commercial debut for tokenised Nasdaq equities. The strategic initiative seeks to integrate distributed ledger technology into primary exchange settlement rails. This deployment expands institutional plumbing for on-chain securities.",
+          "t": "Wall Street Falls and Gold Slips as Markets Await Inflation Data",
+          "src": "CNBC · finance.biggo.com · HDFC Sky",
+          "b": "Inflation is the rate at which prices for everyday goods and services go up over time. Investors track inflation reports very closely to guess what central banks will do with interest rates next. Wall Street shares fell as fears about rising inflation grew across the financial system. Gold headed toward its third weekly loss in a row while traders waited for the consumer price index data.",
+          "i": "Wall Street equities fell as <span class='term' data-t='inflation'>inflation</span> fears amplified ahead of crucial consumer price index data releases. Gold tracked toward a third consecutive weekly loss as market participants squared positions. Meanwhile, the dollar-yen exchange rate remained stuck in the 154 range while traders awaited the same price metrics.",
+          "a": "Equities retreated as upside price pressures stoked concerns over upcoming <span class='term' data-t='inflation'>inflation</span> prints. Precious metals extended weekly declines ahead of the consumer price index release, reflecting shifting real yield expectations. Foreign exchange desks kept dollar-yen tightly rangebound near 154 pending the incoming macroeconomic data.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1FCbkh2ZEx1d185WjlGMVdieVZDZTRzRTRoQzNNRzd0ZHY0dWFUN0ZmZ2hYRHRXU2JLbzgtYkFUYVhZR2ZaNk0xTHNnRVpmZ2c2RmxKVDNpaF9JU1prX2RzcG1pZ0R4YnB5N0l4d3IzZmMyQmxkLWRBc19vS0h5YUNtQWdvYmYzS3dMOW0wZ2N3MXlzWl9GSzVObjJFNG1jUWRVRk9WbDZFUFAxaVp3SG0wdHVUZGV5OERKeGFfZmpTdFhGNTdOZ3kxNnF3cWt6?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDVOa1pBNW14c2JSQVN3RmdwLU9YSV9ieVhiN1NoOHV5RWhXRjlubXFVVFlZeHJubkI3Vm9qTC1GZUdvWlZmVEpVT3hKUXcwendGcjcwaDZDQmU0aXZrQzNZWVU3d0Z0V01ZbTktUTRaM2luVzRvd1NINUtMYkE0d2NNU2VEUnljNXozSkdiLUZIdlM5VmZVSHdheUhZM3dO0gGmAUFVX3lxTE9maXlxNFZRSXBfeUgwbm5rd1oyamlPcVB3akFhMUd1cF9GN1lQdEUwVHpudnNCY05iLWpBaDN1TlF2cGo2NWkyVnFweXVsUXpnWDBvYmlLMUQ0Rm9oSmVQa1pwbGlyUDJBaW0xY0w1eEJSMDRvd3JEd3FLMURsM1dtWm5oaG5yaFFGSjV4NFR5N1Btc2w2WHEyLWhiOUluUkhmejZHeFE?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SSmIwTlY5ang2VHpsM2lSWG90ZFRJUGlXeVVuWlpPNDBVWENuZVd0Y3B6dHR3aHd0NDBzUTNQY3JPQllfVHg1bUVlMnZzb0w0WFNLTDF1U0RKYUF5Yy1UMWJaZHlvenVyZWNWd3E5UXdfdnFpWGc?oc=5",
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XdHY2c3RmaVpuWFpqUnJpa2pxSXhfbG9PTTNXdHR6ZEdoQmNLNDZGVW0zTHhoRlhoaHZySTcwSkdrOEZHcTcwdDJvZkpmQXRUX2t4MVdzVXhLaEowTmNTWS13VUF1MWMwRHc?oc=5"
+          ]
+        },
+        {
+          "t": "Nasdaq Invests in Payward to Launch Tokenized Stocks",
+          "src": "blockhead.co",
+          "b": "Nasdaq invested $100m into Payward, which is the parent company of crypto exchange Kraken. This investment aims to launch tokenized Nasdaq stocks by the year 2027. Tokenized shares use digital ledger technology to represent traditional corporate ownership.",
+          "i": "Nasdaq committed $100m to Payward, the parent organization of Kraken, targeting a 2027 rollout for tokenized equities. This venture aims to bridge traditional exchange products with digital asset infrastructure. The initiative plans to offer blockchain-based representations of Nasdaq-listed securities.",
+          "a": "Nasdaq deployed $100m into Payward to facilitate a 2027 commercial launch of tokenized equity products. The strategic minority stake in Kraken's parent entity provides traditional market infrastructure with distributed ledger capabilities. This development establishes a pipeline for on-chain institutional equity trading.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1FCbkh2ZEx1d185WjlGMVdieVZDZTRzRTRoQzNNRzd0ZHY0dWFUN0ZmZ2hYRHRXU2JLbzgtYkFUYVhZR2ZaNk0xTHNnRVpmZ2c2RmxKVDNpaF9JU1prX2RzcG1pZ0R4YnB5N0l4d3IzZmMyQmxkLWRBc19vS0h5YUNtQWdvYmYzS3dMOW0wZ2N3MXlzWl9GSzVObjJFNG1jUWRVRk9XbDZFUFAxaVp3SG0wdHVUZGV5OERKeGFfZmpTdFhGNTdOZ3kxNnF3cWt6?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Federal officials are preparing for an upcoming policy meeting. Financial markets are watching for new US consumer price index updates.",
-        "i": "Federal Reserve policymakers are convening amid heightening inflation anxiety. Market participants are closely tracking the impending consumer price index release for signals on monetary easing.",
-        "a": "Federal Open Market Committee deliberations approach against a backdrop of heightened macroeconomic anxiety regarding consumer price velocity. Traders are positioning portfolios ahead of the crucial CPI print to gauge terminal rate trajectories."
+        "b": "Federal Reserve officials prepared for their upcoming policy meeting while broader financial markets digested the latest inflation data releases.",
+        "i": "The Federal Reserve approached its upcoming policy meeting as market participants priced in incoming consumer price index indicators.",
+        "a": "Federal Reserve policymakers navigated pre-meeting blackout windows while interest rate swaps priced terminal rate adjustments ahead of the CPI print."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Nasdaq invests $100 million in Kraken parent Payward with plans for tokenised stocks in 2027."
+          "Nasdaq invested $100 million in Kraken parent Payward with a 2027 target for tokenized stocks."
         ],
         [
           "11 Sep 2026",
-          "US 10-year Treasury yields approach the 5% threshold during a broader global bond selloff."
+          "Ten-year Treasury yields moved close to 5% amid a global bond selloff."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Sterling moves against the dollar on US inflation data",
+      "sub": "Sterling moves against the dollar on US data",
       "ind": [],
       "stories": [
         {
-          "t": "Sterling Declines Against US Currency",
+          "t": "Sterling slips against the dollar",
           "src": "VT Markets",
-          "b": "The British currency known as sterling fell in value compared to the US dollar. This drop happened because US producer prices came in higher than expected and oil reached $100 per barrel. Higher producer prices act as an early warning for rising costs of goods, which is called <span class='term' data-t='inflation'>inflation</span>. Traders now believe the Federal Reserve, which acts as the central bank of the United States, will keep interest rates higher for longer.",
-          "i": "Sterling slipped versus the dollar following firm US producer price index figures and crude oil touching $100 per barrel. These domestic price pressures stoked hawkish bets regarding Federal Reserve policy. Currency markets adjusted exchange rates as rate expectations shifted. Traders trimmed positions in sterling relative to the greenback.",
-          "a": "Sterling declined against the dollar amid a stronger US producer price print and $100 crude prints. The macroeconomic data reinforced hawkish expectations for the Federal Reserve. Rate differentials widened as market participants priced in persistent monetary tightening. The transmission from commodity shocks to currency valuation operated via shifting yield expectations.",
-          "gloss": "inflation",
+          "b": "The currency of the United Kingdom, called sterling, dropped in value compared to the US dollar. This happened because US producer price figures came in higher than expected. Oil prices also reached $100 per barrel. These events made investors think American borrowing costs will stay high. The exchange rate fell as a result of these shifts.",
+          "i": "Sterling slipped against the US dollar following firm domestic price data from America and $100 oil prices. These readings drove hawkish bets on the Federal Reserve. Markets adjusted expectations for US monetary policy tightening. The currency reacted directly to shifting rate differentials across the Atlantic.",
+          "a": "Sterling drifted lower against the greenback as an upward print in US PPI combined with $100 crude to reinforce hawkish Federal Reserve pricing. The transmission channel operated via nominal yield support for the dollar, eroding the relative attractiveness of UK fixed income. Positioning now hinges on whether incoming US macro prints validate further policy restraint.",
           "links": [
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWNMMWJpRGQxYi1kaEVKVUpjd1Etd0QyaFpsaDFNa2dhNWJBNnNpT2Q5a0lZSG9sVElxMHJEcVJDV0U3SnBveHIzT21nN2ZUSlh1NFU4UDdsV0Z6LTREdmszRXAyb2o2NklCaVlLWThJaFluSC1xU2UzQXo1MnhFaVZIVWRub2RVZFlWOWNDcVhDemVDZ19XX0pBU05vSThKbzFoTzIyZ0h5LVlQVlBkejlnSFlJVUhjME1XbnhwdW1IM2VH?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWNMMWJpRGQxYi1kaEVKVUpjd1Etd0QyaFpsaDFNa2dhNWJBNnNpT2Q5a0lZSG9sVElxMHJEcVJDV0U3SnBveHIzT21nN2ZUSlh1NFU4UDdsV0Z6LTREdmszRXAyb2o2NklCaVlLWThJaFluSC1xU2UzQXo1MnhFaVZIVWRub2RVZFlWOWNDcVhDemVDZ19XX0pBU05vSThKbzFnTzIyZ0h5LVlQVlBkejlnSFlJVUhjME1XbnhwdW1IM2VH?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political developments were reported in the available market news feeds.",
-        "i": "No political developments were reported in the available market news feeds.",
-        "a": "No political developments were reported in the available market news feeds."
+        "b": "No political updates are available in the daily reports.",
+        "i": "No political updates are available in the daily reports.",
+        "a": "No political updates are available in the daily reports."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Sterling slipped versus the dollar as firm US PPI and $100 oil stoked Fed hawkish bets."
+          "Sterling slipped against the dollar amid firm US data and oil prices."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "European Central Bank rate hike puts pressure on German stocks",
+      "sub": "ECB rate hike hits German stocks and bond markets",
       "ind": [],
       "stories": [
         {
-          "t": "Frankfurt Equities Decline Following Central Bank Rate Decision",
-          "src": "Investing.com",
-          "b": "German shares fell after a major monetary authority raised borrowing costs. The DAX index dropped 0.69% at the close of trade in Frankfurt. European markets faced downward pressure ahead of the announcement. Gold and silver prices also retreated during the trading session. Frankfurt led European losses as the decision took effect.",
-          "i": "German equities fell as the ECB delivered a rate hike that pressured regional indices. Frankfurt equities led European losses with the DAX closing down 0.69%. The rate increase weighed on broader market sentiment alongside US <span class='term' data-t='inflation'>inflation</span> data. Precious metals including gold and silver also retreated as borrowing costs rose.",
-          "a": "German equities retreated as the ECB implemented a rate hike, transmitting immediate tightening pressure across Frankfurt markets. The DAX 40 closed down 0.69% to lead regional losses amid concurrent macro headwinds from US price pressures. Precious metals liquidation accompanied the rate lift as broader risk sentiment adjusted to tighter monetary conditions. The market reaction implies sustained hawkish pricing following the central bank shift.",
+          "t": "Frankfurt Equities Decline as Central Bank Raises Borrowing Costs",
+          "src": "Investing.com India · BBN Times",
+          "b": "Germany's main stock market index dropped by 0.69%. Central banks are groups that manage a country's money and set interest rates, which are the cost of borrowing money. The European Central Bank raised its interest rates. This decision pushed stock prices lower in Frankfurt. Germany shares closed lower at the end of trading.",
+          "i": "The benchmark DAX index extended its weekly losses as Frankfurt shares dropped 0.69% at the close of trade. The European Central Bank delivered a rate hike that pressured markets across the region. Higher borrowing costs reduce equity valuations as future cash flows are discounted more heavily. German stocks fell further ahead of the policy announcement.",
+          "a": "The DAX extended its weekly drawdown, closing down 0.69% as the European Central Bank delivered a rate hike. Equity valuations compressed across Frankfurt as higher policy rates pushed discount factors higher. Broad <span class='term' data-t='inflation'>inflation</span> concerns and tightening financial conditions exacerbated the sell-off in European equities. Frankfurt equities led regional losses ahead of the central bank decision.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEhOU2xQTW1EaTdwWmtiWURCSjhwNkpzNmFXejN2MWZpYk5HcjN2a3ZRamEzVERoelNoNzFOMTNieUpNcWMyNWlyampqMnpibmo1QjBmNFd0aHBEWjU0ZVE3Z3lnYVRYNDIzX3ItYnZaZ0JqTVU5STd5aFlXUW1CdFo0RVpBaTFNczdxOE94UWs0ZkUzd2ZCUTlrMy1uXzlGZnlTRFhnWmpjQzFlZ2VJWGJfaTVEZkE?oc=5"
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWppMzZzYnhwNEpoaWNFQ1FYaF9SMFJ2dTdfYmVRNkFhUkQ3TTN2dzV5bEZ0SFQ4RzllMGRITU1jUHRPWE5SSmlpaEp2eDJEWGRzeHpLSTAxSlhrYVB5WmNrVGhralVudTNJVHBCUThyOHdOZDZSblA2RlpWT19sZ21RU3JxTmgxdkFqanRfZXl3V1NUMXVKTE03eFVUbUxUejV4TkNMREMyUkU?oc=5",
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG9Xd2xBNTJraW5UeGpTbUJuVERPVGMydm5hZ24tWTZfeGtCcWw2UF9ZR0tkYWNxR2d3T01TVVNUazNLdTFIcGRCTUJBSG9mcjNLYzhKMGVHNW4wbEpiSXlaUHAtZm05RTNRZDZOcEFwVU9oLWdkVVhiVGpWdHFzM0VkNEFfUU5XSDJlVlRGejlIWVhxUUhGRnVNU19PRnh3N0UycFI5Ym1SQVk0bFllcXQ1ODBaMmM?oc=5"
+          ]
+        },
+        {
+          "t": "Bond Markets Strain Under Tightening Policy Pressure",
+          "src": "Reuters · Anadolu Ajansı",
+          "b": "Lenders are demanding higher returns as bond carnage spreads. Bonds are loans made by investors to governments or companies that pay regular interest. When bond yields rise, the actual prices of those existing bonds fall. Higher rates from the European Central Bank increased pressure on these debt markets. Bond markets experienced severe stress as lenders demanded immediate funds.",
+          "i": "Lenders demanded immediate liquidity as bond carnage spread across European debt markets. Bond yields surged following the European Central Bank rate hike, causing debt prices to drop. Higher borrowing costs triggered margin pressure for financial institutions holding fixed-income assets. Markets absorbed tighter monetary conditions as debt sell-offs accelerated.",
+          "a": "Sovereign and corporate debt markets suffered severe dislocations as lenders demanded liquidity amid widening bond market strains. Higher policy rates transmitted directly through the yield curve, depressing fixed-income valuations. The European Central Bank rate hike accelerated duration-risk repricing across European portfolios. Lenders forced liquidity events as funding pressures intensified.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dd0VXYm5tMF9IcW9XdERyUlhoMVBWUHZvQzJNZzlQdmlfNldFMHhHWXkyMEtkdWZ4MUFsVGdRLUtNTDMyQnFNMC1xWTRwWEJ5UnlLZWFnbGhPdk5OOU9oTFpZNzQ2TGh4MGJSZEs4X0dvYm9pQjJDRGg3YXd0VzA?oc=5",
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVdQaUpNbDAzUF9STnc0WXpRZHpRNEt1QkhheTlKdkpReW9KVFRydndibUp2TFZ3dmtYeW5qQm14Rll2UEJsczBwRWY3UXhpbEQ5aktPSWs0N1dRdUpUd2VUU2VKdmV1YWt5TldfaUxQQTZKNU12NEtxcmFYVDZaNTcyQU5xT3dEd0tCRFF1X3hNZ1p6Z2hDb3Q5eGRVUDFnM3lhSkdrd2ZCVDZUWWwxcDR1cmw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "German political leaders faced market reactions as borrowing costs increased across the region.",
-        "i": "German officials navigated financial market adjustments following the central bank rate decision.",
-        "a": "Domestic policy discussions intersected with tightening monetary conditions as regional equities absorbed the ECB hike."
+        "b": "The European Central Bank made a major decision to lift interest rates. This policy change affected financial markets across Germany and Europe. Governments and lenders responded to the new borrowing costs.",
+        "i": "The European Central Bank implemented a rate hike that reshaped European monetary conditions. Policymakers pushed borrowing costs higher to combat ongoing price pressures. Financial institutions adjusted their capital allocations in response to the tighter stance.",
+        "a": "The European Central Bank executed a policy tightening cycle via a direct rate hike. Monetary authorities prioritized price stability despite ongoing equity drawdowns and fixed-income market distress. Transmission channels immediately impacted regional equity and debt valuations."
       },
       "timeline": [
         [
           "10 Sep",
-          "Frankfurt leads European losses as DAX falls 0.69% following the ECB rate decision."
+          "The European Central Bank delivered a rate hike, pushing borrowing costs higher."
+        ],
+        [
+          "10 Sep",
+          "Germany shares closed lower with the DAX dropping 0.69% at the end of trade."
+        ],
+        [
+          "11 Sep",
+          "Lenders demanded cash as bond carnage spread across European markets."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan rate hike expectations and market reaction",
+      "sub": "Nikkei plunges as chip stocks and rate fears hit markets",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Prepares for Rate Increase",
-          "src": "finance.biggo.com · Межа. Новини України. · Reuters",
-          "b": "The Bank of Japan is the country's central bank, which is the main financial institution that controls money and interest rates. Sources say it will likely raise its main policy rate by 0.25 points to 1.25%. This rate would be the highest in 31 years. Rising <span class='term' data-t='inflation'>inflation</span> risks are pushing the bank to take this action.",
-          "i": "The Bank of Japan is expected to lift its policy rate by 25 basis points to 1.25% next week. This adjustment would bring the rate to its highest level in 31 years. Intensifying <span class='term' data-t='inflation'>inflation</span> risks are driving the central bank toward this tighter monetary stance, though sources indicate it will offer few clues on its terminal rate.",
-          "a": "The anticipated 25 basis point hike by the Bank of Japan to 1.25% represents a multi-decade high for the policy rate. Market participants are pricing in this move as <span class='term' data-t='inflation'>inflation</span> pressures mount, yet the absence of terminal rate guidance leaves the reaction function opaque. This policy shift tests domestic asset valuations as the central bank normalises away from decades of accommodation.",
+          "t": "Nikkei Drops Sharply as Chip Stocks Slide",
+          "src": "finance.biggo.com · The Economic Times",
+          "b": "The Nikkei is a major stock index, which is a basket of shares tracking the performance of big companies on the Tokyo stock market. It plunged over 1,900 points, falling 3%. A sell-off in semiconductor stocks, which are the tiny computer chips that power electronic devices, drove the morning drop.",
+          "i": "The Nikkei dropped over 1,900 points, sliding 3%. A broad sell-off across semiconductor shares triggered the morning decline. The index fell alongside rising oil prices and mounting fears over <span class='term' data-t='inflation'>inflation</span> and rate hikes.",
+          "a": "The Nikkei dropped over 1,900 points, or 3%, as a semiconductor sell-off compounded broader macroeconomic pressures. Energy price surges driven by Hormuz hostilities conflated with US rate hike fears to compress valuations. Equity multiples contracted sharply across technology weights.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RYllJU2Z0ZmVtRGpHdmdKcnUtclBmTFlEeGpCLWlUWUxBcF9oQWRKQ1hfaEI5YVNqV0tTeThiSGQ3a09NSlN5Wm1IRTVFNFdYdGd0WFhMOU1EdWFHVkRfTHBjQWtNdzJUSl9xVElxdG5hYTROaGc?oc=5",
-            "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjWWJfQ3Z1NkJTUzRlN1ItaERtdXdIU1k2UDJMbDhHUEl4cDlVbG1jZlRqX3BQeVpQdTB6NDVaQXVDbXR1VzBPZ0Jtakp1cm1nU3BHMjhGMHZIU1plTnBv?oc=5",
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDJYYmtlZ2lxWFNpOF9MM1lMeXRsQy1ubmstN1Frampjb0xyM1dSWVFsM0s2ZXh6OFJaQmpLbFNoczk0cTRHQXdYTGVxTE9feEhTRlp6OE1BVmRMMV9RcFRLOW0wRUFWVHp5YXAzTFlrQjMydjZ0aWF2clJFalVDWlFRYUQ4TjZ0dzRpZGdLZVg1TU9oQnJYLU5HZ1ExM1ZMZ2JxOWduZ0FXXzNyMHQtUVc0TUtmX096YVVyUw?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uUldiSkYyU29iakxOX3A1U1Y0SG1qSlpLREpCeXM0VjV2N3VQQ3VhSDdMOTBxWjQzOWNLSThrb2lZaFEwT2piNmlKOVBSSU9ibjdiMWNJUzJ2eENhaTVMdWtTRHkxTXNkckRGQl9lWG5UV2ZQeGc?oc=5",
+            "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVklMMEMwV2JGUTVKNUpTT0g0SFVwSFZUb1RKWHl2YjhCRWZwWm5CM3lFZHpKdENpc2RMbnl0d1hGMjlfNnh0UzR1ZEU3MXFGdWo4MVd6bGhCXy1JWWZsMFFQV3JBRGhwd0pvUkZDcFUxRktxSFl5QnRTR1lITGxGOHhlZ3h6NnJnSlhlRWxBUUl1VjVjcENQZklhT2tsNlZmSmtZOEdvUDBJUExtT0RkUndWTC1CM3NEWlRkZXNfN3ROTGZDam8zWGNtTW1lSTRQdkdQZVNNSDRxUHMzXzM3anhJRjTSAeoBQVVfeXFMT3VCZnY5dnBSamIzaUdsX1dmakV4UFYwTUZZRXRoT05GeU1ybHFhN0t4RDdPaDZiUFUxSHBseHlGOFRYdFNSWFBibTEyaU9qQ1ROeE9XLXhYRUZkLVZJWGpKbkE5bFF2SXZUZWhLNlRZendJNkNJQzc3WkR2R09YMVBHM0JKNDMzTGY4eXd4VTlReWFsa1ZQYVNsRmxnNXh0N1FjTk9oT2dZU3BTLWl1cHlGcWVHYkxHeWFNUWE2TEgzd01jOG9zaHdqOWdtTWlSdGMwY2dRXzlrZlJZcXNsVExSU1hvOFR6NmJB?oc=5"
           ]
         },
         {
-          "t": "Japanese Equities Decline as Bond Yields Rise",
-          "src": "TechStock² · Coinpedia · tradingview.com",
-          "b": "The Nikkei is a major stock index, which is a collection of shares from important companies traded on the market. It dropped by 2.8% during the morning session. Chip stocks led the fall. At the same time, bond yields surged, which is the return an investor gets on government debt like <span class='term' data-t='gilt'>gilts</span> or bonds when interest rates move.",
-          "i": "The Nikkei fell 2.8% during the morning session as chip stocks drove a sharp downturn. Bond yields surged across the board ahead of the anticipated central bank decision. Japanese 10-year yields tracked US Treasury yields higher, putting pressure on local equities.",
-          "a": "The Nikkei dropped 2.8% led by semiconductor equities as domestic sovereign debt yields tracked US Treasuries higher. Rising <span class='term' data-t='gilt'>yields</span> reflect tightening global financial conditions and preemptive positioning ahead of the central bank policy meeting. Equity valuations are compressing as higher discount rates hit high-multiple technology shares.",
-          "gloss": "gilt",
+          "t": "Bank of Japan Nears Expected Rate Increase",
+          "src": "富途牛牛 · finance.biggo.com",
+          "b": "The Bank of Japan is the country's central bank, which sets monetary policy and controls the currency. It is widely expected to raise its policy rate by 25 basis points to 1.25% next week. This would make interest rates the highest in 31 years.",
+          "i": "The Bank of Japan is all but certain to deliver a 25-basis-point rate hike next week. This move will lift the policy rate to 1.25%, marking the highest level in 31 years. Market participants are now focusing on the speed of future hikes.",
+          "a": "A 25-basis-point policy rate hike by the Bank of Japan next week is priced in by markets. The terminal rate expectations shift focus toward the velocity of subsequent normalization steps. The resultant 1.25% rate marks a 31-year high.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0p3dk9qdTNuWGdvajl2UUhrYm96YWtyWG1pM2xGTXlWYUdzYVQ3NXR1MEpkSTNrbnNaT1pjNlBMenYwSXliSkdyUnRuSjF5TFFnUFV3UHg1MHFLcVkzMlNvLVNGUjQzM2tkY19leGtVQ21MN1RhVjV2Um52OE5RRkhxbDNiQ1doNFUxcWdkRQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGtUSlBNX0RZZ1Vfd0ZQeTRfTWVtQ1hDRzU3OW42RmpBWGJNekhLYS1VS05IR1ZJRVVqNU41c2VTTnpSVHJ0ZDZRT2lOdC02cmIyckhCd0lBbmJnWllYZnB4LUh1UF8tXy1WSmlTZ0p4NHBZWUJIQ25rRS1YTmlVS2JGdEZtQUVfRFpSM2xnMXowVnN1RDYwUWxuREoyWnU4UXpJZUFzNXNDcWfSAbABQVVfeXFMTTZxOHE0SUJhVGl5aUdMdG9UV3dybmRFOEpnTFdPWHVHcks5TkFrVVd0QURqWTg0LVpuMThXUHBhWXZ2TUpEWUxuci1Oekk5OFhTbGltOW05b3ZheUt4NVc3MTJNRjNLOVJPMktnV0ZEblpKX2g2TnY1OFlyR01vdnJJRjJ5Y3QyUXB6dHk3TXhoWVg5RWxuUTYwOFdITVd1a29UVFhiU2pEN3paMzB5Ymw?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUndQZUtsT21ORk04WmVOYmNHTklBaV9ZWDhSR3Y3RUVabjFpZUJ5RVE5U0s0RG5UUnJ6TTVpaWR0Smw0eEJUNGFma2lfOVVqY25oams5eUNLY090TjUtd0lvU0FMajMyQzA0SXA2TW93RVFNX0loZWZWamxza1U2R1pJVDJZaDZ5aGN1LUlzYjVFWVJvYlczRkxveWprN21XWUE?oc=5"
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxObS0wTnlLNmZHbzJuZGRTV25pZld5VURxWW1qY1pDbENpeUszREtzZnlOci1UQzgyY0Rqcy1LaHk4czZTZEMwT2U4OHBnRTVpR0dXRklXZTlGdlYzZklmRlV2a2dIZjFPVmIzVVBBb1Z5U1R0WEZ0c2dwM1MwR1VZdXZoUjFkRVBseHc?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RYllJU2Z0ZmVtRGpHdmdKcnUtclBmTFlEeGpCLWlUWUxBcF9oQWRKQ1hfaEI5YVNqV0tTeThiSGQ3a09NSlN5Wm1IRTVFNFdYdGd0WFhMOU1EdWFHVkRfTHBjQWtNdzJUSl9xVElxdG5hYTROaGc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Global markets reacted to a Mideast energy shock and currency movements. A Japanese auto parts maker announced a $379m investment in a Kentucky plant.",
-        "i": "The dollar held gains while the yen slipped amid a Middle East energy shock. Meanwhile, Japanese auto parts maker Astemo planned a $379m investment in a Kentucky plant to expand electric motor production.",
-        "a": "External currency pressures persisted as the dollar held gains and the yen slipped following a Middle East energy shock. Industrial capital expenditure continued abroad, evidenced by Astemo committing $379m to a Kentucky manufacturing facility for electric motor production."
+        "b": "Traders watch currency values closely as the dollar sits near a weekly high. The yen trades in the upper 154 range in Tokyo. Officials monitor these currency shifts alongside global commodity prices.",
+        "i": "The US dollar holds near a weekly high while the yen trades in the upper 154 range in Tokyo. Early Federal Reserve rate hike bets spur dollar buybacks. The near-term currency outlook depends heavily on upcoming central bank guidance.",
+        "a": "Dollar-Yen trades in the upper 154 range in Tokyo amid aggressive dollar buybacks driven by early Federal Reserve easing repricing. Near-term spot direction hinges on Bank of Japan September guidance. Asian currencies weaken collectively as the yen slips.",
+        "sources": {
+          "0": {
+            "outlet": "Investing.com Nigeria",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzJZWGl4WGdUalNuRG8tNzJWSXZEb0V3UU1obWVQSjhSLXB6bldYSHVvUzNQUmpVTjBTdHVzQ3lab1RKNVB5ZGs1RVkzc2xva2tlZ0dtMXp6bHhwOWo4cE9FWEZ4eEtMenVaZC1JRWpjOHE0VGxwWUE5cGZMTHA5amRtNXNZVkZiU2JPc1BkMm5JZUY0UzFUd3BNdDRpSVM0THdCNWhBQzJ1VlRTWVF5YzhoX3g4Zw?oc=5"
+          },
+          "1": {
+            "outlet": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcFoxVzhNRGRaX2NpYXBXRzhhREdNc2ZUR3d3ejV5TFc5X1NsdnhwRl9jTDNONVZfZzR0M3VLU25UUk05MjFSSGZXM1MyVGQ3NGU4OGpWVnZZUE9oOTg0R1VfQm5LemktbkNoMDlqWDhBUjZneVE?oc=5"
+          },
+          "2": {
+            "outlet": "Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkVVaXUzOHZIb2FwS01BQlI2ck5vNWU4cGc1SDljQnRuZWozaFVnVUlRWDNoemN1aEwzWmlnZmkwQnduZ1RwX1hwRE1tVkE5SkVONG82eVJ2QzR6T3FhV3l2SHhMTnFieEQ2cldIMEU5SGVzUEIybWlGTVpHLXZVcnV6NU84RXRsU2NGR3pPVTFfTXhqLWExY25zNHZlRXdf?oc=5"
+          }
+        }
       },
       "timeline": [
         [
-          "11 Sep 2026",
-          "Astemo announced a $379 million investment in a Kentucky plant for electric motors."
+          "11 Sep",
+          "Nikkei falls 3% as semiconductor sell-off hits Tokyo equities"
+        ],
+        [
+          "11 Sep",
+          "Dollar-Yen trades in upper 154 range during Tokyo session"
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Enflame surges on debut and yuan holds firm",
+      "sub": "Tencent-backed AI chip IPO surges and yuan draws investors",
       "ind": [],
       "stories": [
         {
-          "t": "Enflame triples on Shanghai debut",
-          "src": "The Edge Malaysia",
-          "b": "Enflame is a company that makes artificial intelligence chips, which are computer parts designed to run smart software. The firm is backed by Tencent, a major technology enterprise. Enflame saw its stock price triple on its first day of trading in Shanghai. This jump happened as investors placed more bets on Chinese technology firms.",
-          "i": "Enflame tripled in value during its Shanghai debut. The Tencent-backed chipmaker benefited as <span class='term' data-t='inflation'>artificial</span> intelligence investments surged across domestic markets. First-day trading volumes pushed the equity price to three times its initial public offering value.",
-          "a": "Enflame tripled on its Shanghai listing. The valuation surge reflects aggressive domestic positioning in domestic semiconductor alternatives. Secondary market participants absorbed heavy liquidity during the opening session.",
-          "gloss": "inflation",
+          "t": "Tencent-Backed AI Chip Listing Surges",
+          "src": "36 Kr",
+          "b": "A Tencent-backed company that makes artificial intelligence chips held a public share offering worth 200 billion yuan. When the market opened, the stock price surged by 188%. Artificial intelligence chips are specialised computer processors designed to handle complex machine learning tasks very quickly. Public share offerings happen when a private company sells shares to the public for the very first time to raise money. The massive opening jump reflects intense investor interest in domestic technology firms.",
+          "i": "A Tencent-backed 200-billion-yuan AI chip initial public offering surged 188% on its market opening. The debut marks one of the largest technology listings of the period. Investors rushed into the primary offering as trading commenced on the exchange. The heavy first-day premium demonstrates strong domestic appetite for semiconductor assets.",
+          "a": "The 200-billion-yuan Tencent-backed AI chip initial public offering opened with an intra-day surge of 188%. Secondary market participants aggressively chased the float despite the substantial initial valuation. This listing highlights capital concentration in domestic hardware alternatives. The pricing dynamic underscores shifting liquidity preferences toward local semiconductor champions.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qMmduY2JIWWhtd091S1ZFRnNXX3M0MS1vZkNPSmNfalZJeXNwYnd3NEViZ1EwTDlocklwTVFURm16NlRnWmgxcGd1Rll3Z0Vm?oc=5"
+            "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbVNPYm9WVmt4Ui1saV9HeFJqUkVOc0d5a3prYWZJRE5nWDhvUEJiRjlqVERUdE5sZlBYcDJlaXp1NnYzWWRvTDlFZnZTRGdSVF9n?oc=5"
           ]
         },
         {
-          "t": "Yuan remains steady against the dollar",
-          "src": "KLSE Screener",
-          "b": "The yuan is the official currency of China. The currency stayed steady even though the US dollar went up in value. Traders were waiting for new United States inflation data to come out. This data tells people how fast consumer prices are rising.",
-          "i": "The yuan held its ground as the US dollar rebounded. Currency traders maintained positions ahead of upcoming US consumer price index releases. Market participants awaited those key domestic figures to gauge future Federal Reserve actions.",
-          "a": "The yuan remained range-bound against a recovering greenback. Foreign exchange desks kept spot volumes muted ahead of the US CPI print. Implied volatility stayed subdued while traders parsed external macroeconomic signals.",
+          "t": "Yuan Strength Attracts Foreign Capital",
+          "src": "Caixin Global · KLSE Screener",
+          "b": "The Chinese currency, known as the yuan, has experienced a steady rise in value against other currencies. This consistent appreciation has drawn foreign investors back into Chinese financial assets. Foreign investors are people or institutions from other countries who buy stocks, bonds, or property. Assets are items of economic value that people own with the expectation that they will grow in value. The steady currency trend helps build confidence for outside money entering local markets.",
+          "i": "The yuan's steady rise has drawn foreign investors back into Chinese <span class='term' data-t='inflation'>assets</span>. Foreign capital flows responded directly to the currency's stable appreciation path. Global funds previously sidelined by volatility re-established positions in domestic equities and debt. The resilient exchange rate functions as a primary magnet for cross-border portfolio allocations.",
+          "a": "A persistent appreciation trend in the yuan has catalysed renewed foreign portfolio inflows into domestic assets. Cross-border capital reallocation accelerated as the currency maintained its upward trajectory against the dollar rebound. Foreign institutional accounts shifted from tactical hedging to outright long exposure. The sustained exchange rate stability reduces currency risk premiums for offshore investors.",
           "gloss": "inflation",
           "links": [
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajk3UXZtN2gySjlwV0hKNGFBbUFDREhVMmx3YTlTb01HR2FqOUo2YnlIaTl0cllKb1Y5akFONDBicmJFZlJtb1RHRUdfWkNaczUwOXY0bXVxWC1yaUw3RDdMekpJLUtEN0YxUU1pNTFPLUpFMnRsYmhoZmhmelEyRmRfbWNyN1pFcWxkUnZRZDdVa21tb2E4OHdpT1lmY09Cb2hmTDlPOUEzd1ZyOUVreTRfeHQtSGc0a0lr?oc=5",
             "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmRqX0RvVE9yQlpOeFhkN1FKc1ZXNmhRcnZjOWhVZV96Y1QwVHphazdWd2tBTmhSTVhEUC1mMUlTak1KaU9vWFM3X3hEMk5rTzc2UXlLd244cFlMTWFIT0RhbTRVcVZ3XzVPQ1l4RVlnY1RlbjA1RGhURy1ONEhnUTkyeG13Q05wWW96RC1aRjhqdWRVUUowRVpPdkgyUE11VDFtdmpva0ZPckc5ZzlNcjl1Yw?oc=5"
+          ]
+        },
+        {
+          "t": "Tesla Launches New Model Y Variant",
+          "src": "finance.biggo.com",
+          "b": "Tesla China has officially launched a new Performance version of its Model Y vehicle. The starting price for this new electric car is set at 369,000 yuan. Electric cars are automobiles powered by electricity stored in batteries rather than burning petrol or diesel. Automobile companies frequently introduce higher-performance variants to capture buyers looking for faster acceleration and sportier features. The new price point establishes a fresh benchmark for the brand's local vehicle lineup.",
+          "i": "Tesla China launched the Model Y Performance version with a starting price of 369,000 yuan. The release expands the company's local product hierarchy in the competitive electric vehicle segment. Consumer response to the higher-tier variant will test demand resilience at this price point. The new vehicle enters a crowded market featuring aggressive local discounting.",
+          "a": "Tesla China introduced the Model Y Performance variant priced from 369,000 yuan. The SKU expansion targets margin preservation through higher-specification product mix rather than volume discounting. Local pricing strategy continues to adapt to intensifying domestic original equipment manufacturer competition. The launch tests the upper bound of consumer price elasticity for premium electric crossovers.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvUGctck5BLXFDQ0RFU0ZieXFiS0dSZ29EZ0VuOEk5OG0xbmlBVXpEcTg1b0FwNUQtaUtuQnd3RDFhVUxnTE1jaEppa2hwQml0X1JFT0pRTWlyQkRKRUotVGJhM2toRThIOGtIT3lCRzN2YzN2bVE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China uses special government bonds to refill the money reserves of state-owned insurance companies. State insurers provide financial protection against losses. These bonds help strengthen the financial system.",
-        "i": "China deployed special bonds to recapitalize state insurers. The sovereign debt mechanism injects fresh capital directly into institutional balance sheets. State-owned financial entities absorbed these instruments to maintain capital buffers.",
-        "a": "China utilized special sovereign issuance to replenish state insurer capital adequacy ratios. The fiscal injection targets systemic solvency within major domestic underwriters. This state intervention alters the duration profile of assets held by institutional funds."
+        "b": "Real estate developers created new land acquisition strategies eleven days after a policy for existing homes was introduced. Artificial intelligence startups and biotechnology firms secured major funding rounds from investors. Meanwhile, companies in the robotics and embodied artificial intelligence sectors expanded their overseas orders and closed large angel investment rounds.",
+        "i": "Real estate developers implemented new land acquisition calculations eleven days following the release of the existing home policy. Venture capital continued to flow heavily into deep tech, with embodied AI startup Kinetix AI raising over 500 million yuan in an Angel+ round led by Vertex Ventures. Concurrently, robotics firms like UBTECH secured over 50 million yuan in overseas orders, while smaller biotech and AI hardware startups closed strategic funding rounds.",
+        "a": "Property developers recalibrated land acquisition models eleven days post-policy implementation for existing housing inventory. Primary market activity remained robust across artificial intelligence and life sciences verticals, exemplified by Kinetix AI securing over 500 million yuan in an Angel+ round led by Vertex Ventures and Temasek backing. Secondary sector participants digested founder disclosures regarding competitive positioning among domestic embodied AI players alongside ongoing overseas order capture by firms such as UBTECH.",
+        "gloss": null
       },
       "timeline": [
         [
-          "11 Sep",
-          "Enflame triples in Shanghai debut"
+          "11 Sep 2026",
+          "Tencent-backed AI chip IPO surges 188% on its market opening"
         ],
         [
-          "11 Sep",
-          "Yuan remains steady against rebounding dollar"
+          "11 Sep 2026",
+          "Tesla China launches the Model Y Performance starting at 369,000 yuan"
+        ],
+        [
+          "11 Sep 2026",
+          "Kinetix AI raises over 500 million yuan in an Angel+ funding round"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indian shares and rupee decline as oil prices surge",
+      "sub": "Oil surge hits equities while RBI manages liquidity",
       "ind": [],
       "stories": [
         {
-          "t": "Stock indices slide as crude costs climb",
-          "src": "Business Standard · News18",
-          "b": "The Sensex index dropped over 700 points. The Nifty index fell below 23,250. Crude oil prices reached a 4-month high of 108 dollars per barrel. Higher oil costs can push up <span class='term' data-t='inflation'>inflation</span> in the country. OPEC warned that India faces rising price pressures.",
-          "i": "The Sensex index lost over 700 points, while the Nifty slipped below 23,250. Crude oil touched a 4-month high of 108 dollars per barrel, triggering a broad market selloff. OPEC projected that India <span class='term' data-t='inflation'>inflation</span> will continue to rise in the near term. The Nifty IT sub-index also traded under pressure following the sharp equity correction.",
-          "a": "The Sensex declined over 700 points and the Nifty breached the 23,250 support level as Brent-linked crude hit a 4-month high of 108 dollars. OPEC projections imply sustained domestic <span class='term' data-t='inflation'>inflation</span> pressures, compounding margin compression risks for equity sectors like IT. Foreign institutional investors are concurrently evaluating reallocations across Indian financials amid these macro headwinds.",
+          "t": "Indian Equities Fall as Brent Crude Crosses $108 per Barrel",
+          "src": "Rediff · NDTV Profit · Business Standard",
+          "b": "Stock markets in India dropped sharply on September 11, 2026. The Sensex fell by more than 700 points and the Nifty index dropped by 1.0%. This drop happened because the price of Brent crude oil crossed $108 a barrel. Higher oil prices make energy more expensive for the country, which hurts corporate profits and stock prices.",
+          "i": "Indian equity benchmarks declined on September 11, 2026, with the Sensex falling over 700 points and the Nifty shedding 1%. The sell-off was triggered by Brent crude breaching $108 per barrel, raising <span class='term' data-t='inflation'>inflation</span> concerns for the import-dependent economy. Meanwhile, individual stocks such as Shankesh Jewellers bucked the trend to surge 18% following strong quarterly earnings.",
+          "a": "Indian equities experienced a broad-based sell-off on September 11, 2026, driven by Brent crude breaching $108 per barrel. The Nifty fell 1% and the Sensex dropped over 700 points as energy input cost pressures weighed heavily on margins. Idiosyncratic outperformance remained rare, though Shankesh Jewellers gained 18% after reporting a doubling of its profit after tax for the first quarter.",
           "gloss": "inflation",
           "links": [
-            "https://www.business-standard.com",
-            "https://www.news18.com",
-            "https://www.business-standard.com"
+            "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc2tLLXpLMkpVWUpIRG9EZmp6WEtSVGNzX3RzRnBEWE51RGJhUE9HdzdFWlRNU2xjNGEzdGNrLUdSLTZkbGliZENfQmdxUkZoWWR4UkUtQkVHY1FCMmFILXNOWVhvamFONTA0LXhJTlphbmpDdGZjMU1feG9FT0RjTWtrSi1RdDcxRVFoc1B2aklZYjgxeUhVTU91bHVJM255UmctamlnNkNKYXpkTHZCdjkyb1BzaWQ2cWlzemNtb1R5aDNacy1vSGd3Ql9YUTRob2kyZWxpS2VFNkpoaXJsX2Y1bTZ2MkhtbGfSAewBQVVfeXFMUDJtcGdwdFhGdjV2QjFNWDBfRVlveDdiUkdfci0zUUctVWJ3TzR6S3A5UWF5M1hHZ09IelZnTm56VHU4SWoxUVUwZ1N2bzdFaTF3Wjh3SU5YX1hZWkN6MVdKSjc5TGJxcl95NEd6V25YeEFJUHMyeDkycnBkcnNPMnBxMmtMZnd4T05qZVUxX3Z0blhDcjNpd0lyWGUtcERUY3lzQW9kc3Nmd1ViYW5uM2FtS0RZMEIxc2M4SU4yUHJ1TWw4bFhPUUdKQkoxVWl2eE8yMmhDZ21ZOGQzU1N5YTQwNV9FcUE0SzlaR04?oc=5",
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbDZwQjByVjIyTW9KWGh4SWVENTc1cTlTSzZieUlJZjYyVXQ4NmpSZ0xMUnJsQ0VreDdvYlNEbFhHTFVnRHpWTkE2Z0psdUpjQXVaSE80bXBUeUN1a0hpdnZlREpDMEZ1eHZ4M0doREw5VG1sMzh4eXNWS19pLXUtNVNHNk1CQmRURFl6NlA5QXVqdjhSdTY5Wm1XeE94VW5ONkZVUkNaZzdXNlBtWnJRWkxuZ3VEZ0c2SWZpZUhtR2g3RjRWaEHSAc4BQVVfeXFMTmJrX0lES01qb2NBeXhudWM3dEg2RmdyVzJsS28xcFVpejdRMVliMWR2bmNTSV9JMUo1UzdHbjYtQzJtNDVtMEpFSDRHU0h3NmN4TWJzaXJHaXZTR05uMmp2SkIzLUE2SmdOMUs4SnQxVHdSY3RQcTNVU1pfenAwS1BGVlVhd3B5RFlhNmhrUkxhc1ZIcnQ1MkxCN1AyUzAtcWZxUmtNQThaN0JjM0p2Um95cWVlQTJ3T0VLUUdUdjRQaGdIay0xT0ZkV3EwT2c?oc=5",
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSWlwTmlSckZ3aHlnTlJNOG1xUW1jMGJiM21kcEFLbnhmRmZhWUVVXzY4S01EZHJHZUd3OHhRMXlPN1FGWEloQkZfTmRMcDNzbWhDaEs2ejZXQXAxSlI4ZVVlZHFERThmaUNucURYcUZzNnhFRlVZbWMxUkxiXzhtNFBISDNnN0lIZlZFZXVybzBLUHZyX0FCTHhNRWJIcm90bEdCaVNqdDlCSXVMS0JFOUR6WmppOWhqaG9ybnk2d3FCTzhuMkUwN1Z5ZmRick4xSFHSAdcBQVVfeXFMT2JSQTR1dy1rTS1qcXFDSGRMa2tfNUpVLWhLMGt5a29BZUFnSmpxT2EzTGlfS0VmV1hCM2tFUTJVcGQwbTQzVF9fdGtCTTRhLXgwOGpLVmNNWVlEajlwOFc2SlNLYng3RF9NbEpxTWhUX1U5TWZZb0NtdmY5MXlaQ2tEV3kxeWpVTlVzV1BXdkhER0VKUHRiclBLMVpldFVGZGgxSVl0VVJ4SjNhTVRIYWFlZUNfY0ppUTZvdzhNalBHMVo3TkhJT05ETTVlNjY5X2N0dHFHd28?oc=5"
           ]
         },
         {
-          "t": "Rupee weakens against dollar amid central bank intervention",
-          "src": "Rediff MoneyWiz · Reuters · MarketScreener",
-          "b": "The Indian rupee fell to 95.79 against the US dollar. The central bank stepped in to defend the currency. Oil price increases and capital outflows pressured the exchange rate. Rising US yields also weighed on the currency.",
-          "i": "The Indian rupee weakened to 95.79 against the US dollar. The Reserve Bank of India intervened in foreign exchange markets to defend the currency. Surging oil prices and foreign capital outflows eroded support for the rupee. Rising US yields compounded the downward pressure on emerging market currencies.",
-          "a": "The USD/INR spot rate touched 95.79 as structural current account headwinds from 108-dollar oil converged with portfolio outflows. The Reserve Bank of India intervened actively to mitigate the currency slide. Higher US bond yields exacerbated depreciation pressure by narrowing interest rate differentials and straining reserve buffers.",
+          "t": "Reserve Bank of India Conducts Reverse Repo Auctions and Tokenization",
+          "src": "Reserve Bank of India · CoinDesk",
+          "b": "The Reserve Bank of India ran a 26-day variable rate reverse repo auction on September 11, 2026, accepting 60,449 crore rupees at a cut-off rate of 5.24%. The central bank also announced a second four-day reverse repo auction for September 11, targeting 500,000 crore rupees. Separately, India started tokenizing its $620 billion corporate bond market using digital rupee settlement.",
+          "i": "The Reserve Bank of India conducted a 26-day variable rate reverse repo auction on September 11, 2026, absorbing 60,449 crore rupees at a cut-off rate of 5.24%. It simultaneously scheduled a second four-day reverse repo auction for 500,000 crore rupees to manage liquidity. In market infrastructure development, the country initiated the tokenization of its $620 billion corporate bond market with digital rupee settlement.",
+          "a": "The Reserve Bank of India allotted 60,449 crore rupees at a cut-off and weighted average rate of 5.24% in its 26-day variable rate reverse repo auction on September 11, 2026. Concurrently, the central bank announced an additional four-day variable rate reverse repo auction absorbing up to 500,000 crore rupees to fine-tune system liquidity. In structural market shifts, India commenced the tokenization of its $620 billion corporate bond market utilizing digital rupee settlement.",
           "links": [
-            "https://news.google.com",
-            "https://www.reuters.com",
-            "https://www.marketscreener.com"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63575",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63574",
+            "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamQ1QWJZRUxpMVhHaTJDeF9xZjRhVndKZ1BCZExyZXMtQmgzWWdZSnhYTDRpOXk1LVAtQk0tUDBmR3lHYk1pWV9KMUtCT1VPb2h2NVhsRmQ0N3YwTUk3VkFrcVBNc1U0a2VVdmVKTlB2bzhoV2ZJTFB5T3BxVjJkcVg1OUNSbmNqTFdETmg0YkNiVE5hN3p6MGkwaGJnU1JfN2N3azN0a3JMcEhvYkU4Tjc3M3JnVkxjSHhZc05lWHQ5ejVlUXBxY2VBbjRGUnc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There is no major political news reported for India today. Government officials have not announced new policies. Markets are focused on oil prices and currency rates instead. Economic updates drive the current financial reports.",
-        "i": "Domestic political developments remain absent from today's financial coverage. Policymakers have issued no direct fiscal interventions regarding the equity selloff. Market attention remains fixed entirely on commodity prices and central bank currency management. State actors have stayed silent on the recent exchange rate movements.",
-        "a": "Elected officials and fiscal authorities have maintained policy silence regarding the equity correction and currency depreciation. Central bank operations remain the sole institutional response to external shocks. Market participants are pricing risks exclusively around imported energy costs rather than anticipated legislative changes."
+        "b": "Money markets operated with total volumes reaching 676,850.95 crore rupees on September 10, 2026. The weighted average rate for the overnight segment stood at 4.60%. The Indian rupee also weakened by 27 paise to trade at 95.79 against the US dollar.",
+        "i": "System-wide money market volumes reached 676,850.95 crore rupees on September 10, 2026, with the overnight weighted average rate at 4.60%. Triparty repo volumes accounted for 486,883.05 crore rupees at a 4.65% weighted average rate. Meanwhile, the Indian rupee depreciated by 27 paise to close at 95.79 against the US dollar.",
+        "a": "Aggregate overnight money market volumes hit 676,850.95 crore rupees on September 10, 2026, across segments including 486,883.05 crore rupees in triparty repo at a 4.65% weighted average rate. The broader overnight weighted average rate printed at 4.60% with a range spanning from 1.00% to 5.20%. Concurrently, the Indian rupee weakened by 27 paise to settle at 95.79 against the US dollar.",
+        "gloss": null
       },
       "timeline": [
         [
-          "11 Sep 2026",
-          "Sensex drops over 700 points and Nifty falls below 23,250."
+          "10 Sep 2026",
+          "Money market operations recorded total volumes of 676,850.95 crore rupees."
         ],
         [
           "11 Sep 2026",
-          "Crude oil hits a 4-month high of 108 dollars per barrel."
-        ],
-        [
-          "11 Sep 2026",
-          "The Indian rupee falls to 95.79 against the US dollar."
+          "The Reserve Bank of India held a 26-day variable rate reverse repo auction accepting 60,449 crore rupees."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras adjusts fuel prices and secures subsea bids",
+      "sub": "Petrobras tender bids, fuel price shifts, and gas pact",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Fuel Price Adjustments and Subsea Bids",
-          "src": "Reuters · MarketScale · marketscreener.com",
-          "b": "Petrobras cancels a planned gasoline hike and drops prices by R$0.19 following tax cuts. The company also seeks a diesel price hike while waiting for government measures to shield consumers. Meanwhile, a subsea tender by Petrobras draws $1.4bn in bids. Braskem extends its natural gas supply agreement with Petrobras through 2029.",
-          "i": "Petrobras cancels a gasoline price increase and reduces prices by R$0.19 after tax cuts. Management seeks a diesel price hike but awaits government steps to shield consumers from costs. Petrobras also pulls in $1.4bn in bids for a subsea tender. Braskem extends its natural gas supply agreement with Petrobras through 2029.",
-          "a": "Petrobras lowers gasoline prices by R$0.19 following tax cuts and cancels an earlier hike, while weighing a diesel price increase pending government consumer protection measures. The energy firm secures $1.4bn in bids for its subsea tender. Braskem extends its natural gas supply agreement with Petrobras through 2029.",
+          "t": "Petrobras Subsea Tender and Braskem Gas Supply Extension",
+          "src": "MarketScale · marketscreener.com",
+          "b": "Petrobras holds a subsea tender that pulls in $1.4bn in bids. Braskem extends its natural gas supply agreement with Petrobras through 2029. Companies make deals to secure energy resources over the coming years.",
+          "i": "Petrobras secures $1.4bn in bids for a subsea tender. Braskem extends its natural gas supply agreement with Petrobras through 2029.",
+          "a": "The Petrobras subsea tender attracts $1.4bn in total bids. Braskem executes a natural gas supply agreement extension with Petrobras through 2029.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVzSTNYNFE3Si1NWmJSNEh6NEVxT0JZbTZCMnJxN0xSeDZvNDNyMnBscDZFVGdULThZZWU1ODRseWl4QjhVQ2dlRmFrRDRTZnRQX1g2RTc0dUhSUEVxYkk1T1NNaEtOQVlOR2wxUkZWYlV6b29GbWlyemh0VW8tOHlMNmtRa2ZzTERZOVFoYlJJRjZvNnFYSld6R2RiajdmNV9fMzAzMDBxZTdQMTUwTGRyVWxkaH9xSE83Uk16VGZXVnRTWXFGag?oc=5",
             "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG14bExSTEdwb0ZWLU1fYUhYLWt6QWFlelpOdlhCOGNpbDFHaHJseUFlTkc0OGdfcUVtTHpKdVFwb09CQjJDTU5hdWVIZkQtTnJQakI4cjFVRWJGcmpqYlBQbHVQSTVlSjgtSHh4VUhtcG5SSEFsZWk5MEZ0ZkozT1g4UjRid1hUUktBb2I4V1AwVEJkWjFrdkVPTGFqY0cxNWR2OGdqRTlmVW9wNTZWaVpYaHh6ODBLQnc?oc=5",
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1JRM0ZiWjI4eEcyVlg4S0lKQWgxMF9tSmREb2RFYkY3VktwVG54NUtSQnAzLVdTZVp2QkE0UGpWWTMwc2FTSUsyeHVwOEE5ODlTS2RlbHJhNmwxVjVjR2xuUW12OTVOS3BrcGFKcTJWclZrMGVRRzZWOVFWbEw0SFVnVU1iVk54SUZDQUlyU0xaaTZNc3FRZkYyR3BqSkFnbEFMQ0lOaGhaR2N0VU0xNDRyUi1tM1p3a05fS28xZHBpLUU?oc=5",
+            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1JRM0ZiWjI4eEcyVlg4S0lKQWgxMF9tSmREb2RFYkY3VktwVG54NUtSQnAzLVdTZVp2QkE0UGpWWTMwc2FTSUsyeHVwOEE5ODlTS2RlbHJhNmwxVjVjR2xuUW12OTVOS3BrcGFKcTJWclZrMGVRRzZWOVFWbEw0SFVnVU1iVk54SUZDQUlyU0xaaTZNc3FRZkYyR3BqSkFnbEFMQ0lOaGhaR2N0VU0xNDRyUi1tM1p3a05fS28xZHBpLUU?oc=5"
+          ]
+        },
+        {
+          "t": "Fuel Price Adjustments and Consumer Shielding Measures",
+          "src": "Reuters · finance.biggo.com",
+          "b": "Petrobras eyes a diesel price hike but waits for government steps to shield consumers from high costs. Petrobras cancels a gasoline hike after tax cuts cause the price to fall by R$0.19. Fuel prices change based on taxes and government policy.",
+          "i": "Petrobras evaluates a diesel price hike while awaiting government measures to protect consumers. Petrobras cancels a planned gasoline price increase after tax cuts reduce the price by R$0.19.",
+          "a": "Petrobras contemplates a diesel price increase contingent on government consumer-shielding interventions. Petrobras rescinds a gasoline hike following tax cuts that drive a R$0.19 price reduction.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVzSTNYNFE3Si1NWmJSNEh6NEVxT0JZbTZCMnJxN0xSeDZvNDNyMnBscDZFVGdULThZZWU1ODRseWl4QjhVQ2dlRmFrRDRTZnRQX1g2RTc0dUhSUEVxYkk1T1NNaEtOQVlOR2wxUkZWYlV6b29GbWlyemh0VW8tOHlMNmtRa2ZzTERZOVFoYlJJRjZvNnFYSld6R2RiajdmNV9fMzAzMDBxZTdQMTUwTGRyVWxkaE9xSE83Uk16VGZXVnRTWXFGag?oc=5",
             "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDSjlHZDRoTkFDM1NPbkVYYUFrd1lFS1BpakUxY2ZlWjZ2NFVHYjlTTkFNM1ZGS3NkSW15VVdzOUhGeXkySWFWa29iV2NVTktPR0lRZF9VM2FieDFHTXFPa2RNb3hXNEtzWXY0dFFURFdYSXY3alE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political risks mount as the Ibovespa falls. Markets monitor government steps to shield consumers from fuel price changes. Authorities navigate tax cuts that impact gasoline prices.",
-        "i": "Political risks mount and weigh on the Ibovespa. Government steps to shield consumers from diesel price hikes remain under discussion. Tax cuts drive reductions in retail gasoline prices.",
-        "a": "Political risks rise and pressure the Ibovespa. Policy makers weigh measures to shield consumers from anticipated diesel price hikes. Tax cuts directly alter domestic fuel pricing dynamics."
+        "b": "The government weighs steps to shield consumers from fuel price increases. Political risks cause the Ibovespa index to fall.",
+        "i": "Government measures to shield consumers influence Petrobras pricing decisions. Political risks mount and weigh on the Ibovespa.",
+        "a": "Executive interventions in fuel pricing dictate Petrobras margin adjustments. Ibovespa valuations contract as political risk premiums expand.",
+        "i_version": "i"
       },
       "timeline": [
         [
-          "10 Sep",
-          "Petrobras cancels gasoline hike and lowers prices by R$0.19 after tax cuts"
+          "10 Sep 2026",
+          "Braskem extends its natural gas supply agreement with Petrobras through 2029."
         ],
         [
-          "10 Sep",
-          "Petrobras subsea tender draws $1.4bn in bids"
-        ],
-        [
-          "10 Sep",
-          "Braskem extends natural gas supply agreement with Petrobras through 2029"
+          "10 Sep 2026",
+          "Petrobras cancels a gasoline hike and prices fall R$0.19 after tax cuts."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Pipeline attacks hit Saudi oil exports while demand forecasts fall",
+      "sub": "Oil pipeline attacked and demand forecasts lowered by OPEC",
       "ind": [],
       "stories": [
         {
-          "t": "Oil Infrastructure and Export Pressures",
-          "src": "Moneycontrol.com · Eurasia Review · Energy Intelligence",
-          "b": "Houthis hit a Saudi oil pipeline. Brent crude surged five percent to one hundred and seven dollars. Saudi oil production dropped to its lowest level since nineteen ninety. Red Sea disruptions pushed down output further.",
-          "i": "Houthis attacked a Saudi oil pipeline. Brent crude surged five percent to $107. Saudi oil production plunged to its lowest level since 1990. Red Sea disruptions drove Opec-Plus output down in August.",
-          "a": "Houthis struck a Saudi oil pipeline. Brent crude rallied 5% to $107 following the incident. Saudi oil production sank to its lowest level since 1990 amid Red Sea logistical bottlenecks that depressed Opec-Plus output in August.",
+          "t": "Pipeline Attack and Crude Prices",
+          "src": "Moneycontrol.com · Nikkei Asia",
+          "b": "Houthis hit a Saudi oil pipeline. Brent crude prices surged by 5% to reach $107 per barrel. Houthis also advanced along the Yemeni coast. This movement threatens Saudi oil exports moving through the Red Sea.",
+          "i": "Houthis struck a Saudi oil pipeline. Brent crude jumped 5% to $107. Houthi forces advanced along the Yemeni coast, creating direct risks for Saudi Red Sea oil exports.",
+          "a": "Houthi forces hit a Saudi oil pipeline and advanced along the Yemeni coast. Brent rose 5% to $107, pricing in immediate supply risks to Red Sea export routes.",
           "links": [
             "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFFkX19aQjFBYWtVT3BnUlZ0ckZJVGxsYWpvRWx3X2FJd3I4TDZPQjJieGx1Q2c5RlNuUnE1MnU4T1VUVVhteHBkRzJocXlGWTZ0RFdYeDRpT2xwTFl4OFBmOVNnUlpKVVdRbFJRdk5LaEp5cC11VlQwNUZmZEk3MklvYThES3llUTJoMEdPU0xjUlQ4VXVGZFQwQUx0VUVBX1pkTXE0cUZiQ0FkTDJfdEluX1JjZ1dteV9EM0VuM1p0OTZ2Q0RsNHhiYk9uZHNjbUd4ZXBpalk0TzZvMExxX3kzS2JtdmI0MUHSAe8BQVVfeXFMTjRVakdDcFRDRlJTV2tLUUZUMlRwZkMyUndkMEFQNmpPWG92ckJ4NFVRTnFSVE91WlJYU0JnaFR5eDVwMXVhLTRPdWkyZUJ3eEx2LUs4Tm1GOE4yMVR0djR0c1BRdms3X2h3dmM3M0d5R0JwX2syem00dWJIMDhCclZ2Z3d4UkhPWU5Idlc5S0FOX25FcGgzUFVnNS1xUl9OSllpYkwzdDhHZXhzTndxYUhzUW4tb25LZW43LXlRNUQ3aXhKYUJrS2JSam52R2s5dFF1TlJfZndVQ09adVZudmwxeUhEZnlScTVGMWhsQUk?oc=5",
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXliV0hIcjZHUFRWMHVhWHBaSnpqa05wN1lVVjJSYllZa29lZllHZTNZVUdtLUZoeHdKSldLRjhmckp5eUo5dUpYdWxTdlJxZVVkMjM5ekhuNURBM0VHdjdnbVd3SnZXRGtHeWt6Rk5DN0lRYzVpczZneHlta1FoX1dWOGFpWFRpMlZDUUFvcDhBbG5pYTlYS1IzNA?oc=5",
-            "https://news.google.com/rss/articles/CBMickFVX3lxTE5ldmpENFFUSW1kS3Q4TGNaemNMMHdXMVdEb1ZZdGxjZlVMaDlMcVFHelVWTm43dmd6V2d0aUNHUnFYUjVzTkphX01sdFQzNHRka3VIUmJrejBraXpINGJWZWotSlphZDdDZDBkSHFvN0k2dw?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFNGTTRLVDRvMExWVm1GSndVV3RBdWgxRkRhVXFOaXJGX0tXUWxfdzRPNEJFOU4yOENvRVF5NWh2WnEtUDdrYXZpWWVJTlJ6NnMtMmUtX1lQY2ctMFVJOWpuT3hqMjE5d3U0Y0hVY0tYSURUeTdxQW13NzV6blI5RHhkZ3dtSFJnbXpvZlFoVld6Vk5EeTFqY2FHUWF2VjlCeVR2aTVCbC00Y1dhM1hodFRXOXVFTEo2MEpMbFg4TDlSN25Y?oc=5"
           ]
         },
         {
-          "t": "OPEC Lowers Demand Projections",
-          "src": "Mexico Business News",
-          "b": "OPEC cut its oil demand growth forecast for twenty twenty six for the fifth straight month. The forecast fell to four hundred thousand barrels per day. OPEC stated that the war in Iran will not shrink total consumption.",
-          "i": "OPEC cut its 2026 oil demand growth forecast for the fifth straight month. The projection dropped to 400Mb/d. OPEC argued that the Iran war will not reduce overall consumption.",
-          "a": "OPEC lowered its 2026 oil demand growth forecast for the fifth consecutive month to 400Mb/d. The cartel maintained that the conflict involving Iran will fail to compress overall consumption levels.",
+          "t": "OPEC Demand Cuts and Export Slump",
+          "src": "ET EnergyWorld · Mexico Business News",
+          "b": "OPEC reduced its 2026 oil demand growth forecast for the fifth straight month down to 400,000 barrels per day. Saudi Arabia reported oil exports of 6.2 million barrels per day. This marks the lowest export level recorded since 1990.",
+          "i": "OPEC cut its 2026 oil demand growth forecast for the fifth consecutive month to 400Mb/d. Saudi Arabia reported oil exports of 6.2 mbd, representing its lowest level since 1990.",
+          "a": "OPEC reduced its 2026 demand growth forecast for the fifth straight month to 400Mb/d. Saudi Arabia recorded oil exports of 6.2 mbd, marking the lowest volume since 1990.",
           "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa01YU0RvZkdKTGNya0VhRWV4RlUzSWFuSGNQclp6NFp1bWVFOHpUQlQxUDVKOE1qRGNSd2VFZjBKaVhKZnBKUXVRWUdIMnZ4SlZqc3hNclQxY2Z0c3lqd3I4YXhFYWF2SE1WeXl3MkdIb1NmWWVoWDFSTlNwenhoMDBXQXowcGZad255SXBQbXoxU3VaRFZ5S2ZUdDd4aFE?oc=5",
-            "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHB5WkdsVDJ2SHpEbjg4SUlhV0lsY01LOWVzeE9ZS3dpcmhLWGhHejdacDdjeHJfWmgzUnhvSkdqVGQ2R0Y1Ri1JVGEyYzI4Q0Q3X25EN2ZEa29JT3BiT19SMXlXeEZHaEJuUUtyTUI0LWFxYW1ETzJkVThqZ1dhVTN3bTlPMFBwdy1lVlNpcw?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbG51ZnFoYVd3Z3ZvNWlnQmxvMkVxR2dkY0ZTQ0xnX3FpY3VwTkpzNnRTTmpnVlZ3Uy1WNWFjQ2VqdmxHSHZ5eFNscFRVZkRSUS11YlB0amlkZWhfblRockVpOGRyN29ZenlGWlhvcGh4LTFqUEQ2LW84ZTI0LTE3NFM0TGJFbFUwdENuMkJNS2l3MGt4RHRyWVdEZzZKWEduWGF1bGhjTkhjRXBkSFhDOHN3MEpzR1ZEa2ZoeXY1OV9sdDFyay1SX9IBzgFBVV95cUxNSFplNi1aYzFUSDVjZVVka2pCbFlJQnhtV0UxZDdOajV0c0x0QklVbmJOZnpqRXctVXNRMVhpWEN6eVVZSVdMRFNsVkkteE5vYWxJb3hsZllmRzJBTmZ0QllsbTFqSEdnLTdGNExCN2VUOTJRaUw2RENiSzhyYjBkcENKZXNFWjFydFVXX3ZOcnlsem41cWF3MEZsa3JWaE15NUVTOUpVYWg4ZlZMS1l3VGJJT0Z2Z1RGcUd2RFNoUXZNUkE3VVZRTGRtS3NPQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa01YU0RvZkdKTGNya0VhRWV4RlUzSWFuSGNQclp6NFp1bWVFOHpUQlQxUDVKOE1qRGNSd2VFZjBKaVhKZnBKUXVRWUdIMnZ4SlZqc3hNclQxY2Z0c3lqd3I4YXhFYWF2SE1WeXl3MkdIb1NmWWVoWDFSTlNwenhoMDBXQXowcGZad255SXBQbXoxU3VaRFZ5S2ZUdDd4aFE?oc=5"
           ]
         },
         {
-          "t": "Aramco Asset Review and Partnership Exits",
+          "t": "Aramco Asset Review and Partnerships",
           "src": "Briefs Finance · Hydrocarbon Processing",
-          "b": "Aramco considered selling Arlanxeo as part of a thirty five billion dollar asset drive. Dow weighed an exit from a twenty billion dollar partnership with Aramco. These corporate moves occurred during regional supply disruptions.",
-          "i": "Aramco weighed the sale of Arlanxeo as part of a $35bn asset drive. Dow considered exiting its $20bn partnership with Aramco. These strategic reviews parallel mounting operational pressures in the region.",
-          "a": "Aramco weighed an Arlanxeo divestment within its $35bn asset rationalisation drive. Dow evaluated an exit from its $20bn joint venture with Aramco. These corporate realignments unfold against a backdrop of severe regional production constraints.",
+          "b": "Aramco is considering the sale of Arlanxeo as part of a $35 billion asset drive. Meanwhile, Dow is weighing an exit from its $20 billion partnership with Aramco.",
+          "i": "Aramco is weighing the sale of Arlanxeo within a $35B asset drive. Dow is considering an exit from its $20-B partnership with Aramco.",
+          "a": "Aramco evaluated the sale of Arlanxeo as part of a $35B asset rationalisation. Dow weighed an exit from its $20-B joint venture with Aramco.",
           "links": [
             "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1dvVmZXSWVUUV9MMEpyYThoYXFZdmdaQ3RPVlQxbERucUN4OHUycWgtenViaHhqTGt6LWlmczF6WFlKeXpXODNjTHEzdUhhbmV3cWlIY3R4RUM4WkdSOEFvaU9UUVpTcklIbGZReTc3RnR2YUh2OU5HUXI4WlliODUtektaWHg5dW9ETElKMzhZQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVN3cmRuTEJoUmFWSkpKS2ZRWVJWSUxwQXc1dWpscmlwU051dEdRVU12LVU5NVA0LUNPVnl1aDlLM2d6ODlmS1BZQjAxZjl3Rzl4WUIwc200OGVjUEJVckhPU1Z2aWhfMVF1ZkYzNkpoa0ZobnNaTDJBZGRsQ0lZemxaZjhnRzBDYkpLZDIxZ3lmaENVSERLY3h1Z291NjNfMnJB?oc=5"
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVN3cmRuTEJoUmFWSkpKS2ZRWVJWSUxwQXc1dWpscmlwU051dEdRVU12LVU5NVA0LUNPVnl1aDlLM2d6ODlmS1BZQjAxZjl3Rzl4WUIwc200OGVjUEJVckhPU1Z2aWhfMVF1ZkYzNkpoa0ZobnNaTDJBZGRsQ0lZemxaZjhnRzBDYkpLZDIxZ3lmaENVSERLY3h1Z291льники6N?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Houthis advanced along the Yemeni coast and threatened Saudi Red Sea oil exports. Saudi Arabia managed pipeline attacks and supply drops. OPEC adjusted economic projections regarding global consumption.",
-        "i": "Houthis advanced along the Yemeni coast, threatening Saudi Red Sea oil exports. Saudi authorities confronted pipeline sabotage and falling production figures. OPEC updated its medium-term demand outlook.",
-        "a": "Houthi advances along the Yemeni coast directly menaced Saudi Red Sea oil export terminals. Saudi policymakers contended with physical pipeline interdictions alongside multi-year production lows. OPEC recalibrated demand forecasts to account for shifting consumption trajectories."
+        "b": "OPEC states that the ongoing war in Iran will not shrink oil consumption.",
+        "i": "OPEC stated that the war in Iran will not shrink consumption.",
+        "a": "OPEC assessed that the war in Iran will not reduce consumption.",
+        "sources": {}
       },
       "timeline": [
         [
-          "10 Sep 2026",
-          "OPEC cut its 2026 demand growth forecast for the fifth consecutive month."
+          "10 Sep",
+          "OPEC cuts 2026 demand growth forecast for the fifth consecutive month."
         ],
         [
-          "10 Sep 2026",
-          "Saudi oil production fell to its lowest level since 1990 following Red Sea disruptions."
-        ],
-        [
-          "11 Sep 2026",
-          "Brent crude surged five percent to $107 after Houthis struck a Saudi oil pipeline."
+          "11 Sep",
+          "Brent surges 5% to $107 following a Houthi strike on a Saudi oil pipeline."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira movements, corporate forecasts, and public data funding",
+      "sub": "Corporate earnings, currency policy, and student data",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Gains Against the Dollar",
-          "src": "Daily Post Nigeria · Proshare",
-          "b": "The Nigerian currency, the naira, went up in value against the US dollar on September 10, 2026. This means it takes fewer naira to buy a dollar than before. Reserves and liquidity also improved in August 2026. Peter Obi backs the current naira float policy.",
-          "i": "The naira appreciated against the US dollar on September 10, 2026, building on improved liquidity and higher reserves recorded in August 2026. Peter Obi announced his support for the current forex liberalisation framework. Market participants track these foreign exchange movements closely.",
-          "a": "The naira posted renewed appreciation against the US dollar on September 10, 2026, supported by enhanced liquidity and rising reserves through August 2026. Peter Obi endorsed the ongoing forex liberalisation policy, signaling institutional continuity for the exchange rate regime. Traders continue to monitor the transmission of these reserve inflows into spot market pricing.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2YtLUV6NGFmc2dxb21xQUVZemI5WUIwUGkwbGFWTFBROWJNb05ZUW9yUzQ1ekpva2djTGQwdWl2Y2U2a3dTT0V0OEZxZ2FIS0JLR3ZmOXhaYnNhWjNMTGpsRC01N2RzTTBtekw4Q3B2dWw2bEVfQlpWSTJOZW9pWEViM3F3bDZ5ZW44aGl3aEV5M2RaNlRiY1lJOTUxU2FvWVNUTnBMZl9HcXp0X2tkNzFKdlZpZnRFdjB5X0NQa0RpS0hIVjY2ZXBMYXptZUhDZ1E?oc=5",
-            "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ2hLWlVDcDVIR1JzOW95Sk1sdzUyTUVudTZmWUl4QWlHOFo1V1pxVDdzM0RKakFBVUUzYUtYZTB0U09JTFBNX1l4T29xNXpibDVTV3Z6S3pSYms2ckVIQmxKc01obTNySm53Mks5a2JvVnM4X1lHejZkRVRURDJOMU91SkEzeVl2RUdrUEZ2OWFYS1BZVjdiV1NFVTN5NDBYWXpBLTM5XzBad2s5RFVGZDNfbHlYSUJqTmxnMllNamdjMmc3MFJqV1VNdlFNRUYtbW45NWR3M3EzdjRIODVOY25GR2oxWHRHbXR5M19neHRPai0xalE?oc=5"
-          ]
-        },
-        {
-          "t": "Corporate Financial Projections",
-          "src": "tradingview.com",
-          "b": "Consolidated Hallmark Holdings expects a gross revenue of 48.36 billion naira in the fourth quarter. The same firm predicts a profit before tax of 32.9 billion naira. VFD Group expects a net interest income of 8.28 billion naira and a profit before tax of 5.08 billion naira for the fourth quarter.",
-          "i": "Consolidated Hallmark Holdings projected a fourth-quarter gross revenue of 48.36 billion naira alongside a profit before tax of 32.9 billion naira. VFD Group issued forecasts anticipating a fourth-quarter net interest income of 8.28 billion naira. VFD Group also estimated its profit before tax at 5.08 billion naira for the same period.",
-          "a": "Consolidated Hallmark Holdings guided for fourth-quarter gross revenue of 48.36 billion naira and a profit before tax of 32.9 billion naira. VFD Group released concurrent forecasts projecting a fourth-quarter net interest income of 8.28 billion naira and a profit before tax of 5.08 billion naira. These metrics establish baseline earnings expectations ahead of the upcoming reporting cycle.",
+          "t": "Corporate Earnings Projections Released",
+          "src": "TradingView",
+          "b": "Consolidated Hallmark Holdings expects a gross revenue of 48.36 billion naira in the fourth quarter. It also projects a profit before tax of 32.9 billion naira. VFD Group anticipates a net interest income of 8.28 billion naira for the same quarter. VFD Group targets a profit before tax of 5.08 billion naira. These financial forecasts give investors a peek into expected business results.",
+          "i": "Consolidated Hallmark Holdings projects fourth-quarter gross revenue of 48.36 billion naira alongside a profit before tax of 32.9 billion naira. VFD Group guides toward a fourth-quarter net interest income of 8.28 billion naira. The same firm forecasts a profit before tax of 5.08 billion naira. These corporate projections outline expected performance metrics for the upcoming period.",
+          "a": "Consolidated Hallmark Holdings models fourth-quarter top-line revenue of 48.36 billion naira with a profit before tax print of 32.9 billion naira. VFD Group targets net interest income of 8.28 billion naira and a profit before tax of 5.08 billion naira over the fourth quarter. These forward-looking disclosures establish baseline valuation metrics for upcoming equity evaluations.",
           "links": [
             "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVC03NmZwQ3plVEhrRTZ0MkQ0VGVVa0lQUERzNFRMODFCYXpneEhXLXRRQ0hGZ00zU01JcXRVcFEtOURPMzZQMDRuajM5QnF5YXoyOHJ5VmhYblRmU05yQkVzc0d4Y0hGYzVoMklFdHhSamNZa2MxS0VvMHVqSlF2TklCSndkSktpdkprV3JBQnV3ZnI0c2IyWExKUVJVTGpNV2ZVeHVlYTZjTHo1V3IyTHZPYjlpQmdnYnFFTFBUbnBGQTExSGN0dWJJNDE2eENfc04tMFU1VlBMc2FCNHhhVHdCR2tmeXhucVpFNFVEaExxbDZfWUE?oc=5",
-            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2lia0czdkVlQkRjQ1Fod2JqWFc1eFJZZkJMalBsQTRreFBsTUkwWTBHcnJyWXVHSHNNQ2l2VEx0bVZHSDNjZ0ViTnJaU2Q3M3Z6VmN6Vk1CMWFaUEl2dEJycUN2R1ltNHJNM1pzTlBMTHZiWTBzQVpiWVVvUGQ0OG5feGU1Rmw2UlN3T0dSTkdURjRKM0pINmJoZmpSTnFxNHlfTXJUbDhvS3Jyb1NsYmtkSjJRNmY5VGZMazM1ekZWMmlRajBr?oc=5"
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2lia0czdkVlQkRjQ1Fod2JqWFc1eFJZZkJMalBsQTRreFBsTUkwWTBHcnJyWXVHSHNNQ2l2VEx0bVZHSDNjZ0ViTnJaU2Q3M3Z6VmN6Vk1CMWFaUEl2dEJycUN2R1ltNHJNM1pzTlBMTHZiWTBzQVpiWVVvUGQ0OG5feGU1Fmw2UlN3T0dSTkdURjRKM0pINmJoZmpSTnFxNHlfTXJUbDhvS3Jyb1NsYmtkSjJRNmY5VGZMazM1ekZWMmlRajBr?oc=5"
           ]
         },
         {
-          "t": "Federal Government Data Initiative and Seizures",
-          "src": "Leadership Hausa · Head Topics · The Nation Newspaper",
-          "b": "The federal government scheduled October 1 for the launch of a 180 billion naira annual free educational data program for students. Meanwhile, the Nigeria Customs Service seized narcotic drugs and prohibited items valued at 43.58 billion naira. Workers demanded an increase in the minimum wage to 300,000 naira.",
-          "i": "The federal government set October 1 as the commencement date for an annual 180 billion naira free educational data scheme for students. The Nigeria Customs Service intercepted prohibited items and narcotic drugs with a total value of 43.58 billion naira. Labor unions separately requested that the minimum wage be raised to 300,000 naira.",
-          "a": "The federal government operationalised an annual 180 billion naira student educational data initiative with a start date of October 1. The Nigeria Customs Service reported interceptions of narcotic drugs and prohibited goods valued at 43.58 billion naira. Concurrently, labor representatives pressed demands for a minimum wage adjustment to 300,000 naira.",
+          "t": "Political Debate Over Currency Policy and Exchange Rates",
+          "src": "21st Century Chronicle · Daily Post Nigeria · LEADERSHIP Newspapers",
+          "b": "Peter Obi backs President Tinubu's decision to float the currency. Floating means the value of money changes based on global trade instead of a fixed price set by the government. The naira recently returned to appreciation against the United States dollar. Appreciation means the local money gains strength and buys more foreign currency than before.",
+          "i": "Peter Obi supports the continued use of the forex liberalisation policy initiated by the administration of President Tinubu. Foreign exchange rates fluctuate as the naira returns to appreciation against the United States dollar. Market participants track these valuation shifts closely. Currency stability remains a focal point of economic discussions.",
+          "a": "Peter Obi endorses the current forex liberalisation framework established under the Tinubu administration. The naira registers renewed appreciation against the United States dollar in recent spot trading sessions. These currency dynamics reflect ongoing adjustments in external sector liquidity. Market participants continue to price transmission effects from the floating exchange rate regime.",
           "links": [
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV052dkJOMWhhSGhFWWh6QWlHalNaSjgwX1hRNjhLemY5VXFaY2M1V3FfZ3dPUnI2OVdMT3diQ2hMYXVtWnFiNVVJMkFURUpRdEhHY2lTRmZqY0VlYjd2V0M0Sm1JeEduR2FzLVROQ0U3OWJTVDUwOGVnWmpSQUFzVWFVejhGam1UUTBFOWNkMmU4dnJLUUg4N0g3U1dBZ0NsWW0xRjlYZDJxejB6YXlB?oc=5",
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXB6UHJSLUNwS0RRc1BnZjVNUFdVdDlEQUNDZDhOUm1tWjhnQ1N0ZDBvMVBVNHY4TkJFb1RCemxYb2xia2tiWGxka2xIMlAwZDFRamRrdHJIY0tTTTQ5TlV1U3M4MXgtUUU1TnQ0eFhWdW0xa1ZDcVpUejhVUGpNZjFXbm4zaWVYLUJkVE10ZG5NVTNhNVFXRTY2N1hLUzg?oc=5",
+            "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XOV91NnlzVmZ1YWgzTVpRZ0otQV9ldnpRV196cVp5MHVIM2Y3WmxlRndYREt3ZWswN29tdHNVSFNCYm1WbERhYXlJcUVUYXV4a2M2RTdDMGxBemx2dld1MEFLazlZZG1Fdm5HcHpiQ09DbWRDYktibWVB?oc=5",
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2YtLUV6NGFmc2dxb21xQUVZemI5WUIwUGkwbGFWTFBROWJNb05ZUW9yUzQ1ekpva2djTGQwdWl2Y2U2a3dTT0V0OEZxZ2FIS0JLR3ZmOXhaYnNhWjNMTGpsRC01N2RzTTBtekw4Q3B2dWw2bEVfQlpWSTJOZW9pWEViM3F3bDZ5ZW44aGl3aEV5M2RaNlRiY1lJOTUxU2FvWVNUTnBMZl9HcXp0X2tkNzFKdlZpZnRFdjB5X0NQa0RpS0hIVjY2ZXBMYXptZUhDZ1E?oc=5",
+            "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbVNMbW9iMDc5R1cwQ2FYam1seG9IQjZzZU1iWG8xRmp3R1ppX3YtZ2FzZVNka3gzckhod05OOUxfdFRRbVBvY0JLWTNiQTQwdmY4dmZoUVA5S2pSRTVOVG5Jc1NwMGhsZXpEOHp4WngyN25oTTRrVmt0VnBsNEpERnJR?oc=5"
+          ]
+        },
+        {
+          "t": "Federal Government Launches Student Data Initiative",
+          "src": "The Nation Online",
+          "b": "The federal government sets October 1 as the start date for a new programme. The scheme provides free educational data to students. The annual cost of the project reaches 180 billion naira. This initiative aims to assist students with digital access for learning.",
+          "i": "The federal government schedules an October 1 launch for a free educational data programme targeted at students. This annual initiative allocates 180 billion naira toward student connectivity. Implementation details roll out ahead of the official start date. The funding forms part of the national fiscal outlay.",
+          "a": "The federal government codifies an October 1 operational start for the 180 billion naira annual students' free educational data initiative. Fiscal allocation for the connectivity programme is embedded within current budgetary provisions. Execution of the project targets institutional delivery channels. The disbursement schedule proceeds toward the fourth-quarter threshold.",
+          "links": [
             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWgxaE02S19hSjlyb2VmbEJzMnpYRDI5VmVaYUtEZ1V3RGRtaGxKTzdYN09FeGdTZjA5amJ0WXEwYXJuaVRHalRVd29kaG9kOXlOUmpUbnFMQ2ZCbTNPWW9mSnR5X001bWhzSzBXMTNrZUdlWnQ2YXg2Sk5fcWozVHdTRkFFUWs1b05CdEh5b1QzaXROSUV5MndjVFlRWGxRRmZSUFRTY2FqeGdBa0JfNUZabXFIOFhi0gG-AUFVX3lxTFB5MllZelRNOWM3ZGpJdEZXT19mUW5DR3d2bTdVOS1zWUFVSHVXYWxMU21Jc3hnMWs0UHBaV3JwcFhsQXc1Qk91QzZiNFUxMzhMYkFqZTA3c3dGUEJSMEtaTjEwSzd1SEJ3dHBNSm8tZ19xdjBEQ29KcXpxZXQwSTFoWEZqLTFSTzhCN3ctLVVhOTdyeWhBdDh2bUdoME83WkptZUQ5NC1ZZW91V1UxQXJXM2hkM2dTbkkwWDVlZFE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Peter Obi stated that he would keep the current forex liberalisation policy if in power. This policy allows the exchange rate of the naira to float. Political figures continue to discuss the management of the national currency.",
-        "i": "Peter Obi confirmed his commitment to retaining the existing forex liberalisation framework. The stance underlines broad political recognition of the current exchange rate management strategy. Policymakers continue to debate the long-term structure of monetary policy.",
-        "a": "Peter Obi endorsed the continuation of the current forex liberalisation mechanism, aligning with market-oriented exchange rate reforms. This policy stance locks in structural support for the floating naira regime across political factions. Analysts evaluate the durability of these fiscal and monetary commitments against external reserve fluctuations."
+        "b": "Workers demand a new minimum wage of 300,000 naira. Labour leaders press the government for higher pay to match living costs. Political figures debate the best economic path forward.",
+        "i": "Labour unions demand an increase in the national minimum wage to 300,000 naira. Political alignment shifts around economic policy as opposition figures endorse existing currency reforms. Public sector remuneration remains a central domestic debate.",
+        "a": "Labour organizations formalize demands for a minimum wage floor of 300,000 naira amid escalating cost-of-living pressures. Political discourse intersects with structural reform debates as opposition figures back current exchange rate mechanisms. Fiscal negotiations continue to test public sector wage boundaries.",
+        "sources": {
+          "0": {
+            "outlet": "Leadership Hausa",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV052dkJOMWhhSGhFWWh6QWlHalNaSjgwX1hRNjhLemY5VXFaY2M1V3FfZ3dPUnI2OVdMT3diQ2hMYXVtWnFiNVVJMkFURUpRdEhHY2lTRmZqY0VlYjd2V0M0Sm1JeEduR2FzLVROQ0U3OWJTVDUwOGVnWmpSQUFzVWFVejhGam1UUTBFOWNkMmU4dnJLUUg4N0g3U1dBZ0NsWW0xRjlYZDJxejB6YXlB?oc=5"
+          },
+          "1": {
+            "outlet": "21st Century Chronicle",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XOV91NnlzVmZ1YWgzTVpRZ0otQV9ldnpRV196cVp5MHVIM2Y3WmxlRndYREt3ZWswN29tdHNVSFNCYm1WbERhYXlJcUVUYXV4a2M2RTdDMGxBemx2dld1MEFLazlZZG1Fdm5HcHpiQ09DbWRDYktibWVB?oc=5"
+          }
+        }
       },
       "timeline": [
         [
-          "10 Aug 2026",
-          "Reserves rise and liquidity improves for the naira"
+          "10 Sep 2026",
+          "Consolidated Hallmark Holdings and VFD Group release fourth-quarter financial projections."
         ],
         [
           "10 Sep 2026",
-          "Naira returns to appreciation against the US dollar"
+          "The naira registers appreciation against the United States dollar in foreign exchange markets."
         ],
         [
-          "1 Oct 2026",
-          "Scheduled take-off for students free educational data"
+          "10 Sep 2026",
+          "The federal government schedules an October 1 launch for a 180 billion naira student data project."
+        ],
+        [
+          "11 Sep 2026",
+          "Labour representatives demand an increase in the national minimum wage to 300,000 naira."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Resource and mining updates across Australian markets",
+      "sub": "Corporate updates and share movements across ASX listings",
       "ind": [],
       "stories": [
         {
-          "t": "Maritana Minerals Expands Burbanks Gold Resource",
+          "t": "St Barbara Unlocks Cash Position Following Lingbao Transaction",
           "src": "Kalkine",
-          "b": "Maritana Minerals increased its gold resource at Burbanks by 62%. This brought the total to 755 thousand ounces. The company pushed its total portfolio above 2.1 million ounces.",
-          "i": "Maritana Minerals lifted its Burbanks gold resource by 62% to 755 thousand ounces. This upgrade pushed the total portfolio above 2.1 million ounces.",
-          "a": "Maritana Minerals expanded the Burbanks gold resource by 62% to 755 thousand ounces. The revised estimate elevates the aggregate portfolio valuation past the 2.1 million ounce threshold.",
+          "b": "St Barbara is an Australian mining company whose shares are traded on the stock exchange. The business completed a transaction with Lingbao that unlocked a major cash position. Investors have focused their attention on the firm following this asset release. St Barbara trades under the ticker code SBM.",
+          "i": "St Barbara drew market attention following a corporate transaction with Lingbao that unlocked a major cash position. The company trades on the ASX under the ticker SBM. Market participants monitored the stock as the capital position shifted.",
+          "a": "St Barbara captured focus after the Lingbao transaction crystallized a major cash position for the SBM equity. The transmission from asset realization to balance sheet liquidity drove immediate re-pricing attention across the order books. Market participants continue to assess the duration of this liquidity buffer.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0tYSG5sLWViRnJIZXpvN2ZmbWpoa3N6WEVtdUNWSGlmb1ZUSTlrVE41akxhN2hsZEo1b3Y0OS1ET2lmX3dSSGZrY1NiYnUxUURZZ2JfbXZpRTlGcnNFOE1HaWxRa0pHeVdSRzV0bzB5VW9FYnF3c3ZvcWRsc2huLVJ6bjN1VmpGZjgxd2o5djB0M194NFRoQ3d6ckdRSldSOHVxUktBbVVUSEFwelk0MWJqdkdTLUNwWFRtM29JXzNlTWdJSjZhWTJWaEhJS0VHWjZsOWRBZw?oc=5"
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFp3X2F5bXo5YTgwcGM2Nnc4akNGZHd6TnJTMWlsVG5BLUpENmlTc3lPWHphcTl4amhzVnY5eEFOcE5pUmRSbDVHOVp0VFVnVU5TZHVrdlV6UGxtRktLamdRLV9OSjY5OHVFaTd3SE9VYkQ0TFV0c0ZxQTNLbG9OdWhJNmthNERWZlFKS1dseVpKd2JCX3RzMzhFVE16eTJPSlFEekRLRmZ1Rk1hU1JDM2o5RThRZw?oc=5"
           ]
         },
         {
-          "t": "FireFly Metals Secures Funding for Green Bay Growth",
+          "t": "Greatland Resources Declines Despite Annual Gain",
           "src": "Kalkine",
-          "b": "FireFly Metals moved lower on the market. At the same time, A$180 million in funding supported growth at Green Bay.",
-          "i": "FireFly Metals shares moved lower despite A$180 million in funding supporting Green Bay growth.",
-          "a": "FireFly Metals equities traded lower even as an A$180 million capital injection backed Green Bay development milestones.",
+          "b": "Greatland Resources is a mining company listed on the stock exchange. The share price fell by 6% in the latest trading session. This drop occurred despite the company achieving a 71% annual gain over the past year. The firm trades under the ticker code GGP.",
+          "i": "Greatland Resources shares fell by 6% during the session. The downward move arrived despite a 71% annual gain accumulated over the prior year. The equity trades on the ASX under the ticker GGP.",
+          "a": "Greatland Resources experienced a 6% share price contraction despite maintaining a 71% annual gain. The GGP equity retreated as profit-taking overshadowed the broader multi-month appreciation trend. Order flow suggests institutional rebalancing rather than fundamental thesis degradation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVlTVkZNVDFiTXNBeHo2Y19tMzRIOGhxSFJNYXlNcnNVV3JpZFN0NzFVdTVDRTY3YUgwQlFPV1NKSVZFNmF0RzFRckNINGUyeFhJWDJNSm5uUExUOUdOTHFOQ181SDkzUXVmWnk0Y0xtOTN5dDA5WWE2dl80UDgzX29sZkhpbXhPOXhHVGNVSXFIMEVoTEtWZmJFYzJGNW9KU3pGdGJ6a09PRWg3akNTTWF0bGhhWDN2SFdsejZn?oc=5"
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3JYRXBGaEZ3UmtDTUF1ZDB2ZDFWdmVlY1N0dDhBNWVoS1RfTDVxTXNNUThwRXU3dXA3TVpfTHAxSnNabHdzYUIyTFFuS0UxY3FmWUJPYVlramVYTjhnQ1dqbTQ0b2FWTkVrVWg5d2trM011NjB1YUY0X0VxYkZmandUdDlBYVh2ZkkyMFJDUjc4b2hpbzk4OVdqV09RalNRcjd6ZnNhVHNiNnlHT2ZYS1BYcUdOd3hOcDJmekplMUItTVpWODFj?oc=5"
+          ]
+        },
+        {
+          "t": "Change Financial Reports Maiden Profit Amid Annual Drop",
+          "src": "Kalkine",
+          "b": "Change Financial is a financial services business listed on the stock exchange. The company posted a maiden profit for the period. However, the share price remains down by 46% over the past year. The firm trades under the ticker code CCA.",
+          "i": "Change Financial delivered a maiden profit announcement to the market. The shares trade down by 46% over a one-year period despite this earnings milestone. The equity trades on the ASX under the ticker CCA.",
+          "a": "Change Financial reported a maiden profit, attempting to reverse a 46% annual share price decline. The CCA equity responded to the earnings print while the broader multi-month downtrend persisted. Market participants weighed the profitability milestone against historical valuation compression.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczRuX0lYX2R4cmtWN0paRjdaTDVtaG50QTE3S29zRk5nTkdabDRUQ3ctOFZqMFllUzNVYVVHN0tVSjI0M2xMLUtmaUhCRTF0SHNfUDZQS3pZQ1hzRktYQlNnQk9rYU94bE11MC1pYWFvTjQ5M0JzbVNBQlBmcjByTEtYNU1ZQVlPYzM1TDRCOWotM3pHdUltcHBSd05GQ3B2LXhlanpvTzA3WG5qMjZlNjFPX2NiVTFsa0U5dFh6Nkd4UWhjaVE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Mining stocks faced market pressure and volatility on the Australian exchange. Various firms reported operational milestones and funding updates.",
-        "i": "ASX mining stocks experienced broad pressure and volatility. Individual operators advanced project ramp-ups, drilling clearances, and capital raisings.",
-        "a": "ASX resource equities absorbed sectoral volatility and selling pressure. Micro-cap and mid-tier miners concurrently advanced operational ramp-ups and regulatory clearances."
+        "b": "The Australian market reports are driven by private company updates and sector trends.",
+        "i": "Market moves reflect corporate earnings, asset monetization, and sector-specific developments.",
+        "a": "Price action across ASX listings remains tied to individual corporate catalysts and fundamental earnings reports."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Maritana Minerals lifted its Burbanks gold resource by 62% to 755Koz."
+          "St Barbara unlocks cash via Lingbao transaction"
         ],
         [
           "11 Sep 2026",
-          "FireFly Metals secured A$180 million in funding for Green Bay growth."
+          "Greatland Resources shares fall 6% despite annual gains"
+        ],
+        [
+          "11 Sep 2026",
+          "Change Financial posts maiden profit alongside annual decline"
         ]
       ]
     }
