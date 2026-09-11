@@ -1,582 +1,498 @@
 {
-  "generated": "2026-09-11T13:35:33.200Z",
+  "generated": "2026-09-11T14:32:06.138Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "11 September 2026",
-    "headline": "United States consumer prices rose above expectations in August as annual inflation held at 3.4 percent.",
+    "headline": "United States inflation accelerated to 3.4% in August as gas prices climbed.",
     "lede": {
-      "b": "The annual rate of inflation, which is the speed at which prices for everyday goods and services increase, held steady at 3.4% in the United States in August. This happened because the core consumer price index, a measure of price changes for a basket of goods, came in higher than analysts expected. Fuel costs accelerated sharply, pushing diesel prices past $6 per gallon due to conflict in the Middle East. Stock futures, which are contracts to buy shares at a set price in the future, still climbed because a recent rally in oil prices cooled down. The United States dollar also edged higher against the euro in response to the price data.",
-      "i": "United States <span class='term' data-t='inflation'>inflation</span> held at 3.4% in August as the core consumer price index increased beyond expectations. Accelerating fuel costs, driven by diesel prices surpassing $6 per gallon amid Middle East conflict, supported the print. Stock <span class='term' data-t='inflation'>futures</span> subsequently climbed by triple digits as a recent oil rally cooled, relieving broader equity pressures. The US dollar edged higher against the euro in response to the data release.",
-      "a": "US core <span class='term' data-t='inflation'>inflation</span> printed above consensus in August, anchoring annual headline prints at 3.4% on the back of diesel vector acceleration past $6 per gallon. Equity index <span class='term' data-t='inflation'>futures</span> decoupled positively from the energy impulse, staging a triple-digit relief rally as the preceding crude momentum mean-reverted. The US dollar responded via immediate spot appreciation against the euro along the front-end rate transmission channel."
+      "b": "United States <span class='term' data-t='inflation'>inflation</span>, which measures how fast the cost of everyday things goes up, reached 3.4% in August. Gas prices climbed higher because of conflict in the Middle East. This price surge squeezed household budgets across the country. Federal Reserve officials, who run the central bank that sets borrowing costs, considered raising interest rates in response. Higher odds of monetary tightening drove gold prices up and weighed on broader stock markets.",
+      "i": "United States <span class='term' data-t='inflation'>inflation</span> accelerated to an annual rate of 3.4% in August due to rising gas prices driven by Middle Eastern conflict. This price pressure squeezed household finances and prompted Federal Reserve officials to weigh a rate hike. Markets priced in increased probabilities of monetary tightening, which drove gold prices higher on dip buying and weighed on broader stock markets through higher Treasury yields.",
+      "a": "US headline <span class='term' data-t='inflation'>inflation</span> printed at 3.4% in August, catalyzed by energy price pressures stemming from Middle Eastern geopolitical friction. The resultant repricing of the Federal Reserve reaction function lifted implied probabilities of further monetary tightening. Consequently, higher Treasury yields pressured broader equities while gold rallied on dip-buying flows."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "Stock futures climbed as lower energy costs cooled the recent oil rally.",
-        "i": "Stock futures gained as a cooling oil rally relieved pressure on broader equities.",
-        "a": "Triple-digit gains in index futures followed the de-escalation of the preceding crude oil rally."
+        "b": "Annual inflation reached 3.4% in August as gas prices climbed due to conflict.",
+        "i": "August inflation hit 3.4% annually, prompting Federal Reserve officials to weigh monetary tightening.",
+        "a": "Annual inflation printed at 3.4% in August, driving market pricing toward a potential Federal Reserve rate hike."
       },
       {
         "c": "United Kingdom",
-        "b": "The UK economy expanded in July with artificial intelligence spending leading the growth.",
-        "i": "The UK economy expanded in July driven by an artificial intelligence spending splurge.",
-        "a": "UK output expanded in July underpinned by commercial artificial intelligence deployment."
+        "b": "The FTSE 100 index climbed as domestic growth numbers beat expectations.",
+        "i": "The FTSE 100 index advanced on stronger-than-expected domestic gross domestic product growth data.",
+        "a": "Domestic gross domestic product beats propelled the FTSE 100 higher despite geopolitical anxieties."
       },
       {
         "c": "Germany",
-        "b": "The DAX index rose 0.40 percent at the open on Friday.",
-        "i": "The DAX index advanced 0.40% at the open as traders monitored growth data.",
-        "a": "The DAX opened 0.40% higher as domestic growth prints preceded US price data."
+        "b": "The DAX index opened 0.40% higher on Friday after an ECB rate increase.",
+        "i": "The DAX index opened 0.40% higher as equities slid toward their worst weekly performance since April.",
+        "a": "European equities drifted toward their worst weekly performance since April following an European Central Bank rate increase."
       },
       {
         "c": "Japan",
-        "b": "The Japanese yen rallied before falling into the low 154 range during London trading.",
-        "i": "The Japanese yen rallied initially before sliding into the low 154 range in London trading.",
-        "a": "Spot yen volatility persisted as initial appreciation faded into the low 154 range during London hours."
-      },
-      {
-        "c": "China",
-        "b": "Enflame shares surged 179 percent during its Shanghai Stock Exchange debut.",
-        "i": "Enflame shares surged 179% on its Shanghai Stock Exchange debut amid hardware demand.",
-        "a": "Tencent-backed Enflame shares appreciated by 179% on its Shanghai debut amid hardware demand."
-      },
-      {
-        "c": "India",
-        "b": "The Reserve Bank of India absorbed liquidity through variable rate reverse repo auctions.",
-        "i": "The Reserve Bank of India absorbed banking liquidity via a variable rate reverse repo auction.",
-        "a": "The Reserve Bank of India drained system liquidity via 4-day and 26-day variable rate reverse repo operations at 5.24%."
-      },
-      {
-        "c": "Brazil",
-        "b": "Petrobras sought to raise diesel prices while cancelling a planned gasoline hike.",
-        "i": "Petrobras sought a diesel price increase while cancelling a planned gasoline hike.",
-        "a": "Petrobras pursued domestic diesel repricing while simultaneously shelving a planned gasoline hike."
-      },
-      {
-        "c": "Saudi Arabia",
-        "b": "Saudi petroleum output fell to its lowest level in more than three decades.",
-        "i": "Saudi crude output dropped to a multi-decade low following Houthi attacks.",
-        "a": "Saudi crude output touched multi-decade lows following regional Houthi attacks."
-      },
-      {
-        "c": "Nigeria",
-        "b": "The naira appreciated to N1,328.22 per dollar following central bank sales.",
-        "i": "The naira strengthened to N1,328.22 per dollar after central bank FX sales.",
-        "a": "Spot naira strengthened to N1,328.22 per dollar following central bank interventions."
-      },
-      {
-        "c": "Australia",
-        "b": "The Australian economy expanded by 0.4 percent during the latest reading.",
-        "i": "Australian gross domestic product expanded by 0.4% amid high interest rates.",
-        "a": "Australian real GDP expanded by 0.4% amid ongoing monetary policy restrictiveness."
+        "b": "The Japanese yen rallied this week as traders priced in an extended tightening cycle.",
+        "i": "The Japanese yen rallied while the Nikkei index fell over 3% on rising crude oil prices.",
+        "a": "The Japanese yen rallied while the Nikkei index dropped over 3% amid rising crude oil prices and higher bond yields."
       }
     ],
     "thread": {
-      "b": "Energy prices and currency shifts affected markets around the world today. Central banks watched inflation figures while managing monetary policy and liquidity.",
-      "i": "Global markets reacted to shifting energy costs, currency volatility, and inflation releases. Central banks managed local liquidity while monitoring central rate paths.",
-      "a": "Cross-border asset prices digested energy-driven inflation prints and shifting central bank reaction functions. Central banks balanced domestic liquidity absorption against external FX depreciation pressures."
+      "b": "Central banks face ongoing pressure from rising energy costs and shifting price data. Markets are reacting by adjusting their expectations for future borrowing costs across several major economies.",
+      "i": "Central bank policy expectations shifted as energy costs and inflation prints prompted a re-evaluation of monetary tightening cycles globally.",
+      "a": "Cross-border market movements reflected renewed sensitivity to energy-driven inflation pulses and shifting central bank rate trajectories."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Stock futures rise and inflation data releases in August",
+      "sub": "US inflation rises in August as gas prices climb",
       "ind": [],
       "stories": [
         {
-          "t": "Stock Futures Rise as Oil Rally Cools",
-          "src": "Schaeffer's Investment Research",
-          "b": "Stock futures for the Dow and Nasdaq indexes rose by triple digits. Stock indexes track groups of company shares, which are small slices of ownership in a business. This increase happened as the recent rapid rise in oil prices slowed down. Lower oil price growth often helps calm market nerves.",
-          "i": "Dow and Nasdaq <span class='term' data-t='inflation'>futures</span> climbed by triple digits. The upward move followed a cooling in the recent oil rally. Lower energy costs relieved pressure on broader equity markets.",
-          "a": "Dow and Nasdaq futures advanced by triple digits as the underlying oil rally lost momentum. The compression in crude prices alleviated near-term margin pressures across major equity sectors. Market participants recalibrated positioning following the reversal in energy input costs.",
+          "t": "US Inflation Accelerates in August",
+          "src": "CBS News · The Killeen Daily Herald · Boston Herald",
+          "b": "The annual rate of inflation reached 3.4% in August. Inflation is the speed at which prices for everyday goods and things go up over time. Higher gas prices caused by conflict in the Middle East drove this acceleration. This price surge squeezed household finances across the country last month. Consumer prices topped 3.4 per cent in August.",
+          "i": "Annual <span class='term' data-t='inflation'>inflation</span> reached 3.4% in August. Gas prices marched higher due to conflict in the Middle East, accelerating price pressures. This acceleration squeezed household finances across the country last month. Consumer prices topped 3.4 per cent in August.",
+          "a": "The annual <span class='term' data-t='inflation'>inflation</span> print printed at 3.4% in August. Middle East conflict drove a spike in crude oil and gas prices, accelerating headline figures. This input cost shock transmitted directly into consumer finances last month. Annual price growth topped 3.4 per cent in August.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTJqelNIMTgxS1ZyN1BkNFF5Zmljc1FpS2ZxM21fYVNoRmJxR1dLNlMyaE1vdzJjZFpDNVZTYlpJaTlPenFydFlhaDFkNGpLRjB0eG0zTXRPUS0yQmZsT3UzcWpzTm92N2tSNlE2Q0tXQmpHeERFVDBETkRMMlVsT1BDQjc0OGpIRW5TcVN0YUNNWkZfNmxYU3RBY0JnZHQ3OHdsRlR2bV9PVERsLWo3dHhoTU53UQ?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LTU1TOTRNdWpDME5UU2d4Rm44aDB0a1ptLVVSMjNzWUlmRjc0N1p2UlNVVU1IVHZxWWhBWEtQUHpCcVhzU3pha1BEWXk0U3l0VkVKQjJ2VzY3Ylhsek5id2tBN2tsN2NMQmQtR1M5MkdXRnR6VHc?oc=5",
+            "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWEVpdDBvcDltNDItdDJTLVBNU0Z5YmV4RzBBX2JCS1BmTTRJb0gzYW1HNms2UGpBX2xFckRuLXRNcXYyX296dHJqVDVVRV9SX3RuTDFyTnJmZlg0Z1lQUmdiSTlRd1JxdENzaTljbnN6djVrV3FtTDBoSGxvTWx1UnJTbVRmYkppOERMS0xRQVJJX3U3Mkp2TkNSU2RqLVNCbjVITVpIcHZMQUlyRjVORXZpTmlXdGtiSi1LOXd0Vy1MdmVuQ2lKNmx6UXlZWmgxUDJ3NTY0T2Z6ekJVX19LWmJiUlFURkMwR1EyVEVwX3V2azhwckxV?oc=5",
+            "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHN3VmLVkxTl8tVGRJb3JkNG1kRklrTjJTOUpYZk1Lc04wZklaaFFSVEpERTlMLXExNU9xUktOb21IOGwxUVZFTlhxUXlXTWJvM1FyU1luNktEdC10QktJRDNkVDNuVDdnYUk4NGxqM3IzRnNjVC0w?oc=5"
           ]
         },
         {
-          "t": "August Consumer Prices Rise Above Expectations",
-          "src": "Bloomberg.com · Euronext Markets · KTVN",
-          "b": "The core consumer price index, a measure of how much everyday goods and services cost, rose more than expected in August. Prices stayed at a rate of 3.4% for the month. Higher fuel costs, including diesel passing $6 a gallon, pushed prices up due to conflict in the Middle East. The US dollar went up against the euro after this news.",
-          "i": "The US core consumer price index increased more than expected in August. Annual <span class='term' data-t='inflation'>inflation</span> held at 3.4% as fuel costs accelerated, with diesel prices surpassing $6 per gallon due to Middle East conflict. The US dollar edged higher against the euro in response to the data.",
-          "a": "The core consumer price index printed above consensus expectations for August. Headline <span class='term' data-t='inflation'>inflation</span> printed at 3.4% amid surging diesel prices exceeding $6 per gallon, driven by Middle East geopolitical conflict. The greenback extended gains against the euro as rates traders adjusted duration bets.",
+          "t": "Federal Reserve Weighs Rate Hike Following Price Surge",
+          "src": "wwltv.com · KITCO · stonex.com",
+          "b": "Federal Reserve officials are considering raising interest rates. Interest rates act like the cost of borrowing money. The recent surge in August prices prompted these rate hike bets. Gold prices climbed as investors engaged in dip buying following the data. Markets raised the odds of a central bank rate increase.",
+          "i": "Federal Reserve officials considered a rate hike following the August price surge. Higher odds of monetary tightening drove gold prices higher on dip buying. Treasury yields also weighed on broader stock markets. Markets priced in increased probabilities of a central bank rate increase.",
+          "a": "Federal Reserve policymakers weighed a rate hike following the August price surge. Rising <span class='term' data-t='inflation'>inflation</span> expectations catalyzed a bid in gold via dip buying. Treasury yields exerted downward pressure on equities as rate hike bets repriced. Markets elevated the implied probability of monetary tightening.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEtRU1dfemxMS2JSSm8xb0VWM0RocjdIVzhwRXFVck5JRWZVSk1LREpWbGJyTEN4Qk12TkRVeHZvT0VKUnNzcVBvYnFrWDFNNzhyX2RjSzJIVnppYm1keFhHTEMxMEpMYURCd0E0anFNZzg0a0szQXlNeWp5LTJRMzRud0lxME1jejRZb2V6QU8xUXY0Q2h0LWFOZWR2WXFPaDY4a1VDa01PbUZkNkctUW43V0Utbl9Yb0h2RWdObHA?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDR2aXVBdmxQQ21LMC02el80MzY1RFdaWUF4X0pBLUt1WTJJMWNCVXRRZW5iZWdaLVBsLWgzVUtjX1lIekUwVTNNOTZyaXZJd1JzcTNuUmlXam5YSjd3aXpzcXctdmhTRVFHeUtqQmMwWkIwSmVrUWJZUU5ocXpTb0cxVmRoYjF3YnEwNnpwR2YwX2RqQmNBQllaSDY0ZWJVdXc?oc=5",
-            "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdEZia0U0enY3cm8zdF8xTXB3THlLdlpwZmxhd2tNeHRfUEM1UVNCWHVfQXJiREo1cjdVV3QzZlVwNzdYU2N2WlRxWDZOTTVZdnNmUzBSQ1U0dTgwWFBFX1lFY3NvSjBtemlIY0hjaXZGWVlhX09SOGkxX09FR0lNS0RpMVpTbnBNN0Y1UVEtRTlldVN4cDJiWnBPOTIzd09IQ2MtaHozbllmV245d0s0U3lBRTBKbF9Fd0pZTUp1enJBVURna1VKMFJCcGZBSDIwNm1zQUZRLWcxRThjNzk0dXozMGxqa3RTMTZJTy0tLXNOeW1iVFY4cw?oc=5",
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmp0cnh3V2twSUlWY1V2YWJ2emVIbTgzNkROTDA1UzdVWlhydFl1bnVTZUMydnJKYmhvZzFxdDYxbTJxNlRfM2RXdkd0TEtJdmRsYlpXVUJiOGQxRzB1bGd3bjVPWU95M1BCTjdGNjZKbTMteGJyeWNnQW41WWJudklhbDhFRTV5RGthTUVDSEZTdGdZOEVKeTRUWVdPQXBqck5iNEgyNERpellQc01xSFB3?oc=5",
-            "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rS1FfTlVWc0pid0RoZEt4OTNHVnJCZE9HN0VCTnlRckx6QlFUYS03MHZVTUJGWkprRFUtbU9kOGZUU3M4OGZZdHp3WVNzSDVrdHBWVFRlanFFdw?oc=5"
+            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTV82Q2dvYTJ0YktwTWNfSU1MRi04ZU9oV1FqeE8xRlZZOW1nSzhHWGhEOU5nWTMzTXVETnlYWXBkWEtqWGNuVTRTcExRa2J6ZHVtWm1VOUgtc0ljRHdQNEtrV1BwQUxXczBfS0VBc3IxSVhua2lhRTVnU05QVnJQbmJfSEZBMjBCNDdkNnJHU0JOVzRFbmVTYjQ4SWU0RTRMek15MHlqdjVZZUdNVUNadF9qV1ZZbGlNM2hBVTFVQ0h3dGcxbWQzQ2lIaV9HYnJQNzRsWg?oc=5",
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUV3TDhJQnk2VXdQdjJ0QnAwbXZySTVYTW1RUU1pWDJuMEFLdnBzUmwwNTJfaGkwNkdkZmZIRmZ4Nk9UQlEzQTBQYVFhTDdyaDNNekJFYWxHOFlEWk5WekVmTC1EYktmXzY5NUdyYTFfdHRVUVZrNFZRem9XZkVENTNScnF4M05MOEYtVzhHLWZxVzkxRkY2WjI1MmE5dTFSSmFFNXFiamlWNVVVMHI3dkZsbnFtWm8?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnlwSHN5dVhMS2tDMzZZOHQzd3psMFNHcDRfaXRwb21RS2NuR1BQcUdVUUdCTm5BQ1FMMGxSaUd6VFMzeWxEbVlkcEx3bl9vS1g5OEo0VDdnUk5NMWj3OEF4RmRKczNheldfQzFkZl9KVll0OXphdjRYVXFBYlEwTGxzR08yUE84MnVqZ1o0R3JZVjBwTHdDOGRWZVZQVmhnVXdSSF9pU1NkMy04bVE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government reports showed inflation holding at 3.4% in August. Higher fuel prices linked to Middle East conflict drove the numbers.",
-        "i": "Official data confirmed annual inflation remained at 3.4% in August. Geopolitical conflict in the Middle East drove energy costs higher.",
-        "a": "Macroeconomic releases placed headline inflation at 3.4% for August. Middle East conflict transmission channels operated primarily through energy commodity spikes."
+        "b": "Government officials monitored the August inflation data as consumer prices rose across the country. Higher gas prices caused by conflict abroad increased financial pressure on American households. Leaders faced questions regarding consumer costs and monetary policy.",
+        "i": "Lawmakers observed the release of August consumer price figures showing annual inflation at 3.4%. Energy cost pressures stemming from Middle Eastern conflict drew administrative focus. Policymakers assessed the economic impact of tighter monetary conditions.",
+        "a": "Elected officials monitored the 3.4% annual print as energy shocks transmitted through domestic consumer metrics. Geopolitical conflict in the Middle East drove petroleum inputs higher, compounding domestic price pressures. Legislators evaluated constituent fallout from compounding inflation."
       },
       "timeline": [
         [
-          "11 Sep 2025",
-          "SPDR S&P 500 ETF trend line tracked"
-        ],
-        [
-          "11 Aug 2026",
-          "US core consumer price index figures reported for August"
+          "11 Sep 2026",
+          "US annual inflation is reported at 3.4% for August following a price surge driven by higher gas prices."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "UK economy grows, inflation expectations drop, and rate holds",
+      "sub": "UK equities rise on GDP data while currency holds steady",
       "ind": [],
       "stories": [
         {
-          "t": "UK Economic Growth and AI Spending in July",
-          "src": "Radio News Hub",
-          "b": "The UK economy grew in July. A large spending surge on artificial intelligence helped drive this growth forward. People and companies spent heavily on new technology tools. This boosted economic output for the month.",
-          "i": "The UK economy expanded in July. An artificial intelligence spending splurge provided the main growth impetus. Output rose across the technology sector as commercial deployment accelerated.",
-          "a": "UK economic output registered growth in July, underpinned by an artificial intelligence capital expenditure surge. This commercial tech deployment offset softer metrics elsewhere in the domestic output data. The data print keeps growth tracking above trend for the third quarter.",
+          "t": "FTSE 100 Rises on Gross Domestic Product Growth",
+          "src": "Investing.com Nigeria",
+          "b": "The main stock index of the United Kingdom, called the FTSE 100, went up in value. A stock index is a group of company shares measured together to track market health. This rise happened because new economic growth figures, known as Gross Domestic Product, came out strong. Gross Domestic Product measures the total value of goods and services produced in a country.",
+          "i": "The <span class='term' data-t='inflation'>FTSE 100</span> index climbed as domestic growth numbers beat expectations. Strong output figures overshadowed geopolitical anxieties originating in the Middle East. Equities advanced across the board despite broader international concerns.",
+          "a": "Equities on the primary London index appreciated as robust macroeconomic output printed above consensus. The stronger domestic economic indicators mitigated external contagion risks stemming from regional Middle Eastern hostilities. Market participants priced in resilient domestic fundamentals over geopolitical shocks.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUlpczFuMDY2cHJ1S1JqdWRyRjNtUVlsaXZmMWk3YjB3TkRhUnhiRnU4T0ZKTHJIcl9naWpFQ09HQlhWQXllMXJzWGhvYnFuWGU2MWRVM0Q5Zk5VTkVOV3hRVVNDekZjN0VZb04yY19obDNyT2VfOENHRW1ZSkxOT0pkVjZjMm5VNkplSzAtdjJxQ1YxdFJUR3htT2I?oc=5"
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFBobVNPZmVpbjczbGtkM0otNlEyTmdKNlJOS1NteUsyTFRHcm15MWpZMW5GTWRuQ1UtTUtvY05ZSnA2b0lBY2ZFcGV4dUZmdHVKdVE5N0s3SkQzNFZSVHJtZGpSTnhNX1RzUU9hbEJ0MDNNNTVqU0c2SVdoRFpyUVdoSEM1dkRURlEwcHQxOV85cW9ENGRRYkstY0ExTUlpSS1jQkZvY244a1JsdnhoSnlIUTRjdHBHTUE?oc=5"
           ]
         },
         {
-          "t": "Bank of England Public Expectations and Rate Outlook",
-          "src": "IndexBox · marketscreener.com",
-          "b": "The Bank of England is the country's central bank, which sets borrowing costs. It reported a sharp drop in public <span class='term' data-t='inflation'>inflation</span> expectations. This drop followed a change in the survey provider used to ask people questions. Meanwhile, Bank of America expects the central bank to hold its key interest rate steady at the September meeting.",
-          "i": "The Bank of England reported a sharp drop in public <span class='term' data-t='inflation'>inflation</span> expectations following a survey provider change. Bank of America expects the central bank to hold its key rate in September. Analysts at the bank also flagged rising risks of future rate hikes.",
-          "a": "The Bank of England registered a sharp contraction in public <span class='term' data-t='inflation'>inflation</span> expectations following a methodological shift in survey provision. Bank of America models a hold at the upcoming September policy meeting while flagging asymmetric risks of subsequent rate hikes from sticky wage pressures.",
-          "gloss": "inflation",
+          "t": "Sterling Steady Ahead of Central Bank Policy Choice",
+          "src": "tradingview.com · FXStreet",
+          "b": "The British currency, known as sterling, moved very little against the United States dollar. Traders held steady positions before the Bank of England announced its interest rate decision. An interest rate is the cost of borrowing money set by central authorities.",
+          "i": "The British currency consolidated near 1.3500 against the United States dollar. Traders avoided aggressive positioning ahead of the upcoming Bank of England monetary policy announcement. Sterling eked out minor gains as market participants awaited the official interest rate verdict.",
+          "a": "Cable consolidated near the 1.3500 threshold ahead of the central bank rate resolution. Implied volatility remained subdued as market makers squared books before the Monetary Policy Committee statement. Spot exchange rates reflected range-bound behavior pending policy guidance.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVFXNGtpWUxrYVQtX0FzTFFLVTQ5SVYya3NmMDRVMG9JTDB3X2VDMHFNQ0Y1OERlQW9CTTFyTE8tbnZKRXdxeGQ1M2ZSeHZWaDhOLWs4Nk0xOGdnalhfcDU1UVlsQjJRbjV1aWZFMjdUX0dkQUNiczVwNEl3cEVfRkRkZmNEVlJPdEhZNzNIU1RXUjRvTEFsRktlaWtPRGYzRFhQMXhBZERJX3ZtZ0JDdGNDMUxEai0xS0xJRXZhcTFRRFNiMVZSag?oc=5",
-            "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeHczb014cVpfdE8wX1NCOUsxbjBXR0JvQzRfUExOeTJuYldoMFVtSG8xekppZFVrNVF6V3dJNUM1NGM5V0p3aEFEeFdJYnVESVJYSWR2YWtpVWxaM0p0VmFpYU9KZGVfVTNuZjJFZV9YLWRHYlRIZmU0WnJ2eFRrNV9xZ0Y0ano0cUFCc3dLTUJnbnMzUVl2dkJLWl9qRXpHbERTRWE1d0l3UGVuRlNaMGxDZ09hbGI3ZmZmN2ZQTU4tUzNoaUN0OFNRd2dsZjNOQ0ZkWnQxa255LUZjd1pnb0VB?oc=5"
+            "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2M5SV9ncUNFS2lJZF80WmhwWUFRMHlqcTBnWDBjZnB6SzZmT0JMcTBBNExKN285cDdURVJDSnF0bjNUTnJfdmg5Z2ZTaFhuNVVXVDdKWVVYT1YxOWFOUm54dDdmMDJua1ZubW9YUU1IY1ZNZEkxY3F6SDEycXRfNVhZdkdZZWMxckhvbXZhMEtaM3Q4U2t0aE1Rd1U?oc=5",
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxNXzhEVjNWMHk3VjY1ZEU4VkdCUDZGajZ6ZVcwRzhxenJhRUNPUURWRERsZ0pINUpSLXdLSmljbU5oT21vTjlMY1dHX0RuT1YyeS1SY0FBYWdUTjlQUmxTeEhTWG9obE1PYzdMcUFLUllPVURTTVViMDhfc2d1MW1ZcXFJQnJ1OWRrLWNzUnZTZzRsSmJQMXJMXzBJSGRMM2VuTHBYWTFlMXh5aDBEaVhCYw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Jim O'Neill discussed the state of the UK economy and taxation policy in a media interview. Observers noted his comments on public finances. Politicians continue to debate tax rules.",
-        "i": "Jim O'Neill discussed UK economic performance and taxation frameworks during a Bloomberg appearance. The commentary addressed fiscal pressures facing public administration. Policy debates remain focused on revenue generation.",
-        "a": "Jim O'Neill evaluated UK macroeconomic trajectories and fiscal levers on Bloomberg. The discussion dissected structural tax burdens and growth constraints. Debates center on fiscal headroom limits."
+        "b": "Tax advisers warned clients to prepare for changes to Capital Gains Tax in the upcoming government Budget. Capital Gains Tax is a levy on the profit made from selling assets like property or shares. Political experts shared these expectations ahead of the fiscal event.",
+        "i": "Industry advisers flagged potential Capital Gains Tax adjustments ahead of the fiscal Budget. Political analysts urged clients to prepare for structural tax modifications. Wealth managers anticipated policy revisions targeting asset sales.",
+        "a": "Advisers cautioned clients regarding prospective Capital Gains Tax modifications embedded in the upcoming fiscal Budget. Political strategists highlighted impending adjustments to asset disposal levies. Wealth planning desks adjusted client portfolios ahead of projected fiscal tightening.",
+        "gloss": null
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Bank of America forecasts a key interest rate hold by the Bank of England in September."
+          "FTSE 100 rises as gross domestic product data offsets geopolitical concerns."
+        ],
+        [
+          "11 Sep 2026",
+          "Sterling trades flat near 1.3500 ahead of the Bank of England decision."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "DAX rebounds, Bundesbank warns on rates",
+      "sub": "German stocks face weekly losses as central bank rate hikes weigh",
       "ind": [],
       "stories": [
         {
-          "t": "Frankfurt Index Recovers",
-          "src": "TradingView · ad-hoc-news.de · marketscreener.com",
-          "b": "The DAX index in Frankfurt opened 0.40% higher on Friday. Shares in Deutsche Börse gained ground after previously lagging behind other stocks. Investors also looked closely at recent growth figures and awaited a US price report.",
-          "i": "The DAX index rose 0.40% at the open on Friday. Deutsche Börse shares advanced after acting as a recent laggard in the index. Traders monitored domestic growth data ahead of a US <span class='term' data-t='inflation'>inflation</span> release.",
-          "a": "The DAX opened up 0.40% on Friday, led by outperformance in Deutsche Börse following a period as a relative index laggard. Positioning adjusted ahead of the US CPI print, with market participants weighing localized growth prints against broader rate trajectory implications.",
+          "t": "DAX index heads for weekly losses following central bank actions",
+          "src": "Yahoo Finance · Ad-hoc-news.de · TradingView",
+          "b": "European stocks head for their worst week since April. This drop follows a recent interest rate increase by the European Central Bank. The DAX index in Germany opens 0.40% higher on Friday. Deutsche Börse stock gains as a laggard on the exchange.",
+          "i": "European equities slide toward their worst weekly performance since April following an ECB rate increase. The DAX index opens 0.40% higher on Friday. Deutsche Börse shares advance as investors evaluate recent growth figures.",
+          "a": "European indices track toward their worst week since April in the wake of the ECB rate hike. The DAX opens up 0.40% on Friday while Deutsche Börse gains ground as a prior laggard amidst ongoing <span class='term' data-t='inflation'>inflation</span> monitoring.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3ptcDMydHU4QlhOeUZXcXhuZ2FGNFZoWHdyYkF3ZC1ESktsVDhJRjc0SDgxa0taVmhKenNaS1FSeE5EZ0t4VS10Z1dhcm0xLXR6NUg0UUd4X19LbTlMWlM1amU1YnlSOXFPUHl6V2tZSHZVeWYyOHBVWVktZ1I4dEg2OEtVZzJmVHc?oc=5",
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVdGQkpOTDRXTmNvOGZrYlFRUVhZQlV6dXBiSFdVU21XTWhfY3U5UWJ3cFVKNUtXck9FSVdKcTZ1eDJSaWoyQUxWTWpkanQzZlduQ01ENjYtRkJqVUFRYzB4Z2ZYVXIwWGxJNEt2cUFQd0lYRlFiOS1NVVVQWWJRN19saEdvNzNWUmh4di1WdkgzcXdVdnhVd19jY0twY0ZmTm9wTXJ1RjdQV252eThKUU1wWTRWLWdaczNCTDFyczAwalJwUGQ5SDJZZjBFZw?oc=5",
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM1k3T2xVUmFWUm5MSlQzeU1jWmNTcS1GemhmeU9DZ3pHbmtfTEQ3RUNMUU1wMUtNeUd5S2VvR00xeGNHOUVTeW1SZWtSNzFOV3JFdFdxVDFhcjdpZ1YxWGNkU2pvZ0l5REtFM0NuQ0RfTEF2TUZZamd6Qi1mVzNHcXRXR1lMU3RxTkJIdmJhRm1CbUtTMC1GM1FuWDVvTUZrOUM3WWZVTmNxUEN0X1ZlRTY3bVJHMzZqcEVYZ2ZB?oc=5"
+            "https://uk.finance.yahoo.com/news/european-stocks-head-worst-week-083938562.html",
+            "https://www.ad-hoc-news.de/boersenachrichten/deutsche-boerse-stock-gains-as-dax-laggard-investors-eye-recent-growth-figures/66324213",
+            "https://www.tradingview.com/news/tradingview:20260911:the-dax-index-opens-0.40-higher-2/ni"
           ]
         },
         {
-          "t": "Bundesbank Chief Warns on Further Tightening",
-          "src": "Demócrata · Yahoo Finance UK · CNBC",
-          "b": "Bundesbank President Joachim Nagel stated that more borrowing cost increases depend heavily on energy costs. He warned that the European Central Bank may need to enter mildly restrictive territory even if it slows economic growth. European stocks faced their worst week since April following a recent rate increase.",
-          "i": "Bundesbank President Joachim Nagel stated that future rate increases remain dependent on energy costs. He warned that the central bank might need to enter mildly restrictive territory despite the drag on growth. European equities headed for their worst week since April following the recent central bank tightening.",
-          "a": "Bundesbank President Joachim Nagel conditioned subsequent rate hikes on energy cost trajectories while signalling a potential necessity to push policy into mildly restrictive territory. The rhetoric accompanied a broader equity drawdown, leaving European indices on track for their worst weekly performance since April in the wake of the latest central bank hike.",
+          "t": "Bundesbank President warns on further rate increases tied to energy costs",
+          "src": "Demócrata · Biggo Finance · CNBC",
+          "b": "Bundesbank President Nagel opens the door to another rate hike. He warns that the central bank may need to enter mildly restrictive territory. Further rate hikes depend very much on energy costs, even if higher rates weigh on economic growth.",
+          "i": "Bundesbank President Nagel signals that further rate hikes remain possible as the ECB moves into mildly restrictive territory. Future monetary tightening depends heavily on energy costs despite potential friction on growth.",
+          "a": "Bundesbank President Nagel conditions subsequent rate paths on energy price developments while endorsing a transition into restrictive territory. The explicit trade-off between suppressing growth and controlling energy-driven price vectors defines current central bank communication.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUU2QXRXRVZLQWFtWFNNeDVQTUI1MUNIaFVKTm1IQ2x3U2FNNENvZEZzQThsVjZ1Y3k4UFdaT3cyMHp2N0JpQ3lIQk5JLWVOXzR0SW5lXzNuc0dPS3lVWUIxWWhBeUh6OEtYUGJtblh1TjViTlNpcDl6VTN3UU93REpIYnRPQzlfOHlHbklkSHBhTWRYR09tUTd4Z1hXUVpXOHJnZS1KNWdLNkZIVU1KWERMa2g3bzE50gG-AUFVX3lxTFAxM1p0Wk9NdnplSmlQZTdMUXFFUU5fM3Y4VHpWS01QRC1ZLXRRSWJJQkNENS1mQUtnNi1XYVVaZ2NZZE1yYWhEaDJYXzlyN3dYd2plaFNhWXBjczFNWk1ERk5jSWlVRTl3cHgxdUlZOVl2aUtDYlY3NnpJT0FYSFNqX19qYnpxekphdlR5SjR1ZElkVUtDSHpFdzZNRmVNNG9TLTBmMTVfa29raFYxb3JkVXd4WjZ0akllLThnOFE?oc=5",
-            "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMG05TVF5U0w2M0dQaV9ranFPcXowMnUyNWY5UDhTSks1QTBPNktIb2FERWViMWZiQnpKenBHdGd2LWhnaVJSU1ZmaTU2VGxZeEVJUUJkV0JtQUg2SXd2SDRZZ1luMy1YVkZVOWJxTVZZQlVpVlZxQlNtSjkydGVfUmU0RDhYYnc?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVg4bFVmLVJoLW95aHdJb01fa0FGNENvclh2elYxcVExYWF0TjI5b00zN3BWaWdiWTZaNm12OEJ2Z3g5Ymt1bVhrWXpPc2NnYzhuclVnYU16eEF6RU9qRWtrblJxc2tkMXVfMWw5VkdSeklvYlZqU0M0Nm5ESzhtRGgtcFUxbk9iQ2xIVm9PNjdUUdIBlwFBVV95cUxNWkh4d21yeG9ia1lfdk9Kak0wdjk0ZGR5RTg3YU5DNk4yRFZVd25lTlktTG82NVI4UTRGa0dyQU43RGQwTmt0Z2JVM3plYnFFQkdSSkRGbkpDbi1CSC1DVGNlekpDT2VZYm45cVFTZXNDOGhpRmhDT1d6cUllQmtiRXBGUlMyT0ZrSDB0TVZRTm02UGpmem93?oc=5"
+            "https://www.democrtas.es/nagel-bundesbank-opens-the-door-to-another-rate-hike-even-if-it-weighs-on-growth/",
+            "https://finance.biggo.com/ecb-may-need-to-enter-mildly-restrictive-territory-bundesbank-chief-warns/",
+            "https://www.cnbc.com/2026/09/11/further-european-rate-hikes-very-much-dependent-on-energy-costs-bundesbank-chief-tells-cnbc.html"
           ]
         }
       ],
       "politics": {
-        "b": "Central bank leaders discussed how interest rates affect the wider economy and energy prices. Politicians watched the ongoing debate about economic growth versus tighter monetary policy. Officials balanced price stability goals against factory output concerns.",
-        "i": "Monetary authorities weighed restrictive policy against slowing growth metrics. Central bank officials tied future rate decisions directly to volatile energy price inputs. Lawmakers observed the tension between cooling price pressures and industrial stagnation.",
-        "a": "Governing council members debated the threshold for mildly restrictive policy settings amid softening regional macroeconomic indicators. Central bank communication explicitly conditioned subsequent normalization steps on external energy supply shocks. Policymakers navigated the trade-off between anchoring long-term expectations and compounding industrial deceleration."
+        "b": "Central bank leaders discuss monetary policy decisions and energy costs. Government officials monitor economic growth figures.",
+        "i": "The Bundesbank maintains a focus on restrictive monetary policy parameters. Policymakers assess the impact of energy prices on broader economic output.",
+        "a": "Bundesbank leadership articulates a hawkish reaction function linked to energy price volatility. Monetary authorities weigh output contraction risks against restrictive rate targets.",
+        "sources": {
+          "0": {
+            "outlet": "UA.NEWS",
+            "url": "https://ua.news/en/world/bundesbank-president-nagel-links-further-ecb-rate-hikes-to-energy-prices"
+          }
+        }
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Bundesbank President Nagel links further rate increases to energy costs."
+          "Bundesbank President Nagel links further ECB rate hikes to energy prices."
         ],
         [
           "11 Sep 2026",
-          "DAX opens 0.40% higher in Frankfurt ahead of US data."
+          "The DAX index opens 0.40% higher ahead of US data."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen moves and Bank of Japan tightening expectations",
+      "sub": "Japanese yen strengthens and stocks drop on bond yields",
       "ind": [],
       "stories": [
         {
-          "t": "Japanese Yen Shifts Against the US Dollar",
-          "src": "FXStreet · Moomoo · Forex Factory",
-          "b": "The Japanese yen, which is the money used in Japan, went up in value compared to the US dollar. The US dollar lost some of its upward push after new inflation data came out. Inflation is the speed at which prices go up over time. Later in the London trading session, the yen dropped back down into the low 154 range against the dollar. Traders are also keeping an eye on oil prices reaching triple digits.",
-          "i": "The Japanese yen rallied as the US dollar lost momentum following recent <span class='term' data-t='inflation'>inflation</span> readings. Market participants later pushed the yen down into the low 154 range during London trading hours. Meanwhile, rising oil prices and shifting yield differentials continue to drive currency volatility. Further currency appreciation risks constraining the central bank's policy path.",
-          "a": "The Japanese yen appreciated as post-<span class='term' data-t='inflation'>inflation</span> US dollar momentum stalled, though spot subsequently retraced to the low 154 handle in London. Yield pressure against US Treasuries creates structural headwinds for the currency, complicating the central bank's tightening calculus. Rapid appreciation risks constraining policy normalization by tightening financial conditions prematurely.",
+          "t": "Japanese Yen Rallies While Nikkei Index Falls",
+          "src": "FXStreet · 毎日新聞",
+          "b": "The Japanese yen is a kind of money used in Japan. It grew stronger this week because traders think interest rates in Japan will stay high. An interest rate is like the cost of borrowing money. Meanwhile, the Nikkei index, which is a list of top company stocks, fell by over 3%. Stocks are small pieces of ownership in a business. This drop happened because crude oil prices and bond yields went up. A bond is a loan made by an investor to a government or company, and its yield is the money it pays back.",
+          "i": "The Japanese yen rallied this week as traders priced in an extended tightening cycle from the Bank of Japan. Expectations for hawkish policy hikes grew across markets. Meanwhile, the Nikkei index briefly fell over 3%. This drop followed rising crude oil prices and higher bond yields. Further currency gains might eventually constrain central bank tightening.",
+          "a": "The Japanese yen outperformed peers as markets positioned for an extended <span class='term' data-t='inflation'>inflation</span> and tightening cycle from the Bank of Japan. Hawkish hike prospects grew according to DBS commentary. Simultaneously, the Nikkei index dropped over 3% under pressure from rising crude oil prices and climbing <span class='term' data-t='gilt'>yields</span>. Analysts note that further currency appreciation could ultimately constrain future central bank tightening.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW52OTA2bHMxdEdoaTdhOTFOdVE0ZE9lQlFHc2JVNy02UXBBUUtna2dJalVuUEs0YnVJMlZrdFdfbGZzaUZJRlNBMm5BTmxmamQxdHhJUjlseG5IYzU3YlBNUkdXTUxkTlByU2Y3VkxBU0VmcDdzQnFWLURhV0VSZmYyMzJuemI3NGV6RXJacTl4NEIxT09yMExubnBVd3JBTVM1NjJGMGxWbDl0Nl9renlYYW0tUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnB3UlJzaFFLM1htQV9UQzJweHY5eTFyYWYtV3J3VHdDQkhCNkI3SU95b0FTTUF3dWt5a0VXcE5QNzZaUFd1MzlGVFUwTGdhYkNsRWVxdXpaZi1NamN0anpqWVR1c0NMRmVYcjUzZ3FMSzV5OV9pVGVraWUtNm9wMjNOdmMtb2prRlVMTXltSk8?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnR2Y3NBb2RQVUd1NV91S09jZTc4ek43bVNUeW1qa1dNRkxMb3hETmhqamp3UTV5RUZzVkFFamhoOHcwX0F3WmNEY3otM3NEQjZkZEl0dmFyR1pPSnV5Y3dsTXgtYWZSMF81UEgwMXBTNTZnWlQ1T2lYUEpwYWxPUHBBUndrZGZ2WjRxaGQ5bGg4TUHSAZgBQVVfeXFMTm9FeXc0cWVGaU5XemR0RG8yMXVyUTU3d2ItUEJDYUxnVmFKWG11MVJ3S0pveXlyZGR1MmxxbVBFVDNuYUtKQzVYR0hrNlZfSHhKbDBEV0RGUmpjRFlPNlF4ei04Nk9iWmxfa1p2Y0V4dHhvQVJMMnlzQ1ZKbGY1Qk1KU3RYSjhjTXJCN21ZWkZnN3BQaDB6bXY?oc=5"
-          ]
-        },
-        {
-          "t": "Bank of Japan Tightening Outlook and Corporate Debt",
-          "src": "FXStreet · marketscreener.com",
-          "b": "Market bets on an extended tightening cycle by the Bank of Japan grew stronger this week. Tightening means a central bank is raising interest rates to slow down the economy and control prices. DBS analysts noted that prospects for a hawkish rate hike are increasing. Hawkish means favoring higher interest rates. Meanwhile, HSBC issued three series of yen-denominated callable bonds.",
-          "i": "Market participants increased bets on an extended tightening cycle by the Bank of Japan this week. Analysts at DBS highlighted growing prospects for a hawkish rate hike. Yield pressures continue to influence currency valuations against the US dollar according to OCBC commentary. Concurrently, HSBC issued three series of yen-denominated callable bonds.",
-          "a": "Market pricing reflects an extended tightening cycle from the Bank of Japan, with DBS noting rising prospects for a hawkish rate hike. Yield differentials remain a primary transmission channel for currency weakness against the greenback as highlighted by OCBC. Meanwhile, corporate primary issuance active in the debt capital markets included three series of yen-denominated callable bonds by HSBC.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd21GRm5tZjVFam9NRTZPelhkeG9qSWhOMm9vRkl5RnY4dkNGSWh3aXR1SEJFV0lfM1gzbUcyZXBYN0ZfLUNDR1ZGMnRENjRJVGhHWkEyMlZkamZzcU1ZeTJvbUtsQWE2N2RxQVo3aGJRRkZTUnp6MHZrV1dmNTkyLVg2NkVRZDNsb0ZMZ2pHYUlaUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSnhZUmQtZ21kQkdIRnZOTFNtamFzVjU2QjR3UXctYVR0RFdDU2w2NTlITlFtNHhtckVXOVBCYkFsaHR6M3ZGZDl0QnFzVm9YRDZra2hHWHJSVWRnRDNsNFI5YWU5MEtTbGhyRDNYMTBWNkNnUHRiZG5hV21rQ2x2VEVlazFxbG5NWDVaWFNOXzdzemFQRmZISF9MYTVFRVFMY1ZNVlNNcnJCNjE0U0pPTGJ0NXdvO3lfR21DM3ZJWU5QenVj?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTcxVUQxTnExYm50UEtaZ2pDRml4cENsSXg0NmJqbm1DTWVodVhTNnZkM00ya2x6RzlVcG91d0FDMlZJanpZMEtHRXRmYUNBMDhQSk5QSjRTdFlNdFNldTE2cHV3WGpqVWJUazczNGZkMDnnWHZKWUs1bzREU1FKaEZjZWZFRkF2TzBtMnZGZ3pjWVpONVFuYi1HTmpqQ0pIS1hzOG13SzlrREJtdGliMw?oc=5"
+            "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UeTdBbmlkUmQ1Zkd3aGlYTDFhQTQ1VXNyb3RtdHR6U2FWMm8wWWxic184bjhoWEQ2MzBZaWJXVmMzWm1RYU1GY2xhWl9NcklhXzlOa1JHcjdWTmlqYWpyaWpDUmxYaGNwOWp4a000ZWVvVTg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China raised visa fees for Japanese citizens on a reciprocal basis. Tokyo markets dealt with varying currency rates and global financial news. Financial reports also noted higher oil prices.",
-        "i": "China implemented reciprocal visa fee increases for Japanese citizens. Tokyo markets absorbed currency fluctuations alongside broader macroeconomic data releases. Oil prices continued to trade at elevated levels.",
-        "a": "Chinese authorities raised visa fees for Japanese citizens on a reciprocal basis. Tokyo markets processed these diplomatic friction points alongside triple-digit oil benchmarks and ongoing foreign exchange volatility.",
-        "sources": {
-          "0": {
-            "outlet": "chinadailyasia.com",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94QlR1UVhBVmtfNVgtd2ROWlQtRVFHaXExYm1RODhWTTJ5Y1VrTTF1YTRYLXcyQW9Wcnp5bUZjdHJZbFNuaGN6MmpveFpONlRzYlBaX09Mb04?oc=5"
-          },
-          "1": {
-            "outlet": "Reuters",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjdWQXF6UU01aUpaT3N3bTdCaXRXSkRFelh4TlVxSUEwRzVPak1lbjdFR3VadlU5bC0wZmUwSU03OHNWR0RuY2xpZU10N2t3bS1qM0xKckVuN0ZLS0F0V0xFS2RsRTBpSHM1bEhxYzYtRUF2ME0zNC1jVnlOZU9TUGZRblVkZ1U3bDNwcGJWZ3Fld3UwWFZWUFlQSmJTb1hMSm9nZ2ZFUzNuMWF0UDhqVU1MMmRUbnYwdDdjZC1hZ085Z1BMWnVIR1FzMG9XVzVTWlFF?oc=5"
-          }
-        }
+        "b": "China raised visa fees for Japanese citizens on a reciprocal basis.",
+        "i": "China raised visa fees for Japanese citizens on a reciprocal basis.",
+        "a": "China adjusted visa fees for Japanese citizens on a reciprocal basis."
       },
       "timeline": [
         [
           "11 Sep",
-          "China raised visa fees for Japanese citizens on a reciprocal basis"
-        ],
-        [
-          "11 Sep",
-          "HSBC issued three series of yen-denominated callable bonds"
-        ],
-        [
-          "11 Sep",
-          "Bank of Japan hawkish hike prospects grew according to DBS"
+          "Nikkei index briefly falls over 3% on crude oil and bond yield rises."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Enflame surges on debut as tech and industrial firms report",
+      "sub": "Enflame debut, Kaifa chip expansion, and corporate updates",
       "ind": [],
       "stories": [
         {
-          "t": "Enflame Shares Surge in Shanghai Debut",
-          "src": "KSL.com · Il Sole 24 ORE",
-          "b": "Shares in a company called Enflame nearly tripled on its first day of trading in Shanghai. The firm makes artificial intelligence chips, which are computer parts that power smart software. Tencent backs the business, meaning the giant technology company invested money in it. The stock market price jumped by 179% as buyers bet on high demand for these specialized chips.",
-          "i": "Enflame shares surged by 179% during its Shanghai Stock Exchange debut. The artificial intelligence chip designer is backed by Tencent. Investors bid up the stock amid strong demand for advanced computing hardware.",
-          "a": "Enflame shares nearly tripled in its Shanghai listing, closing up 179% on robust artificial intelligence hardware demand. The Tencent-backed chip maker capitalized on heavy domestic allocations toward domestic semiconductor alternatives.",
+          "t": "Enflame and Kaifa Lead Semiconductor Market Activity",
+          "src": "The Next Web · Chosunbiz · finance.biggo.com",
+          "b": "Enflame is a company that makes computer chips. A chip is a tiny electronic part that powers devices like phones and computers. Enflame shares rose 179% on its first day of trading on the Shanghai stock market. Kaifa Technology plans to spend 1.85 billion yuan on new advanced packaging equipment. This new setup aims to build 10,000 wafers every month.",
+          "i": "Enflame shares surged 179% during its Shanghai market debut as strong investor demand met the artificial intelligence hardware sector. Kaifa Technology committed 1.85 billion yuan toward an advanced packaging expansion project. This manufacturing investment targets an output capacity of 10,000 wafers per month for 2.5D technology.",
+          "a": "Enflame registered a 179% initial surge on the Shanghai bourse, demonstrating robust equity appetite for domestic artificial intelligence accelerators. Kaifa Technology allocated 1.85 billion yuan for advanced packaging lines scaling toward a throughput of 10,000 wafers per month in 2.5D architectures. These capital deployments reflect upstream capacity buildouts designed to circumvent external supply constraints.",
           "links": [
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUttOF9XYUVFTW5QQ3dSNzNqa2VmY1A1cGVka0Y1VnlqV3hsU0R3d3VDSmo0RU12S2hwUXNTTjNweVRvLVowemlaaUFsV29XczBzV1drZ0xCQjJqVHJuVEMwVWJtbnhreWpma196aUlnZjBaTTlxSE1MaFFsX2pldTVxUXdWMUYyUElwdVFmOVlYbmVZcHAwOGtxTS15RGdyaHk5VjAzS3pMSzlFbm5R?oc=5",
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV25CaHhLbm1jaGtBd3oycFhLWmJ5cWU0bXNqbTQzanRKcElMWlRuRDNrTUpMaDdJN2xpZDVzUTZmX21qRmxpU0JUcUNLeDJodFRoWEJPMHFuTldQX1lzTzNHV3p2TzVxQkNpdTFURml4T0tvZDB2ZGtPSjg2eUlJREUxb0o0YzdJV2daQU00eVJpRVhwMFpxb0s3NkZzUERiWXZKZzlCRmFOdDJHU1NrZDI1SFZOcG1reDZUVVdfZk9zM09iWGZFWFVVcmlaZnhNWWc?oc=5"
-          ]
-        },
-        {
-          "t": "Geely Launches Galaxy TT Starting at 129,900 Yuan",
-          "src": "Electrek · Gasgoo",
-          "b": "Geely launched a new vehicle named the Galaxy TT at a price of 129,900 yuan, or $19,100. This price is half of what a Tesla costs. The car uses an 800-volt platform, which is an electrical system that helps the battery charge quickly.",
-          "i": "Geely released the Galaxy TT starting at 129,900 yuan, or $19,100. The electric vehicle costs half the price of a Tesla model. The vehicle operates on an 800-volt electrical architecture.",
-          "a": "Geely priced the Galaxy TT at 129,900 yuan, undercutting Tesla by half at a $19,100 equivalent entry point. The platform utilizes an 800-volt electrical architecture for fast charging capabilities.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVhhV1Y1TmVTV1BULUhXTWcyY3l3dlBpTGRUY0otRUpkRXhvWDlwOVpGcS1Hdkdic1NRSzVLWVpDbWsyRHdlZXRqTlJkLUJURHV2NHV5cGk3N1hPNTFkdFJQeU1tbDV5RVRQdENXWFE2bDlZRVhDSVY4WWJTVldfTzVPbEwyQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXE4UmtvZ2ZuS1NsMFg4SjhRRWozVVBlQXBwWWR3Rm9sNU9DbG9naU15SlNqVTh0SEFZaXlsVDg5Q21HSjdFTy0zMFhCeXg3dDNUYUJHZ1dFUDhRVVB4WDR5UkRuMUF6MFBvZ1h6WWNOMFRJMXMtNUNQeXQyVUxwbVJlUkxPRV8wZGp0bl9TelZZQW93d2h4UjlFRm9FbjR6TUduZTF0Nk1QVGZDZ1RpTTdUaE5SYk81b21aSjc2VEllV3Z2dVBPTHNGVnJwOFU?oc=5"
-          ]
-        },
-        {
-          "t": "Kaifa Technology Plans Advanced Packaging Investment",
-          "src": "finance.biggo.com",
-          "b": "Kaifa Technology will spend 1.85 billion yuan on an advanced packaging expansion. The project targets a production level of 10,000 wafers per month using a 2.5D manufacturing method.",
-          "i": "Kaifa Technology allocated 1.85 billion yuan toward an advanced packaging expansion. The facility targets a capacity of 10,000 wafers per month for 2.5D packaging.",
-          "a": "Kaifa Technology deployed 1.85 billion yuan into advanced packaging expansion. The capital expenditure targets a throughput of 10,000 wafers per month for 2.5D semiconductor integration.",
-          "links": [
+            "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xRHhlZkFGZ28yUkczRXloM1NDVGFjMHljeGcwVC1OTGlkckJWWGNQc3RUX01DbXY2eGhNeGJveEFrYm9XVms0dzBVQXBEUzFIeUdsQ29uWXlvQkd1ZlIyOWRXRVlleXg2X0I2UE5Ock9nbzlFSVlEWElZUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV000WVctejBSclNTbUlveXRtd1duWEVXUEVJSnNMdnYyQkRyN0Rtb0lWbUQyNFFKdUc3bmRtRFA5RVBFWVk2d1hxcXBfU3hSWWlvaFJ2b3NVQjduVmlMT0M1RHdjZXEyNnN6WUpIc1pOQ01uczE2VWpHamx4LTcwTW5VZWgzZUVFYUhLV2dR0gGOAUFVX3lxTE9XTTRZVy16MFJyU1NtSW95dG13V25YRVdQRUlKc0x2djJCRHI3RG1vSVZtRDI0UUp1RzduZG1EUDlFUEVZWTZ3WHFxcF9TeFJZaW9oUnZvc1VCN25WaUxPQzVEd2NlcTI2c3pZSkhzWk5DTW5zMTZVakdqbHgtNzBNblVlaDNlRUVhSEtXZ1E?oc=5",
             "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XUXMyT2pqMUYxaVNUWWhMajVPZEYyYldzemljakNBUGlGMWpIdm5xaldzTVVRSVRXMmZnQzZENERIZFlJYXV4dHlWU1JWcWk3RzhBbEJQTHBIT0lIS2xhS3FFNlJ6VC1YMk9pWU4xV0hpdmUxM3c?oc=5"
+          ]
+        },
+        {
+          "t": "Corporate Financing and Revenue Reports Across Sectors",
+          "src": "Gasgoo · Dealroom · Global Times",
+          "b": "A former executive from Huawei built a humanoid robot and raised 500 million yuan in funding. Dental materials maker Yurucheng secured tens of millions of yuan in its Series B funding round. LONGi posted revenue of more than 27 billion yuan for the first half of the year, driven by double sales in BC products.",
+          "i": "A humanoid robot venture founded by a former Huawei executive secured 500 million yuan in new financing. Yurucheng closed a Series B funding round worth tens of millions of yuan for its dental materials business. LONGi reported first-half 2026 revenue exceeding 27 billion yuan alongside a doubling of BC product sales.",
+          "a": "A humanoid robotics enterprise spearheaded by a former Huawei executive secured 500 million yuan in primary financing. Yurucheng completed a Series B raise totaling tens of millions of yuan to support dental material production. LONGi disclosed first-half 2026 revenues topping 27 billion yuan, underpinned by a 100% volume expansion in BC product lines.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOGpVUFE3UC1yVl9OOGVhT08zTTk1cVdTdTJEYm45SEpZTVRZSlMyS3FvMi1kSEJvWHpjSWJwRlJyak5yNUZSSEo5SmpRcHhUYzN2aU9ObGl2QllDTE5NSmlxUEhCclB2eElqY2VwbnNoNTlqVVJtQTJ6VTJMYlRqUklQODhsNWpON09yM0IwSmJiTnlmWmliaXg1aDJqRGUxb3BpVHc2WlRVaFI2c1U1QjlkUlpUajRmUWIwbTFvLU9keUw1ZzlvUGkxZWNaUmdSUVYzdUpya2c3NnA4T2traFVpdlh4eGdLZ2RNdWZMTWdMNTg?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSldIZHFoa0lrbXVsVk8xazgyQkhMcnFQWVpBM0xSN214c3ZidkNkeTRlZjZVWkNRT0RyQ0NyVEhHc0M5NEsxWHBLYTF3Yjd2VVBKekhQa1pZYjl6eE1WWUFYSDE2eDRzYU9yOVhRU08waU5XTy04Q21ja0dWTXNTMnh4WlplZEotY2UwcUw5RnQxbVk3YjlOQ3luejlmaFZQa2VwV2JWTEx6enQteEE?oc=5",
+            "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBb25WWDdaMFhvdUNMVDVuUWtlNjE0RnFmOVZIRlprNnJKMVRpamMxazMyY3NLTDFyZEtqUVhzWllhTmlKT1pJUldCUlJHQWotQkw1azIycHlwRlAtVFBMZHBB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Chinese government set plans to expand how much the yuan is used around the world between 2026 and 2030. At the same time, authorities raised prices for gasoline and diesel fuel. China also raised visa fees for visitors from Japan.",
-        "i": "The State Council Information Office outlined plans to expand the global use of the yuan from 2026 to 2030. Regulators raised domestic gasoline and diesel prices. Meanwhile, China increased visa fees for Japanese citizens on a reciprocal basis.",
-        "a": "The State Council Information Office published guidelines to expand international yuan adoption through 2030. Pricing authorities adjusted domestic gasoline and diesel prices upward. Reciprocal visa fee increases were implemented for Japanese nationals."
+        "b": "China raised its visa fees for visitors from Japan. Officials also announced plans to increase the global use of the yuan between 2026 and 2030. Gasoline and diesel prices will go up across the country.",
+        "i": "China implemented reciprocal visa fee increases for Japanese citizens. The State Council Information Office outlined a framework to expand the global use of the yuan from 2026 to 2030. Authorities also authorized upward adjustments for domestic gasoline and diesel prices.",
+        "a": "Beijing instituted reciprocal visa fee adjustments targeting Japanese nationals. The State Council Information Office released a policy blueprint aimed at expanding international yuan adoption through 2030. National pricing regulators simultaneously sanctioned upward revisions for domestic gasoline and diesel benchmarks."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Enflame shares nearly triple in Shanghai debut"
+          "Enflame completes its market debut in Shanghai with a 179% price surge"
+        ],
+        [
+          "11 Sep 2026",
+          "LONGi releases first-half 2026 financial results showing revenue above 27 billion yuan"
+        ],
+        [
+          "11 Sep 2026",
+          "State Council Information Office publishes the 2026-2030 framework for yuan internationalisation"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "RBI liquidity operations, government bond auctions, and currency pressures",
+      "sub": "RBI auctions government stock and plans liquidity operations",
       "ind": [],
       "stories": [
         {
-          "t": "Reserve Bank of India Absorbs Liquidity Through Reverse Repo Auctions",
+          "t": "Central Bank Announces Debt Sales and Reverse Repo Operations",
           "src": "Reserve Bank of India",
-          "b": "The central bank of India manages how much money circulates in the financial system. It held two separate variable rate reverse repo auctions on September 11, 2026. These events let banks store extra cash with the central bank for a set period. Financial institutions offered 3,44,800 crore rupees for a 4-day tenor and 60,449 crore rupees for a 26-day tenor. Both auctions yielded a cut-off rate of 5.24 percent.",
-          "i": "The Reserve Bank of India absorbed excess banking system liquidity using short-term and medium-term liquidity adjustment facility tools. It allotted 3,44,864 crore rupees in a 4-day <span class='term' data-t='carry'>variable rate reverse repo</span> auction at a cut-off rate of 5.24 percent. A separate 26-day tenor auction accepted 60,449 crore rupees at the identical rate of 5.24 percent.",
-          "a": "The central bank sterilized surplus liquidity via dual-tenor variable rate reverse repo operations under the liquidity adjustment facility. Bidding patterns showed 3,44,864 crore rupees accepted across the 4-day window against a 5,00,000 crore rupee notified amount, alongside 60,449 crore rupees taken for the 26-day tenor. Both auctions cleared at a uniform weighted average rate of 5.24 percent.",
-          "gloss": "carry",
+          "b": "The Reserve Bank of India announced plans to sell ₹1,00,000 crore of government securities through open market operations. These sales will happen in three tranches of ₹50,000 crore, ₹25,000 crore, and ₹25,000 crore on September 17, September 21, and September 28, 2026. The central bank also scheduled an overnight variable rate reverse repo auction for ₹5,00,000 crore on September 15, 2026. This reverse repo auction mulls taking extra money out of the banking system for one day.",
+          "i": "The Reserve Bank of India scheduled open market operations to sell ₹1,00,000 crore of government securities across three tranches on September 17, September 21, and September 28, 2026. Concurrently, the central bank announced an overnight variable rate reverse repo auction to drain ₹5,00,000 crore of liquidity from the banking sector on September 15, 2026. These operations adjust systemic liquidity by absorbing cash reserves from commercial lenders.",
+          "a": "The Reserve Bank of India deployed a dual-pronged liquidity contraction by scheduling ₹1,00,000 crore in open market operation sales across late September alongside a ₹5,00,000 crore overnight variable rate reverse repo auction. This sizeable absorption of reserve money targets surplus banking liquidity ahead of scheduled settlement dates. The multi-security auction format for the debt sales will test duration absorption capacity across the sovereign yield curve.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63577",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63575",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63574"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63584",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63588"
           ]
         },
         {
-          "t": "Government Debt Sells at Recent Auctions While Rupee Declines",
-          "src": "Reserve Bank of India · India markets",
-          "b": "The Indian government sold debt to investors on September 11, 2026, including 6.20% GS 2029 securities and a new 2056 bond. Meanwhile, the Indian rupee suffered its largest weekly drop in four months. Higher crude oil costs and rising bond yields drove the currency lower for the fourth consecutive day. Stock indexes also reacted as the Nifty Metal index fell 3 percent due to regional tensions in West Asia.",
-          "i": "The Reserve Bank of India published auction results for government stock maturing in 2029, 2033, and 2056, accepting 4,505.529 crore rupees for the partial 2029 tranche. Simultaneously, the Indian rupee posted its sharpest weekly decline in four months. Rising crude oil prices and increasing <span class='term' data-t='inflation'>yields</span> pressured the currency across four consecutive sessions.",
-          "a": "The debt management office issued paper across the 2029, 2033, and 2056 tenors, accepting 4,505.529 crore rupees for the partial 6.20% 2029 GS issue at an implicit yield of 6.4031 percent. Concurrently, macroeconomic headwinds drove the rupee to its steepest weekly contraction in four months. Crude oil appreciation and upward yield trajectories spurred foreign exchange outflows over four consecutive trading sessions.",
-          "gloss": "inflation",
+          "t": "Government Stock Auctions Draw Heavy Bidding Across Maturities",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India published auction results for government stock maturing in 2029, 2033, and 2056. Investors submitted bids worth ₹23,263 crore for the 2029 stock, but the bank accepted only ₹4,505.529 crore at a yield of 6.4031%. The 2033 stock auction received ₹26,374.525 crore in bids, with the full notified amount of ₹11,000 crore accepted at a 6.8703% yield. The new 2056 stock received ₹28,604 crore in bids, with the full ₹10,000 crore accepted at a 7.6300% yield.",
+          "i": "The Reserve Bank of India completed auctions for the 6.20% GS 2029, 6.57% GS 2033, and a new GS 2056 security. Bidding for the 2029 stock reached ₹23,263 crore, resulting in a partial acceptance of ₹4,505.529 crore at an implicit yield of 6.4031%. The 2033 bond accepted the full notified amount of ₹11,000 crore at 6.8703%, while the 2056 issuance cleared the entire ₹10,000 crore allocation at 7.6300%.",
+          "a": "The primary auction results for sovereign paper showed strong demand concentration at the long end of the curve, where the new 2056 maturity absorbed its full ₹10,000 crore notified amount at a 7.6300% yield from ₹28,604 crore in total bids. Conversely, the 2029 paper experienced substantial undersubscription of accepted volume, taking only ₹4,505.529 crore of the ₹11,000 crore target despite receiving ₹23,263 crore in competitive bids. Primary dealers recorded zero devolvement across all three tenors.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63577",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXAtbm5RWkVLZTRpYlduT1FBWTNaYlRPYzVVVGQ2a0J5a3FlbjNXcnh2aGcwbFMzOENaTUtZc0tqbzVjN2pXMVRtWDVBVW5oUFZlalhjVWI1R3EzSG9iM1JjdTRNVUZUZDhGakVoLVhsaGV3Y3NBRzU0Tmpab2NQaFpuXzVIM21idERENlZldGhqdWU3bFlYQmFEVEFtcEtSZFRpUDN2ajNXeWZGVEVCSEtoZ3pxQ2ZBSThLc1pRellrd09Z?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjVBcFA2Wl94RzhtNDZqNElldFRzWnNMZUt3VVBlYWNVRjJ5d1ZVaGpzd2hKel9lNk5mWGNxTnQweWp2dG5VYjJhN01SNzJUX1cxZy1xbExaOVdtd09ibVdqbkZORVdhYVZCZG9yMjBlWGdnRThUOXBYLWRvOUNRN3VxbWd5d0ZXajJBakFOdUJOUTN3REthNlp1ZnVzbzFUdlRKODJZYVVuTUNYbERVLTVOSkQ3eVV6Qnk2Wk4tbzV5eFNybGo1N2NIZGFnYUFh0gHWAUFVX3lxTFBZUTFxaDA2RUhJNndLajR1RmZxaGIyd1pRN0Y4cjcwMzZmZ3NtQk1fa0NyUGJuejUtdGZaUEZ2WnRTNmM4TTRYVEFvVDJ4N05wXzJpRkt6MkctQmV4aFc4TnRkQlpqSUdpb3pnbzIyaC1iTGoxdkdJTEVLdDdEYXF4LTN0TjRoWjlmSDh4S0w2YWNPVU9fcFlGTjZBcU9idkp6RXRtWHBXbFBxY2UwZTZnRHp6eXdHOGxmZ2N0SHJxSXd6aDlWZlgwbmptdW9ONUpNRi1uS2c?oc=5"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63578",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63579"
+          ]
+        },
+        {
+          "t": "Treasury Bill Auction Targets ₹24,000 Crore in Short-Term Debt",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India announced a new auction for government treasury bills across three different maturity periods. The sale includes ₹9,000 crore in 91-day bills, ₹8,000 crore in 182-day bills, and ₹7,000 crore in 364-day bills. This creates a total auction size of ₹24,000 crore scheduled for September 16, 2026. Settlement for these short-term debt instruments will take place on September 17, 2026.",
+          "i": "The Reserve Bank of India scheduled a primary auction for government treasury bills totaling ₹24,000 crore across three maturity tranches. The offering comprises ₹9,000 crore of 91-day paper, ₹8,000 crore of 182-day paper, and ₹7,000 crore of 364-day paper. Bidding opens on September 16, 2026, with settlement occurring on September 17, 2026.",
+          "a": "The primary market issuance calendar for short-term sovereign paper features a ₹24,000 crore treasury bill auction divided into 91-day, 182-day, and 364-day tenors. Bidding is slated for September 16, 2026, with a standard T+1 settlement cycle concluding on September 17, 2026. These short-duration instruments provide marginal adjustments to front-end liquidity absorption.",
+          "links": [
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63585"
           ]
         }
       ],
       "politics": {
-        "b": "The central bank extended administrative directions for The Gujarat Rajya Karmachari Co-op. Bank Ltd until September 11, 2026.",
-        "i": "The Reserve Bank of India extended regulatory directions under Section 35A of the Banking Regulation Act, 1949, for The Gujarat Rajya Karmachari Co-op. Bank Ltd until September 11, 2026.",
-        "a": "Regulatory oversight persisted for The Gujarat Rajya Karmachari Co-op. Bank Ltd via an extension of directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949, running until the close of business on September 11, 2026."
+        "b": "The Reserve Bank of India regulates banks and manages public debt. The government recently urged the central bank to improve its digital currency capabilities.",
+        "i": "The Reserve Bank of India manages government borrowing programs and regulates financial institutions. Authorities recently encouraged the central bank to expand the technical capabilities of the digital rupee.",
+        "a": "The Reserve Bank of India maintains its regulatory remit over domestic monetary administration and institutional compliance. Government officials have simultaneously pressed the monetary authority to accelerate developmental initiatives in digital currency infrastructure."
       },
       "timeline": [
         [
-          "11 Mar 2026",
-          "The Reserve Bank of India issued directions to The Gujarat Rajya Karmachari Co-op. Bank Ltd."
+          "15 Dec 2025",
+          "RBI issued directions to Loknete R.D. (Appa) Kshirsagar Sahakari Bank"
         ],
         [
-          "11 Sep 2026",
-          "The Reserve Bank of India conducted variable rate reverse repo auctions and government stock sales."
+          "08 Sep 2026",
+          "RBI imposed a monetary penalty on Asset Care & Reconstruction Enterprise Limited"
+        ],
+        [
+          "31 Aug 2026",
+          "RBI released data on money supply for the fortnight ended on August 31, 2026"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras plans fuel price adjustments and secures deals",
+      "sub": "Petrobras shares drive Ibovespa down amid pricing shifts",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Weighs Fuel Price Adjustments",
-          "src": "Reuters · BigGo",
-          "b": "Petrobras wants to raise diesel prices. It is waiting for government steps to protect consumers first. Meanwhile, the company cancelled a gasoline hike. The gasoline price fell by R$0.19 following tax cuts.",
-          "i": "Petrobras seeks to implement a diesel price increase while awaiting government measures to protect consumers. The company simultaneously cancelled a planned gasoline hike, leaving the price down by R$0.19 after tax cuts.",
-          "a": "Petrobras targets a diesel price adjustment conditional on fiscal or regulatory shielding mechanisms from the state. Management cancelled the separate gasoline hike, allowing prices to decline by R$0.19 following structural tax reductions.",
+          "t": "Petrobras Shifts Fuel Pricing and Weighs Hikes",
+          "src": "energynews.pro · marketscreener.com · Moomoo",
+          "b": "Petrobras is the short name for Petroleo Brasileiro SA, a massive oil company in Brazil. This company reversed an overnight gasoline price hike. The firm also considers raising diesel prices. Traders exchanged 77,871 options contracts on Petrobras on September 10th.",
+          "i": "Petrobras reversed an overnight gasoline price hike while contemplating a separate diesel price increase. Management awaits government measures to shield consumers before proceeding with the diesel adjustment. Derivatives activity remained elevated as traders exchanged 77,871 options contracts with an open interest of 2,52 million on September 10th.",
+          "a": "Petrobras reversed an overnight gasoline price hike and weighs a diesel adjustment while conditioning implementation on state-backed consumer shielding mechanisms. Market participants absorbed high options volume reaching 77,871 contracts alongside 2,52 million in open interest on September 10th, reflecting heightened delta hedging around regulatory price controls.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVzSTNYNFE3Si1NWmJSNEh6NEVxT0JZbTZCMnJxN0xSeDZvNDNyMnBscDZFVGdULThZZWU1ODRseWl4QjhVQ2dlRmFrRDRTZnRQX1g2RTc0dUhSUEVxYkk1T1NNaEtOQVlOR2wxUkZWYlV6b29GbWlyemh0VW8tOHlMNmtRa2ZzTERZOVFoYlJJRjZvNnFYSld6R2RiajdmNV9fMzAzMDBxZTdQMTUwTGRyVWxkaE9xSE83Uk16VGZXVnRTWXFGag?oc=5",
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDSjlHZDRoTkFDM1NPbkVYYUFrd1lFS1BpakUxY2ZlWjZ2NFVHYjlTTkFNM1ZGS3NkSW15VVdzOUhGeXkySWFWa29iV2NVTktPR0lRZF9VM2FieDFHTXFPa2RNb3hXNEtzWXY0dFFURFdYSXY3alE?oc=5"
+            "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmh2eVNuWUo4VFFwR2t6MVViNTAyTlgxWUJsTG9ZRmdXLS11bWdPRk5DNURkZEI5Ykh6SzRjWEpLYWtTYjczRGtObUpHMkwxbjA0VFZBWnlaNkNtcVpDX05GUFowRFBhNW41R1ZwRm5RSjk5aG9TV1NuVGN2U0J4RjZR?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWhGNVJ5Nnkxc0hNLWRiM21ERUVNWmpKdkZWVXJicnhLMjh2OFlvNEc5bVgzamhFUzZxTmxKbkFEVVJIOE1nY1E5RjdLa29EeEx2b205R2otdjVKUHBJVENwSGwzc3BKQWFWN0ctYzZrREtXZF9HWEpvcnFoOXBYcFA2WnVwdTJzVVdwejJ3UUxhbU9pcFdlLWlB?oc=5",
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTl9YR3hhVDR4WF9WTVlXXzhjc0Y1WS1LS2gwQzRGcFZLazFkNnpwNjZfX1c2RjhQZEhTMHRSZjRmdWZQUkpLSmp0MHI2MzhsYlYtQl9CS3dkSEJPbGZ1ZFVub0J6dWlOb1dhZk8tNzQ0ejdxMUk4Wk1scEQwSDFJaU0taEdOZGxRYWtoc3VOM1ZlSXZPTzl3T2hTamhxUjExTkd0eDZhRWpXcko1?oc=5",
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUVzSTNYNFE3Si1NWmJSNEh6NEVxT0JZbTZCMnJxN0xSeDZvNDNyMnBscDZFVGdULThZZWU1ODRseWl4QjhVQ2dlRmFrRDRTZnRQX1g2RTc0dUhSUEVxYkk1T1NNaEtOQVlOR2wxUkZWYlV6b29GbWlyemh0VW8tOHlMNmtRa2ZzTERZOVFoYlJJRjZvNnFYSld6R2RiajdmNV9fMzAzMDBxZTdQMTUwTGRyVWxkaE9xSE83Uk16VGZXVnRTWXFGag?oc=5"
           ]
         },
         {
-          "t": "Braskem Extends Supply Deal With Petrobras",
-          "src": "MarketScreener · MarketScale",
-          "b": "Braskem extended its natural gas supply agreement with Petrobras. The deal runs through 2029. Petrobras also drew $1.4bn in bids for a subsea tender.",
-          "i": "Braskem prolonged its natural gas supply agreement with Petrobras through 2029. Petrobras separately secured $1.4bn in bids for a subsea tender.",
-          "a": "Braskem extended its natural gas procurement contract with Petrobras through 2029, locking in feedstock visibility. Petrobras concurrently drew $1.4bn in bids for its subsea tender, reflecting robust offshore capital expenditure pipelines.",
+          "t": "Ibovespa Drops as Petrobras Losses Weigh on Index",
+          "src": "tradingview.com · Pluang · Upstream Online",
+          "b": "The Ibovespa is the main stock market index in Brazil, which tracks the performance of the biggest companies. This index fell because Petrobras suffered losses. Petrobras also hunts for a technical fix for corroded subsea pre-salt equipment.",
+          "i": "The Ibovespa fell as losses at Petrobras dragged down the broader Brazilian market index. Operational hurdles compounded corporate pressures as Petrobras hunted for a breakthrough fix to corrode subsea pre-salt equipment. Analysts maintain that the firm remains a top pick for 2026 due to strong margins and rising oil prices boosting cash flow.",
+          "a": "The Ibovespa retreated as equity losses in Petrobras transmitted broad downward pressure across the index. Engineering teams concurrently pursued technical resolutions for material degradation in subsea pre-salt assets. Sell-side consensus maintains the equity as a top pick for 2026, anchored by robust operating margins and cash flow expansion driven by higher crude prices.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1JRM0ZiWjI4eEcyVlg4S0lKQWgxMF9tSmREb2RFYkY3VktwVG54NUtSQnAzLVdTZVp2QkE0UGpWWTMwc2FTSUsyeHVwOEE5ODlTS2RlbHJhNmwxVjVjR2xuUW12OTVOS3BrcGFKcTJWclZrMGVRRzZWOVFWbEw0SFVnVU1iVk54SUZDQUlyU0xaaTZNc3FRZkYyR3BqSkFnbEFMQ0lOaGhaR2N0VU0xNDRyUi1tM1p3a05fS28xZHBpLUU?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMG14bExSTEdwb0ZWLU1fYUhYLWt6QWFlelpOdlhCOGNpbDFHaHJseUFlTkc0OGdfcUVtTHpKdVFwb09CQjJDTU5hdWVIZkQtTnJQakI4cjFVRWJGcmpqYlBQbHVQSTVlSjgtSHh4VUhtcG5SSEFsZWk5MEZ0ZkozT1g4UjRid1hUUktBb2I4V1AwVEJkWjFrdkVPTGFqY0cxNWR2OGdqRTlmVW9wNTZWaVpYaHh6ODBLQnc?oc=5"
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3VWR0VZYnBITlFualZ0ZTJPdmk3QmYtZW1EVXEtZHppX25FaUlvVEx3SzlTY3ZLcGtxa1dTQmUxUk5DejRlVmtYLUFMMUQ2dVBQSzJobFg3VWhaaXdmdHM3eDFoWjNYSkhsTkNaYlNIMVEwOWJaeDAySm1ma0Z3aThCbVlUWDRmRm43SnNn?oc=5",
+            "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XU2lEZHJhaFdxeVg3Wm14a3c2QnNNZnRibWRYSGhrenFLQXRTY0l6Nmt3a0Rwb0pxWW81cHlLWG03OExZQUdwemZZeXhUYjJMNTdsTjlvVjRFb1o2U3NWQTQxbWdWdEtvclFobktCZkdhVS03ZVVF?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjNyVnBfbXJVbGJ4OFh3SlpKdUVpT09lMXQ5X3JjeF9Fck5JR19paE5LYUM4SHJ0MXR3RlFTbkJuYTBGdVlOT085b1dYb1hHS05jeTZfMVR0bkhpdkxsaHlBMGZMVXl2c3RhZlluME56NmlQQlBWT3hqbV8ySHlSbWpxT1RBQXdqbFN6SjRWY1hJYmp2OUwzNUZWbXZPVU5IUmNOcm1zVkJzRzdnaDd6bWY1UEFUZDdlLU5VLTMxaDBicV9GNllqRUZyNko?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government is looking at steps to protect consumers from diesel price changes. Petrobras has to wait for these official measures.",
-        "i": "State involvement shapes fuel pricing as Petrobras awaits government measures to shield consumers before raising diesel costs.",
-        "a": "State intervention constrains pricing autonomy as Petrobras conditions its diesel tariff hike on explicit government consumer-shielding policies."
+        "b": "Petrobras waits for government steps to shield consumers from fuel price rises. The state retains significant influence over the oil producer. Officials balance public cost-of-living pressures against corporate revenue targets.",
+        "i": "Petrobras conditions its diesel price adjustments on incoming government measures designed to shield consumers. State oversight heavily influences domestic fuel pricing decisions. Policymakers navigate the political trade-off between curbing inflation and supporting corporate cash flows.",
+        "a": "State stakeholders exert decisive influence over Petrobras pricing mechanics, forcing the firm to defer diesel adjustments pending explicit fiscal or administrative cushions for consumers. Executive intervention limits pure margin optimization in favor of macroeconomic stabilization. The interplay between state ownership mandates and shareholder value creation defines the regulatory risk premium.",
+        "gloss": "inflation"
       },
       "timeline": [
         [
-          "10 Sep",
-          "Braskem extends natural gas supply agreement with Petrobras through 2029."
+          "10 Sep 2026",
+          "Traders exchanged 77,871 options contracts on Petrobras."
         ],
         [
-          "10 Sep",
-          "Petrobras cancels gasoline hike and price falls R$0.19 after tax cuts."
-        ],
-        [
-          "10 Sep",
-          "Petrobras subsea tender draws $1.4bn in bids."
-        ],
-        [
-          "11 Sep",
-          "Petrobras mulls increase in diesel prices while awaiting government steps."
+          "11 Sep 2026",
+          "Petrobras reversed an overnight gasoline price hike."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Oil output drops and corporate deals emerge in Saudi Arabia",
+      "sub": "Saudi oil output plunges as demand forecasts are trimmed",
       "ind": [],
       "stories": [
         {
-          "t": "Saudi Petroleum Output Hits Multi-Decade Low",
-          "src": "Reuters · Anadolu Ajansı",
-          "b": "Saudi Arabia produces crude oil, which is the raw liquid pumped from the ground and turned into petrol. The International Energy Agency says that Saudi oil supply fell to a level not seen in more than thirty years. This drop happened following Houthi attacks and fallout from the war between the United States and Iran.",
-          "i": "Saudi crude output fell to its lowest level in more than three decades according to the International Energy Agency. The drop followed Houthi attacks and the wider fallout from the conflict between the United States and Iran.",
-          "a": "Saudi oil supply contracted to a more than three-decade low per International Energy Agency data following Houthi kinetic strikes and regional spillovers from the US-Iran conflict.",
+          "t": "OPEC Reduces 2026 Demand Growth Expectations",
+          "src": "qz.com · energynews.pro · news.futunn.com",
+          "b": "OPEC is a group of countries that sell oil to the world. They lowered their guess for how much oil people will need in the year 2026. This was the fifth time in a row they cut this number. The new growth forecast sits at 400,000 barrels a day.",
+          "i": "OPEC reduced its 2026 oil demand growth forecast for the fifth consecutive month. The group lowered the projection to 400,000 barrels a day.",
+          "a": "OPEC downgraded its 2026 demand growth trajectory for the fifth consecutive month. The projection was revised down to 400,000 barrels a day.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lVXo4N0d6WDlpMnk2TWluSVJ0ZkQxeDEtZzVUUksxdGhaR0ZQNTA3V2RucUI3SzBjWFRwbFdjVXRtOTFQQ3N3OFA0ZWpoaDhpVi1zMy15U1VoTE5FTm9MZ3dPcFlGOXZJel9jMEJ6eUU2clBmbVgxWE1MZlA0UQ?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDRvRks1Rl9LZEFjY2U4X2hpVzdTazRGZXA5WjRRcWlicW1wdlk1dmJDZWNfYmpxNXpDU2lRVW9DempLM3pYd2xqMExqR25lZldWUURWTFdSNU1TTkYtWVlKa1E0dWxqWEEwZTkxMy1SSnhxZS1jbnhtV3Jyd1FrNVFybnRRWWQ1c21jeXJ2ODc2cy1FUmc?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmI1VlZrQkhiQV9hcWVYQWEzdDl2SVA1el9rRmJ0RGtDeHF5dVlQOVE5bW1mazNhS3EzUElnbzhib2RXakVlSi1uTlNuSWFDc2kwYlhsbDZKaUx5bVgtWmwtenZYSkh6LUV6ZzctS3RoeGNWS0xUTVRBampvV09lWC1oQnVvRXJfVFhBcjU0MS1GdVNiRkhSb0VB?oc=5"
+          ]
+        },
+        {
+          "t": "Saudi Petroleum Output Drops to Decadal Lows",
+          "src": "reuters.com · Anadolu Ajansı",
+          "b": "Saudi Arabia is a major country that pumps oil out of the ground. Their oil supply dropped to its lowest point in more than thirty years. Houthi attacks and fallout from a war between the United States and Iran caused this massive fall.",
+          "i": "Saudi oil supply hit a more than three-decade low. Houthi attacks and the fallout from the US-Iran war drove production down to levels not seen since 1990.",
+          "a": "Saudi oil supply contracted to a more than three-decade low. Geopolitical fallout from the US-Iran conflict and Houthi attacks drove output down to levels last observed in 1990.",
           "links": [
             "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3o1VnU0amR5MnduMjR2RW1ENURKWmRGUkNFd0tQdWpwdXlkTXZLdEJyZWZmQ1VCQm54a1lkS2NjLUt2WFNGckFnWEFMN3YtdFBvbElNbmlxbjBKejV2ZXI2QmRyV285S3RLY1lZTEFIMnlXSWpTc3pYa0FEcVlYZGltU3dmX3QyUlRyQjNUc18tMW9NeDlsMXljekJ5VkRnVGlhOXBRQmM5OWRCb2pSYVI1Y2s1RE5hd2p4RHFUbXlUVHJpeHZTaUhNM3U?oc=5",
             "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkt3RTFNeVRKd19zWnEtMUtGaENadjhjTWNvNmNFZVlCLTVwTGd6YmJMV1hLaXJDQTBPUFlzX2JuLUtKeTBnWVlzcUJ1X0x6QUd0ME91bEdUbzRwcGtBQ05lVnFUVXdGa05lYXROcEdIV0UzYjdZdk41VUdWME5XOGsya0JLbWlKY0Jnbk1lOFdOS012eWc1ektHa1FqNThobnBsaXp2TWJWMzVJQTBlcXhkS1dUWGs?oc=5"
           ]
-        },
-        {
-          "t": "Aramco Considers Arlanxeo Divestment and Pricing Shift",
-          "src": "Baird Maritime · Tyrepress · Pulse 2.0",
-          "b": "Asian buyers asked Saudi Aramco to change how it prices crude oil to use the Brent benchmark. At the same time, reports show that Saudi Aramco is considering selling Arlanxeo. Aramco Ventures also backed a funding round for a company named DeepCtrls.",
-          "i": "Asian buyers asked Saudi Aramco to switch its crude pricing mechanism to Brent. Simultaneously, Saudi Aramco is weighing a sale of Arlanxeo according to reports. Aramco Ventures also participated in a funding round for DeepCtrls alongside lead investor CATL.",
-          "a": "Asian clients requested that Saudi Aramco re-benchmark its crude pricing to Brent. Parallel reports indicate that Saudi Aramco is evaluating strategic options for Arlanxeo, while Aramco Ventures co-funded a physical AI round for DeepCtrls led by CATL.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWUZaN3ZEM1dwS2ltZXNRb282LUlYd2NSRDNLM1FGcGQzSEJrbWE5XzZYWnVyLWVKRUJsTjM4NEpVT0tGdkNXMnZwa3BMbno2WGN1bUpKV09HT3dtLTZOaGNDVFEzM0R2R19VU09PRVJvTW8yQjRGNjVsb1k4REVFS1k4aEpsVzIxbWdNMktrV2FHRGNETFJHYmRYZGktb1NWY2ZhRFRha3h4bDNfZjhYanpLVms2M3Z2NnZLZlBlQXdhUdIBwgFBVV95cUxQWUZaN3ZEM1dwS2ltZXNRb282LUlYd2NSRDNLM1FGcGQzSEJrbWE5XzZYWnVyLWVKRUJsTjM4NEpVT0tGdkNXMnZwa3BMbno2WGN1bUpKV09HT3dtLTZOaGNDVFEzM0R2R19VU09PRVJvTW8yQjRGNjVsb1k4REVFS1k4aEpsVzIxbWdNMktrV2FHRGNETFJHYmRYZGktb1NWY2ZhRFRha3h4bDNfZjhYanpLVms2M3Z2NnZLZlBlQXdhUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWdtSmx3cUY4LUZISG80RGMxemlmM05xVDBYVkVabFdOV1lkNGYwaHZJWW5kN0RMeWNxWXByMzZTZUlJMW1PSS1oQXU4TXp2UXB6YkZhYjhXbDhkNndfY0l5NUlSQV9yOXE5ajhyU1M3R3VQdkhVa2VjLTk3N1M0RE4wbTJVRVZycmgyOTZXNHRsX2s?oc=5",
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXNiNWtwSUM0amVhSVA0TkxrMWFsbUlmRUJ1OWJiY0tTdlNrUUdRMHd4NG0yWmpWUzM0NTNnWERfUUU0c0xsRE13a0JiSFBkbkpyamRhR0JDWkY2TTZPTHhvWVRGS2c0UFlxSTVjVlRpUW1nbk5TTGtsTE1FbGpWSy1mcTdlQ3BYNDVZWUt5UC13dTRya3hmMHBQYWJRNzNuVXc3YW9COXNQaURhSHRlMnd1dnRqNUVVMEZsMHRObndZc0RVbmhlTGRsRGZTUdIB0wFBVV95cUxPV0FxMDFlZll0RG1ZSks2bXZZSGFlRmFtdy16M0ZNc1VjVlhnRjhIbjc0TjJSLU1uYk1fNzY3M1JMNlNGTXNQQzVrZlI5cXhWMnZQY2Zsb2VaZk52RnViMS1fd2lOTXNncmJoNmNXcGp1R0NORFFNd1lISUlsOG9qVzQwVjdvVno4R0duTjlQSDg3T0RKZnl2azFwQ0I3d0cwdE83N28tZVhJZnRVUk54Nzk0NUQyeXMxdmJyQmZLdjNaTnhzMTdUa3FmLXNKUjJqTDRJ?oc=5"
-          ]
         }
       ],
       "politics": {
-        "b": "The Public Investment Fund of Saudi Arabia is reportedly thinking about a merger between Electronic Arts and Savvy Games Group.",
-        "i": "Saudi Arabia's Public Investment Fund is reportedly considering a merger of Electronic Arts and Savvy Games Group.",
-        "a": "The Public Investment Fund of Saudi Arabia is evaluating a potential consolidation involving Electronic Arts and Savvy Games Group.",
-        "sources": {
-          "0": {
-            "outlet": "wnhub.io",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GNFV2MDk5dEViQWRwNUZNR2lBTktHcVlXUmVyanZneUhDbGppbkFlYlR3aUtHWjRtd016bWtGTXh3N04zR0JVVUZWTUdNZlotZDdqMmxB?oc=5"
-          }
-        }
+        "b": "Fighter groups launched attacks in the region. A war involving the United States and Iran affected oil production. Leaders dealt with these security events.",
+        "i": "Houthi attacks impacted regional infrastructure. The fallout from the US-Iran war directly disrupted Saudi oil production capabilities.",
+        "a": "Houthi kinetic strikes severely compromised domestic energy infrastructure. Concurrently, regional contagion from the US-Iran conflict forced physical curtailments in Saudi petroleum extraction.",
+        "c": ""
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "The International Energy Agency reported that Saudi oil supply fell to a multi-decade low."
+          "OPEC reduced its 2026 demand growth forecast to 400,000 barrels a day."
+        ],
+        [
+          "11 Sep 2026",
+          "The International Energy Agency reported Saudi oil supply dropped to a multi-decade low."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira rises against major currencies and oil production climbs",
+      "sub": "Naira rebounds against dollar as reserves hit 18-year high",
       "ind": [],
       "stories": [
         {
-          "t": "Naira climbs against dollar and euro",
-          "src": "arbiterz.com · streamlinefeed.co.ke · Nairametrics",
-          "b": "The Nigerian naira is the official money used in Nigeria. It grew stronger against the United States dollar and the euro. The Central Bank of Nigeria sold $151m to help the currency market. Foreign currency reserves also reached $54bn, which is an 18-year high.",
-          "i": "The naira appreciated to N1,328.22 per dollar on September 11, 2026. This recovery followed $151m in sales by the central bank. Meanwhile, external reserves climbed to an 18-year high of $54bn, pushing the naira to N1,548 per euro.",
-          "a": "Intervention by the Central Bank of Nigeria via $151m in liquidity injection catalyzed the naira's appreciation to N1,328.22 against the dollar. Concurrently, external reserves scaling to an 18-year high of $54bn provided broad support, driving the exchange rate to N1,548 per euro.",
+          "t": "Naira Rebounds After Central Bank Dollar Sales",
+          "src": "Arbiterz · streamlinefeed.co.ke",
+          "b": "The national currency of Nigeria is called the naira. The Central Bank of Nigeria sold $151m to support the currency. This intervention caused the naira to rebound to N1,328.22 against the dollar on 11 September 2026. External reserves reached an 18-year high of $54bn.",
+          "i": "The Central Bank of Nigeria sold $151m to bolster the domestic currency. This action helped the naira recover to N1,328.22 per dollar on 11 September 2026. External reserves simultaneously reached an 18-year high of $54bn.",
+          "a": "The Central Bank of Nigeria intervened with $151m in hard currency sales, driving the naira to N1,328.22 per dollar on 11 September 2026. Concurrently, external reserves expanded to an 18-year high of $54bn, providing substantial backing for the currency.",
           "links": [
             "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMS1IT0tKNDFsMF8yWFB2SWZxTnhabzBXbG9XWUlmNW9GYnBtN3hBaVpPNE10WEVmYm5BUjlNTWxRVjZJdWpqYThhNW1pNFdERDVrUmtJT0lSbmsxNy10U2hRczdJcGJoWjl1a0pUQkkwc21vaFFiTEEzaGxvZk5rUVhMYUszZ2t1bWVoV1V2TmlCSGhwWW5Lc0l1Szl6cUhuNDY3VA?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFRsLWh4OG5DczFHcUtHLXNNVV9xdFlONmFUU2d5QjljbzRQWkFfcEtuYnNzZlE5X2hwS1hNNndTY1REZUp0M0VyanlDcEJZT2dHa1pzamlJUFRjbVRIMnM1a1UxMkREUXlibGlTOEdyanA5Z2E5S2JQN3J0VVA4eWJiMjdaYWp1V296ZjBvTTA1dTdETXJTLXBaT3Y3QjVZd2dvOVlkS0xMUzhvTVhjNnQxSmYwdnM?oc=5",
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFZLeHk0enN0NUhVQ2lNUjJCUndGR0M1emtHXzdqNEY5ZnViVE5lTXRpZE5jUUtraTdjdktEUkZLb1BGTUxETjBtU1czS0xsVkRGaWxCZUFITVlIQjY0Tkd4Y1Z2Q09xbm9XSGNVTExTU0hzcXMycXNwQlBmRXVabXhLUzBNLVJhellrQk1aRlN3V3NWelllb3dMSi1JakNlWXNDUTZUUk4?oc=5"
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMFRsLWh4OG5DczFHcUtHLXNNVV9xdFlONmFUU2d5QjljbzRQWkFfcEtuYnNzZlE5X2hwS1hNNndTY1REZUp0M0VyanlDcEJZT2dHa1pzamlJUFRjbVRIMnM1a1UxMkREUXlibGlTOEdyanA5Z2E5S2JQN3J0VVA4eWJiMjdaYWp1V296ZjBvTTA1dTdETXJTLXBaT3Y3QjVZd2dvOVlkS0xMUzhvTVhjNnQxSmYwdnM?oc=5"
           ]
         },
         {
-          "t": "Nigeria crude oil output increases",
-          "src": "Vanguard News",
-          "b": "Oil production is a huge part of Nigeria's economy. Output reached 1,573,000 barrels per day. This increase happened alongside an overall rise in production across OPEC countries.",
-          "i": "Nigeria lifted its oil production to 1,573,000 barrels per day. This output expansion coincided with broader production gains across the Organization of the Petroleum Exporting Countries.",
-          "a": "Crude output scaled to 1,573,000 barrels per day as broader OPEC production aggregates shifted upward. This volume expansion directly affects federal revenue generation and foreign exchange earnings.",
+          "t": "Crude Oil Production Figures Shift in August",
+          "src": "Majorwaves Energy Report · Vanguard News",
+          "b": "Crude oil is Nigeria's main export product, measured in barrels per day. Output fell by 5,000bpd to 1.5mbpd in August according to Majorwaves Energy Report. Vanguard News reported a different figure of 1.573mbpd as OPEC production rose.",
+          "i": "Crude oil output declined by 5,000bpd to 1.5mbpd in August according to Majorwaves Energy Report. Vanguard News reported production at 1.573mbpd alongside broader OPEC output increases.",
+          "a": "August crude production contracted by 5,000bpd to settle at 1.5mbpd per Majorwaves Energy Report data. Conversely, Vanguard News cited output reaching 1.573mbpd amid rising aggregate OPEC production.",
           "links": [
+            "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemM3MlA5dEh5WlVpdVh5R1ZCa2pGR0N4OWNXTkdIclRxUzR0RlVxVWdLelU0NFlSYTNIYzRKNDlDd0dybmozR2RIdU0xTFpCa2hxZ25UT05jWklLSEhuYXR1TUFSMlpiUzY4d0haV1AxVmhWQjNvMmdELTFsTTFQYlVMYS1hVC1JaXUzR2lxU1hsWXZhcmZBYWd5Ulg?oc=5",
             "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWR6b21saXlzSFFrVlkzV040dElSU2xnS0FoOHUwM19IbDBDWkJuN2s4WWtQcnVIUlpqbVVqOW05WEc3THFEeWRCQ1o3UlZ5YkpBUHVvdU9ENVJHYy1kREVhNE5INGJmTkJrODd4VXp0MVZSZHhiSTliNXVYYWFBVVBqZDM4Y29TWElTMktfN0Z4Z3RnNGxpUlpaSUFXUdIBowFBVV95cUxOS2dZWmg0VElUSEZnZ0RlNkZ0bnFwYjI1WndGeEFnUURZZldtZjRpbHVUNGJycm00NXNhSUdHaFNXc2RxNm8xZkd1QkptMTlGT0lldzhxNTFJQ0lfRW12MUJ4THotN090YUhuMnBJSVVFbFZSOGRpRzZQS2VpX1BkVFd6OU9ZZVJkWjJnS3U5Y0dnb0JnT0ZXZTc3RVY3MlFUamU4?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government faces a major housing crisis. The cost of building materials has gone up drastically across the country.",
-        "i": "Soaring construction material costs generated a severe housing crisis across the country.",
-        "a": "Escalating construction material prices precipitated a nationwide housing crisis.",
-        "sources": {
-          "0": {
-            "outlet": "fakti.bg",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR2xYUmFpcUhmRHhpanVyQTF3Sl9Da3VpS2hBc05TSy0tMV9tYnhwXzJCdUtUMDg3cWJPNDY1MnhPaHZEYnU3YnBkcjNUTHYwM0ZpZmNXcWpPYXY4Tks2UGZYdkN6XzIwV1Nmd3pYbGZJT2hsdGJJWklPaldsTk0tS1YxTHBCelQ0QjM3bkNtM2ZnbjhCajAxQXNoeTBZY1ZoQVJvQjNfSjMwc3RyY0cxYTNveGlnSFF2dWR4ak1LNzBlMEtjTkJXS1c2MTkxUEw5ckVR?oc=5"
-          }
-        }
+        "b": "The Ogun State government allocated 6.75bn naira to pensioners on 11 September 2026.",
+        "i": "The Ogun State government distributed 6.75bn naira to pensioners on 11 September 2026.",
+        "a": "The Ogun State government disbursed 6.75bn naira in pension allocations on 11 September 2026."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Nigeria oil output reaches 1,573,000 barrels per day."
-        ],
-        [
-          "11 Sep 2026",
-          "External reserves hit an 18-year high of $54bn."
+          "Ogun State allocates 6.75bn naira to pensioners"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Australian economic growth slows as multiple equities near ex-dividend dates",
+      "sub": "Australian economic growth slows to 0.4 percent",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Gross Domestic Product Expands by 0.4 Percent",
+          "t": "Australian Gross Domestic Product Rises by 0.4 Percent",
           "src": "Kalkine",
-          "b": "The Australian economy grew by 0.4% recently. This number shows how much the total value of goods and services produced in the country went up. People are now asking if high interest rates, which are like the cost of borrowing money that stays expensive for a long time, are starting to slow down business activity. The recent growth figure of 0.4% is the data point released for the period.",
-          "i": "The Australian economy expanded by 0.4%. Analysts question whether the persistent high-interest-rate environment is beginning to weigh on domestic activity. This modest expansion rate marks the latest reading on national output.",
-          "a": "Real GDP growth printed at 0.4%, intensifying debate over whether the restrictive monetary policy stance is biting into economic momentum. The sequential print underscores the tension between persistent policy tightness and domestic resilience.",
+          "b": "The Australian economy expanded by 0.4 percent. This slower growth rate raises questions about whether high interest rates are finally taking effect. Interest rates are the cost of borrowing money. Central banks keep rates elevated to cool demand and fight rising prices.",
+          "i": "Economic growth in Australia slowed to 0.4 percent. This sluggish expansion prompts questions about whether a higher-for-longer rate era is starting to bite. Central banks maintain elevated borrowing costs to suppress <span class='term' data-t='inflation'>inflation</span> and moderate aggregate demand.",
+          "a": "Australian gross domestic product registered a modest 0.4 percent expansion. This subdued print fuels speculation on the transmission efficacy of restrictive monetary policy settings. Markets now re-evaluate terminal rate assumptions as growth impulses soften under the weight of higher borrowing costs.",
+          "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXhLZTBUdlllWU9WMHVCblB3Q1hCQkttaWNxQ2NlSEtpYUNMaGFTRmRteTRLLVBsXzRhcnNMQmRkbkVYMVNsTDVLM1R2ckl5UTVBazhMT0s3S3N4LWliOGdWRGtIcXNWN3psSTZUWFFWM2dmejNjSU5OT0QwR1RrZEg3SHgwN0ZOaTREWjNKeDZjLUdiMXZPbkI3cS1MMmxaZk5sRmtkcmVvcE5DcWRfZktUSTZaeVh1dU90NXg4RzFPVW8?oc=5"
-          ]
-        },
-        {
-          "t": "Focus Minerals Posts 29.4 Percent Margin While Other ASX Equities Approach Ex-Dividend Deadlines",
-          "src": "simplywall.st · Kalkine",
-          "b": "Focus Minerals shares look cheap because the company has a 29.4% margin, which is the money left over after paying costs. At the same time, companies like WCM Global Growth and Glennon Small Companies are nearing their ex-dividend dates, which are the cut-off times to qualify for a company's cash payout to shareholders. Other firms reaching this point include Saunders International, Kelsian Group, Ramelius Resources, and Virgin Australia Holdings. Reece Group shares went up over 56% in a year. VEEM Limited shares dropped nearly 60% over the same period. Perenti fell nearly 13%, and Nuix dropped 23%.",
-          "i": "Focus Minerals shares trade with support from a 29.4% profit margin. Multiple companies, including WCM Global Growth, Glennon Small Companies, Saunders International, Kelsian Group, Ramelius Resources, and Virgin Australia Holdings, approach their ex-dividend dates. Over a one-year timeframe, Reece Group shares gained over 56%, VEEM Limited declined nearly 60%, Perenti dropped nearly 13%, and Nuix fell 23%.",
-          "a": "Focus Minerals equity valuation draws support from an underlying 29.4% margin. Concurrently, market participants monitor the ex-dividend approach for WCM Global Growth, Glennon Small Companies, Saunders International, Kelsian Group, Ramelius Resources, and Virgin Australia Holdings. Over the trailing twelve-month period, Reece Group appreciated over 56%, VEEM Limited contracted by nearly 60%, Perenti receded by almost 13%, and Nuix dropped 23%.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0ZRTUJiSS02a3VmT19fUkM3QzBDTWhIa0FsRVNuaDVCX21zTjNZTTFHWm8zcEk5LXFWVUNMeVJjM3U5OEk1NkZ4YUFVQ2F3a0pnUjRwMDFMeFJBaXRnampSTUs3S3dDVVJWc2x0V3NzWEZxSmc5MmhNa2pScV9PQXl4LXJsTEdsd3VBUVV0UDlJcjczX0RoWFI0cUU5VE9wNl9WZ0ZscUZ5VUZ6UTVndXF6RmI3bllkUHNjWXNxVS1FcVpOZnJ2ZW5ENWR6NGFrMEs40gHYAUFVX3lxTE15SGExSy1QRHFXWUhiWVA3TGxDb01IdVRGdVJZMjNuZ1dZWTJVSDkxU3BNdHJkYlBGUU11V2E2N0syUWJNc0JhN2pGYUE1UGNsblpwT1U0VjlWeXJQQkdhb2J0Z2k3SVItUy1mREdBallHRmd4UXIzRkcyRWpwS0VyTnBEUnlzNVhyUlZudUYxM003NlhrZ1l5czlzb3ZEMVhqNjE0TmNUWThjdHgzY0RVMlA2MHJCRmdyb2t5X0MxZzFmd2dSNm0zTHhrWmcyX2F6dDJWOXg1aA?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXJlRzA1NXRVNExYWWdwWXpmUmpBMmhVSUhLejZETkJWMjR6Rko4T0J5OGhfOWd6WGRDU0JfMWtQUGxlN0I4Z0pqVnR5a1dtakNUQU53di1XSG9FVlQxTFR2MVdSSzg2ZTRydFlGSXZKQXhVYURpRjZSNG9lOUI2M3RaMkhjU2p4NDc5WEh4VWU0TklaZ3g5eU9MOUFKQ2pfNkZpU1c0ZEoxOHQ5N3FoU3lyRzJlVFpMQmc?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelZwYTBiRXZEakNmVFVRcVJ5Z3prT3dqVGh6b0JIbjJ5VHRoUmZpUGczOFpVWk1UZDMwazBLOHlBVDV0SWZBTFI2RlpaUlh6c1Q1bWE1NkV0UzUxQ0tjZURPYjA5NmQxMVJTX0hTSkZ3SmVwUWk5dnlsdDk5U1JSM2xUT0JhN01FZklBNU1IU2RhaGRCVXpQMXpTNUFjYmY3ZnRjeVY1eTlpbEtmLUNtRm56VTJ3RGJlMWc?oc=5",
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTFkcDRhOFI1a0NseE9FU0tOdTY2Qk01MENweVllcldGaG9kWXB0dHAzcXc0TVNiMEt4UUg2R3NtQWtUeWQyUUJrUzlaMkUwb1A4WHN5dUFDamR6YUM4ZnJiNmNEWmNOYlh6QnZRSVlzRk94X3ZuN2c2clZFMDlMTzZlSFM0ZGtuZWd2R2tOZXhjQzF4MHRJVFhnQWFVZlRldVhkV0wzYktXUjg1SXd3YzZOMVRyb2RITTBBdXFZMDlPWjZtbEJTSk1Kaw?oc=5",
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWJab0pwalYweGJYT3ppQXRPR1ZMUHNMRmtRd1IwZ2U5Q2pmbXp2OUxnTUdEVlkxM2t5MWxuX1pGckxjQ1ZtcTdmbmpmNG9kN2lQVWNkVk9pZzlfN2tST3FxRExQMHBLbFJQdVVfYnoxOU9NdzdjTXg3R3Z1R0RibzRiQjBXTmE4bnVqWWM3TjF2dUVKR3hOVnIxMnloZmJtdm9wYVlfNmw1WlNNXzZzX0F3bmFjUXk0?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGJ6VGVvMmU0S2ZXWjh1R25OVjM5ck1lcGQwWVZQd0NJaEluZW9meFVoRHZ4NmRuRFA0Yk1PejhNRlhkSTBVS3QxMmxUT09kNGM0UUxHR0hkMkJLbjFnajB1TEp5ZTFmN1ZJUkVGXzJhYWtzMm1ING4xMzc1Tk5VTlZUZG1fZWR2VF9Bd05SS3g4bU11MlpMMTN6YVl5bk5nRXF0U1VjTGxaMUxsVmV6MHF0NkJMeXlILTNFbzZ5cm9mQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTMtMDNUQjN0YkxaSThKZUdaVnI2eG10WWVPc255NGVzTXl1LTZPX1ZoMlBEdWd5TEFSRzlvRHFsVW5HZ0R2SUNUQUd1SDdrMFJUdl81TnVwaUF0QVdpalRWc2FCZGxlX2o1VFFuSUplWWI3cXpHQVBlZGxyUUJESzFVSzdlNlF1T3pCVkF4ZGpqREdac2ItcFBHRGhVYmhqa1hRdWEwTUJNVTZ1RzJjd1hVUU0tSXd6bjZPUGpfQzFOV2ozekItb2plMFhXUGdfSUd5Zg?oc=5",
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVDMwMG9zbTloaGFzbVpOVE05bnpLTzE2eDNlbFhwbER2REVHRDZPamw3ZGpLeEFYLTNHMnVaa2JzRDZUa1RmX0RIbEtiUG1JTnZ5aEtZVWZWaHpvdENHN3o5SHprc3UyN1NuV2JEb3Q3WWNTOGNseXM0V3BHdkhTR2VvclZRRXVLT0hUNU8wYkRvdzNfcHhQNXRRYXRMN1lsV3VKMXBJU0pzZUl2TnRSUlZNM25nalQ3djJHRUZzTzU1TjlYc0lBUnl3?oc=5",
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXA5c2VtSnBYc0IyQ1lTSWtZYjUxMG9PN3g0aUo3LXdzaFdtQWJYVDViQXhEbW5UMlZ1WUxyeE5wNS1ZWURlMWZUbTFzRENrTEZJenEzZXBOSjI5dzhZbWtEenN0eGtOQXVuUWh4VDl0T29YdWRwS2tGQzNBN2hHX3hfbWt0UGZjdzBMV1FfTEFvQmktWUhSZ0xWS0ZId3Awdm9TSG5OV1Rfaks4Y1lpZDJmQlEyVWd2M0t0dDZJWllDUE0?oc=5",
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanFRcGNPd3BtZjdBOGE5empaNFRiaVpLcWZJMXJLMHVtOXloV0wxaGxaMlZWRGo2aFN3ZmpkYTZ4UDFVSkRicVpZVm8wLUt0VlR5R1B5TnJDeVM4ZkZrV0dMVDVEaHR2MXh2U3JwVE03V0xleXpVbHZrRkktVWlEWTZlM3V2bkZUelo3bXhTaDZiejFoNFdlNGF1S3l6S284eE5qQTR3cXpacUZEUk05YVJuRVAzSEl2MFBRMk1scw?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXJJenBWUV8wMVhyWFpCaVAyWEdCdVFDNXd1eGZVd2l1QU9HR1FlREU5QklRdkNMbldHZ2ttTnFhcDF0Mlk3ejd1eFI1WUxFQ01zTVprakdNRGttcUx0MlA2MXUzc1hnZDhBOWFjMm1DVTNKS3g1TWNyX2hKbVhKZjkwNTJJbm5FcTRKTG1DaW9raWRJSG9ZdVF5dnVPRXhzSU41bmctVzdET0djMkRMc2tKT1k?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Australian market reports noted economic growth figures of 0.4%. Various company share updates were published on the ASX. No specific government policy decisions or political votes were detailed in the updates.",
-        "i": "Market reports detailed an economic growth print of 0.4% alongside corporate updates across multiple ASX equities. The coverage contained no references to legislative votes or executive policy announcements.",
-        "a": "Data releases centered on the 0.4% GDP expansion and corporate equity valuations across the ASX universe. The source reporting omitted any engagement with fiscal policy parameters or legislative proceedings."
+        "b": "No political updates are available in the current reports.",
+        "i": "No political updates are available in the current reports.",
+        "a": "No political updates are available in the current reports."
       },
       "timeline": [
         [
           "11 Sep 2026",
-          "Focus Minerals highlights a 29.4% margin while Australian economic growth prints at 0.4%"
+          "Australian economic growth data shows a 0.4 percent expansion."
         ]
       ]
     }
