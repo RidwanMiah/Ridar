@@ -1,370 +1,322 @@
 {
-  "generated": "2026-09-13T00:32:18.245Z",
+  "generated": "2026-09-13T01:24:53.810Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "13 September 2026",
-    "headline": "US and Indian stock indices fall as rising oil prices drive rate hike fears and currency slumps.",
+    "headline": "US stock indexes fell as oil prices rose and the Nasdaq doubled its SpaceX weighting, while global central banks faced rate decisions.",
     "lede": {
-      "b": "The United States government injected 300 million dollars in CHIPS Act funding into companies like D-Wave, Rigetti, and Quantinuum. At the same time, US stock indices closed lower because rising oil prices increased the chance of a September rate hike. A rate hike means the central bank raises the cost of borrowing money, which usually slows down the economy and hurts stock prices. In India, the Sensex index plunged 1,734 points to 74,781 as Brent crude breached 109 dollars and the rupee depreciated by 1.1% to 95.57. A currency depreciation means the local money buys fewer foreign goods, making imports more expensive.",
-      "i": "US equities closed lower as rising oil prices increased the probability of a September rate hike from the central bank, overshadowing 300 million dollars in government CHIPS Act funding for quantum firms like D-Wave. Meanwhile, the <span class='term' data-t='inflation'>inflation</span> impact of energy costs rippled globally as Brent crude breached 109 dollars. In India, the Sensex index plunged 1,734 points to 74,781, and the rupee depreciated by 1.1% to 95.57 amid the energy surge. The Reserve Bank of India also denied a waiver to Tata Sons, forcing the upper-layer NBFC to proceed with mandatory public <span class='term' data-t='equity'>equity</span> listings.",
-      "a": "US indices slipped as rising crude prices repriced the probability of a September Federal Reserve rate hike, compounding the equity drag from higher discount rates despite 300 million dollars in CHIPS Act awards to D-Wave, Rigetti, and Quantinuum. Transmission of energy shocks hit emerging markets acutely, where Brent breaching 109 dollars catalyzed a 1.1% depreciation in the Indian rupee to 95.57 and a 1,734-point plunge in the Sensex to 74,781. Concurrently, the Reserve Bank of India rejected Tata Sons' appeal to bypass mandatory public listing rules for upper-layer NBFCs, forcing primary market issuance."
+      "b": "The S&P 500, Dow, and Nasdaq indexes dropped because crude oil prices went up. When oil gets more expensive, it causes a rise in <span class='term' data-t='inflation'>inflation</span>, which is the general increase in prices over time. This makes people think the central bank will raise interest rates, which are the fees charged for borrowing money. Higher borrowing costs make company shares worth less because future profits cost more to finance today. At the same time, the Nasdaq index doubled how much weight it gives to SpaceX, forcing index funds, which are pools of money that copy a stock market list, to buy and sell shares to match the new rules.",
+      "i": "US stock indexes ended lower as surging oil prices lifted expectations for a September <span class='term' data-t='rate hike'>rate hike</span> by the Federal Reserve. Higher borrowing costs pressured equity valuations across major technology and retail companies. Simultaneously, the Nasdaq 100 index more than doubled its weighting for SpaceX. Passive <span class='term' data-t='index fund'>index funds</span> tracking the benchmark rebalanced their holdings to match the altered single-stock concentrations.",
+      "a": "US equities closed lower as surging crude prices amplified expectations for a Federal Reserve rate increase, which compressed valuations across major technology and retail sectors. Concurrently, the Nasdaq 100 doubled its SpaceX allocation, triggering mandatory rebalancing flows among benchmark-tracking passive vehicles. The adjustment highlights structural shifts in single-stock concentration risk for quantitative and index arbitrage desks."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "US indices closed lower as oil prices rose and traders expected a September rate hike.",
-        "i": "US indices closed lower as rising oil prices increased the probability of a September rate hike.",
-        "a": "US indices closed lower as rising oil prices increased the probability of a September Federal Reserve rate hike."
+        "b": "The US government gave three hundred million dollars in CHIPS Act funding to three quantum firms.",
+        "i": "The federal government awarded $300m in CHIPS Act funding to D-Wave, Rigetti, and Quantinuum.",
+        "a": "The US Department of Commerce distributed $300m in CHIPS Act grants to D-Wave, Rigetti, and Quantinuum."
       },
       {
         "c": "United Kingdom",
-        "b": "The Bank of England faced criticism over gilt sales that cost taxpayers 100 billion pounds.",
-        "i": "Critics urged the Bank of England to halt ongoing gilt sales carrying a 100 billion pound taxpayer cost.",
-        "a": "Critics urged the Bank of England to halt ongoing gilt sales carrying a 100 billion pound cost as debt traded at elevated yields."
+        "b": "The FTSE 100 index went up by 0.34% to reach 10,650 points.",
+        "i": "The FTSE 100 index finished 0.34% higher at 10,650 despite posting a weekly loss.",
+        "a": "The FTSE 100 advanced 0.34% to close at 10,650, capping a negative weekly performance."
       },
       {
         "c": "Germany",
-        "b": "Deutsche Borse shares rose on growth figures while the Bundesbank president criticized the far right.",
-        "i": "Deutsche Borse shares rose on growth figures while Bundesbank President Joachim Nagel criticized the far right.",
-        "a": "Deutsche Borse shares climbed on growth figures while Bundesbank President Joachim Nagel voiced apprehension regarding the far right."
+        "b": "The DAX 40 index fell by 1.83% to 25,569 as the European Central Bank raised interest rates.",
+        "i": "The DAX 40 slipped 1.83% to 25,569 as an ECB rate increase tightened monetary conditions.",
+        "a": "Frankfurt equities dropped 1.83% to 25,569 as an ECB policy rate increase compounded macroeconomic pressures."
       },
       {
         "c": "Japan",
-        "b": "The Bank of Japan considered a rate increase to 1.25% while Nidec exited Cambodia due to border conflict.",
-        "i": "The Bank of Japan considered a rate increase to 1.25% while Nidec exited Cambodia due to border conflict.",
-        "a": "The Bank of Japan evaluated a rate increase to 1.25% while Nidec terminated Cambodian operations over border conflict."
-      },
-      {
-        "c": "China",
-        "b": "A mining conference generated 300 million yuan in deals and Xinfengming ended a share sale early.",
-        "i": "A mining conference generated 300 million yuan in deals while Xinfengming's shareholder ended a share sale early.",
-        "a": "A mining conference generated 300 million yuan in deals while Xinfengming's controlling shareholder cashed out 753 million yuan and ended a share sale early."
-      },
-      {
-        "c": "India",
-        "b": "The Reserve Bank of India denied a waiver to Tata Sons and the rupee dropped amid rising oil costs.",
-        "i": "The Reserve Bank of India denied a Tata Sons waiver, and the rupee slumped 1.1% as oil prices surged.",
-        "a": "The Reserve Bank of India denied a Tata Sons waiver, while the rupee slumped 1.1% to 95.57 and the Sensex plunged 1,734 points."
-      },
-      {
-        "c": "Brazil",
-        "b": "European investment in Latin American stocks reached a 15-year peak.",
-        "i": "European investment in Latin American equities touched a 15-year peak.",
-        "a": "European investment in Latin American equities touched a 15-year peak amid higher capital inflows."
-      },
-      {
-        "c": "Saudi Arabia",
-        "b": "Houthi drone strikes hit Saudi Aramco facilities and output dropped to 6.24 million barrels a day.",
-        "i": "Houthi strikes hit Saudi Aramco facilities, preceding a drop in Saudi output to 6.24 million barrels a day.",
-        "a": "Houthi strikes hit Saudi Aramco facilities in Abha, Najran, and Jizan, preceding a drop in Saudi output to 6.24 million barrels a day."
-      },
-      {
-        "c": "Nigeria",
-        "b": "The naira strengthened against the dollar and RwandAir was penalized 15 million naira over luggage.",
-        "i": "The naira strengthened to N1,326.52 against the dollar, and RwandAir received a 15 million naira penalty.",
-        "a": "The naira strengthened to N1,326.52 against the dollar, and RwandAir received a 15 million naira penalty for a baggage dispute."
-      },
-      {
-        "c": "Australia",
-        "b": "The ASX 200 slumped to a one-month low due to losses in mining and healthcare stocks.",
-        "i": "The ASX 200 slumped to a one-month low as mining and healthcare stocks dragged the benchmark.",
-        "a": "The ASX 200 slumped to a one-month low on heavy losses in mining and healthcare stocks, drawing private equity interest."
+        "b": "The Bank of Japan considered raising its policy interest rate to 1.25%.",
+        "i": "The Bank of Japan evaluated a policy rate increase to 1.25% ahead of its upcoming meeting.",
+        "a": "The Bank of Japan assessed a policy rate hike to 1.25% amid persistent domestic economic evaluations."
       }
     ],
     "thread": {
-      "b": "Rising energy costs and crude oil price movements directly impacted financial markets across multiple countries. Higher oil prices drove down equity indices in the United States and India while pushing up currency pressures.",
-      "i": "Energy price volatility served as a primary transmission channel across multiple regions. Brent crude movements drove equity declines in the US and India while reshaping inflation expectations.",
-      "a": "Crude oil pricing dynamics acted as the dominant cross-border transmission vector. Surging energy benchmarks repriced monetary policy paths in North America and triggered foreign exchange depreciation alongside equity drawdowns in emerging markets."
+      "b": "Several countries dealt with the effects of rising commodity prices and central bank actions. Stock markets in the United States and Germany dropped while officials weighed interest rates. Meanwhile, energy infrastructure faced disruptions in the Middle East.",
+      "i": "Cross-border markets responded to shifting monetary policy expectations driven by higher energy costs. Central bank rate adjustments in Europe and deliberations in Japan coincided with equity index declines. Geopolitical supply disruptions further impacted regional oil production metrics.",
+      "a": "Global equity performance reflected tightening monetary conditions and commodity price shocks. Central bank policy adjustments across Western economies intersected with supply disruptions in Middle Eastern energy infrastructure. These concurrent pressures drove sector-specific valuations lower."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US indices close lower on oil and rate hike expectations",
+      "sub": "US markets face rate hike odds and index weight changes",
       "ind": [],
       "stories": [
         {
-          "t": "Nasdaq Backs Payward and SpaceX Weighting Set to Rise",
-          "src": "Investing.com Nigeria · Pulse 2.0",
-          "b": "Nasdaq invests $100 million in Payward, which is the parent company of Kraken. The investment aims to advance tokenized equities and always-on markets. Meanwhile, the weighting of SpaceX in the Nasdaq 100 index is set to more than double.",
-          "i": "Nasdaq injects $100 million into Payward, the parent company of Kraken, to develop tokenized equities and always-on <span class='term' data-t='inflation'>markets</span>. Concurrently, the weighting of SpaceX in the Nasdaq 100 index is set to more than double.",
-          "a": "Nasdaq commits $100 million to Payward to scale tokenized equities and always-on trading infrastructure. Simultaneously, index reweighting protocols drive the allocation to SpaceX in the Nasdaq 100 up by more than double.",
-          "gloss": "inflation",
+          "t": "SpaceX weighting in Nasdaq 100",
+          "src": "Investing.com Nigeria",
+          "b": "The Nasdaq 100 is a stock market index that tracks one hundred of the largest non-financial companies listed on the Nasdaq exchange. The weight of SpaceX inside this index will more than double. This means SpaceX will have a much larger impact on the movement of the whole index.",
+          "i": "The Nasdaq 100 index will allocate a more than doubled weighting to SpaceX. This adjustment alters how passive index funds track the benchmark as single-stock concentration shifts. Portfolio managers tracking the index must rebalance their holdings to match the new proportions.",
+          "a": "The index rebalancing more than doubles SpaceX's weighting in the Nasdaq 100, forcing mechanical buying from passive vehicles tracking the benchmark. This shift increases concentration risk within the index, altering factor exposures for quantitative strategies relying on the top tier of capitalization weights. Arbitrageurs must price in the tracking error costs associated with executing the required basket rebalance.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnJrVVptbTMzazQxOGJuUVo0b2dNc2ZKRTU0a0RKUzZ3OFdQMTRHVElSRnBVcmsxYUJxQWQ3bUUxbUptVDVERF94blJWVk5hX3NQZnVhY3pFWW8xM3hTdE90bDVNaEt4R2xfSXRyNVN3Smh2bkdYYk45QjdJdVB4ZzZFQ3A0VGh0Qk1FZzNqX1FETVpJdU5LaVRqU0NPYV9BajJDR2xCeUhrS3RLRnk4QnNhZWt5SWV1Rmt6YTlR?oc=5",
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObC0tOEU5ek1VazRIbmtqYzQ1NlVXeGtGbjNXUXpfaC0yRzVCN3FKSjJ4enI2eThEam01NEdpalZyYkZxOTgyQ1NNbFQzZEpwa2ZPZ2ZYTzZvUWdXVi1lOFNEWFF5R25LbWt3NUx2MVZQVUJtT3hyQTFaQXl4QWpoaEoyYm95U1dsdFhkX0VGSGp1TUVVbWNMR2NaVHdJMk9CZzdNRHJMYnZzaml1cjFqRWlZMncwSUkwMkt1dXZkVFlkeW_SAcgBQVVfeXFMT0hHbkRfSV9BSXczRUFEdUJOMXNUNHNSY1lMWi1PVnJLaWFUMHM5VnNzS1BmU0EtR29WMXpyWFFPN3hWWk41cm1DUHBMVDUyUlljYlZCeC1VUU5aODN1VnBWVnR1WmNjdktqSUJwZWk0NEpwTWFidS1SdTAtQ3RZY1pSd2VRUUVZTE5ISUdPRXhZZUowczlobkVuaXBWSGUtdHFWZ1pVTlQ3T3REY0ZBU2YzSVBvNTF1LW9aM3VKdDlxZUhoMmJyZi0?oc=5"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnJrVVptbTMzazQxOGJuUVo0b2dNc2ZKRTU0a0RKUzZ3OFdQMTRHVElSRnBVcmsxYUJxQWQ3bUUxbUptVDVERF94blJWVk5hX3NQZnVhY3pFWW8xM3hTdE90bDVNaEt4R2xfSXRyNVN3Smh2bkdYYk45QjdJdVB4ZzZFQ3A0VGh0Qk1GZzNqX1FETVpJdU5LaVRqU0NPYV9BajJDR2xCeUhrS3RLRnk4QnNhZWt5SWV1Rmt6YTlR?oc=5"
           ]
         },
         {
-          "t": "Federal Funding Boosts Quantum Firms as Indices Slip",
+          "t": "Federal funding for quantum firms and US markets close lower",
           "src": "foreignpolicyjournal.com · Stocktwits",
-          "b": "The United States government provides $300 million in CHIPS Act funding to three quantum computing companies. These firms are D-Wave, Rigetti, and Quantinuum. Major stock indices including the S&P 500, Dow, and Nasdaq end lower as surging oil prices raise the odds for a September rate hike.",
-          "i": "The United States government awards $300 million in CHIPS Act funding to D-Wave, Rigetti, and Quantinuum. Equities indices close lower as rising oil prices increase the probability of a September rate hike from the central bank.",
-          "a": "Federal allocations under the CHIPS Act direct $300 million toward D-Wave, Rigetti, and Quantinuum. Broad equity indices retreat as energy shocks reprice rate expectations for the upcoming Federal Reserve meeting.",
+          "b": "The United States government gave three hundred million dollars in CHIPS Act funding to three quantum computing companies. These companies are D-Wave, Rigetti, and Quantinuum. Meanwhile, major stock indexes like the S&P 500, Dow Jones, and Nasdaq all finished the day lower. Oil prices surged, which increased the chances of a September rate hike by the central bank.",
+          "i": "The United States government awarded three hundred million dollars in CHIPS Act funding to D-Wave, Rigetti, and Quantinuum. Stock indexes including the S&P 500, Dow, and Nasdaq ended lower as surging oil prices lifted expectations for a September rate hike. Higher borrowing costs typically pressure equity valuations across major technology and retail equities.",
+          "a": "The United States government disbursed three hundred million dollars in CHIPS Act funding to D-Wave, Rigetti, and Quantinuum to support domestic quantum computing infrastructure. Simultaneously, equity benchmarks closed lower across the S&P 500, Dow, and Nasdaq as crude oil gains drove expectations for monetary tightening in September. Rate-sensitive equities face multiple compression as terminal rate expectations reprice higher in response to energy-driven <span class='term' data-t='inflation'>inflation</span> risks.",
+          "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdzliN3p1MndIYWxLaHlIV2w1SG8tTkQ0a2MzWGpnTjJsNlRIVHp6N2dRdHpBcmdoeVN6cWRDUVJUQl9kWUlxa1YzYmhYQWlsLTNmNFFZV0EyanExTXJXd2Z6UlcyYnJkZ1k3d3k4OXFDby01Q0pOUnowNkpNcG81QjFlbmxzc01nS0ttcU5nZGlYLTRvX2dlbEpKeW02MjUtOExKWXZhYjNvNXFXRkI5SlZlS2VPM3FXeDk4R1gzQUJzekZtTzBHNG9wbDFoUTRGc2g1RVh2bUdTUHF6RXUtZl9ZdUxERkNnSkNsMDVfNjY?oc=5",
-            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVZPb3ZzUnZxNUQwZ1puTFBTXzdlWkRsSXlmTTNCQnZOS3JETHpNcUwta3ZiQUJDSUQ4VW0ySy1wZGhZUHEzaUpxVnFrcXJaVUx0YWFtWkZWSGJjeW5lY1RwQktKc1RfVTVjY3k5UWpwOGZ4dDV5WFY4SE9xWFprazE0Rll0eWVMcUsxTUllaUxDY1MyMnAyR2VQWUZ3WFdLeHdRNlQwMFJmbzQ5dGFyZ3hndlZRR3I5NDNvdHVuYmFuSDZ2ZnlQaDA3ZzNRRFkyU3lwaGVhTV9CaUR2b0hTTUZwQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVZPb3ZzUnZxNUQwZ1puTFBTXzdlWkRsSXlmTTNCQnZOS3JETHpNcUwta3ZiQUJDSUQ4VW0ySy1wZGhZUHEzaUpxVnFrcXJaVUx0YWFtWkZWSGJjeW5lY1RwQktKc1RfTTVjY3k5UWpwOGZ4dDV5WFY4SE9xWFprazE0Rll0eWVMcUsxTUllaUxDY1MyMnAyR2VQWUZ3WFdLeHdRNlQwMFJmbzQ5dGFyZ3hndlZRR3I5NDNvdHVuYmFuSDZ2ZnlQaDA3WjNRRFkyU3lwaGVhTV9CaUR2b0hTTUZwQQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The United States government backs three quantum computing companies with $300 million in funding under the CHIPS Act. These companies are D-Wave, Rigetti, and Quantinuum. Meanwhile, US inflation remains at 3.4% as fuel prices surge.",
-        "i": "The US government deploys $300 million in CHIPS Act funding to support D-Wave, Rigetti, and Quantinuum. Concurrently, US inflation prints at 3.4% amid surging fuel prices.",
-        "a": "State capital deployment via the CHIPS Act commits $300 million to D-Wave, Rigetti, and Quantinuum. Parallel macroeconomic prints confirm US inflation holding at 3.4% driven by energy price transmission.",
-        "gloss": "inflation"
+        "b": "The United States government supported quantum technology companies with federal funding. Officials directed money from a specific industrial law to advance domestic manufacturing and research.",
+        "i": "The United States government allocated three hundred million dollars in CHIPS Act funding to quantum computing developers D-Wave, Rigetti, and Quantinuum. This federal capital injection supports domestic high-technology research and development initiatives.",
+        "a": "The executive branch deployed three hundred million dollars in CHIPS Act funding toward quantum computing developers D-Wave, Rigetti, and Quantinuum. This targeted industrial policy intervention aims to secure critical domestic technology supply chains against geopolitical vulnerabilities."
       },
       "timeline": [
         [
-          "12 Sep 2026",
-          "US government awards $300 million in CHIPS Act funding to D-Wave, Rigetti, and Quantinuum."
+          "12 Sep",
+          "The United States government backed three quantum companies with three hundred million dollars in CHIPS Act funding."
         ],
         [
-          "12 Sep 2026",
-          "Nasdaq invests $100 million in Kraken parent Payward."
-        ],
-        [
-          "12 Sep 2026",
-          "US indices end lower as surging oil prices raise rate hike odds."
+          "12 Sep",
+          "S&P 500, Dow, and Nasdaq ended lower as surging oil prices raised the odds of a September rate hike."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Bank of England bond sales and Amazon market entry",
+      "sub": "FTSE closes higher and Amazon enters corporate debt market",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of England Faces Pressure Over Bond Sales",
-          "src": "This is Money · The Times",
-          "b": "The Bank of England is the country's central bank, which is the main financial institution that manages the money supply and interest rates. Critics are urging its boss to pause sales of government debt known as <span class='term' data-t='gilts'>gilts</span>. These sales are currently costing UK taxpayers £100bn. Yields on these government bonds are also currently very high. A yield is the annual return an investor gets on a bond, expressed as a percentage.",
-          "i": "Critics are urging the Bank of England to halt ongoing <span class='term' data-t='gilt'>gilt</span> sales that carry a £100bn cost for taxpayers. Market participants are questioning the wisdom of these debt disposals while <span class='term' data-t='gilt'>gilts</span> trade at elevated yields. The central bank faces mounting pressure over the financial strain of these operations on the public purse.",
-          "a": "The Bank of England faces mounting external pressure to suspend its quantitative tightening programme through active <span class='term' data-t='gilt'>gilt</span> sales. Critics highlight the £100bn fiscal cost to taxpayers stemming from these transactions during a period of elevated yields. The debate centres on whether the central bank should alter its balance sheet reduction path while sovereign debt servicing costs remain high.",
-          "gloss": "gilt",
+          "t": "FTSE 100 Closes Higher",
+          "src": "BBN Times",
+          "b": "The FTSE 100 index, which is a list of the biggest companies traded on the London stock market, finished its session up 0.34%. This brought the closing level to 10,650 points. Even with this daily increase, the index still recorded a loss across the whole week.",
+          "i": "The FTSE 100 index finished 0.34% higher at a level of 10,650. London stocks achieved this daily gain despite suffering a loss for the entire week.",
+          "a": "The FTSE 100 closed up 0.34% at 10,650. London equities registered this positive final session despite booking a net decline across the weekly timeframe.",
           "links": [
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHdsZXV1MTJsTlVKM1Z6TVNMaVZweWg4ZjlNSGd2VzZ4OWg5RlFRVDdFZXdkYWh6OWN5YmdNUFp0MTNXS2xLTmJTelp2RXotTU9wc3NDQV9NQk1tRUctdW1HeWJTQmZzY0NKUjNHUndLWUV2bFNOVEZDdkJoSUNrVHhzSVJoQ0NJQlQtMkxoRXdmNmVvXzJ3LWtZSElyV0pZVVMtb3pzLXMzOVMwZi1PV2JwZ1N1bXlzUXhmVVJHOFZnZ0FIYS1oNV90aGxRZ9IB0wFBVV95cUxONjVGdmVLWG81cVhHaUJVbXNXR3RkYWRSZXpldDBwZlk4cXk5ZWhMeFFvcmRyNk9sNDVrcTBIYWxJVFhRU08wbVJ4aEFRVnNadl96UlBqRmgzb3dnMW9lSEE3bHV3dXh0NlVFNkFJc2ZtTkVySFN0NGM1TVJUQmZza0Rua29RQ0o4SE9ZeHJoSXY4MWRXbzUtQlE2SzhrcjlOTFZoX2h6QUt1MFpOTGZsV1pjZlJ6ZUd4VDRKWE84enRYYmV4SWVoUU1uWG5VT0p2UGFZ?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BJd3FmdVlkN29FUXhtRDlLYm5jcVgxNVFFc2lhRjVtVUplU0kyT2Vybmc2RVUyR1Q0dE9xell2ZTBpLVZDRF9KX19fUTFSdTEzTEplR0RnaHpCaXU5LWN6TlNCa0g3WmdHeXp5MXBBVVJPT0dfSjB2SGs1ZXI3dVRkUmV3Rng3WXBZRFJqNVVUTzhYUmEwQ3hsbnJFeUhKRGt0ZlpiaFdnNko4bUlzUkFUVHBVU1FWWmhuQnM0Q0k?oc=5"
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmVSUDhsbGdEdzRPdFBvN2xPUFd0NEJvVlkyS2h2Q09uRFBVVmhQYnRRMHEwNnNMYkRRdXhlZEpZLTVUenZQWmdubWUzeUNEbGk5RnRwdVE5Y3hCeEgyVkJHMnBPaHpvTVFuQk1FSkk3SzkyNTcxWXRPdlJpMFB1ZUNGeVVFQUZkRGJkUEFkdWZvc3kzTF84OV9XQnNramtNQkJRN0hPMUZXMV9Pa0VR?oc=5"
           ]
         },
         {
-          "t": "Amazon Enters Sterling Bond Market",
+          "t": "Amazon Enters Sterling Debt Market",
           "src": "Prop News Time",
-          "b": "Amazon has entered the sterling bond market for the very first time. A bond is a fixed-income investment where an investor loans money to an entity, which borrows it for a defined period at a variable or fixed interest rate. Sterling refers to the British pound currency. Companies use these financial instruments to raise capital from investors.",
-          "i": "Amazon has issued debt in the sterling corporate bond market for the first time. The retail giant utilized the UK currency denomination to secure funding from fixed-income investors. This debut transaction expands the company's borrowing footprint into sterling-denominated instruments.",
-          "a": "Amazon completed its inaugural issuance in the sterling corporate bond market. The corporate treasury tapped UK investors to diversify its funding sources across currency denominations. This primary market entry adds a major technology issuer to the sterling fixed-income landscape.",
+          "b": "Amazon is a massive online retail company. It has now borrowed money in the sterling bond market for the very first time. A bond is like an IOU where an investor lends money to a company in exchange for regular interest payments.",
+          "i": "Amazon entered the sterling bond market for the first time. The corporate borrower issued debt denominated in the British currency to raise funds from investors.",
+          "a": "Amazon accessed the sterling bond market for the inaugural time. The corporate issuer placed debt into the United Kingdom fixed-income space.",
           "links": [
             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGJWSkROdVQzcWY3UUthSjhCMldoUWp1anU1eHhzUWlkMFpORUk0LUhMZ0RDRW9IbnJUVjB3QWhUWjVJaTNvTTFnalBPY2ZEUlpCdUIxZXVSaGc5NU5NbjdTdU9PYXhzSjl6d3g0UzBTaDFIeDdUX1ducDNVZjNLOTJNYVBrNGFfN0pMVkY5dHNPNms5VmtSQXBHQ180aUZVUzJqc0FqbDg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political figures and critics are pressing the head of the central bank to halt specific government debt sales. These ongoing transactions are placing a heavy financial burden on taxpayers across the country. Discussions centre on the high yields currently attached to these public borrowings.",
-        "i": "Political pressure is mounting on the Bank of England governor to suspend quantitative tightening measures. Critics point to the £100bn taxpayer cost associated with ongoing gilt disposals. Lawmakers and commentators are questioning the fiscal sense of selling debt during a high-yield environment.",
-        "a": "Fiscal authorities and market critics are lobbying the central bank leadership to pause balance sheet normalization. The £100bn taxpayer cost of current gilt sales has drawn intense political scrutiny amid elevated sovereign yields. This friction highlights the tension between monetary policy tightening and public debt management costs."
+        "b": "Critics are urging the head of the Bank of England to pause selling government bonds. These ongoing sales are costing UK taxpayers £100bn.",
+        "i": "The head of the Bank of England faced calls to pause gilt sales. Critics point out that these ongoing transactions are costing UK taxpayers £100bn.",
+        "a": "Market participants urged the Bank of England governor to suspend gilts sales. Opponents highlighted that the ongoing quantitative tightening program is incurring a £100bn cost for UK taxpayers."
       },
       "timeline": [
         [
-          "12 Sep",
-          "Critics urge the Bank of England to pause gilt sales costing taxpayers £100bn"
+          "12 Sep 2026",
+          "The Bank of England faced calls to pause bond sales costing taxpayers £100bn."
         ],
         [
-          "13 Sep",
-          "Amazon enters the sterling bond market for the first time"
+          "12 Sep 2026",
+          "The FTSE 100 closed 0.34% higher at 10,650 despite a weekly loss."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "Stocks rise and central bank watches politics",
+      "sub": "Frankfurt Index slips on rate hike and oil surge",
       "ind": [],
       "stories": [
         {
-          "t": "Deutsche Borse Stock Rises on Growth Figures",
-          "src": "ad-hoc-news.de",
-          "b": "Deutsche Borse is a company that runs the German stock market, which is a marketplace where people buy and sell shares of companies. Shares are tiny slices of ownership in a business. Investors bought more shares after looking at recent growth figures. The stock price went up on 12 September 2026.",
-          "i": "Deutsche Borse shares climbed on 12 September 2026 as market participants digested recent growth figures. Traders pushed the equity higher following the data release. The exchange operator experienced positive price movement during the trading session.",
-          "a": "Deutsche Borse equities advanced on 12 September 2026 as market participants priced in recent macroeconomic growth metrics. Order flow picked up following the data digestion. The valuation expansion reflects short-term positioning shifts among institutional participants.",
+          "t": "DAX 40 Slips as ECB Raises Rates",
+          "src": "BBN Times",
+          "b": "The DAX 40 is a stock index. An index tracks the grouped value of major companies. The DAX 40 slipped 1.83% to 25,569. An ECB rate hike made borrowing more expensive. An oil surge also weighed on German stocks.",
+          "i": "The DAX 40 slipped 1.83% to 25,569 over the week. Frankfurt equities declined as an ECB rate hike tightened monetary conditions. Higher crude costs compounded the pressure on German shares.",
+          "a": "The DAX 40 contracted 1.83% to 25,569 amid macroeconomic headwinds. ECB tightening compressed valuations across the Frankfurt index. Concurrently, an energy price surge acted as a supply-side drag on equities.",
           "links": [
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFUtb3IydXZna0plNzlHdEJjMC1ISTRaWUFBSHZyRkJlS3lzUzVBLVlyVU9qSl92UTlJUlNVcFJLc3Zna3Q2NVRUbTROT1ZHMTI0U2lNUlVyZ2JUTm1wWWpwTVNGcU1FSmo5MXREaW1NajFqV1lIYzJGOFdmUDlYa3FkLVpTMm1jVE16NWljNDd3TmlSenAySF9HbTJWWjY1ZjBrUkpOaXFmTnd1VWd6NnJSekJzcWRNUFJEWGJBeEFhZXg1b0hrMW40ZHU?oc=5"
+            "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRnlNdGJ5dzE2SnBSWkg5bWNNeTMxVVZSdzN1WF9oWDVLN3AzLXpNa3NTVG9vX09FMkFSN2NKcGJCYV8takU0bWtOdXlZeW9DaDR2Ql9lVDg3ZkZHbHhmdElIOS1OdkhfdHlFenh0TjVqWkl3bUFtVXJWOG9OM292YTNLaFdzVnpqanloblBSVWVRNG4wSHNPNnpuTmNQallwUWpRa20tMFpjbXV1dzB1c0psSXZ5WE13TjV1ZVNMbEhrcGlhWGlpX3FOcTU3ZmEyVDd5YzhKRVV4S1ZwaXpNTnZXNWJ1dw?oc=5"
           ]
         },
         {
-          "t": "Bundesbank President Expresses Concern Over Far Right",
-          "src": "The Business Standard",
-          "b": "Bundesbank is the central bank of Germany, which is the official institution that manages the country's money and banking system. Joachim Nagel is the president of this bank. He spoke out about his worry regarding the rise of the far right. He shared these concerns on 12 September 2026.",
-          "i": "Bundesbank President Joachim Nagel voiced apprehension regarding the rise of the far right. The central bank head made his remarks public on 12 September 2026. Political developments prompted the official commentary from the monetary authority.",
-          "a": "Bundesbank President Joachim Nagel articulated institutional apprehension regarding the rise of the far right on 12 September 2026. The central bank executive addressed political tail risks outside his core monetary mandate. Market participants monitor such commentary for potential impacts on domestic policy stability.",
+          "t": "Deutsche Börse Stock Gains on Growth Figures",
+          "src": "ad-hoc-news.de",
+          "b": "Deutsche Börse is a company that runs stock exchanges. Its stock gained value recently. Investors digested recent growth figures. This happened around September 12, 2026.",
+          "i": "Deutsche Börse shares advanced during the session. Investors parsed fresh macroeconomic growth figures released on September 12, 2026. Market participants adjusted portfolios following the data release.",
+          "a": "Deutsche Börse equity outperformed as market participants digested incoming growth metrics. Price action reflected institutional repositioning following macroeconomic prints published on September 12, 2026.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkZNMl9LbDF4VU5KcFk1RXNIT2FkRGw4ZUFNTW5vMjBlaVJ2WTAtVjlZTWotckN1YUlSTGVsekhOcVBkanZyVS14TUozV1hIaXNJVzJEN2JDYnlrX2ZBc09aTm5RZ195TXFHR0MybXVjVDdaN3V6bjJIYWRQaXpneV9yejNDR05IUVBUbkJ6bnlwVGgwWWc2bDljQXRUOUozYlBzbHFjUndtMFJOVHFsU2xsdC3SAboBQVVfeXFMTktZdmQwaUFVWFktQzVnTW8zV1ZDd1AtTnV3UHowaFhFeDdVV1lBYmUzU1pPMTdsRW16VHVGd0VSLTAzSEZRM1ZZZW9LRUg0WWJpaGI0dERCSEFhblJJSWNSb0ptQXNUMzlyWWhNWjNGVmwzNGt3ckpaMGhNaXYwZzhYNnN2YUhNUU9taFdyclAwdVlNWXVnNFNjMjdtbFVVb1B1MWtWMWdaZmZyOWZIZTQxdUFRZDR3VFFB?oc=5"
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFUtb3IydXZna0plNzlHdEJjMC1ISTRaWUFBSHZyRkJlS3lzUzVBLVlyVU9qSl92UTlJUlNVcFJLc3Zna3Q2NVRUbTROT1ZHMTI0U2lNUlVyZ2JUTm1wWWpwTVNGcU1FSmo5MXREaW1NajFqV1lIYzJGOFdmUDlYa3FkLVpTMm1jVE16NWljNDd3TmlSenAySF9HbTJWWjY1ZjBrUkpOaXFmTnd1VWd6NnJSekJzcWRNUFJEWGJBeEFhZXg1b0hrMW40ZHU?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Bundesbank President Joachim Nagel spoke about politics on 12 September 2026. He stated his worry about the rise of the far right in Germany. Central bankers usually focus on money, but he addressed this political trend directly.",
-        "i": "Bundesbank President Joachim Nagel stepped outside traditional monetary matters to address domestic politics. He flagged his unease regarding far-right political gains on 12 September 2026. The remarks came during a period of broader financial market activity.",
-        "a": "Bundesbank President Joachim Nagel expanded his public commentary beyond inflation and banking supervision to address electoral trends. He highlighted risks associated with far-right political momentum on 12 September 2026. Institutional leaders continue to factor domestic political polarization into broader economic sentiment assessments."
+        "b": "Christine Lagarde spoke about Europe in Normandy and gave an interview to Ouest-France. These events occurred on September 12, 2026.",
+        "i": "Christine Lagarde addressed European topics from Normandy on September 12, 2026. She also gave an interview to Ouest-France on the same date.",
+        "a": "Christine Lagarde delivered remarks regarding European integration and policy from Normandy on September 12, 2026. Ouest-France published a concurrent interview with her on September 12, 2026."
       },
       "timeline": [
         [
-          "11 Sep 2026",
-          "European stocks traded across regional exchanges including German listings."
+          "12 Sep 2026",
+          "Christine Lagarde spoke in Normandy and gave an interview to Ouest-France."
         ],
         [
           "12 Sep 2026",
-          "Bundesbank President Nagel expressed concern over the rise of the far right."
+          "Deutsche Börse stock gained as investors digested growth figures."
         ],
         [
           "12 Sep 2026",
-          "Deutsche Borse stock gained as investors digested recent growth figures."
+          "The DAX 40 closed the week down 1.83% at 25,569."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan considers rate hike and Nidec exits Cambodia",
+      "sub": "Bank of Japan weighs rate rise as currency rallies",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Considers Rate Increase",
+          "t": "Bank of Japan considers rate rise to 1.25%",
           "src": "The Japan News",
-          "b": "The Bank of Japan is the country's central bank, which is the main financial institution that manages the nation's money and interest rates. Officials are considering raising interest rates to 1.25%. This discussion takes place during a meeting scheduled for Thursday and Friday.",
-          "i": "The Bank of Japan evaluates a potential rate hike to 1.25%. Policymakers deliberate the adjustment during their upcoming meeting on Thursday and Friday. Officials assess borrowing costs as part of broader macroeconomic adjustments.",
-          "a": "The Bank of Japan deliberates a policy rate adjustment to 1.25% ahead of the Thursday and Friday board meetings. Market participants reprice sovereign debt trajectories in anticipation of tightening. The monetary authority weighs domestic wage trends against external price pressures.",
+          "b": "The Bank of Japan is the country's central bank, which sets monetary policy and interest rates. Officials are considering raising interest rates to 1.25%. This meeting takes place on Thursday and Friday. Borrowing costs would increase if policymakers approve this change.",
+          "i": "The Bank of Japan evaluates a policy rate increase to 1.25% ahead of its upcoming meeting on Thursday and Friday. This shift in stance follows recent currency resilience despite rising global yields. Markets are pricing the policy adjustment as officials assess domestic economic conditions.",
+          "a": "Policymakers at the Bank of Japan deliberate a rate hike to 1.25% for the Thursday and Friday meeting. The central bank confronts divergent global cross-currents as U.S. yields test 5% and oil reaches $110. The implied path of the policy rate will adjust terminal rate expectations if the board validates the move.",
           "links": [
             "https://news.google.com/rss/articles/CBMic0FVX3lxTE01eHMyek5nRmJob25pVjhQSTI2eldmQ2tqUUNtSmRVRmd2SlNmajVhWVVkbEdTa0R2Ujh5NDhPVDYzUDY5RVpZNDdMbERPVzVQODJfUFFDODZoV2RseFIwZzRCMXdlSzdORDhMLUh0cW4zSjQ?oc=5"
           ]
         },
         {
-          "t": "Nidec Withdraws from Cambodian Operations",
-          "src": "Nikkei Asia",
-          "b": "Nidec is a Japanese manufacturing company. The firm decided to stop production in Cambodia. This exit is driven by a border conflict involving Thailand.",
-          "i": "Nidec terminates its manufacturing footprint in Cambodia. Regional operational risks force the corporate relocation. Management cites the ongoing border conflict with Thailand as the primary catalyst.",
-          "a": "Nidec halts Cambodian production lines due to geopolitical friction. The cross-border dispute involving Thailand compromises regional supply chain viability. Management executes a strategic withdrawal to mitigate operational disruption.",
+          "t": "Yen rallies against global headwinds",
+          "src": "finance.biggo.com",
+          "b": "The yen is the official currency used in Japan. It strengthened in foreign exchange markets. This happened even though oil prices reached $110 and American bond interest rates stayed near 5%.",
+          "i": "The yen strengthened against major currencies despite persistent pressure from global factors. U.S. yields remained near 5% while oil traded at $110. This unexpected <span class='term' data-t='carry'>carry</span> dynamic surprised foreign exchange participants.",
+          "a": "The yen rallied despite external headwinds including U.S. yields holding near 5% and oil trading at $110. Realized volatility in currency crosses forced a reassessment of short positions. The resilience challenges prevailing funding currency assumptions.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHEzWllwM0ljQ3RZZ2dkemZzS01pN1pocTJ4RzhaRkV6MUJpaFlCVnR3TXRFS1hnaW15eXdPNkpnZUo0bTBBWWRiZ2haSjlrdm1OQnVWRloxQ0NWQkM3M2pJbzZ3b2trMXdQZDhmOGZCV2lnMVNxVjJtSjlacklBTTdmQUJTYTRPalctU3ZzaW9MY2dXcjBib3REZ01WdDN3WjNkU3hMcDhzVTlZYjNDaWxoOE1xTWhwY25vbW1yOXN6bGVLRWtWSWJZbTZ3ZjU4NThnSHAycWI3ZGNPZFp2VldIeEZJM1hkWXhY?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XZ05BcE5RQXhVNGc4aWNTTXpQVG96dlVjNUFXVkY2QW9uUXhpYjNFNFpMUkY0SEJPYkttLWxlWndFVnlXYmk5di1PVlFFWVdOQ29Yck5HaDVOdHhrWXhEQzhOMDBxalhuOU8wbW5JVDlLOXJpRGc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials handle foreign border disputes affecting corporate investments. Economic policies remain tied to upcoming central bank decisions.",
-        "i": "Policymakers monitor regional security spillovers affecting Japanese direct investments abroad. Monetary authorities deliberate policy tightening independently of geopolitical friction.",
-        "a": "Geopolitical friction along the Thai-Cambodian border forces corporate adjustments for Japanese multinationals. Monetary policy deliberations proceed in parallel with corporate supply chain realignments.",
-        "sources": {
-          "0": {
-            "outlet": "Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHEzWllwM0ljQ3RZZ2dkemZzS01pN1pocTJ4RzhaRkV6MUJpaFlCVnR3TXRFS1hnaW15eXdPNkpnZUo0bTBBWWRiZ2haSjlrdm1OQnVWRloxQ0NWQkM3M2pJbzZ3b2trMXdQZDhmOGZCV2lnMVNxVjJtSjlacklBTTdmQUJTYTRPalctU3ZzaW9MY2dXcjBib3REZ01WdDN3WjNkU3hMcDhzVTlZYjNDaWxoOE1xTWhwY25vbW1yOXN6bGVLRWtWSWJZbTZ3ZjU4NThnSHAycWI3ZGNPZFp2VldIeEZJM1hkWXhY?oc=5"
-          },
-          "1": {
-            "outlet": "The Japan News",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01eHMyek5nRmJob25pVjhQSTI2eldmQ2tqUUNtSmRVRmd2SlNmajVhWVVkbEdTa0R2Ujh5NDhPVDYzUDY5RVpZNDdMbERPVzVQODJfUFFDODZoV2RseFIwZzRCMXdlSzdORDhMLUh0cW4zSjQ?oc=5"
-          }
-        }
+        "b": "Japan's new retrial rules maintain fundamental flaws according to critics. Legal experts point out that structural issues remain unaddressed in the updated judicial framework.",
+        "i": "Japan implemented revised retrial rules that preserve underlying systemic flaws. Legal analysts report that structural deficiencies persist within the updated procedural framework.",
+        "a": "The revised retrial rules in Japan leave fundamental procedural flaws intact. Legal observers note that the statutory amendments fail to resolve core evidentiary imbalances."
       },
       "timeline": [
         [
-          "12 Sep 2026",
-          "Nidec announces its exit from Cambodia production due to a border conflict with Thailand"
+          "12 Sep",
+          "Tourists in Niseko spent an average of 580,000 yen according to a survey"
         ],
         [
-          "12 Sep 2026",
-          "Reports emerge that the Bank of Japan considers a rate hike to 1.25%"
+          "12 Sep",
+          "The Bank of Japan scheduled a policy meeting for Thursday and Friday"
+        ],
+        [
+          "13 Sep",
+          "Reports indicated Apple will pay Samsung 38,000 yen per display"
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Deals, currency outlooks, and corporate sales updates",
+      "sub": "Corporate deals, currency outlooks, and tech pre-orders",
       "ind": [],
       "stories": [
         {
-          "t": "Mining Conference Generates Deals",
-          "src": "bastillepost.com",
-          "b": "Companies at a large gathering in the mining sector made deals worth 300 million yuan. This money represents official agreements signed during the event. Events like this help businesses find new partners and sell raw materials. The 2026 China mining conference hosted these transactions.",
-          "i": "The 2026 China mining conference generated 300 million yuan in deals. Such commercial gatherings facilitate capital formation within resource industries. Transactions concluded on the floor reflect ongoing industrial demand.",
-          "a": "The 2026 China mining conference yielded 300 million yuan in closed agreements. Commercial activity at these conventions acts as a localized proxy for sector-wide capital expenditure. Final contract values capture spot demand across domestic extractive industries.",
+          "t": "Apple device pre-orders sell out rapidly",
+          "src": "finance.biggo.com",
+          "b": "Apple launched pre-orders for the iPhone 18 Pro in China. The phones sold out in minutes. Resale prices spiked immediately after the initial stock disappeared.",
+          "i": "Apple experienced rapid pre-order sell-outs for the iPhone 18 Pro in China. Demand overwhelmed initial supply within minutes. Resale prices rose sharply on secondary markets.",
+          "a": "Apple recorded immediate sell-out conditions for iPhone 18 Pro pre-orders in domestic channels. Secondary market premiums expanded significantly above retail price. Supply chain constraints continue to dictate near-term arbitrage margins.",
           "links": [
-            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGNRNXgxa3dPaWEtdzFsc291ckk2cDhKeEx6NzZLUGFzeHNscVVhODBma21pbDlvLWhlUXBPaU9ad09xUC1GQzN6SFBHdUc3OXlzVVY2YkFxM1lPcm50cng0V3NPc3ZIN3R6aUxnblNFbXUyb2RIMDVBYURQdXNqZHNBN0kxakJJampWODlOOUZMaktoOHpzWDIzaGFVMWRKZEVaWEdIbkFZeGFMS1E?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FZk9JaVpVQXBGVjdmaUY3TzBMaWJta00wcnJBQWtaWGpKUnhMV1d6cmxYNDRJU2szNXZpcHluWkJOS1FRenBpa0R6c3RGLXk0NGRfRElISTZRenQwYjA1UWtBLURNRnJzSDZ0YmYyaGdKWkllMHc?oc=5"
           ]
         },
         {
-          "t": "Share Sale Ends Early After Cash Out",
-          "src": "finance.biggo.com",
-          "b": "The main owner of a company named Xinfengming stopped selling their shares ahead of schedule. They managed to cash out 753 million yuan before halting the plan. Observers noticed worry about cash flow during this period. The early stop comes alongside these money worries.",
-          "i": "Xinfengming's controlling shareholder ended a share sale early. The insider cashed out 753 million yuan prior to halting the disposal. Market participants noted that cash flow concerns emerged alongside the transaction.",
-          "a": "Xinfengming's controlling shareholder terminated a secondary share disposition prematurely. The insider liquidated 753 million yuan in equity before pulling the remaining offer. The abrupt halt coincided with emerging liquidity and cash flow concerns surrounding the issuer.",
+          "t": "Foreign exchange reserves and currency forecasts",
+          "src": "Exchange Rates UK · WSJ · FXStreet",
+          "b": "China's foreign exchange reserves increased over the period. Meanwhile, banks like UBS expect the exchange rate between the US dollar and the Chinese yuan to fall to 6.50. Other financial institutions note that bullish momentum for the yuan is fading against the dollar.",
+          "i": "China's foreign exchange reserves continued to climb. UBS projected that the USD/CNY exchange rate would decline to 6.50. UOB reported that the bullish bias for the Chinese yuan against the dollar is fading.",
+          "a": "China reported continued expansion in foreign exchange reserves. UBS maintained its target for USD/CNY to move down to 6.50. UOB observed fading bullish momentum for the Chinese currency in spot FX trading.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vTFJSUDNKeEt0U2xFNXE5U0MyVzl1ZXlFS1dyRjBsRi1NUWp2dl9jRWladDZZOERoTkY5eWpGR01lN3B1OGc3ZnVMeTVJeXl3VFRzLTI4YUYtSVR4STh3VURQUDdMT2ZBcWpveEJoTE10WVF3OHc?oc=5"
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZi1WaE5lY2x0YmR5MWpOcDRzX0hhMHdhTlJLTTAyaFB1WUxyODNUZ3NnT0xMaUwzaHdmcDdXcEZFOFRhTEg1WmFfRzJuT2VwaGxGOExIZmhsVGp0NUdVRE93YTB2R083Q01zc1RzT25kbjk5XzFLX0NDTFRfbExodnNjS1pnUmpSd1lYb3hWa2s2TGxHcVlHVjVvVUF2ckpVYURqbDJnWTI2UUF5bEs0WGF3Z1NMLTBNQjRF?oc=5",
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2xJYjQ5ODNZdUhoT2Fha0hEUWRrM3NHbXZ1SmNjMlM1RVhtbUlOTmkxa18yT2hGamx6OGItZS13SnJuVkY4RHA4a0tWZ0FpNXhDcjNfRFFEYm01THF3a0NONUl3MGNLOUh5NFJvY3NRMmhabHdaMzNmc1JwN2RlWFQteWRIRDF3NlMweUFmRlg?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeFhsYWs2cFRnX1JfSWtDQXh6c3U4bzVYNUJ6UXBzV3ViN0I0RlB6UjdSTmxoQzMxM2NpLVJsY0ItZTFWOVVGMG1CZkZCQ1ZPNHRTX2RnQllaaTVLYklGNC00ZkNEUmtac21uaU5KNXFXQlRWUmZsS0dObU9BNlYzdkZuaUN1cEh3YmtfXzA0dEdJck1EckZJSkxITXhTeGRxdUlIckVHQ3czZy1DY0pn?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Big technology companies like Alibaba and Huawei are investing money into a small city in Inner Mongolia. This city is famous for selling potatoes. The investments total tens of billions of yuan. Local leaders welcome these funds to build up the area.",
-        "i": "Alibaba and Huawei committed tens of billions of yuan in investments to a small Inner Mongolian city. The municipality is traditionally known for potato sales. Corporate capital inflows aim to develop regional infrastructure.",
-        "a": "Alibaba and Huawei channeled tens of billions of yuan into a secondary Inner Mongolian municipality historically recognized for agricultural output. Corporate deployment targets regional digital and industrial capacity. Municipal authorities secured these capital commitments.",
-        "c": null
+        "b": "Local authorities and state entities managed investments and conferences across various regions. Mining deals and tech projects brought billions of yuan in funding. Industrial sectors adjusted prices and supply strategies.",
+        "i": "Regional development initiatives attracted large-scale investments from technology firms like Alibaba and Huawei. Mining conferences generated hundreds of millions in local deals. Industrial firms adjusted pricing models shortly after product launches.",
+        "a": "Sub-national investment inflows from major technology conglomerates targeted regional development zones. Mineral sector summits secured substantive transaction volumes. Industrial manufacturers compressed product pricing cycles within months of initial commercial releases."
       },
       "timeline": [
         [
-          "12 Sep 2026",
-          "Xinfengming's controlling shareholder ended a share sale early after cashing out 753 million yuan."
+          "12 Sep",
+          "VW Anhui cuts prices for the ID. UNYX 08 SUV"
         ],
         [
-          "12 Sep 2026",
-          "The 2026 China mining conference generated 300 million yuan in deals."
+          "12 Sep",
+          "Mining conference generates 300 million yuan in deals"
+        ],
+        [
+          "12 Sep",
+          "Enflame completes listing on the STAR Market"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Tata listing rules and rupee pressure hit Indian markets",
+      "sub": "Sensex slips, central bank denies Tata Sons, rupee drops",
       "ind": [],
       "stories": [
         {
-          "t": "Central Bank Denies Tata Sons Waiver",
-          "src": "India News Network · Reuters",
-          "b": "The Reserve Bank of India is the main bank that oversees other banks and sets money rules in the country. This central bank rejected a request from Tata Sons. Tata Sons wanted to avoid listing its shares publicly on the stock market. Rules require large upper-layer companies to float shares on public exchanges within a specific timeframe.",
-          "i": "The Reserve Bank of India turned down an appeal from Tata Sons to bypass mandatory public listing rules. Regulatory guidelines classify the firm as an upper-layer NBFC, which forces the entity to float shares publicly. Sources confirmed the central bank rejected the private stay application.",
-          "a": "The Reserve Bank of India rebuffed Tata Sons' petition for exemptive relief from scale-based regulatory frameworks. Classification as an upper-layer non-banking financial company mandates public equity issuance under existing statutory timelines. Market sources confirmed the monetary authority upheld the mandatory listing requirement without concessions.",
+          "t": "Stock Market and Currency Drops",
+          "src": "BBN Times · HDFC Sky",
+          "b": "The BSE Sensex is an index, which is a group of important company stocks tracked together to show how the stock market is doing. This index dropped by 2.26% to 74,782 over the week. The Indian rupee currency also dropped by 1.1% to 95.57. This happened because foreign institutional investors sold shares and the price of crude oil went above $102.",
+          "i": "The BSE Sensex index fell 2.26% to 74,782, marking a fifth consecutive week of losses. Foreign institutional investors sold local shares during this period. Meanwhile, the Indian rupee fell 1.1% to 95.57 as Brent crude oil climbed above $102.",
+          "a": "The BSE Sensex declined 2.26% to 74,782, extending its losing streak to a fifth week on sustained FII outflows. Concurrently, the Indian rupee depreciated 1.1% to 95.57, driven by Brent crude breaching the $102 threshold and erasing early-September gains.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmdnaGM2eWtXODlBYW00SEFyODQtc1F3dUs4ek83MjZNdFBkVlBmLWFDdmNyNnh4ZVpiZVdvaU1pTWZ5R0NNX1dodEhCcG1CM2pTaEx6cnNqNXBPRkRUNmlzcmxqZnRjTU5HeUF3VDZvTnlhcndOQjZhM200WFVlLTY2ZTYxR2J6ZEpsMXIwelB4OHJaSFFtWXVrSHlFTDBfYXg4?oc=5",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5"
+            "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSUZ3TzRNdnpmSkdHTE5jTUdyUnRIOU1Wd2c4RklBLUg5QjdJU1NUZ2JPUjVmRlQ5YXR2MW9QVjhjcnpDYmFXM0dvZFpfamNZX0dPbmlYenpOZ1pDbVFzWUszS01pRWFBTnp4WnZoei1EbXNYNzBvRzhHTWVEMm5PY253RWdjQmhiRkdmUEphSkduMHdncnVLd1U5Y1VzYUpSaEd6eHJLMFVUdkpOV00xX3dzNHNIQVFSbE1oZGtrcHFmUlhrX0dLaUIzaFlFVW4xd29zR1FobnpIMVAyWHg4bTBIZ3JBR2JQaFlzbVY5RnhXUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZi1xS0pTR1VuTDFyemc5cm9sSnNJV19yUUZPM3QyNWhQSl9vUW9FYWFhR3loUE15STJlanlydkN0QXpNOHZ5U05XMDc1SS02SlFOREpJeXRaNVZ2OTF0a2dwYWtfUHNtZDA1MHBUTHNyR3lwWnQ1TEFxWk9LZUNfVG91Y1YxV1VvSkRzOUdHTF8xeGVyT2YyZEZoNS1yejhoc00ydTBVVDg?oc=5"
           ]
         },
         {
-          "t": "Rupee Slumps and Stocks Drop on Oil Prices",
-          "src": "HDFC Sky",
-          "b": "The Indian rupee is the official money used in India. It fell by 1.1% to reach 95.57 against other currencies. The Sensex index, which tracks major company shares, dropped by 1,734 points to close at 74,781. This decline happened because Brent crude oil prices climbed above $102 and $109.",
-          "i": "The Indian rupee depreciated by 1.1% to 95.57 amid surging energy costs. Brent crude breaching $102 and subsequently $109 erased early-September currency gains. The Sensex index plunged 1,734 points to 74,781, marking the fifth straight weekly loss for the Nifty.",
-          "a": "The Indian rupee weakened 1.1% to 95.57 as Brent crude surpassing $102 and $109 triggered severe macroeconomic headwinds. Energy import pressures eroded early-September gains and catalyzed a 1,734-point plunge in the Sensex to 74,781. The Nifty extended its weekly losing streak to five consecutive periods amid broad equity liquidation.",
+          "t": "Reserve Bank of India Rejects Tata Request",
+          "src": "Reuters",
+          "b": "The Reserve Bank of India is the country's central bank, which is the main financial institution that runs monetary policy and regulates banks. This central bank rejected a request from Tata Sons to avoid a public listing. Tata Sons wanted to stay private. Sources shared this news with reporters.",
+          "i": "The Reserve Bank of India rejected a request from Tata Sons to avoid a public stock market listing. Tata Sons sought to remain a private entity. Reuters sources reported this regulatory decision.",
+          "a": "The Reserve Bank of India denied Tata Sons an exemption from mandatory public listing requirements. Tata Sons had petitioned to bypass the regulations governing upper-layer non-banking financial companies. Anonymous sources leaked the decision.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZi1xS0pTR1VuTDFyemc5cm9sSnNJV19yUUZPM3QyNWhQSl9vUW9FYWFhR3loUE15STJlanlydkN0QXpNOHZ5U05XMDc1SS02SlFOREpJeXRaNVZ2OTF0a2dwYWtfUHNtZDA1MHBUTHNyR3lwWnQ1TEFxWk9LZUNfVG91Y1YxV1VvSkRzOUdHTF8xeGVyT2YyZEZoNS1yejhoc00ydTBVVDg?oc=5",
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUJ6WjMzT2Z6eTVtOG00Z2F0cUdSOUxRQlBTTlpNWVhfRDFmallaRVBwNE95YTY4NXhIWnBuZlNXRlktMGhxT2hBUUprUUd4SlRxS09uMERQbnZGRmNoaEVyYjRYTXM3OUV1T3FVVUMtQXh1RkdtMUllVlYzdUowOUdGOFduQUoyU1JyR3UxSVVJY05oLTBJSjRvdlZVdkVmbDljdjVEMlhFZzUzSXA5Q0Z3NE9zYi1ibHJKdF9oY05jWnBXVlFGUDVfdm4?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05IcXBJNHdXTXV4bU10YktxWHc2ajdNUk9OQi0xYmdfMk9kM0FubFhITEVuNVpQYVpBX2ROY3cxUGdXOGNZeDJJdndEbngxUnZpYnBVVWNCdXNnaDZZWWFQTlNyOEFsUVBCVnN3YWNkUEVUVzctbmUyOGNpNk5UdnQ0eWlJYzE0T1dqb3NFRDQ2OEJyakxfUXlwWHpXZW9GQkpJU0xHLV9FUjNKZDA0bXlOSmRWTHBlVWZ4NjBvTWpETDJx?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Prime Minister Modi met with Xi Jinping during the BRICS summit in New Delhi. The leaders held talks on the sidelines of the international gathering.",
-        "i": "Prime Minister Modi met with Xi Jinping on the margins of the BRICS summit in New Delhi. Bilateral discussions took place during the diplomatic summit.",
-        "a": "Prime Minister Modi engaged in diplomatic talks with Xi Jinping on the margins of the BRICS summit in New Delhi. The bilateral meeting occurred amidst concurrent macroeconomic pressures in domestic markets."
+        "b": "Prime Minister Narendra Modi met with Xi Jinping during the BRICS summit in New Delhi. They talked on the sidelines of the event. The summit brought international leaders together in the capital.",
+        "i": "Prime Minister Narendra Modi met with Xi Jinping on the margins of the BRICS summit held in New Delhi. The leaders held discussions during the multi-nation gathering. Both officials addressed diplomatic relations at the event.",
+        "a": "Prime Minister Narendra Modi engaged in bilateral discussions with Xi Jinping on the sidelines of the BRICS summit hosted in New Delhi. The meeting occurred amidst regional diplomatic engagements. Both heads of state conferred on the margins of the multilateral forum.",
+        "comma": null
       },
       "timeline": [
         [
-          "12 Sep",
-          "Reserve Bank of India denies Tata Sons request for private stay on public listing."
+          "12 Sep 2026",
+          "The Reserve Bank of India rejected Tata Sons' request to avoid a public listing."
         ],
         [
-          "12 Sep",
-          "Rupee slumps 1.1% to 95.57 as Brent crude tops $102 and $109."
-        ],
-        [
-          "12 Sep",
-          "Sensex plunges 1,734 points to 74,781 in fifth straight weekly loss."
+          "12 Sep 2026",
+          "Prime Minister Narendra Modi met Xi Jinping on the margins of the BRICS summit in New Delhi."
         ]
       ]
     },
@@ -375,177 +327,158 @@
       "ind": [],
       "stories": [
         {
-          "t": "European Investment in Latin American Stocks Reaches 15-Year Peak",
-          "src": "Financial Times · Bank of Russia",
-          "b": "European money flowing into Latin American company shares reached a fifteen-year high. Shares are pieces of ownership in a company that people buy and sell. This means European investors put more money into Latin American businesses than at any point since fifteen years ago. The Bank of Russia published official exchange rates on twelve September two thousand twenty-six.",
-          "i": "European investment in Latin American equities touched a fifteen-year peak. Equity markets absorbed higher capital inflows from Europe during this period. The Bank of Russia recorded official exchange rates on twelve September two thousand twenty-six.",
-          "a": "European capital allocations into Latin American equities achieved a fifteen-year high. Cross-border portfolio flows accelerated into the region's public markets. The Bank of Russia documented the official exchange rates on twelve September two thousand twenty-six.",
+          "t": "European Funds Buy Latin American Equities",
+          "src": "Financial Times",
+          "b": "European investment in Latin American stocks reached a 15-year high. Stocks are shares, which are small pieces of ownership in a company that people buy and sell. Money from Europe poured into these regional markets in large amounts. This reflects the highest level of European buying in the region since 2011. The figures come from recent market tracking data.",
+          "i": "European investment in Latin American equities surged to a 15-year peak. Regional shares captured capital allocations not seen since 2011. Portfolio managers across Europe drove the inflows into the Latin American market. Financial Times reported the milestone data on September 12, 2026. The tracking metrics confirmed the multi-year high in cross-border capital flows.",
+          "a": "European allocations into Latin American equities scaled a 15-year peak, eclipsing levels last observed in 2011. Cross-border capital flows concentrated in regional <span class='term' data-t='inflation'>inflation</span>-sensitive sectors as institutional mandates shifted. Portfolio rebalancing drove the velocity of capital crossing from European desks into Latin American exchanges. Financial Times published the metrics on September 12, 2026.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2JxUEczdktDdzN2dFhLX29Bd29XRTJUeGlhcUlFN0ZSNFBkZGhQRGdIWDVwcVB2Z1RHMTJ0TDBfSW5BOUV4MmtuNmN1ZzZGT2lYS0t4eGVlSHBUTXBDekJuMmdSZE5zckZiSTFDZG02cmxoMWhiZ1lyMERWZW41R1NzOHA?oc=5",
-            "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5"
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2JxUEczdktDdzN2dFhLX29Bd29XRTJUeGlhcUlFN0ZSNFBkZGhQRGdIWDVwcVB2Z1RHMTJ0TDBfSW5BOUV4MmtuNmN1ZzZGT2lYS0t4eGVlSHBUTXBDekJuMmdSZE5zckZiSTFDZG02cmxoMWhiZ1lyMERWZW41R1NzOHA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Bank of Russia published official exchange rates on twelve September two thousand twenty-six.",
-        "i": "The Bank of Russia registered official exchange rates on twelve September two thousand twenty-six.",
-        "a": "The Bank of Russia logged the official exchange rates on twelve September two thousand twenty-six."
+        "b": "The Bank of Russia published official exchange rates on September 12, 2026. These rates show how much foreign currencies cost compared to each other. Central banks manage money for their nations. The central bank data covers selected trading dates.",
+        "i": "The Bank of Russia published official exchange rates on September 12, 2026. The central bank documented currency values for selected trading dates. Foreign exchange markets processed these official valuations. The central bank maintains records of daily currency conversion metrics.",
+        "a": "The Bank of Russia issued official exchange rates on September 12, 2026. The central bank documented cross-currency valuations across selected trading sessions. Foreign exchange desks utilized the published rates for settlement calculations. The central bank maintains these official valuation metrics."
       },
       "timeline": [
         [
           "12 Sep 2026",
-          "The Bank of Russia published official exchange rates."
+          "European investment in Latin American stocks reached a 15-year peak according to the Financial Times."
+        ],
+        [
+          "12 Sep 2026",
+          "The Bank of Russia published official exchange rates for selected dates."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Oil infrastructure strikes and output levels in Saudi Arabia",
+      "sub": "Oil output and infrastructure under pressure in Saudi Arabia",
       "ind": [],
       "stories": [
         {
-          "t": "Energy Facilities Face Strikes and Output Shifts",
-          "src": "whispersinthecorridors.net · cedarnews.net · srpske.rs",
-          "b": "Houthi drone and missile strikes hit Saudi Aramco facilities in Abha, Najran, and Jizan. The Abha Aramco Bulk Plant was destroyed in a new strike. Saudi oil output fell to 6.24 million barrels a day. Saudi Aramco explores oil exports via the Red Sea to avoid the Strait of Hormuz.",
-          "i": "Houthi drone and missile strikes hit Saudi Aramco facilities in Abha, Najran, and Jizan, destroying the Abha Aramco Bulk Plant. The attacks preceded a drop in Saudi oil output to 6.24 million barrels a day. Saudi Aramco subsequently seeks to reroute crude away from the Strait of Hormuz through Red Sea export paths.",
-          "a": "Houthi kinetic strikes on Saudi Aramco infrastructure in Abha, Najran, and Jizan culminated in the destruction of the Abha Aramco Bulk Plant. The security shock coincided with Saudi oil output dropping to 6.24 million barrels a day. Saudi Aramco consequently pursues Red Sea logistical pivots to bypass traditional Hormuz transit channels.",
+          "t": "Energy Infrastructure Targeted in Yemen Escalation",
+          "src": "whispersinthecorridors.net · cedarnews.net",
+          "b": "Houthi drone and missile strikes hit Saudi Aramco facilities in Abha, Najran, and Jizan. Saudi Aramco is the massive state company that pumps oil out of the ground. These strikes led to retaliatory Saudi airstrikes. Rebel forces also captured Mocha and strategic Bab al-Mandab islands. Reports say the Abha Aramco bulk plant was destroyed in a new strike.",
+          "i": "Houthi drone and missile strikes hit <span class='term' data-t='gilt'>Saudi</span> Aramco facilities in Abha, Najran, and Jizan. Retaliatory Saudi airstrikes followed the attacks. Rebel forces also captured Mocha and the strategic Bab al-Mandab islands. New reports confirm the Abha Aramco bulk plant was destroyed in a separate strike.",
+          "a": "Houthi drone and missile salvos targeted Saudi Aramco infrastructure across Abha, Najran, and Jizan. Subsequent Saudi airstrikes matched the escalation alongside the rebel capture of Mocha and the Bab al-Mandab islands. Further strikes targeted and destroyed the Abha Aramco bulk plant.",
           "links": [
             "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDc4R2ZYaWRiS1FENU1kRUswakg2NGZJdi1aR0lKbzVJRGlzcVpfSEtlajlheEZmOE9WRVlHaWhzY1VMeFE5UTFuelk1X2RCa2pHUWFiUG5jSVNYbnY3dUg2T1lDbDdtWmtnUFJzR1JNNWRZOVZaaUtXLVVQTVQ0dDdFUTNaNW14NVkxN0paTXk5TjRMRUdxNnVsRk1OQ0ZTTnJtRkxVQU5FWXZQaW01TGFnMVItQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTFkTVAtSzA4akw0VFBnaXZlYUxGRW5fa3VEZzhZeENWbFNJc3YxYllpTm0tUndDVGFYdU13dTgyMm1PUjNYRmJIUmRYU2N3a0RjX0Z3b2k0bTVYWmFBaE80MXpTZDVKOENwZXIwT0tLMUhaUVUyeU44VDFvb0dYUm1aTGNiejhwN2JKMQ?oc=5",
-            "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjBIelB1dEZEN21DUWFPZjdSWkk1cFhQcjlYektTd3hwMkRnZ1BzT1l0NmJRNzNpTmp3c1NTczUxeU1BYXJKd042ZHRUT0JXaGRUaFBRckJXd1ZSRU9ueExwazZjUHV5SUN6SGx2WlJ5ODZDRmtyZHpWWHozM0V2Z1d4OFIxRXBIRVpUX2xiVXVhTFNj?oc=5"
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTFkTVAtSzA4akw0VFBnaXZlYUxGRW5fa3VEZzhZeENWbFNJc3YxYllpTm0tUndDVGFYdU13dTgyMm1PUjNYRmJIUmRYU2N3a0RjX0Z3b2k0bTVYWmFBaE80MXpTZDVKOENwZXIwT0tLMUhaUVUyeU44VDFvb0dYUm1aTGNiejhwN2JKMQ?oc=5"
           ]
         },
         {
-          "t": "OPEC Adjusts Output Policy as Regional Pricing Shifts",
-          "src": "energynow.com · streamlinefeed.co.ke",
-          "b": "OPEC plus approved a further oil output increase as exports from Hormuz started to recover. Basrah Medium crude rose 4.7% to $82.04 in August. Saudi Arabia cut its August Arab Light Asia official selling price, marking its biggest drop in over two decades.",
-          "i": "OPEC plus approved a further oil output increase as Hormuz exports started to recover. Basrah Medium crude rose 4.7% to $82.04 in August. Saudi Arabia enacted the biggest drop in its August Arab Light Asia official selling price in over two decades.",
-          "a": "OPEC plus authorized a further oil output increase alongside recovering Hormuz export volumes. Basrah Medium crude appreciated 4.7% to $82.04 in August. Saudi Arabia administered the largest reduction to its Arab Light Asia official selling price in over twenty years.",
+          "t": "Crude Production Declines While Logistics Shift",
+          "src": "srpske.rs · EnergyNow.com",
+          "b": "Saudi oil output fell to 6.24 million barrels a day. Saudi Aramco is seeking to reroute crude away from the Strait of Hormuz. The company is exploring oil exports via the Red Sea instead. Meanwhile, OPEC+ approved a further oil output increase as Hormuz exports started to recover.",
+          "i": "Saudi oil output dropped to 6.24 million barrels a day. Saudi Aramco is seeking to reroute crude away from the Strait of Hormuz. The company is exploring oil exports via the Red Sea to bypass the chokepoint. OPEC+ approved a further oil output increase as Hormuz exports started to recover.",
+          "a": "Saudi oil output contracted to 6.24 million barrels a day. Saudi Aramco initiated plans to reroute crude away from the Strait of Hormuz. The firm is actively exploring Red Sea export channels to mitigate transit risks. OPEC+ approved a further oil output increase as Hormuz export volumes started to recover.",
           "links": [
+            "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdjBIelB1dEZEN21DUWFPZjdSWkk1cFhQcjlYektTd3hwMkRnZ1BzT1l0NmJRNzNpTmp3c1NTczUxeU1BYXJKd042ZHRUT0JXaGRUaFBRckJXd1ZSRU9ueExwazZjUHV5SUN6SGx2WlJ5ODZDRmtyZHpWWHozM0V2Z1d4OFIxRXBIRVpUX2xiVXVhTFNj?oc=5",
             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDRRT0RPRndUc2ZIcC1SWFFZM1BNZ0ZFYTVXV0hBTmZOYTI4eHRiWlZQLXpnVTNHNWZpNmE4N3diM3RZWmpodkVpNjBONGxjbE9tN2V3TVRIMFpnU05LcThTMi1Gakx4RXhZakVZdjRxcHl5MGh1azVSXzJmTzNEdEg1ZWhBLXpvVXlRYW9OdU9zNDJJemtCWGVtUmRtenQzdEVNQ3FzWTNlNHM?oc=5",
-            "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVnppaU55VEZLRHBwS3hGb1ZKTFZEbFczTy1WVnpDa1lHS3IzemNkT0VtR29sWHBVbExXczFWdmI3NFg4NkxkamFqUm1ONFhkaHp1MzFfb0tvWGM3X2VvRXM0TDI5RjFrYnBFX0JtbGpmZnVJbmk4ZEhXV0dYd0d2b2hjQVd5UkU?oc=5",
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFBiblNlX1RTUzEtbTUyYTBwZWUwaVRMRlZvYUdZdlRCaDRLZGZkU0hORmtnVk9nb2tOdGxLaGpNT1B5N2h3N013WlFVTm5pdjRWRHFYYUtmRlRadndmYnR1aVhjRXgyUGFuVC1FalRvUVdMR2JiWVFMZE9aMlk4QkF2cXNfTVBlVG5jdUlFbV81WW5VOTFpVFNBZDhzSnJsdmFyNjREOXQ5bGRS?oc=5"
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1k1TzVoQXZGVkFwTFZmLWJZNy1aZjQ4VjFOekNxVmRkWFJOX0lLU0p5RENzdFY1UEhyLXNIQ2hMTm1fUXpna25NdjdzU1BwZ3BiLUFzYmtmcV8xX0RVd1JLblplOE9xWkVIcGV2Sk14Nlo3blZTWVAxdUxEVU1rN1ZFUkM1N3ZzQnktenVUS1BPVnpPc2pSVmtRRlJ6U0xUUnRmRGs3NmM?oc=5",
+            "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbURUMDRIaUhGbUtnWmFzWHR1TjJKTXVUMnFtMTNodVAtVlFxSTAtLUM2Qk1WN3k2MzVlYkg4YkRDNks1YXBDVmVTNXB0bExVbTZual9lV2tDOFpocUs1dWFNZnZsa05QblRFaFRPNG5lNldhSDdqdExZU05qUGFqczBmczlGNEI5Y2k0QldMWQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Rebel forces captured Mocha and strategic Bab al-Mandab islands in Yemen. Retaliatory Saudi airstrikes followed the Houthi drone and missile attacks. OPEC views energy security as more important than climate concerns.",
-        "i": "Rebel forces captured Mocha and strategic Bab al-Mandab islands in Yemen. Retaliatory Saudi airstrikes followed the Houthi escalation. OPEC maintains that energy security beats climate priorities and sees no peak oil demand.",
-        "a": "Yemeni rebel forces captured Mocha and strategic Bab al-Mandab islands, prompting retaliatory Saudi airstrikes. OPEC emphasized energy security over climate metrics, reporting no peak oil demand horizon.",
-        "sources": {
-          "0": {
-            "outlet": "whispersinthecorridors.net",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDc4R2ZYaWRiS1FENU1kRUswakg2NGZJdi1aR0lKbzVJRGlzcVpfSEtlajlheEZmOE9WRVlHaWhzY1VMeFE5UTFuelk1X2RCa2pHUWFiUG5jSVNYbnY3dUg2T1lDbDdtWmtnUFJzR1JNNWRZOVZaaUtXLVVQTVQ0dDdFUTNaNW14NVkxN0paTXk5TjRMRUdxNnVsRk1OQ0ZTTnJtRkxVQU5FWXZQaW01TGFnMVItQQ?oc=5"
-          },
-          "1": {
-            "outlet": "energynow.com",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1FFeG5nSXJ1cXN6N3drQ3RPZFRsUFd6VzlJNXltT204bW9obVlQWEFvOHQ4WDBhSC02NXUtS29CNlZzS2lNRWh6WGM1TFBpUS1MS3hjYVRuMFVaRkZxclFEbmtiaHdYZV9MUHNfVmFpNUtYX3N3R3ZqR3c2Vlc4ZFE5TENWQjBGcnFaLUZjU29VeVNYcU1v?oc=5"
-          }
-        }
+        "b": "Military clashes involving Houthi rebels and Saudi forces continued in Yemen. Rebel forces captured Mocha and strategic islands in the Bab al-Mandab strait.",
+        "i": "The conflict in Yemen escalated as Houthi forces captured Mocha and the strategic Bab al-Mandab islands, prompting retaliatory Saudi airstrikes.",
+        "a": "Geopolitical friction intensified across the southern Arabian Peninsula as Houthi forces seized Mocha and the Bab al-Mandab islands, triggering retaliatory Saudi air operations."
       },
       "timeline": [
         [
-          "12 August",
+          "12 Aug",
           "Basrah Medium crude rose 4.7% to $82.04"
-        ],
-        [
-          "12 September",
-          "Saudi oil output fell to 6.24 million barrels a day"
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Official currency rates and local financial updates",
+      "sub": "Naira gains against dollar at official FX market",
       "ind": [],
       "stories": [
         {
-          "t": "Nigerian currency moves upward against the US dollar",
-          "src": "PM News Nigeria · Business Post Nigeria · Tribune Online",
-          "b": "The Nigerian currency is called the naira. It gained N1.70 in value. The dollar fell to N1,326.52 at the official market. This means the local money bought slightly more foreign currency than before.",
-          "i": "The naira strengthened by N1.70 during the trading session. The exchange rate moved to N1,326.52 against the dollar at the NAFEM window. Official foreign exchange markets recorded this marginal appreciation of the local currency.",
-          "a": "The naira appreciated by N1.70 to print at N1,326.52 per dollar in the official foreign exchange market. Price action at the NAFEM trading window reflected this minor upward movement in spot valuations. Liquidity flows in the official channel dictated the session's closing rate.",
+          "t": "Nigerian Currency Advances Against US Dollar",
+          "src": "PM News Nigeria · Business Post Nigeria",
+          "b": "The official foreign exchange market tracks how much local money buys foreign currency like the dollar. The naira gained N1.70 in the latest trading session. This brought the exchange rate to N1,326.52 per dollar at NAFEM. Trading figures show the currency improving compared to previous rates.",
+          "i": "The naira appreciated by N1.70 against the dollar in the official foreign exchange market. Transaction data at NAFEM placed the exchange rate at N1,326.52 per dollar. Market participants observed incremental gains for the local currency during the session.",
+          "a": "Spot pricing at NAFEM positioned the naira at N1,326.52 per dollar following a N1.70 appreciation. Interventions and liquidity shifts continue to dictate the intraday bandwidth in the official segment. Marginal adjustments in spot rates reflect ongoing supply and demand realignments.",
           "links": [
-            "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0NyMF9NLUdZYk52a3hDMnlDOW9jQXUxSVFOV1JQMWQtR3BNeE44dmdoMHhXRzNyNnN2bFdUQXVZRjNIY2dzejBmeEp1cXFiYjR2UUtmbFZqTmR5RjdTdVNwc0M1R0dqT0tmbXktaGl4Yk9pUFJzbXBGa21yR1hITXd1OE9HM2xVVE9uREs0QWNMbTFkMmVZ?oc=5",
-            "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWklyRWxpUURRR3NjemdJQnNqYXZnVVlYSDRCdThPRmlpSHptSUNXanFnMGcxWjBXb202Y2tyOUEyaUlHT3NtV3dVZlY2R0EwcTJ6WWdqQ04zZDdVWjlIT09Ua0s5WFFUaElzN2Z4b1l5SlFkVFI2S2dwOG5QdXpZMks0bw?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVpERTZJclNHeWhCbFZCX3UyamY1d3UxaHFnbnE1a0ZEOVM5R0RhTVB2eGg0UG5nVWx0NzRTX0g5RUZLcC16U1pIdTFycUJDZnhxckJBOEJzUVd5Vk8wSllzTHhkUTR1OGNOZkhyU1VUWmF3R09lUjAxWXVpM2lFU3hHS2JzbkxvR0lwcGFSQzlIQjA?oc=5"
-          ]
-        },
-        {
-          "t": "Airliner penalised over passenger luggage dispute",
-          "src": "UA.NEWS",
-          "b": "RwandAir received a fine in Nigeria. The penalty was set at 15 million naira. The airline faced this punishment because of a formal complaint about passenger baggage.",
-          "i": "RwandAir was ordered to pay a penalty of 15 million naira. Nigerian authorities issued the fine following an unresolved baggage complaint filed by a passenger. Regulatory bodies enforce such financial sanctions for service failures.",
-          "a": "RwandAir incurred a 15 million naira administrative fine issued by Nigerian authorities. The regulatory action stemmed directly from a formal passenger grievance regarding mishandled baggage. Enforcement mechanisms targeted the carrier's operational compliance standards.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDRsUkx0R1MxMjdPdU5FNFhIQWM3ODV3SW51VzFyTlA5aVpsN203ZGFVWUQ3cmtqU09IRnROcEwya21pVzFRUGwzU3hlRlh6bGRGQmVKRWE5b1gxZW9Ib3dHenQzXzV1QWpqSlZtUmY5bFVPV0NKY1RxRGRQM1l0bTNUQnNwb1RDWVFVM0t6WWxnT1NFV0JQOG9TZnk?oc=5"
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa0NyMF9NLUdZYk52a3hDMnlDOW9jQXUxSVFOV1JQMWQtR3BNeE44dmdoMHhXRzNyNnN2bFdUQXVZRjNIY2dzejBmeEp1cXFiYjR2UUtmbFZjTmR5RjdTdVNwc0M1R0dqT0tmbXktaGl4Yk9pUFJzbXBGa21yR1hITXd1OE9HM2xVVE9uREs0QWNMbTFkMmVZ?oc=5",
+            "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWklyRWxpUURRR3NjemdJQnNqYXZnVVlYSDRCdThPRmlpSHptSUNXanFnMGcxWjBXb202Y2tyOUEyaUlHT3NtV3dVZlY2R0EwcTJ6WWdqQ04zZDdVWjlIT09Ua0s5WFFUaElzN2Z4b1l5SlFkVFI2S2dwOG5QdXpZMks0bw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political thugs attacked a meeting held by the Peoples Democratic Party in Enugu. They broke properties that cost millions of naira. Oluremi Tinubu gave 10 million naira to a young artist from Ogun State.",
-        "i": "Thugs disrupted a Peoples Democratic Party meeting in Enugu and vandalised properties valued at millions of naira. Separately, Oluremi Tinubu fulfilled a financial pledge of 10 million naira to a 12-year-old artist from Ogun State.",
-        "a": "Perpetrators disrupted a Peoples Democratic Party gathering in Enugu, destroying assets worth millions of naira in targeted vandalism. In a separate event, Oluremi Tinubu disbursed a previously pledged sum of 10 million naira to a 12-year-old artist from Ogun State."
+        "b": "Thugs disrupted a political party meeting in Enugu and damaged properties. Attackers vandalised items worth millions of naira during the incident.",
+        "i": "Assailants attacked a Peoples Democratic Party meeting in Enugu. The attackers vandalised properties valued at millions of naira.",
+        "a": "Political violence surfaced in Enugu as perpetrators targeted a Peoples Democratic Party gathering. Property damage running into millions of naira was recorded during the assault.",
+        "sources": {
+          "0": {
+            "outlet": "Sahara Reporters",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMm95WXp1bnFOWldNM2RjdC1MWlFwbzJGTGhSSE5EVmxEWTBUTW9scHFGZDJ1a2ZzX0R0RG9haHUyNmZtUkpHRjYzNXpORUd5Njg1ZU1NN1dNU0N4VjVjNTdJV0ZjWHVGMmpwamwxT0ZaSXJTWnBfalN1MmtiX2cyUWJNN0oyajB5a3-SFI4RzJkcVVVdHFrd1A4VUt3FkJGMWhDc1BhTTJvMjhUTnJzWA?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "12 Sep",
-          "RwandAir received a 15 million naira fine over a baggage complaint."
-        ],
-        [
-          "12 Sep",
-          "Oluremi Tinubu fulfilled a 10 million naira pledge to a young artist."
-        ],
-        [
-          "12 Sep",
-          "The naira traded at N1,326.52 per dollar at the official market."
+          "Naira trades at N1,326 per dollar at NAFEM"
         ],
         [
           "13 Sep",
-          "Thugs attacked a Peoples Democratic Party meeting in Enugu."
+          "Thugs attack PDP meeting in Enugu"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX 200 drops to a one-month low on mining and healthcare drag",
+      "sub": "ASX 200 slumps to a one-month low on mining and healthcare drops",
       "ind": [],
       "stories": [
         {
-          "t": "Mining and Healthcare Sectors Drag ASX 200 to One-Month Low",
+          "t": "Mining and Healthcare Shares Drive ASX 200 Down",
           "src": "The Motley Fool Australia · Kalkine Media",
-          "b": "The main share index in Australia is called the ASX 200. It tracks the country's two hundred biggest listed companies. Mining and materials shares pulled this index down to a one-month low last week. Healthcare shares also fell as September weakness took hold. Energy shares bucked the trend and rose during the same trading session.",
-          "i": "The benchmark ASX 200 slumped to a one-month low last week following heavy losses in mining and materials stocks. Healthcare shares also tumbled as September weakness gripped the market. Conversely, energy shares posted gains and bucked the torrid trading session.",
-          "a": "The ASX 200 breached key support to hit a one-month low driven by broad-based selling in mining and materials equities. Material sector headwinds combined with persistent weakness across healthcare names to amplify the downside. Meanwhile, counter-cyclical strength in energy equities provided the primary offset during the torrid trading session.",
+          "b": "An index is a group of stocks put together to measure how a market is doing. The ASX 200 index tracks the two hundred largest companies on the Australian stock exchange. Mining, materials, and healthcare stocks fell last week. This push sent the main index down to a one-month low.",
+          "i": "The S&P/ASX 200 index dropped to a one-month low during the trading week. Mining and materials shares dragged the broader index downward. Healthcare stocks also fell as September weakness took hold across the market.",
+          "a": "Mining and materials equities pressured the benchmark S&P/ASX 200 index to a one-month low. Concurrently, sectoral weakness extended into healthcare as seasonal September underperformance materialized. Energy shares bucked the broader downward trend to post gains during the session.",
           "links": [
             "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzlodTlGMFFlYXJqaU9PMmxSVHFqRlZIaTk5WVhkU2UwaF9xaDY2VXdyX3YtVGctR1M5SEgwdWotRmkyX000UFR3U3NKYURzWXNBUjJLRnNsbUlnWUxWVTIxWm55cDZhd0xidkFta1lHcjFPa3VrdGFBQk14WWpGVEUxdXRUMkQwNFpndWVRMjFtYmsxYVM3YVhVaTVYTk5WSXItc2FRLThwWFFhclRBV19qMA?oc=5",
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3R3OXp6S0owbTB4bS12VWtvcWU4dTJlOVhzTmlRNXVuUDJJTk1oYVhrdWw5ajV5eW5WYWdvY3A3SVp4Y0J3N255T3RkNFpONWxJQTVjdGtubkViUk1zbWJ2TUxmSXFHQW1GazFiUjZVUjVfRkk?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3R3OXp6S0owbTB4bS12VWtvcWU4dTJlOVhzTmlRNXVuUDJJTk1oYVhrdWw5ajV5eW5WYWdvY3A3SVp4Y0J3N255T3RkNFpONWxJQTVjdGtubkViUk1zbWJ2TUxmSXFHQW1GazFrWWJGbFRpZ2hBV0tPNWloczdTbldlTTM0cjRzSndUOV9UZFplV1UtbUNyVi11TFhpTEJEWGtXdG5nMmM2M05XZXQw?oc=5",
             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFRoMEItLXYzemw4SEplZUNoN1RRT0s4czlCeEtkU01mb25EbUNSQm9UVS1fb2ZETUd2bElnOUtpOHlsUDhOelRYZ1k3dmF4THF1TnV1dVN3Ml9QMmhxV3poRHJIbFFUcE8yck4yM0tXYlpzcHZxWjFfODBHZU96NDVLWVdoRUpRbHktcFBxLVZhODB1LWxRVjZ4OUFDZGduaElIdnBzdXNKRWFmb2lhWGtzRWlacXdNZ2M0?oc=5"
           ]
         },
         {
-          "t": "ASX Industrials Draw Private Equity Interest Amid Market Slump",
-          "src": "afr.com",
-          "b": "Private equity groups are looking at industrial companies listed on the Australian stock exchange. These industrial firms are often ignored by regular investors. Buyers from private equity funds are preparing to make takeover moves on these unloved businesses.",
-          "i": "Private equity suitors are circling the unloved industrial sector on the ASX. Dealmakers are preparing takeover approaches for these overlooked companies. This interest arrives while broader market segments experience seasonal weakness.",
-          "a": "Private equity sponsors are targeting undervalued ASX industrials ahead of expected corporate transactions. These unloved segments are attracting buyout interest due to compressed public valuations. Sponsor pipelines are actively building positions in anticipation of near-term deal activity.",
+          "t": "Executives Increase Stakes in Ambertech and Mithril",
+          "src": "simplywall.st",
+          "b": "A director is a person who helps run a company. Directors at Ambertech and Mithril Silver and Gold bought more shares in their own businesses. Ambertech's non-executive director increased stock ownership by 2.7%. Mithril's chief executive officer John Skeet bought 5.6% more shares.",
+          "i": "Insider buying activity drew attention as executives expanded their equity positions. Ambertech recorded a 2.7% stock increase by a non-executive director. Mithril Silver and Gold managing director and chief executive officer John Skeet acquired 5.6% more shares in the firm.",
+          "a": "Corporate insiders increased their equity exposure via open-market acquisitions. Ambertech disclosed that a non-executive director expanded holdings by 2.7%. Mithril Silver and Gold managing director, chief executive officer, and executive director John Skeet lifted his stake by 5.6%.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVpGX3BDRjE1V3lDQzVWdmpLYkdvMkJ3bWZuUmlGNHAxbU1FUDZzWXoxVVI4NXB4MHpnVXdZVC1OeHo5ckNuNjdTNWxOWW5ERllnRGlCUmU1QWtud244S1cxVGpOaFJVQnNBQldtcHNKSGJjOXk3U2R3ZGhqS1FDMkJ1T3c3RGtkbWdkUF9oN1NfSHFNaDlPeVdQNmFra1RPaWVic2pNZmxrUzd2REZmMHdYdnNzR1JGUGpSSHhR?oc=5"
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTGpoZHA1WjBvRlFtSUZ2V21PZUJ5TVU3blFXVjZReFkwOExFNGZNNFFMa1pPUV9WdzJVTVRNYzVOLWowZjMxVlI1OFg4YU50czUxSkttN1EtQVJnM19TU09JY01RcWp4bk1sZldvaVh4dXNmZWxOVFRDcGdlb05kekRjWXpwZTEwX2lWUFpyeDVVZXY5WkpiMkdIMWlqZ0lRNU9TZFdqWXlYS3hPOE9oTy12TWduSDl1d0MtWG9sNNIBxAFBVV95cUxPZG5fSk16UWM0ZUl6UXlveFcxT0gzZFJ3a3BGMG1nNzViV0JKQ0E3bkVMSUczSFFhRFdDOXh6NXVkbW5ZN0hKZWs5TWtiYW11RkNfUE9fYWI1X1lsMHR1OG9TVmZrQzUzOVRJb3Y2REVULWxiaGxNeHRidHZvT0JJcExCTXhNa0RuNnhRQnhxRmNxUVBEMVpyVG5ucThlWVpsYlAwb0tUS0J4dGgxWWg3UE9PaTVwTnVHemFNejR2WXRYeFF6?oc=5",
+            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTTJRWkxmWEVvMXpUalhzdm1mT2JiYWJreHhGUkpSdnhCX0YxSEd0RlRUU3VYb3piWWc4X2dGSURDd1QtX1lIbmNxbTNXa1EzMnh0cnZtSHhxa01NS3dOLTh6UkVOTF9MZ3E2RjMtVWRZTUR3TjBIRzZkNTlOVlZHcTVyaGVUa1BUeVJ2bm9naExOd2FEZDdIdm5tMWdEd3JyQlZlclpCSzRsMTZGMFliRGpHV1lRc3k0bHhwa0tkR05POV91REZSWFpQdVpKZ1BkTmRQamRsZERhMW9aUDJv0gHkAUFVX3lxTE1teVBiTVh2b2s1Y2NFanQ2WjVjS1dOMFE4QTJsOGJhcDM1RHRYRUxxVWU4Z3lSVXVEUzBVcXcybHpQaWpOSEk5bnJBWVdZWW1tM1hYRlpTcHd1UWxDTl9aOXFCcXVwazg5ZVRQbk8zcTdoZWk3RGJHZDNjT21XZ0ZfT2pPZHJjUlhvWGRLdnd2WE9QNGxENWxPUXR6WnNqQlRrMENBaXRpLTdaZFdQZEUtQ296WDdjd0VJb2ZKRlhUalMwWUtMNFRGY0JMMmFjM3M0cTEtdUE2UkdyYXJ0X0xwRTFZcQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There is no political news reported for Australia today.",
-        "i": "No political developments were reported in the Australian markets today.",
-        "a": "No sovereign or political risk updates were featured in the session's Australian market flow."
+        "b": "Private equity firms are preparing to buy unloved industrial companies listed on the Australian stock exchange. Private equity means investment funds that buy shares in companies directly rather than through public markets.",
+        "i": "Private equity sponsors positioned themselves for leveraged buyouts targeting undervalued ASX industrial equities. The sector's low public valuation multiples created entry opportunities for private capital deployment."
       },
       "timeline": [
         [
           "12 Sep 2026",
-          "Energy shares rose while the broader ASX 200 index slumped to a one-month low."
+          "Energy shares gained while mining and healthcare stocks pulled the ASX 200 down to a one-month low."
+        ],
+        [
+          "12 Sep 2026",
+          "Ambertech and Mithril Silver and Gold reported insider share purchases by senior directors."
         ]
       ]
     }
