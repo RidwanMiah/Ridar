@@ -1,707 +1,707 @@
 {
-  "generated": "2026-09-13T20:24:19.137Z",
+  "generated": "2026-09-13T21:23:32.886Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equity markets",
-      "q": "Which exchange did Anthropic select for its potential initial public offering?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did US inflation accelerate in August?",
+      "o": [
+        "Because gas prices spiked.",
+        "Because the Federal Reserve cut rates.",
+        "Because Treasury yields hit 5%.",
+        "Because Anthropic launched an IPO."
+      ],
+      "a": 0,
+      "e": "The text explicitly states that US inflation accelerated in August as gas prices spiked. This energy shock drove consumer costs upward again."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Fixed income",
+      "q": "What level did US Treasury yields approach according to the briefing?",
+      "o": [
+        "5%",
+        "2.9%",
+        "6.9%",
+        "1.5%"
+      ],
+      "a": 0,
+      "e": "Treasury yields pushed near 5% as markets priced in upcoming Federal Reserve decisions. Higher yields increase borrowing costs for corporate borrowers."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Equities",
+      "q": "Which exchange did Anthropic select for its initial public offering?",
       "o": [
         "Nasdaq",
-        "New York Stock Exchange",
-        "London Stock Exchange",
-        "Shanghai Stock Exchange"
+        "Sensex",
+        "SSE",
+        "ASX"
       ],
       "a": 0,
-      "e": "Anthropic selected Nasdaq as its primary public listing venue. The other exchanges were not mentioned in the source texts."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Corporate strategy",
-      "q": "What revenue loss did Qualcomm absorb before pivoting toward data center opportunities?",
-      "o": [
-        "Apple modem revenue",
-        "Amazon cloud revenue",
-        "Tesla battery revenue",
-        "Microsoft software revenue"
-      ],
-      "a": 0,
-      "e": "Qualcomm lost Apple modem revenue, prompting the chipmaker to target a $60 billion Amazon opportunity in enterprise infrastructure."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Fixed income",
-      "q": "Where did US Treasury yields hover, according to market reports?",
-      "o": [
-        "Near 5%",
-        "Near 1%",
-        "Near 10%",
-        "Near 0%"
-      ],
-      "a": 0,
-      "e": "US Treasury yields trade near 5%, which influences income-focused investor portfolios."
+      "e": "Anthropic selected the Nasdaq exchange for its upcoming initial public offering. This brings another major artificial intelligence firm into public equity markets."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Foreign exchange",
-      "q": "Why was the Pound Sterling left exposed to foreign exchange pressure despite positive domestic growth news?",
+      "q": "What economic factor left the Pound Sterling exposed to foreign exchange pressure?",
       "o": [
-        "Due to structural carry dynamics and wider global yield differentials",
-        "Due to a sudden ban on currency trading by the central bank",
-        "Due to a complete collapse in tax revenues",
-        "Due to an immediate drop in oil production"
+        "Positive economic news regarding UK growth.",
+        "A sudden decline in sovereign bond yields.",
+        "The collapse of domestic commercial banking deposits.",
+        "An unexpected interest rate hike by the central bank."
       ],
       "a": 0,
-      "e": "Domestic growth upside failed to insulate the currency from structural carry dynamics and broader cross-asset flows. Positive growth alone does not eliminate foreign exchange exposure driven by global yield differentials."
+      "e": "Positive economic news regarding UK growth leaves the Pound Sterling exposed to foreign exchange pressure. Macroeconomic data releases drive sentiment in currency markets without guaranteeing sustained appreciation."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Foreign direct investment",
-      "q": "How did German corporate spending shift between China and the US in the first half of the year?",
+      "tag": "Germany · Corporate investment",
+      "q": "How did German enterprises change their direct investment destinations in the first half of the year?",
       "o": [
-        "Chinese outlays surged by a third while US-bound capital plummeted by nearly two-thirds",
-        "Chinese outlays plummeted by a third while US-bound capital surged",
-        "Both Chinese and US outlays dropped by equal amounts",
-        "Both Chinese and US outlays doubled due to tariff cuts"
+        "They increased investment in China by a third while US outlays plunged nearly two-thirds.",
+        "They doubled investment in the United States while pulling all capital out of China.",
+        "They kept investment identical across all regions to avoid tariff tensions.",
+        "They liquidated all foreign holdings to fund domestic share buybacks."
       ],
       "a": 0,
-      "e": "IW data indicated a one-third surge in Chinese outlays alongside a nearly two-thirds collapse in US-bound capital formation due to tariff friction."
+      "e": "German enterprises increased direct investment in China by a third in the first half, while outlays heading to the United States plunged nearly two-thirds due to tariff tensions."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Equity markets",
-      "q": "What corporate action led Porsche AG to raise its cash flow margin guidance?",
+      "tag": "Germany · Equities",
+      "q": "Why did Porsche AG equity advance?",
       "o": [
-        "The monetization and disposal of its Bugatti Rimac equity stake",
-        "The acquisition of a new battery manufacturing plant",
-        "A massive share buyback program executed on the open market",
-        "The reduction of its dividend payout streak"
+        "Following upward revisions to cash flow margin guidance after completing the Bugatti Rimac stake sale.",
+        "Because the company announced its inaugural share buyback.",
+        "Due to a sudden surge in German direct investment from the United States.",
+        "Following an unexpected cut in benchmark interest rates."
       ],
       "a": 0,
-      "e": "Porsche AG equity rose and guidance was lifted following the disposal of the company's Bugatti Rimac stake, which altered forward cash conversion metrics."
+      "e": "Porsche AG equity advanced following upward revisions to cash flow margin guidance. Management acted after completing the Bugatti Rimac stake sale."
     },
     {
       "lvl": "b",
       "tag": "Japan · Foreign exchange",
-      "q": "How did market speculators position themselves regarding the Japanese yen as rate hike expectations grew?",
+      "q": "Why did currency speculators turn bullish on the Japanese yen?",
       "o": [
-        "They turned bullish and flipped net-long",
-        "They abandoned currency markets entirely",
-        "They shorted the yen to zero",
-        "They hedged exclusively with gold"
+        "As expectations for higher interest rates intensified.",
+        "Because the government increased fiscal spending.",
+        "Due to a sharp drop in domestic inflation.",
+        "Following the launch of a new technology initial public offering."
       ],
       "a": 0,
-      "e": "Speculative accounts flipped net-long on the Japanese currency as rate hike pricing accelerated and carry trade unwinding took place."
+      "e": "Currency speculators turned bullish on the Japanese yen as expectations for higher interest rates intensified. The Japanese currency advanced as traders priced in tighter monetary policy from the central bank."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Politics",
-      "q": "Which candidate won the Okinawa governor race according to local media projections?",
+      "tag": "Japan · Macroeconomics",
+      "q": "What policy friction does Japan face according to the briefings?",
       "o": [
-        "The ruling camp-backed candidate",
-        "The independent opposition leader",
-        "The candidate representing the agricultural union",
-        "The former central bank governor"
+        "Ongoing fiscal expansion colliding with Bank of Japan rate hikes.",
+        "Rising corporate debt conflicting with falling sovereign yields.",
+        "A sudden currency collapse caused by excessive tax cuts.",
+        "Declining consumer prices contradicting high central bank deposit rates."
       ],
       "a": 0,
-      "e": "The government-backed contender secured the Okinawa gubernatorial seat, consolidating administrative alignment with the ruling national coalition."
+      "e": "Japan confronts a policy friction between ongoing fiscal expansion and Bank of Japan rate hikes. Government spending measures contrast with the central bank's tightening monetary path."
     },
     {
       "lvl": "b",
-      "tag": "China · Corporate actions",
-      "q": "What milestone did Sany Heavy Industry reach regarding its shares?",
+      "tag": "China · Equities",
+      "q": "What historic capital return action did Sany Heavy Industry execute?",
       "o": [
-        "It executed its inaugural share buyback since listing",
-        "It was delisted from the Shanghai Stock Exchange",
-        "It issued a secondary offering worth billions",
-        "It split its stock into ten separate entities"
+        "Its inaugural share buyback since listing.",
+        "A massive US$5bn primary fundraising round.",
+        "A complete divestment of its foreign subsidiaries.",
+        "The conversion of all debt into sovereign bonds."
       ],
       "a": 0,
-      "e": "Sany Heavy Industry executed its first-ever buyback since its initial public offering, joining over 10 SSE-listed entities disclosing progress over the weekend."
+      "e": "Sany Heavy Industry initiated its inaugural share buyback since listing. This mechanism reduces equity float by repurchasing shares from the open market."
     },
     {
       "lvl": "b",
-      "tag": "China · Manufacturing",
-      "q": "What happened to secondary copper rod operating rates in August despite squeezed margins?",
+      "tag": "China · Venture capital",
+      "q": "What did Z.ai launch following its July capital raise?",
       "o": [
-        "They ticked higher",
-        "They fell to zero",
-        "They remained completely static",
-        "They doubled overnight"
+        "A fresh US$5bn fundraising push.",
+        "An initial public offering on the Nasdaq.",
+        "A hostile takeover of a German carmaker.",
+        "A state-backed sovereign bond issuance."
       ],
       "a": 0,
-      "e": "Operating rates for secondary copper rods rose in August even though high prices and tax costs squeezed underlying margins."
+      "e": "Z.ai launched a fresh US$5bn fundraising push following a July capital raise. This aggressive round highlights massive venture liquidity targeting domestic artificial intelligence developers."
     },
     {
       "lvl": "b",
       "tag": "India · Monetary policy",
-      "q": "What action did the Reserve Bank of India take regarding its repo rate?",
+      "q": "What action did the Reserve Bank of India take regarding its benchmark rate at the latest policy meeting?",
       "o": [
-        "It kept the repo rate unchanged",
-        "It hiked the repo rate by 0.75 points",
-        "It slashed the repo rate to zero",
-        "It replaced the repo rate with a fixed currency peg"
+        "It kept the repo rate unchanged.",
+        "It increased the repo rate by 0.75 points.",
+        "It lowered interest rates to combat inflation.",
+        "It eliminated compulsory bank deposits."
       ],
       "a": 0,
-      "e": "The Reserve Bank of India maintained the repo rate at its prior setting while projecting real gross domestic product growth at 6.9%."
+      "e": "The Reserve Bank of India kept its repo rate unchanged at the latest policy meeting. Officials concurrently projected real gross domestic product growth for the current fiscal year at 6.9%."
     },
     {
       "lvl": "b",
-      "tag": "India · Equity markets",
-      "q": "Why did Indian equities fall sharply, pushing the Nifty 50 down to 8.5% below its peak?",
+      "tag": "India · Equities",
+      "q": "Why did domestic Indian indices like the Sensex and Nifty experience steep declines?",
       "o": [
-        "As conflict between Iran and the United States escalated and crude oil surged",
-        "Due to a sudden domestic banking collapse",
-        "Because the central bank raised repo rates unexpectedly",
-        "Due to heavy regulatory fines on IT companies"
+        "Following an escalation in the Iran-US conflict.",
+        "Because the Reserve Bank of India raised interest rates.",
+        "Due to lower crude oil prices globally.",
+        "Following the failure of a major technology IPO."
       ],
       "a": 0,
-      "e": "Domestic indices experienced steep losses as the Iran-United States conflict intensified and energy markets reacted to surging crude oil prices."
+      "e": "The Sensex and Nifty plunged as the Iran-US conflict escalated. Crude oil prices surged concurrently across global trading venues."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Taxation",
+      "q": "What did the STJ rule regarding PIS and Cofins taxes?",
+      "o": [
+        "That they apply to the remuneration for compulsory deposits.",
+        "That they are completely abolished for commercial lenders.",
+        "That they apply exclusively to foreign direct investment in China.",
+        "That they replace all share buyback mechanisms."
+      ],
+      "a": 0,
+      "e": "The STJ ruled that PIS and Cofins focus on the remuneration for compulsory deposits, clarifying the tax treatment of the interest earned on mandatory central bank reserves."
     },
     {
       "lvl": "b",
       "tag": "Saudi Arabia · Commodities",
-      "q": "How many consecutive months has Nigeria complied with its OPEC production quota?",
+      "q": "By what percentage did Nigerian crude output edge up in August?",
       "o": [
-        "Four consecutive months",
-        "Twelve consecutive months",
-        "Two consecutive months",
-        "Ten consecutive months"
+        "0.4%",
+        "1.14%",
+        "33.3%",
+        "66%"
       ],
       "a": 0,
-      "e": "Nigeria recorded oil production satisfying the OPEC quota for the fourth consecutive month, printing at 1,680,000 barrels per day."
+      "e": "Production edged up by 0.4% in August, maintaining crude output within prescribed cartel limits for the fourth consecutive month and reaching 1.68m barrels."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Banking",
+      "q": "What change occurred in commercial bank deposits held with the Central Bank of Nigeria in August?",
+      "o": [
+        "They were reduced by 1.14%.",
+        "They increased by 0.4%.",
+        "They grew by a third.",
+        "They dropped by nearly two-thirds."
+      ],
+      "a": 0,
+      "e": "Commercial banks reduced their deposits held with the Central Bank of Nigeria by 1.14% in August, bringing total lender balances to N82.99tn."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equities",
+      "q": "What milestone did Santos equity reach on 13 September 2026?",
+      "o": [
+        "It climbed to a multi-year high, triggering a technical signal.",
+        "It drifted into oversold territory amid downward pressure.",
+        "It launched an initial public offering on the ASX.",
+        "It executed its inaugural share buyback."
+      ],
+      "a": 0,
+      "e": "Santos shares climbed to a multi-year high, triggering a technical signal on 13 September 2026. Momentum indicators registered the shift as the stock advanced."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equities",
+      "q": "What market condition did TechnologyOne shares enter on 13 September 2026?",
+      "o": [
+        "Oversold levels amid ongoing downward pressure.",
+        "Multi-year highs driven by positive growth data.",
+        "Overbought territory due to heavy speculative buying.",
+        "Unprecedented liquidity expansion from central bank deposits."
+      ],
+      "a": 0,
+      "e": "TechnologyOne shares drifted into oversold territory on 13 September 2026 amid ongoing downward pressure. Relative strength metrics crossed key thresholds."
     },
     {
       "lvl": "b",
       "tag": "Nigeria · Commodities",
-      "q": "What was Nigeria's daily oil production level in August?",
+      "q": "How many consecutive months had Nigeria met its OPEC production quota by August?",
       "o": [
-        "1.68m barrels per day",
-        "2.50m barrels per day",
-        "900,000 barrels per day",
-        "3.10m barrels per day"
+        "Four consecutive months.",
+        "Six consecutive months.",
+        "Twelve consecutive months.",
+        "Two consecutive months."
       ],
       "a": 0,
-      "e": "Nigeria registered a 0.4% month-on-month increase, lifting daily output to 1.68m barrels (or 1,680,000 barrels per day)."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Equity markets",
-      "q": "What technical signal did Santos shares achieve on September 13th, 2026?",
-      "o": [
-        "A multi-year high breakout",
-        "An oversold liquidation extreme",
-        "A complete trading suspension",
-        "A mandatory index deletion"
-      ],
-      "a": 0,
-      "e": "Santos equity prices printed a multi-year high on September 13th, 2026, generating a technical breakout signal as volume concentrated around the energy name."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Equity markets",
-      "q": "Why did TechnologyOne and Wesfarmers shares enter oversold territory on September 13th, 2026?",
-      "o": [
-        "Amid sustained selling pressure and concentrated liquidations",
-        "Because they were acquired by a foreign conglomerate",
-        "Due to a mandatory government price cap",
-        "Because they switched primary listings to Nasdaq"
-      ],
-      "a": 0,
-      "e": "TechnologyOne and Wesfarmers equities crossed into oversold parameters alongside persistent downward price action and relative strength indices reflecting compressed valuations after concentrated liquidations."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Corporate finance",
-      "q": "Which company maintained a 54-year dividend growth streak to attract income investors?",
-      "o": [
-        "PepsiCo",
-        "Apple",
-        "Amazon",
-        "Qualcomm"
-      ],
-      "a": 0,
-      "e": "PepsiCo preserves its 54-year dividend growth trajectory, sustaining appeal for income-focused portfolios against high fixed-income returns."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Commodities",
-      "q": "What drove speculative accounts to flip net-long on the Japanese yen?",
-      "o": [
-        "Accelerating rate hike pricing and changing rate differentials",
-        "A sudden decrease in domestic inflation to zero",
-        "Government orders to ban foreign currency holdings",
-        "A collapse in global crude oil prices"
-      ],
-      "a": 0,
-      "e": "Speculative accounts flipped net-long on the Japanese currency as rate hike pricing accelerated, reflecting changing rate differentials between Japan and other major economies."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Equity markets",
-      "q": "Why did Anthropic select Nasdaq as its primary listing venue?",
-      "o": [
-        "To progress toward an initial public offering and float its shares on the public market",
-        "To comply with new Federal Reserve requirements for technology firms",
-        "To execute a mandatory share buyback following the loss of Apple revenue",
-        "To absorb excess semiconductor production capacity designated for data centers"
-      ],
-      "a": 0,
-      "e": "Anthropic chose Nasdaq to advance toward an initial public offering, bringing the company closer to floating its shares publicly. The other options confuse the firm's listing plans with separate corporate actions like buybacks or semiconductor shifts."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Corporate finance",
-      "q": "What drove Qualcomm to target an enterprise infrastructure opportunity with Amazon?",
-      "o": [
-        "The loss of Apple modem revenue",
-        "An upward revision to cash flow margin guidance",
-        "A surge in domestic foreign direct investment",
-        "The need to comply with OPEC production limits"
-      ],
-      "a": 0,
-      "e": "Qualcomm pivoted toward enterprise infrastructure and a data center push specifically to absorb the loss of Apple modem revenue. Cash flow guidance adjustments and OPEC quotas are entirely unrelated events mentioned in other contexts."
+      "e": "Nigeria met its OPEC production quota for the fourth consecutive month in August, with crude output expanding by 0.4% during the month to reach 1.5 million barrels per day."
     },
     {
       "lvl": "i",
       "tag": "United States of America · Fixed income",
-      "q": "Why does PepsiCo maintain a long-standing dividend growth streak while Treasury yields hover near 5%?",
+      "q": "Why did August inflation prints complicate the Federal Reserve reaction function?",
       "o": [
-        "To sustain its appeal for income-focused portfolios against high fixed-income returns",
-        "To offset the operational losses caused by rising tariff tensions in North America",
-        "To comply with regulatory demands set by the Reserve Bank of India",
-        "To finance its newly announced initial public offering on the Nasdaq exchange"
+        "Energy-driven price acceleration forced desks to re-evaluate term premium and rate expectations across the curve.",
+        "Falling consumer prices forced the central bank to immediately lower its benchmark rate to prevent deflation.",
+        "Stable energy costs completely eliminated terminal rate uncertainty for all upcoming committee meetings.",
+        "Declining sovereign yields forced corporate borrowers to increase their equity dividend payouts."
       ],
       "a": 0,
-      "e": "PepsiCo preserves its 54-year dividend growth trajectory to sustain its appeal for income-focused portfolios when high fixed-income returns compete for capital. Tariff tensions and Indian central bank policies do not affect this consumer company's dividend strategy."
+      "e": "Hot inflation driven by energy shocks shifts real yield calculations and forces traders to re-price terminal rate expectations. A deflationary scenario is incorrect because the text explicitly states that price growth moved upward."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Equity markets",
+      "q": "How do rising Treasury yields near 5% impact corporate equities according to the briefings?",
+      "o": [
+        "They tighten financial conditions, pressure equity valuations, and alter the risk-free rate in discounted cash flow models.",
+        "They lower the cost of capital for corporate borrowers and increase corporate profit margins.",
+        "They eliminate sovereign borrowing costs and remove competition from equity dividend yields.",
+        "They force political figures to demand higher sovereign yields across all maturities."
+      ],
+      "a": 0,
+      "e": "Higher sovereign yields increase corporate borrowing costs, compete directly with equity dividend yields, and alter the risk-free rate used in cash flow models. Lowering the cost of capital is the exact opposite of what rising yields achieve."
     },
     {
       "lvl": "i",
       "tag": "United Kingdom · Foreign exchange",
-      "q": "Why did positive UK economic growth data leave the Pound Sterling vulnerable to selling pressure?",
+      "q": "Why does positive UK domestic growth leave the Pound Sterling exposed to foreign exchange pressure?",
       "o": [
-        "Domestic expansion challenged existing rate-cut pricing and activated structural carry dynamics",
-        "The central bank lowered its repo rate to match the Federal Reserve's 5% yield",
-        "Corporates redirected their inflation-sensitive budgets away from North America",
-        "OPEC quota compliance failed to match national budgetary targets"
+        "It complicates the monetary policy reaction function and challenges existing rate-cut pricing amidst wider global yield differentials.",
+        "It guarantees sustained currency appreciation by completely eliminating all structural carry dynamics.",
+        "It forces the central bank to immediately abolish all domestic interest rates.",
+        "It removes all cross-asset flows from international portfolio reweighting."
       ],
       "a": 0,
-      "e": "Realized economic resilience complicated the monetary policy reaction function because the growth prints challenged existing rate-cut pricing. The other choices misattribute monetary mechanisms or mix up completely different countries."
+      "e": "Economic resilience complicates the policy reaction function and challenges existing rate-cut pricing, exposing the currency to global yield differentials and carry dynamics. Guaranteed appreciation directly contradicts the text's note that data does not guarantee sustained gains."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Corporate strategy",
-      "q": "What caused German companies to redirect their overseas capital away from North America and toward China?",
+      "tag": "Germany · Foreign direct investment",
+      "q": "What drove the divergence in German foreign direct investment between China and the United States in the first half?",
       "o": [
-        "Escalating tariff tensions acting as a transmission channel for geographic re-weighting",
-        "The immediate need to offset lost Apple modem revenue through cloud providers",
-        "A sharp decline in secondary copper rod operating rates across European markets",
-        "Technical breakout signals triggered by multi-year highs in equity prices"
+        "Escalating tariff tensions redirected capital flows, leading German firms to increase outlays in China while US-bound outlays plunged.",
+        "A complete collapse of artificial intelligence infrastructure demand across all North American markets.",
+        "Mandatory government divestments that prohibited any European capital deployment outside domestic borders.",
+        "An unexpected collapse in Chinese corporate equity valuations that forced foreign entities to abandon operations."
       ],
       "a": 0,
-      "e": "Tariff friction served as the primary transmission channel that drove German firms to shift their inflation-sensitive budgets away from North America toward China. Apple modem losses and copper rod operating rates belong to completely different corporate briefings."
+      "e": "Tariff friction and tensions redirected capital flows, causing a surge in China-bound investment and a collapse in US-bound outlays. An AI infrastructure collapse is unrelated to German industrial foreign direct investment data."
     },
     {
       "lvl": "i",
       "tag": "Germany · Corporate finance",
-      "q": "Why did Porsche AG common stock appreciate following the disposal of its Bugatti Rimac stake?",
+      "q": "Why did Porsche AG equity rally following the Bugatti Rimac stake sale?",
       "o": [
-        "Management lifted cash flow margin guidance after monetizing the equity stake",
-        "The company secured a $60 billion data center lifeline from Amazon",
-        "Domestic indices rebounded following an unexpected pause in the repo rate",
-        "Foreign direct investment from North American firms surged by a third"
+        "The monetization event recalibrated liquidity metrics and prompted upward revisions to cash flow margin guidance.",
+        "The transaction forced the company to halt all future capital return programs.",
+        "Management used the proceeds to eliminate all equity issuance across public markets.",
+        "The sale reduced operational parameters and degraded the firm's overall liquidity profile."
       ],
       "a": 0,
-      "e": "Porsche stock rose because management lifted cash flow margin guidance after completing the asset sale and monetizing the equity stake. The Amazon data center deal relates to Qualcomm, not Porsche."
+      "e": "The divestment monetized an asset, recalibrated liquidity metrics, and allowed management to lift cash flow margin guidance. Halting capital returns or degrading liquidity would cause equity sell-offs rather than a rally."
     },
     {
       "lvl": "i",
       "tag": "Japan · Foreign exchange",
-      "q": "What drove speculators to flip net-long on the Japanese yen?",
+      "q": "What caused speculative accounts to turn bullish and increase net-long exposure to the Japanese yen?",
       "o": [
-        "Accelerating rate hike pricing and changing rate differentials",
-        "The outcome of the Okinawa gubernatorial election",
-        "A sudden drop in US Treasury yields below 3%",
-        "The execution of an inaugural share buyback by Sany Heavy Industry"
+        "Rate hike probabilities repriced higher across the curve, altering carry trade assumptions and steepening the implied yield trajectory.",
+        "The central bank lowered its benchmark interest rate to match ongoing fiscal expansion.",
+        "Leveraged accounts completely abandoned all duration risk management strategies.",
+        "Government spending measures neutralized all monetary tightening efforts."
       ],
       "a": 0,
-      "e": "Speculative accounts turned bullish as rate hike pricing accelerated and rate differentials shifted between Japan and other major economies. Political elections in Okinawa do not determine currency speculative positioning."
+      "e": "Higher interest rate expectations and repriced rate hike probabilities drove the yen appreciation as participants unwound short positions and challenged carry trade assumptions. Lowering rates would weaken the currency rather than drive bullish speculative positioning."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Politics",
-      "q": "What was the significance of the Okinawa governor race outcome for the ruling national coalition?",
+      "tag": "Japan · Macroeconomics",
+      "q": "How does Japan manage the policy friction between ongoing fiscal expansion and Bank of Japan rate hikes?",
       "o": [
-        "It consolidated administrative alignment between prefectural leadership and the ruling coalition",
-        "It forced the central bank to alter its repo rate settings to curb inflation",
-        "It triggered technical oversold conditions across major equities on the exchange",
-        "It guaranteed compliance with international oil production quotas"
+        "The increased government expenditure counters the liquidity withdrawal driven by central bank tightening, forcing markets to evaluate debt sustainability.",
+        "The central bank finances the fiscal deficit by printing money, eliminating all sovereign borrowing costs.",
+        "The government halts all budget allocations whenever the central bank adjusts its policy rate by a fraction of a point.",
+        "Fiscal stimulus completely neutralizes the need for any monetary policy adjustments."
       ],
       "a": 0,
-      "e": "The government-backed candidate's victory solidified administrative alignment between local prefectural leadership and the ruling national coalition. Gubernatorial elections do not dictate central bank monetary policy or technical stock indicators."
+      "e": "Fiscal expansion and monetary tightening represent competing mandates where increased expenditure counters liquidity withdrawal, raising questions about debt sustainability. Monetising debt or eliminating borrowing costs are not supported by the text."
     },
     {
       "lvl": "i",
-      "tag": "China · Corporate actions",
-      "q": "Why did Sany Heavy Industry execute its first-ever share buyback?",
+      "tag": "China · Capital markets",
+      "q": "What is the primary transmission mechanism of Sany Heavy Industry's inaugural share buyback?",
       "o": [
-        "It joined over 10 SSE-listed entities disclosing similar repurchase progress over the weekend",
-        "It needed to offset the loss of modem revenue from major technology clients",
-        "It responded to a sudden collapse in secondary copper rod operating rates",
-        "It complied with new regulatory mandates governing foreign direct investment"
+        "It reduces outstanding equity float from the open market to accrete per-share metrics and enhance shareholder yield.",
+        "It increases the total number of publicly traded shares to dilute existing institutional holdings.",
+        "It forces the exchange to delist the company from the primary market.",
+        "It transfers all corporate debt directly onto the central bank balance sheet."
       ],
       "a": 0,
-      "e": "Sany executed its buyback as part of a wider trend where over 10 SSE-listed entities disclosed similar repurchase progress over the weekend. The other options incorrectly link the buyback to unrelated technology supply chains or raw material metrics."
+      "e": "Open-market repurchases reduce outstanding float to accrete per-share metrics, signaling a shift toward enhanced shareholder yield. Increasing share count or delisting would achieve the exact opposite outcome."
     },
     {
       "lvl": "i",
-      "tag": "China · Manufacturing",
-      "q": "What pressure did secondary copper rod producers face in August despite rising operating rates?",
+      "tag": "China · Venture capital",
+      "q": "Why do private market valuation multiples remain elevated for top-tier domestic large-language-model developers like Z.ai?",
       "o": [
-        "Elevated raw material prices and tax burdens compressed underlying margins",
-        "Escalating tariff tensions forced them to redirect capital expenditures to North America",
-        "The central bank lowered the key lending rate to discourage borrowing",
-        "OPEC restricted the physical transport of raw metals across borders"
+        "Aggressive primary fundraising rounds and heavy venture liquidity continue to target artificial intelligence developers despite macro headwinds.",
+        "Regulatory authorities guaranteed fixed returns on all early-stage technology investments.",
+        "Foreign direct investment from North America surged to replace domestic capital sources.",
+        "All artificial intelligence startups successfully achieved full monetization horizons by July."
       ],
       "a": 0,
-      "e": "Operating rates for secondary copper rods rose, but high prices and tax costs squeezed margins. Tariff relocations and OPEC production limits have no bearing on domestic copper processing margins."
+      "e": "Massive venture liquidity and aggressive primary fundraising rounds drive elevated private market valuations despite broader macroeconomic headwinds. Guaranteed regulatory returns or full monetization horizons are incorrect assumptions."
     },
     {
       "lvl": "i",
       "tag": "India · Monetary policy",
-      "q": "How did the Reserve Bank of India respond to mounting external pressures during the period?",
+      "q": "What did the Reserve Bank of India do at its latest policy meeting regarding its benchmark rate?",
       "o": [
-        "It kept the repo rate unchanged while projecting real gross domestic product growth at 6.9%",
-        "It slashed lending rates to counteract the steep drop in the Nifty 50 index",
-        "It raised borrowing costs to defend the currency against falling crude oil prices",
-        "It initiated a large-scale share buyback program for commercial banks"
+        "It left the repo rate unchanged while concurrently projecting real gross domestic product growth at 6.9%.",
+        "It aggressively hiked rates to combat escalating geopolitical conflicts in Iran.",
+        "It reduced borrowing costs to offset the sharp surge in global crude oil futures.",
+        "It eliminated the repo facility entirely to prevent domestic equity benchmark declines."
       ],
       "a": 0,
-      "e": "The Reserve Bank of India left its key lending rate static while reaffirming its real GDP growth projection at 6.9%. It did not slash rates or buy back shares in response to the geopolitical tensions."
+      "e": "The central bank maintained the benchmark repo rate unchanged while projecting real GDP growth at 6.9%. Cutting rates to offset crude oil surges or eliminating repo facilities contradicts the direct policy action reported."
     },
     {
       "lvl": "i",
       "tag": "India · Equity markets",
-      "q": "Why did Indian indices such as the Sensex and Nifty experience steep losses?",
+      "q": "Why did domestic equity benchmarks Sensex and Nifty experience steep declines?",
       "o": [
-        "Conflict between Iran and the United States intensified, sending crude oil prices surging",
-        "The central bank unexpectedly raised the repo rate above historical peaks",
-        "German direct investment into local manufacturing plants dropped by two-thirds",
-        "TechnologyOne and Wesfarmers entered oversold territory on the local exchange"
+        "An escalation in the Iran-US conflict triggered a risk-off move alongside surging crude oil futures.",
+        "The Reserve Bank of India unexpectedly slashed its GDP growth projections to zero.",
+        "All commercial banks withdrew their deposits from central bank reserves simultaneously.",
+        "Foreign institutional investors dumped all domestic industrial holdings to buy sovereign debt."
       ],
       "a": 0,
-      "e": "Escalating geopolitical conflict between Iran and the US caused crude oil to surge, transmitting shockwaves through local asset prices. Central bank rate hikes or German investment shifts did not cause this specific equity drop."
+      "e": "Geopolitical escalation in the Iran-US conflict and surging crude oil prices drove a risk-off move that plunged domestic benchmarks. A sudden GDP projection cut to zero is not mentioned in the text."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What characterized Nigeria's oil production performance relative to its OPEC obligations?",
+      "tag": "Brazil · Taxation",
+      "q": "What was the legal consequence of the STJ tax decision regarding compulsory deposits?",
       "o": [
-        "It achieved its fourth consecutive month of quota compliance despite trailing budgetary targets",
-        "It exceeded its assigned production ceiling by 0.4% due to rising global demand",
-        "It cut extraction volumes sharply to protest against escalating Middle East conflict",
-        "It redirected all crude shipments toward German corporate balance sheets"
+        "It established that PIS and Cofins apply to the remuneration of mandatory central bank reserves.",
+        "It exempted all commercial banks from paying taxes on international foreign exchange transactions.",
+        "It prohibited the central bank from paying any interest on compulsory reserve balances.",
+        "It transferred all tax collection responsibilities from commercial lenders to foreign courts."
       ],
       "a": 0,
-      "e": "Nigeria successfully maintained its OPEC compliance for four straight months, but actual extraction volumes still trailed national budgetary targets. It did not exceed its ceiling or redirect crude to Germany."
+      "e": "The court ruled that PIS and Cofins focus on and apply to the remuneration for compulsory deposits, defining the tax perimeter. Exempting banks from taxes or prohibiting interest payments misinterprets the tax perimeter ruling."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Commodities",
-      "q": "What was the month-on-month change in Nigeria's August oil production?",
+      "tag": "Nigeria · Commodity markets",
+      "q": "How did Nigeria's August crude production impact its fiscal and quota position?",
       "o": [
-        "A 0.4% increase that lifted daily output to 1.68m barrels",
-        "A 50% collapse caused by severe regional infrastructure bottlenecks",
-        "A stagnation that forced the country to miss its OPEC production ceiling",
-        "A dramatic surge matching the 60 billion dollar Amazon data center target"
+        "Output rose 0.4% to meet the cartel quota for the fourth consecutive month, though it remained below domestic budget targets.",
+        "Production exceeded cartel limits, triggering severe penalties from international trade organizations.",
+        "Crude output dropped drastically, forcing commercial banks to withdraw all central bank deposits.",
+        "The jurisdiction abandoned its formal allocation to pursue aggressive fiscal expansion."
       ],
       "a": 0,
-      "e": "Nigeria recorded a 0.4% increase in August, bringing daily output to 1.68m barrels and securing its OPEC compliance. The other choices completely misstate the production data."
+      "e": "August output rose to meet the formal OPEC cartel allocation for the fourth straight month, but stayed below domestic budget targets amid fiscal shortfalls. Exceeding cartel limits contradicts the compliance text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Banking sector",
+      "q": "What does the 1.14% contraction in commercial bank deposits held with the Central Bank of Nigeria in August indicate?",
+      "o": [
+        "A shift in reserve deployment and asset allocation as institutions balanced short-term liquidity requirements.",
+        "A mandatory regulatory order forcing banks to liquidate all sovereign bond holdings.",
+        "An immediate collapse of the domestic currency driven by foreign exchange pressure.",
+        "A complete cessation of all commercial lending activity across the entire banking system."
+      ],
+      "a": 0,
+      "e": "The drop in lender balances reflects changing liquidity management and asset allocation as institutions balanced short-term requirements. Mandatory liquidations or banking system cessations are extreme assumptions not found in the text."
     },
     {
       "lvl": "i",
       "tag": "Australia · Equity markets",
-      "q": "What technical market event occurred for Santos shares on September 13th, 2026?",
+      "q": "What market reaction occurred when Santos shares climbed to a multi-year high on the ASX?",
       "o": [
-        "Equities printed a multi-year high, generating a bullish technical breakout signal",
-        "Shares entered deeply oversold parameters following rapid liquidations",
-        "Management announced an inaugural share buyback matching SSE-listed peers",
-        "Valuation multiples compressed because cash flow margin guidance was cut"
+        "It triggered a bullish technical signal, prompting quantitative momentum metrics to register sustained buying pressure.",
+        "It forced market makers to suspend all trading activity across the entire order book.",
+        "It drove the equity directly into oversold territory with oscillators indicating seller exhaustion.",
+        "It caused quantitative desks to liquidate their holdings to avoid regulatory penalties."
       ],
       "a": 0,
-      "e": "Santos equity prices achieved a multi-year high on September 13th, 2026, triggering a technical breakout signal. TechnologyOne and Wesfarmers were the ones experiencing oversold pressure, not Santos."
+      "e": "The multi-year high generated a bullish technical signal driven by quantitative momentum metrics pointing to buying pressure. Oversold territory applies to TechnologyOne shares, not Santos."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Technical analysis",
-      "q": "Why did quantitative models identify TechnologyOne and Wesfarmers as heavily discounted on September 13th, 2026?",
+      "tag": "Australia · Equity markets",
+      "q": "Why did TechnologyOne equities cross into oversold territory on 13 September 2026?",
       "o": [
-        "Persistent downward price action pushed them into oversold territory with compressed valuations",
-        "They reached multi-year highs that triggered automatic profit-taking algorithms",
-        "Their capital allocation shifted entirely toward Chinese infrastructure projects",
-        "The Reserve Bank of Australia raised its repo rate to match US Treasury yields"
+        "Sustained selling pressure pushed relative strength metrics across key valuation thresholds, indicating seller exhaustion.",
+        "An unprecedented surge in crude oil futures forced market participants to reprice software valuations.",
+        "The central bank raised benchmark interest rates to combat domestic artificial intelligence bubbles.",
+        "Management announced an inaugural share buyback that reduced outstanding equity float."
       ],
       "a": 0,
-      "e": "TechnologyOne and Wesfarmers crossed into oversold parameters because persistent downward price action and concentrated liquidations outpaced underlying fundamentals. They hit oversold territory, not multi-year highs."
+      "e": "Ongoing downward pressure and sustained selling pushed relative strength metrics across thresholds, showing seller exhaustion near current bands. Sany Heavy Industry announced a buyback, not TechnologyOne."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Technology",
-      "q": "What strategic pivot characterizes Qualcomm's response to losing Apple modem revenue?",
+      "tag": "China · Trade and investment",
+      "q": "What broader structural implication is suggested by German direct investment surging into China while US-bound outlays collapsed?",
       "o": [
-        "Targeting a $60 billion enterprise infrastructure opportunity with Amazon for data centers",
-        "Filing paperwork for an initial public offering on the Nasdaq stock exchange",
-        "Acquiring Bugatti Rimac to boost forward cash conversion metrics",
-        "Issuing high-yield dividends to attract income-focused retail portfolios"
+        "Multinationals are re-optimizing global footprints and decoupling European and North American capital expenditure decisions.",
+        "German corporations are completely winding down their global operations to focus exclusively on domestic bonds.",
+        "Tariff tensions have forced all multinational entities to eliminate cross-border capital deployment entirely.",
+        "The United States has banned all foreign direct investment from European industrial firms."
       ],
       "a": 0,
-      "e": "Qualcomm countered the loss of Apple modem revenue by redirecting semiconductor capacity toward cloud providers, targeting a $60 billion Amazon opportunity for data centers. The Nasdaq IPO and Bugatti Rimac sale belong to Anthropic and Porsche respectively."
+      "e": "The divergence in capital allocation highlights how tariff tensions altered multinational strategies, implying a structural decoupling of European and North American capital expenditure decisions. Complete elimination of deployment is false."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Foreign direct investment",
-      "q": "How did German foreign direct investment behave geographically in the first half of the year?",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What do August crude production volumes indicate about Nigeria's adherence to production limits?",
       "o": [
-        "Chinese outlays surged by a third while US-bound capital fell by nearly two-thirds",
-        "North American allocations grew by a third while Asian outlays collapsed",
-        "Domestic capital formation dropped entirely as firms pivoted to oil extraction",
-        "Equities across all sectors entered oversold territory due to tariff uncertainty"
+        "Sustained adherence to cartel allocations marked the fourth consecutive month of quota compliance.",
+        "Complete disregard for cartel quotas led to an immediate surge in daily output beyond limits.",
+        "Total daily output collapsed below one million barrels, violating international agreements.",
+        "Production increases forced major producing nations to abandon their administrative frameworks."
       ],
       "a": 0,
-      "e": "IW data indicates a one-third surge in Chinese outlays alongside a nearly two-thirds collapse in US-bound capital formation due to tariff friction. The other choices invert these exact geographic directions."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Equity markets",
-      "q": "Why did Qualcomm pursue an expansion toward Amazon data centers?",
-      "o": [
-        "To offset the loss of modem revenue from Apple by pivoting production capacity toward cloud infrastructure.",
-        "To absorb excess semiconductor inventory caused by declining demand for mobile phones globally.",
-        "To hedge against rising Treasury yields that threaten the company's enterprise debt obligations.",
-        "To capitalize on new subsidies announced by the Federal Reserve for domestic technology providers."
-      ],
-      "a": 0,
-      "e": "Qualcomm redirected its semiconductor production capacity toward cloud providers specifically to absorb the loss of Apple modem revenue through a $60 billion enterprise infrastructure opportunity. The other options introduce factors like inventory gluts or central bank subsidies not present in the source text."
+      "e": "Production data shows sustained adherence and quota compliance for the fourth consecutive month, highlighting ongoing supply constraints. Disregarding quotas contradicts the explicit compliance data."
     },
     {
       "lvl": "a",
       "tag": "United States of America · Fixed income",
-      "q": "What market dynamic is primarily associated with US Treasury yields hovering near 5%?",
+      "q": "How does the August acceleration in US inflation alter terminal rate expectations ahead of the Federal Open Market Committee meeting?",
       "o": [
-        "High fixed-income returns that challenge the relative appeal of traditional dividend-growth equities like PepsiCo.",
-        "An aggressive tightening cycle where the Federal Reserve directly purchases corporate debt to lower borrowing costs.",
-        "A sudden liquidation of corporate bond portfolios following regulatory changes regarding capital requirements.",
-        "A complete inversion of the yield curve driven by immediate expectations of emergency rate cuts."
+        "It forces traders to re-price terminal rate expectations higher as energy-driven price growth complicates the central bank reaction function.",
+        "It prompts the Federal Reserve to immediately cut rates to offset the spike in consumer costs and energy shocks.",
+        "It reduces sovereign borrowing costs across the curve and lowers the risk-free rate used in discounted cash flow models.",
+        "It neutralises political pressure from Donald Trump and stabilises the implied yield trajectory."
       ],
       "a": 0,
-      "e": "Treasury yields near 5% create high fixed-income returns that test the appeal of long-standing dividend streaks like PepsiCo's. The other choices describe monetary interventions or yield curve behaviors that do not appear in the source text."
-    },
-    {
-      "lvl": "a",
-      "tag": "United Kingdom · Foreign exchange",
-      "q": "Why does domestic economic resilience complicate the monetary policy reaction function for Sterling?",
-      "o": [
-        "Positive growth prints challenge existing rate-cut pricing, leaving the currency vulnerable to global yield differentials and cross-asset flows.",
-        "Strong GDP numbers force the central bank to immediately abandon all forms of quantitative tightening.",
-        "Robust domestic expansion guarantees that foreign investors will liquidate all local currency holdings to buy gilts.",
-        "Higher growth figures automatically trigger deflationary pressures that eliminate the need for interest rate adjustments."
-      ],
-      "a": 0,
-      "e": "Realized economic resilience challenges existing rate-cut pricing, creating complex trade-offs for monetary policy and exposing the currency to structural carry dynamics. The alternative answers invent mechanical outcomes regarding quantitative tightening or deflation that lack source backing."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Foreign direct investment",
-      "q": "What drove the geographic re-weighting of German corporate balance sheets away from North America and toward China?",
-      "o": [
-        "Escalating tariff friction that altered marginal capital expenditure calculations and risk assessments.",
-        "Direct regulatory bans imposed by the European Union on all new capital projects inside the United States.",
-        "A massive collapse in Chinese corporate tax rates that made domestic North American production unprofitable.",
-        "Mandatory currency controls enacted by the central bank to force repatriation of foreign earnings."
-      ],
-      "a": 0,
-      "e": "Tariff friction served as the primary transmission channel, shifting risk calculations and prompting German firms to redirect inflation-sensitive budgets toward Asian markets. The wrong options rely on fabricated EU bans, tax collapses, or mandatory capital controls."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Equity markets",
-      "q": "Why did Porsche AG common stock appreciate following the monetization of the Bugatti Rimac equity stake?",
-      "o": [
-        "The divestment altered forward cash conversion metrics, prompting an upward revision to cash flow margin guidance.",
-        "Management used the entire cash proceeds to execute a multi-billion euro share buyback program.",
-        "The asset sale eliminated all long-term debt from the company's balance sheet instantly.",
-        "Regulatory authorities granted the luxury brand an exemption from all future corporate income taxes."
-      ],
-      "a": 0,
-      "e": "The monetization of the stake altered the firm's forward cash conversion metrics, leading management to lift cash flow margin guidance which expanded valuation multiples. The other choices invent share buybacks, debt elimination, or tax exemptions."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Foreign exchange",
-      "q": "How did changing rate hike expectations manifest in the positioning data for the Japanese yen?",
-      "o": [
-        "Speculative accounts flipped net-long as implied volatility shifted alongside the repricing of the central bank reaction function.",
-        "Commercial hedgers completely exited the foreign exchange market to avoid losses from widening interest rate differentials.",
-        "Retail investors flooded the market with short positions to capitalize on permanent deflationary shocks.",
-        "Central bank intervention forced all foreign market makers to close their speculative currency books."
-      ],
-      "a": 0,
-      "e": "Rate hike pricing accelerated the unwinding of carry trades, causing speculative accounts to flip net-long alongside shifts in implied volatility and positioning metrics. The other options falsely claim commercial exit, retail flooding, or forced central bank closures."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Politics",
-      "q": "What was the structural significance of the government-backed candidate winning the Okinawa gubernatorial race?",
-      "o": [
-        "It consolidated administrative alignment between prefectural leadership and the ruling national coalition.",
-        "It forced an immediate dissolution of the national parliament and triggered a snap general election.",
-        "It permanently resolved all long-standing trade disputes between regional authorities and foreign investors.",
-        "It transferred all fiscal budgeting powers from the central government directly to the prefecture."
-      ],
-      "a": 0,
-      "e": "The electoral victory reinforced the ruling coalition's regional political standing by securing administrative alignment between prefectural leadership and the national government. The wrong choices describe national snap elections, trade dispute resolutions, or fiscal power transfers."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate actions",
-      "q": "What operational environment accompanied Sany Heavy Industry's inaugural share buyback?",
-      "o": [
-        "Higher raw material prices and tax burdens compressed underlying margins despite ticking higher secondary copper rod operating rates.",
-        "A complete collapse in domestic manufacturing demand that forced widespread factory closures across the sector.",
-        "Unprecedented subsidies from the central bank that temporarily eliminated all corporate tax liabilities.",
-        "A sudden surge in foreign capital inflows that drove equity valuations to unsustainable historical peaks."
-      ],
-      "a": 0,
-      "e": "Sany's buyback coincided with an uptick in secondary copper rod operating rates alongside margin compression driven by elevated raw material prices and tax burdens. The alternative options introduce fictitious collapses in demand, sweeping subsidies, or runaway foreign inflows."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Monetary policy",
-      "q": "How did the Reserve Bank of India manage its policy settings amidst mounting external pressures?",
-      "o": [
-        "It maintained the repo rate at its prior setting while reaffirming its real GDP growth projection of 6.9%.",
-        "It aggressively hiked the repo rate by 0.75 points to counteract incoming crude oil price shocks.",
-        "It suspended all commercial lending operations until geopolitical tensions in the Middle East fully subsided.",
-        "It introduced quantitative easing measures to monetize government debt and stimulate industrial output."
-      ],
-      "a": 0,
-      "e": "The central bank kept its repo rate unchanged and held its real GDP growth projection at 6.9% while external pressures mounted. The incorrect answers falsely assert aggressive rate hikes, suspension of lending, or quantitative easing."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Equity markets",
-      "q": "How did escalating conflict between Iran and the United States transmit stress to domestic Indian equities?",
-      "o": [
-        "Surging crude oil prices in energy markets triggered shockwaves that caused major benchmarks like the Nifty 50 to plunge.",
-        "Foreign institutional investors were legally mandated to liquidate all Indian holdings to fund emergency defense purchases.",
-        "The central bank immediately closed the stock exchange to prevent currency flight.",
-        "Domestic corporations dumped their equity reserves to buy government bonds as a safe haven."
-      ],
-      "a": 0,
-      "e": "Energy markets reacted immediately as crude oil surged, transmitting shockwaves through local asset prices and driving the Nifty 50 down to 8.5% below its peak. The other choices invent regulatory mandates, stock exchange closures, or corporate liquidations."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What characterized Nigeria's oil production performance relative to its fiscal obligations?",
-      "o": [
-        "The country satisfied its assigned OPEC production quota for the fourth consecutive month, yet actual extraction volumes trailed national budgetary targets.",
-        "Production exceeded the OPEC ceiling due to unexpected technological breakthroughs, causing crude prices to crash globally.",
-        "Extraction volumes collapsed below the OPEC quota because of severe infrastructure damage from regional conflict.",
-        "The government unilaterally increased its output quota to make up for declining non-oil tax revenues."
-      ],
-      "a": 0,
-      "e": "Nigeria maintained its OPEC quota compliance for four straight months with August production at 1,680,000 barrels per day, but underlying output still missed fiscal budget projections. The wrong options suggest quota violations, technology breakthroughs, or infrastructural collapses."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Commodities",
-      "q": "What milestone did Nigerian oil production achieve in August?",
-      "o": [
-        "It marked the fourth consecutive month of adherence to the OPEC output ceiling with output reaching 1.68 million barrels per day.",
-        "It recorded the highest monthly output surge in national history, doubling previous extraction records.",
-        "It abandoned all international production agreements to maximize short-term export revenues.",
-        "It reached parity with domestic consumption demands for the first time in a decade."
-      ],
-      "a": 0,
-      "e": "Nigeria registered a 0.4% month-on-month increase to 1.68 million barrels per day, representing its fourth consecutive month of compliance with the OPEC output ceiling. The other choices fabricate historical production records, agreement abandonments, or parity with consumption."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Equity markets",
-      "q": "What market reaction accompanied Santos shares reaching a multi-year high on September 13th, 2026?",
-      "o": [
-        "It generated a technical breakout signal as momentum indicators flashed bullish readings amid concentrated volume.",
-        "It forced the stock exchange to halt trading due to excessive volatility in the energy sector.",
-        "It triggered an automatic short squeeze that wiped out all institutional bearish positioning permanently.",
-        "It prompted the company to announce an immediate secondary public offering to dilute existing shares."
-      ],
-      "a": 0,
-      "e": "The multi-year high triggered a technical breakout signal, with bullish momentum indicators reflecting concentrated volume that altered short-term systematic trading models. The alternative answers invent trading halts, permanent short squeezes, or emergency share dilutions."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Technical analysis",
-      "q": "Why did quantitative models identify TechnologyOne and Wesfarmers as oversold on September 13th, 2026?",
-      "o": [
-        "Rapid price declines and persistent downward price action outpaced underlying fundamentals, driving relative strength indices to compressed valuations.",
-        "The companies failed to report quarterly earnings, resulting in mandatory index exclusion.",
-        "Regulatory investigations into accounting practices caused automated algorithms to dump the shares.",
-        "A massive influx of passive index funds forced a rebalancing away from retail and technology names."
-      ],
-      "a": 0,
-      "e": "Persistent downward price action and rapid declines compressed valuations as relative strength indices reflected heavy liquidations that outpaced fundamentals. The wrong options rely on fabricated earnings failures, regulatory accounting probes, or passive fund rebalancings."
+      "e": "Hot inflation prints driven by energy shocks force desks to re-evaluate their models and re-price terminal rate expectations upward, complicating the Federal Reserve reaction function. The alternative options incorrectly assume easing monetary policy or falling yields in response to accelerating price growth."
     },
     {
       "lvl": "a",
       "tag": "United States of America · Equity markets",
-      "q": "What structural milestone did Anthropic reach regarding its capital structure plans?",
+      "q": "What mechanism transmits the rising Treasury yields toward 5% into the broader corporate and equity landscape?",
       "o": [
-        "It selected the Nasdaq exchange as its primary venue for a potential initial public offering, moving closer to floating shares publicly.",
-        "It completed a direct listing on the New York Stock Exchange without issuing new equity shares.",
-        "It finalized a private debt restructuring agreement to avoid entering public capital markets.",
-        "It merged with an existing special purpose acquisition company to bypass regulatory filing requirements."
+        "Higher sovereign borrowing costs tighten financial conditions, directly increasing the cost of capital for corporate borrowers and altering the risk-free rate in valuation models.",
+        "Rising yields automatically trigger initial public offerings on the Nasdaq exchange for artificial intelligence firms.",
+        "Higher yields expand private-to-public tech valuations by reducing the cost of debt for syndicate banks.",
+        "Higher yields decouple equity dividend yields from sovereign borrowing costs, lowering corporate capital expenditures."
       ],
       "a": 0,
-      "e": "Anthropic selected Nasdaq as its primary public listing venue to signal progress toward an initial public offering, though final valuation and structure parameters remain pending. The alternative choices incorrectly cite direct listings, private debt restructurings, or SPAC mergers."
+      "e": "Treasury yields near 5% tighten financial conditions by increasing the cost of capital and shifting the risk-free rate utilized in discounted cash flow models, which pressures equity valuations. The incorrect choices misattribute the effect of sovereign yields to primary market listings or lower borrowing costs."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "Why does positive domestic growth leave the Pound Sterling vulnerable to foreign exchange pressure?",
+      "o": [
+        "Stronger economic data complicates the monetary policy reaction function and challenges existing rate-cut pricing, exposing the currency to wider global yield differentials and structural carry dynamics.",
+        "Positive growth prints automatically guarantee sustained currency appreciation against all cross-asset flows.",
+        "Domestic expansion forces the central bank to lower interest rates immediately, eliminating currency exposure.",
+        "Growth upside insulates the currency from macro account reweightings and structural carry trade assumptions."
+      ],
+      "a": 0,
+      "e": "Positive economic news challenges existing rate-cut pricing and complicates the monetary policy reaction function, leaving Sterling exposed to wider global yield differentials rather than securing appreciation. The incorrect answers incorrectly assume that growth guarantees appreciation or forces immediate rate cuts."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Foreign direct investment",
+      "q": "What macroeconomic factor drove the divergence between German corporate direct investment into China and US-bound outlays in the first half of the year?",
+      "o": [
+        "Escalating tariff tensions redirected multinational capital flows, causing German firms to accelerate capital deployment in China while US-bound outlays collapsed.",
+        "The monetization of the Bugatti Rimac stake forced German enterprises to reallocate liquidity exclusively toward North American assets.",
+        "German foreign direct investment expanded because US tariff policies eliminated all trade friction between Europe and Asia.",
+        "A study by the IW institute mandated a structural decoupling of European capital expenditure decisions away from all manufacturing regions."
+      ],
+      "a": 0,
+      "e": "Escalating tariff tensions altered multinational strategies, driving a divergence where German direct investment in China surged by a third while US-bound outlays plunged nearly two-thirds. The wrong options misattribute this structural shift to corporate stake sales or institutional mandates rather than trade friction."
     },
     {
       "lvl": "a",
       "tag": "Germany · Corporate finance",
-      "q": "How did German foreign direct investment patterns diverge geographically in the first half of the year?",
+      "q": "How did the divestment of the Bugatti Rimac stake impact Porsche AG's equity valuation?",
       "o": [
-        "Outlays toward China surged by a third while US-bound capital formation collapsed by nearly two-thirds.",
-        "Investment in North America doubled while capital allocations to Asian markets fell to zero.",
-        "Domestic capital retention rose sharply while all international expansion plans were permanently canceled.",
-        "Outflows to emerging markets dropped evenly across all continents due to synchronized global tightening."
+        "It prompted sell-side models to make positive revisions after management lifted cash flow margin guidance following the monetization event.",
+        "It caused a steep decline in equity performance by reducing the firm's overall liquidity metrics.",
+        "It forced the company to initiate its inaugural share buyback to reduce outstanding equity float.",
+        "It triggered an oversold technical signal as momentum indicators registered exhaustion among sellers."
       ],
       "a": 0,
-      "e": "IW data indicated a one-third surge in Chinese outlays alongside a nearly two-thirds collapse in US-bound capital formation driven by tariff friction. The other options describe fictitious double-digit US investment surges, total domestic capital retention, or synchronized global drops."
+      "e": "The Bugatti Rimac divestment recalibrated Porsche AG's liquidity metrics and allowed management to raise cash flow margin guidance, which drove an equity rally and positive sell-side revisions. The other options confuse this transaction with share buybacks or unrelated technical momentum signals."
     },
     {
       "lvl": "a",
-      "tag": "China · Industrial metrics",
-      "q": "What trend characterized secondary copper rod operating rates in August alongside Sany Heavy Industry's buyback?",
+      "tag": "Japan · Foreign exchange",
+      "q": "How did speculative accounts respond to the shift in rate hike expectations across the Japanese yield curve?",
       "o": [
-        "Operating rates ticked higher even as high raw material prices and tax burdens compressed underlying margins.",
-        "Operating rates collapsed due to widespread power shortages across manufacturing hubs.",
-        "Operating rates remained entirely flat as price controls prevented any market adjustment.",
-        "Operating rates surged to multi-decade highs, completely offsetting tax cost pressures."
+        "Speculative positioning turned net-long on the Japanese yen, and leveraged accounts unwound short configurations as implied yield trajectories steepened.",
+        "Speculators increased short exposure on the Japanese currency to exploit widening carry trade return differentials.",
+        "Market participants reduced their duration risk by abandoning all commitment of trader pressures.",
+        "Leveraged accounts offset fiscal expansion by locking in lower short-term central bank benchmark rates."
       ],
       "a": 0,
-      "e": "Operating rates for secondary copper rod ticked higher in August, though elevated raw material prices and tax burdens squeezed underlying margins. The incorrect options claim power shortage collapses, flat price-controlled rates, or record surges that eliminated tax pressures."
+      "e": "As rate hike probabilities repriced higher across the curve, speculative positioning shifted decisively net-long and traders unwound short configurations, causing the yen to appreciate. The wrong choices incorrectly suggest increased short exposure or lower benchmark rates."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Equity markets",
-      "q": "What prompted market speculators to shift their stance on the Japanese yen?",
+      "tag": "Japan · Macroeconomics",
+      "q": "What defines the policy friction currently managed by Japanese authorities regarding fiscal and monetary measures?",
       "o": [
-        "Accelerating rate hike pricing altered interest rate differentials and drove net-long positioning changes in Commitment of Traders reports.",
-        "The central bank officially pegged the currency to the US dollar to eliminate foreign exchange volatility.",
-        "Commercial exporters flooded the spot market with foreign currency to take advantage of negative interest rates.",
-        "Foreign governments intervened directly to force an artificial depreciation of the currency."
+        "Ongoing fiscal expansion and government spending measures counteract the liquidity withdrawal and borrowing cost increases driven by Bank of Japan rate hikes.",
+        "Fiscal stimulus directly reinforces the central bank's tightening monetary path by accelerating debt sustainability.",
+        "Higher sovereign yields eliminate the need for government expenditure by fully funding the expansive budget.",
+        "Monetary tightening completely neutralizes the transmission mechanism of increased government expenditure without affecting sovereign yields."
       ],
       "a": 0,
-      "e": "Speculators flipped net-long as rate hike pricing accelerated and carry trade unwinding manifested in Commitment of Traders positioning metrics. The remaining options wrongly cite dollar pegging, commercial exporter dumping, or foreign government currency manipulation."
+      "e": "Japan faces a policy friction where the transmission mechanism of increased government expenditure counters the liquidity withdrawal driven by central bank tightening, complicating debt sustainability. The incorrect answers assume that fiscal and monetary policies are mutually reinforcing or that one entirely neutralizes the other's yield impact."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Corporate governance",
+      "q": "What is the primary transmission mechanism of the share buyback executed by Sany Heavy Industry and other SSE-listed firms?",
+      "o": [
+        "Repurchasing shares from the open market reduces outstanding equity float to accrete per-share metrics and enhance shareholder yield.",
+        "Issuing new shares to private market investors increases primary market liquidity and expands the company's equity base.",
+        "Acquiring foreign subsidiaries redirects capital expenditure away from domestic industrial operations.",
+        "Liquidating central bank reserves increases commercial bank deposits and lowers sovereign borrowing costs."
+      ],
+      "a": 0,
+      "e": "Open-market repurchases reduce outstanding float, which accretes per-share metrics and signals a shift toward enhanced shareholder yield among domestic industrials. The wrong options confuse buybacks with equity issuances, foreign acquisitions, or central bank reserve adjustments."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Venture capital",
+      "q": "What does the ongoing capital concentration in artificial intelligence developers and embodied AI startups like Chen Wei's venture imply about market pricing?",
+      "o": [
+        "Investors are aggressively pricing future monetization horizons across the AI stack despite broader macroeconomic headwinds and elevated private market valuation multiples.",
+        "Venture capital funds are abandoning large-language-model developers in favor of short-term sovereign debt instruments.",
+        "Private market valuation multiples are contracting sharply due to escalating trade tensions and falling primary market liquidity.",
+        "Early-stage capital allocation is shifting away from robotics toward traditional industrial manufacturing buybacks."
+      ],
+      "a": 0,
+      "e": "Despite broader macroeconomic headwinds and elevated private valuation multiples, massive venture liquidity and funding rounds like Z.ai's and Chen Wei's show investors aggressively pricing future monetization horizons across the AI stack. The plausible distractors incorrectly claim valuation contraction or a pivot away from AI toward debt or industrials."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Monetary policy",
+      "q": "How did the Reserve Bank of India's decision to maintain its benchmark repo rate align with its economic projections?",
+      "o": [
+        "Officials kept the repo rate unchanged while concurrently projecting real gross domestic product growth for the current fiscal year at 6.9%.",
+        "Policymakers lowered the benchmark rate to offset steep equity declines caused by escalating geopolitical tensions.",
+        "The central bank hiked the repo rate to counter surging crude oil futures across global trading venues.",
+        "Officials eliminated the repo rate entirely to align domestic indices with international crude production quotas."
+      ],
+      "a": 0,
+      "e": "The Reserve Bank of India maintained the benchmark repo rate while projecting real GDP growth at 6.9% for the current fiscal year. The other options incorrectly link the unchanged rate decision to policy changes driven by crude oil futures or geopolitical equity plunges."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Equity markets",
+      "q": "What triggered the steep declines in domestic equity benchmarks Sensex and Nifty?",
+      "o": [
+        "An escalation in the Iran-US conflict caused a risk-off move that coincided with a surge in crude oil futures.",
+        "The Reserve Bank of India unexpectedly slashed its repo rate below forecasted levels.",
+        "German foreign direct investment into Asian markets collapsed by nearly two-thirds.",
+        "Commercial banks increased their central bank reserve deposits to meet new tax perimeters."
+      ],
+      "a": 0,
+      "e": "Domestic equity benchmarks Sensex and Nifty plunged following an escalation in the Iran-US conflict alongside a surge in crude oil futures during a risk-off move. The wrong choices point to contradictory monetary decisions or foreign investment shifts rather than the geopolitical escalation."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Taxation",
+      "q": "What legal determination did the STJ establish regarding compulsory deposits on September 13, 2026?",
+      "o": [
+        "It ruled that PIS and Cofins taxes apply to the remuneration earned on mandatory central bank reserves.",
+        "It exempted commercial bank reserve placements from all federal tax perimeters.",
+        "It declared that mandatory reserve yields are exempt from compulsory deposit requirements.",
+        "It mandated that central banks must distribute reserve interest directly to equity shareholders."
+      ],
+      "a": 0,
+      "e": "The STJ ruled that PIS and Cofins focus on the remuneration for compulsory deposits, thereby defining the tax perimeter for mandatory reserve yields. The alternate choices incorrectly imply tax exemptions or mandatory distributions to shareholders."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · Commodity markets",
+      "q": "How does Nigeria's August crude oil production volume impact its fiscal and quota obligations?",
+      "o": [
+        "Output reached 1.5 million barrels per day, marking the fourth straight month of cartel quota compliance while remaining below domestic budget targets.",
+        "Production expanded by 0.4% to exceed domestic budget targets and surpass formal cartel allocation limits.",
+        "Commercial banks reduced their central bank deposits to finance an immediate surge in daily output beyond quota limits.",
+        "Sustained adherence to quota limits eliminated all fiscal shortfalls and reduced commercial bank reserve requirements."
+      ],
+      "a": 0,
+      "e": "Crude output rose to 1.5 million barrels per day in August, marking the fourth consecutive month of compliance with the cartel quota, though this level keeps output below domestic budget targets and leaves fiscal shortfalls unaddressed. The incorrect answers falsely claim quota breaches or full resolution of fiscal shortfalls."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · Banking sector",
+      "q": "What does the contraction in commercial lender placements with the Central Bank of Nigeria indicate about liquidity management?",
+      "o": [
+        "Commercial banks shifted their asset allocation as aggregate system deposits retreated, balancing short-term liquidity requirements.",
+        "Commercial lenders increased their reserve deployment to offset declining crude oil production volumes.",
+        "The central bank lowered its repo rate, forcing banks to withdraw all deposits from their accounts.",
+        "Mandatory tax rulings by the STJ forced banks to liquidate their entire N82.99tn reserve balance."
+      ],
+      "a": 0,
+      "e": "Commercial lender placements contracted 1.14% to total N82.99tn, indicating a shift in reserve deployment and asset allocation as institutions balanced short-term liquidity requirements. The wrong options attribute the deposit decline to external commodity output or unrelated tax rulings."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Equity technicals",
+      "q": "What market reaction accompanied Santos shares climbing to a multi-year high on 13 September 2026?",
+      "o": [
+        "Quantitative momentum metrics registered a bullish technical signal, prompting traders to price continuation risk into the near-term volatility surface.",
+        "Relative strength metrics crossed key thresholds into oversold territory, indicating exhaustion among sellers.",
+        "Market makers adjusted liquidity provision to account for a steep drop in underlying commodity prices.",
+        "TechnologyOne equities triggered a primary market buyback program across the ASX order book."
+      ],
+      "a": 0,
+      "e": "Santos equity printing a multi-year high generated a bullish technical signal driven by quantitative momentum metrics, leading traders to price continuation risk into the volatility surface. The plausible distractors confuse this with oversold conditions or unrelated equity issuers."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Market sentiment",
+      "q": "What do the relative strength metrics crossing key thresholds for TechnologyOne shares indicate on 13 September 2026?",
+      "o": [
+        "Equities entered oversold territory amid ongoing downward pressure, indicating exhaustion among sellers near current valuation bands.",
+        "Santos shares reached a multi-year peak, triggering quantitative momentum buying pressure across the ASX order book.",
+        "Syndicate banks priced an initial public offering against volatile rate expectations.",
+        "Quantitative oscillators confirmed that short-term liquidity requirements had fully normalized."
+      ],
+      "a": 0,
+      "e": "TechnologyOne equities crossed into oversold territory as sustained selling pressure persisted, with oscillators indicating seller exhaustion near current valuation bands. The other options mistakenly describe momentum buying in energy stocks or primary market debt pricing."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Commodity output",
+      "q": "What do the August production figures indicate about Nigeria's adherence to wider cartel frameworks?",
+      "o": [
+        "Output edged up by 0.4% to reach 1.68m barrels per day, marking the fourth consecutive month of quota compliance and highlighting ongoing supply constraints.",
+        "Production expanded significantly, breaching cartel allocations and expanding global supply limits.",
+        "Crude output contracted sharply as commercial banks reduced their central bank deposit holdings.",
+        "Output remained entirely flat, reflecting total deviation from major producing nation frameworks."
+      ],
+      "a": 0,
+      "e": "August production data indicates sustained adherence to cartel allocations with a 0.4% uptick to 1.68m barrels per day, marking four consecutive months of compliance and highlighting supply constraints administered by major producers. The wrong options incorrectly suggest quota breaches or flat, non-compliant output."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Equity markets",
+      "q": "What structural milestone did Anthropic's announcement on 13 September 2026 establish for public equity markets?",
+      "o": [
+        "The selection of the Nasdaq exchange for its initial public offering introduces another major artificial intelligence firm to public equity markets.",
+        "The execution of its first-ever share buyback reduced its outstanding equity float to accrete per-share metrics.",
+        "The cross-border capital deployment established a decoupling of European and North American technology investments.",
+        "The primary fundraising vehicle monetized its Bugatti Rimac stake to lift cash flow margin guidance."
+      ],
+      "a": 0,
+      "e": "Anthropic selected the Nasdaq exchange for its initial public offering, bringing another major artificial intelligence firm into public equity markets and providing a new barometer for private-to-public tech valuations. The distractors incorrectly attribute buybacks, European capital splits, or auto stake sales to this AI listing."
     }
   ]
 }
