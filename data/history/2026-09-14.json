@@ -1,448 +1,520 @@
 {
-  "generated": "2026-09-14T01:24:54.844Z",
+  "generated": "2026-09-14T02:26:24.596Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "14 September 2026",
-    "headline": "Ten-year Treasury yields approach 5% after a hot inflation report as the yen touches a seven-month high.",
+    "headline": "U.S. inflation shocks pushed Treasury yields near 5% as global tech shares and crypto sold off.",
     "lede": {
-      "b": "Ten-year Treasury yields approach 5% following a hot <span class='term' data-t='inflation'>inflation</span> report, which is a measure of how fast prices rise. A Treasury is a government debt security, which is essentially an IOU where investors lend money to the state in exchange for regular interest payments. Federal Reserve rate-hike bets increase as investors debate whether authorities will enact an insurance rate hike or restart a tightening cycle. Goldman Sachs maintains a bullish stance through these headwinds. Equity markets pull back and gold edges lower.",
-      "i": "Ten-year <span class='term' data-t='gilt'>Treasury</span> yields approach 5% following a hot <span class='term' data-t='inflation'>inflation</span> report that bolsters Federal Reserve rate-hike bets. Equity markets pull back and gold edges lower while investors debate whether authorities will enact an insurance rate hike or restart a tightening cycle. Goldman Sachs maintains a bullish stance through these headwinds.",
-      "a": "Ten-year <span class='term' data-t='gilt'>Treasury</span> yields approach 5% following a hot <span class='term' data-t='inflation'>inflation</span> print that bolsters Federal Reserve rate-hike bets. Equity markets pull back and gold edges lower while investors debate whether authorities will enact an insurance rate hike or restart a tightening cycle. Goldman Sachs maintains a bullish stance through these headwinds."
+      "b": "Hotter-than-expected price increases in the United States pushed the 10-year Treasury yield toward 5%. A Treasury bond is a loan that investors make to the government, which pays a fixed return over time. The yield is the annual return an investor receives relative to the price paid for that bond. Higher yields mean borrowing costs for businesses and consumers go up across the economy. That jump in borrowing costs drove gold prices lower and caused a broad sell-off in technology stocks and crypto assets like bitcoin.",
+      "i": "Hotter U.S. <span class='term' data-t='inflation'>inflation</span> readings pushed the 10-year U.S. Treasury yield toward 5%. Higher benchmark borrowing costs compressed valuations across risk assets, driving gold lower. Nasdaq futures tumbled nearly 400 points as tech equities sold off. Bitcoin retreated into the $76,000 range as investors reduced risk exposure across digital holdings.",
+      "a": "U.S. <span class='term' data-t='inflation'>inflation</span> prints drove the 10-year Treasury yield toward 5%, triggering a repricing across duration-sensitive assets. Gold retreated as opportunity costs climbed alongside real yields. Nasdaq futures dropped nearly 400 points and bitcoin slipped into the $76,000 range as leveraged risk exposures unwound across equity and digital asset books."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "Anthropic selects the Nasdaq exchange for an October initial public offering.",
-        "i": "Anthropic selects the Nasdaq exchange for a potential October initial public offering.",
-        "a": "Anthropic selects the Nasdaq exchange for a potential October initial public offering."
+        "b": "The 10-year Treasury yield approached 5% after hot inflation reports.",
+        "i": "U.S. inflation data pushed the 10-year Treasury yield toward 5% and weighed on gold.",
+        "a": "Ten-year Treasury yields approached 5% on hot U.S. inflation prints, driving gold lower."
       },
       {
         "c": "United Kingdom",
-        "b": "UK output expands in July driven by an artificial intelligence boost.",
-        "i": "UK output expands in July driven by an artificial intelligence boost.",
-        "a": "UK output expands in July driven by an artificial intelligence boost."
+        "b": "Sterling rose against other currencies because domestic economic growth beat expectations.",
+        "i": "Sterling gained against peers as domestic gross domestic product beat forecasts.",
+        "a": "Sterling appreciated against major peers following gross domestic product figures that surpassed forecasts."
       },
       {
         "c": "Germany",
-        "b": "German corporate outlays toward China surge by a third in the first half of the year.",
-        "i": "German corporate outlays toward China surge by a third in the first half of the year.",
-        "a": "German corporate outlays toward China surge by a third in the first half of the year."
+        "b": "The DAX 40 index led European losses while low water on the Rhine river slowed shipping.",
+        "i": "The DAX 40 led regional equity declines as stubborn inflation expectations weighed on sentiment.",
+        "a": "Frankfurt's DAX 40 led regional equities lower as persistent euro-area inflation expectations weighed on sentiment."
       },
       {
         "c": "Japan",
-        "b": "The yen hovers near a seven-month high against the dollar.",
-        "i": "The yen hovers near a seven-month high against the dollar.",
-        "a": "The yen hovers near a seven-month high against the dollar."
+        "b": "The Nikkei index dropped below 63,000 as investors worried about artificial intelligence valuations.",
+        "i": "The Nikkei fell below 63,000 on artificial intelligence sector worries and SoftBank's exposure.",
+        "a": "The Nikkei slid below 63,000 amid semiconductor selling and SoftBank exposure concerns."
       }
     ],
     "thread": {
-      "b": "Central bank policy expectations and currency movements drive activity across multiple regions. Monetary authorities prepare for upcoming policy gatherings while financial markets absorb shifting interest rate outlooks.",
-      "i": "Central bank policy expectations and currency movements drive cross-border asset allocation. Monetary authorities prepare for upcoming policy gatherings while foreign exchange traders adjust holdings.",
-      "a": "Central bank policy expectations and currency movements drive cross-border asset allocation. Monetary authorities prepare for upcoming policy gatherings while foreign exchange traders adjust holdings as rate bets shift."
+      "b": "Inflation concerns and technology stock sell-offs impacted markets across multiple countries. Central bank rate expectations shifted in both the United States and Japan.",
+      "i": "Global equities faced downward pressure from persistent inflation prints and tech sector liquidations. Central bank policy meetings drove currency and bond adjustments across major economies.",
+      "a": "Persistent inflation prints and tech sector repricing dominated cross-border equity flows. Central bank rate expectations drove distinct currency and sovereign yield adjustments."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US markets face inflation shock, yield moves, and IPO plans",
+      "sub": "Inflation shocks spark interest rate hike fears",
       "ind": [],
       "stories": [
         {
-          "t": "Treasury Yields Approach 5% as Markets Weigh Rate Hike Bets",
-          "src": "富途牛牛 · Bloomberg.com",
-          "b": "Ten-year United States Treasury yields, which measure the return on government loans, near 5%. Hot consumer price figures drive fears that the Federal Reserve might raise borrowing costs again. Gold prices edge lower and stock values pull back. Goldman Sachs maintains a bullish stance despite these headwinds.",
-          "i": "Ten-year <span class='term' data-t='gilt'>Treasury</span> yields approach 5% following a hot <span class='term' data-t='inflation'>inflation</span> report that bolsters Federal Reserve rate-hike bets. Equity markets pull back and gold edges lower while investors debate whether authorities will enact an insurance rate hike or restart a tightening cycle. Goldman Sachs maintains a bullish stance through these headwinds.",
-          "a": "Ten-year United States Treasury yields drift toward 5% on hot macroeconomic price prints, compressing equity multiples and triggering a pullback in stocks alongside a softer print for gold. Market participants debate the Federal Reserve reaction function, weighing an insurance rate hike against a full resumption of the tightening cycle. Goldman Sachs maintains its bullish stance despite these cross-currents.",
+          "t": "Treasury Yields and Inflation Jitters",
+          "src": "Investing.com · The Business Times · 富途牛牛",
+          "b": "Inflation means that prices for things go up over time. A bond is a loan you give to a government, which pays you back with extra money called interest. The yield is the money you make on that loan. U.S. Treasury yields neared 5.0% as hot inflation numbers spooked people. Gold prices slipped because of this data.",
+          "i": "Hotter U.S. <span class='term' data-t='inflation'>inflation</span> pushed the 10-year U.S. Treasury yield toward 5%. This increase in borrowing costs drove gold prices lower. Markets reacted strongly to these mounting price pressures ahead of the central bank meeting.",
+          "a": "Sticky U.S. <span class='term' data-t='inflation'>inflation</span> prints catalyzed a repricing of terminal rate expectations, pushing 10-year Treasury yields toward 5.0%. Precious metals faced immediate downward pressure as real yields climbed, forcing traders to reassess duration risk ahead of the Federal Open Market Committee decision.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdUNnBGQVkxTmxqdjdnRWxtdDdXTXRNTHVXNGtTcDZ2Tm9OX2N3RU96MEVEVmtLRkJhakktdWQtREVXMi14b28tSm83NzZOX0JCSlVqcjdyaGdVbnBXUkVZQzhBdkgzN0syczlJdEN6dDRVWHhoWnMwUWVoeXRGMGFjbDM4N0pHWU1jOHlYb2tHc0NGNE9XSw?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1UwdktIS01fNkIyUThhdTRMc0M3bW01SWVlQ3cxVnZZMldOMjJwYXFudHFIWVdZTFJDQUxzaEFjNkVOMW9qX2FVT20tc1dLNk1naS05UDE1X2JIM0V6X0V0MUs0b3lHeFBvXzl0b3VyNEE5YVJGdFZIZ1RMMGtUcmdHbXV4eGNLNzRaaXo0ajRBbFo0NTBqcmt1SW1HTVJpZ2F2WXJWV3lxREFSSFVlSjBXcHZYZw?oc=5"
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnFQbDFvakY4S18wZTMwTV9Ia0Fjc1lrZkVxYndNN3FTYjBmMHh1UV9HelI2TXRTcHMzU2hVWVdxcERES2d6Yzl4TzNnQ0ZDY1ZDaUtaclZUbjZxVnhPeEticVhzX3RVVUlJQXpCVmthWlNDMkZYS2FYWlc0VGtUSmZKY2tlV0xhUkpydEFVUk55TXV6RVJnaW9kOXc0Y04yVy10Sy1iV0FndlJXSlczSGM2ZG95dzE2ZlVCalBwdEh3LXhteTZOTmFndGplek9tOHc?oc=5",
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalNJVnVhTWdQbnA0X1dtNzFQMDZOdGpNMF8xZ2lwY0RCZHdmZlJaNmt3bEdNdE9mdXljb1dLbXk1cDZqdDU3ajBzSjNJN2h3a0xnY0ZkRTdoZ29EaTVDYTF5QnVUMUlRbGRjZ3EwQWc2UVJ3cmlrWGRlM3lXaFJPbDh2UFRtSG1DdV93cC1jclpqREtwbDFVWmFvW2hUUXQ1U0NFd0o4UkJHbjBGNkVqNHYtMVFtaHJYNmh4b2pGQ01EaFgyUDBWcmtmOA?oc=5",
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdUNnBGQVkxTmxqdjdnRWxtdDdXTXRNTHVXNGtTcDZ2Tm9OX2N3RU96MEVEVmtLRkJhakktdWQtREVXMi14b28tSm83NzZOX0JCSlVqcjdyaGdVbnBXUkVZQzhBdkgzN0syczlJdEN6dDRVWHhoWnMwUWVoeXRGMGFjbDM4N0pHWU1jOHlYb2tHc0NGNE9XSw?oc=5"
           ]
         },
         {
-          "t": "Anthropic Targets Nasdaq for Potential October Public Listing",
-          "src": "Moneycontrol.com",
-          "b": "Anthropic selects the Nasdaq exchange for a potential initial public offering. The artificial intelligence company targets a listing in October. Reports outline plans for the upcoming market debut.",
-          "i": "Anthropic selects the Nasdaq exchange for a potential initial public offering. The artificial intelligence firm targets an October listing date according to recent reports. Market participants monitor the upcoming debut for new technology sector supply.",
-          "a": "Anthropic selects Nasdaq as the venue for its potential initial public offering, targeting an October execution window. The listing introduces fresh primary equity supply to the technology sector. Syndicate arrangements and valuation targets remain anchored to the projected autumn timeline.",
+          "t": "Tech Stocks and Crypto Retreat",
+          "src": "finance.biggo.com · Investor's Business Daily · CNBC TV18",
+          "b": "Stocks are tiny pieces of ownership in a company. Bitcoin is a digital token used like money. Tech stocks and Bitcoin dropped sharply. Bitcoin fell to the $76,000 range. Nasdaq futures slid nearly 400 points as tech shares faced heavy selling.",
+          "i": "Nasdaq futures tumbled nearly 400 points alongside a broader tech sell-off. Bitcoin retreated into the $76,000 range following the broader inflation shock. Investors dialed back risk exposure across digital assets and equities.",
+          "a": "Nasdaq futures dropped nearly 400 points as equity markets priced in tighter monetary conditions alongside artificial intelligence growth concerns. Bitcoin retreated to the $76,000 range, demonstrating high beta correlation to macro liquidity shifts. Risk assets suffered uniform drawdowns as real yields approached critical resistance.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUlyc05fU1pVN29jSzZRTkdfWkdXTGVZZVg2XzQzQWhrMlMtQ012Z0c2Z1ZnaHE5TE9TTW1GeUNPVXhOWWZ1MGVlbDJMT18tTmNmaU9EbGNsZEJwVU5Scm5oWXE0RlNKdFF0TGdxdUlmYXp0SVlaaFBlRldGNlBEekc3aDhPejVIQTRpUDRhRGdPdGFqQkhGc2JSQjR5QklkeXRzWng2NktZOGJzbzBkVWFaUGZoYms3NlE?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNa0RBNW5MbmZYNjNqNVZSMnUzVkROT01JaWhqZG9jTTlSLWh4MTFkSHN2cWh4TXZSZ19iN3VpdFUyVnhGbmZEVUk5dlJrcFd3VWVPLVhRSm1hQ3FGV185NVlNSlFVaUM1WjJwbnNVd08tNmZ6VlE?oc=5",
+            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5",
+            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM2xLZE1oS1FfREx4TVBZREU0RTdkNDZZTENrWnppSmJ1THhQYjZXVGVuOC1iVU5Ydnh1T3gzWkRaZUVYU1pGZEFJdV90OF9CQ0d4M25CNGFTRi1YbXhmSzZMRlZoWjFjRU9Ta2hnVHdFN09POGNjMV9MNnNWMDdfWTliNEJBcjk5W0FvbmxBSGNMUElFdkstTFQ0c0h4RzZpTUp0VmlMckI5a0ItR29aVlVyc0ZWRTJtMnB2TG9tLVotSFRjWFVHdFFyanpUV1NObTFKa0NBMGRzQTZz0gHYAUFVX3lxTE1reHNRRFNRY3RCalF5R2FyamFxRGhpcDRNSjd0bnJsSExFeXNLbnZIdkl2RnhENmhvczJOeW9XLW9RTnBWOVpGSFNmMlQzeXFvdTl1NEFhWUs0U242MGpkdnpyanBMdWpGWjdnT2l3c3BPOFUxcE5FZkRHMlFYMHZSSkx4a2FuS09pSmpsbUpWdFlXeE5JeVFiY2I0VTUwR192LXdyZGFGYnpYdE94RUZrMHhzZEQ5a1RvWU5BZHJXSVh3dHJSVkQ5cGZzSVc5eEprMjdhV2Z6eA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Social Security Fairness Act sends lump-sum checks to 3 million public retirees. An IRS election spreads the resulting tax burden across the years it was owed.",
-        "i": "The Social Security Fairness Act distributes lump-sum checks to 3 million public retirees. A specialized IRS election allows recipients to spread the associated tax liability across the specific years the funds were originally owed.",
-        "a": "The Social Security Fairness Act delivers lump-sum distributions to 3 million public retirees. A specific Internal Revenue Service election permits taxpayers to amortize the resulting tax liability across the chronological periods in which the income accrued."
+        "b": "Donald Trump told the Federal Reserve to cut interest rates. He said the United States should have the lowest interest rates in the entire world. Other voices argued about whether the central bank should raise rates again.",
+        "i": "Donald Trump urged the Federal Reserve to cut interest rates. He asserted that the United States ought to maintain the lowest borrowing costs globally. These comments arrived amid market debates over whether consecutive rate hikes are necessary.",
+        "a": "Donald Trump publicly urged the Federal Reserve to reduce interest rates to secure the lowest global borrowing costs. This political intervention coincided with active market speculation regarding potential consecutive rate hikes or insurance rate adjustments by the central bank."
       },
       "timeline": [
         [
-          "13 Sep 2026",
-          "Bitcoin trades down to the $76,000 range following consumer price data."
-        ],
-        [
           "14 Sep 2026",
-          "Ten-year Treasury yields approach 5% as rate hike bets increase."
+          "10-year U.S. Treasury yields approach 5% as inflation prints spark rate hike bets."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "UK economic growth picks up in July on AI boost",
+      "sub": "UK equity indices head into open after growth beats expectations",
       "ind": [],
       "stories": [
         {
-          "t": "UK Economy Expands in July",
-          "src": "qatar-tribune.com",
-          "b": "The UK economy grew in July. Artificial intelligence helped drive the expansion. This was a surprise to many observers. The data was published on September 13, 2026.",
-          "i": "UK output expanded during July. An artificial intelligence boost propelled the surprise growth. The figures were released on September 13, 2026.",
-          "a": "UK gross domestic product printed a surprise expansion for July. An artificial intelligence-driven productivity impulse underpinned the monthly acceleration. The latest national accounts data crossed the wires on September 13, 2026.",
+          "t": "UK Growth Figures Push Sterling Higher",
+          "src": "Business Recorder",
+          "b": "Sterling is the money used in the UK, also known as the pound. It went up in value. This happened because new economic growth data came out. The numbers were better than what people thought they would be.",
+          "i": "Sterling rose against peers following the release of fresh data. The currency gained strength because domestic growth exceeded forecasts. Gross domestic product figures surpassed expectations.",
+          "a": "Sterling appreciated after macroeconomic prints showed activity beating consensus forecasts. The upside surprise in domestic output drove the currency higher. Traders adjusted positions as growth outperformed prior estimates.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXRJbFdKalhBRl93Y0d1M1drNE5Nd1c3SW1yRVkxTWY0VU85VkVfMjViQkw1ZHA2SEJVa3AwbGxMUXVkeVh3VHNZSUoxajI5LWJCbnBjVVRTWGNZb18ySXlnUERBakJraWI4WjZ2OHVfNXJUbVFCT3J4NW1WUUJWRlZzNFZlek5JRzM0OHowTldPZzJtODFHbUUwdUh1Ylh5R1c3WG130gGrAUFVX3lxTE1wYkd4cUt5a0w4akdmRkVHdDg4Sjl2WWVST3dUU3REaHlQajFHNjREdFc3ampFclhiaEhja25ycVFMZm52b2g2UnFrVThmelR4dWstWWlYOHhlYTFqSENaQUtaX0RCQjBGVjJtSE5lYzdiYWVmdFQwRVVGeGpUNFpIOE9HRFNNd1d1c2JxQ25CUV9reENsTi14LVRpUEkzWkdtNVVpWV9RRXMzMA"
+            "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tZXFCSU1kYmRTVDZmNEhXOXJrQUtudUJVT1P3RXpiU0tFMlkzOXJnYXhtX0dpZGNwN29GeVJrMDdnNFNqaVY3TFdvWjV0Q1JrOUgtT01B0gFWQVVfeXFMTi1lcUJJTWRiZFNUNmY0SFc5cmtBS251QlVPUDdFemJTS0UyWTM5cmdheG1fR2lkY3A3b0Z5UmswN2c0U2ppVjdMV29aNXRDUms5SC1PTUE?oc=5"
           ]
         },
         {
-          "t": "FTSE 100 Companies Reduce Charitable Contributions",
-          "src": "The Times",
-          "b": "Firms listed on the FTSE 100 index reduced their spending on charity. The FTSE 100 is a stock market index that tracks the largest one hundred companies listed on the London Stock Exchange. The report was covered by The Times on September 13, 2026.",
-          "i": "Firms on the FTSE 100 index curtailed their philanthropic spending. The FTSE 100 tracks the largest one hundred equities trading in London. The Times reported the trend on September 13, 2026.",
-          "a": "FTSE 100 constituents scaled back aggregate philanthropic outlays. The corporate giving contraction appeared in reporting from The Times on September 13, 2026.",
+          "t": "FTSE Indices Face Muted Open",
+          "src": "ad-hoc-news.de",
+          "b": "Stocks are small pieces of ownership in companies. Major UK stock indices like the FTSE 100 and FTSE 250 showed quiet movement before the market opened. Individual companies like LondonMetric, Reckitt Benckiser, and Barratt Developments experienced minor lags. Meanwhile, other firms such as Tritax Big Box and Serco saw modest gains.",
+          "i": "The FTSE 100 and FTSE 250 printed muted moves ahead of the opening bell. Equities such as LondonMetric, Reckitt Benckiser, Barratt Developments, IMI, and Morgan Sindall lagged slightly. Conversely, Tritax Big Box and Serco posted modest gains.",
+          "a": "The FTSE 100 and FTSE 250 hovered near flat lines ahead of the cash open. Idiosyncratic weakness dragged down components including LondonMetric, Reckitt Benckiser, Barratt Developments, IMI, and Morgan Sindall. Small upward adjustments lifted Tritax Big Box and Serco.",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2w2Vy01ZG1UVUtjZWFLYlFla3NhdGtOSWMwZ183a3lLb0pnYWRiSWZEYllvNEoxdzVlX0tNUWxJQW9uaUtVRUJjVVVhb3pxNFZKVXlTS3Vnb0xRbkM5ZHc4dWNOVHotYkpVc3hKam5oS2ZLSk1CUERXa0syZHdwdjc2SFMwY3VQd1htLXJ2Y2M1QktOVjI3czUzajVjZ1JVeTNrZkh1VGk1bTFv?"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVY2eGlUNlVaRDM5bC1wZGFNQ3dpVUlRZVJ6eWZlYXJPR1lPVldRMHo1ZEtZZ19yWHFLLWl5TE52UWVUMWg3cUFwSGxJUHdDdnZ0WUgxRHFIb2FMQ0JBSmtDTWRFaktGVkplLVVMcG9MbjFsUXZUTnExdmhnaFNoNGoyT25HV3FyYUtrTTdvY2ZJcmNVYkU4UVhWc2xwd2JvNmlFTXJpR1RjTzZUeWVxZVQ1SjBDeTVfa1VhVW5EcXRPM2wwQjJVdg?oc=5",
+            "https://news.google.com/rss/articles/CBMizwFBVV95cUxNak5feEpuUGI0anVCWEw3YWJuNDR4ZVYwMzZlaGJzWms5YTRvQWNDUXB5LTJMRm5vcS1TNlM1Q3NxalY1ZVp4SFUtby12Z1ZLeFU0ejlYaFlBMHNoWXR0LXlDRjY2RC0zRGltX0pvczRSeDJZeXM0NlVxMi1uQ3ZKa3FRdThTRDhJcUJHZjNCNVIwUW5PWTUzODR1ZURvS3dZMjFRMUVYVjNlZ1JsWFFldEw0Q0dNRVBJdktmTjhhZ1lQcXJKZzI5UnF2QVFQNXc?oc=5",
+            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlpES3N1VkhTUjcwMFRoeUYxdWNKclhxdURWUHI0S0poeFJqcmlINWQ5UC1mVjV0MzJ2VC16LUpqenc1bHR4WkVtV2RyVExvZHFuZFhwTkM2R2Z4T01TSkoxZlhodERCckplTzI3U0pRRk1FZElfSTVHcS16OFEzUjZ6dHNVRWdPWlZjU2QzcllIYXdabmVXaFZ4Ykp6b1Nyc0p3eGNnLWQxWExiVE81ZEtpcVhDWFhXOUwxZWFpMlp1NGc?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkVzTnkwOTVDZ0RlbzRzMWRpZVhLUS1DdllaXzhrdWxLUW5xUFR1b1ZybmVySWdmdEZlQmc2UkU3VGplSF9nU0tYMzZtLXp0bkpkYWduOGQ1d0dfbF9JYVN5ZkFFTW5lWHFrYzNVLW9YZkRGdWRzazBBbEd1ak90OWg3N0RDNkpMbl9haUl3RXNZNUZuNFNPemxLdzFubkQ3M2YzREozMWJDTGdHMW1aQmhTaktpeHA3V0psVUlLckdyWUlLWEtXUEdCQXg?oc=5",
+            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVVNel9BSElZWnRxRjdmdTU4eTNORXJzbngyMFpIc3ZaYjA0eWpFMDFlVnpHakJnZ3FwaUNmOXZQMG5RRVpNeTNEMXQxb0t2SFU2U3A2NlhMTjRiZFVsaEtNWlRicmsyOEtneXQzLWVmX2N1MWxQaFZiSkY5Tk5wU0Y2NTQ1WVczUUZPM3psdDFNZzdXcGZQSlB6Zk1pV3JKSHdQRWFESTMwY0ptQm1rc1p5dmdyWmtBclRrbTdSMC1LZFA1Vl9UeFh2REtkVlB0cEZ3?oc=5",
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMl9pLV9KZm5UTmt4LU5ZNG1EUWJJWVlLNk16eG9iU0ZqR0lpRk9La2RfbzF1emgwUTktWENfclEyaHVvcGVCZlktMVhRTlR2X2s5dVVocjg5WFlHc3g0U20wbm9YbGh0R0Q0cTExLWlxTm1Td1dUVDI2bGRuZDQ0N1VqQkN5enNkMk9EOHlhMGZKREpMNTFxN1J4ZFFxYUpERHVseTRaZmx0dFFVNkZUQ015WUhobks3djlqTA?oc=5",
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZEdjVkxXTVJiVXVxMlNpdGpqYi1pdHl1WldEc2J4Y216TUZOUUtwdkdUdXJ2UFFwejdqWmRudjFERDlzOHQwdjFqLTRsNEV5ajIzVUsxUW13YjZoSUM3ejZfTEFIS01uMEE0YmI0VWxiUF9tSWhkSk5pdWZTbk02T21lajRxZEZSWUt3LTg2ZkpUdkh2M2R3dGFhZnotY2V0ZzlfLVFGNjBWcDJuQjY0YTFKOEZnUm1keUh5YklISHM1MDRWU3JueG1FMA?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1NDRFZTeHhPcktZWFlxRGxHZnRxY2xlTmRXeF9qZ0gyeTZ1aEU0V2Ryc09BckpNODdELUZpMWVtbGFVNWpMWjhOMlVDOVlYNlZqTmdNUE9kTUpIX0tIb3lVNi1zQlp3eW9xQUZOREM0UmRzVkZRT1VsUDNFNXFCbjVlOTVhQy1MRHZFdHRQN2dXZ3hxRFZTZ0Q1ZzM5SmdkTHBIQml5Ym9DUy1UVjhDTmNuUTlEdFFuNWhCalRGOA?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRGl4Z2J6ZEpYS1RDT0R2eVlTYlNsbkxTY0lpU0Zoc0dWa1hmLVBoS09uT3NaMW9INmhSLTBOM2FUajB6MV96TzNYN19WWkRRYlNtV1FINk80TmRuNmVwODF3RFI1b1VuazBhSzZyM05SUllLMjZ3NlBvYkh2dTdSWE14S0VWT2pFTWQwYU1Mbm1IUGRwYjJHM3FreHNlSU1tZUFVNl9uMk43b3RJbERlTVdsUnhFcGxCR2pJMHUyUVU?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "A review of the Bank of England is facing questions about its structure. The Bank of England is the central bank of the United Kingdom, which sets interest rates. Researchers published these questions on September 13, 2026.",
-        "i": "A forthcoming review of the Bank of England drew scrutiny regarding its institutional framework. The Bank of England sets monetary policy for the UK. CEPR published the evaluation questions on September 13, 2026.",
-        "a": "An independent review framework for the Bank of England prompted analytical questions regarding its mandate and operational independence. CEPR released the commentary on September 13, 2026.",
-        "i_gloss": null
+        "b": "UK economic growth numbers recently exceeded expectations.",
+        "i": "UK economic growth data beat prior forecasts.",
+        "a": "UK output figures surpassed consensus expectations."
       },
       "timeline": [
         [
-          "13 Sep 2026",
-          "CEPR published a review questioning aspects of the Bank of England's operations."
-        ],
-        [
-          "13 Sep 2026",
-          "Data showed unexpected UK economic growth in July driven by artificial intelligence."
-        ],
-        [
-          "13 Sep 2026",
-          "The Times reported that FTSE 100 companies cut back on charitable donations."
+          "13 Sep",
+          "UK growth data beats expectations, lifting sterling"
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German investment shifts and river transport disruptions",
+      "sub": "German shares lead European losses and transport links disrupt trade",
       "ind": [],
       "stories": [
         {
-          "t": "German Investment Shifts Toward China",
-          "src": "Firstpost · BigGo Finance · Arise News",
-          "b": "German companies spent more money building things in China. This increase was one-third higher in the first half of the year. At the same time, money sent to the United States dropped by almost two-thirds. Tariff tensions influenced this change in where businesses put their cash.",
-          "i": "German corporate <span class='term' data-t='inflation'>outlays</span> toward China surged by a third in the first half of the year. Conversely, US-bound investments plunged by nearly two-thirds amid mounting tariff tensions. IW studies captured this divergence in cross-border capital allocation.",
-          "a": "German foreign direct investment flows decoupled across major jurisdictions in the first half of the year, with commitments to China expanding by a third while US-destined capital outlays contracted by nearly two-thirds. This geographic reallocation occurred against a backdrop of escalating tariff frictions. IW data indicates corporate balance sheets are actively restructuring supply chain exposure away from North America in favor of Asian markets.",
+          "t": "Frankfurt Stocks Lead Regional Declines Ahead of Policy Meeting",
+          "src": "BBN Times · investingLive",
+          "b": "Share prices in Frankfurt fell faster than anywhere else in Europe. Investors sold stocks while waiting for the central bank to make its next choice on borrowing costs. This comes as officials warn that rising consumer prices will stick around for longer than previously thought.",
+          "i": "The DAX 40 index in Frankfurt led European losses ahead of the upcoming central bank decision. Markets reacted to comments from Frankfurt indicating that the euro-area <span class='term' data-t='inflation'>inflation</span> shock will persist longer than anticipated. Traders adjusted equity positions as monetary policy expectations shifted.",
+          "a": "Frankfurt equities underperformed broader European indices as the market priced in a protracted <span class='term' data-t='inflation'>inflation</span> trajectory following recent commentary from central bank leadership. The yield curve and equity valuations adjusted concurrently as participants positioned for the upcoming rate decision under more stubborn macroeconomic constraints.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXA5RGw2aXNOX08yR1lDOUUzVzZ1TUNoR3hpMnJlbTJ6RWg0VnkxZ2JBSWV1cURaMlpXUUpXNjlhVnFSalJuQ0YzbUVVbTFKbEdFcFg4aXlJaXNaZ1dGa3BWVGFEWVdhVmo4RlcyZFpyYkN1RTJ0dFJtUEY2eUFOQ0lhRUdnenFRRnJnR21XMGFpTGNzOUcxbzdGeGZuZ2NDOEwtTTRVcTJENXR5WUIzSWp2V0xQNFF0S0tMdm45TUdTNEtl0gHKAUFVX3lxTE9KZy02b3d2ZFhtbFYwd0NHWkJIVGVMbFFteFpVRlBNMmJpVnYtaDdCTFhtMWZSeVplMDNFVHBDOV9mLTg3NEtWVjIwOHRQVGxNQXlIWUdxNHNtelgzNndrNWhDSDlSekVCWGFQQVdCMVlkVERWWm1SWkxYSzFGUGlqZ0xyUEpZLUY1dWc5MHBLd0QtUE9HQkNqdkUzSWJzbVRNZ1VjcFZOQ0F6QUZsZF9pb2R2T0YxVktoXzUyVmFackF0S2dUZFlXeGc?oc=5",
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnX2RPbExEUE9KU1NyMldMYllxdTRjNnZfWFdob0J2dHZWQjBoLXpXd1E3YUZ4MTNlMVR3NGxSNlJpbWFlQVAzUElzSmdSUGt2MDNLQkZiX2RBSVl2d0xnRHlzUEZPRDIzdFdiNWx0UnVDX0tPRlE?oc=5",
-            "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHNOUVdoZnlMMzVpcG01djJoQm1WV1ctVXZTM1JmdjEtcjc1YmRLaWVsbjE4MzlIaTBOSjdvTHJkNXhHek94cUlXODJLX21pR0ZmUThBZDlRUFRETnpVX0JzamV3OEpLRjVKYkc4bGh3U195NzYtNlhXaU1tZk9YMXZfdUdKOWdCUXFqUjFPRlVrdXNqQmNHT0ZOSUdCQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG9Xd2xBNTJraW5UeGpTbUJuVERPVGMydm5hZ24tWTZfeGtCcWw2UF9ZR0tkYWNxR2d3T01TVVNUazNLdTFIcGRCTUJBSG9mcjNLYzhKMGVHNW4wbEpiSXlaUHAtZm05RTNRZDZOcEFwVU9oLWdkVVhiVGpWdHFzM0VkNEFfUU5XSDJlVlRGejlIWVhxUUhGRnVNU19PRnh3N0UycFI5Ym1SQVk0bFllcXQ1ODBaMmM?oc=5",
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREs2bTlPa0c2VXRON29qaW9KLWZTa1JQUjZTLXFKM3JUdDJfaEkzSU5XYlRwaTdqYjFDN0MyZ2RDVjllZ192UUQtOWFVRTEyNnVYaGlHVUVJUUxFNWw1RFNtYzUwZGJfVjRrNkpSd3hPcjV1b0tkYzlOekE0Xy0xSDZjWFVzN082dGdLeWxxQml2M0E1cWxpQlhJd2I5UGJSM2pnRTZIeXdyenpjQjN5ZlhGWW0yMGtHNkcxeQ?oc=5"
           ]
         },
         {
-          "t": "Rhein River Shipping Disruptions",
+          "t": "River Transport Bottlenecks Impair Domestic Commerce",
           "src": "GuruFocus",
-          "b": "Water levels or other issues on the Rhein River caused problems for boats carrying cargo. These shipping disruptions affect the wider German economy. Companies rely on these waterways to move goods around.",
-          "i": "Logistical bottlenecks emerged along the Rhein River as shipping disruptions impacted the broader German economy. Commercial transit routes faced obstacles that hindered cargo movement. Industrial supply chains experienced friction due to these waterway constraints.",
-          "a": "Rhein River transport restrictions introduced immediate logistical drag into the German industrial sector. Navigational impairments constrain domestic freight capacity, forcing manufacturers to absorb higher transport costs. These inland waterway disruptions threaten input delivery schedules across manufacturing hubs.",
+          "b": "Shipping disruptions along the Rhein River are causing problems for the German economy. Low water or blockages make it hard for cargo boats to move goods. Companies rely on these waterways to transport raw materials and finished products.",
+          "i": "Rhein River shipping disruptions created logistical bottlenecks that impacted the broader German economy. Cargo vessels faced operational constraints along key waterways, slowing the transport of industrial inputs. Supply chains absorbed additional friction as alternative freight routes proved difficult to scale.",
+          "a": "Rhein River transit restrictions generated negative supply-side shocks for industrial output through constrained freight capacity. The logistical impairment transmitted directly into manufacturing input costs and inventory delays along key German commercial corridors. Production schedules absorbed the capacity reduction as structural alternatives to fluvial transport remained limited in the short term.",
           "links": [
             "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmRfRHVTR04tNHduMVRyMXE0YkVDbWE1czI5SG1oOW5MRGtlSFZSd2oyb2o4Y3duY3pvLWdmUFdVbGJPYUdmU2o1eEktVnpLXzk3MW9mbk1UOFdkeU9TQ1FOQjk5N3B4b2ttQVF6dlFPQkZOLU84WDRDOFBIZGM2aW1GUGs3dFhFY2tIeEFfYnNEQjNpWUJaTg?oc=5"
+          ]
+        },
+        {
+          "t": "Bundesbank Adopts Enterprise Blockchain Infrastructure",
+          "src": "Coinfomania",
+          "b": "The central bank of Germany became the first institution to deploy a new core system called Prividium Core. This software was launched by ZKsync to help large organizations handle digital data securely. Officials tested the technology for official use.",
+          "i": "The Bundesbank became the initial institutional adopter of Prividium Core following its launch by ZKsync. The central bank integrated the enterprise blockchain infrastructure for operational deployment. This adoption marks a notable state-level engagement with zero-knowledge scaling solutions.",
+          "a": "The Bundesbank established precedence as the inaugural deployer of ZKsync's Prividium Core infrastructure. The integration incorporates privacy-focused scaling technology into institutional architecture, validating enterprise-grade zero-knowledge applications for sovereign central banking use cases.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzgtVjdlV0dMek9BbnIyUVQ1cXZJeHI4Y3U2b19HSFdZTW5ISFk2TjRYVjk3aDlSdlZseEVkWGRER2VDRGx0bGFoV2w4MU0tM1dIb1FRR3pRbWJUZXNEVmNfMW1GVkJYVUFDSlJvVnF1SkYzYnFTcGJPUUpPSjJfN0owTzdJcUNEREE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Central bank officials discussed ongoing economic pressures in Europe. ECB President Christine Lagarde noted that price increases will take longer to fade than previously thought. Meanwhile, the Bundesbank deployed new blockchain technology.",
-        "i": "European Central Bank chief Christine Lagarde warned that the regional price shock will persist longer than anticipated. Concurrently, the Bundesbank became the first institution to deploy ZKsync's Prividium Core. Frankfurt equities faced downward pressure ahead of upcoming monetary policy decisions.",
-        "a": "European Central Bank President Christine Lagarde signalled a protracted inflation trajectory for the euro area. Against this macroeconomic backdrop, the Bundesbank adopted ZKsync's Prividium Core infrastructure. DAX 40 equities in Frankfurt traded lower, leading regional European losses ahead of the central bank policy announcement.",
-        "gloss": "inflation"
+        "b": "German economic officials face pressure from stubborn consumer price increases and disrupted shipping routes. The central bank deals with these economic challenges while adopting new software tools. Leaders must balance policy choices as financial markets react.",
+        "i": "German policymakers navigate persistent price pressures driven by supply chain constraints along the Rhein River. The Bundesbank adopts blockchain infrastructure while the ECB prepares for upcoming monetary policy decisions. Market participants monitor these intersecting fiscal and logistical challenges closely.",
+        "a": "German institutional authorities manage concurrent pressures from fluvial transport failures and entrenched price shocks. The Bundesbank executes enterprise technology deployment while the sovereign economy absorbs structural friction. Monetary policymakers calibrate their upcoming decisions against deteriorating domestic growth indicators and persistent inflation expectations."
       },
       "timeline": [
         [
-          "13 Sep 2026",
-          "Bundesbank deploys ZKsync Prividium Core"
+          "13 Sep",
+          "The Bundesbank deploys Prividium Core infrastructure launched by ZKsync."
         ],
         [
-          "13 Sep 2026",
-          "ECB chief Lagarde comments on euro-area price shocks"
+          "13 Sep",
+          "Frankfurt equities lead European losses ahead of the ECB policy decision."
         ],
         [
-          "13 Sep 2026",
-          "IW study highlights shifts in German foreign investment"
+          "13 Sep",
+          "Lagarde notes that euro-area price shocks will last longer than expected."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen near 7-month high ahead of central bank meetings",
+      "sub": "Japanese stocks slide as AI fears hit markets",
       "ind": [],
       "stories": [
         {
-          "t": "Yen Touches Seven-Month High",
-          "src": "Reuters · TradingView",
-          "b": "The yen is the official money used in Japan. It just reached a very high value against the US dollar compared to the last seven months. Currency markets are places where people trade different countries' money. Traders get nervous when big meetings from central banks are coming up. Central banks are special banks that manage a country's money supply and interest rates.",
-          "i": "The yen hovers near a seven-month high against the dollar. Currency markets experience jittery trading sessions as participants position themselves ahead of upcoming monetary authority decisions. The US Federal Reserve and the Bank of Japan both hold pivotal policy gatherings this week. Foreign exchange traders adjust holdings as interest rate expectations shift across major economies.",
-          "a": "The yen approaches a seven-month peak against the greenback amid heightened positioning in the FX market. Macro participants recalibrate risk profiles ahead of concurrent central bank conclaves from the Federal Reserve and the Bank of Japan. Implied volatility rises across G10 FX options as carry trades face ongoing unwinding pressures. Policy divergence expectations continue to dictate cross-border capital flows.",
-          "gloss": "carry",
+          "t": "Nikkei Falls Below 63,000 on AI Fears",
+          "src": "finance.biggo.com · Investing.com Nigeria",
+          "b": "Stocks are shares of ownership in a company. Japanese stock indexes represent baskets of these companies traded together. The Nikkei index fell below 63,000 amid worries about artificial intelligence investments. Semiconductor shares saw heavy selling alongside these market declines.",
+          "i": "The Nikkei index briefly dropped below 63,000 as concerns over artificial intelligence investment slowdowns weighed on sentiment. Semiconductor stocks faced heavy selling pressure across the board. Broader index movements reflected worries about AI sector valuations.",
+          "a": "The Nikkei breached the 63,000 threshold following negative sentiment regarding artificial intelligence deployment. Semiconductor equities suffered broad liquidations as market participants reassessed high capital expenditure cycles. This downside move tested key technical supports near 62,500.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzNkV09NNEdQWTNoSFp6dGI0bWxzUU82ZWQ4TjZfWVI4bWZibFBJNVVBRmZpMC00WWVKdExyZUhKTEttU3pRTWczSEhMbVR4RzdSeHhBd0tnQy04aGVzMTcwZEJjenRKNGRhcDZQeWx3YTVhTkUxZC1tbnNud3ZyS1JYTmpFTDU4OXRjcWdaeTd0ZXRzaUxMM2VQUy11YXZidmRHVDU4VkJQbHExRHVXUUh5dw?oc=5",
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEhKaHJJeDFhdDY1bmlTcWo1X1o3aExpU0ZTeWJ2Q3ItOV9USVE3dTI1N0VvMkZOVjdJcm9YNFN2SmM5MWEyUVV4NEFuVnlXWEVhemJpY2dGSUNteVRiLXVtRk13WEcyamQxREFuTGh4N0pzTEE1QmNOTk5meHdmT2QtWXRfbXRSZlU0UjgwNkVqemtUME5kNDk3d2RGbkVqakNVOEplOFVvNjJCVjRiRmM0NzRZTDEtMUJLc2QwNnIwOFBjR0o5SEZncw?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zLUFvQ0pyR0lTYi1GUXJYZnRWZkhzUVhNWXNGb3RxZjVhUDlIa1ZLdG9EMlJHUzJRMlE1UkRYd2xGeFliTTJKRUFTQ01aSTM4Z1RtSXNJaHBNak16ZnVrRUtqcHNFLWNVZGVERFBiNDdYejhKOXc?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZ3RzNneFpsVU43b2JudGxfS25tR2F0ZmRPMEFXUlRlOXdDTUQ2QW1DckpQZy0tQ0ZUQWluczNSaG04RmxLc1dudVpHUGhiTFhFbFJYRGVCNFprX0dsZjM5bGhhWXVhTkJ5ZUtGUzFCeVdwbEE2VE5EdWE1enJDeW5jMWdfNmh1N2pBRFZzTUhSa05qYkNMNEtMcUFmelIzT0J4dURyVzd4bEVDcVRhcmVlTUFXUm84M3d3SXFvOA?oc=5"
           ]
         },
         {
-          "t": "Tokyo Shares and Corporate Scandals",
-          "src": "Investing.com Nigeria · TradingView · Moomoo",
-          "b": "The Nikkei 225 is an index, which is a list that tracks the value of many big companies on the Tokyo stock market. It is getting close to dropping past the 62,500 level. Stocks opened with selling pressure on September 14. Meanwhile, the president of Chubu Electric is resigning because of a nuclear data scandal.",
-          "i": "The Nikkei 225 index nears a potential breakdown of the 62,500 support level amid a bearish trend. Tokyo equities open with immediate selling pressure on September 14. Corporate governance issues also emerge as Chubu Electric's president prepares to resign following a nuclear data scandal reported by the Nikkei.",
-          "a": "The Nikkei 225 index tests the 62,500 support threshold within an entrenched bearish channel. Equities in Tokyo face persistent selling pressure from the opening bell on September 14. Idiosyncratic risk compounds broader market headwinds as Chubu Electric's leadership transitions following data compliance irregularities.",
+          "t": "SoftBank Shares Drop on OpenAI Bet Concerns",
+          "src": "techi.com",
+          "b": "SoftBank is a major Japanese investment company. Its share price sank nearly 12 percent. This drop happened because worries grew about its massive $64.6bn investment in OpenAI.",
+          "i": "SoftBank shares plunged nearly 12 percent following market anxiety over artificial intelligence sector developments. The drop directly impacted investor perception of its $64.6bn investment in OpenAI. Broader technology sell-offs compounded these equity losses.",
+          "a": "SoftBank equity declined by nearly 12 percent as market participants scrutinized its $64.6bn exposure to OpenAI. Technology sector revisions directly pressured the conglomerate's valuation. This markdown reflects growing skepticism around near-term returns on mega-scale artificial intelligence funding.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXZ3RzNneFpsVU43b2JudGxfS25tR2F0ZmRPMEFXUlRlOXdDTUQ2QW1DckpQZy0tQ0ZUQWluczNSaG04RmxLc1dudVpHUGhiTFhFbFJYRGVCNFprX0dsZjM5bGhhWXVhTkJ5ZUtGUzFCeVdwbEE2VE5EdWE1enJDeW5jMWdfNmh1N2pBRFZzTUhSa05qYkNMNEtMcUFmelIzT0J4dURyVzd4bEVDcVRhcmVlTUFXUm84M3d3SXFvOA?oc=5",
-            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX1JrRlFfd1I4ZlU3SUhkMm9oVkVxbVVpTkR6bVpCb1V4RWxFcUwtdU1oT3JGeDl0dW1mRnVnSkV2eDMxSWlwZFB3TGk3dmtYR1Q2bWhSWWFvSGI1R1VmX3F4Q1Y2TUdsazJSdGN3YXdhQTJGaGJRa0ZjMjIxTzFpN3plLUMxRzBxRzRUdEVxOVZpVlpqWk9FdEdQbTU1S3FuallvZnlLcXBlX1A0VndTNFFhZ0o3OWhDQklJS0RfOHlTZkRUaDdLMFZxUlFqNFhLMnc4bThZRUcwa3M4NXFBag?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnp0XzhWRXlJOFdncUl6Zm95LWsyNC1DYXRfQk1IZXVSWWMyZk1GMWNYdFc3T290QWVQZ3BjVU9KNnJTVElhMmRVdDJLNWVENEpYZFFjQlJRX3k3RkswZWJMZmJzY0t0alV0YnNFenloMWFXVVJicUZ4TlYxT0tkODVaS3FTQjZwLUZSaEl5anIzN0dGQk53akRmaVljMHNCRnVDNFEtVjVyWXhtT3dFUw?oc=5"
+            "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPOXZEYzBsMEpBYkFqMzZWMDl3SldhbTRfS3ZLV1hNejd2LXFYeE9UTzRQVHNlbFp1S2hRSmlVc3VnV1RSaEZnbmhXQndSb3E1NUhUQ3plYlh5aE5aemdWdDB1WmItQ2hOYWZ3Wm9wdkhPblgzRjZr?oc=5"
+          ]
+        },
+        {
+          "t": "Yen Holds Near Seven-Month High Ahead of Bank of Japan Meeting",
+          "src": "BusinessToday Malaysia · finance.biggo.com",
+          "b": "The yen is the official currency used in Japan. A central bank is the government institution that manages a country's money supply and sets interest rates. Odds for a rate hike at the upcoming Bank of Japan meeting topped 70 percent.",
+          "i": "The Japanese yen held near a seven-month high against the dollar. Traders priced in a rising probability of a Bank of Japan rate hike, with odds topping 70 percent ahead of the central bank meeting. This anticipation amplified risks surrounding the unwinding of the <span class='term' data-t='carry'>carry</span> trade.",
+          "a": "The Japanese yen maintained levels near a seven-month high against the United States dollar. Bank of Japan rate hike probabilities surpassed 70 percent ahead of the monetary policy decision, accelerating positioning adjustments. These shifting expectations heightened risks of further <span class='term' data-t='carry'>carry</span> trade liquidations across global asset classes.",
+          "gloss": "carry",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZzFNUzVZU09YRkt4bHJZUGZvdEpEbXBSR1dqWjJXRHZTdTB3aEkyQlAxSWdlYmFFeW1RaXRGUWlHbnRIcWpLMkp1dkczNG1rLWZOUHhmcTZPYVRqWGRMaVJwRFpMNFhZbGVhVEk4VUZvM0xhdzctMFc1bzZKOTMxMXFJTUFTNUZkTlU0LS0wMVlZa0Y0ZmFUVkg1cEVMVDVmWjRjSnR2akhCWml6bjBhRk50ekY4VDNqZlZFVzg4MXdJd2VKRHZFT0RB?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE44U2RvV0gtUm1CZFh3aldmYndlQUpHcF81U05oZkhWMm1XZkRpNDFlaGVZYXZ4ejFzR2owYjZxeE95TWstekVZUHp3Rlo3OUJqRjA1cmdFSFRNOTRZNm1nclVNRWxKZzNGTjU1cEdxbWpXMFQ1eXc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There is no major government election news inside Japan today.",
-        "i": "Domestic political developments remain absent from the core economic updates.",
-        "a": "Electoral updates within the domestic jurisdiction are absent from macro release schedules."
+        "b": "No political updates are available in the current financial news sources.",
+        "i": "No political updates are available in the current financial news sources.",
+        "a": "No political updates are available in the current financial news sources."
       },
       "timeline": [
         [
-          "10 Sep",
-          "Bank of Japan releases its latest account statistics."
+          "14 Sep 2026",
+          "SoftBank shares drop nearly 12 percent following concerns over its OpenAI investment."
         ],
         [
-          "14 Sep",
-          "Tokyo stock market opens with selling pressure as the Nikkei 225 tests support levels."
+          "14 Sep 2026",
+          "Nikkei index trades near 62,500 support levels amid semiconductor sell-offs."
+        ],
+        [
+          "14 Sep 2026",
+          "Bank of Japan rate hike odds exceed 70 percent ahead of the central bank meeting."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Export surplus grows while local budgets face property strains",
+      "sub": "Trade surpluses widen and tech firms raise capital",
       "ind": [],
       "stories": [
         {
-          "t": "Export Growth Drives Wider Trade Surplus",
-          "src": "WSJ",
-          "b": "China's international trade surplus grew larger recently. This happened because the speed of selling products to other countries went up. When a country sells more than it buys, it runs a trade surplus. The data showed stronger export performance overall.",
-          "i": "China posted a widening <span class='term' data-t='deflation'>trade</span> surplus as outbound shipments accelerated. Export growth outpaced import demand to expand the net surplus figure. Customs data revealed the stronger external trade dynamic across major shipping routes.",
-          "a": "China reported an expanded trade surplus driven by accelerating export momentum. The widening gap reflects resilient external demand despite broader domestic sector headwinds. Customs figures confirm that outbound shipment growth outpaced inbound flows over the reporting period.",
-          "gloss": "deflation",
+          "t": "Export Growth Accelerates as Trade Surplus Widens",
+          "src": "wsj.com",
+          "b": "China's trade surplus grew larger. Export growth sped up. Overseas sales brought in more money than spending on imports took out. This balance forms the trade surplus.",
+          "i": "China's trade surplus widened as export growth accelerated. Overseas shipments outpaced foreign purchases, expanding the net trade balance. Stronger outbound momentum drove the surplus higher.",
+          "a": "China's trade surplus widened on accelerating export growth. Outbound shipments outpaced domestic absorption capacity. The resulting trade surplus reflects persistent external demand relative to domestic consumption.",
           "links": [
             "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzlXWTJCbHBEV3JlN0ItV0gtX3A0Y2duVkNvdWRfZ1h1bWtMSVhIejE0angwQTV5SUkzV2VXMkNxYjlhLWt5Vk5QbnBlMVpTaHVuTWczel9wd1ZEWFEwTXQzRDBHbHpWelNNNDhKZl84MzlkaGFmanpBQnpOUU85dWR0Y2VIS21DbExiYlBENUV4QXppNmM4amhWaktqa2Z3?oc=5"
           ]
         },
         {
-          "t": "Property Overhaul Weighs on Local Government Finances",
-          "src": "Bloomberg.com",
-          "b": "Local governments in China are facing money problems. This is because the government changed how the property market works. Real estate used to bring in a lot of cash for regional authorities. Now, that income has dropped significantly.",
-          "i": "Local government revenues in China came under heavy pressure. A sweeping property market overhaul disrupted traditional land sales and related fees. Regional authorities rely on these real estate proceeds to fund local administrative budgets.",
-          "a": "China's ongoing property sector overhaul created acute fiscal strain for regional administrations. Land sale revenues collapsed as structural reforms reshaped municipal balance sheets. Local government financing vehicles now face constrained funding channels following the policy shift.",
+          "t": "Technology Firms Announce Major Capital Raisings",
+          "src": "marketscreener.com · finance.biggo.com",
+          "b": "Hygon Information Technology will use 330 million yuan for working capital. Inspur Electronic Information plans a 9 billion yuan placement to boost AI computing power. CATL kicked off a buyback worth up to 40 billion yuan.",
+          "i": "Hygon Information Technology allocated 330 million yuan of funds for working capital. Inspur Electronic Information planned a 9 billion yuan share placement to boost artificial intelligence computing power. Contemporary Amperex Technology kicked off a buyback programme valued at up to 40 billion yuan.",
+          "a": "Hygon Information Technology allocated 330 million yuan for working capital requirements. Inspur Electronic Information planned a 9 billion yuan equity placement to scale artificial intelligence computing infrastructure. Contemporary Amperex Technology initiated a share repurchase programme capped at 40 billion yuan.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZm5rUXJMX2JySWRTTkFNWHk4Wk94MTFNSFgtemVLVlVVSGlpM1NhRm9WT2pYbmwtdWdRcUp5VGF2ZmVVWkVQLXAydHhPQ3pxWklSMlNFR0xNQ29TUHI2eVZqWnZGU2tHM2NYTUhZTEd4SjY1elJtZzU5bXFQRk1NQmROaG9EVm5VSUZiMEItV3ZBVWFaaFBzW2lyWlBrTWo1cHFkbHlBTllFOHpjbUlBaUZhOVZBdw?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdjRFbXo2cWNXaGF0UHRlVzJqYVBJa3d1a0x0Z0hpYjhIbmVCMFJPUDZWQ2pwWXpTbWN2aVBVOXhRRjlpZFVMWXZoajAwN0g3dlByRXNLNENrUjhsdDRFQVl3c28tQXJ6Y3U4Vko0ZWNOazFKaWplSWJ3dk5rNnNkaDFjR3VISE0wUTVhSXYyQ3RsNFBpTXFzRWRuZmN0cmc0eWxENVhIVlhWUjJGVFR1V2I5STB4WXU4Vm1HTW44cktXd1ZRVHhvNlpWRQ?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UdURIV0ZZVTZkdzk1R1hyVHM4Tm5LWkJvMlZXQVVISUFBRldpWTAzSUxUbm4ySFFaQlZTOWNOSDRIdEZEZGxNRGRsOFNyRVZxaWZZMzB5Z1I3MG5lMC01bENKc2RRcXFZY2hQdnFza19OVDI5UkE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Official policy changes aimed at the real estate sector continue to impact regional government money supplies across the country.",
-        "i": "Structural adjustments in the property market reduced traditional municipal revenue streams, testing local fiscal stability.",
-        "a": "The systemic property sector overhaul altered regional fiscal frameworks, forcing local authorities to navigate compressed land-sale revenues."
+        "b": "Property overhauls put strain on local government income. Domestic demand weakened. Incentives rose across the country.",
+        "i": "China's property overhaul put strain on local government income. Weakening domestic demand prompted rising incentives. Officials managed fiscal pressures from the real estate transition.",
+        "a": "China's property sector overhaul strained local government revenues. Weaker domestic demand triggered increased policy incentives. Subnational fiscal balance sheets absorbed structural adjustment costs from real estate deleveraging."
       },
       "timeline": [
         [
-          "13 Sep",
-          "Property overhaul impacts local government income"
+          "13 Sep 2026",
+          "Property overhaul strained local government income in China."
         ],
         [
-          "14 Sep",
-          "China reports wider trade surplus as exports accelerate"
+          "14 Sep 2026",
+          "China reported a widening trade surplus driven by export growth."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Sensex gains, RBI holds repo rate at 6.9% GDP forecast",
+      "sub": "Stock exchanges close for holiday while equities edge up",
       "ind": [],
       "stories": [
         {
-          "t": "Mumbai Shares Rise and Central Bank Holds Rate",
-          "src": "bbntimes.com · News On AIR",
-          "b": "Mumbai shares went up to 74,902.59. This happened even though Brent crude stayed above $100 per barrel. The Reserve Bank of India kept its repo rate unchanged. Repo rate is the interest rate a central bank charges commercial banks for short-term loans. The bank projected real GDP growth for the current fiscal year at 6.9%.",
-          "i": "Mumbai shares edged higher to 74,902.59 despite Brent crude staying above $100 per barrel and Middle East geopolitical tensions. The central bank kept its repo rate unchanged at the recent meeting. Meanwhile, the RBI projected India's real GDP growth for the current fiscal year at 6.9%.",
-          "a": "The BSE Sensex closed at 74,902.59 against headwinds from Brent crude holding above $100 per barrel and regional Middle East tensions. The monetary authority maintained the repo rate at the prevailing level while projecting real GDP growth for the current fiscal year at 6.9%. These readings anchor near-term sovereign debt assumptions across local desks.",
+          "t": "Stock Exchanges Close for Ganesh Chaturthi",
+          "src": "Business Standard",
+          "b": "The BSE and NSE are major stock exchanges. A stock exchange is a marketplace where people buy and sell shares of companies, like a big digital shop for company ownership. Both exchanges closed today for the Ganesh Chaturthi holiday. Trading on these venues will resume later.",
+          "i": "The BSE and NSE suspended operations for the Ganesh Chaturthi holiday. Market participants paused equities trading during this domestic observance. Normal settlement cycles resume following the closure.",
+          "a": "The BSE and NSE observed a trading holiday for Ganesh Chaturthi. Liquidity shifted away from standard cash equities during the closure. Domestic order matching halted for the session.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLU9ZWnVnUDA4cTNFLUdhc0M5dTdJVGdOXzV5UnZQakpEV0R5RWVMYlVpQmZsR3VoSFFJTmVDSFUtc3FldmwxWWFLSFRjYXc5U3FISmU5NG1xM25OSFY5eC11bGxUa0J6ZjlMWXZEYmc4VkpSdmgwQzVyRmctMERJOFdLam9adjVxNGw1LTVuZGU5b1ZjbWMwOFliYmhJZ3ZRZU03Nkl0VFpXci0zZVpKS1dZdXZHWlZEckJkSFVSQ0liMEEzV3RQSUV2NVVDZTRDdGo4RVlnTjNwWG9qNDFwSnRuNHIwMGExZ1VVOEVBUlQ0ZHJLUWtCT2NENi1RQ2FvTmtIUWo2OFk5Z3AxYUpJ?oc=5",
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5"
+            "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanJWWVp3UU9CcTdjMEpfUWVVQVdYU1Z2T25IYTdFZ0pXYTdQaXB1enNMN09sY0Q0aWFDWDl4RHp4UWxSQ0hXNDNyX3FQLVFDUXlrSW9nQlRxeDdOMTdtVE1NX2ItUzdWYmlDcnI0ZDBnOV9RdVBXMXFPd2ZKYy1RbVAxdE51WUtqVU9JRHE5SFpFc3FjNHJkd3pNNWpLc0tjM0xKc1hQVS1iNlBULVNCNlRjU1VtblNCRWZyOFVIcEU4VzJzMVVvYTBCejZDRGvSAdQBQVVfeXFMTTFwTHY4X3luV3lOV2I3RVRmZUdkVWJwQ0F2X1BMY3FoMXh2S3lvT2E2TTFjRno1TVJPNmxVY1JnQi14dE9ST1R5ZHVhR0pWMF9XaVY1X0xjRTA0Nkh5TXJFM0tPQnoxUlRsczlMeGZEcHpaTVVrMDk5Y0F0a0dFcllYbEhEcDhMb0t2NXU2dkpiN0pXVkdPNFBMNUpIaVhKNGw5LV8xZmVEVGJMM2RmOEJnZnlpTEsyYzlqUV9UVW1WZ2JQVGtGcncxOTl1cG9iLTJtYWY?oc=5"
+          ]
+        },
+        {
+          "t": "Mumbai Equities Rise Despite Brent Crude Levels",
+          "src": "BBN Times",
+          "b": "The BSE SENSEX reached 74,902.59. Shares in Mumbai climbed higher. This happened even though Brent crude oil stayed above $100 per barrel. Higher oil prices can make energy expensive for businesses.",
+          "i": "The BSE SENSEX advanced to 74,902.59. Mumbai shares edged higher during the session. This upward movement persisted despite Brent crude remaining above $100 per barrel alongside Middle East tensions.",
+          "a": "The BSE SENSEX printed 74,902.59. Equities in Mumbai absorbed macro headwinds from Brent crude holding above $100 per barrel and regional Middle East friction. Price action demonstrated resilience against imported energy cost pressures.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLU9ZWnVnUDA4cTNFLUdhc0M5dTdJVGdOXzV5UnZQakpEV0R5RWVMYlVpQmZsR3VoSFFJTmVDSFUtc3FldmwxWWFLSFRjYXc5U3FISmU5NG1xM25OSFY5eC11bGxUa0J6ZjlMWXZEYmc4VkpSdmgwQzVyRmctMERJOFdLam9adjVxNGw1LTVuZGU5b1ZjbWMwOFliYmhJZ3ZRZU03Nkl0VFpXci0zZVpKS1dZdXZHWlZEckJkSFVSQ0liMEEzV3RQSUV2NVVDZTRDdGo4RVlnTjNwWG9qNDFwSnRuNHIwMGExZ1VVOEVBUlQ0ZHJLUWtCT2NENi1RQ2FvTmtIUWo2OFk5Z3AxYUpJ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Economic updates show steady figures for growth and oil prices.",
-        "i": "State planners monitor crude pricing and monetary levers.",
-        "a": "Fiscal policy vectors intersect with external energy shocks."
+        "b": "The Reserve Bank of India suggested new safety rules to stop digital frauds. Officials want to protect people from online financial crimes. These measures aim to make digital transactions safer for everyone.",
+        "i": "The Reserve Bank of India proposed additional safety protocols. These guidelines target the prevention of digital frauds. Regulators seek to secure electronic transaction channels against illicit activity.",
+        "a": "The Reserve Bank of India formulated enhanced security frameworks. Regulatory intervention focuses on mitigating rising vectors in digital fraud. Compliance mandates target structural vulnerabilities in electronic payment rails."
       },
       "timeline": [
         [
           "13 Sep",
-          "BSE Sensex reaches 74,902.59 in Mumbai trading session"
+          "Reserve Bank of India proposed digital fraud safety measures"
         ],
         [
-          "13 Sep",
-          "RBI announces unchanged repo rate alongside 6.9% GDP projection"
+          "14 Sep",
+          "BSE and NSE closed for Ganesh Chaturthi"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Tax rulings and currency funds in focus",
+      "sub": "Corporate and legal updates from Brazil",
       "ind": [],
       "stories": [
         {
-          "t": "STJ Rules on Compulsory Deposits Tax",
-          "src": "jurinews.com.br",
-          "b": "Taxes are fees that people and businesses pay to the government. The STJ is a high court in Brazil. This court made a decision about how two taxes called PIS and Cofins apply. These taxes will now focus on the money earned from compulsory deposits. Compulsory deposits are funds that banks must hold with the central bank.",
-          "i": "The STJ delivered a ruling regarding PIS and Cofins. These taxes will now apply to the remuneration generated by compulsory deposits. Banks hold these compulsory reserves with monetary authorities as part of regulatory frameworks.",
-          "a": "The STJ adjudicated that PIS and Cofins levies apply strictly to the remuneration derived from compulsory reserves. This judicial interpretation clarifies the tax treatment of yields on mandatory central bank deposits for financial institutions.",
+          "t": "Wood Secures ExxonMobil Contract",
+          "src": "Upstream Online",
+          "b": "A company named Wood won a big deal worth $200 million. This money comes from ExxonMobil. The work is for an LNG project, which means liquefied natural gas.",
+          "i": "Wood secured a $200 million contract from ExxonMobil. The award covers work for an LNG project.",
+          "a": "Wood secured a $200 million award from ExxonMobil for an LNG initiative. The capital injection underscores project momentum within the energy sector.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2FNclIzbzI2dTVsWHZhZzljelBWUlF4ZnU4WWstM2xNOGNBYVRLQ1ZmOHFoU25sdW5TNGEzLWdFcW1pR3dTWmEtYjJnY191Xy1hYmZha1hlUkpEamFpUC1vVFFLQjF4dEpBV2pvd05CWHhseURDNEV1WGlfWHZKSG1LRW83VlZ3TDZKUzZmaUtKN05RaDFzVmJJd2hBUnBHLVZF?oc=5"
+          ]
+        },
+        {
+          "t": "STJ Rules on Compulsory Deposits",
+          "src": "Jurinews",
+          "b": "The STJ made a new legal decision. This ruling is about PIS and Cofins taxes. These taxes now focus on the money earned from compulsory deposits.",
+          "i": "The STJ decided that PIS and Cofins taxes apply to remuneration derived from compulsory deposits. The court issued this legal determination recently.",
+          "a": "The STJ determined that PIS and Cofins levies target the remuneration of compulsory deposits. The judicial verdict clarifies the tax treatment for these specific reserve earnings.",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU2MUFWR3M2TG9xVWdOOEJnbFlpbzk5SWpRTE13aV84aC1CX1pEc0RIcVJHT1RlSDRpNTFsTGtZZU9GS3JYU1pudXpCX2lxX2taUG5MOXZOS09hekdVeEk3RVhfYmtmbkM1bnNoQUZWSW5NTldIOGdIZFVlYWtKcnVydVR0RFpvR1hMV3N3RkpReEgwaFIzNkxDX051Mnd0QmNKVzhlU2hLSVlW?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Brazilian courts handle legal questions about how taxes work. Companies and banks must follow these updated rules from the judges. The government collects these funds based on court instructions.",
-        "i": "Judicial bodies in Brazil continue to shape corporate tax liabilities through specific case rulings. The STJ clarified the scope of federal levies on financial deposits. Legal interpretations directly determine corporate tax burdens across the banking sector.",
-        "a": "The STJ decision sets a legal precedent for federal tax collection on statutory reserves. Jurisdictional clarity on PIS and Cofins impacts institutional balance sheets. Courts maintain an active role in defining tax perimeters for financial assets."
+        "b": "Courts and companies make new moves in Brazil today. The government and legal systems shape how business runs.",
+        "i": "Brazilian judicial bodies adjust tax rules while firms secure international energy contracts.",
+        "a": "Brazilian corporate developments center on judicial tax rulings regarding bank deposits alongside major energy infrastructure awards."
       },
       "timeline": [
         [
           "13 Sep 2026",
-          "STJ decides that PIS and Cofins focus on remuneration for compulsory deposits."
+          "The STJ delivered a ruling regarding PIS and Cofins taxes on compulsory deposits."
+        ],
+        [
+          "14 Sep 2026",
+          "Wood announced a $200 million contract win for an ExxonMobil LNG project."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Nigeria sustains crude production limits for four months",
+      "sub": "Aramco plans Red Sea routes and global crude climbs past $100",
       "ind": [],
       "stories": [
         {
-          "t": "Nigeria Extends Quota Adherence",
-          "src": "Punch Newspapers · Head Topics",
-          "b": "OPEC is a group of countries that work together to control how much oil they pump. Nigeria pumped 1.68 million barrels of oil per day in August. This met the target set by OPEC for the fourth month in a row. Production went up by 0.4% compared to the month before.",
-          "i": "Nigeria recorded its fourth straight month of OPEC quota compliance. August crude output reached 1.68 million barrels per day. Production climbed 0.4% from the prior period.",
-          "a": "August crude production printed at 1.68 million barrels per day, marking four consecutive months of OPEC quota compliance. Output expanded by 0.4% month-on-month, maintaining quota adherence despite lingering budget shortfalls.",
+          "t": "Aramco Explores Alternative Red Sea Oil Transit",
+          "src": "EnergyNow.com",
+          "b": "Aramco is the state oil company of Saudi Arabia. It extracts and sells petroleum around the world. The firm is now looking into moving oil through the Red Sea. This helps tankers skip the Strait of Hormuz. The strait is a narrow water passage that can face transit blockages.",
+          "i": "Aramco examines oil exports via the Red Sea to bypass the Strait of Hormuz. Management studies alternative transport routes for petroleum shipments. This logistical shift mitigates regional chokepoint risks for Saudi output. Regional tensions drive the search for secure export pathways.",
+          "a": "Saudi Arabian Oil Co. investigates Red Sea export channels to circumvent the Strait of Hormuz vulnerability. Operational contingency planning addresses Middle East geopolitical choke points. The diversification of shipping terminals reduces reliance on single maritime corridors.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDhIeGNRejRyOUZrQ2Fqdk5xUjBXdkRKblBjWGFxUDVpcWRkZlhwT2wyX3h0QXdFT0sya3JPQjh1cTBIeno2a1FXeUdXeDZHbDJUT0Iyay0xX2x5YmJLN1ZYYkpodlBNR0d5QVQyYWs4MHQ0U0VrNXVtNlcxdXh3dXUwaFM2TldCTUhwYkdHUVVnY3dOSHctUTRjZEhZQ3U5azh1b0VscG1JdlpqOVJsenZVVlZEVzR6TFJFbQ?oc=5",
-            "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEY4ZnRieVpLR2F4OXFkdkZOcmphOE1HcHkxbWk3YUhZMjR3bjJtUFBFUG5DaWoxbkIyVGhGdmZtMHlIdThnZFF0UTZpVFNtR1JZSXBXY0FsVFhSaHlPWXJQYzQ5a0VHWUxzVk5pUnNoZWc1OEVLN2Y5UXJUdXctQ3lFSHFiM2l6Y1Z5S09kQzlXY0ZaRGlPVlBwRDM?oc=5"
+            "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbURUMDRIaUhGbUtnWmFzWHR1TjJKTXVUMnFtMTNodVAtVlFxSTAtLUM2Qk1WN3k2MzVlYkg4YkRDNks1YXBDVmVTNXB0bExVbTZual9lV2tDOFpocUs1dWFNZnZsa05QblRFaFRPNG5lNldhSDdqdExZU05qUGFqczBmczlGNEI5Y2k0QldMWQ?oc=5"
+          ]
+        },
+        {
+          "t": "Crude Prices Stay High Amid Regional Pressures",
+          "src": "BBN Times",
+          "b": "Brent crude is a major global benchmark for measuring petroleum costs. Its price stays above $100 for each barrel. Stock markets in Mumbai edge higher despite these expensive energy costs. Middle East political tensions continue to affect energy markets.",
+          "i": "Brent crude trades above $100 per barrel alongside ongoing <span class='term' data-t='inflation'>inflation</span> pressures. Mumbai shares edge higher to 74,902.59 on the BSE SENSEX despite high energy input costs. Middle East geopolitical friction persists across global commodity benchmarks.",
+          "a": "Brent crude sustains valuations above $100 per barrel amid broader Middle East geopolitical strain. Equity indices such as the BSE SENSEX drift higher to 74,902.59 despite elevated energy pricing vectors. Macroeconomic sentiment absorbs commodity shocks while regional risk premiums remain priced into crude.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLU9ZWnVnUDA4cTNFLUdhc0M5dTdJVGdOXzV5UnZQakpEV0R5RWVMYlVpQmZsR3VoSFFJTmVDSFUtc3FldmwxWWFLSFRjYXc5U3FISmU5NG1xM25OSFY5eC11bGxUa0J6ZjlMWXZEYmc4VkpSdmgwQzVyRmctMERJOFdLam9adjVxNGw1LTVuZGU5b1ZjbWMwOFliYmhJZ3ZRZU03Nkl0VFpXci0zZVpKS1dZdXZHWlZEckJkSFVSQ0liMEEzV3RQSUV2NVVDZTRDdGo4RVlnTjNwWG9qNDFwSnRuNHIwMGExZ1VVOEVBUlQ0ZHJLUWtCT2NENi1RQ2FvTmtIUWo2OFk5Z3AxYUpJ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political updates are available in the daily reports.",
-        "i": "No political updates are available in the daily reports.",
-        "a": "No political updates are available in the daily reports."
+        "b": "Saudi Arabia manages its oil assets and transport routes carefully. State leaders monitor global shipping channels and regional security. Energy production levels remain tied to international agreements.",
+        "i": "Saudi authorities balance export logistics against regional maritime vulnerabilities. State planning addresses structural security risks in energy transit corridors. Production quotas and export channels remain central to state revenue strategy.",
+        "a": "Saudi governance prioritizes supply chain redundancy via alternative Red Sea terminal routes. State actors calibrate export architecture against Strait of Hormuz risk factors. Geopolitical friction dictates operational adaptations across petroleum transport networks."
       },
       "timeline": [
         [
           "13 Sep 2026",
-          "August oil production figures confirm fourth month of quota compliance."
+          "Brent crude stays above $100 per barrel amid Middle East tensions."
+        ],
+        [
+          "14 Sep 2026",
+          "Aramco explores oil exports via the Red Sea to avoid Hormuz."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Crude production hits targets while bank branches close",
+      "sub": "Crude output targets and commercial bank branch closures",
       "ind": [],
       "stories": [
         {
-          "t": "Nigeria sustains oil output quotas",
-          "src": "The Sun Nigeria · Punch Newspapers · National Accord Newspaper",
-          "b": "Nigeria produced 1.5 million barrels of crude oil per day in August. This marks the fourth straight month that the country met its production limit set by the oil cartel OPEC. The output level remains below the target written into the national budget.",
-          "i": "Nigeria recorded an August crude production figure of 1.5 million barrels per day. The output level maintains compliance with OPEC allocations for the fourth consecutive month. Production volumes continue to trail the official budget benchmark.",
-          "a": "Nigeria sustained its OPEC allocation compliance for a fourth consecutive month with August output registering 1.5 million barrels per day. The volume represents the broader aggregate reported across monitoring channels reaching up to 1.68 million barrels per day in parallel assessments. Output trajectories continue to track below the fiscal framework's underlying budget target.",
+          "t": "Nigeria Meets Crude Output Target",
+          "src": "Punch Newspapers · National Accord Newspaper",
+          "b": "Nigeria produced 1.5 million barrels of crude oil per day in August. This marks the fourth consecutive month the country met its production limit set by OPEC, an international group of oil-producing nations. Production figures also reached 1.68 million barrels per day in related reports.",
+          "i": "August crude production rose to 1.5 million barrels per day. The output level allowed Nigeria to sustain <span class='term' data-t='carry'>OPEC</span> compliance for the fourth straight month. Alternative reports placed output higher at 1.68 million barrels per day.",
+          "a": "Crude production climbed to 1.5 million barrels per day in August, anchoring four consecutive months of quota adherence. Separate assessments recorded output reaching 1.68 million barrels per day, cementing compliance metrics within the broader cartel framework.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzBJUHlLdVhJOTVCdFExNjR1RlRoak9YY0dFcFlrUUloSEhVOG1aaVotWk5NZnVKZmo5VHZ5Zi0wcWVYT3lSeFIyS2FYMzNqeklPSnd6T2NMdUhtOHVDbG9MMjVUdmRUdFNaTkYydHNSeFRRRVlWeDlidXA5LW9qVXJOVUYyX2xwRzM4?oc=5",
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDhIeGNRejRyOUZrQ2Fqdk5xUjBXdkRKblBjWGFxUDVpcWRkZlhwT2wyX3h0QXdFT0sya3JPQjh1cTBIeno2a1FXeUdXeDZHbDJUT0Iyay0xX2x5YmJLN1ZYYkpodlBNR0d5QVQyYWs4MHQ0U0VrNXVtNlcxdXh3dXUwaFM2TldCTUhwYkdHUVVnY3dOSHctUTRjZEhZQ3U5azh1b0VscG1JdlpqOVJsenZVVlZEVzR6TFJFbQ?oc=5",
-            "https://news.google.com/rss/articles/CbmimgFBVV95cUxONFpQXzB4T09kRl9pZW1wcFl3V3hJTGlHTmpYbl8zdkdsZ3RXNFNMZmJFMTZ5VTZOeldmSVJTR3BxN3VuaGxOU3dGeU9ISTB1TnpEbGxBRk1sWVRNYjI0MWRzV1NIaWZXbXlfenNiSFpiVGdsTGJtYUFGWWRtajJBdzZqLWxZcFM3dmFVSTNHZ216SEl4ZS0yZnp3?oc=5"
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcDE5X1ZMcGdJakNrVHk2QVd6bEpGTVNvSHcxZGV0NEVjY0tNSFZkXzNXUUljaldycmp1VDZzWWpEM0pnWk5EWm9Rb3VlRmRYd3VQWm9GSVUzODFFeThFbGVVQlZQSkhERE5jU2drbGwzVFltMVp2V2NzbEcwOW51SmEwUVhpNkg3ckEyVVRtdWZxaHN3eGthVGM5bW9SamVqcVpDSjBlaGJEaXphUVYxS1h1RlF5MGVPMkxyeFdKUVNFdw?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFpQXzB4T09kRl9pZW1wcFl3V3hJTGlHTmpYbl8zdkdsZ3RXNFNMZmJFMTZ5VTZOeldmSVJTR3BxN3VuaGxOU3dGeU9ISTB1TnpEbGxBRk1sWVRNYjI0MWRzV1NIaWZXbXlfenNiSFpiVGdsTGJtYUFGWWRtajJBdzZqLWxZcFM3dmFVSTNHZ216SEl4ZS0yZnp3?oc=5"
           ]
         },
         {
-          "t": "Commercial banks close hundreds of branches",
+          "t": "Commercial Banks Reduce Physical Footprint",
           "src": "Punch Newspapers",
-          "b": "Commercial banks shut down 476 bank branches over a three-year period. The Central Bank of Nigeria reported these branch closures. Local financial institutions have shifted focus away from physical locations.",
-          "i": "Commercial lenders closed 476 branches across a three-year span. Data from the Central Bank of Nigeria documented the facility reductions. The contraction highlights the ongoing shift toward digital banking infrastructure.",
-          "a": "Commercial deposit money institutions shuttered 476 branches over a three-year timeframe according to Central Bank of Nigeria disclosures. The branch rationalisation reflects cost optimisation strategies and digital migration. Retail banking distribution networks continue to contract as lenders pivot to electronic channels.",
+          "b": "Nigerian banks shut down 476 branches over a period of three years. The Central Bank of Nigeria released these closure figures. Financial institutions are moving away from physical offices as more customers use digital banking.",
+          "i": "Commercial banks closed 476 branches over three years according to Central Bank of Nigeria data. The retrenchment highlights a structural shift toward digital channels. Physical branch networks continue to shrink across the banking sector.",
+          "a": "The Central Bank of Nigeria reported the closure of 476 bank branches over a three-year horizon. This rationalization reflects sustained optimization toward electronic channels and lower physical overheads across the tier-one and tier-two lenders.",
           "links": [
             "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WQTNpdXBOWUUyV0xfU00yeFJxNU1rLXJvN1pQY3RzTGF0Q1VTbXNLOUg3b0tMR2JURFUtOFJadFVBcUFmQmVXaExDVWZrVUYyWXVTbnlxbnFMcW1mbmNnbDI2bXFRVTJNSFBQaFF4OVY?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Senator Musa gave buses, tricycles, and motorcycles to people living in his constituency.",
-        "i": "Senator Musa distributed empowerment assets including buses, tricycles, and motorcycles to constituents.",
-        "a": "Senator Musa executed a constituency empowerment programme distributing transport assets comprising buses, tricycles, and motorcycles to local residents."
+        "b": "The national currency softened against the United States dollar despite foreign exchange interventions by authorities.",
+        "i": "The naira weakened against the U.S. dollar despite intervention efforts in the foreign exchange market.",
+        "a": "Spot exchange rates showed the naira softening against the U.S. dollar despite ongoing central bank liquidity interventions.",
+        "sources": {
+          "0": {
+            "outlet": "MarketForces Africa",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM18zWTgtR0tYMXFMaTlsenU3ak5rdzVBdVd6TjVZTkFtNlo0cTlKMFBOMVpvN094bHh4ZTd0OE1iSUM0SGhnWVNOdjRkbkFxblRSMkNESmxPaWhrQi03QVd6a0dSZXJxY05oTFNqOFhhSF9BbUJjYkViamhNdXU4S2J5MDhTWnZ0VU5N?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "13 Sep",
-          "Central Bank of Nigeria reports commercial banks closed 476 branches over three years"
+          "August crude output figures confirm Nigeria met its OPEC quota for the fourth consecutive month."
         ],
         [
-          "13 Sep",
-          "August crude production data shows output at 1.5 million barrels per day"
+          "14 Sep",
+          "Data reveals Nigerian banks closed 476 branches over three years."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX 200 flat amid oil surge and rate hike jitters",
+      "sub": "National Australia Bank issues yen notes and lithium shares surge",
       "ind": [],
       "stories": [
         {
-          "t": "ASX 200 holds steady as macro pressures offset gains",
-          "src": "Moomoo",
-          "b": "The main Australian share index, called the ASX 200, stayed mostly flat. Shares are tiny slices of ownership in a company that you can buy and sell on a public market. Higher oil prices and worries about interest rate hikes by the central bank pushed against gains. A central bank is the government bank that sets the cost of borrowing money across the economy. Those opposing forces left the index little changed.",
-          "i": "The ASX 200 index remained little changed through the morning session. An oil surge and central bank hike jitters created headwinds for local equities. Those pressures offset a positive rebound seen on Wall Street. The benchmark index absorbed opposing macroeconomic forces without recording a major move.",
-          "a": "The ASX 200 traded flat as domestic price action disconnected from Wall Street's prior session. Energy input shocks and tighter policy expectations from the central bank capped risk appetite. The resulting friction neutralised standard cross-border equity transmission channels.",
+          "t": "National Australia Bank Issues Yen Notes",
+          "src": "marketscreener.com",
+          "b": "National Australia Bank is selling 15 billion yen in notes. Notes are certificates that show someone borrowed money and promise to pay it back with interest. Yen is the money used in Japan. The bank is offering subordinated fixed reset notes. Subordinated means these debts get paid back after other debts if things go wrong. Fixed reset means the interest rate changes to a new fixed amount at set times.",
+          "i": "National Australia Bank launched a 15 billion yen debt issuance. The offering consists of subordinated fixed reset notes. Subordinated debt ranks below senior obligations during liquidation events. The fixed reset structure alters the coupon rate periodically based on prevailing benchmark yields.",
+          "a": "National Australia Bank priced a 15 billion yen subordinated fixed reset note offering. The structure embeds subordinated loss-absorption features, appealing to investors seeking yield spread over Japanese sovereign benchmarks. Duration risk is managed via the periodic reset mechanism embedded in the coupon schedule.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ROUI3c0ZBRFV6UzEyMzNvVlR6dHhPSGZuenFSX1lkT0FQdjlhRS1LRGZrc0wwT1hYUkpPSTFfWUJVMFo2cG11c0wxYjJxbU5kYy1CYlN6Ny1ObnNoWTRBenpaTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2REYUdKdUhZUkxZYkh0R25UTFpBZXBIMTdVYmk3N2ZncGIwSHNPazl2VWpxMXNzb1pLS0xvQkdtTzd2dzNGWXJVRmlMTUswVzFqV1ZfLWFlZzROcEVTY0N0VWQ4MDR1VmUtd2FSZ2dEMkljQlRoSFN2MklpMFJIbFlaVG52TkcyNWRuTUJxVFV4S3VNaHBmTjFwbXpVcHd5eWktS3lhdm9UZm93M3RWZzN0dzJkYkg4WDZ1VWNYNURGY3NRemxWNnh1MA?oc=5"
+          ]
+        },
+        {
+          "t": "PLS Shares Surge Over One Hundred Percent",
+          "src": "The Motley Fool Australia",
+          "b": "Shares in PLS climbed 107% over the course of a year. Shares are tiny slices of ownership in a company. PLS is a company that deals in lithium. Lithium is a soft metal used to make batteries for electric cars and phones. This massive surge brought the stock back into sharp focus for traders.",
+          "i": "PLS shares registered a 107% gain over a 12-month period. The equity rally in this ASX 200 lithium producer drew renewed market participation. Lithium pricing dynamics and shifting <span class='term' data-t='inflation'>inflation</span> expectations drove valuation re-ratings across the sector.",
+          "a": "PLS equity appreciated 107% year-on-year, catalysing fresh positioning among institutional participants. The pure-play lithium producer experienced multiple expansion driven by commodity price volatility. Long-term supply deficit forecasts continue to underpin the valuation despite near-term demand friction.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1BYOW1MQ2pDYUh0SEc2SF9SU1BEdTdhSi0xY0RMMWg4MV9BQTIxSUlzOERjR0ZLdzdsaHJ0WVpZU2NkUENrcFhWa3lKdGxlZDVvMGUxTFA4Y290bmcxekN0a0NvSTVsVzdvZmJPUlNGVG40b2pNTTJXTWJ0RGUxQ3dNR29ON242MDFhcFV0bzByRWdKUEpiNWV3WC1JUDFYQkdhU3FUY1lNczFzYVNjdXpuYnJDMElBRjJZTVRKdV9qZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No government policy updates or political announcements were reported for Australian markets today.",
-        "i": "No fiscal or regulatory updates were released for the Australian market sessions.",
-        "a": "No domestic policy announcements impacted the session.",
-        "sources": {}
+        "b": "Market reports for Australia focused entirely on company share movements and debt issues. No political announcements or government policy changes appeared in the financial updates today.",
+        "i": "Australian market coverage remained focused on corporate updates, equity movements, and debt issuance. Macroeconomic policy and government legislation did not feature in the session updates.",
+        "a": "The session's news flow concentrated on microeconomic corporate developments, debt structures, and equity performance metrics. Sovereign policy announcements and fiscal updates were absent from the reporting cycle."
       },
       "timeline": [
         [
           "14 Sep 2026",
-          "The ASX 200 traded flat during the morning wrap session."
+          "National Australia Bank announced a 15 billion yen subordinated fixed reset notes issuance."
         ]
       ]
     }
