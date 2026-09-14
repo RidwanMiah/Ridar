@@ -1,532 +1,489 @@
 {
-  "generated": "2026-09-14T19:25:57.832Z",
+  "generated": "2026-09-14T20:25:20.331Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "14 September 2026",
-    "headline": "US Treasury yields touched 5% as oil prices surged and Wall Street tech shares dropped.",
+    "headline": "The S&P 500 fell 35 points as rate-hike expectations rose and global equities retreated.",
     "lede": {
-      "b": "Government bonds are loans that investors make to the state in exchange for regular interest payments. The 10-year Treasury yield is the annual return on a 10-year US government loan, which moves inversely to its market price. This rate touched 5% as investors sold off these government bonds heavily. A bond yield is like the interest rate on a loan, and higher yields make borrowing more expensive across the economy. The selloff happened after oil prices jumped and renewed worries about <span class='term' data-t='inflation'>inflation</span>, which is the general rise in the prices of goods and services over time.",
-      "i": "The 10-year Treasury yield touched 5% following heavy selling across US government debt markets. This yield surge reflects growing market expectations that the Federal Reserve will implement a benchmark rate hike. Higher borrowing costs rippled across asset classes as a surge in crude prices stoked renewed <span class='term' data-t='inflation'>inflation</span> concerns. Meanwhile, Wall Street equity indices dropped sharply as investors rotated out of technology equities and major chipmakers.",
-      "a": "The US 10-year Treasury yield touched 5% amid heavy duration liquidation driven by oil-led <span class='term' data-t='inflation'>inflation</span> shocks. Markets repriced the terminal rate distribution to assign a higher probability to an upcoming Federal Reserve hike. This shift compressed equity valuations across the S&P 500, triggering a broad technology sector selloff led by chipmakers."
+      "b": "The S&P 500, a collection of five hundred large American companies, dropped thirty-five points because traders expect interest rates to rise. Interest rates are the cost of borrowing money. Higher borrowing costs make company shares less valuable. At the same time, the Federal Reserve, which is the central bank controlling United States money, kept its reserve purchases paused until mid-October. This pause changes how cash flows through domestic banks.",
+      "i": "The S&P 500 index dropped 35 points as traders priced in higher probabilities of monetary policy tightening by the central bank. Higher borrowing costs reduced equity valuations across major domestic sectors. Meanwhile, the Federal Reserve extended its pause on reserve management purchases through mid-October. This operational hold alters liquidity plumbing within the commercial banking system.",
+      "a": "The S&P 500 dropped 35 points as rate-hike odds repriced equity valuations lower across sectors. The Federal Reserve extended its reserve management purchase pause through mid-October, constraining short-term liquidity plumbing. This transmission channel restricts reserves across the domestic banking system as traders adjust duration risk."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The 10-year Treasury yield touched 5% following heavy selling.",
-        "i": "The 10-year Treasury yield touched 5% amid heavy selling.",
-        "a": "The 10-year Treasury yield touched 5% on heavy duration liquidation."
+        "b": "The S&P 500 index dropped thirty-five points as traders worried about higher borrowing costs.",
+        "i": "The S&P 500 index fell 35 points as markets priced in higher borrowing costs.",
+        "a": "The S&P 500 dropped 35 points amid increased monetary tightening expectations."
       },
       {
         "c": "United Kingdom",
-        "b": "The pound hit a five-week low against the US dollar.",
-        "i": "Sterling dropped to five-week lows against the dollar as rate differentials widened.",
-        "a": "GBP/USD declined to five-week lows as US rate differentials drove capital out of sterling."
+        "b": "British inflation, which is the rate at which prices increase, neared 2022 levels.",
+        "i": "UK inflation and energy pressures approached 2022 peaks despite limited pass-through.",
+        "a": "UK inflation metrics approached 2022 peaks while retail price pass-through remained constrained."
       },
       {
         "c": "Germany",
-        "b": "The DAX index finished lower with a 0.60% decline.",
-        "i": "The DAX index finished lower with a 0.60% decline.",
-        "a": "The DAX index finished lower with a 0.60% decline amid regional equity retreats."
+        "b": "The DAX stock index in Germany fell by 0.60% at the end of the trading session.",
+        "i": "The DAX index closed 0.60% lower as European equities retreated below resistance.",
+        "a": "The DAX index declined 0.60% below the 25,685 resistance level inside an hourly bear flag."
       },
       {
-        "c": "Japan",
-        "b": "The Nikkei Stock Average dropped by ¥518 as selling hit tech shares.",
-        "i": "The Nikkei Stock Average dropped by ¥518 as selling hit tech shares.",
-        "a": "The Nikkei Stock Average fell by ¥518 as broad selling hit semiconductor and AI equities."
+        "c": "China",
+        "b": "Chinese automakers cut vehicle prices, which lowered their profit margins significantly.",
+        "i": "Aggressive discounting by Chinese automakers compressed sector net margins to 1.52% in the first half.",
+        "a": "Aggressive discounting compressed listed Chinese automaker net margins to 1.52% in the first half."
       }
     ],
     "thread": {
-      "b": "Rising government borrowing costs and technology share selloffs affected markets around the world today. Currency values shifted as the US dollar strengthened against the British pound and the Japanese yen.",
-      "i": "Surging US Treasury yields drove cross-border capital flows and pressured currencies including sterling and the yen. Concurrently, technology sector selloffs from Wall Street spread to equity indices in Germany, Japan, and Australia.",
-      "a": "Spillover from the US duration selloff drove G10 currency adjustments through widening rate differentials. Concurrently, sentiment contagion from Wall Street technology liquidations depressed equity benchmarks across European and Asian sessions."
+      "b": "Global stock markets fell as traders worried about rising interest rates and lower profits. Central banks kept their policies tight while manufacturing and consumer prices faced ongoing pressures.",
+      "i": "Global equity indices retreated as rate expectations and margin compression weighed on sentiment. Central banks maintained strict liquidity controls while domestic lending and funding metrics shifted.",
+      "a": "Global equity markets digested rate-hike expectations and margin compression across major sectors. Central bank liquidity pauses and cross-border yield differentials drove international asset reallocation."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Treasury yields touch 5% as rate hike expectations grow",
+      "sub": "US indices drop as rate expectations drive markets",
       "ind": [],
       "stories": [
         {
-          "t": "Treasury Yields Touch 5% as Federal Reserve Rate Hike Expectations Grow",
-          "src": "WSJ · UPI · Reuters",
-          "b": "Government bonds are official IOUs where investors lend money to the state in return for regular interest. The yield is the actual return an investor makes on that loan. The yield on the 10-year Treasury note touched 5%. Investors now expect the Federal Reserve, which is the central bank that sets official borrowing costs, to raise benchmark rates this week.",
-          "i": "Government bonds saw heavy selling as the 10-year Treasury yield touched 5%. The shift follows a surge in oil prices that stoked renewed concerns over <span class='term' data-t='inflation'>inflation</span>. Markets are now pricing in a higher probability that the Federal Reserve will implement a benchmark rate hike.",
-          "a": "The 10-year Treasury yield touched 5% following an oil surge that recalibrated rate expectations across the curve. Federal Reserve watchers anticipate a rate hike under Warsh, shifting the policy stance. Duration risk repriced aggressively as term premia expanded in response to macro headwinds.",
-          "gloss": "inflation",
+          "t": "S&P 500 declines 35 points amid rate-hike focus",
+          "src": "24/7 Wall St.",
+          "b": "The S&P 500 index, which is a collection of 500 large American companies, dropped by 35 points. This drop happened because people who trade stocks began to focus heavily on the chance that interest rates might go up. Higher interest rates make borrowing more expensive for businesses. The S&P 500 closed down 35 points as rate-hike odds took center stage.",
+          "i": "The S&P 500 index dropped 35 points as traders priced in higher probabilities of monetary policy tightening. Higher borrowing costs weigh heavily on equity valuations across major sectors. The S&P 500 closed down 35 points as rate-hike odds took center stage.",
+          "a": "Equities retreated as participants recalibrated terminal rate expectations following persistent macro pressures. The S&P 500 printed a 35-point loss as rate-hike probabilities dominated order flow. The S&P 500 closed down 35 points as rate-hike odds took center stage.",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDRfbFRjWnI3M0VQaXg2cUsyT3d4ME5RUXFySks1MFlkbnBiWDMyYU1jcy1sT3g3VGJpbU5uWDNZVTF6VEFmcnAyTnZiTHhVUGtqVEh3clNYYjh5MUdIcUgxaE56N2JydmRhQ3FGQjhFTlFFcUF2TTZncHMwWFMtbDl5UXZuR1RwQmlqS1hSdFA4LUpyX3NxeEZJcE9zODJIS1J4XzRrVEVNZF96eWx6dTVB?oc=5",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZW92cTVDZVcxR1ZvUWFKcGJPQS1yZmJfQmszVTdXQlVaVkc2bEgxc0Z5eU9lakhUQy0zeUg4RkJkUXlxMHYtblFOcGlreUZaLWdVdFNvVi1jRi1wek5EMllkd29uclZ5MUxzMjNhX0lHWmJtclBiejhqSUczSG9SWVc3VVhzSTFOalh1M1E2RUV1UUhDdks2bXVzbi1IeG1LOGpPU1BpUUtQQXfSAbABQVVfeXFMTkRVc2plUVR4bUZBQ0JGS01uYWZUTkh0ZEZIZGxEYzV1QjNDYi1kVlhuRGF6dTNRTkhMWjJMWmFVUGxpcjc0QlQ2RmVCNGp4V0tsT0tDMkJ6Z0VHUUtqemM5OTZrNTlCazQyQ2dmc3ZianowTm1Cdk50ZlRpT3NnRHZVQmxNdVV5OU5tSlNpbmF6NXYtaE04N3RsT3JFajZWbW9qZVVxckIyejZRZU8wYlc?oc=5",
-            "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmI1cVpTMFhOTG5pc2txUFlyVjY3RTU3b0k0U01pd3dzYXRBUHhYTnBFMGVfWXJvU29abHVSZVhjTzdPQUszMnVzSW9GaC1pTDlEQnBKaUxvbVdaeEJzUTZFWmxvOWpsTGQyRTgwa0pkVnl6WXp6S1NlS1VxS1VGQjdrWG91LVdlci12T3Y4QVlXUlR3UU5wWjRfV3FiNFBSd0F0R3VfLTdUM2NGTmwzZklwUGtTS2NXTUdmM0s1Q1VsNDVjZjdXSEk3VQ?oc=5"
           ]
         },
         {
-          "t": "Wall Street Drops as Artificial Intelligence Concerns Pummel Chipmakers",
-          "src": "Reuters · Barron's",
-          "b": "Wall Street shares dropped as technology companies faced a wave of selling. Chipmakers took heavy losses after calls for a slowdown in artificial intelligence spending. Corning stock also registered steep declines within the S&P 500 index, which tracks five hundred large corporations.",
-          "i": "Wall Street dropped as a broad selloff hit technology equities and major chipmakers. Calls for a slowdown in artificial intelligence investment triggered the pullback across the S&P 500. Corning shares recorded the steepest losses in the index alongside the broader tech retreat.",
-          "a": "Wall Street dropped as valuation compression hit high-flying artificial intelligence proxies and semiconductor equities. Warnings regarding infrastructure deployment paces weighed directly on the S&P 500. Corning suffered disproportionate selling pressure, lagging the broader tech downturn.",
+          "t": "Federal Reserve extends pause on reserve management purchases",
+          "src": "Bloomberg.com",
+          "b": "The Federal Reserve, which is the central bank of the United States, manages the country's money supply. The Federal Reserve extended its pause on reserve management purchases to mid-October. Reserve management purchases are routine operations where the central bank buys assets to keep the financial system running smoothly. The pause will now last until the middle of October.",
+          "i": "The Federal Reserve kept its reserve management purchases paused through mid-October. This central bank operation affects liquidity plumbing within the domestic banking system. The Federal Reserve extended the pause on reserve management purchases to mid-October.",
+          "a": "The Federal Open Market Committee maintained its suspension of reserve management purchases through mid-October. The liquidity operation pause continues to influence bank reserves and short-term funding markets. The Federal Reserve extended the pause on reserve management purchases to mid-October.",
           "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlBvQlRpbG1wVDhIWE1rTHpqTFkwc1paX1hOWVZMNS0yNjg2WS1KX1BkdFcxMU1Wcnl3VncxQlVmQXBSbndrNks1UkVMbGkzSXFQc09QSC05SzJxaG1za0VMUnU3SFVVWWI0YVQ2cDNvX2xnekhpNnd0dElkdGJjUVBtZUhWcDlQM19V?oc=5"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOVRCM3FHR3JWMlY1cmFUYlVWeFM1VDJtNG4tbXFpNllCMzlyU09TOV9LZnk2UUdRZWp1Z0F6ZlJsVVFCREx6b1NvVWpVNk5kenQ4UzVsZWZlUDFpZVVVOWlIbDlLOW1TNzM5MGI3T2Z1WG5VRmVmN0JSNHliS0IyYU9ISmFhekVJdmdiaVVTUkZzX2M0b1ltaFRBNU55OHpVOUNBQWdVZldOWHNQR20yXzVR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The economy faces multiple risks including political uncertainty around upcoming elections and mounting financial headwinds.",
-        "i": "Markets are weighing macroeconomic headwinds alongside upcoming election risks as the fourth quarter approaches.",
-        "a": "Equity pricing models continue to balance fourth-quarter historical strength against heightened election cycle risk premiums.",
-        "sources": {
-          "0": {
-            "outlet": "CBS News",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5"
-          },
-          "1": {
-            "outlet": "Barchart.com",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU204VW5CcjQtRmFxRnFoRHNjR2UycVVqY3lWdWNWRFUzdXJXRHNJVVNnRnR0MHhLUHdxNG5fWUpXOWdhM2JLLWJrZWxDcUhQdF9LUzNDcHpUejlTb2Q5eWkwWUZyMWRIVUltWGpSTXdjUUctaW1wMi00SGdKVmpBZHNNSEM1UXM?oc=5"
-          }
-        }
+        "b": "Federal Reserve officials manage monetary policy across the United States. Economic conditions continue to shape policy decisions. Market participants track these central bank actions closely.",
+        "i": "Federal Reserve officials navigate ongoing monetary policy adjustments. Economic data releases dictate the central bank's operational timeline. Market participants monitor liquidity measures and rate probabilities.",
+        "a": "Federal Reserve policy settings remain constrained by underlying commodity prices and macro data. Central bank liquidity operations reflect ongoing reserve management strategies. Market participants price policy paths against incoming economic indicators."
       },
       "timeline": [
         [
           "14 Sep 2026",
-          "10-year Treasury yields briefly touch the 5% threshold amid an oil surge."
+          "The S&P 500 closed down 35 points."
+        ],
+        [
+          "14 Sep 2026",
+          "The Federal Reserve extended its pause on reserve management purchases to mid-October."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "UK inflation data, energy shocks, and currency movements",
+      "sub": "UK price pressures and currency movements",
       "ind": [],
       "stories": [
         {
-          "t": "UK Inflation and Energy Pressures Approach Prior Peaks",
+          "t": "UK Energy and Price Pressures Approach Prior Peaks",
           "src": "markets.businessinsider.com",
-          "b": "Permutable data shows that UK <span class='term' data-t='inflation'>inflation</span> and energy shocks are nearing the levels seen in 2022. <span class='term' data-t='inflation'>Inflation</span> measures how much the cost of everyday things goes up over time. The pass-through to broader prices remains limited despite these surging pressures. This means businesses have not yet passed all their extra costs onto shoppers. The latest figures track price changes closely across the British economy.",
-          "i": "Permutable data indicates that UK <span class='term' data-t='inflation'>inflation</span> and energy shocks are approaching 2022 levels. Pass-through to consumer prices remains limited as companies absorb the initial cost pressures. This subdued transmission prevents immediate, broad-based price spikes across retail sectors. The data captures the ongoing struggle between wholesale energy costs and final retail pricing.",
-          "a": "Permutable metrics demonstrate UK <span class='term' data-t='inflation'>inflation</span> and energy shocks testing 2022 thresholds. Marginal pass-through efficiency suppresses second-round price effects across the broader economy. Corporate margin compression absorbs the upstream shock, decoupling wholesale input costs from headline prints. The structural stickiness of this pass-through failure defines current macroeconomic pricing.",
+          "b": "This means the extra costs of living and running businesses are going up again. Permutable Data showed that UK <span class='term' data-t='inflation'>inflation</span> and energy shocks are nearing levels last seen in 2022. Inflation is the rate at which the prices of everyday goods and services increase over time. Pass-through, which is how much of those higher costs businesses pass on to shoppers, stayed limited in these findings.",
+          "i": "Permutable Data published metrics indicating that UK <span class='term' data-t='inflation'>inflation</span> and energy pressures are nearing 2022 levels. The pass-through from wholesale energy costs to retail prices remained limited during this period. This constrained pass-through prevents consumer prices from matching the full magnitude of the underlying shock. Markets track these metrics to gauge how input costs affect final consumer prices.",
+          "a": "Permutable Data figures demonstrate that UK <span class='term' data-t='inflation'>inflation</span> and energy shock metrics are approaching 2022 extremes. The subdued pass-through coefficient explains why broader consumer price indices have not fully internalized the underlying wholesale input spikes. This divergence implies that corporate margins are currently absorbing shocks that historically would have been transferred downstream. Analysts monitor this dynamic to assess whether cost absorption will eventually trigger margin compression or deferred price adjustments.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUG90QkdmMDBBNXVGNzVnN3VQMUx0WWZmaFdDMHhMYXNlMllEVDZpU0dTb2g0ZkhmRkp6R3ZxUEh0NDdBM1hsRlk1eVYyYVVQX25WeVpSLXU4blB0bXZQX1diNGV5N1NtcTBPbUN4MGo3dnFQUWUxekp5dVh4ZTBJbnFwYUZ4MVRnbDd2THBwUXF2Q0RWam5PaHIyNVc0Wm5TMFY4cXU0UGU0VV91aVRKYTMxTFVKRFZaWktvY0dSTW9ZMTY0VDA4am42eTBpZ1lyUzdfbV84NXhkcGM4V012LUlqeWRoeV9NaEs5LUVXdw?oc=5"
           ]
         },
         {
-          "t": "Sterling Drops Against Dollar Amid US Treasury Yield Surge",
-          "src": "FXStreet · VT Markets",
-          "b": "The British currency fell to five-week lows against the US dollar. US Treasury yields surged, which are the returns governments pay investors to borrow money. Investors sold pounds because higher returns in America made US assets more attractive. Currency traders adjusted their positions as central bank meetings approached. The exchange rate reflects shifting monetary expectations in both nations.",
-          "i": "The pound hit five-week lows against the US dollar as US Treasury yields surged. Higher American yields widened interest rate differentials, drawing capital out of sterling assets. Currency markets repriced positions ahead of upcoming central bank decisions from both the Federal Reserve and the Bank of England. This dynamic pushed the GBP/USD exchange rate lower.",
-          "a": "Pound sterling tested five-week lows against the greenback driven by surging US Treasury yields. Expanding yield spreads incentivised capital flight from UK instruments into dollar-denominated debt. Macro traders adjusted duration and FX exposure ahead of concurrent central bank rate announcements. The resulting depreciation reflects aggressive yield-seeking reallocations across international desks.",
+          "t": "Sterling Declines Against the Dollar Amid US Yield Shifts",
+          "src": "FXStreet",
+          "b": "The pound sterling dropped to five-week lows against the US dollar. This means British currency bought fewer US dollars than it did in previous weeks. US Treasury yields surged, which drove the movement in exchange rates. Yields are the yearly returns investors get on government bonds, which are like loans made to the state.",
+          "i": "The GBP/USD currency pair tested five-week lows as US Treasury yields surged. Higher US yields attract capital into dollar-denominated assets, which strengthens the dollar relative to sterling. Foreign exchange traders adjust their currency holdings in response to shifting international yield differentials. Sterling price action reflects these broader cross-border capital flows.",
+          "a": "The GBP/USD spot rate tested five-week lows driven by surging US Treasury yields. This widening yield spread increases the opportunity cost of holding sterling assets, prompting capital reallocation into US fixed income. Momentum traders accelerated downside pressure on the pair as key technical support levels broke. The implied volatility in sterling pairs reflects heightened sensitivity to US macroeconomic prints.",
           "links": [
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdnhlTUVyMm05WDhiRHlnVnhqWTN2Q1hUN0JDVjA3ZWhJSmlzdTdzSXE0N3lpNmx0SWgtVzRaTXNhMTd1dDkwY3hGc29zVGVEWERVWi05RjZfSW1VV21melFPM1VYZGE4YUMzbWJzd19EX2xWNDh6WjhZU0pGMjRtUFBpMDVqdThlbW5MYkZBOTExdGtXdFotZ3lHUThIMS1wTGljU2JkTHI0WmxZMkdZTkVBOEpxWnh1MWpUaFJuaE9vVDFBdVdNcmwtRm1ydWM?oc=5",
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVG5pUkVNa0VuRkFpUDF0T19VWmpkVHBycWtKWUVlcEdFUGQxZEpld1lPcm00cHNETFRyYXBmRjdZTzhzemU5eDXTaEpuSUFWb3J5UEV4aERvcG14MzZyZkZ2UHBXaGxiVVRuQ3I3bDNrWXQxc2tQRTZ1WnpCU1l4N3dkb1V4NEFvakhUQjFQRWZrQWZEWWtXQndzSTl4NTBOQlZWRnhRbXhHdTI1SHl6a3h0MXpUOVY5VG9ra3ItSGhPcE5BaVE?oc=5"
+            "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdnhlTUVyMm05WDhiRHlnVnhqWTN2Q1hUN0JDVjA3ZWhJSmlzdTdzSXE0N3lpNmx0SWgtVzRaTXNhMTd1dDkwY3hGc29zVGVEWERVWi05RjZfSW1VV21melFPM1VYZGE4YUMzbWJzd19EX2xWNDh6WjhZU0pGMjRtUFBpMDVqdThlbW5MYkZBOTExdGtXdFotZ3lHUThIMS1wTGljU2JkTHI0WmxZMkdZTkVBOEpxWnh1MWpUaFJuaE9vVDFBdVdNcmwtRm1ydWM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Lawmakers prepared for legislative votes while financial markets braced for policy updates. Central bankers in the UK and America planned crucial announcements on interest rates. Political debates in the Senate ran alongside these upcoming financial decisions.",
-        "i": "Parliamentary and Senate votes approached as markets braced for central bank announcements. The Federal Reserve and the Bank of England prepared separate policy decisions. These concurrent legislative and monetary events heightened overall asset volatility.",
-        "a": "Legislative votes coincided with monetary policy decisions from the Federal Reserve and the Bank of England. Sovereign policy calendars clustered multiple risk events into a tight window. Market participants priced in potential policy divergences across these distinct jurisdictions."
+        "b": "UK officials faced fresh data showing that energy pressures and price shocks are near 2022 levels. Ministers reviewed updates on how costs move through the economy. Currency markets reacted to changing financial returns abroad.",
+        "i": "UK policymakers monitored reports showing energy and price shocks approaching 2022 levels with limited pass-through. Fiscal and monetary authorities assessed these readings against broader economic conditions. Currency markets responded directly to international yield movements.",
+        "a": "UK fiscal authorities evaluated incoming pricing data indicating energy shocks nearing 2022 thresholds alongside subdued pass-through rates. Government planners monitored transmission channels as external currency pressures mounted. Macroeconomic strategists focused on how constrained corporate pass-through impacts broader revenue projections."
       },
       "timeline": [
         [
           "14 Sep 2026",
-          "Permutable data highlights UK inflation and energy shocks nearing 2022 levels."
+          "Permutable Data published metrics showing UK energy shocks nearing 2022 levels."
         ],
         [
           "14 Sep 2026",
-          "Pound sterling tests five-week lows against the US dollar amid rising Treasury yields."
+          "The pound sterling tested five-week lows against the US dollar amid rising Treasury yields."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German stocks slip as rate and tech worries weigh on markets",
+      "sub": "DAX slips as European equities fall on rate expectations",
       "ind": [],
       "stories": [
         {
-          "t": "German Equities Slide at Close",
-          "src": "Investing.com · Yahoo Finance UK",
-          "b": "German stocks went down by the end of the trading day. The DAX index, which tracks major German companies, dropped 0.60%. European shares fell because investors worried about interest rates and safety warnings regarding artificial intelligence.",
-          "i": "The DAX index finished lower with a 0.60% decline. European equities retreated as participants weighed rate expectations alongside technology sector warnings.",
-          "a": "The DAX closed down 0.60% amid broader European weakness driven by rate expectations and safety warnings in the technology sector.",
+          "t": "DAX Closes Lower as European Stocks Fall",
+          "src": "Investing.com · TradingView · Investing.com India",
+          "b": "The DAX index is a list of major company stocks in Germany, which are small slices of ownership in businesses. This index dropped by 0.60% at the close of trade. European stocks fell due to rate expectations and artificial intelligence safety warnings. The DAX stalled below the 25,685 resistance level in an hourly bear flag.",
+          "i": "The DAX index closed lower with a decline of 0.60% at the end of the session. European equities retreated as rate expectations and artificial intelligence warnings weighed on sentiment. Price action stalled below the 25,685 resistance level inside an hourly bear flag.",
+          "a": "The DAX printed a 0.60% contraction at the close, tracking broader European beta lower. Macro conditions compressed multiples as rate expectations and artificial intelligence safety warnings repriced risk assets. Price action remained capped below the 25,685 resistance threshold within an hourly bear flag formation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnFGeml2N2l2em9HTlVHcEF1LW1oUzBGbVNuYlduUThtaXRGemswNnMwZEhabVNjZmo3dVJiOVFTdEE4QVRXVE14M3JiUWlVWmF3OTY2Rml1Y1Rkb3c4SGo4dTBtbVF6ZHZDOWNpR1ljMTYtWi1hRTVpY0N1VUZOeW1NdzlZTXFsQjlocU1Hb2w3d0pMY1FfZnpmbzVuT1ZhSk9qeGlPNXFieURU?oc=5",
-            "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYlAyQ05zbTNRN29ENFhvMTRlb3lreXpERHJxOENmZnBLNTN2VjNnZktobmRHVUhKYU56emRMUkRSVGdDbl9raHE3UFpPbHlZaHg2RW9lNXNQOWdBejdVOVJZNjlWTXBjLUJQdmwtYXVuQ0tGOUF1U29sMGZWalE4M0t6RWdNZw?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnFGeml2N2l2em9HTlVHcEF1LW1oUzBGbVNuYlduUThtaXRGemswNnMwZEhabVNjZmo3dVJiOVFTdEE4QVRXVE14M3JiUWlVWmF3OTY2Uml1Y1Rkb3c4SGo4dTBtbVF6ZHZDOWNpR1ljMTYtWi1hRTVpY0N1VUZOeW1NdzlZTXFsQjlocU1Hb2w3d0pMY1FfZnpmbzVuT1ZhSk9qeGlPNXFieURU?oc=5",
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2MySlpQTG03NmlmNDVIX0ZTdlJaUUhZd2w2NkhrcUdPZVdqQ2p0WjZ2eTZVZnVTYWNFcWozRWROQVVGZkhwWmVHQlN1NF9TUmN1dHh5bktGMFNSV1hQVGlzbkVvVkcxY1VhdlVIckk2azl1d2p3RVdtQU9SY3JtMGQ3REpFRWJ2UHc?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSklXU2NzeERkclc4c19MTkc2SmhiWTlTaURuS0g2a0UwVGxMcy16VzEzMGxBZ3FJSDhyd0FUbHEwZy02Unk2bFhxTEJRN1JTSk44LWtMdmxGSnJMaTE2eWFRdXNsVTZTLVY1OFVXaUZkT3VnVk5DcDljb2w3bG56eE9xY0duZ0tXVmpEV2Q3cHVZRHNNbkx6MU1DY3p6ZmJOQ0x6VUV6d1RpS0xuU3BzTzNybWVqaDg5WUZDZ3hoYlM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "European Central Bank officials discussed cash design and capital growth.",
-        "i": "ECB executive board members delivered remarks concerning euro cash and capital growth.",
-        "a": "ECB officials Piero Cipollone and Christine Lagarde spoke on cash infrastructure and capital growth respectively.",
-        "sources": {
-          "0": {
-            "outlet": "European Central Bank",
-            "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html"
-          },
-          "1": {
-            "outlet": "European Central Bank",
-            "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html"
-          }
-        }
+        "b": "No political updates were provided in the sources for Germany today.",
+        "i": "The provided economic sources contain no political updates for Germany.",
+        "a": "No political developments are recorded in the current data feed."
       },
       "timeline": [
         [
-          "2026-09-14T13:00:00.000Z",
-          "Piero Cipollone spoke on the future of euro cash."
+          "14 Sep 2026",
+          "Piero Cipollone spoke on euro cash at the European Central Bank."
         ],
         [
-          "2026-09-14T15:15:00.000Z",
-          "Christine Lagarde delivered remarks on capital and growth."
+          "14 Sep 2026",
+          "Christine Lagarde delivered a speech on capital and artificial intelligence at the European Central Bank."
         ],
         [
-          "2026-09-14T16:26:31.000Z",
-          "The DAX closed down 0.60% at the end of trade."
+          "14 Sep 2026",
+          "The DAX closed lower by 0.60% at the end of the trading session."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Japanese stocks fall as semiconductor shares drop and yen weakens",
+      "sub": "Japanese markets and currency updates",
       "ind": [],
       "stories": [
         {
-          "t": "Nikkei Drops as Selling Hits Tech Shares",
-          "src": "finance.biggo.com",
-          "b": "The Nikkei Stock Average is a big list that tracks major Japanese companies. It went down by ¥518 at the end of the day. Investors rushed to sell shares in artificial intelligence and semiconductor firms. Semiconductors are tiny computer chips used in nearly all modern electronics. This widespread selling caused the index to extend its recent losses.",
-          "i": "The Nikkei Stock Average extended its recent losses by closing down ¥518. Selling pressure spread broadly across artificial intelligence and semiconductor names. Market participants rotated away from major tech equities during the session. This broad correction drove the benchmark index down further.",
-          "a": "The Nikkei Stock Average shed ¥518 as selling pressure concentrated in high-beta artificial intelligence and semiconductor equities. Duration-sensitive tech names faced aggressive liquidation as positioning unwound across the sector. This breadth-driven contraction accelerated the index's downward momentum.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKaWJyNnc4RDVsaVU5R0pjc3NrMzQzZDhmR1h3cW5ILUdPRUl5NUg5V3MxSTRCamlKMThhY3NkZnB2eDUzZzJkTnZjR04wTEpZcVh0czZTRGRudzVBdkh5UEJuMFNDQVdzQlFOOVRlTndxUThfVnc?oc=5"
-          ]
-        },
-        {
-          "t": "Japanese Currency Weakens at Start of Central Bank Week",
-          "src": "tmgm.com · FinTech Global · FXStreet",
-          "b": "The Japanese yen is the official currency used in Japan. It lost value against other currencies as a busy week for central banks began. Central banks are national institutions that manage money supplies and interest rates. Analysts note that differences in borrowing costs dictate the currency's direction rather than government intervention.",
-          "i": "The Japanese Yen weakened as a central bank-heavy trading week commenced. Currency strategists noted that persistent rate gaps are driving the exchange rate rather than direct official intervention. Traders adjusted positions in the currency ahead of upcoming monetary policy decisions.",
-          "a": "The Japanese Yen depreciated at the onset of a policy-heavy calendar week. Macroeconomic participants continued pricing positions around sovereign interest rate differentials rather than anticipating intervention. This dynamic left the spot rate sensitive to central bank guidance.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPemxrMkVDaVpzNVV6azktSWowNXd0TmNKcVlkM1ViMWpLUHk1RGpoXzVWRzJwNWhwaU1LSHExNl92VV9uV2h6b2tmTU16cWFvMVJKY21FajNKbnBJdVVYVGxoWUduX2kxOVUtUVhKTWN2dFpJcGI3VHhUdS1jTjNSMkk3ajNYV0FwY2dTRjNwQjE1WWlPVmFTZWZrcG01eDJtaXJESmdKcm96bVctYWtBaEtzNGhXRDUtbnJPWUZubWJLeXlpRVdPTVJrdm51czRHU0ktdjBDWjVDa1BBT0JJcXpPTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcEsyV2hlekxxc19PSnFUNkRIdVJmN1pOZkpJR3FJSnN0RU1aV182WGNMWUlRRW14VUVqS0hMT0lLSEk0VXp3b0RNOURvNTFVZWg2X3dCd1M4bVl4RzF5eVVHYVp0T0Z0cmU1eldxblYzMUV0TVV3c3NqSGJ2SThuWk15LUxJTXI4ZmFGaUlkVjhHRk01cVE?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEF6YTB6M1gtN2FaRHNqU04zVDluaWd6MU40R1lkSmV0WGN2QndzbGpNT1pLV2RTMWUzaE9penNzdkJ3cmdMVDNCalR3OXpmbDBsN21vV1h6bzJuYnZISlZEZC1sSndHUmNRSVU0ci1qWVRkTXluVUNzMHE2NHJpUnNRX1VBUzhOLTBRaHJlTDh2TklyN1NxT0E4eVFUVFhsOWdFd2NOcjVHMDRheG90OHJ0WXctTGtIa3M1XzExR20?oc=5"
-          ]
-        },
-        {
-          "t": "Consortium Launches Buyout for Leopalace21",
-          "src": "asia.nikkei.com",
-          "b": "Hikari Tsushin, MBK, and a unit of NEC formed a group. They launched a buyout offer worth $1.7bn for Leopalace21. Leopalace21 is a Japanese company. The acquisition brings together multiple corporate backers to take the firm private.",
-          "i": "Hikari Tsushin, MBK, and an NEC unit launched a $1.7bn buyout targeting Leopalace21. The consortium structured the transaction to acquire the Japanese firm. This tender offer represents one of the larger corporate takeovers in the region.",
-          "a": "A consortium comprising Hikari Tsushin, MBK, and an NEC affiliate initiated a $1.7bn buyout for Leopalace21. Private equity and corporate partners structured the acquisition to absorb the target. This transaction deploys significant capital into the domestic corporate restructuring space.",
+          "t": "Leopalace21 receives buyout bid",
+          "src": "Nikkei Asia",
+          "b": "Hikari Tsushin, MBK, and an NEC unit launched a buyout offer worth $1.7bn for Leopalace21. Three companies joined forces for this acquisition deal. Leopalace21 operates in Japan.",
+          "i": "Hikari Tsushin, MBK, and an NEC unit launched a $1.7bn buyout for Leopalace21. Consortium members targeted the Japanese firm with this multi-party transaction.",
+          "a": "Hikari Tsushin, MBK, and an NEC unit launched a $1.7bn buyout for Leopalace21. The consortium structured the acquisition to secure control of the Japanese target.",
           "links": [
             "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHZtVENFenJLRXljQnpxVGhId3p0YU9EdFV2NGh0TVUxdEEzZnp4eDQtTHdyU1JnRDYtVndZNkxhTzJoU1dHVmFzZ19fbW9TVHAzUXdBQnhwRi0tNjdYWmM1Q3pER2dzZGJIM1E1OWRjRjJzcEdhTW5KeWF2b3hPcFlobnU5N2lseXlMeF96UldWU1NpOFRwVFZzS3hVUkNOdUZiWnlyM3FocnduS3k4RF9YVWhseUYzQW5teQ?oc=5"
+          ]
+        },
+        {
+          "t": "Nikkei Stock Average drops",
+          "src": "finance.biggo.com",
+          "b": "The Nikkei Stock Average index fell and closed down by ¥518. Shares dropped as selling spread across artificial intelligence and semiconductor companies. This index tracks stock prices in Japan.",
+          "i": "The Nikkei Stock Average extended its losses and closed down ¥518. Selling pressure spread across artificial intelligence and semiconductor names.",
+          "a": "The Nikkei Stock Average extended losses to close down ¥518 as liquidation widened across artificial intelligence and semiconductor equities.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKaWJyNnc4RDVsaVU5R0pjc3NrMzQzZDhmR1h3cW5ILUdPRUl5NUg5V3MxSTRCamlKMThhY3NkZnB2eDUzZzJkTnZjR04wTEpZcVh0czZTRGRudzVBdkh5UEJuMFNDQVdzQlFOOVRlTndxUThfVnc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Mount Fuji climbers will now face fees if they require off-season helicopter rescues. Local authorities introduced the charge to manage safety costs.",
-        "i": "Mount Fuji climbing authorities introduced fees for off-season helicopter rescues. The policy shifts financial liability onto climbers requiring emergency extraction during dangerous periods.",
-        "a": "Mount Fuji administrators instituted direct fees for off-season helicopter rescues. This administrative shift internalises the fiscal externality of high-risk climbing expeditions onto participants.",
-        "sources": {}
+        "b": "Japan faced discussions around currency values and foreign worker inflows. Foreign professionals arrived more slowly as artificial intelligence changed hiring needs.",
+        "i": "Japan saw slower inflows of foreign professionals as artificial intelligence crimped hiring demand. Market participants monitored central bank policies and rate gaps regarding the Japanese yen.",
+        "a": "Japan recorded a slower inflow of foreign professionals alongside artificial intelligence-driven hiring constraints. Market analysts debated monetary policy divergences and interest rate gaps as drivers for the yen."
       },
       "timeline": [
         [
           "14 Sep 2026",
           "Hikari Tsushin, MBK, and an NEC unit launched a $1.7bn buyout for Leopalace21."
+        ],
+        [
+          "14 Sep 2026",
+          "The Nikkei Stock Average closed down ¥518 amid selling in AI and semiconductor shares."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "China trade surplus widens and bank lending rebounds",
+      "sub": "Bank lending shifts, automaker margins, and state stimulus",
       "ind": [],
       "stories": [
         {
-          "t": "China Trade Surplus Widens",
-          "src": "WSJ",
-          "b": "Export growth picks up speed in China. This makes the country's trade surplus larger. A trade surplus is when a nation sells more goods abroad than it buys from other countries. The Wall Street Journal reports these figures.",
-          "i": "Export growth accelerates across China. The country's trade surplus widens as outbound shipments outpace imports. The Wall Street Journal details this expansion.",
-          "a": "Export acceleration drives a wider trade surplus in China. Outbound shipment momentum outstrips import demand. The Wall Street Journal records the shift.",
+          "t": "Chinese Automakers Face Margin Compression Amid Price Cuts",
+          "src": "AutoNext.co · Fuel Cells Works · finance.biggo.com",
+          "b": "Car makers in China dropped prices heavily to sell vehicles. Nio cut prices by 27% and VW Anhui reduced prices by 17.4%. These discounts left listed automakers with a tiny net profit margin of 1.52% in the first half of the year. Nio sold 150,000 ES8 models in a year. VW Anhui launched the ID. UNYX 08 SUV.",
+          "i": "Automakers in China compressed their profitability through aggressive discounting. Nio lowered ES8 prices by 27% to reach 150,000 unit sales over a year, while VW Anhui cut prices for the ID. UNYX 08 SUV by 17.4%. These reductions dragged the net margin of listed <span class='term' data-t='inflation'>automakers</span> down to 1.52% during the first half.",
+          "a": "Aggressive pricing strategies eroded sector-wide profitability among Chinese original equipment manufacturers. Nio achieved 150,000 cumulative ES8 sales over 12 months following a 27% price reduction, while VW Anhui marked a 17.4% price cut on the ID. UNYX 08 SUV. This discounting cycle compressed aggregate net profit margins for listed automakers to 1.52% in the first half.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzlXWTJCbHBEV3JlN0ItV0gtX3A0Y2duVkNvdWRfZ1h1bWtMSVhIejE0angwQTV5SUkzV2VXMkNxYjlhLWt5Vk5QbnBlMVpTaHVuTWczel9wd1ZEWFEwTXQzRDBHbHpWelNNNDhKZl84MzlkaGFmanpBQnpOUU85dWR0Y2VIS21DbExiYlBENUV4QXppNmM4amhWaktqa2Z3?oc=5"
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkF0VWJXcGdLTnplNS14d2VnNi1oMk1PWTFtMHU4RkpKa251c2lsclo0VGk1RGs1OXZvbk9fRXlYRnQ1YkdmdERhXzBVdnJnb1YxRnFWN0R0Ty04QzFWSlNuU3gxdEYwWmE0cHk2aU16X3dnVzdOb3NQTVhjblo3V2NRM1hWaHQwOXlVZ1Z3MkxIbnBHc1ZpN2dsSQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMU1VYzVlYm04V3BJZ19sc05JVG1OX1owSVN0Z3NYRVp2UndlUXFDX19lNUNRN1VJdGE4NDdlN2JTQVdYX29VRmlzRWNVZHJwbldycEFwWnhXUGtBczdaXzBiY2lSWnlDME9XNjR3NXZEMVhBOUhaOWtmenJiQ1pTTGx2MUNJa3F6RW1BTi05ZVlFMUJWUWdHTm1kZEVlSWVXWlViWGwzMGFOSHVZbHJqSUt2OXlzSVk1LWVPdnp1bXpBMmM?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vR1UxZW9KMVF2SDZpV2Jjb29DR3p0bHlVXzZ6V0h4WFl0b2kwMlR2UlJyMWtaeG9TSUZfSlFhLTZOVHJvbmtUMDBaZ1FhMWJ3U3ZxQmJRblA0eU9NYkhpYUszOHppOVJaNm5kTWhoRDBwTTJsdWc?oc=5"
           ]
         },
         {
-          "t": "August Bank Lending Rebound",
-          "src": "IndexBox · Xinhua",
-          "b": "Banks in China lend 60 billion yuan in August. This number misses analyst forecasts. Total yuan loans rise by 10.44 trillion yuan from January to August. IndexBox and Xinhua provide these totals.",
-          "i": "Chinese bank lending rebounds to 60 billion yuan in August. This figure falls short of analyst forecasts. Cumulative yuan loans reach 10.44 trillion yuan for the January to August period, according to IndexBox and Xinhua.",
-          "a": "August bank lending registers 60 billion yuan, missing consensus forecasts. Total yuan loan expansion reaches 10.44 trillion yuan across the January to August timeframe, per IndexBox and Xinhua data points.",
+          "t": "Social Financing Mix Changes as Bank Lending Misses Forecasts",
+          "src": "WSJ · finance.biggo.com · indexbox.io",
+          "b": "New bank loans in China reached 60 billion yuan in August, which missed forecasts. Beijing plans to inject more than $50 billion into banks and insurers to support growth. Total social financing shifted in August because bond and equity financing exceeded direct loans for the first time.",
+          "i": "August bank lending in China rebounded to 60 billion yuan, falling short of analyst expectations. Beijing responded by planning a capital injection exceeding $50 billion into domestic banks and insurers. Meanwhile, August social financing data showed bond and equity financing surpassing bank loans for the first time.",
+          "a": "Domestic credit creation slowed as August new yuan-denominated bank lending printed at 60 billion yuan, missing consensus estimates. Beijing countered with a fiscal initiative to inject over $50 billion into major banks and insurers. This coincided with a structural shift in aggregate social financing where debt and equity issuance exceeded traditional loan growth for the first time.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUp2RnJ4ZHF5aURyTGlUdlBKWnlzdHdtVHl2S2hQdDQxdDBQTDNSRHl1Q3RqQ1UwbmJucGtsdGlZVUVxNkphR2RlNVl1SWJJLUR2dTlFaTJmU3pLS2xsUTMtVzU5ZzAyWmVJLTN6WU9DOUk0Y0pLdzM3bldoOFp6OWxaUnM5cEpzUVpOckJKUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvQ0p0ejFYZDJZWHMzVDVySWtsUHctSzhNcG5iWnNkeGl6Uk0zb0ZiUEZPWl82X09lUDdobmp0c3pWdUlTV0VPSU9yTUpyN2QtS2o5UG9UU2FjYkJZYlB3cGRIaGdoY1VqWkg4ZF80MjhiMnIxa1c2RmdKTlo?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWRvcWJKVmo2WVF4dDJCZU1VMF9QTFdTZWlxM3lhcXVyaXlHWVBZYlhDdlRuRWZYQm1DMDFRTTZzdUJHU0V6ZEdPakFROXNaSXBuUTJpVGMyaUNMMnJsQy1SdC14N1pDa3RoaUl5ck9EMXdoMzVuRnJjYjE5Vkd0RTk3dU54T3pDak5pbkJzX2xuSTNZTG9ETzBLbzVKVU9v?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NN0p0RVNKek5kUmtfeEpFdXhyY2JJOWtDRXdkZUxUUjNJT04tdjVPc2RJcjkzVkRqbWdwQWY4QUJRRzNwV2UzUlJZejBCdVMzcjZrUGdxbUhUU2RiMk9WMkM0Uy1YNjFHUEM2R2ZZODlyNllHUWc?oc=5",
+            "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeUp2RnJ4ZHF5aURyTGlUdlBKWnlzdHdtVHl2S2hQdDQxdDBQTDNSRHl1Q3RqQ1UwbmJucGtsdGlZVUVxNkphR2RlNVl1SWJJLUR2dTlFaTJmU3pLS2xsUTMtVzU5ZzAyWmVJLTN6WU9DOUk0Y0pLdzM3bldoOFp6OWxaUnM5cEpzUVpOckJKUQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Beijing plans to put more than 50 billion dollars into banks and insurers. The goal is to boost economic growth. The Wall Street Journal reports this funding plan.",
-        "i": "Beijing injects over 50 billion dollars into domestic banks and insurers. The policy aims to stimulate economic growth. The Wall Street Journal outlines the capital injection.",
-        "a": "Authorities in Beijing deploy over 50 billion dollars into banks and insurers. The capital injection targets growth stimulation. The Wall Street Journal tracks the fiscal deployment.",
-        "sources": {
+        "b": "Beijing announced a plan to put more than $50 billion into banks and insurers to help boost economic growth. Police reported that a non-local woman lost 1.9 million yuan in a fake police scam in Macau. Chen Jiagan stopped being an executive director at Xin Yuan Enterprises.",
+        "i": "Beijing announced a fiscal injection of over $50 billion targeted at domestic banks and insurers to stimulate growth. Authorities in Macau reported a 1.9 million yuan loss by a non-local resident in a fraudulent impersonation scam. Corporate changes at Xin Yuan Enterprises included Chen Jiagan stepping down as executive director.",
+        "a": "State authorities committed over $50 billion in capital injections directed at systemic banks and insurers to stimulate economic activity. Operational updates from corporate filings showed Chen Jiagan departing his role as executive director at Xin Yuan Enterprises. Separately, local authorities investigated a financial crime involving a 1.9 million yuan loss from a fraudulent official impersonation scheme.",
+        "timeline": {
           "0": {
-            "outlet": "WSJ",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWRvcWJKVmo2WVF4dDJCZU1VMF9QTFdTZWlxM3lhcXVyaXlHWVBZYlhDdlRuRWZYQm1DMDFRTTZzdUJHU0V6ZEdPakFROXNaSXBuUTJpVGMyaUNMMnJsQy1SdC14N1pDa3RoaUl5ck9EMXdoMzVuFnJjYjE5Vkd0RTk3dU54T3pDak5pbkJzX2xuSTNZTG9ETzBLbzVKVU9v?oc=5"
+            "date": "14 Sep 2026",
+            "text": "August bank lending reached 60 billion yuan."
           }
         }
       },
-      "timeline": [
-        [
-          "14 Sep",
-          "China reports August bank lending of 60 billion yuan."
-        ]
-      ]
+      "timeline": []
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "August inflation rises as rupee dips against the dollar",
+      "sub": "Market movements and price rises across India",
       "ind": [],
       "stories": [
         {
-          "t": "August inflation rates and currency movement",
-          "src": "BW Businessworld · Rediff MoneyWiz",
-          "b": "Retail inflation reached 4.82% in August. Wholesale inflation hit 9.92% in the same month. The rupee slipped 21 paise to reach Rs 94.95 against the dollar. Oil prices rose during this period.",
-          "i": "Retail <span class='term' data-t='inflation'>inflation</span> accelerated to 4.82% in August while wholesale figures reached 9.92%. Higher oil prices pushed the rupee down by 21 paise to Rs 94.95 per dollar.",
-          "a": "August print prints showed retail <span class='term' data-t='inflation'>inflation</span> at 4.82% alongside a wholesale reading of 9.92%. Exogenous pressures from rising oil prices depreciated the rupee by 21 paise to settle at Rs 94.95.",
-          "gloss": "inflation",
+          "t": "Nifty Falls as Microcaps Gain",
+          "src": "BW Businessworld",
+          "b": "The Nifty 50 index, which tracks fifty large companies, fell by 1.24%. Microcaps are shares in very small businesses. These microcap shares surged by 5.41%.",
+          "i": "The Nifty 50 index fell by 1.24%. Microcap shares diverged by surging 5.41%.",
+          "a": "The Nifty 50 declined by 1.24%. Microcap equities decoupled with a 5.41% surge.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2Yzck9JRmFTbl9lT1hOZnVXTkM4Y3dlbHJiOEpsY2ctMkVnWTVXVG1GVFZkNHcxM3lTUXNBRXAwY3JaR002TDJjQnBPa2RwMzFWR2xzWDNURDJHYkM1OGtFOUtPaktEZngyQ1RJRGN4UVp2U2pqOGxZSERpU3phQmtnVTBibGFINlc5TlR1MEYyT0VjckxNd0x2RQ?oc=5",
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM21mY1l3QkRDaENxMExRTnhZVDM4Qlg0WUJpdXNLclVBRDBPR0JaOVE2d2xIWjQwX1BqLWZyVVBubGVnRERrVEI2cEdrU0xpVDdTT0NiTmQ0Z0lCbG5KRml3bFZJbzBOY0g1NUxhbnFRaU42a1JyUmhMbXAtNkZ5Y1Z3SHNCWDMwNXpfa011MExzTUZ3ZTh6X1puSkVOWUhMWU91Uy1mQVhJUDFvYjd5Um1n0gG3AUFVX3lxTE1MRzdySkZrWjNYbWtFNENhR0M0TnRlY09oLWFnUWtTTktFZDJWQXB2NGUxQlFMSlBfMXVROEtlVV9ZOUEzRGR2dTdXTjEzekswa1lKbEJBa0VvRm1nMjUxQ3FlSVpiTkhLcnFQb0w2M3dHdkxBdE43UkVmMUVPal9DQzAydXpIQ3A4RXQ4Sl8yWDlMZHpOUHBiZW1MT1JUTVQzY091WS1fTjh1d18yeWtMY1hpMHJiTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxORUZicWhOUUtEbkE4cWV1UXF1bGRIRERHVDFCVV85MDBJWFFBUzRwMW16YVJaVENrdWFSc1I3cmp2bk12dUVMOU41VllVZUlRbllwWW9FbE5NM2pKS0VyT3d0Q2p4Uy1ZOGsyRFJjaFVscHZWVG5LcklvZEt1bzNYWTYycHVXWUczdm5CbUE3Wmw1VmVHbGdSVUkzM2h5WkpyX0dwX1RIUjhtNXRtUFFpWTJFbXFSZw?oc=5"
           ]
         },
         {
-          "t": "Automotive pricing adjustments and index forecasts",
-          "src": "Autopunditz · Sangri Today",
-          "b": "BMW India plans to raise prices for the fourth time in 2026. This decision follows a weaker rupee and higher input costs. BofA Securities forecasts the Nifty index will reach 26,200 by December 2026.",
-          "i": "BMW India announced plans for its fourth price hike of 2026 amid a weaker rupee and mounting input costs. Meanwhile, BofA Securities projected the Nifty index to climb to 26,200 by December 2026.",
-          "a": "BMW India implements its fourth price hike of 2026 driven by currency depreciation and margin compression from input costs. BofA Securities maintains a bullish stance, targeting the Nifty at 26,200 by December 2026.",
+          "t": "Inflation Rises in August",
+          "src": "Rediff MoneyWiz",
+          "b": "Retail <span class='term' data-t='inflation'>inflation</span> reached 4.82% in August. Wholesale inflation hit 9.92% in the same month.",
+          "i": "Retail <span class='term' data-t='inflation'>inflation</span> printed at 4.82% for August. Wholesale print registered 9.92%.",
+          "a": "Retail <span class='term' data-t='inflation'>inflation</span> printed at 4.82% for August. Wholesale print registered 9.92%.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMic0FVX3lxTE15X1hXNTNqc1d0MFVObS1FNWM2bjR3R0dMTmJjb3JiRktNLU9oU0ZMX18tMVlMUnhaMVFqRHNPTU42U3IxREh1VFZ2WHdCd21CT1h4QWNNc3ZDOWk1Z29OVzBOc1RlS2FBcGpDNUVna29pWGc?oc=5",
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMFAzM045TnpvNXpuU09kZ2FFc3QtX0Y1R0ppRmtfYXBscW1mSmg1ZVZHY18wczN2WWFIUXRuOHF5cGFqcExIMzVsZkEtaUNsV0NIRHpQTWZZWXNYdDNpbUhLa3VWelh6N21TTWNMb3NYX1hkNk8tQy13R1d3MmR4SjlPV1VWd3V6M0VHSHFlZThFb0lMbUQ2clFjRkpQOVVGRk1IRkhwcW4yQ2hYNWlGMVE5T0d6bDJLdjZr0gHAAUFVX3lxTE93UVNIUmZSenQ5NjE1ZHN1UkNPazRLZWpHb2p2QkNjaWJCV0RXdTEyYmctdFZzdU9FOXZBdzRKT1d3Q25mcXhqQUF3US1vY2F3YlM2WEkzRjdzRC1KajREb0puVU40SXNuNURCYmkwc0RTcXFRYWUxNGxkRTNMWlhxd0RoSWIyTklPbG1zcHRtTFRPUzFZalNFQVdwc2hLZTRKdW8xSHYyZzR0dUVZRkNlLXBZVDBfakppbk1tQjFnZQ?oc=5"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM21mY1l3QkRDaENxMExRTnhZVDM4Qlg0WUJpdXNLclVBRDBPR0JaOVE2d2xIWjQwX1BqLWZyVVBubGVnRERrVEI2cEdrU0xpVDdTT0NiTmQ0Z0lCbG5KRml3bFZJbzBOY0g1NUxhbnFRaU42a1JyUmhMbXAtNkZ5Y1Z3SHNCWDMwNXpfa011MExzTUZ3ZTh6X1puSkVOWUhMWU91Uy1mQVhJUDFvYjd5Um1n0gG3AUFVX3lxTE1MRzdySkZrWjNYbWtFNENhR0M0TnRlY09oLWFnUWtTTktFZDJWQXB2NGUxQlFMSlBfMXVROEtlVV9ZOUEzRGR2dTdXTjEzekswa1lKbEJBa0VvRm1nMjUxQ3FlSVpiTkhLcnFQb0w2M3dHdkxBdE43UkVmMUVPal9DQzAydXpIQ3A4RXQ4Sl8yWDlMZHpOUHBiZW1MT1JUTVQzY091WS1fTjh1d18yeWtMY1hpMHJiTQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government data shows retail inflation at 4.82% and wholesale inflation at 9.92% in August.",
-        "i": "Official data placed August retail inflation at 4.82% alongside a wholesale reading of 9.92%.",
-        "a": "Statistical releases reported August retail prints at 4.82% and wholesale prints at 9.92%."
+        "b": "BMW India may raise prices for the fourth time in 2026. The rupee weakened and input costs rose. The rupee slipped 21 paise to Rs 94.95 as oil prices rose.",
+        "i": "BMW India announced potential price hikes for the fourth time in 2026. Input costs rose alongside a weakening currency. The rupee depreciated by 21 paise to Rs 94.95 driven by rising oil prices.",
+        "a": "BMW India signaled a potential fourth price hike of 2026. Margin pressures stem from currency depreciation and rising input costs. The rupee depreciated 21 paise to Rs 94.95 amid higher crude oil benchmarks."
       },
       "timeline": [
         [
-          "August 2026",
-          "Retail inflation reaches 4.82% and wholesale inflation hits 9.92%."
-        ],
-        [
-          "September 14, 2026",
-          "The rupee slips 21 paise to Rs 94.95 against the dollar as oil prices rise."
+          "14 Sep 2026",
+          "Retail inflation reaches 4.82% and wholesale inflation hits 9.92% for August."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Ibovespa drops, industrial pessimism deepens",
+      "sub": "Brazil markets face industrial pessimism and currency moves",
       "ind": [],
       "stories": [
         {
-          "t": "Ibovespa Falls Amid Oil Rally and Political Risks",
+          "t": "Brazil Industrial Pessimism Deepens",
           "src": "TradingView",
-          "b": "The Ibovespa is the main stock market index in Brazil, tracking the performance of the biggest companies traded there. The Ibovespa fell because oil prices rallied and political risks increased. Stock market indices bundle many companies together so investors can watch a whole market at once.",
-          "i": "The Ibovespa declined due to an oil rally combined with political risks. Market participants recalibrated equity portfolios as commodity volatility weighed on sentiment. This benchmark index reflects broader domestic economic jitters.",
-          "a": "The Ibovespa retreated as an oil rally intersected with mounting fiscal and political risks. Cross-asset contagion intensified as local equity valuations compressed under sovereign uncertainty. This sell-off underscores the sensitivity of domestic risk appetite to commodity spikes.",
+          "b": "Industrial pessimism in Brazil deepens in September. People who study business conditions notice that companies feel less confident. This negative mood affects how markets operate. Factory sentiment drops further during the month. The latest readings show growing gloom among manufacturers.",
+          "i": "Industrial sentiment in Brazil deteriorates further in September. Manufacturers report worsening business expectations across the sector. This deepening pessimism weighs on broader market sentiment. Factory confidence surveys record lower readings during the month. The drop reflects persistent hurdles within domestic manufacturing.",
+          "a": "Brazilian manufacturing sentiment deteriorates further in September, underscoring persistent domestic headwinds. Industrial survey metrics print deeper pessimism across key sub-sectors. This persistent deterioration compresses valuation multiples for local industrials. The broader market continues pricing in constrained domestic demand expectations.",
           "links": [
-            "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdJLW52T2FvV2tMQVdTSF91RUtKV0tyd0k2U3loc3NQY2dqQ04tWjE2ZWVTTmRvYnpudGk0U2ZSWlluVXBQczA4WXpsMmNiU2hnOUlXTTc5QXZwdmY5VVdiVWwybUhuZFdBMm1XamNCeDFYT2l2ZER3a2ItRjAzcFk2RU5TamZtWWJlLVRhWG9NWW92Y0dlaDFlS1J0Wms?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZy1lSHk4MFBwM19VaFBUUFFIXzNUY0pFLW5INFptVEJReS1rVkhCMjFYVm02OXpUSTdaVlhCcHlMWVJkWlo1VXljVnd3MjVIOE90OUdfWU9XRjVFMnZDTUFIUmVJM0ZROEJUYzFGbVdyRU80aVZOa0t3QmJFYjdFOGhUS0pteUdWRW5pZXFSc3ZGclpDNWlRbk14YmdpR0Fm?oc=5"
           ]
         },
         {
-          "t": "Industrial Pessimism Deepens in Brazil",
-          "src": "TradingView",
-          "b": "Industrial pessimism in Brazil deepened in September. Businesses in the manufacturing and industrial sectors feel very negative about future economic conditions. This pessimism means companies might spend less money and slow down hiring.",
-          "i": "Industrial pessimism deepened across Brazil in September, reflecting deteriorating business confidence. Manufacturers reported growing concern over domestic demand and financing conditions. Such sentiment metrics often precede contractions in factory output.",
-          "a": "Industrial pessimism deepened in September across Brazil, signaling a contraction in forward-looking sentiment. Producers downgraded operational expectations amid tighter borrowing constraints and subdued sectoral momentum. This sentiment deterioration points toward a slowdown in gross fixed capital formation.",
+          "t": "Petrobras Profit Jumps Amid Subsidy Payout",
+          "src": "Brazil Energy Insight · Dealroom",
+          "b": "Petrobras collects $464m from Brazil for a diesel subsidy. The company reports that its profit jumps 55% in the first half of the year. Petrobras also considers extending operations for floating production storage vessels beyond 6.5 years. Sources indicate Petrobras plans to approve a proposal from Yinson for Albacora.",
+          "i": "Petrobras receives $464m from the Brazilian state for diesel subsidies. First-half profit climbs 55% alongside this financial boost. The energy company evaluates extending floating production storage and offloading operations beyond 6.5 years. Sources report that Petrobras is set to approve Yinson's proposal for Albacora.",
+          "a": "Petrobras secures a $464m diesel subsidy payout from the Brazilian government, bolstering its financial position. First-half net income surges 55% year-on-year. Operations management weighs extending floating production storage and offloading vessel lifespans beyond 6.5 years. Meanwhile, sources indicate imminent board approval for Yinson's bid regarding Albacora.",
           "links": [
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZy1lSHk4MFBwM19VaFBUUFFIXzNUY0pFLW5INFptVEJReS1rVkhCMjFYVm02OXpUSTdaVlhCcHlMWVJkWlo1VXljVnd3MjVIOE90OUdfWU9XRjVFMnZDTUFIUmVJM0ZROEJUYzFGbVdyRU80aVZOa0t3QmJFYjdFOGhUS0pteUdWRW5pZXFSc3ZGclpDNWlRbk14YmdpR0Fm?oc=5"
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXlrQy1EMURkMzdaMDRKMG1Td25aeVBvMjBnOVBTR1FVeVNwRHVSdWhIZ09XeFhnLUQ1OERteEV4MXpTV1FLWDJ6S2tjZWJSRzRIN3hTcldtWk5Eb1NOdXlVcE1MRlpqdFNvX3RfU2IyZkhxLWZXaFJIellnSlJhUHNoQXpnemRDMm9PUjZGUjMxOWFDTzN0aUtzTy1MdjZmZWMwNGlpZHhycXN2U2w2SA?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1JGQUdNd0I0aFdOT0tvTUVpY0dQMXdrT2tkT2RVYlh4RHlOaVBXaU1YQ2o1N2tHYl9vSVdpcEVqRDh6Sl9waHhJbHNtQVI1a0dXR0FvNndzYTBCMl92QnN4X3RPOVZKZ0Y2X2tQVWZyXzJDT1RFWFZXeS1nUDEwTXlkNUlGeUFPSzJkQ3RtUFJnbkdyZlJCZ2UtY3VLd1dhMTlvd3RoQUtGWGhqaDNn?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckdhbEZDNzVXaEdTcEZwcDFCNmdzUGRyMmlDcXdXMWprTGMtWXk2aWtoa3dwdXBlczVlRTRUSlJsQXNBcGdBWV9takt0cFJjdk9rWmJkZG1KenN2RG5ucVNMTXRMcHlLcGhPdXAySGhmNldJOVJ4MmxGRFplbnA1bDlpam9HOWhXS3RVZ0doTy1RbDUyUHExNHZyWHluRDBEbVMzdHhrRzltdlpEa1VJ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political risks hit the Brazilian stock market and created problems for local asset prices.",
-        "i": "Political risks weighed heavily on Brazilian equities alongside the recent oil rally.",
-        "a": "Political risk premia expanded across local assets, exacerbating the downward pressure on domestic equities."
+        "b": "Political risks combine with an oil rally to push the Ibovespa index down. The Brazilian real faces persistent weakness against major global currencies. Traders watch the exchange rate closely as values remain above short-term averages.",
+        "i": "Political risks and a broader oil rally trigger a decline in the Ibovespa index. Persistent weakness in the Brazilian real continues to affect domestic asset prices. Currency trading remains elevated above short-term moving averages.",
+        "a": "Ibovespa downside volatility intensifies amid mounting political risks and an ongoing oil rally. Brazilian real weakness persists, exerting downward pressure on domestic equities and local agricultural commodities such as sugar. Currency pairs continue consolidating above short-term technical averages.",
+        "sources": {
+          "0": {
+            "outlet": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWdJLW52T2FvV2tMQVdTSF91RUtKV0tyd0k2U3loc3NQY2dqQ04tWjE2ZWVTTmRvYnpudGk0U2ZSWlluVXBQczA4WXpsMmNiU2hnOUlXTTc5QXZwdmY5VVdiVWwybUhuZFdBMm1XamNCeDFYT2l2ZER3a2ItRjAzcFk2RU5TamZtWWJlLVRhWG9NWW92Y0dlaDFlS1J0Wms?oc=5"
+          }
+        }
       },
       "timeline": [
         [
-          "14 Sep",
-          "Ultrapar Holdings officer sells 30,000 shares, keeping 57,898 holdings."
-        ],
-        [
-          "14 Sep",
-          "Industrial pessimism in Brazil deepens in September according to reports."
-        ],
-        [
-          "14 Sep",
-          "Ibovespa drops due to oil rally and political risks."
+          "14 Sep 2026",
+          "Petrobras collects $464m from Brazil for diesel subsidies"
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco asset plans and pipeline threats affect energy",
+      "sub": "Aramco asset plans and upstream activity",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco Explores Arlanxeo Divestment",
-          "src": "Egypt Oil & Gas",
-          "b": "Saudi Aramco is a very large oil company owned by the country. It is thinking about selling Arlanxeo, which is a business it owns. This sale is part of a bigger plan worth $35bn to sell off various assets. Assets are things of value that a company owns, like factories or other businesses.",
-          "i": "Saudi Aramco considers the sale of Arlanxeo as part of a larger asset <span class='term' data-t='gilt'>plan</span>. The divestment forms part of a $35bn restructuring strategy across the energy giant's portfolio. Management evaluates multiple non-core holdings to streamline operations.",
-          "a": "Saudi Aramco weighs an Arlanxeo divestment within a $35bn asset rationalisation framework. The proposed sale targets portfolio optimisation across downstream operations. Valuation multiples and buyer appetite will dictate the final transaction structure.",
-          "gloss": "gilt",
+          "t": "Aramco Targets Asset Sales and Upstream Expansion",
+          "src": "egyptoil-gas.com · MEED",
+          "b": "Saudi Aramco is the state oil company of Saudi Arabia. It explores for and sells petroleum. The company is considering selling Arlanxeo as part of a $35bn asset plan. At the same time, Aramco spends more money on its upstream operations, which are the initial stages of finding and extracting crude oil from the ground.",
+          "i": "Saudi Aramco evaluates the sale of Arlanxeo within a $35bn asset divestment strategy. Management simultaneously accelerates upstream expenditure to sustain extraction capabilities. This capital allocation aligns with broader corporate portfolio adjustments across the enterprise.",
+          "a": "Aramco pursues an asset rationalisation playbook encompassing the potential divestment of Arlanxeo inside a $35bn envelope. Concurrently, upstream capital expenditure accelerates to maintain reserve replacement ratios. The dual strategy tests execution risk across non-core asset monetisation while sustaining base extraction capacity.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjlEWEJ1ZkZmWExXRDdFamF0LS1KYW9LNVhGbjJ5cmV4cVJiWUgzM1BVUlB3OExxdFhFcHpJSzBWMmgyZEd2ZkR1ZXA1FkhzQ0VMQ2JMU3dNZFNiOHUxUEVOT042M21faEs3ZjZKMlJuUHVWZUpiTEhjenpCWEtZa0h3dTF1Vm1oWmtZU2liRWt0bWdFbXZpM3NUcw?oc=5"
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjlEWEJ1ZkZmWExXRDdFamF0LS1KYW9LNVhGbjJ5cmV4cVJiWUgzM1BVUlB3OExxdFhFcHpJSzBWMmgyZEd2ZkR1ZXA1RkhzQ0VMQ2JMU3dNZFNiOHUxUEVOT042M21faEs3ZjZKMlJuUHVWZUpiTEhjenpCWEtZa0h3dTF1Vm1oWmtZU2liRWt0bWdFbXZpM3NUcw?oc=5",
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE1INEwwODRTZzlFd3VGdmZpeERNY3duRC05b0hEVi1vVTBEWUUwMXZFRmN6UDNHVDhLZ3ZRUVpSRTA2U3B0Rml5bWFPcGlDLUV6eEhzcDdCdE1lS1pSOFFvZU5DTkZvUnpJckE?oc=5"
           ]
         },
         {
-          "t": "Pipeline Incident Threatens Crude Production",
-          "src": "Arabian Gulf Business Insight | AGBI",
-          "b": "A pipeline in Saudi Arabia was recently hit, creating a threat of a shutdown for oil output. Output means the amount of oil that gets pumped out of the ground. Pipelines are long tubes that carry oil across distances. A shutdown would mean stopping work completely.",
-          "i": "A pipeline hit creates a shutdown threat for Saudi oil output. The physical damage targets vital transport infrastructure used to move crude. Operators assess the structural integrity of the affected network to prevent prolonged outages.",
-          "a": "A pipeline strike introduces severe curtailment risks to Saudi crude output vectors. Structural damage to the hydrocarbon transport conduit threatens immediate capacity offline events. Throughput recovery timelines depend on repair access and containment speed.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEtZTk1FSTlObWs5NmlxajY3Zi01MWdXR3Z0VnRoVUlLMHV4MzNCT2EyNktWZXN6NXg4VXVubk5COTlzZlRKOThCNDBtcHlyampIbU1TX1BTUEM5M3JTeUs4T2Z3UXZhSk5xdVkxa0Vjci1XOFl6RElCTHFfUjl3RXp3WG5NbUN1b1dKSWVvRUJpa1E3cFc2cTdWMGhMU19Cc2psTHB1cVU?oc=5"
-          ]
-        },
-        {
-          "t": "Wa'ed Backs BRKZ Funding Round",
-          "src": "HackerNoon",
-          "b": "BRKZ is a company that just raised $31m in funding. Funding is money given to a business to help it grow. Wa'ed, which is backed by Aramco, joined 500 Global to provide this cash. The money will help BRKZ scale up its artificial intelligence procurement tools.",
-          "i": "BRKZ secures $31m in a funding round backed by Aramco's Wa'ed and 500 Global. The capital injection targets the expansion of artificial intelligence procurement capabilities. The startup deploys the funds to scale its digital supply chain infrastructure.",
-          "a": "BRKZ closes a $31m financing tranche anchored by Aramco's Wa'ed and 500 Global. The capital allocation focuses on artificial intelligence procurement scaling and platform architecture. Strategic integration into regional industrial supply chains remains the core growth vector.",
+          "t": "BRKZ Secures Funding for Procurement Growth",
+          "src": "hackernoon.com",
+          "b": "BRKZ is a company that helps businesses buy materials. It just raised $31m in funding. Wa'ed, which is the venture capital arm of Aramco, helped provide this money alongside 500 Global. BRKZ will use the cash to scale up its artificial intelligence procurement tools.",
+          "i": "Procurement platform BRKZ secures $31m in a funding round backed by Wa'ed, the venture capital arm of Aramco, and 500 Global. The enterprise applies the capital toward scaling its artificial intelligence procurement infrastructure. This investment expands the technology footprint supporting regional supply chains.",
+          "a": "Venture funding of $31m flows into BRKZ via a round co-led by 500 Global and Wa'ed, Aramco's venture capital vehicle. The deployment targets the scaling of proprietary artificial intelligence procurement systems within industrial supply chains. Such backing underscores corporate venture capital penetration into regional B2B technology stacks.",
           "links": [
             "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdm5CQVpsXzVzTGc1c3dBdkhLM1RWS0xXRndRbnpzS0FJLVRtOVVJNHM2MS1lbzM3THhwR2k2ODdwRjBHY1ZBZG1Ha1FjLXh0SVVHR3BTSkJFR2E3MUhBcHJDMGdQMzlSRGNTWEhVamVKR0lQVEhQNHhNS0hoV1UzUUEwZTcyYU5ldmFXaU1oMVNwMXBvd19WSGFrcmNpaERUMWJXTnhn?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Saudi Arabia manages its oil production alongside other nations. Iraq made a new capacity claim before an audit by Opec, which is a group of oil-producing countries. Meanwhile, the UAE's status within Opec draws attention as crude prices stay low for Asian buyers.",
-        "i": "Opec faces baseline audit preparations as Iraq submits a new capacity claim. The UAE's relationship with the producer group continues to draw international commentary. Official crude selling prices for Asian buyers remain near post-pandemic lows.",
-        "a": "Opec audit frameworks incorporate new Iraqi capacity submissions ahead of baseline verification quotas. The broader geopolitical architecture faces friction regarding UAE alignment and bilateral export pricing. Official selling prices to Asian refiners persist at cyclical troughs last seen during the pandemic era."
+        "b": "Iraq makes a new oil capacity claim before a baseline audit by Opec, which is a group of oil-producing nations that coordinate output levels. Saudi crude prices for buyers in Asia remain at their lowest level since the Covid-19 pandemic. Meanwhile, a pipeline hit creates a shutdown threat for Saudi oil output.",
+        "i": "Iraq submits capacity claims ahead of an Opec baseline audit. Saudi pricing for Asian buyers remains anchored at levels last seen during the pandemic. Separate pipeline disruptions introduce potential shutdown risks to Saudi crude output.",
+        "a": "Baghdad advances specific capacity declarations ahead of the Opec baseline audit framework. Official selling prices for Saudi crude destined for Asia hover near multi-year lows matching pandemic troughs. Concurrently, physical disruptions from a pipeline strike threaten regional export flows.",
+        "gloss": null
       },
       "timeline": [
         [
           "1960",
-          "OPEC was founded following a Baghdad meeting of five oil nations."
+          "OPEC is founded following a meeting in Baghdad involving five oil-producing nations."
         ],
         [
           "2025",
-          "Global crude oil producer rankings highlighted top national outputs."
+          "Global crude production rankings place major Middle Eastern producers across top output tiers."
+        ],
+        [
+          "14 Sep 2026",
+          "Iraq makes a capacity claim ahead of an OPEC baseline audit while Aramco advances upstream spending."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Dangote refinery IPO, currency moves and upcoming bond sale",
+      "sub": "Dangote refinery IPO launch and currency movements",
       "ind": [],
       "stories": [
         {
-          "t": "Dangote Refinery Launches Major Share Sale",
+          "t": "Dangote Refinery Launches IPO",
           "src": "LEADERSHIP Newspapers · Head Topics",
-          "b": "An initial public offering is when a private company sells shares to the public for the first time. The Dangote refinery launched this type of share sale on September 14, 2026. Investors bought billions of naira in shares within minutes of the opening. This marks the largest initial public offering in Africa.",
-          "i": "The Dangote refinery launched the largest African initial public offering on September 14, 2026. Investors flooded the market, subscribing to billions of naira in shares within minutes of the opening. This equity offering represents a major milestone for regional capital markets.",
-          "a": "The Dangote refinery initiated the largest African initial public offering on September 14, 2026. Domestic and international investors absorbed billions of naira in equity within minutes of book-building opening. This primary issuance provides significant market depth for the local exchange.",
+          "b": "An IPO is when a company sells parts of itself to the public for the very first time. Dangote Refinery launched the largest initial public offering in Africa. Investors bought billions of naira worth of shares just minutes after the market opened.",
+          "i": "Dangote Refinery launched the largest initial public offering in Africa. Investors subscribed billions of <span class='term' data-t='inflation'>naira</span> within minutes of the market opening.",
+          "a": "Dangote Refinery launched the largest initial public offering in Africa. Order books filled with billions of naira within minutes of the opening bell.",
+          "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRmdpSTJSNXlZRW5GdTMwanNWbUtjb3pBTnc2YjZlODRicEdvZDVmc2toU2F6YkMwUkFfTkQxcUxTUV8xd0FNbUt2MDlWMTVvOFZkMS1jUnpxUktxSDlnZlhPUVVXVlJOdWhkY1hoUERMNm1lUmpwSjFEWFk1YXoxSWJMQ2Zsa1hyQTJxcUQ2aDJKYWNGRlpEM1RHaVdrcDdoNmVRZHl6azBtZ3JYczZwanZlUTBLdkll?oc=5",
             "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0Q3NVRhN1cwQVdkMkhWY1JRazZPVmdhaXdrdlY2Q194QkszeU54RFpNRVRCVHdTYzI5ZW04S0IxaVdaWEstSE1tUl9DZm5mZFR4VEJVbGt4am9IbklBRG01U0pZTnBSb1U1Z1hlREs0ODN0OE0wRGhuXzVUSjE0SS04WkFpd1J2SHpOcDZhZzE4a20yLWFSMXF3?oc=5"
           ]
         },
         {
-          "t": "Currency Moves and Upcoming Debt Auction",
-          "src": "Arbiterz · Business News Nigeria · beninwebtv.com",
-          "b": "The Nigerian currency traded at N1,328 per dollar at the official market on September 14, 2026. Over the preceding nine months, the currency recorded a 7.94% gain due to rising foreign exchange liquidity. Separately, the government announced plans to auction 1,000 billion naira in bonds, which are fixed-income investments where an investor loans money to an entity.",
-          "i": "The naira traded at N1,328 per dollar at the NAFEM window on September 14, 2026. Rising foreign exchange liquidity helped the currency secure a 7.94% gain over the prior nine months. Meanwhile, authorities announced a scheduled auction of 1,000 billion naira in <span class='term' data-t='gilt'>bonds</span>.",
-          "a": "The naira settled at N1,328 per dollar at the NAFEM benchmark on September 14, 2026. Expanding foreign exchange liquidity underpinned a 7.94% appreciation for the currency across a nine-month horizon. Concurrently, the debt office prepared a primary issuance of 1,000 billion naira in sovereign <span class='term' data-t='gilt'>bonds</span>.",
-          "gloss": "gilt",
+          "t": "Currency Trades at NAFEM",
+          "src": "MarketForces Africa · arbiterz.com · Business News Nigeria",
+          "b": "The naira weakened slightly to trade at N1,328 against the dollar at the NAFEM window. Interbank foreign exchange turnover dropped by 38%. Over a nine-month period, the naira recorded a 7.94% gain due to rising foreign exchange liquidity.",
+          "i": "The naira weakened marginally to N1,328 per dollar at NAFEM. Interbank foreign exchange turnover slid by 38%. The currency previously recorded a 7.94% gain over nine months driven by rising foreign exchange liquidity.",
+          "a": "The naira printed at N1,328 per dollar at NAFEM. Interbank foreign exchange turnover contracted by 38%. A nine-month trailing gain of 7.94% was previously underpinned by improving foreign exchange liquidity.",
           "links": [
+            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEhpYjh5RTlqMWJSSWVnN2dXcjEtVmNWNWRMVEtFcFF1ejMwQ2dod0dVRXVkaWVKTEpaVUpjejhKdmIwWk1qSU1yNlk0ZmgwM1k0ZERDSnpNSFZTOHVWeHhFMlRMcF9kVW1LbXY4VUVEbHJ4YTVSbjItQ2hXWk9pLXdPdWpnenJSLUt3?oc=5",
             "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUl1NENIVUpmTHp3RWZhY0VuSWNMMEVlOHQyRVhUOGJfb1NXZTZPZ1VBZUR3Q25ZLVVHbFdHOTBrQU9odWNJTnQwc0RUbnpyeXVrOFkwRHkwSlJCb3B1OWtCQUM5WmpYeFVxa0p5cHpLZmkzSTdwYmJ4U1ZWSEJVRjdxVTNTcDJYSHQ0eGdUUUV3MWNVRW92NDM0S0Q4VWVGNHpmWVFCVUtROXExVk1iRTFBcm5WVzJITm1ialdNTTM1TXM0U01IbW1kMFZibXc?oc=5",
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE9jMWRvUC03cGRLUXFSakVlc1dQS0s2eXloZHppcE1iN08zODBjSTBRLTZxanV6R0tCZXVNaHBBX1BSU1ZxMWIyQU1lcFBFY3JGaUlZLVpfUmxUWkFGaWk4Y3FjbkNKVkFKNXBfaDlJU2VocWYtS25TODlNY29HdEFDN3M1cExXV1A1b2M4cXlFcm9TSEszOTdYVDlPUnZZZEl6emJRVEFCTHVu?oc=5",
-            "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPWHY2QzNGSGh0ZS12UUhIamM1YVFWd2E1R0NVVzAyMW1EU2E0bmJTd1RnM2VDelQ4UDdKNXQtQTZhX3ZyS0J3c0o1eEJBRlhzY0tFVWxaWWs2UE82QjM2QUJ5UEQ3MmhZWW9Mbml4NlhHTnFCNzdxTGRHbFFGdw?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOE9jMWRvUC03cGRLUXFSakVlc1dQS0s2eXloZHppcE1iN08zODBjSTBRLTZxanV6R0tCZXVNaHBBX1BSU1ZxMWIyQU1lcFBFY3JGaUlZLVpfUmxUWkFGaWk4Y3FjbkNKVkFKNXBfaDlJU2VocWYtS25TODlNY29HdEFDN3M1cExXV1A1b2M4cXlFcm9TSEszOTdYVDlPUnZZZEl6emJRVEFCTHVu?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Dangote publicly thanked President Tinubu on September 14, 2026, for removing fuel subsidies and devaluing the currency. These policy actions altered the operating environment for major industrial businesses in the country.",
-        "i": "Dangote acknowledged President Tinubu on September 14, 2026, for eliminating fuel subsidies and adjusting the currency valuation. Both structural policy shifts significantly altered the corporate operating environment.",
-        "a": "Industrialist Dangote expressed gratitude to President Tinubu on September 14, 2026, referencing the removal of fuel subsidies and the devaluation of the naira. These structural interventions redefined the macroeconomic framework for domestic producers."
+        "b": "Dangote thanked Tinubu for removing the fuel subsidy and devaluing the naira.",
+        "i": "Dangote acknowledged Tinubu for removing the fuel subsidy and devaluing the naira.",
+        "a": "Dangote publicly credited Tinubu for the removal of the fuel subsidy and the devaluation of the naira."
       },
       "timeline": [
         [
           "14 Sep 2026",
-          "Dangote refinery launches its initial public offering"
+          "Dangote Refinery launched its initial public offering."
         ],
         [
           "14 Sep 2026",
-          "Naira trades at N1,328 per dollar at NAFEM"
-        ],
-        [
-          "14 Sep 2026",
-          "Nigeria announces upcoming auction of 1,000 billion naira in bonds"
+          "The naira traded at N1,328 per dollar at NAFEM."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX flat start, News Corp buyback update, and currency moves",
+      "sub": "ASX flat start, Lovisa leads, Sunrise rally ends",
       "ind": [],
       "stories": [
         {
-          "t": "ASX Faces Flat Opening Following Wall Street Pressures",
-          "src": "smh.com.au",
-          "b": "The Australian stock exchange prepares for a flat start to the day. This follows drops on Wall Street, which is the main American stock market. Artificial intelligence shares weighed down US trading after calls for a slowdown. Local traders now watch how these global technology jitters affect domestic equities.",
-          "i": "The Australian stock exchange eyes a flat opening following losses on Wall Street. Technology shares dragged down US indices after analysts called for a slowdown in artificial intelligence investment. Local investors assess the spillover risk for domestic equities as overseas sentiment sours.",
-          "a": "The ASX is set for a flat open after US equities retreated on artificial intelligence valuation concerns following recent deceleration calls. Domestic price action faces headwinds from these offshore technology sector corrections. Market participants monitor whether local growth sectors decouple from US risk sentiment.",
+          "t": "Lovisa Shares Lead ASX 200 Gainers",
+          "src": "thebull.com.au",
+          "b": "Lovisa shares had a very strong day on the stock market. A stock market is a public place where people buy and sell small pieces of companies, called shares. This strong performance helped push a big group of Australian stocks higher. The main group of top Australian stocks is known as the ASX 200. Lovisa led those gains at the start of the week.",
+          "i": "Lovisa shares drove the ASX 200 higher at the start of the week. The benchmark index climbed as specific retail equities outperformed the broader market. Investors responded positively to the latest corporate updates from the firm. Trading activity concentrated around these strong movers as the session opened.",
+          "a": "Lovisa shares catalyzed the ASX 200 higher in early trading. Price action demonstrated robust momentum as buyers absorbed available liquidity in top-tier equities. The broader index derived its primary support from these outperforming retail names. Market participants readjusted positions following the company-specific announcements.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVmNIOFlZN1oyVmR0d1ZlUnlRbE1CSll6TDNmaV9kVHJtSjlzaElBblZSSkFyTE5TQlVYVzA5WVV6d0FnZ2p5QkdVQ3RXdHZ2UnRfVklpS1Buc0xvRjZILTR6YmhMdDBKQWY4d1dFcGtMX2cxZEctdTAyWE52NmxlQUUtTjNValhZNXZSLVduTFQ5MkhxZzlKZmFnQ0hJcVZRM3ZwQmlZVVpYdUxmOVhPVWxocElOZW1iVXdhbTQtNlNwNTNTbF8wYmh2WE1lQUlMekE?oc=5"
+            "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaTdpSkJjdnotUEt6bWhjdzZMVElkRTVwLWxyRVFWYWNvcWloUTZFdTJMS2NTWWFqRnMxYWhMYThFWkdlRFFvdkJQUncwSjhZc1FVcTZhR1lhNm5iemo3Qk5KZU0tdzdqVzduc2JoMTlBNGczWmtFOTRLQXZZcXFORXVqQkltZw?oc=5"
           ]
         },
         {
-          "t": "News Corporation Advances Share Buyback Programme on ASX",
-          "src": "GuruFocus · TradingView",
-          "b": "News Corporation provides a daily buyback disclosure to the Australian stock exchange. The company operates a repurchase programme worth £1bn. It has spent roughly £473.6m of this authorized amount so far. Share buybacks reduce the total number of shares available on the market.",
-          "i": "News Corporation updates the Australian stock exchange with its daily buyback disclosures. The media firm has spent approximately £473.6m under its £1bn share repurchase authorisation. Such programmes return capital to shareholders by decreasing equity supply.",
-          "a": "News Corporation reports ongoing transactions under its £1bn ASX repurchase authorization. Cumulative spending on the daily buyback schedule reaches approximately £473.6m. Capital return mechanics continue to absorb public float according to the stated corporate disclosure.",
+          "t": "Sunrise Energy Metals Rally Snapped",
+          "src": "thebull.com.au",
+          "b": "Sunrise Energy Metals shares saw their winning streak end. A winning streak is when a company's share price goes up day after day. This streak had lasted for six straight sessions. The price dropped after days of continuous gains.",
+          "i": "Sunrise Energy Metals shares snapped a six-session rally. The previous winning streak came to an immediate halt during the latest trading session. Selling pressure emerged to reverse the prior upward momentum. Volumes adjusted as the multi-day advance concluded.",
+          "a": "Sunrise Energy Metals shares terminated a six-session winning streak. Profit-taking eroded the recent gains accumulated over the prior six daily intervals. Order flow shifted from net-buying to distribution as the technical run expired. Valuation metrics recalibrated following the short-term correction.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVV6UkI3ekRoRXZ2Q0l4cHFjX3dWcWVCaXo0YkZleGFadEVSa0FFQjhKZVFzS005NGxlckdEY0tuUWJXbzIzdHBISjBNSDM3VVNOZkNHX29CdGxoTE5qSFU3SUkyaWhCRmRXWGpMSG9iS0RwWjVFenFXNWd2RTFxRVlBZ0VVNTluVC1wbXRJOVFWa0o0cmxhZHhVNnhBMTdOWG5BcGNOYV9UcXZaSHY3alNCN01nVnI3eEFMTDF1SlBiR1dGR184bU4zQjRMTDFIT3c?oc=5",
-            "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSlN4dXNncnYyZHZxZWw4dFZmOTgwWUNYYTh6V3BaWDNiVHRvSXZvOEtzcGRkemRVcWt5Zl9LY25GREVOMDJ6T1owNXVFdmxwYXd4VVNOSlBXeVlsN1BUd0ZTY3YySWlkSmR5amhOSzVBZzNTQ2lvdXJsdGFERHpaRDV6ZU02ZnZ1ellnRlpTX1lyMWtjanc2RnBqU2ZOMmhNU2JTYWswNHo4blFmVmZsYnlqREtCQU94VTV3SHVYUnphLWZhclFTdnFuWm5hWUxpdjZHelcyd0UxOExmaVg5Yzd3cnJQSjdnUWNz?oc=5"
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjRQcV93MUt6Q0pOemxmUXRBSnhWOHBMN0I0VEtGN0JmOTd0SlBxeDdBSzdZcVBTSTMzenJNNm5DMUI2Mlg0Qml2TTJWVHZGZmFXTUhVU1BqZEFKdjlWcndDNXNGWTIxOEZ5Umc5aW1MTEVVQ1BoR1JzT1gzLURxWlZIQ0x4eFhiZERYUFgxc09VSmhIalE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No government policy updates or political announcements were reported in the Australian financial markets today.",
-        "i": "No official political or fiscal policy updates were released across Australian markets during the session.",
-        "a": "Macroeconomic policy announcements and fiscal updates remained absent from the Australian market news flow.",
-        "sources": {}
+        "b": "Political leaders made comments about artificial intelligence companies. Wall Street stocks fell because of these warnings. Leaders also spoke about technology chiefs.",
+        "i": "Political figures criticized artificial intelligence developers and called for industry slowdowns. Wall Street equities declined in response to regulatory pressure. Public disputes involving sector executives drew market attention.",
+        "a": "Political rhetoric targeted artificial intelligence leaders and spurred a broader tech sector pullback on Wall Street. Public attacks on industry executives compounded regulatory fears. Equity valuations compressed as policy headwinds intensified."
       },
       "timeline": [
         [
           "14 Sep 2026",
-          "News Corporation reported spending roughly £473.6m of its £1bn buyback authorization on the ASX."
+          "Sunrise Energy Metals shares snapped a six-session winning streak."
         ],
         [
           "14 Sep 2026",
-          "The Australian stock exchange eyed a flat start following technology declines on Wall Street."
+          "Lovisa shares led the ASX 200 at the start of the week."
+        ],
+        [
+          "16 Sep 2026",
+          "Australian dollar exchange rate forecasts pointed to a temporary correction."
         ]
       ]
     }
