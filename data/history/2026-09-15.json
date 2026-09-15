@@ -1,571 +1,540 @@
 {
-  "generated": "2026-09-15T04:27:39.880Z",
+  "generated": "2026-09-15T05:26:28.525Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "15 September 2026",
-    "headline": "U.S. Treasury yields pushed above 5% as oil surged and global equity markets retreated.",
+    "headline": "US 10-year Treasury yields reached their highest level since 2007 as energy prices climbed.",
     "lede": {
-      "b": "U.S. Treasury yields, which are the interest payments the government gives to people who lend it money, climbed above 5%. This happened because traders expected the Federal Reserve, the central bank that controls U.S. borrowing costs, to raise interest rates. At the same time, oil prices surged, pulling down the value of gold and driving the U.S. dollar to a two-week high. These changes caused the S&P 500 index, a collection of 500 large American company shares, to drop by 35 points.",
-      "i": "U.S. Treasury yields broke past 5% as markets priced in a higher probability of <span class='term' data-t='interest rates'>rate</span> hikes from the Federal Reserve. Surging energy prices tracked these yield movements closely for the first time in seven years, lifting the U.S. dollar toward a two-week peak. Meanwhile, spot gold dropped below $4,300 and the S&P 500 index lost 35 points in the session.",
-      "a": "U.S. Treasury yields pushed above 5% alongside a surging oil complex, forcing a concurrent liquidation in spot gold below $4,300. The Federal Reserve faces rate-hike re-pricing pressure as energy prices track sovereign debt yields for the first time in seven years. This macroeconomic tightening translated directly into equity outflows, dragging the S&P 500 index down by 35 points."
+      "b": "United States government borrowing costs hit levels last seen in seventeen years. This happened as oil prices climbed and pushed <span class='term' data-t='inflation'>inflation</span> worries higher. Investors watch what the central bank, which is the government agency that sets official borrowing rates, will do next. The US dollar climbed near a two-week high.",
+      "i": "United States 10-year Treasury yields broke above the 5% marker as energy prices climbed. Crude values and <span class='term' data-t='inflation'>inflation</span>-sensitive debt tracked each other closely, reinforcing expectations for monetary tightening from the Federal Reserve. The US dollar climbed near a two-week high as traders priced in potential policy action.",
+      "a": "US 10-year sovereign yields crossed the 5% threshold, aligning with crude prices in a correlation unseen in seven years. The Federal Reserve faces heightened market pricing for benchmark rate increases driven by persistent energy strength. The dollar index advanced toward a two-week high as duration risk repriced across debt instruments."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "U.S. Treasury yields climbed above 5% and the S&P 500 index dropped 35 points.",
-        "i": "U.S. Treasury yields breached 5% while spot gold dropped below $4,300.",
-        "a": "U.S. Treasury yields cleared 5% as rate hike bets pushed spot gold below $4,300."
+        "b": "US 10-year Treasury yields climbed past 5% as energy prices rose.",
+        "i": "US 10-year Treasury yields broke above 5% as crude values pushed sovereign debt higher.",
+        "a": "US 10-year yields cleared 5% alongside energy market advances."
       },
       {
         "c": "United Kingdom",
-        "b": "FTSE 100 chief executives earned an average of £5mn while the pound softened to 1.3490 against the dollar.",
-        "i": "FTSE 100 executive remuneration reached a record £5mn average as the pound drifted toward 1.3490 against the dollar.",
-        "a": "FTSE 100 executive remuneration printed a record £5mn average while the GBP/USD exchange rate softened toward 1.3490."
+        "b": "Chief executives at FTSE 100 companies earned an average of £5m.",
+        "i": "FTSE 100 chief executives secured a record average remuneration of £5m.",
+        "a": "FTSE 100 executive remuneration reached a record average of £5m."
       },
       {
         "c": "Germany",
-        "b": "The DAX 40 index fell 0.50% to 25,440.81 points as government bond yields hit a fifteen-year peak.",
-        "i": "The DAX 40 benchmark fell 0.50% to 25,440.81 points while German government bond yields touched a fifteen-year peak.",
-        "a": "The DAX 40 retreated 0.50% to 25,440.81 points concurrently with German government bond yields touching a fifteen-year high."
+        "b": "The DAX 40 index dropped 0.50% to close at 25,440.81 in Frankfurt.",
+        "i": "The DAX 40 index dropped 0.50% to close at 25,440.81 as German bund yields surged.",
+        "a": "The DAX 40 index fell 0.50% to 25,440.81 alongside a fifteen-year peak in bund yields."
       },
       {
         "c": "Japan",
-        "b": "TDK allocated 40 billion yen to AI server components and the Nikkei index climbed above 64,000.",
-        "i": "TDK deployed 40 billion yen into AI server parts while the Nikkei index rebounded past the 64,000 level.",
-        "a": "TDK committed 40 billion yen to AI server infrastructure as the Nikkei index rebounded above 64,000 following short covering."
+        "b": "TDK allocated 40 billion yen to expand production capacity for AI server components.",
+        "i": "TDK committed 40 billion yen toward artificial intelligence server component production capacity.",
+        "a": "TDK deployed 40 billion yen in capital expenditure for artificial intelligence server hardware segments."
       }
     ],
     "thread": {
-      "b": "Rising energy prices and climbing borrowing costs affected financial markets across multiple countries. Central bank policies and debt yield movements put pressure on shares from the United States to Germany.",
-      "i": "Spiking energy commodities and rising sovereign bond yields created a restrictive backdrop for global equities. Markets from Frankfurt to New York absorbed downward pressure as debt costs reached multi-year highs.",
-      "a": "Global equity indices correlated negatively with surging sovereign debt yields and energy shocks. Cross-border transmission channels amplified the impact of U.S. rate expectations on European benchmarks."
+      "b": "Energy prices and government bond yields moved higher across several countries. Stock markets reacted to these shifting costs.",
+      "i": "Energy price strength pushed sovereign yields higher across multiple jurisdictions. Equity valuations faced downward pressure from these elevated borrowing costs.",
+      "a": "Sovereign debt repriced upward in tandem with crude benchmarks, transmitting duration pressure into regional equity indices."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Treasury yields rise as oil surges and rate hike bets grow",
+      "sub": "US Treasury yields hit 2007 highs alongside oil prices",
       "ind": [],
       "stories": [
         {
-          "t": "Treasury Yields and Rate Hike Bets Climb",
-          "src": "Jacksonville Journal-Courier · moomoo.com · 24/7 Wall St.",
-          "b": "U.S. Treasury yields, which are like the interest the government pays on money it borrows, broke above 5%. Expectations grew that the Federal Reserve, the central bank that sets official borrowing costs, will raise its benchmark rate. These rising bets defied demands from Trump. The S&P 500 index closed down 35 points.",
-          "i": "U.S. Treasury yields pushed above 5% as markets priced in a higher probability of rate hikes from the Federal Reserve. The central bank faces pressure as traders defy demands from Trump. Consequently, the S&P 500 index dropped 35 points in the latest session.",
-          "a": "U.S. benchmark yields breaching 5% reflect surging expectations for a Federal Reserve rate hike despite political pressure from Trump. This repricing of the short-end and belly of the curve immediately pressured equities, driving the S&P 500 down by 35 points. The implied path of policy now forces a reassessment of duration risk across institutional portfolios.",
+          "t": "Treasury Yields Hit 2007 Highs",
+          "src": "Bloomberg.com · moomoo.com · CNBC",
+          "b": "US 10-year Treasury yields, which are the interest rates paid by the government when it borrows money from investors for a decade, climbed to their highest level since 2007. Oil prices also kept rising across global markets. The two financial measures moved in close alignment for the first time in seven years. This parallel movement creates difficult conditions for broader financial markets. The 10-year yield pushed past the 5% threshold.",
+          "i": "US 10-year Treasury yields reached their highest level since 2007 as energy prices continued to climb. Crude values and <span class='term' data-t='inflation'>inflation</span>-sensitive debt instruments tracked each other with a closeness unseen in seven years. The 10-year rate broke above the 5% marker. These simultaneous advances create adverse conditions for equity investors monitoring corporate valuations.",
+          "a": "US 10-year Treasury yields touched levels last observed in 2007, driven by an ongoing energy price surge. The cross-asset correlation between crude and duration assets reached a seven-year high, compounding macro headwinds. The benchmark yield breached 5%, forcing duration-sensitive portfolios to reprice. This tight coupling between energy supply shocks and sovereign debt yields constrains central bank optionality.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXJQbklCMlRaSWNaVktYc3FSNzBLMkE2NnhhdGVoU0xjVEZuRl9SVzBaYVZBTDFLLUFrM2RKejU4X19kVTR2MDBTSTNEVnV4R3pkdnktVGYtbmVQWEk2TEp0aTV4cmhQWDVKWU1YTnJFMG43SURaWExrYVJxVEF6OEtsMVc4S3J0aGVKcWE5c1ltVnpldVFpQkNmY2VXVGhmREhMSFZidk1nRXBE?oc=5",
-            "https://news.google.com/rss/articles/CBMingJBVV95cUxQMXdkY0ZfbnBCU3doZTVROVhVSmV3Z0UzZUY5V0lOLVVSb2V4Z0xVMkdNTHRyZWdrNDBmbEM1T3duYXFaNnBwWGFuWFJoaFk2OE5zc0laYW9NZGNDbG4xVXpkaml1bHVOaV9tV3E3a1duek9HNDQ2UC1DVE9yN1lVdjgzcjJNN1BZOWdoMXFnMkpJRTRRTGpJQ3l1NlVEcVRreXJwRHcyMTBVTjdxVFlLU2hrVFR1N1AtVlZ3bzBlaUdzeVZrenZOTHhoMUQyeXo5TWNUaVF4bTlhbjU3SmZlUEp0N1JJSmFxZFVEaGhndk9taTR5TUVZNmdUNmZKX3pxTldURjFxWUxMbnp4bHRlUzkyVnV1Z01QODVqcnV3?oc=5",
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmI1cVpTMFhOTG5pc2txUFlyVjY3RTU3b0k0U01pd3dzYXRBUHhYTnBFMGVfWXJvU29abHVSZVhjTzdPQUszMnVzSW9GaC1pTDlEQnBKaUxvbVdaeEJzUTZFWmxvOWpsTGQyRTgwa0pkVnl6WXp6S1NlS1VxS1VGQjdrWG91LVdlci12T3Y4QVlXUlR3UU5wWjRfV3FiNFBSd0F0R3VfLTdUM2NGTmwzZklwUGtTS2NXTUdmM0s1Q1VsNDVjZjdXSEk3VQ?oc=5"
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSm5yVDVQc0NoRUdBX1hla0VNenhxaV9wazBFcGJEbmp0QnMyazNpT1NoRUVYbG9sOXZzSzhsU09BVEdfQVZtOVRDOVFkUVJycGJpMFpHMUk1Q05GNWxab3lTYTlYbDhRM3hfeHJ5UlROY0lBSzF2S2F2RTZzeWJneDNTdi1aTzBucFY4RlhzUUcyNE95cEsyS0JudE9OVGtSajFjUVFmQmMzTmxCakdN?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHFjel94MUp3aThha0tvNzZHcnNSekoyR2lWZS1mUG1LVVg3S1EyWERWQ1A2TGdZN1ZRdm9NbThSQmNGNUJBMjBHS1JURWRDc0xHdGlpQ05TazkzWFBXMEt4QTJNazkyYXBHamJtX0RUdVNDSEQ0dDByeHN6dkFLeG11UzJvYThmVll2aEVDOGxXTTFrNWVuRW1BbGJEajlNQ3pPUnlTUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QajFNYTNJSHNFdm9IaVRCSTZqM21IbllITnExcWVZdFNzek5zcE1jVkJocFZZNldiTXJfYS1SNTFPRlp3STdSUFVfTV9YOElGZl94Z2hvQXRwU21taUI3QThIUjdwVVkwUTBnUDI3QzNSTGFiMWkxb9IBfkFVX3lxTE1ybFZGX0lvUmRscWVKLVNOMm9faVh4ZUlfekhrY3RJQ2NUbFpSVVlpbHdMX3V3LW8zcjdQQjlpVFZ4T3ZXZW8yUjF1QzJvU3Y1eGwtSjdnWXdyOEdOTTB3Q1RkTXY4ODVYYnJGRkpHZEdPMWhpV1pveDhSRmxHQQ?oc=5"
           ]
         },
         {
-          "t": "Oil Surge Lifts Dollar and Pulls Down Gold",
-          "src": "CNBC · moomoo.com",
-          "b": "Oil prices surged, moving in close alignment with Treasury yields for the first time in seven years. The rising yields pushed the U.S. dollar near a two-week high. Spot gold prices fell below $4,300 as investors awaited the upcoming decision from the central bank.",
-          "i": "Oil and Treasury yields tracked each other closely for the first time in seven years, creating a difficult backdrop for broader markets. The surging energy prices and climbing yields lifted the U.S. dollar toward a two-week high. Meanwhile, spot gold dropped below $4,300 as market participants braced for the Federal Reserve decision.",
-          "a": "A seven-year high correlation between oil movements and Treasury yields compounded macro pressures across asset classes. This energy-driven yield expansion propelled the U.S. dollar toward a two-week peak. Spot gold subsequently broke below $4,300 under the weight of higher opportunity costs.",
+          "t": "Federal Reserve Faces Rate Hike Pressure",
+          "src": "apnews.com · CNBC",
+          "b": "The Federal Reserve, which is the central bank that sets monetary policy and interest rates for the United States, faced expectations to increase its benchmark rate. These forecasts arrived despite demands from Trump to keep borrowing costs down. A surge in oil prices helped lift both bond yields and expectations of tighter monetary policy. The US dollar strengthened near a two-week high alongside these developments.",
+          "i": "The Federal Reserve encountered market expectations for a benchmark interest rate increase, defying demands from Trump. Crude price surges pushed sovereign yields higher and reinforced expectations for monetary tightening. The US dollar climbed near a two-week high as traders priced in potential policy action. Bond markets continued reacting to the persistent energy strength.",
+          "a": "Federal Reserve rate-hike probabilities adjusted upward despite political pressure from Trump. Energy market strength fueled sovereign yield expansion, cementing expectations for tighter policy transmission. The US dollar appreciated toward a two-week peak as foreign exchange desks recalibrated rate differentials. Fixed-income pricing reflects persistent macroeconomic friction between commodity impulses and central bank mandates.",
           "links": [
-            "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QajFNYTNJSHNFdm9IaVRCSTZqM21IbllITnExcWVZdFNzek5zcE1jVkJocFZZNldiTXJfYS1SNTFPRlp3STdSUFVfTV9YOElGZl94Z2hvQXRwU21taUI3QThIUjdwVVkwUTBnUDI3QzNSTGFiMWkxb9IBfkFVX3lxTE1ybFZGX0lvUmRscWVKLVNOMm9faVh4ZUlfekhrY3RJQ2NUbFpSVVlpbHdMX3V3LW8zcjdQQjlpVFZ4T3ZXZW8yUjF1QzJvU3Y1eGwtSjdnWXdyOEdOTTB3Q1RkTXY4ODVYYnJGRkpHZEdPMWhpV1pveDhSRmxHQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2YtNlhuWDNkUDE5MkV2NFFlNDZ5YUZlZzkySWZCQjlDOUtJVkItTU9zWTRmZ2oyUGZ4WXZaZHFMYW95VXp1dEhxV1N4TUt6bF9ialRqT1dTZkdxeXpuS3dxaVRrNUk2aE9hbFlGeE8tRmpkaVcweVpDbkpveHVZZ3JaOHZqNWJ4WnBFU0lacW5wWk5jSk1ldG9aU1NFSlk2WmpWZ1hHM2hnQdIBqgFBVV95cUxPa2YtNlhuWDNkUDE5MkV2NFFlNDZ5YUZlZzkySWZCQjlDOUtJVkItTU9zWTRmZ2oyUGZ4WXZaZHFMYW95VXp1dEhxV1N4TUt6bF9ialRqT1dTZkdxeXpuS3dxaVRrNUk2aE9hbFlGeE8tRmpkaVcweVpDbkpveHVZZ3JaOHZqNWJ4WnBFU0lacW5wWk5jSk1ldG9aU1NFSlk2WmpWZ1hHM2hnQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2xwdmEtMEp4eUJFNTRUNWtCQWZOUE43WEMtcWpYRmRBRlUwU0Q5OHU1WnZuQzg2VnhsbEQyTnJwaE01RFhJcWkzaHNoWUpaZHM4cDRyZS1PbXRjOHdadWZDSnUxYXpLcm94Ump1SXFrS216N3p4U2diTGhhY1lsWm5sdkVDR0JkSzJIUDNvTXFlYkh1aGdmS3pfXy1LSW5veUNJX2RuelVkZTNUb2hR?oc=5"
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2YtNlhuWDNkUDE5MkV2NFFlNDZ5YUZlZzkySWZCQjlDOUtJVkItTU9zWTRmZ2oyUGZ4WXZaZHFMYW95VXp1dEhxV1N4TUt6bF9ialRqT1dTZkdxeXpuS3dxaVRrNUk2aE9hbFlGeE8tRmpkaVcweVpDbkpveHVZZ3JaOHZqNWJ4WnBFU0lacW5wWk5jSk1ldG9aU1NFSlk2WmpWZ1hHM2hnQdIBqgFBVV95cUxPa2YtNlhuWDNkUDE5MkV2NFFlNDZ5YUZlZzkySWZCQjlDOUtJVkItTU9zWTRmZ2oyUGZ4WXZaZHFMYW95VXp1dEhxV1N4TUt6bF9ialRqT1dTZkdxeXpuS3dxaVRrNUk2aE9hbFlGeE8tRmpkaVcweVpDbkpveHVZZ3JaOHZqNWJ4WnBFU0lacW5wWk5jSk1ldG9aU1NFSlk2WmpWZ1hHM2hnQQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Donald Trump made public demands regarding the direction of official borrowing costs. The central bank faced these pressures as financial indicators shifted. Observers noted the tension between political figures and financial regulators.",
-        "i": "Donald Trump maintained public pressure on monetary authorities regarding benchmark borrowing costs. The Federal Reserve navigated these political demands against a backdrop of rising yields. Observers tracked the friction between the administration and the central bank.",
-        "a": "Political interference intensified as Donald Trump publicly leaned on the central bank regarding rate trajectories. The Federal Reserve maintained its operational independence against direct administration demands. Market participants priced the institutional friction into yield curve dynamics."
+        "b": "Political figures placed pressure on the central bank regarding borrowing costs. Officials navigated conflicting demands over how to manage the economy.",
+        "i": "Federal Reserve policy decisions faced public opposition from political figures demanding lower rates. Monetary authorities balanced these political pressures against macroeconomic indicators showing persistent energy costs.",
+        "a": "Executive branch pressure clashed with institutional rate expectations as the Federal Reserve weighed commodity shocks. Policymakers navigated competing political demands while responding directly to fixed-income market signals."
       },
       "timeline": [
         [
-          "15 Sep",
-          "Treasury yields surpassed 5% while the S&P 500 closed down 35 points."
+          "15 Sep 2026",
+          "US 10-year Treasury yields touched their highest level since 2007."
+        ],
+        [
+          "15 Sep 2026",
+          "Federal Reserve faced market expectations for a rate increase."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Bank of England pressure, executive pay, and currency moves",
+      "sub": "Bank of England debt sales and FTSE chief executive pay",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of England Faces Pressure Over Bond Sales",
-          "src": "The Guardian · investingLive",
-          "b": "The Bank of England is the central bank, which is the main bank that runs a country's money system. Critics want the Bank of England to slow down or stop selling government debt, which is also known as bonds (loans that pay interest to investors over time). They claim this change would reduce borrowing costs across the UK. Goldman Sachs expects the central bank to hold rates steady while watching for hawkish hints (clues that policymakers might raise borrowing costs).",
-          "i": "The Bank of England faces calls from critics to slow or halt its quantitative tightening programme by reducing <span class='term' data-t='gilt'>gilts</span> sales. Observers argue that altering this pace would directly lower UK borrowing costs. Meanwhile, Goldman Sachs anticipates an interest rate hold in the upcoming decision while monitoring policymakers for hawkish signals.",
-          "a": "External voices urge the Bank of England to pivot its balance sheet reduction strategy by curtailing sovereign debt disposals to compress sovereign yield curves. Goldman Sachs models a consensus hold for the policy rate while pricing in potential hawkish rhetoric regarding terminal rate assumptions. Market participants continue to evaluate how alterations to quantitative tightening transmission channels impact long-end issuance absorption.",
+          "t": "Bank of England Faces Pressure Over Debt Sales and Borrowing Costs",
+          "src": "The Telegraph · The Guardian",
+          "b": "The Bank of England is the country's central bank, which is the main bank that manages the money supply and sets interest rates. It sells government debt, which are official loans made by investors to the government. Critics are urging the Bank of England to slow down or stop these sales. They believe this will reduce UK borrowing costs. The Bank of England is now planning to overhaul these debt sales.",
+          "i": "The <span class='term' data-t='gilt'>gilts</span> market is experiencing turbulence as the Bank of England considers overhauling its debt sales. Observers are urging the central bank to slow or halt its quantitative tightening to lower borrowing costs. These debt sales affect the wider financial system by altering supply and demand dynamics for government paper. The Bank of England is planning changes to how it unloads these assets.",
+          "a": "The Bank of England faces mounting pressure to alter its active <span class='term' data-t='gilt'>gilt</span> sales programme amid persistent market strain. Critics argue that stopping or slowing quantitative tightening would compress sovereign yield spreads and ease fiscal pressure. Modifying the issuance and sales mechanism changes the duration risk absorbed by primary dealers and institutional portfolios. The central bank is now reviewing its debt sales strategy.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQktUeEdVNHZXSE1RNTV3Q0VHMThDNi1rN21tWmMxbFdyWWdoYnpTZUlVNkNNZnZPNnBMNE9MTUJzVW9nUDNFVk1CNldobFlLTU0xMk1KTlJhdkJqX3JhdHgwRWRuODlQNDZKaHhfT3A3SW5BbzJCVlhvU1dMcWxBdTF5Q1RGWUNlc3NBUEF0dTNETnJQMXdQUFAwVmQ5ZVZQeWJvcnJZTUYyZFRjZl9zZ3hn?oc=5",
-            "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVI0MV83N1VlSmdKSjN5b0FFYXFVMjZPNk1wczZHbWFhel9ES3B2LTNNZjVzQjl0TnVEQ0lOYXUtRWttMEMwbEFvSnd4RmVQMzJlV3R4V2trTWFuSGdTb1dNNzlrREU2WmJyTVR1MEtfZUI1YTdBQktZV1VCZTVhOFFnVE9kRWJDWXg5b1A4dzQ0UVQwTFhmd0NENE1UVjJxU2hOQW81SEpkcTV4dGc?oc=5"
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxObnRac1cxaUtSVjlGdEJMMnBLZlpZX3ltYktONXJnWC1tOEFHRGdSeU04d2NLN1ZMOHpVWXVEMFBrUE9rM1ZvN09XbHhIYngtOC1GcE5sTEdDUXRaeEtoQnZLejhOcmozaDF0eS1CTy01bmx1bHl1NVJaLVhTMjhZTnVsMG02RkZ4QkhtMnNtcF9ZbS1JajlaODBsSXdNTFMtZ2tTY01Jbw?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQktUeEdVNHZXSE1RNTV3Q0VHMThDNi1rN21tWmMxbFdyWWdoYnpTZUlVNkNNZnZPNnBMNE9MTUJzVW9nUDNFVk1CNldobFlLTU0xMk1KTlJhdkJqX3JhdHgwRWRuODlQNDZKaHhfT3A3SW5BbzJCVlhvU1dMcWxBdTF5Q1RGWUNlc3NBUEF0dTNETnJQMXdQUFAwVmQ5ZVZQeWJvcnJZTUYyZFRjZl9zZ3hn?oc=5"
           ]
         },
         {
-          "t": "FTSE 100 Chief Executive Pay Reaches Record Heights",
-          "src": "Financial Times · Process and Control Today",
-          "b": "Chief executives at the biggest companies on the London stock market received a record average pay package of £5mn. These top bosses earned massive sums through various salary and bonus schemes. This news arrives as industrial manufacturers hold back on hiring new staff. Companies are waiting for the upcoming Budget to provide action on business costs.",
-          "i": "Chief executives <span class='term' data-t='carry'>carrying</span> out duties at FTSE 100 firms collected an average remuneration of £5mn. This figure marks a record high for top executive compensation packages in the UK. Concurrently, industrial manufacturers delay recruitment plans while awaiting the upcoming Budget for policy interventions regarding operational expenses.",
-          "a": "Executive compensation metrics for FTSE 100 leadership hit a record mean of £5mn per chief executive. This wage expansion contrasts with labor market stagnation in the manufacturing sector, where firms freeze hiring pipelines. Industrial employers condition their near-term workforce expansion strategies on fiscal relief measures delivered in the upcoming Budget.",
-          "gloss": "carry",
+          "t": "FTSE 100 Chief Executive Pay Reaches Record Average",
+          "src": "Financial Times",
+          "b": "Chief executives are the top bosses who run big companies. Bosses of FTSE 100 companies received a record average pay of £5m. The FTSE 100 is a big list that tracks the hundred largest companies listed on the London Stock Exchange. This average pay figure comes from recent compensation reports. These top executives lead major British firms.",
+          "i": "Chief executives of FTSE 100 companies secured a record average remuneration of £5m. The FTSE 100 index comprises the largest companies listed on the London Stock Exchange by market capitalisation. Executive compensation packages continue to climb across top British firms. Remuneration committees disclose these figures in annual corporate filings.",
+          "a": "Aggregate executive compensation among FTSE 100 constituents reached a historic mean of £5m. The benchmark index of London-listed equities reflects broad trends in executive pay-setting practices by remuneration committees. Institutional investors scrutinise these payouts relative to total shareholder return metrics. The latest disclosure figures quantify peak executive remuneration levels.",
           "links": [
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNllhWUVBemtlRzFpOTQ0SmhERW1HMm1HRU56UW9vcGxXTnRkOUVIVWNTOU9JTWRKRldaRWZuRU42M29SNHVVNnJXVk9wckpPSUJRbkFrdnk5VTVmX2lxdzJLNERoNDVYMXFqZkNBM3FTa3laUVdyQkd6V0JzWlRvN3FINjk?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMm5tSW84QUJYQXpRRDFpeWVIUy01MldLWTNLNGRUbGJYRVB0cEhvVnJXN1NQU3BKVk9Lbk16M1FabFFhR0dzaF8yNHUxRW85MEdyZTFuaV83cG11MnN0dDZhVWVMNGJUUmNiUzdDaWwwLVU1SHNzZHpJM3BzQml3dEdtTHMxQUd0ZThWdld0WFlpQUYwS0otLXJmUlVxVjNWdDVuSFRROA?oc=5"
-          ]
-        },
-        {
-          "t": "Pound Sterling Softens Against the US Dollar",
-          "src": "FXStreet",
-          "b": "The pound sterling is the official money used in the UK. Its price dropped in currency markets to trade near 1.3490 against the US dollar. Currency traders watch these exchange rates closely every single day.",
-          "i": "The pound sterling softened in foreign exchange markets. The GBP/USD exchange rate drifted down toward the 1.3490 level.",
-          "a": "Spot pricing for the pound sterling registered downward pressure against the greenback. The GBP/USD pair retreated toward the 1.3490 support neighborhood.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUd1cU8tblZVTno0Y09iRDlJdEdBN195MFBhSzdRdlJGR1lKYmlJZTZNVUZJUDZPVDhBamp2cWJWVkFadzhFSGsyaWxwUDVnTV9VVGlaX0tCTW9XMmFOaWpUbzQtSlJZLWgteFZSU2M4Y0cxVm11c1JTWFpqSFI0ZmxBQ2hyT25lM1NDVVZOc1RIT0JzY3QwTEJtNnRFZjhsN0JXR28xRnlMZGM?oc=5"
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNllhWUVBemtlRzFpOTQ0SmhERW1HMm1HRU56UW9vcGxXTnRkOUVIVWNTOU9JTWRKRldaRWZuRU42M29SNHVVNnJXVk9wckpPSUJRbkFrdnk5VTVmX2lxdzJLNERoNDVYMXFqZkNBM3FTa3laUVdyQkd6V0JzWlRvN3FINjk?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Manufacturers are asking the government for help with business costs in the upcoming Budget. Companies want policy changes before they start hiring workers again.",
-        "i": "Industrial manufacturers are withholding recruitment decisions and calling on the government for cost-relief measures in the upcoming Budget.",
-        "a": "Manufacturing sector participants demand targeted fiscal interventions in the upcoming Budget to offset operational cost burdens before unfreezing hiring quotas."
+        "b": "Manufacturers are holding back on hiring new workers. They want the upcoming government Budget to take action on business costs. Buswells losses are also drawing attention ahead of the fiscal announcements. Businesses across the country are waiting for government policy choices.",
+        "i": "Manufacturers are delaying hiring decisions while awaiting the upcoming Budget for policy interventions on operating costs. Buswells losses are adding to the fiscal context ahead of the ministerial announcements. Industrial sectors continue to navigate cost pressures while anticipating state action.",
+        "a": "Industrial employers are withholding capital expenditure and headcount additions pending targeted fiscal interventions in the upcoming Budget. Buswells-related losses compound the broader macroeconomic backdrop facing policymakers. Industry bodies lobby for specific cost-mitigation measures ahead of the legislative fiscal address.",
+        "sources": {
+          "0": {
+            "outlet": "The Irish Times",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbk5HX3JuZjR5c1lyZEVHdUk3LU5uVmZaQlBBdC1fRFFvWF9IWVNFWHk0bzJlbHFRS2dGSjIzU0sxb29iZWpESTJWOGdiMkV2bExRTGpwRzFWQ2lkVHlTU2xLenpnVndQTWVVejBwa3kwYnM0ZTV6MG1nMlZic0VrR0RwSzRMck5XeHhBejkzYlJOZ3dJTjNTa3EtZ1BNWTJSNXBtZg?oc=5"
+          },
+          "1": {
+            "outlet": "Process and Control Today",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMm5tSW84QUJYQXpRRDFpeWVIUy01MldLWTNLNGRUbGJYRVB0cEhvVnJXN1NQU3BKVk9Lbk16M1FabFFhR0dzaF8yNHUxRW85MEdyZTFuaV83cG11MnN0dDZhVWVMNGJUUmNiUzdDaWwwLVU1SHNzZHpJM3BzQml3dEdtTHMxQUd0ZThWdld0WFlpQUYwS0otLXJmUlVxVjNWdDVuSFRROA?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "15 Sep 2026",
-          "Goldman Sachs previews the upcoming Bank of England decision while pound sterling trades near 1.3490."
-        ],
-        [
-          "15 Sep 2026",
-          "FTSE 100 executive pay data reveals a record average of £5mn per chief executive."
-        ],
-        [
-          "15 Sep 2026",
-          "Manufacturers urge government action on costs in the Budget while holding back on new hiring."
+          "Pound Sterling softens to near 1.3490 against the US dollar."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "Frankfurt equities retreat as bond yields touch peaks",
+      "sub": "Frankfurt stocks drop as bond yields hit highs",
       "ind": [],
       "stories": [
         {
-          "t": "Frankfurt Benchmark Retreats",
-          "src": "BBN Times · Investing.com · ad-hoc-news.de",
-          "b": "The main stock market index in Germany is called the DAX 40, which tracks the forty biggest companies in the country. This index fell by 0.50% to finish at 25,440.81 points. Stock prices dropped because investors worried about artificial intelligence safety and rising oil prices. Another report showed the index slipping by 0.60% at the close of trade. Meanwhile, Knorr-Bremse shares managed a 1.1% gain on the Xetra trading platform.",
-          "i": "The DAX 40 benchmark fell 0.50% to close at 25,440.81 points. Investor sentiment deteriorated due to artificial intelligence safety concerns and an oil price spike. Broader <span class='term' data-t='inflation'>inflation</span> pressures also weighed on European shares alongside these tech-sector jitters. On the individual stock front, Knorr-Bremse posted a 1.1% gain on the Xetra.",
-          "a": "The Frankfurt benchmark dropped 0.50% to 25,440.81 amid intersecting pressures from artificial intelligence safety slowdown calls and an oil price spike. European equities absorbed broader downward momentum as <span class='term' data-t='inflation'>inflation</span> concerns compounded tech-sector repricing. Individual order books showed divergence, with Knorr-Bremse securing a 1.1% Xetra gain while Siemens Healthineers dropped 0.5% and Knorr-Bremse shares headed into the open following their prior session.",
+          "t": "Frankfurt Index Falls on Safety Fears and Oil Prices",
+          "src": "BBN Times · Reuters",
+          "b": "The DAX 40 is a group of forty major company shares traded in Frankfurt. This main stock index fell by 0.50% to close at 25,440.81. Artificial intelligence safety worries and a spike in oil prices pushed share prices down. European shares overall slipped due to those same worries and worries about rising prices.",
+          "i": "The DAX 40 index dropped 0.50% to close at 25,440.81 in Frankfurt. Equity valuations contracted as artificial intelligence safety fears and higher oil prices weighed on market sentiment. Broader European shares similarly slipped amid persistent <span class='term' data-t='inflation'>inflation</span> concerns.",
+          "a": "The DAX 40 closed down 0.50% at 25,440.81 under pressure from sector-specific headwinds and commodity repricing. AI safety concerns triggered a reassessment of tech-adjacent multiples within the Frankfurt benchmark. Broader European indices mirrored the weakness as energy supply shocks intersected with tighter monetary conditions.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYV9SWHpJSkFSbFlvSmJnOXlIUzZ2RWNubnRDN3EwT2VqQ1lMVlhkQUpqenQ3FjdnT2g0TzBSaUF6a3ZkYVJlbDFyb0JELUVxeVpILVJHZkp4NE01a2RQcVAycmZaTG9XMmxwMnN6TGRMQlVjeXQzUy1Bck5EaDZfWk1nVkxnSS1GUjBtek1VSWd6THhfWmFLTHRNZnhSUjhWMnlGWTFsNVFabjBUTk1KU1hrcTdZWkVZUHhlZGRzeUhMZ1g3NVkyZFR1NUxBemw2VDh6cFIybVBUSnZTQWZURVlZcG5pdnNaYUFnakRaQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnFGeml2N2l2em9HTlVHcEF1LW1oUzBGbVNuYlduUThtaXRGemswNnMwZEhabVNjZmo3dVJiOVFTdEE4QVRXVE14M3JiUWlVWmF3OTY2Uml1Y1Rkb3c4SGo4dTBtbVF6ZHZDOWNpR1ljMTYtWi1hRTVpY0N1VUZOeW1NdzlZTXFsQjlocU1Hb2w3d0pMY1FfZnpmbzVuT1ZhSk9qeGlPNXFieURU?oc=5",
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR181UV9iV2k1OEp4UWRTeUlXdGlsTEFTZ1ktd0wxNEY2UnZVcC1OcWI5eDg4RXgtZmRWb1ZZaERFUV9SNloxQ2t4amo3YjhsX3dKYXNQdFdBV2J3dUY5elVUbXVoeXgzUWVSWWNKZXNfalpmaGpLS3JPbHJiRlRBWnFvOE1ESXZ4UVhkcVYzWDIzUUpiVmdlNkpHWUVMTUdRcDBnWUhRWkRWbEEycGlkSzB0YVdGQWNGLS1UZ241QWs0T1pKU2RpX2FNZGg?oc=5"
+            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYV9SWHpJSkFSbFlvSmJnOXlIUzZ2RWNubnRDN3EwT2VqQ1lMVlhkQUpqenQ3RjdnT2g0TzBSaUF6a3ZkYVJlbDFyb0JELUVxeVpILVJHZkp4NE01a2RQcVAycmZaTG9XMmxwMnN6TGRMQlVjeXQzUy1Bck5EaDZfWk1nVkxnSS1GUjBtek1VSWd6THhfWmFLTHRNZnhSUjhWMnlGWTFsNVFabjBUTk1KU1hrcTdZWkVZUHhlZGRzeUhMZ1g3NVkyZFR1NUxBemw2VDh6cFIybVBUSnZTQWZURVlZcG5pdnNaYUFnakRaQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEtkR3ZWTWxOU2JGb0dvZG4tV1dDUXVpTlR3Qno4cFB4WGxRaGtBT1RWZmVsLXJ3SHBJRjVocjlyVnhKQ0hjOXFVUTZNMWF6TFJKR0ttRUU4NEVianJsdFVycE5tNTlNb2w3LUo4RXdReDZyZTY1OVJHOV9ielFyV3d4SmNXWGo4YlNJb25MUkh0Y3RhUXpCbmZZYkd3QmI2VThB?oc=5"
           ]
         },
         {
-          "t": "German Government Borrowing Costs Reach Fifteen-Year Peak",
-          "src": "WSJ · Reuters",
-          "b": "A bond is like an official IOU where an investor lends money to a government in exchange for regular interest payments until the loan is repaid. The yield is the annual return an investor gets on that loan, expressed as a percentage. German government bond yields, specifically for the benchmark debt known as a bund, climbed to a fifteen-year high. This happened while United States ten-year yields cooled after topping 5%.",
-          "i": "German government <span class='term' data-t='gilt'>bund</span> yields surged to a fifteen-year high. This debt market movement coincided with United States ten-year yields cooling off after having topped the 5% threshold. European shares experienced general downward pressure during these sovereign debt adjustments.",
-          "a": "German sovereign <span class='term' data-t='gilt'>bund</span> yields printed a fifteen-year high. This divergence occurred as United States ten-year benchmarks cooled following a breach of the 5% handle. Cross-border duration positioning adjusted as European equities priced in the higher sovereign discount rate.",
-          "gloss": "gilt",
+          "t": "German Government Debt Yields Reach Fifteen-Year Peak",
+          "src": "The Wall Street Journal",
+          "b": "A government bond is an official loan that investors make to a government in exchange for regular interest payments. The yield is the annual return an investor gets on that loan. The yield on the German ten-year government bond, known as a bund, climbed to a fifteen-year high. This happened on the same day that United States ten-year yields cooled after recently topping 5%.",
+          "i": "German bund yields surged to a fifteen-year high in the latest trading session. This sovereign debt repricing contrasted with United States ten-year yields, which cooled after topping 5%. The divergence highlights shifting yield curves across major western economies.",
+          "a": "German 10-year bund yields printed a fifteen-year high, decoupling from the intraday cooling observed in US Treasuries after the latter breached the 5% threshold. This duration sell-off reflects aggressive structural repricing of European sovereign risk premia. The widening yield differential underscores divergent fiscal and monetary trajectories between the eurozone anchor issuer and federal debt markets.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUViTThLVXZVVW9Uck9RZHRIcm1zQm9tcXFjX1ZBckl6NGJQRTVvREEyYjFlUzBKdHRaUTF3eGlHb1JaSnN5ZXpSU2ZnZUNNNURYUXgxME9Xam96THNITzNTNjlNVUdNUmFSbUhoSXgzLXgxM0pWOFZ2aVNuN2lYb0ZXdGlpN3NIeUVJR3FaY0VmcDFERWFXU1g1dUE4R3NoZGU0SVRfS3dVdTA5VjlKd2FBUy1tYWJtaWxhc0FNclUzM2xFdUpSUTlzcw?oc=5",
-            "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSEtkR3ZWTWxOU2JGb0dvZG4tV1dDUXVpTlR3Qno4cFB4WGxRaGtBT1RWZmVsLXJ3SHBJRjVocjlyVnhKQ0hjOXFVUTZNMWF6TFJKR0ttRUU4NEVianJsdFVycE5tNTlNb2w3LUo4RXdReDZyZTY1OVJHOV9ielFyV3d4SmNXWGo4YlNJb25MUkh0Y3RhUXpCbmZZYkd3QmI2VThB?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUViTThLVXZVVW9Uck9RZHRIcm1zQm9tcXFjX1ZBckl6NGJQRTVvREEyYjFlUzBKdHRaUTF3eGlHb1JaSnN5ZXpSU2ZnZUNNNURYUXgxME9Xam96THNITzNTNjlNVUdNUmFSbUhoSXgzLXgxM0pWOFZ2aVNuN2lYb0ZXdGlpN3NIeUVJR3FaY0VmcDFERWFXU1g1dUE4R3NoZGU0SVRfS3dVdTA5VjlKd2FBUy1tYWJtaWxhc0FNclUzM2xFdUpSUTlzcw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "KPMG published key economic facts regarding Germany.",
-        "i": "KPMG released its economic key facts briefing for Germany.",
-        "a": "KPMG compiled economic key facts for the German jurisdiction."
+        "b": "Germany operates under a federal parliamentary system led by a chancellor. Economic data from institutions like KPMG outline the key facts of the national market. Stock and bond prices shift daily based on these fundamentals.",
+        "i": "Germany maintains a federal parliamentary republic framework with policy steered by the federal government. Market participants track economic indicators and corporate performance metrics across key sectors. Sovereign issuance terms adjust according to broader macroeconomic data releases.",
+        "a": "German fiscal governance operates within federal constitutional debt brake limits while navigating structural industrial transitions. Macroeconomic inputs from consultancy reports frame ongoing industrial policy debates. Sovereign debt issuance capacity remains bound by statutory borrowing caps amid rising debt service costs."
       },
       "timeline": [
         [
           "14 Sep",
-          "DAX drops 1.1% alongside flat FTSE 100 trading performance"
+          "DAX index falls 0.50% to close at 25,440.81 in Frankfurt"
         ],
         [
           "14 Sep",
-          "German bund yield hits a fifteen-year high"
-        ],
-        [
-          "15 Sep",
-          "Knorr-Bremse records a 1.1% Xetra gain ahead of the market open"
+          "German 10-year bund yield climbs to a fifteen-year high"
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "TDK investment, Nikkei rebound, and Bank of Japan rates",
+      "sub": "SoftBank rebounds and yen holds steady ahead of central banks",
       "ind": [],
       "stories": [
         {
-          "t": "TDK Pours Billions Into AI Server Parts",
-          "src": "marketscreener.com",
-          "b": "TDK is a big company that makes electronic parts. It decided to spend 40 billion yen on its factories. This money will help build more parts for artificial intelligence servers. These servers are powerful computers that run smart software. The investment aims to meet growing demand.",
-          "i": "TDK is allocating 40 billion yen to expand its production capacity. The capital expenditure targets components used in artificial intelligence servers. This move responds to intensifying demand for specialized hardware infrastructure. The firm aims to capture higher market share in high-performance computing supply chains.",
-          "a": "TDK commits 40 billion yen to scale production lines for artificial intelligence server components. This capital allocation reflects corporate confidence in sustained infrastructure spending cycles despite recent valuation jitters in tech equities. The capacity expansion directly targets the supply bottlenecks currently constraining high-end server assembly.",
+          "t": "SoftBank Leads Nikkei Higher As Tech Concerns Ease",
+          "src": "The Economic Times · finance.biggo.com",
+          "b": "SoftBank is a big Japanese company that invests in technology. Its shares fell recently because people worried about artificial intelligence. Today, its share price bounced back up. This helped the overall Nikkei stock index rise by 1.0%.",
+          "i": "SoftBank shares rebounded following an earlier artificial intelligence selloff. The recovery drove the Nikkei up 1.0%. Investors re-entered technology names as sector fears subsided.",
+          "a": "SoftBank drove a 1.0% recovery in the Nikkei index after reversing previous artificial intelligence sector losses. The bounce reflects short-term positioning adjustments rather than a structural shift in tech valuations. Underlying breadth remained narrow as traders awaited central bank catalysts.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWl9GS0F3aHVjaWRmTzZPWHdXWGlxeHpPUXdwUmYwN1hYc2J2S21XZndVNXl6ci1UZHBnT2s1dFdERDZ4cVgxVlNyUS1IUm42ems1b3BSUWtoUW91ei1Nd24wYWVjQ25KX0x0VWMteXdUaWVWRGQxTTk4QmFHR2t3TWxROGh1WXNic2h0ZVp5Mmgwdm81MEZxbFNsRW9SR2hMQktoNlB1RkNVYUhVN0R6bHIyM3h1N1dmYkdPYkpR?oc=5"
+            "https://news.google.com/rss/articles/CBMizAJBVV95cUxOMDU1aUxCS1FJZDFPYjRqUzhuWDZvWFhJMFJVWTIyN3FJUkhCUXl5SEFMbWtLdEZPa0VwWWtRUFp4MEtKTlVXX1B2ZnFLUkc0UG9BSFZjaTc1REdqeFMtamFOdk9SZEFCbERlZVlCLXFoMldadlc0SV85TlRXVUN5aE96Q2VBYmFzbERsTmVFWTNQNXZDdENrS0Y3REw0Zzl2T280UmxSUjVaa1pWQW1fcjh5ekVOQXVvWGNqNHZIN1UweWpaZ3dlN2NZUUNhZHBlNnNWTGQyME1fY3FUWmViX2k1UmwzWkdlQWFOeHVHTzlpcFRZdHJOQkI1alNZVXpPWEhEU3ZsWFZLcGp0UjVOUmxXVEU3YWdlTmZaZkNIVDFZVWlhR2lOQnZCYThmT2R0YzZMSjVCcFdyeTI5LXRJeGN5Q1Zmd29rakZNa9IB6AFBVV95cUxPZ1B5Y1lndlNYZkk2Y0xoT0VlQ2F5aDMwTHluQVdpWElNTExlUUREUWliOTE3MXJPZ1FGTnQyNFhUSWdyVzlPTEp0cmtaOEtndV9pR1A2VUpLWXNNUXNMYXlfZ0w2aW44eW8tMnBDZXFNcS1XVWVrXzllbnpNTmFtN19Vcmx0cnE3YXgzTE5CSk9UWG1fVUg1cDR6NTZ6MGhvOTlKNktTYm9SVDNBcFVmOUNZUllnNkd1RF83a2JfWUhhNkllcUs4MzdZQkpuSUE3RUd2dHZqZWJ3SVF4d1RNSGIxFnl2VEtT?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yXzl6Vnd0WHkwT3l6cHFSQUxVWUlrOHVERnJGM29NRWx5M3NiOEtRVkxfZzdFdmVYM2JudmhoanRfbk1PNDhlb2NoMWtTVFR6VG1QZ0N2YjF0U0tRRlBiWHFwSjBsU0FsTjRkYS1UOG83ZUZ1eGc?oc=5"
           ]
         },
         {
-          "t": "Nikkei Rebounds Above 64,000 After Losses",
-          "src": "finance.biggo.com · moomoo.com",
-          "b": "The Nikkei is a stock index, which is a list that tracks the value of many major companies in Japan. The index bounced back above the 64,000 range. It rose after dropping for three days in a row. SoftBank Group led this recovery.",
-          "i": "The Nikkei index climbed back above the 64,000 level. This rebound halted a three-day slide driven by earlier artificial intelligence sector selloffs. SoftBank Group spearheaded the market recovery. Traders closing out short positions helped drive the gains.",
-          "a": "The Nikkei recovered past the 64,000 threshold following a three-day consecutive decline. SoftBank Group anchored the broader market advance as investors rotated back into beaten-down artificial intelligence proxies. Active covering of short positions accelerated the upward price action across the index.",
+          "t": "Yen Holds Ground As Markets Anticipate Monetary Policy Decisions",
+          "src": "FXStreet · finance.biggo.com · 朝日新聞",
+          "b": "The Japanese yen stayed near a seven-month high against the United States dollar. Traders are waiting for upcoming meetings from the Bank of Japan and the Federal Reserve, which is the central bank of America. The United States 10-year Treasury yield, which is the interest paid on government loans, stayed above 5%.",
+          "i": "The Japanese yen held in the upper 154 range against the dollar. Markets maintained positions ahead of central bank decisions from both the Federal Reserve and the Bank of Japan. The United States 10-year yield held above 5.0%.",
+          "a": "Dollar-yen hovered in the upper 154 range as the United States 10-year yield sustained levels above 5%. Market participants awaited imminent policy guidance from the Federal Reserve and the Bank of Japan. The currency pair reflects persistent <span class='term' data-t='carry'>carry</span> trade unwinding pressures alongside divergent rate expectations.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oTWI0VWt6M2IxYm9XTFBUcW1YUnlacVZVTTBBNV9fc19abWVhODRLbjU3R1BId0VreFlXbkZSQ1NvZGxUNUh1NnN1MzM4SFBqTF9OY2x0RTA1MUFXVW1pU0ZJM3g4NEdzRF9zMVBJem1iaHo0OXc?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWc4MTJNQ3BIVVQ3MlE1elpnX09wYlM2YkF1bGpHRExyLUEwMmtsalNSeFFlQVhxeHJqYjhmYkthTzdDcVVzLUtucWJKODNaV0ttN0Ntc3dDbUFiQk83TW43S2FQUGxGd041YVNScUZ4RVNsTkp6dzI4NUJmaFRiaVo3Qmt2Tkl2Zk9naVl5TlF1WUFMc3RDNXFhSGJXaERuanc?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMWxxOWh3TE9iZF9pa0lHLXZycHlhN1JLZjg3Q09ORlJyeWdxZ0Zadkg4LVVTX0kyc210Q2NPdHB2TWtOWmZpUzA5QmZoZjNVY0J2RG1sWkFINFJ3c3NvNnBNOExfQWZReHV1WjNEdkVXeG16eU8tSFhrbzNSazg1Vl9IUTFkWHpUNUlPRWZwNEJNdHZrTEl2SFM0NTV6V1haYWltSEFuSlNOM01qa3YtaVVVOWdlU2lzTTkyaG9UU1VidnlCNFZMS3ZQTQ?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTFAweUZkRTFVSUd0eXl2V2duT2VYZ3FUTzJ0dWc5YWhoOXZjbllmRnZ1dVVZdDA4OERlelFKaFZEalAzVDFXUkhwVlFLekNUZDExNzl1M0FDckxVRUlUQ2hmVjhuTHI3OTRHUFRYbk9pZC1hQnhEd0E?oc=5",
+            "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JMTVJeVduSEVzWnE1b0xybl9NTmxqdUloSW5aeUY0RklseGQtaFFEbktaU2FTbTN6SDNjUGZVak9oZkhsQXFTeGZlR09ZR3dYOXMwSkh3OURWNWZzcHc?oc=5"
+          ]
+        },
+        {
+          "t": "TDK Allocates 40 Billion Yen For Artificial Intelligence Components",
+          "src": "marketscreener.com",
+          "b": "TDK plans to spend 40 billion yen to build more components for artificial intelligence servers. These parts are used in high-powered computing equipment. The company announced the investment to capture rising demand.",
+          "i": "TDK committed 40 billion yen toward expanding production capacity for artificial intelligence server components. The capital expenditure targets high-growth hardware segments. Demand for specialized server parts continues to drive manufacturer investments.",
+          "a": "TDK deployed 40 billion yen in capital expenditure to scale artificial intelligence server component manufacturing. The investment targets supply bottlenecks in high-performance computing infrastructure. Component makers are expanding output to match sustained hyperscale hardware demand.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWl9GS0F3aHVjaWRmTzZPWHdXWGlxeHpPUXdwUmYwN1hYc2J2S21XZndVNXl6ci1UZHBnT2s1dFdERDZ4cVgxVlNyUS1IUm42ems1b3BSUWtoUW91ei1Nd24wYWVjQ25KX0x0VWMteXdUaWVWRGQxTTk4QmFHR2t3TWxROGh1WXNic2h0ZVp5Mmgwdm81MEZxbFNsRW9SR2hMQktoNlB1RkNVYUhVN0R6bHIyM3h1N1dmYkdPYkpR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Bank of Japan prepares to make its fastest interest rate hike of the current cycle. Policy makers face mounting pressure to act as economic conditions shift.",
-        "i": "The Bank of Japan is preparing the fastest interest rate increase of its current cycle. Heightened economic pressure is forcing monetary authorities to accelerate their policy normalization timeline.",
-        "a": "The Bank of Japan is poised to deliver the swiftest rate hike of the tightening cycle. Escalating macroeconomic pressures are forcing the central bank to compress its policy adjustment schedule."
+        "b": "The Prime Minister of Japan will reshuffle Liberal Democratic Party executives on Wednesday. A cabinet reshuffle will follow on Thursday.",
+        "i": "The Japanese Prime Minister scheduled a reshuffle of Liberal Democratic Party executives for Wednesday. A cabinet structural revision will take place on Thursday.",
+        "a": "The Japanese Prime Minister set a Liberal Democratic Party executive reshuffle for Wednesday, followed by a cabinet overhaul on Thursday. The political calendar precedes upcoming legislative and monetary policy milestones."
       },
       "timeline": [
         [
-          "15 Sep",
-          "TDK announces a 40 billion yen investment to boost AI server component production."
+          "15 Sep 2026",
+          "SoftBank rebounds from earlier tech selloff and pushes Nikkei up 1%"
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Yuan moves against the dollar amid weak domestic data",
+      "sub": "Yuan midpoint strength and automotive profit divides",
       "ind": [],
       "stories": [
         {
-          "t": "Chinese Currency Slips As Dollar Holds Gains",
-          "src": "TradingView",
-          "b": "The Chinese yuan is a type of money used in China. The yuan slipped in value because the American dollar stayed strong near a two-week high on 2026-09-15. Weak economic data from China added pressure to the currency. The dollar's five-day rally pushed currency levels down below 6.71.",
-          "i": "The yuan fell as the US dollar maintained strength near a two-week high on 2026-09-15. Disappointing domestic figures weighed on the currency. The dollar recorded a five-day rally that pushed exchange rates below 6.71.",
-          "a": "The yuan drifted lower as the greenback consolidated near a two-week high on 2026-09-15. Soft domestic macro data compounded downward pressure on the currency. A five-day dollar rally drove spot rates below 6.71.",
+          "t": "Automotive Profit Margins and State Debt Actions",
+          "src": "eu.36kr.com",
+          "b": "Fourteen major carmakers recorded an average net profit margin of only 1.22% in their half-year report. Profits split sharply, with some companies earning huge amounts while others faced steep losses. Meanwhile, the state injected 5 trillion yuan to settle a long-standing debt.",
+          "i": "Fourteen major automakers posted an average net profit margin of 1.22% in the half-year report, revealing an extreme profit divide between high earners and steep losers. Simultaneously, the state injected 5 trillion yuan to settle a 70-year overdue debt.",
+          "a": "Fourteen major automakers reported an average net profit margin of 1.22%, exposing a severe profit polarization between outliers with massive earnings and peers facing deep losses. In a separate fiscal action, the state injected 5 trillion yuan to resolve a 70-year overdue liability.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWZmMENRYTFxcXoxSHJKSXAzUHY3LWs0SFlaVkl4TGdMOWtaRElCUVR5R0lfQ2Y3TXZ1OFJtbTBUd1hHa0loNm5XSlpZQzdpU1lWWUp5SGZUelphLTZxUmVPRUt3cTZsb2FsUU45QUt0Zk9tR3BlWllVQnA5d1c3RWlSTlB0VG5kcUtvZWxnbDVfMGxEa3FZQlpuRXBtVDBNaUJhU01vRlI2ejJhemk1Z2J0cGtOUm1wWEpuQ2JoR3N1dnZMc3FQYktlQkNKX2NDblk2N1lXbw?oc=5"
+            "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hZkZGM1hJV2pLRlhzUHNuaWlKeVdmRVlsWVJ1RXlmbTg4N092SHRqTC1tTDYyLVltTUpWUnFueXRQQ05RRnYzaGJEdzdfa3hYazhZ?oc=5",
+            "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tWU93anlpVGFoeXkzSGZiTVFKR2Z6djBaN3lXcDNZR2FEb3U4WnR6UDgzV0MyNUdjS1doNUhQQWRZZHFGdjN1cVNuR2VhRUV0blpr?oc=5"
           ]
         },
         {
-          "t": "Yuan Expands Regional Reach Into Central Asia",
-          "src": "finance.biggo.com",
-          "b": "The yuan is pushing further into Central Asian retail payments. Kazakhstan plans to launch quick response code settlements using the currency this year. This move expands how people can use the money outside of China.",
-          "i": "The yuan extended its footprint in Central Asian retail payments. Kazakhstan scheduled the launch of quick response settlements using the currency for 2026-09-15. This development expands cross-border usage for retail transactions.",
-          "a": "The yuan extended its presence in Central Asian retail payment architecture. Kazakhstan scheduled the deployment of quick response settlement rails for the currency in 2026. This integration broadens transactional utility across regional markets.",
+          "t": "PBOC Sets Yuan Midpoint as Currency Slips Against Dollar",
+          "src": "Bloomberg.com · TradingView · finance.biggo.com",
+          "b": "The central bank set the yuan midpoint at its strongest level in over three and a half years. A five-day rally for the dollar pushed the onshore and offshore yuan below 6.71. The yuan also strengthened to 6.7670 against the dollar on Tuesday.",
+          "i": "The People's Bank of China set the yuan midpoint at its strongest rate in over three and a half years ahead of a Trump-Xi summit. A five-day dollar rally pushed CNY and CNH below 6.71, while the currency traded at 6.7670 against the dollar on Tuesday.",
+          "a": "The PBOC fixed the yuan midpoint at a three-and-a-half-year high ahead of the Trump-Xi summit, though a five-day dollar rally subsequently dragged CNY and CNH below 6.71. Spot rates later printed at 6.7670 against the USD as weak domestic data weighed on sentiment.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9veGh4bEtMa0w0QU5QekE4b0JHY3BSUGlHT0gxeE1ZMHFGQjRIYXFFcVNveGJMVHVOY0xZTi03dTNKWUN5YklWWGd5eDM4c3BJOGMyMnRaa0FhVW11SHlYa2E3ai1HbVJYVkdEUU9FbWM4ckxMVWc?oc=5"
-          ]
-        },
-        {
-          "t": "Automotive Joint Ventures Face Restructuring",
-          "src": "36 Kr",
-          "b": "FAW and GAC announced a restructuring plan on 2026-09-15. The plan involves a merger of northern and southern Toyota joint ventures. The deal is worth over 20 billion RMB.",
-          "i": "FAW and GAC unveiled a restructuring plan on 2026-09-15. The corporate action encompasses a merger exceeding 20 billion RMB for northern and southern Toyota joint ventures. This represents a major reform in the domestic auto industry.",
-          "a": "FAW and GAC detailed a corporate restructuring framework on 2026-09-15. The transaction involves a merger valued above 20 billion RMB consolidating northern and southern Toyota joint ventures. The reform marks a significant structural shift for the domestic automotive sector.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwM1lRM2dnSGZjOFVoRWhOaExsYl9tZ3ZxZFdzTHlDejJZV3JDYVYwbXZsRi1CWU1oTnA0T19JSEdwSHpLUEFXTjBicXBDWUNZLUpz?oc=5"
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmJDLUNpUWZ4d0t6QWhLdU9tVVhNSzROT2syZ1FiOG1LUmNWaUVxeFpnOThsNzZ2MDRSMEhyQWJWVlFQZXVUZmFKUVdWZmZVQ1A0YWpPNlNaeXl2US1YeDJ0ODNfbDR3eUVTc1FLQnF5REtwM2xMaFM5ZFlBTktvTG1jRmNvaE42XzFGRXE5TmRiaTg4RXRQdzdwV19GUE9RN2t0WUZSam9Fb0FFOVE?oc=5",
+            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWZmMENRYTFxcXoxSHJKSXAzUHY3LWs0SFlaVkl4TGdMOWtaRElCUVR5R0lfQ2Y3TXZ1OFJtbTBUd1hHa0loNm5XSlpZQzdpU1lWWUp5SGZUelphLTZxUmVPRUt3cTZsb2FsUU45QUt0Zk9tR3BlWllVQnA5d1c3RWlSTlB0VG5kcUtvZWxnbDVfMGxEa3FZQlpuRXBtVDBNaUJhU01vRlI2ejJhemk1Z2J0cGtOUm1wWEpuQ2JoR3N1dnZMc3FQYktlQkNKX2NDblk2N1lXbw?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVkYzS05aeGxvXzE5UHV0NDBFNmRrUGlLQ2VfQmhQMlFaUmZmdEw3LUxpbHlEdEUxUjlYVV83VTEtN3JvdkxfMkZpazkybG92ajNzbENmSWViSHpHVzB3RlJFRWZ5eExwWWNmczhMc090MXQ1OGc?oc=5",
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0xpMy1CTFg1blV1SWZZZGFRbGFsV0hhM3kyQndFVzB2QV9IeENVaWlrSnBnRXlzUG5oaGw0MlU2Y1hzVTVHaGZxNHBDMEtWc0xmQ2k5VWx3ZFdjQmdVdF9SWExBOE1mUGJmMUZBZDUyQzBfWU81NnFrODBUc09DZkdFMUR6RzdBTXFhZ0dnQXNwUWlMRm1hTkxuM2VDSDdaZzUxbXZpNlp2Zw?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd3MwdmJVei04MmM4ZUQtamh2eFpkNV9aRWo2ZjJDT2doQi15LWliV2pZcDZHOXhwRExFbHFoMTk0UHBKSVZPblhjSU5NUHFISkFlMFpYYVlkTG5Gbk45c3FYU19WeTVBRjg4Mks2akxFQWQxNDYwZXJCanlqQzJ4eGhjQVY?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Economic data showed worsening conditions in real estate and retail sectors on 2026-09-15. These pressures continue to dim the overall growth outlook for the country.",
-        "i": "Real estate and retail pressure worsened according to data released on 2026-09-15. These persistent strains continue to dim the broader growth outlook.",
-        "a": "Macroeconomic pressures across the real estate and retail sectors intensified on 2026-09-15. These ongoing structural strains continue to weigh on the aggregate growth trajectory."
+        "b": "Kazakhstan plans to launch QR settlements in yuan this year. This expands the use of Chinese currency into Central Asian retail payments. Baiwang also formed a new enterprise credit technology joint venture.",
+        "i": "Kazakhstan prepares to launch yuan QR settlements this year, extending the currency's reach into Central Asian retail payments. Meanwhile, Baiwang established an enterprise credit technology joint venture.",
+        "a": "Kazakhstan is scheduled to launch yuan QR settlements this year, broadening the currency's footprint in Central Asian retail payments. Baiwang concurrently formed an enterprise credit technology joint venture.",
+        "sources": {
+          "0": {
+            "outlet": "thebambooworks.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXk1aVZyOEVqYjRobmxxMjRlOEpKOThGZDZ6dVFBWFJIcW5lM09oVXUzcmE4T0dKb2JqTk1KQldFMFdRMzZoUVhtSUFkZExTZlU5NUZRYmh5YmMxV0xOS0VLaVdLbkZZQWlERkZRYTBkcl8zS05jUGNFRDkzVkt2Vi03bGhJQnpDdWdTRg?oc=5"
+          },
+          "1": {
+            "outlet": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9veGh4bEtMa0w0QU5QekE4b0JHY3BSUGlHT0gxeE1ZMHFGQjRIYXFFcVNveGJMVHVOY0xZTi03dTNKWUN5YklWWGd5eDM4c3BJOGMyMnRaa0FhVW11SHlYa2E3ai1HbVJYVkdEUU9FbWM4ckxMVWc?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "15 Sep 2026",
-          "Kazakhstan scheduled a quick response settlement launch using the yuan."
-        ],
-        [
-          "15 Sep 2026",
-          "FAW and GAC revealed a 20 billion RMB joint venture restructuring."
+          "The PBOC set the yuan midpoint at its strongest level in over three and a half years."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "IT stocks lift Nifty while the rupee slips",
+      "sub": "IT stocks rally, Rupee falls, and Reserve Bank data",
       "ind": [],
       "stories": [
         {
-          "t": "Technology Stocks Lead Market Gains",
-          "src": "Business Standard · Telegraph India",
-          "b": "Information technology companies saw their share values rise by 5.0%. Technology shares represent pieces of ownership in computer and software businesses. This increase helped push the Nifty stock index higher by 63 points to reach 23,462. A stock index measures the collective price performance of a group of publicly traded companies.",
-          "i": "Information technology shares advanced 5.0% following slowdown calls. This sectoral rally pushed the Nifty up 63 points to 23,462 and lifted the Sensex by 233 points to 75,022. Broad index gains occurred alongside a gap-up opening.",
-          "a": "The Nifty IT pack surged 5.0% on AI slowdown calls, driving a broader index gap-up. Sensex climbed 233 points to 75,022 while the Nifty advanced 63 points to 23,462. Resistance persists near the 23,595 to 23,697 range as the Gift Nifty 50 trades near a bear flag pattern.",
+          "t": "IT Stocks and Major Banks Lift Indian Markets",
+          "src": "The Hindu · NDTV Profit",
+          "b": "Shares in information technology companies and HDFC Bank went up in early trade. This pushed the main stock indexes higher. Firms like Mphasis, HCL Tech, and Tech Mahindra saw large gains of up to 7%. The Nifty IT index increased by 5%.",
+          "i": "Information technology shares and HDFC Bank drove early gains across domestic indices. Mphasis, HCL Tech, and Tech Mahindra surged by up to 7%. The Nifty IT index expanded by 5% during the session.",
+          "a": "Equities advanced in early trade, propelled by concentrated buying in IT names and HDFC Bank. Mphasis, HCL Tech, and Tech Mahindra outperformed with gains reaching 7%. The Nifty IT index advanced 5%, underpinning the broader market resilience.",
           "links": [
-            "https://www.business-standard.com/markets/news/infosys-tcs-to-hcl-tech-ai-slowdown-calls-send-nifty-it-pack-5-higher-126091500155_1.html",
-            "https://www.telegraphindia.com/business/sensex-climbs-233-points-to-75-022-in-early-trade-nifty-up-63-points-to-23-462/cid/2117560"
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlgyWS1aaV9LdGpfUU9PYm05NUpmSzdPWUdNVmg5cHZVMXp6NHhyZ1o2MWYyU2ppdmNkbW1nZGVQNVhrYThZWnRLZ08yU2pnaFRxeFNXcU81YkxYNFVWSnpzWUg4dERXdFl4T3VQbmpuQ2l6bGlIQ0FXUk4yTDV4UWF6Snp3cEdMZFBDbzdUQXE3V0VJX2VoZ1NMd0ZQT0F1V3pXZWtXTFRZVTBUbm9fZjY5R3lHX25LOVhoakU2MC1qTW0zYVQwX0tn0gHQAUFVX3lxTFAtTTFWWVJidFdSY1IxdElSZ1JwbTF1YUFwVHBwbm9rS0hycG94cGpLTU5TamlmdEdhN0QyMTgta3VOUHpzVk4zY3hJRm1rdUN4Zklpb3RJQmZkanlocEN6cEEycXhNN0dDV2JWa1JzVHNIbjgtd1JTSi12bW94VjhaNERzNVhUelVuNWtybmhTQV9NVUJaOEpTY1RWV0ZWZllVUUwzSklWS2FBa0QtRzdJcUVNUFI4emtGOGJfYWxsenhFYnptTmJHZnN5NGhSN2o?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWTQxemdoUENBcnQzajRyN253SkFQM3Ywc1l2ei1qcG9yM1dQR0k5bE1ZWFFHRjA2YVlKQ3A1QVpMX1JHSGNUdE9FNG05Uk1YbUJSYlJ0TnhsSnVmUDkzMmE5UEE4N0ZCOXY0SGlFZTYyMFAyR0VxbmN4dzFJaE1Ob3JOUXZId0hjdnF3NTlQR1BEZllJQ1lTemw3U2pfdmNLXzl3elJ4a2xMLU5XRlc0RjdscUo0QTgyZkVTUUtBb1dQQmdNMmZZdzltdURHQdIB1gFBVV95cUxOWDhES0xqWGRycmxZTHpKNTI2d2dCM0I1OUhEZDhWZ1JMMVVYdFBBSFptd2d5LWVTbHBGRmNmaGczeXY3THhoa0dtSTJQQUdKQ3JsM3dpT3VtSkRqRmZONEpXZ2ZpYU96ZVBnaDY5UXZzMUE2V0xsaUh1UC15c2NicUxDQm1zMUk0cGRDaG1kRlh6UXdqR0dVZ0lTN3pDUE8zSDdJZXpXclNTRVNXd0I1SUhrZXRlZ1FmLWFhRi0wWGlldnNfBjJTMW4xdFdfQUlBZHAxNGx3?oc=5"
           ]
         },
         {
-          "t": "Rupee Weakens Against the Dollar",
-          "src": "Rediff MoneyWiz · CNBC TV18",
-          "b": "The Indian rupee currency fell by 20 paise against the United States dollar to trade at 95.84. A currency is the official money used in a country, and its exchange rate tells you how much of one country's money you can buy with another's. Central bank intervention involving foreign exchange sales supported the local currency.",
-          "i": "The Indian rupee declined 20 paise to 95.84 against the dollar. Geopolitical tensions and crude oil prices created headwinds for local currency valuation. The Reserve Bank of India countered depreciation pressure by selling dollars.",
-          "a": "Spot rupee dropped to 95.84 against the dollar, slipping 20 paise amid crude oil pressures and regional tensions. Reserve Bank of India dollar sales tempered the decline. Market participants continue to monitor external balances and commodity price trajectories.",
+          "t": "Central Bank Conducts Reverse Repo Auction",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India held a one-day variable rate reverse repo auction. Banks offered 3,93,352 crore rupees to the central bank. The central bank accepted the full amount offered. The cut-off rate and weighted average rate both settled at 5.24%.",
+          "i": "The Reserve Bank of India executed an overnight variable rate reverse repo auction with a notified amount of 5,00,000 crore rupees. Banks submitted total offers worth 3,93,352 crore rupees, which the central bank accepted in full. The cut-off and weighted average rates both registered at 5.24%.",
+          "a": "The Reserve Bank of India absorbed liquidity via an overnight variable rate reverse repo operation, receiving 3,93,352 crore rupees in bids against a 5,00,000 crore rupee notified amount. Full acceptance was deployed by the central bank at a uniform cut-off and weighted average rate of 5.24%.",
           "links": [
-            "https://money.rediff.com/news/market/rupee-falls-to-95-84-against-dollar-amid-oil-tensions/198656rt20260915",
-            "https://www.cnbctv18.com/market/rupee-slips-20-paise-against-dollar-factors-at-play-and-what-to-watch-19543131.htm"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63589"
           ]
         }
       ],
       "politics": {
-        "b": "Government authorities have not announced new policy changes today. Financial regulators continue to monitor currency stability and market operations. Trading activity is driven by corporate share movements and global commodity prices.",
-        "i": "Policymakers maintain their current stance as foreign exchange interventions continue. The central bank manages liquidity through standard money market operations. Fiscal authorities have released no fresh legislative proposals.",
-        "a": "Monetary authorities maintain operational focus on currency stability via targeted intervention. Money market data reflects routine repo and call money volumes across the banking sector. Regulatory bodies issued no new macroprudential directives.",
-        "sources": {
-          "0": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63588"
-          }
-        }
+        "b": "The Indian Rupee fell by 30 paise against the US dollar in early trading. It reached a level of 95.84. Meanwhile, Tata group shares rose by up to 20% due to talk of a Tata Sons listing.",
+        "i": "The Indian Rupee depreciated by 30 paise against the US dollar to trade at 95.84 in early market hours. Concurrently, Tata group equities surged by up to 20% amid anticipation surrounding a potential Tata Sons listing.",
+        "a": "Foreign exchange markets recorded the Rupee weakening by 30 paise to 95.84 against the US dollar. In domestic equities, Tata group counters rallied up to 20% on speculation regarding the initial public offering and listing of Tata Sons."
       },
       "timeline": [
         [
+          "31 Aug 2026",
+          "Scheduled Banks' Statement of Position recorded by the Reserve Bank of India."
+        ],
+        [
           "11 Sep 2026",
-          "Reserve Bank of India recorded total overnight money market volume at 6,73,803.41 crore rupees."
+          "Money market operations volume reached 6,73,803.41 crore rupees across segments."
         ],
         [
           "15 Sep 2026",
-          "Sensex climbed 233 points to 75,022 in early trade."
+          "Reserve Bank of India allots 3,93,352 crore rupees in overnight variable rate reverse repo."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras supply deals and stock market moves",
+      "sub": "Petrobras deals and index movements",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Secures Long-Term LNG and Shipping Pacts",
-          "src": "India Shipping News · finance.yahoo.com",
-          "b": "Petrobras is a big energy company owned partly by the state. It just signed a 20-year deal to buy liquefied natural gas, which is gas cooled until it turns into a liquid so it can travel on ships, from Sempra Infrastructure. It also locked in a long-term contract with SeaLoading for a ship named SeaLoader 2 to work offshore.",
-          "i": "Petrobras signed a 20-year liquefied natural gas supply agreement with Sempra Infrastructure. The state-controlled energy firm also secured a long-term contract with SeaLoading for the SeaLoader 2 vessel to operate offshore.",
-          "a": "Petrobras executed a 20-year liquefied natural gas off-take agreement with Sempra Infrastructure. Simultaneously, the Brazilian energy major contracted SeaLoading for long-term deployment of the SeaLoader 2 offshore unit.",
+          "t": "Petrobras Signs Long-Term Supply Contracts",
+          "src": "Yahoo Finance · PR Newswire",
+          "b": "Petrobras is a big energy company based in Brazil. It just made a deal with a company called Sempra Infrastructure to buy gas for 20 years. Gas is a fuel we use for power. This long agreement locks in supplies for a very long time.",
+          "i": "Petrobras secured a 20-year liquefied natural gas supply agreement with Sempra Infrastructure. The long-term contract commits physical volumes over two decades. Such deals anchor baseline energy flows for state-backed operators.",
+          "a": "Petrobras finalized a 20-year offtake structure with Sempra Infrastructure. The multi-decade duration insulates both counterparties from near-term spot volatility. This commitment underscores long-range demand projections for North American gas export terminals.",
           "links": [
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0xYeTF5RDBOWUUwY01rRzlRamE4VVJ0MTJ2WE5nLWxzRnA1Y1NBQzdUNHNyeE83azBGM1F0NVEyZnBDcjRCNlM0TkpJTGFqVUd1TmlvYXhhaFI4TVFDSTYyc2FzaXd6bzhnS2twNGo5UjFrSnpZTzBWUUZMVkJDdldndWo5TDJxV3Y0VkhLY29YZC1HaV9ZcWl5MllrVXJfYjQwTFM5blp0cWc5U3pXTnRXZU9SY3otdGxrNDBpdDhXZXNrTXV5VnUxNnAtUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDNlQXpoa1FVUjlYRTlXdkNMZ2VvSWlFMVZQRk96dU1GdWdtQzRMQWtDSlI1b25RbG9KSUc5OHphdW9pSm1DeTVoUy1ucDRvN1BWb3drcENGSzJEMm8taFdRdzJ1aWw4TWRIeVVQakp0eDRxVTlnbGlRSXlsRU8xcmh1czZTR2R2dXFkTg?oc=5"
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDNlQXpoa1FVUjlYRTlXdkNMZ2VvSWlFMVZQRk96dU1GdWdtQzRMQWtDSlI1b25RbG9KSUc5OHphdW9pSm1DeTVoUy1ucDRvN1BWb3drcENGSzJEMm8taFdRdzJ1aWw4TWRIeVVQakp0eDRxVTlnbGlRSXlsRU8xcmh1czZTR2R2dXFkTg?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmY1REdWbjI5eHFPM2dzRXhUTGMxMkZCYi1Talk2UHpYaDZzQUdrMU5mV3N5aG9WcWJ5Rm4tcVBacHdYa3h0N3AzeDE5RnY2eTI3YlZibWRZVlh3MWJjaE5SOEtzd3ZBYmJ4QnZBdEZDX1Jnei1XZllwUEhvTWVsZ3dKdllJSFhaS3BFX0NuM0ctLXpfcEJTdlgxanNwSWVGS25CeXJFbE9xQlpXVHFBd2h4VEpYMzhZSElXSXgxMU94cm42N0dJLTRRaHlSUQ?oc=5"
           ]
         },
         {
-          "t": "Executive Stock Sale and Market Indices Shift",
-          "src": "Kalkine Media · bntonline.com.br",
-          "b": "Leonardo Remiao Sells 60,000 shares of Ipiranga, where he is the chief executive of Ultrapar Holdings. Meanwhile, the main Brazilian stock index, called the Ibovespa, falls 0.63%. At the same time, the dollar rises 0.43%.",
-          "i": "Ultrapar Holdings CEO Leonardo Remiao sold 60,000 shares of Ipiranga. In broader market trading, the Ibovespa index dropped 0.63% while the dollar gained 0.43%.",
-          "a": "Ultrapar Holdings CEO Leonardo Remiao divested 60,000 shares of Ipiranga. Equity markets recorded a 0.63% decline in the Ibovespa, alongside a 0.43% appreciation for the dollar.",
+          "t": "Brazilian Equities Drop as Currency Weakens",
+          "src": "bntonline.com.br · TradingView",
+          "b": "The main stock market index in Brazil is called the Ibovespa. It is a list of top shares traded in the country. The index fell by 0.63% on Monday. At the same time, the United States dollar went up by 0.43%.",
+          "i": "The Ibovespa index fell 0.63% on Monday amid political uncertainty and an oil rally. The domestic currency also lost ground as the dollar rose 0.43%. Equity values compressed across multiple sectors during the session.",
+          "a": "The Ibovespa retreated 0.63% on Monday under pressure from an oil rally and ongoing political uncertainty. Concurrently, the greenback appreciated 0.43% against the real. Broad-based selling reflects risk aversion tied to local fiscal developments.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGhPb2g5NDRLaTNCYXBvQ3dzTUkzMV9kTmpqVUJmOVZwelJSdllOSUZQbVNSTEwxQ1I5dk9lcmdPVXZpMmp4RkhvOEhoOGpWeXFIcEtnb3JnOFFiUVpKUjQxbUZBMGV6blFYWnBZX3dSRjF4cmxrSGJlaU1sTy0yZmdMRkttaVJUZG1aY29FaVhZUmZFLUhKcXhjdFVYd3FWZlVMXzRUVFZFNDdrSW1OWjN0R2UtZw?oc=5",
-            "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzZ5dlNvVzhvRkprVnNyWnU2X0taaWo3d0FSQTRPZ1lwNEl0MnRRa1lpTWRvY2Uxb2VUbWQxZjZSTVRETGtjWlpTM0ZRS3lMczBQV2NzNzVaVVJoRDZhY0U1ZkpkMEJnbkpISG1MYVIxSWRTc0N4Z190LV9ubk9TaHJRTDlHNERPUzN5bVV3MWF0UV81LWVn?oc=5"
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzZ5dlNvVzhvRkprVnNyWnU2X0taaWo3d0FSQTRPZ1lwNEl0MnRRa1lpTWRvY2Uxb2VUbWQxZjZSTVRETGtjWlpTM0ZRS3lMczBQV2NzNzVaVVJoRDZhY0U1ZkpkMEJnbkpISG1MYVIxSWRTc0N4Z190LV9ubk9TaHJRTDlHNERPUzN5bVV3MWF0UV81LWVn?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1g3NDlka2pSaFNvT2NuZnA0anpGWlU1NDZFQ2cwXzRKMmNzczgzQ0UtRUh2aDVUNDd1M2tMMGMxbHA3X3ZiV1EzUEVtN1JFNDZvMmdhMHZ2d0JzaVEwS1F3S3FWVHJiUDBsenhxemMxNk84N0tndHh0VXFmbGwtdExxS0RjMUdYOGRMZ0JTbzVMbGloUHFfNXRKODNta3FZZG4wZ1p2cw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Thailand and Malaysia approve a new MTJDA production sharing contract. Petrobras faces hurdles in advancing its solar joint venture projects.",
-        "i": "Thailand and Malaysia approve a new MTJDA production sharing contract. Petrobras encounters hurdles in advancing its solar joint venture projects.",
-        "a": "Thailand and Malaysia approve a new MTJDA production sharing contract. Petrobras encounters operational hurdles in advancing its solar joint venture projects.",
-        "sources": {
-          "0": {
-            "outlet": "Upstream Online",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzlSR2tlcWxWLWtUTXJTYWoxWUU1ZTJLRnVxYnFnS3VTRmUxMXFUTVVzb1dkbDNuTE1TeXpUWVJRMXFFNnc5aWhWcnFVZ0dTM1d4aEdDQkF2SEpBeFhoV2hoVURUdFZLdG9IbVA2TFdLZndEQmh0RmV5dEh3U0Zha200V2JxNXBSSzQxS1J2MGpPTWtlQnNMdlliSk9PN2t1M2QtWWg3Zy1YV1ZBbjhpOWU1ZG42VjZ6T1N0bGlB?oc=5"
-          },
-          "1": {
-            "outlet": "BNamericas",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVdoV3JmUThlS1Znb0Y0eVlJblhaMW5VZHY0NUxLM0JJbkwxNDhleFVHbm1oUWQwTUt5SVR0MFd3bnQ1NkIwSktaaTc1MnlWZXJVQllXQkg0REgyeHc0Wi1PbVFfRWVfY1ZjZkF3dUo2VWJOT29vVnN3QlFpZVB2T3VWZ0VSVWFYNVptNkxhSnhLdGxCZDM5dQ?oc=5"
-          }
-        }
+        "b": "Political uncertainty in Brazil is making financial markets nervous. When leaders cannot agree on rules, investors worry about the economy. This friction affects how stocks and currencies trade every day.",
+        "i": "Persistent political friction continues to weigh on investor sentiment in Brazil. Market participants frequently adjust portfolios when policy outcomes remain unclear. These governance concerns interact directly with commodity price swings.",
+        "a": "Domestic policy friction introduces a persistent risk premium into Brazilian asset prices. Investors discount local equities when legislative visibility deteriorates. This political uncertainty amplifies the transmission of external commodity shocks into domestic exchange rates."
       },
       "timeline": [
         [
           "14 Sep",
-          "Ultrapar CEO Leonardo Remiao sells 60,000 shares of Ipiranga"
+          "Sempra Infrastructure announces a 20-year LNG supply agreement with Petrobras."
         ],
         [
           "14 Sep",
-          "Ibovespa falls 0.63% and the dollar rises 0.43%"
-        ],
-        [
-          "14 Sep",
-          "Sempra Infrastructure signs a 20-year LNG supply agreement with Petrobras"
+          "The Ibovespa falls 0.63% and the dollar rises 0.43%."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Pipeline damage and output cuts hit Saudi energy sector",
+      "sub": "Pipeline damage disrupts Saudi crude flows",
       "ind": [],
       "stories": [
         {
-          "t": "Pipeline Damage and Output Slump Impact Saudi Oil Loadings",
-          "src": "WSJ · IndexBox · EnergyNow.com",
-          "b": "Crude oil is the unrefined petroleum pumped from the ground. Saudi Arabia experienced a drop in oil production due to export route disruptions from the Iran war and Houthi threats. Pipeline damage could slow Red Sea oil loadings for weeks. Saudi Aramco reduced its official selling price for Arab Light oil to Asia by the largest drop in over 2 decades.",
-          "i": "Crude output slumps as export routes face disruption from the Iran war and Houthi threats. Pipeline damage threatens to slow Red Sea oil loadings for weeks. Saudi Aramco reduced its Arab Light Asia official selling price by the largest drop in over 2 decades.",
-          "a": "Export route disruptions driven by the Iran war and Houthi threats compress output volumes. Red Sea loadings face multi-week delays following critical pipeline damage. Saudi Aramco implemented the steepest reduction in the Arab Light Asia official selling price in over 2 decades.",
+          "t": "Pipeline Damage Slows Red Sea Operations",
+          "src": "IndexBox · The Maritime Executive",
+          "b": "Saudi Aramco is the state-owned oil company of Saudi Arabia. Damage to a key pipeline operated by the company could slow oil loadings along the Red Sea. The disruption affects vital export routes for the country. Shipments through the network might be slowed for weeks. Global oil trade responds to these supply bottlenecks.",
+          "i": "Saudi Aramco manages infrastructure that directly impacts global petroleum flows. Damage to a vital pipeline threatens to slow Red Sea oil loadings significantly. Disruptions along these crucial export routes persist as regional conflicts add pressure. International trade corridors absorb the resulting logistics delays over the coming weeks. Output figures across the region reflect these physical constraints.",
+          "a": "Saudi Aramco infrastructure vulnerabilities manifest as physical damage slows Red Sea crude export terminals. The disruption forces logistical rerouting and threatens sustained throughput reductions across primary conduits. Global crude trade flows price in persistent bottlenecks as repair timelines stretch across multiple weeks. Physical constraints compound existing geopolitical supply shocks across Middle Eastern energy markets.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGVSeFB4NmpTTklFR05YQVh0MTFsMjFUelRQMU93OWFreE1kMnlIanJiMmdfWm91amJrVHhvWU9aQktFNHE0LWhoZElBc3NDQy1NOEdyUmoydjJwMWhkN3owQzBxbHRUSl8zdlFab1RaaDVCQ2duWkdEUS10YzF4NjBFMnpyYnI2MEdmaHI3eDR0Mm9BeHM0clpTX3RDU2xZSjk3WW9VMA?oc=5",
             "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM3l6aUg5TVNIc2p6cGdwODlMaUJ0UUZhc2xtRm1ib3VSSEZiX0hleE9zRGpWMTUtZTJjTUdtUXJvYlRuZGxhZU9nMy1WT3Z5N2ttMWZLU3M3ODBpMzdXelloM1BtMnNwd1czVW1sbDlZaTI3ci1VTmNRQXhRRWxEVzJIVTRfdmRNZzBrS3VCOGk4NFBU?oc=5",
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFBiblNlX1RTUzEtbTUyYTBwZWUwaVRMRlZvYUdZdlRCaDRLZGZkU0hORmtnVk9nb2tOdGxLaGpNT1B5N2h3N013WlFVTm5pdjRWRHFYYUtmRlRadndmYnR1aVhjRXgyUGFuVC1FalRvUVdMR2JiWVFMZE9aMlk4QkF2cXNfTVBlVG5jdUlFbV81WW5VOTFpVFNBZDhzSnJsdmFyNjREOXQ5bGRS?oc=5"
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU5zeTlOM0pDMEdib3F0eWhnTEp3bV90eEF5Q3ZWQW85UXpxQU1YZTVlS2dNZ1A3aFY4X1hyTjB6TDF5NWRtd2FVbTFXUWxvUENRX0JyVUU5MDF5dGJXNWVCTVlmM002b1d6ZEFqT1JHTXJhSk1naVlGYk00U0o2N25hOUFhbXFHTU1EbEtabDBGcVFYOFVQdjMzaXdjMG1NNWRaalpBVGZiaVNtZ0w3RQ?oc=5"
           ]
         },
         {
-          "t": "Wa’ed Ventures Backs BRKZ Funding as Aramco Expands Shale Gas",
+          "t": "Venture Backing and Shale Exploration Expand",
           "src": "TradingView · EnergyNow.com",
-          "b": "Aramco’s Wa’ed Ventures backed a $31mln funding round for a Saudi tech startup named BRKZ. Saudi Aramco also advanced shale gas extraction in the Arabian Desert. Separately, a helicopter crash killed 14 nationals, according to the state news agency.",
-          "i": "Aramco’s Wa’ed Ventures supported a $31mln funding round for Saudi tech startup BRKZ. Saudi Aramco expanded its operations by bringing the shale gas revolution to the Arabian Desert. A helicopter crash resulted in the deaths of 14 nationals.",
-          "a": "Wa’ed Ventures allocated capital to a $31mln funding round for tech startup BRKZ. Saudi Aramco simultaneously developed unconventional shale gas extraction capacity in the Arabian Desert. State news reported a fatal helicopter crash claiming 14 national personnel.",
+          "b": "Wa’ed Ventures is the investment arm of Aramco. The firm backed a funding round worth $31m for a technology startup named BRKZ. Meanwhile, Saudi Aramco brings a shale gas revolution to the Arabian Desert. These domestic developments take place alongside broader changes in energy production.",
+          "i": "Wa’ed Ventures participates in a $31m funding round for local technology startup BRKZ. Simultaneously, Saudi Aramco expands unconventional operations by bringing a shale gas revolution to the Arabian Desert. These investments run parallel to domestic efforts aimed at diversifying local industrial capabilities. State-backed entities continue allocating capital toward technological innovation and resource extraction.",
+          "a": "Wa’ed Ventures anchors a $31m financing round for technology startup BRKZ. Concurrently, Saudi Aramco advances unconventional extraction by introducing a shale gas revolution to the Arabian Desert. Capital deployment into domestic tech ecosystems proceeds alongside heavy industrial extraction initiatives. These parallel strategies underscore state-level directives toward technological integration and unconventional resource commercialisation.",
           "links": [
             "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1VucmZrcjFKU3BmZVA5NHAxdDlBRGpXT2huTkZmeWVFSjJHM01VSmdfcVFNTjZZY1E3bzBPZG5udEdnbzBMNGY3cVRFSlYwcXV4OHlDNXRMMnpMamFpZnNFcEdVcHJ1TUYtNUNwTDEzcldrZ0g3VUpTSDBZVVBvcGMzMzJ4eGNVWFVOUklCWFlSRk0yazlWdDhnTUJLQ01hSVpZU1dRTjRYaElyM3hFeGVxcWFOWEk0Sk1QY0lnWnBGVWc2ek1aMTVHZkhIb1Nnb19TMF9KQmF6b2xfeHVZdg?oc=5",
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHBpVjh3RExZNUR5UW1pV0tSajdWbHhPSzZ1THVaN3I4QjJrQzFRZVY3QUpEajdOSFdjeFZHLVJTS21lWWhIZTRUYmlrY29yc0JBN01waWh2ZkptZ2dkOG54Y2Z1anFadHVsQXVxRmFtdkFyZlE3cEZhMkUtUjlFVTc4a2JhY0hNQTNfLUpMMkN4RlpwblE?oc=5",
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDNKUjlaTVoyTGVYdUFOVF90SmgxenduLThaVnI5RkRVUDcwM2lKb3E2RHFvVGNSZE1vTldsd0F6dWVXYmNMbFZzOFd6d1hBUlBOcmZMNEN4VXRpdnZJaFR6Z2l0R1laajhfaUVDWTBDTVQwYUFTTFB5RE1BZFI4UFhVd0xabWlpaVhXaF9MZjBEd0NqbmY4NjgyajhldW5SXzVTXw?oc=5"
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHBpVjh3RExZNUR5UW1pV0tSajdWbHhPSzZ1THVaN3I4QjJrQzFRZVY3QUpEajdOSFdjeFZHLVJTS21lWWhIZTRUYmlrY29yc0JBN01waWh2ZkptZ2dkOG54Y2Z1anFadHVsQXVxRmFtdkFyZlE3cEZhMkUtUjlFVTc4a2JhY0hNQTNfLUpMMkN4RlpwblE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "President Trump welcomed the United Arab Emirates exit from OPEC. Commentators discussed the political fallout of these changes to the oil group.",
-        "i": "President Trump welcomed the United Arab Emirates exit from OPEC. Observers evaluated the consequences of leadership shifts within the oil cartel.",
-        "a": "President Trump acknowledged the United Arab Emirates departure from OPEC. Commentary focused on the structural fracturing of the oil cartel's governance.",
-        "sources": {
-          "0": {
-            "outlet": "EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPazFidUtOZ2Z0YUhOa1JCMTF5ajhja2ZyMk9UaGx1RkxvX0t5MkZJMlRrZllnYkdEOEl0T2c2bUxRTTVQbjFScEkwVXNNUTFzTDlidmg3OHVQaTVzU2RydERsb1VPekZYQVJoUnFVcE8yQXA2MC1KYkFNLXJZa0p6emNVUDk3b1NT?oc=5"
-          },
-          "1": {
-            "outlet": "EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVFJONE9NeE5JNGU1V2FSN0JOV0JSTWVDUFJRNjJEZTdSWjlJZWhrM0RvZlJoZ0ZUY3pidU9ZQUsyMTNhLW9yY09ZemN2c2VjNXBiNmlUWGxCbGhhUmY2UWo5cllpVkpyS01EeUtwanpQYlk1dE1vYlc2Zw?oc=5"
-          }
-        }
+        "b": "Donald Trump welcomes the United Arab Emirates exit from OPEC. OPEC is an organisation of countries that coordinate oil production. Geopolitical shifts alter the power balance among major global petroleum exporters. Iran wars and regional threats disrupt vital export routes for multiple nations. The United States emerges as a dominant swing producer during these supply changes.",
+        "i": "Donald Trump welcomes the exit of the United Arab Emirates from OPEC. Geopolitical friction intensifies as the Iran war and Houthi threats disrupt vital export routes across the Middle East. These disruptions alter global supply dynamics and hand OPEC’s swing producer crown to America. Structural realignments within international energy groups continue to develop.",
+        "a": "Donald Trump acknowledges the United Arab Emirates departure from OPEC. Ongoing conflict involving Iran and persistent Houthi threats disrupt vital maritime export corridors. These systemic supply shocks erode traditional Middle Eastern market dominance and transfer the swing producer role to the United States. Multilateral energy alliances face unprecedented structural divergence amidst active regional warfare."
       },
       "timeline": [
         [
-          "14 Sep 2026",
-          "Saudi Arabia cuts its August Arab Light Asia OSP by the largest drop in over 2 decades"
+          "14 Sep",
+          "Donald Trump welcomes the United Arab Emirates exit from OPEC."
         ],
         [
-          "14 Sep 2026",
-          "A Saudi Aramco helicopter crash kills 14 nationals"
+          "14 Sep",
+          "Saudi Aramco pipeline damage threatens Red Sea oil loadings for weeks."
         ],
         [
-          "15 Sep 2026",
-          "Aramco’s Wa’ed Ventures backs a $31mln funding round for BRKZ"
+          "15 Sep",
+          "Wa’ed Ventures backs a $31m funding round for technology startup BRKZ."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Foreign inflows rise and the naira gains",
+      "sub": "Oil output, currency inflows, and market updates",
       "ind": [],
       "stories": [
         {
-          "t": "Foreign FX Inflows Hit 16-Month High",
+          "t": "Foreign Currency Inflows Reach Sixteen-Month High",
           "src": "The Sun Nigeria · TheCable",
-          "b": "Foreign investors put a lot of money into Nigeria. This is called foreign exchange inflow, which means money moving across borders from overseas. This total reached $6.68bn, the highest amount in 16 months. The government says the steady naira and the clearing of old debts helped secure inclusion in a J.P. Morgan index.",
-          "i": "Foreign investors pushed foreign exchange inflows to a 16-month high of $6.68bn. The federal government attributed this milestone and subsequent index inclusion to currency stability and the clearing of historical <span class='term' data-t='inflation'>FX</span> backlogs. Such index inclusion typically increases passive capital allocation to domestic assets.",
-          "a": "Foreign capital inflows scaled a 16-month peak of $6.68bn, driven by structural reforms including the clearance of legacy FX backlogs and relative currency stability. These measures catalysed J.P. Morgan index inclusion, expanding the country's addressable universe for institutional passive managers. Sustained <span class='term' data-t='carry'>carry</span> dynamics depend on the central bank maintaining real yield attractiveness without destabilising the official exchange rate band.",
-          "gloss": "inflation",
+          "b": "Foreign investors put a lot of money into the country, reaching a high not seen in sixteen months. The total hit $6.68bn. This money came in because the local currency stayed steady and old money debts in foreign currencies were cleared up. The federal government said these improvements helped the country get included in a major J.P. Morgan index.",
+          "i": "Foreign investors pushed <span class='term' data-t='carry'>FX</span> inflows to a sixteen-month high of $6.68bn. The federal government attributed this capital surge to currency stability and the clearance of currency backlogs. These improvements directly drove the inclusion of local assets in a J.P. Morgan index.",
+          "a": "External inflows surged to a sixteen-month peak of $6.68bn, catalyzed by foreign participation. Sustained currency stability and the formal clearing of legacy FX backlogs acted as the primary transmission mechanisms for this liquidity. This structural normalization enabled the sovereign's re-inclusion in the J.P. Morgan index.",
+          "gloss": "carry",
           "links": [
             "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjJwUTlnSThYaUdqU0lYc3l4SktKY3hQYTJGVWhIYmJ2T2hEMHRVMUZLTHR4ZnhxcXlpZU5qQ2lyckNpb0NGa3hPb1hVcy1ZM0cwOGRNY3gwMGcwTjVqZHBsenNEcFYzQUtoMmJjaDM3TVAwXzZXWjgtOW5yckUyeE84cmRNQQ?oc=5",
             "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjF4NjB4MzJZYzJvMjFMd3RfR05XRFNCRmd2WnhhRTNfTjR2YXdDV0ItaFN6Z00yRFVyTTJSM2RHeGVkY0lQNmIxV01RMElXMFgtWV84dDM5MTU1NVVGcUxIN2VFaDJXcE9MZHhTOTNTYUFlY2s4b3JGN3NsRV9pUEhkZDBhSElGd0xJbUFMcGZ6TzFtblVBVm1kdFR5cTFjeERobA?oc=5"
           ]
         },
         {
-          "t": "Naira Appreciates in Official Market",
-          "src": "PM News Nigeria · Brand Icon Image",
-          "b": "The Nigerian currency, called the naira, went up in value against the dollar. The official market exchange rate dropped to N1,326.30 per dollar. On the parallel market, the dollar traded at N1,390 while the official rate held at N1,327.",
-          "i": "The naira appreciated in the official market as the dollar declined to N1,326.30. Parallel market quotes positioned the dollar at N1,390, while official rates held firm around N1,327.",
-          "a": "Spot appreciation materialized in the official market with the dollar sliding to N1,326.30. Parallel market rates converged near N1,390, maintaining a tight premium over the official window where quotes printed steady at N1,327.",
+          "t": "Independent Producers Drive Crude Output",
+          "src": "streamlinefeed.co.ke · Independent Newspaper Nigeria",
+          "b": "Local oil companies increased their petroleum production. This growth helped the nation meet its official production limit set by OPEC, which is a group of oil-producing countries. At the same time, higher global petroleum prices started to put pressure on local price stability. This price rise threatens the progress made in slowing down price increases.",
+          "i": "Indigenous producers accelerated crude output, allowing the nation to maintain its OPEC quota. Independent operators drove this production volume higher. Simultaneously, rising global oil prices threatened domestic <span class='term' data-t='inflation'>inflation</span> progress by increasing cost pressures.",
+          "a": "Domestic independent operators drove production volumes higher, successfully sustaining the sovereign's OPEC quota allocations. This operational ramp-up by indigenous producers coincided with rising international crude benchmarks. Consequently, higher commodity prices threaten to undermine domestic <span class='term' data-t='inflation'>inflation</span> deceleration trends.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWF5MUl4ZGxLenJrbFI4aWVrQlBjSGMtbDF2NmR4VWw0UXpRcFMtNF92NUJVYlpFc2RrNU1McXhRMWpBMF90bnNqeWhvRUxicVd3OWYwSU9memdUalU1NDNmSWwzOTF1YjQ1YkdodTlRTGNRNG1TbF9aX1RmdEhHN1Y2UnYyU1U3SXhZSFRUZkNVVTJEOGcxVkhyX1VUVFgybk5pTg?oc=5",
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDFyb040TlFmaXA0WFNSc1NmQWw3MDdvRGZrU1BYRHpldlNDS3lUQUNhOFRQN05GVlZ4dFNEV2l4ZWN4ZWtKQ3ZtYUMtbG9wQ0VWSkxDZHRIaDBEc1p4LUZrSlpoSlBkZlo1MExzRy1iUm5SLXVjLUtGVUJtS0V4N2xIZkc?oc=5"
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1cxRm5BOGlJdVJwRUotMFBwdU5YVGtSazVVSExSb2tYa0dtT2oxYUs2d0FBVk16UUlHcjBLR3NrU0MyRkJzUkdXbEh6UTZHQkVBLVNDenR5S0RUWDllb1dIZ2owakl5a01TbTRxbWk3alN4OFBna2lZb1FMX2pnaUNaLVZPY3dINGlxMlI4amktWlFqcWdjYTRJOUR5aFFwX2lCT29OT0NiNXJBQk1ESVZYdw?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV19KbC10dWpXdnQ2RDVXRDhjQnBuSkh3OC1YVXMyTjlvYl9wWDZ1eExZb3NRQzJWNVpGMlVOWV9hNHd2cVdsT1AyX2R5d2lSZnc0T1VZR1VtcFA5a2xTX0ZPUkYxRjVpcE9vMFA1U1d0TGduOUVFSXAwdHB0RmV0cjU3djk?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government reported that stabilizing the naira and clearing past currency debts successfully secured a place on a J.P. Morgan financial index.",
-        "i": "The federal government stated that currency stability and the resolution of foreign exchange backlogs drove the inclusion in the J.P. Morgan index.",
-        "a": "Federal authorities emphasized that sustained naira stability and the liquidation of legacy foreign exchange obligations served as the primary catalysts for J.P. Morgan index inclusion."
+        "b": "The federal government reported that fixing the money markets and clearing old debts helped the country join a global financial index. Local leaders continue to watch production levels and currency values closely.",
+        "i": "The federal government detailed the policy mechanics behind its J.P. Morgan index inclusion, citing currency stability and backlog clearance. Authorities continue to monitor independent oil output against international quotas.",
+        "a": "Federal authorities formally attributed index inclusion milestones to disciplined FX clearing operations and currency management. Policymakers balance these external gains against the fiscal risks of climbing global energy benchmarks."
       },
       "timeline": [
         [
           "14 Sep",
-          "Banks' deposits with the central bank dropped by 1.14% to N82.99tn in August."
+          "Federal government cites currency stability for J.P. Morgan index inclusion"
         ],
         [
-          "14 Sep",
-          "The naira appreciated to N1,326.30 per dollar at the official market."
+          "15 Sep",
+          "Foreign exchange inflows reach $6.68bn according to latest reports"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Corporate acquisitions and contracts drive ASX market activity",
+      "sub": "Australian corporate updates and asset sales",
       "ind": [],
       "stories": [
         {
-          "t": "Netwealth Acquires Paradino for $20M",
+          "t": "Rural Funds Group and Dexus Maintain Targets",
           "src": "Kalkine",
-          "b": "Netwealth bought an artificial intelligence advice platform called Paradino. The deal cost $20m. Companies buy other businesses to grow faster and add new technology.",
-          "i": "Netwealth acquired <span class='term' data-t='inflation'>Paradino</span>, an artificial intelligence advice automation platform, in a $20m transaction. Corporate acquisitions serve as a mechanism to scale technology offerings and integrate software capabilities directly into existing distribution channels.",
-          "a": "Netwealth executed a $20m acquisition of AI advice automation platform Paradino. The transaction expands the acquirer's software ecosystem, implying management is prioritising inorganic tech integration to compress product development timelines and defend fee margins.",
-          "gloss": "inflation",
+          "b": "Rural Funds Group (ASX:RFF) holds its distribution guidance through asset sales. Dexus (ASX:DXS) holds distribution guidance through a commercial property reset. A company distribution is a payment of cash to the people who own shares in it. Both businesses maintain their targets while dealing with changes in property assets.",
+          "i": "Rural Funds Group (ASX:RFF) holds its distribution guidance through asset sales. Dexus (ASX:DXS) holds distribution guidance through a commercial property reset. Both entities preserve their payout projections amidst portfolio adjustments. Asset sales provide the liquidity mechanism used to support these targets.",
+          "a": "Rural Funds Group (ASX:RFF) holds its distribution guidance through asset sales. Dexus (ASX:DXS) holds distribution guidance through a commercial property reset. Asset divestments serve as the primary capital recycling channel to defend payout thresholds against property valuation headwinds. The market is currently pricing sustained cash flow stability despite the underlying asset rotation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU12V0d2eHEzcWQ5VTZGSlZpWGZ0UkZneVMyWVhOcEJPVElMbVRoRVZhMHliWFQ0SnVwLXBOS0xGSVIzYWRJU1lZYms4RFU5NVk4V3loV2Jlc3RSWFZjUjZQeDlWWjhFdGdndk5kVUJ1aUNSQmdkbWFYQW90alFld3R2MFRZblpVMmhXUHI0b19tUVA0THcydWhNR2c5bjhiUnY3UFNLUkpua0lISV9qQmc1d0VMZw?oc=5"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjZ0clFfYUQ5dHZiOVBxMEJxUFZFRU1HREI2V3FjdmN1dGViVFltOEwwSzJDbEw3aWdSZXE4eWVwQUJ4TFBHYjhkUC1EMDNlUlBmSjlYZTROT3ZRSWJlaTByUmRSR3d6c2szRTd6d3I2NW0yejd1eGhobEdwdWZJWEdMNjl2UVlQa3FMbDRKaEJQNnJiaW1oNnNrUFVDRjBHS1FoNno0eGJLV0dKLWZQUmVR?oc=5",
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkpkOGxqQ2tIUmUzZjgzWXJnSUI2Sm03WjBoaUtoZklGOHZaZlhjWHA1bEVKYmpoUjl5OUVuXzV0QlZOeFdGOG1vUjI3Z0lWdm1FS09fS05KLVVCaDV0bGYtR1dnUldBbjFHV2VPZ21zelZaSUFkRFhjTzZ4cWtoNVBrOGZicENFT2tkc0xSUTNHSy16N2R3OUU5M21TUzlmcTR0b1ZBdnV4VlZKeG55VHV6VWdoU2c?oc=5"
           ]
         },
         {
-          "t": "Titomic Secures $5M US Air Force Contract",
-          "src": "TradingView",
-          "b": "Titomic Limited won a $5m contract with the United States Air Force. The company makes a cold spray system called TKF. Contracts provide steady cash to help smaller firms build their products.",
-          "i": "Titomic Limited secured a $5m contract from the United States Air Force for its TKF cold spray system. Such defense contracts provide non-dilutive funding, validating commercial utility and supporting manufacturing scale-up.",
-          "a": "Titomic Limited captured a $5m US Air Force contract for its TKF cold spray system. This procurement award establishes sovereign validation, reducing operational risk and accelerating top-line revenue recognition without equity dilution.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVpDOFhldEpwOXoyMG5UUGFLSUxFYXVSMi15TGNvR1VlYm1ZNkU3NjBfenlGTW1GM21jYlgxZUlqaGFkQjE5Q2hKZDE2ZUQ4VlFYYkFETzdrN3ItZnU4V2EtNnRWZVlkY0lsdU9uYnF2NWZJVXhwdkYxa0F3UjBna0U2QjgyTzdrVjg5dGhZYXg5OVVDakVfOGhOc0FzcUREd2hqWnFxUHJmNk5KQlNzVC1QRDZmMXdzdHFHSHRmblZWaW5nUjVZdDhNVVFYUQ?oc=5"
-          ]
-        },
-        {
-          "t": "Panther Metals Sells Mikado Project",
+          "t": "Heartland and Orora Adjust Dividend Policies",
           "src": "Kalkine",
-          "b": "Panther Metals sold its Mikado gold project to Brightstar for $350,000. It also signed a partnership framework for Burtville East. Mining firms often sell smaller projects to focus money on other targets.",
-          "i": "Panther Metals divested its Mikado gold project to Brightstar for $350,000 and established a Burtville East partnership framework. Asset sales allow junior miners to reallocate capital toward core exploration assets.",
-          "a": "Panther Metals monetised the Mikado gold project via a $350,000 sale to Brightstar while executing a Burtville East partnership framework. This transaction optimizes the asset portfolio, funding primary drilling campaigns through non-core asset liquidation.",
+          "b": "Heartland Group Holdings (ASX:HGH) rebuilds its dividend around specialist lending. Orora (ASX:ORA) recalibrates its dividend after a portfolio reshape. A dividend is a share of company profits paid out to investors. Both firms alter their payouts following strategic business shifts.",
+          "i": "Heartland Group Holdings (ASX:HGH) rebuilds its dividend around specialist lending. Orora (ASX:ORA) recalibrates its dividend after a portfolio reshape. Both firms adjust their payout structures to reflect altered operational footprints. Capital allocation priorities shift toward core lending and reshaped manufacturing assets respectively.",
+          "a": "Heartland Group Holdings (ASX:HGH) rebuilds its dividend around specialist lending. Orora (ASX:ORA) recalibrates its dividend after a portfolio reshape. Payout ratios recalibrate as management teams transition capital toward high-return segments. The sustainability of these new dividend baselines depends on earnings conversion rates across the revised operating segments.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV2NFdzgwVV9sRjJwbnBXZnJsMTRVdFpRWmdxSXh2OURvS1dZemFQWUo3eUNZZTR4WGM0Rlp5V3d2MVh3T1dzYmpUa3EwUmo3Z2Rva1dvYkJTdzBtMHN0R0hmWUZVaDIxU01BWnhtTUJlYnkyNHExcUp2WEFIZnZ4TnlYV3lTeXFmTzdKT1hoRGl0YTNsN2k1U1JfaVZ0REhObWZOZHMwY2JkNjJPaFFubndjQ1JRZE11SnlZRktiTi1rU2xCY2VtbmxrcEhCZFktNlVqd3BGeGlqRzZlUnBya3hFV0E?oc=5"
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXNIM0k4SThSVTQ0TW1lZGRQNDlQN0RmQVFSUy1wWGdxejVaeGZmc2dvdFpDcUQ2UmtsbkNueGZPT1FNOTRnUkdNWkVVclNjS096V1kxU05ZTWUtSmtOeHpVa3U5X01odlZvQkx4aXdwejlwUWxlbnY1d0lPdkZxX2tSUVpXc1NpWjdXLTlLaXB6V0Yzdk9kVzJyTkpMYmZVelNBTWs1MmJUU1EzVDlQVHVvM25VOUVQ?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1EzU3hGMHdkRGwyMzdYVkIzbWZfdEpQcWJ5NzVpYkxodHIxYzdJelhnMC1aX2FGMWhIYUhRZzg3RndSWGZ2YjdscC1tRERYNE8xNWl6aHBUdEtqZXktZlZoQzVhbDZEM3hEd051ZkM3a2lOSHFJVVRRblhrVy1vQ0FnSTdaT3pYMVNha1Vxa1NPUE9taHNHRlZQcVl5T3RLX3NhZjF2SQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government policies did not drive the main corporate news today. Companies reported individual business deals instead. Markets reacted to these company updates.",
-        "i": "Legislative updates remained secondary as corporate contract wins and M&A drove market action. Microeconomic catalysts dictated equity movements across the board.",
-        "a": "Macro policy announcements remained absent from the session, leaving idiosyncratic corporate catalysts to drive equity price discovery. Sector-specific deal flow dictated index dispersion."
+        "b": "There is no political news in today's market reports. The updates focus entirely on company finances and asset sales. No government votes or policies are mentioned.",
+        "i": "Today's updates contain no macroeconomic policy announcements or legislative developments. Coverage focuses exclusively on corporate distributions and portfolio adjustments. Regulatory or political commentary is absent from all source material.",
+        "a": "Source reporting remains strictly concentrated on corporate microeconomic actions such as asset disposals and capital management. No fiscal policy shifts or regulatory interventions are disclosed. The data set lacks any broader macroeconomic or political metrics.",
+        "timeline": {
+          "0": {
+            "date": "15 Sep 2026",
+            "text": "Heartland Group Holdings details its specialist lending dividend strategy."
+          },
+          "1": {
+            "date": "15 Sep 2026",
+            "text": "Rural Funds Group maintains distribution guidance via asset sales."
+          },
+          "2": {
+            "date": "15 Sep 2026",
+            "text": "Orora recalibrates its dividend following a portfolio reshape."
+          },
+          "3": {
+            "date": "15 Sep 2026",
+            "text": "Dexus holds distribution guidance through a commercial property reset."
+          }
+        }
       },
-      "timeline": [
-        [
-          "15 Sep 2026",
-          "Titomic Limited wins a $5m United States Air Force contract for its TKF cold spray system."
-        ],
-        [
-          "15 Sep 2026",
-          "Netwealth acquires Paradino in a $20m deal."
-        ],
-        [
-          "15 Sep 2026",
-          "Panther Metals sells the Mikado gold project for $350,000."
-        ]
-      ]
+      "timeline": []
     }
   }
 }
