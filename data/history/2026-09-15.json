@@ -1,208 +1,206 @@
 {
-  "generated": "2026-09-15T13:27:51.097Z",
+  "generated": "2026-09-15T14:29:55.081Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "15 September 2026",
-    "headline": "Wells Fargo lowered its S&P 500 target and UK borrowing costs reached their highest level since 2007.",
+    "headline": "Saudi pipeline attacks reduce crude output as US Treasury yields climb.",
     "lede": {
-      "b": "Wells Fargo reduced its target for the S&P 500 index, which is a collection of major American company shares. The bank expects the stock market to drop by 5% to 10% in the near future. Across the Atlantic, the cost for the United Kingdom to borrow money hit its highest point since 2007. Government borrowing costs rise when investors demand higher returns to hold sovereign debt, which is like the interest rate on a loan.",
-      "i": "Wells Fargo reduced its <span class='term' data-t='equity'>equity</span> target for the S&P 500, anticipating a near-term downside of 5% to 10%. Meanwhile, UK sovereign borrowing costs climbed to their highest level since 2007 amid a broader global debt sell-off. Higher yields on sovereign debt reflect lower demand from fixed-income buyers as investors demand greater compensation to hold government paper.",
-      "a": "Wells Fargo downgraded its S&P 500 target, projecting a 5% to 10% downside in the near term amid growing strategist caution. Concurrently, UK sovereign <span class='term' data-t='gilts'>gilts</span> experienced surging yields to reach levels not seen since 2007. This upward pressure on borrowing costs reflects diminished demand in the secondary debt market and higher required risk compensation for fixed-income holders."
+      "b": "Attacks damaged a major pipeline in Saudi Arabia and disrupted crude oil production. The chief executive of Saudi Aramco reported that one billion barrels were lost. This reduction slows the recovery of the global oil market. Meanwhile, United States government Treasury yields touched a 19-year high as yields crossed 5.25%. Yields represent the return an investor receives on a government debt security, functioning like the interest paid on a loan.",
+      "i": "Attacks damaged the East-West pipeline in Saudi Arabia and reduced crude output by one billion barrels. Saudi Aramco stated that the disruption slows the recovery of the broader oil market. In the United States, <span class='term' data-t='gilt'>Treasury yields</span> touched a 19-year high above 5.25%. Higher yields increase borrowing costs across the economy and alter valuation multiples on Wall Street.",
+      "a": "Attacks on the East-West pipeline in Saudi Arabia compromised crude output by one billion barrels, constraining physical supply and pushing the OPEC basket price to $123 per barrel. Concurrently, US <span class='term' data-t='gilt'>Treasury yields</span> crossed 5.25% to reach a 19-year high, driven by rising oil prices and monetary tightening expectations ahead of the Federal Reserve meeting. Higher discount rates compress equity valuation multiples across major indices."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "Wells Fargo reduced its S&P 500 target, anticipating a 5% to 10% drop.",
-        "i": "Wells Fargo lowered its S&P 500 target, expecting a 5% to 10% equity downside.",
-        "a": "Wells Fargo cut its S&P 500 target, forecasting a near-term downside of 5% to 10%."
+        "b": "US government Treasury yields touched a 19-year high above 5.25% as Wall Street opened in a tepid state.",
+        "i": "US Treasury yields crossed 5.25% to touch a 19-year high, increasing borrowing costs across the economy.",
+        "a": "US Treasury yields touched a 19-year high above 5.25% as rising oil prices compounded monetary tightening expectations."
       },
       {
-        "c": "United Kingdom",
-        "b": "UK borrowing costs climbed to their highest level since 2007 during a global debt sell-off.",
-        "i": "UK borrowing costs reached their highest level since 2007 amid a broader global debt sell-off.",
-        "a": "UK sovereign borrowing costs touched their highest level since 2007 during a global debt sell-off."
+        "c": "Germany",
+        "b": "The DAX index opened 0.39% lower as crude oil surpassed $113 per barrel and European shares declined.",
+        "i": "European shares and the DAX slipped as crude oil surpassed $113 per barrel, fueling energy-driven inflation concerns.",
+        "a": "The DAX index declined 0.39% amid energy-driven inflation fears as crude oil surpassed $113 per barrel."
       },
       {
         "c": "Japan",
-        "b": "The Japanese yen weakened to around 155 per dollar as food costs hit record highs.",
-        "i": "The Japanese yen slid toward 155 per dollar as pork and egg prices reached record highs.",
-        "a": "The Japanese yen depreciated toward the 155 level against the dollar alongside record pork and egg prices."
+        "b": "The Japanese Yen weakened toward 155 per dollar while domestic pork and egg prices reached record highs.",
+        "i": "The Japanese Yen slid toward the 155 level against the US dollar, pushing agricultural import bills higher.",
+        "a": "The Japanese Yen weakened toward 155 per dollar, compounding animal feed expenses and driving pork and egg prices to record highs."
       },
       {
-        "c": "Saudi Arabia",
-        "b": "A pipeline shutdown drove the OPEC basket price to $123.",
-        "i": "A pipeline shutdown drove the OPEC basket to $123 following a Saudi facility loss.",
-        "a": "A Saudi pipeline shutdown propelled the OPEC basket to $123."
+        "c": "India",
+        "b": "The Reserve Bank of India scheduled a reverse repo auction and the rupee dropped 0.42% against the dollar.",
+        "i": "The Reserve Bank of India announced a variable rate reverse repo auction to absorb liquidity after the rupee weakened.",
+        "a": "The Reserve Bank of India scheduled an overnight variable rate reverse repo auction absorbing 2,50,000 crore rupees amid a market rout."
       }
     ],
     "thread": {
-      "b": "Several markets reacted to changing economic conditions and energy pressures. Currencies shifted against the dollar in different regions. Debt and stock values moved as investors adjusted their portfolios.",
-      "i": "Global equity indices and currencies adjusted as regional bond yields climbed and commodity pressures persisted. Central bank rate expectations drove cross-border carry dynamics and inflation concerns. Energy price volatility continued to affect sovereign and corporate planning.",
-      "a": "Cross-asset adjustments reflected concurrent pressures in sovereign debt and foreign exchange markets. Commodity surges, particularly in energy, fed into broader monetary policy anxiety and equity repositioning."
+      "b": "Rising oil prices and energy costs impacted markets across multiple countries. Central banks and currencies responded to shifting economic pressures.",
+      "i": "Surging oil prices and energy-driven inflation pressures weighed on global equities and currencies. Central banks managed domestic liquidity through targeted auctions and rate adjustments.",
+      "a": "Escalating energy prices and supply disruptions transmitted cost-push pressures across global equity and foreign exchange markets. Central banks adjusted liquidity operations while currency pairs reacted to shifting monetary policy expectations."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Wells Fargo cuts stock target and markets wait for the Fed",
+      "sub": "Treasury yields and oil prices drive Wall Street's open",
       "ind": [],
       "stories": [
         {
-          "t": "Wells Fargo Lowers Stock Target",
-          "src": "Investing.com",
-          "b": "Wells Fargo lowered its target for the S&P 500 index. An index is a group of stocks tracked together to measure the market. The firm sees a potential drop of 5% to 10% in the near term. This means shares could fall before they rise again.",
-          "i": "Wells Fargo reduced its S&P 500 target. The bank anticipates a 5% to 10% downside in the near term. Such downward revisions reflect growing caution among major equity strategists.",
-          "a": "Wells Fargo lowered its S&P 500 target, projecting a 5% to 10% near-term correction. This revision implies deteriorating risk-reward metrics across large-cap equities. The tactical bearishness challenges consensus positioning heading into the fourth quarter.",
+          "t": "Treasury Yields Climb to Multi-Year Highs",
+          "src": "FOREX.com · bloomingbit · WWNFN-FM",
+          "b": "US government borrowing costs, known as Treasury yields, climbed to a 19-year high. Bessent linked this recent increase in US Treasury yields directly to rising oil prices. Wall Street opened in a quiet mood as these yields pushed past 5.25%.",
+          "i": "US government <span class='term' data-t='gilt'>Treasury yields</span> touched a 19-year high, driven by rising oil prices according to Bessent. Wall Street opened in a tepid state as yields crossed 5.25%. Higher yields increase borrowing costs across the economy.",
+          "a": "US <span class='term' data-t='gilt'>Treasury yields</span> printed a 19-year high, with Bessent attributing the move to surging crude quotations. Equity indices opened subdued as yields sustained a breach above 5.25%.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTnRzbnlyMjZ4YkFZXzR0R2NmNjV3OXBZbnlSWTB4anJjc1BCeUljTEdpU19xRXN0cGV5eVJkZi13aGQ0dHNGbnZCMUx1eTJSSjV5SWR3dU91Z0RXOGp3Z1Fmc2N5ZUtvZnU0Zm9hQTdyTEQ5d1JsWG9OcEZGS2pZbWlNX0FCT3BWdGJ4MUxpZTBWY2dqQjZzLXNzeW5BRGxHWl9iZFBRbzZxcGFCTE1CdWZXX2JpUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXhiRk1xbU11aXpTRHdoNGoyV200MWRlOHNIR2xkZ2RreUhlOVNvckw3ZkxGQ2pJV19IdVN6VlVTOTk3OS1jLTBmY2w5YU41Wlg5bDVUYzd5NG01Zm03ZkhrZ3B6ZFNyMVJhakpONVBuUzJESTlmeWpuNGpoeklTQk4xX3JVTU85cE55QUYyanN5QlF2eUJfUmNhVHFIYTJGWWVBbXZTWmdoNGlEN2MwSmRsY1c?oc=5",
+            "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTQnFlbzVNVGZlTlpfRmZBM21iUWtXZUxFdGtiSWhvXzFtRkx5Q1pTakJhYTZYM2dLd2YyS1NHLTJ5RXVaS1ljUHltUkxCN1o2OENIWA?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEFxM1I5VkN3LXhhMGlKTncxTzNHcXY4SVI0MFJuWWR5UXJVdWdsQkZMMURTQi12aEpETC1DNmYyLWp3UWF1UDgyOUliel9pdVpPc0JsZmR1VTV2LXU3S1ZIMFZLbHJTeUN5RVRQaERPUUZpNGNNZzV4WUJOT196ZzhPT0g5YVNkc0NoRk9YMlVaS1BVN3c?oc=5"
           ]
         },
         {
-          "t": "Anthropic Proceeds With Nasdaq Listing",
-          "src": "qz.com",
-          "b": "Anthropic is moving forward with a massive initial public offering, or IPO, on the Nasdaq exchange. An IPO is when a private company sells shares to the public for the first time. The valuation for the stock sale reaches $2 trillion.",
-          "i": "Anthropic advances its $2 trillion initial public offering on the Nasdaq exchange. This listing marks one of the largest equity market entries in history. Investors await further pricing details on the upcoming share issue.",
-          "a": "Anthropic proceeds with a $2 trillion initial public offering on the Nasdaq. The sheer magnitude of the float tests institutional liquidity depth. Market participants are monitoring bookbuilding metrics to gauge broader risk appetite.",
+          "t": "Federal Reserve Rate Decision Approaches",
+          "src": "The Motley Fool",
+          "b": "The Federal Reserve is expected to raise interest rates on Wednesday. Investors are watching to see how this decision affects stocks in the S&P 500 index. Higher interest rates make borrowing more expensive for businesses and consumers.",
+          "i": "The Federal Reserve prepares to raise interest rates on Wednesday. Market participants evaluate equity exposure in the S&P 500 ahead of the announcement. Monetary tightening alters valuation multiples across major indices.",
+          "a": "The Federal Reserve is slated to lift benchmark rates on Wednesday, prompting positioning adjustments across S&P 500 constituents. The impending policy shift tests equity valuations against rising discount rates.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1menNzc0phaC1EUEpQRkdOLWRqTjM4U05TYy1iOVZfWHRyOENPWjI0djdCX1VfNG1QTkh3WmNnazljQlZQNzZXUm5ib3k1R0tndU1rbEZJVFNleGJkQ1hmbEhtTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQy1TZjhkVm1jb1pXeGZXR3d5Xzk5VHRaWnpKQnBDSnhYQzBZRUNSendabVdDcnhMdVhuWnM1Q09tcExqaHUzSDhpWE5HcnZHLW9ZR0lmYklHOFo2LVplZ3NQZzk4U2x0VE1qV1ZFZEZEOUJIUTBNdFlFRHJ3LW15ZW8tcklEU2ZzQWNhWWE5R1hxcWM?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Bessent faced questions from the House regarding the economy. Lawmakers asked about the financial state of the country. These hearings happen in Congress to review government policies.",
-        "i": "Bessent appeared before the House to answer questions on the economy. Lawmakers pressed the official on macroeconomic conditions. Such congressional oversight sessions examine fiscal and monetary coordination.",
-        "a": "Bessent faced House questioning regarding economic conditions. Lawmakers scrutinized current fiscal trajectories and growth forecasts. The testimony provides insight into executive-legislative friction on policy priorities.",
-        "sources": {
-          "0": {
-            "outlet": "The Hill",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUHBtSWdrOThQVlRwOUc3TVBJcTE2NERJVnlQdHdLemJXUVhFa1hDeTNuV1cwWEhIWldYNGcwR0FicjBuYWNjNWJjMEFNTTZhQUIwd0RVbkpGLU9RV2tacmw5aThPcWNob1pKR0N3aXRPRXlLb0UwNGFhcXY5YUM1Zi1QSXJyWlNVUXlpSUk1dElZSlUwRXd5LUx3Sk5jZ3VVajRlalhHbmlsSDFrQmREM3pOb0gwaU1Hazhv0gHAAUFVX3lxTFBpcTF2elB1dGZTSEd0cjRfeDM3T0s4alFPSU9ZckNsMVJXZW9DcDYtSWdpZ1NyWUVBaVlhcDBaYnltS05oZHZZNWF2djZyY1JBdHZ3Q2lrbENCeFY2alotTFVZekJkVmgxRUxFSmFFTi1EcGNrZ01tTVhoYTM3S1NLQW11TDVaRlJzc2s1WWRBZ2lMR2dFMXl6bjg1MkdKemxVTHd3dWhKVlBlNW0wLXZsOGJ5X1BOYTRWNjBQMjBuSQ?oc=5"
-          }
-        }
+        "b": "Government officials discussed economic conditions as energy costs climbed. Leaders focused on managing the impact of higher yields and upcoming central bank choices.",
+        "i": "Policymakers monitored the intersection of commodity prices and sovereign yields. Officials assessed the macroeconomic fallout from persistent borrowing cost pressures.",
+        "a": "Executive branches and monetary authorities navigated transmission channels linking energy shocks to sovereign debt repricing. Policy discussions centred on fiscal and monetary coordination amidst multi-year yield highs.",
+        "sources": {}
       },
       "timeline": [
         [
           "15 Sep 2026",
-          "Wells Fargo cut its S&P 500 target while markets awaited Federal Reserve updates."
+          "Treasury yields hit a 19-year high above 5.25% following oil price increases."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "UK borrowing costs rise as stocks fall on jobs data",
+      "sub": "Raheem Sterling admits driving charges",
       "ind": [],
       "stories": [
         {
-          "t": "UK borrowing costs reach highest level since 2007",
-          "src": "The Times",
-          "b": "UK borrowing costs reached their highest level since 2007. Borrowing costs are like the interest rate a government pays when it borrows money from investors. This increase happened during a wider global debt sell-off. A sell-off happens when many investors rush to sell their investments at the same time.",
-          "i": "UK borrowing costs climbed to their highest level since 2007. The rise occurred amid a broader global debt sell-off. Higher yields on sovereign debt reflect lower demand from fixed-income buyers. Investors demanded greater compensation to hold government paper.",
-          "a": "UK sovereign yields touched 2007 highs during a synchronized global <span class='term' data-t='gilt'>gilt</span> sell-off. Term premiums expanded across maturities as primary dealers absorbed heavier issuance. The repricing reflects mounting fiscal anxiety transmitted through international debt channels.",
-          "gloss": "gilt",
+          "t": "Footballer Raheem Sterling admits driving offences",
+          "src": "Sky Sports · The Times",
+          "b": "Former England football player Raheem Sterling admitted to dangerous driving. He crashed his Lamborghini vehicle on a motorway. Police also found nitrous oxide, known as laughing gas, in his possession.",
+          "i": "Former England and Manchester City forward Raheem Sterling pleaded guilty to dangerous driving. The charges followed a motorway crash involving his Lamborghini. The footballer also admitted to the possession of nitrous oxide.",
+          "a": "Former international forward Raheem Sterling entered a guilty plea regarding dangerous driving charges stemming from a high-performance vehicle collision on a motorway. The legal proceedings additionally encompassed an admission of nitrous oxide possession.",
           "links": [
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG5JUmxKeEhydlVmb0c2ZGlielRIZ0FwSnhFR3E2RzhPVWdvOUNEam95aEZsMDdDX2pSaG52NlhXOWk0X2k3TERKUmJvbkdSRGRiWHd1TXJUd0tPbmhDaFdsRFZNSHhjUlVUbUNCVW9Gb0phbnNVWVE3dk8xWGtadE83ZU5mRkJ5RkRtZjFKV3RqVUNhdjEyQjVtdkkyTHlnaHMwSXBib1ZieEVBQU5Ndw?oc=5"
-          ]
-        },
-        {
-          "t": "FTSE 100 drops following weak employment figures",
-          "src": "Investing.com",
-          "b": "The FTSE 100 stock index fell today. An index is a group of shares from many companies put together to track how the market is doing. Stocks are small pieces of ownership in a business. The index dropped because of weak jobs data and rising oil prices caused by a rift between the United States and Iran.",
-          "i": "The FTSE 100 index declined following weak jobs data. Shares fell as domestic employment figures disappointed market participants. Meanwhile, energy prices rose due to geopolitical tensions between the United States and Iran.",
-          "a": "The FTSE 100 drifted lower as soft domestic labor metrics weighed on equities. Macroeconomic headwinds compounded risk-off sentiment in London trading floors. Concurrently, Brent crude rallied on escalating diplomatic friction between Washington and Tehran.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2piNDVrRDdqcFVJRm9IY3JnSk9fc1R6S3ZBT0pZOC1ETmczUHgzY1BNaDg4SEl1VkV1OXl3RnVpcW04TmY2NUhJOEpOYWxFXzgyMFNWZU5yX2xua29kZmU5WkR4Mm1jZ094MFZHT2FFcWVnRU5JREJBZ0ZhY0IxVDlmdHBzTk42bHlUdWxYaDVZME1zSkh6Q3h1aFJhY2tSaTlpWmo2eFlnMTlZRHlEeXpUMk1CZjIxWHF5Tm4zSlAwVG5Temc?oc=5"
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmJhRV9JTEdjR2hzaWU0b1J4Q25XZm1iblQwQ0NjV1NVWW5keXNGVlJic3FFTmphNXZSNzJFX2x5R3NhbW9HUVd2bzJZY21fQWtkTHJ6b01jY0NlVVlDeDQ3dmY5UkpSUGhfX2ROay0wZTVVd3lDd21JZ2FlbGFKT3ZhM0lSU3BMU2ZfUWV6XzQyNjhRcS16SU5SWi03S2ZIaGhsakQyQUNZNzE3TUFKNHJCd3pxUFlFN25CTDhTLXFPS2gwNGpKblVLWVlNUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmpucFZBc1RpZHhzUVE1WXh6TThSUUtJZ25rWkgzSG5TNHVELWY1cjhJVjJJMDFNanF6TzM1MlBTak9yMDMtSlFTdnlHWkVveHU5SGpFcDBoQzIyLTNuR3JwX1M5Uk5XcnZxVDBCbVR6d2RNak1LekdtNm1ZVE5GMW9kY2J4X0ZhVlEzb2NURnRRWklPWmFmYWprb0NaM1FFQUVRdU02TnN0R3J1emNRMVRydzBJR09HbVJOTGZlbnJiRTFoMTczTmtB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There is no political news today in the sources.",
-        "i": "No political updates are available in the current sources.",
-        "a": "The provided sources contain no political developments."
+        "b": "No political updates are available for the United Kingdom today.",
+        "i": "No political updates are available for the United Kingdom today.",
+        "a": "No political updates are available for the United Kingdom today."
       },
       "timeline": [
         [
-          "15 Sep 2026",
-          "UK borrowing costs reach highest level since 2007"
-        ],
-        [
-          "15 Sep 2026",
-          "FTSE 100 falls following weak employment figures"
+          "15 Sep",
+          "Raheem Sterling admits dangerous driving and nitrous oxide possession in court."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German stocks slip as European markets retreat",
+      "sub": "DAX falls as oil surges and bond yields stay elevated",
       "ind": [],
       "stories": [
         {
-          "t": "DAX Index Opens Lower Amid Regional Stock Decline",
-          "src": "Yahoo Finance UK · TradingView",
-          "b": "The DAX is an index, which is a group of important company shares tracked together to show how the stock market is doing. The DAX index opened 0.39% lower. This drop marked the second consecutive day of losses for the index. European stocks fell as oil prices climbed above $113.",
-          "i": "The DAX index opened 0.39% lower, extending losses for a second consecutive session. European shares retreated broadly as oil prices breached $113 ahead of a Federal Reserve meeting. Investors maintained a defensive posture across regional trading desks.",
-          "a": "The DAX opened down 0.39%, marking a second day of downward momentum for the benchmark index. Broad European equities softened as crude surpassed $113, compounding pre-Federal Reserve caution. Market participants priced in persistent energy headwinds alongside monetary policy anticipation.",
+          "t": "European Shares and DAX Slip as Oil Prices Rise",
+          "src": "Yahoo Finance UK · Reuters",
+          "b": "Stocks are pieces of ownership in companies that people buy and sell on public exchanges like the DAX. The DAX index dropped for the second day in a row. Oil prices climbed past $113 per barrel. Higher oil costs make people worry about rising prices for everyday goods, which is called <span class='term' data-t='inflation'>inflation</span>. Bond yields also stayed high.",
+          "i": "Equities across Europe declined as the DAX index opened 0.39% lower and extended losses for a second consecutive session. Crude oil surpassed $113 per barrel, driving renewed concerns over energy-driven <span class='term' data-t='inflation'>inflation</span>. Bond yields remained elevated ahead of the upcoming Federal Reserve meeting, adding pressure to equity valuations. Banks and other major components dragged down the broader European shares.",
+          "a": "The DAX extended a multi-session drawdown amid sustained macro headwinds from the energy complex. Brent and WTI benchmarks holding above $113 per barrel reinforced <span class='term' data-t='inflation'>inflation</span> expectations through second-round cost channels. Sovereign debt yields remained stubbornly high, compressing equity risk premium multiples across European indices. Financial sector equities underperformed, transmitting the broader monetary tightening anxiety ahead of the Federal Reserve rate decision.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTVNUnZVdXU4dUl4VmVOc1FmZG4yZi1uelVtd3RCOFo1TWlsbEZ3NURMc1JwSWF6ZlU2amxLTDU4Z2xLRGlyVDZYSzFSakdIdG5qODlRQjA4WGd2TGdCT3B3eTZhUGZVb2JzV0N6SGJpOHBBVWhPbTJLd3huT3djcVAyT3k?oc=5",
-            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa3pCTHlsUGtUd1R4TFpjSkRWNXJ4eG91Q2hveW8xNWE3cW0zcWRISHJ4aVUtY1hVVDZoNGx3Ni1aamV0cU1oMEgtTUphOEl0NlBMZUZQYlpnQWdrV29EUFNvZmVHaFJqVGFUTkVrTXgtMFdNV1A1Ykc4dlRtcFFvdm5aUmQzd2h2?oc=5"
+            "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXB5cWlTYU94bTI1Ynp0d25WekVxY0Q5QjZRWkQwY1IzMHRJTktuTm10NUJsUTRDbC1RcVpDUUhaMzBoYUZHcGVrZTVNcHdndmhxa0NmOFJzUFptWFNHOVVwclRMMkdvc0hWMzNvNXpXX1VrY09rbnNvMktla2UwQ3pUazVCMm8?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkxiZ002M0JSRVRUejBnMGxhRFA4OG9KRWxHWWxuaEtSclhHOTg3MDVMTm5SZEY4YUtuQ1ZtZGYyQWR6d1FRSmtLV093c1hsVy1pS09POEt1Zk40WmRjc0xFcnlwZHZPUzQ0d25hZWVYZnRmLXpXZzFGVzBoYS1jbWRQWVR2RmF4d2NvRjBUc09qclgybW9NbDRDdjE4a2NZZjRTR29sYnJXZ0RMajNlUTBFQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTVNUnZVdXU4dUl4VmVOc1FmZG4yZi1uelVtd3RCOFo1TWlsbEZ3NURMc1JwSWF6ZlU2amxLTDU4Z2xLRGlyVDZYSzFSakdIdG5qODlRQjA4WGd2TGdCT3B3eTZhUGZVb2JzV0N6SGJpOHBBVWhPbTJLd3huT3djcVAyT3k?oc=5"
           ]
         },
         {
-          "t": "Individual Equities Diverge on Xetra Trading Floor",
-          "src": "ad-hoc-news.de",
-          "b": "Stocks are tiny pieces of ownership in a company that people buy and sell. Fresenius stock gained 2.0% on the Xetra system. Meanwhile, Continental, GEA, and RWE headed into the open following weaker sessions. Symrise stock rose as its share buyback program progressed.",
-          "i": "Fresenius stock recorded a 2.0% gain on Xetra. Continental, GEA, and RWE entered the open following softer previous sessions. Symrise stock advanced as its share buyback program continued to progress.",
-          "a": "Fresenius equities registered a 2.0% Xetra gain. Continental, GEA, and RWE faced downward pressure heading into the open following earlier losses. Symrise shares moved higher supported by ongoing capital deployment via its buyback schedule.",
+          "t": "Symrise Advances on Buyback While RWE Shares Waver",
+          "src": "ad-hoc-news.de · marketscreener.com",
+          "b": "Symrise stock gained value as its share buyback program continued to move forward. RWE stock headed into the open following a weak performance on the Xetra trading venue. Investors continued their general retreat across German markets.",
+          "i": "Symrise stock advanced as the company made progress on its ongoing share buyback program. RWE stock entered the open following a subdued session on Xetra. Overall market sentiment remained defensive as Dax investors stayed on the retreat.",
+          "a": "Symrise outperformed on corporate action announcements related to its ongoing share buyback execution. RWE traded lower following soft liquidity absorption on the Xetra exchange. Equity positioning remained risk-off as local market participants maintained broad capital withdrawals.",
           "links": [
             "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYlE4WENnTlJ4MVRFc3gtdTZJRnpoeXlkVVFWMnFJWUxWUWhtX2pTOFdCYmZId21EOXdiNzI4Q3Q2dGdwYTlxcTNCam5UT3RKd2ZmbF9FcU1IdzJYYlUzS1JHcEQ3MEZVLUZSaC1INlU2UWluZjdWRzkxT3hPTnQyblpoZDllbTk5OWNvb2xZYTF6eXZ4VS01VU9BWWpFWThqd2xOVDU4VHBVZFhCeDhDbUFkWlM4X1RQM3c?oc=5",
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGtZRGhaRVdENnNIN3B1QU9yNlNTalZOcVJJOHJER2xhUzFCamxVcmxWLTBXNlMwaU4xdkJhY0JpaWR2ZW1sRExQZTRlNDRhdGFUNGMwOGpTU004Tjh1amJUX0Z3eUZsSHN5WHB2UEFRTVZ6NTJIejZCWDRVNjZSM04yWWFUUG11RkRaak5lb0RTWnFwZ1BwNDFCUmFlN3ZBWm5QdDNSR0dETEdDbjB5T25BM2tGbzExQmhR?oc=5"
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVdNeWlpNzVpRUlJQktRUEJoZUJObE1hc3dDUVhYMm9mUmY0d1hPNGNjNklfMWFNM2k2TUlyRjBnNkN4cEVMcWFJWlY2NTBwYnp4b3NvOHZEVElKZUdvMWJ5UDJfTDFHcTZuRllhODFEWnNDX3RLeXZkMzNIa0R4dkcyMDdMN20tS1ZsbkFLYjhrNVZuVURyWGVJZzZIOUlYWkdrakpSa1d2ZVFjSEdxS0Z0VzI2U3pydGhBT1puWkk?oc=5",
+            "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUdXVmlhckU4TFY2cVl4d2tLQUZUeEpUOHpuY2NPNEVzNVppdGtDRzlwQ0xUc0w2Sklzd1VZem5VdjVBc1ZZMHlycW44U0hUU1FwNndoM2Q4d0NIRkczVHo0MTFZcUZvUTZJU0J1VVk0ZlJDOWhoMlB0V1NxZUNhWTg5NzJBUmJEdUxFZjZmRDladw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government leaders have not announced new market policies today.",
-        "i": "No new regulatory interventions or fiscal policy updates were announced.",
-        "a": "Executive policy channels remained static regarding macro interventions.",
-        "sources": {}
+        "b": "Economic data for Germany outlines baseline commercial facts.",
+        "i": "Key economic metrics describe the baseline conditions for the German territory.",
+        "a": "Structural macroeconomic indicators anchor the baseline institutional assessment for Germany."
       },
       "timeline": [
         [
-          "15 Sep",
-          "DAX index opens 0.39% lower on the Frankfurt exchange."
+          "15 Sep 2026",
+          "The DAX index opens 0.39% lower and continues its decline."
         ],
         [
-          "15 Sep",
-          "Fresenius reports a 2.0% gain during Xetra trading."
+          "15 Sep 2026",
+          "Crude oil prices trade above $113 per barrel ahead of the Federal Reserve meeting."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen weakens to 155 per dollar as food costs hit records",
+      "sub": "Japanese Yen slips toward 155 per dollar as domestic food hits records",
       "ind": [],
       "stories": [
         {
-          "t": "Yen Slides Toward 155 Per Dollar",
-          "src": "Moomoo · Investing.com",
-          "b": "The Japanese currency fell to around 155 yen per dollar in the Tokyo foreign exchange market. This level marks the weakest point for the currency in a week. Foreign exchange markets are where different national currencies are traded against each other. The dollar climbed as global traders increased their bets on higher rates.",
-          "i": "The Japanese currency declined to trade around the 155 yen level in the Tokyo foreign exchange market. This move represents a one-week low for the currency against the greenback. The dollar strengthened as market participants priced in higher interest expectations. Cross-border <span class='term' data-t='carry'>carry</span> pressures intensified as the exchange rate drifted downward.",
-          "a": "The yen depreciated to the 155 per dollar handle in Tokyo trading, marking a one-week peak for the US currency. Rate expectations in external jurisdictions bolstered dollar demand while the Japanese unit sagged. Traders adjusted positioning ahead of upcoming central bank decisions.",
+          "t": "Japanese Yen Slides Toward 155 Against the US Dollar",
+          "src": "FXStreet · Moomoo",
+          "b": "The Japanese Yen is the official money used in Japan. It dropped in value against the US dollar. Traders expect the US central bank, which sets borrowing costs, to raise interest rates soon. This expectation pushed the exchange rate to around 155 yen per dollar in Tokyo.",
+          "i": "The Japanese Yen weakened toward the 155 level against the US dollar. Expectations of a Federal Reserve rate hike increased demand for the greenback. Foreign exchange markets priced in a bearish bias ranging between 153.30 and 156.30 for the currency pair.",
+          "a": "Spot USD/JPY drifted toward 155 on renewed Federal Reserve tightening expectations. The move reflects persistent <span class='term' data-t='carry'>carry</span> trade dynamics as US yield differentials remain wide. Market participants now price a bearish continuation channel between 153.30 and 156.30.",
           "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYS1YYUh5X25UTkU5bVJtM043TXUzV0E1d3FBVmktcFUza1ZaZEdYdGdlT0tMSkNEamNDS3otTzVON2VKWTRaVk5RNVRURy1zTllEbF8wR29DcWs0UGRURW5BOHhxeGtudzh6SzhyVjMxRHlBc0MydmJnc3JGWjU5LWozZnhWaGhfX2tUSTg0S2NLZDROWFEyRQ?oc=5",
-            "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMk1xRHYtQVVnVTlVZm42ZkhBUDVBMHoza3ZDSGowZjk2bWhKY29fdFRIRVAwUHh6cGFDejFfV1l3QjR4NkpMNGxodTJ2YWFqNXlkTHRWam1GY3lFUEEySWlXVl91Sm9xbVFMbC1Zb2NuSGRjRXpPQmVEWWN2dVJ5TlBsOTc1U2NnLXNqVzdNQzRBZlhQ?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLURQQmdsZVhGbWJlYzBUbjJBZ0ZkZUFoQk91M053WHVhUjhBOWVsRlQ4SjdVR0RkQ3ZiamZ1RFg4ZDlRQ3Y0Z3hXclIzSVkxbktPWElOLUdad1YzbG93bEVNSVZVTlo5TTdBUFQyX0JRMldHcHhMTWlmSnZGVHpiYUZHQm52RkRSM3gwZVBiS1hBWnh0di16cEhtNzNYeWV3TWZycE5wQUVQaUZsTzlHWWQyYzA2MWs?oc=5"
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktJa3VoUzFDMUs4VVp4a3pDSjZuZFhiOTRYbkVEd2hEWGQxYmZnSkNxaUM1aUs2MW1XMUtpcHUxTkFnTi16ejE0S2FtdGhZQ2dFbFU0ZDRNUkxtWFFsVERCdGxDUERxeFZIajlZT2ZRZ2RUc3pwU3JPTjhCY251U1NibHRpLVNZTXo0TnhMTFpoZzM0bG1zZ2ptRk1LcUwyM3VUMDNIcUhiUFE?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY201cWpLaXctay1QaFBfR1JWX3lZd3R4bFVDdTFDRW9RajlTZ1k5TGtvRzg3RVFENDdsY1ZxajJpbEFmblRRc0lzRjgtVDlGSFlyeFVSZFhlaWIwOEJvN2hKQm9BVEduLW9TTHRTZkUwTjRFTFUzR3R0YXFRSFU4cG5QUUozUjhCak9sZVdhcEhzV1NvWFMtOE9IY1kwSnRSR2t1M2xUWmlvWHAydXc?oc=5",
+            "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMk1xRHYtQVVnVTlVZm42ZkhBUDVBMHoza3ZDSGowZjk2bWhKY29fdFRIRVAwUHh6cGFDejFfV1l3QjR4NkpMNGxodTJ2YWFqNXlkTHRWam1GY3lFUEEySWlXVl91Sm9xbVFMbC1Zb2NuSGRjRXpPQmVEWWN2dVJ5TlBsOTc1U2NnLXNqVzdNQzRBZlhQ?oc=5"
           ]
         },
         {
-          "t": "Pork and Egg Prices Hit Record Highs",
+          "t": "Nikkei Closes Flat as SoftBank Rebounds",
+          "src": "News On Japan · صحيفة مال · Fana News",
+          "b": "Japan's main stock market index, called the Nikkei, finished the day nearly flat. A share index is a group of company stocks tracked together to measure market health. A strong recovery in SoftBank shares helped offset worries about higher oil prices and interest rates.",
+          "i": "Japan's Nikkei index finished flat as a rebound in SoftBank shares offset broader market concerns. Energy costs and rising rate fears pressured equities during the session. The benchmark index managed to hold its ground despite these cross-currents.",
+          "a": "The Nikkei closed virtually unchanged as SoftBank's single-stock recovery counterbalanced macro headwinds. Oil price volatility and tightening rate anxieties capped domestic equity gains. Market breadth remained constrained ahead of upcoming central bank risk events.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiVEFVX3lxTENBWlhlTVNRU0lmQ2RTRDBzdVV1REF4bWdiSnRfYW9IY19DT3dDR2JxWnd5cTlaaXpSRWN6VzhsVDltT1BNWGZfRm5JVFItQTNvSjZHOQ?oc=5",
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTE12ekZ5YXdCSjY0cFo1eUdfTlVmZk1rVEdENXowWTdON3pueGs4OUhKQmpUV004aFY1MmpSOVBkaEowWFR1SXd5V2lRdWFXVHJ5NDU5V1hZUmFWYTlZTDdWLVhmZXBzVGl2YWpTTA?oc=5",
+            "https://news.google.com/rss/articles/CBMicEFVX3lxTE13cVZqZ0hDcHZmdzg2bDk3c0dPVkxtcVRyNlhWLTM0djJtbG1vWGp4NV9GVDNXOFE1cmVTUFlZczlxYUtoakhYaExvU3Y5WHh5aUZSTFJLS0N6dExmd3FMWEJhWExZU1VtMG8tWHhaVnE?oc=5"
+          ]
+        },
+        {
+          "t": "Weak Yen and Feed Costs Push Japanese Pork and Egg Prices to Records",
           "src": "finance.biggo.com",
-          "b": "Pork and egg prices in Japan reached record highs. A weak national currency and rising feed costs created heavy financial pressure on households. Households are regular families buying everyday goods. Higher feed costs make raising farm animals more expensive.",
-          "i": "Japanese pork and egg prices climbed to record levels. A weak currency and elevated feed expenses combined to squeeze household budgets. These commodity costs intensified domestic <span class='term' data-t='inflation'>inflation</span> pressures on basic foodstuffs. Consumers absorbed the direct cost increases at retail counters.",
-          "a": "Domestic food metrics showed pork and egg prices printing record highs. FX pass-through from a depreciated currency coupled with elevated feed input costs to compress real household disposable income. These agricultural cost pressures amplified broader consumer price index strains.",
+          "b": "Pork and egg prices in Japan climbed to record highs. A weak local currency makes imported food and animal feed much more expensive to buy from abroad. These rising costs put financial pressure on households across the country.",
+          "i": "Japanese pork and egg prices reached record highs amid escalating agricultural import bills. A depreciating currency compounded high animal feed expenses for domestic producers. These supply-side pressures strained household budgets across the country.",
+          "a": "Pork and egg retail prices printed record highs driven by imported feed inflation and currency depreciation. Transmitted cost pressures from foreign agricultural markets continue to erode consumer purchasing power. Margin compression across domestic producers reflects persistent structural currency weakness.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uVEdKTDhqVzJMSzQyRHNxNExqYVRmbUpjTlF1N2pyT0pMRjM2TGRqQjNtRXZuNWZjTFowejE4TENuM3ZNdVgycDJNM2l1a0FUeml2azFBaEZBbjA0U0lacktUZzVsSG1hX2pKLW15U3Y1MzFvS3c?oc=5"
@@ -210,319 +208,326 @@
         }
       ],
       "politics": {
-        "b": "Media reports indicate a proposed casino resort in Hokkaido could generate 550 billion yen annually in economic impact. Regional planners evaluated the potential tourism benefits.",
-        "i": "Estimates covered by media reports suggest a planned casino resort in Hokkaido could yield an annual economic impact of 550 billion yen. Local officials assessed the prospective tourism and regional development metrics.",
-        "a": "Projections cited by local media indicated that developing a casino resort in Hokkaido would deliver an annual macroeconomic impact of 550 billion yen. Regional stakeholders factored these development estimates into long-term growth models."
+        "b": "The Japanese government faces public pressure as food prices hit record highs due to a weak national currency.",
+        "i": "Policymakers confront acute public pressure from record food costs driven by currency depreciation and imported feed inflation.",
+        "a": "Fiscal authorities navigate mounting domestic discontent as imported commodity inflation degrades household real incomes."
       },
       "timeline": [
         [
-          "15 Sep",
-          "The dollar traded around the 155 yen level in Tokyo."
+          "15 Sep 2026",
+          "The Japanese Yen traded around the 155 level against the US dollar in early foreign exchange trading."
+        ],
+        [
+          "15 Sep 2026",
+          "Pork and egg prices reached record highs across Japan due to feed costs and currency weakness."
+        ],
+        [
+          "15 Sep 2026",
+          "The Nikkei index closed nearly flat following a rebound in SoftBank shares."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Bank lending increases and Hainan issues new debt",
+      "sub": "China market updates including commodity futures and finance",
       "ind": [],
       "stories": [
         {
-          "t": "Hainan Issues New Debt",
-          "src": "thestandard.com.hk",
-          "b": "Hainan issued 5 billion yuan in debt. Debt is like an IOU where an organization borrows money and pays it back later. These specific IOUs fund education, sustainability, and blue projects. Blue projects protect oceans.",
-          "i": "Hainan issued 5 billion yuan in education, sustainable, and blue <span class='term' data-t='gilt'>bonds</span>. The issuance targets environmental and social projects through fixed-income instruments. This expands the regional debt profile.",
-          "a": "Hainan issued 5 billion yuan of education, sustainable, and blue <span class='term' data-t='gilt'>bonds</span>, targeting specific municipal funding channels. The offering increases regional debt supply in specialized use-of-proceeds formats. Yield absorption depends on institutional demand for ESG-labelled paper.",
+          "t": "Crude Oil Futures Reach Record High",
+          "src": "OilPrice · Crude Oil Prices Today",
+          "b": "China's yuan-denominated oil futures hit a record high. Futures are contracts to buy something at a set price later. Traders use them to bet on future costs. This reflects heavy trading activity in energy markets.",
+          "i": "Yuan-denominated crude oil futures climbed to a record high. Exchange contracts surged as market participants pushed trading volumes up. This milestone marks a significant pricing moment for domestic energy derivatives.",
+          "a": "Yuan crude oil futures printed a record high amid robust order flow. Liquidity concentration in domestic energy derivatives highlights shifting regional pricing power. The trajectory depends on sustained open interest holding above previous channel resistance.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcy1CdW5ybWhLSWNDclMzNzdVRXdwLWY3X2lLSGdXUC1HdFNIZ0tGSFZDd1FOdjBhdTVaVmdiNElIbVV5Z21WZ05yZ0N1djdqcUxRd19Mc2FQMEtLejhvV1NrNW54WkFPajgxSDFPYVhkZGtnakZ0cVBwYm42LVdZNm5JQWYzX3B2SXhRUlNkR04yRndVcXZZMGFLYzhJSFF1SmZWTTJ3?oc=5",
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGN3SjIyUERjMGZxa0NYTHRCNGY0ZWJMV1RORlBfR2VoOV9MbVIwZ1BoQXNtYklTZFhVcVhzaFBiS3AyZjQ3WENuMjBaVTAzUng4Ym1UTXpUOHk2ZEtmWEEtZlo5VHBCYUJGOUpHUENJbGFtcjl0cVlENVBRSUJQc0tiQnMyZGJiOXJnN1o1NnZ1TDU2VzBJZmxDa09XTklMcDZ4VHNqa3DSAa4BQVVfeXFMTUVFYy1ITEVZUGVyc1otYjltTV9hWVRfbW9OV041bGg0Ykd4QXBqQ2ptZzAzT3hVRUhtUDZFQ1BpMGg0ZHpQSWxqbmlDcWdjUGdTcUFRbWdYWTBReW9OeWlZT3JaSVlfRnZqVllhVVNNLVZhYlFmdmVYMmVqRTB3VmRfN0hqN0FmakJEZHpsaGYyMF9qV0M1SW1La2x6dURMQWp1WnZqTUQtY2h0ODNR?oc=5"
+          ]
+        },
+        {
+          "t": "Hainan Issues New Debt Instruments",
+          "src": "The Standard (HK)",
+          "b": "Hainan issued 5 billion yuan in specialized bonds. Bonds are loans bought by investors that pay interest over time. These specific bonds fund education, sustainable projects, and blue economy initiatives. Local governments use them to raise money for public goals.",
+          "i": "Hainan issued 5 billion yuan of education, sustainable, and blue <span class='term' data-t='gilt'>gilts</span>. Municipal debt issuance provides capital for specific environmental and social projects. Yields on these regional offerings match prevailing local debt curves.",
+          "a": "Hainan priced 5 billion yuan in education, sustainable, and blue debt instruments. Sub-national issuance targets specific ecological mandates while expanding local <span class='term' data-t='gilt'>gilt</span> liquidity. Investors continue parsing the yield spread against sovereign benchmarks to gauge credit risk.",
           "gloss": "gilt",
           "links": [
             "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS2UxT3Q2b05uQUE2TDk2eVlRajBDcVZYOGczZUJBM1hXQ05uQi1za3R2UnBCUDNPZTcwWFREZGdiUXN0bHkxWWwxTmZ0TkI1UU9tcWRkZElZSWM3dlo4Ni1aY2tVaEl5VF9fQ1U4a0xfbEltWnZpdWRMLV95VndabUd3Z1hGSjdLOHktcGVkZmRITGx1ZnJodnpfaGotTURkYzNKTU9HTG1iNktJWVFhSmlXNGxvVVRudGFsXw?oc=5"
           ]
-        },
-        {
-          "t": "China Bank Lending Rises",
-          "src": "South China Morning Post",
-          "b": "Chinese bank lending grew by a small amount. People and companies spent less money. Banks lent money despite this slow spending.",
-          "i": "Chinese bank lending posted a small increase. Stalled consumer spending constrained broader financial activity. Banks expanded credit modestly against this weak demand.",
-          "a": "Chinese bank lending eked out a small increase against stalled spending. Credit creation remains constrained by sluggish domestic demand. The transmission mechanism from policy easing to loan growth continues to face friction.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmtYMS1fT2Y5c3pZdkNJUVV2cDgxQjJQbXZsalhtemVJanlLOTlVOU8tVEQ1OENtMTUwZGkxa1hqcFY5Nm5OTlFsUEM1TlJrOFRMUWJxX09qMVFxc05yVVBJZ0lWdVdkRzh3RVgwNWhJeFlzZkJUa1hiZ2ZxeVZFbzFhOGZSTEhqQ3M5VkxqTmtjcUY3bGlWNkcxb3g1ZmJ1UDZVXzFOc3gxVGpQaU1mNFRB0gGyAUFVX3lxTFBTLU5VV0VCYThJQTdKMlpSaFVZZGdHanhpYTFSUkpPaWVnZEdrVGtLaGtEblZub2NidktvYTh4SW5sZFlNZlhFaV9pZjhpZTZaTFRmQUtxOERYTTRROGpsaHVaNUpNTlhLbFNQWE81bGEwZFk3WW42MXhzSW8weFh2cE9MR0tqUUpmWkstUk9GRkRkS0ZtODRpQjZxbTZJb3RzdS03eFdLVEV0MnVtR0diNUE?oc=5"
-          ]
         }
       ],
       "politics": {
-        "b": "APEC cooperation helps people in their daily lives.",
-        "i": "APEC cooperation delivers practical benefits for people in their daily lives.",
-        "a": "APEC cooperation continues to target tangible improvements in daily lives."
+        "b": "Regional authorities in Hainan issued new debt worth 5 billion yuan for education and sustainability. Other markets saw private funding rounds in technology sectors.",
+        "i": "Hainan secured funding via 5 billion yuan of specialized municipal bond issuance. Corporate sectors simultaneously attracted private equity flows into artificial intelligence and chip manufacturing.",
+        "a": "Hainan executed a 5 billion yuan municipal debt offering focused on sustainable assets. Venture capital deployment concurrently concentrated on deep-tech subsectors including semiconductor design and embodied perception."
       },
       "timeline": [
         [
-          "15 Sep",
-          "Hainan issues 5 billion yuan in education, sustainable, and blue bonds"
+          "15 Sep 2026",
+          "Hainan issued 5 billion yuan in education, sustainable, and blue bonds."
         ],
         [
-          "15 Sep",
-          "China reports a small increase in bank lending amid stalled spending"
+          "15 Sep 2026",
+          "China's yuan-denominated crude oil futures reached a record high."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Rupee drops, inflation risk grows, and BoP surplus rises",
+      "sub": "RBI liquidity auction, rupee decline, and market rout",
       "ind": [],
       "stories": [
         {
-          "t": "Rupee Slumps Against US Dollar",
-          "src": "Rediff · Exchange Rates UK",
-          "b": "The Indian rupee is the official money used in India. It just fell by 38 paise to close at 95.92 against the US dollar. A currency dropping in value means it buys less of foreign money than before. Banks forecast the exchange rate to trade between 95.50 and 98 for late 2026. The rupee closed at 95.92 against the US dollar.",
-          "i": "The Indian currency lost 38 paise to settle at 95.92 against the US dollar. Foreign exchange markets drove this depreciation amid broader currency pressures. Domestic banks project the exchange rate to range between 95.50 and 98 for late 2026. The rate finished the session at 95.92 against the US dollar.",
-          "a": "The spot rate depreciated by 38 paise to print at 95.92 against the US dollar. Implied volatility and forward curves suggest persistent downward momentum. Sell-side consensus forecasts are clustered between 95.50 and 98 for late 2026. The spot rate closed at 95.92 against the US dollar.",
+          "t": "RBI Schedules Overnight Reverse Repo Auction",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India manages money in the banking system. It set a variable rate reverse repo auction for 2,50,000 crore rupees. This single-day auction happens on September 16, 2026. Banks return this money on September 17, 2026. The central bank reviewed current liquidity conditions before announcing the plan.",
+          "i": "The Reserve Bank of India announced an overnight <span class='term' data-t='carry'>variable rate reverse repo</span> auction. The operation absorbs 2,50,000 crore rupees from the banking system. The bidding window opens on September 16, 2026, and reverses on September 17, 2026. The central bank structured the auction following a review of evolving liquidity conditions.",
+          "a": "The Reserve Bank of India deployed a 2,50,000 crore rupee overnight variable rate reverse repo auction to drain excess system liquidity. The window operates on September 16, 2026, with a reversal date of September 17, 2026. This liquidity management operation targets short-term rate alignment under the liquidity adjustment facility.",
+          "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSXdlN0tiaGtsTWs1VkdJdTNIcFhaZVJVWWl2X2NxRXhmcnZzT1BraDlXdjBWS2VwRHlma25mcjJ1QjNsUjZYV3ZUNms4OEpTVFBGTmgwejE3cDR0bTBEclB6c2FDN0txS1gzakdRZEZNaEswb050M3Ayal9xR3FybzVUSmU4UnE4dnVpUjE5VW5jb2JyaXpUX290NUN4dlh0N2U2YjRKNUM3Q19GLWExX2JtY1JxS2hZdmZPQ3JYY05VamVQY1ZjYW1kRmZfdmZrdVJVQk1ER0o?oc=5",
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOU1qczNTQU1LQmtzVGJNTzBOckpMVWlxY3JJcUJTaEFNdEpHaEVrTDBDU1lrNGlDdFNPZWQ3YVViTlBkLTVETUwycUNGbl8xMVR4bnM0S1VlVFp2UUNVRDd3eE1yZGRnUnQxWUVVck1vcy05dzVpS3ZIdWh6XzRBRFByaVNreFZMbXY3QkdDQkR6VzNPRFBqMktwS1M4ajZoWXNoSUtZN3lPc19HVkZZX29Uck51cDZmeGZSeg?oc=5"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63597"
           ]
         },
         {
-          "t": "Inflation Concerns Raise Rate Hike Spectre",
-          "src": "Bloomberg.com · fxstreet.com",
-          "b": "Prices of everyday goods are rising, which is called <span class='term' data-t='inflation'>inflation</span>. This upward price pressure creates a red flag for a potential interest rate hike in October. Central banks raise interest rates to cool down the economy when prices climb too fast. Analysts at Societe Generale note that these risks are tilting higher. Markets are reacting to <span class='term' data-t='inflation'>inflation</span> signals with caution.",
-          "i": "Domestic price pressures are intensifying as <span class='term' data-t='inflation'>inflation</span> <span class='term' data-t='inflation'>inflation</span> risks tilt higher according to Societe Generale. Analysts warn these developments create a red flag for a potential monetary policy rate hike by the central bank in October. Higher borrowing costs act as a transmission mechanism to suppress demand when price growth accelerates. The current <span class='term' data-t='inflation'>inflation</span> trajectory is driving these policy debates.",
-          "a": "Upside risks to <span class='term' data-t='inflation'>inflation</span> are compounding, prompting Societe Generale to flag a higher probability of tightening. The monetary authority faces mounting pressure to deliver an October rate hike if price indices breach target tolerance bands. Rate expectations are repricing along the short end of the curve as <span class='term' data-t='inflation'>inflation</span> prints force a reassessment of terminal policy rates. The evolving <span class='term' data-t='inflation'>inflation</span> dynamics dictate the reaction function of the central bank.",
-          "gloss": "inflation",
+          "t": "Rupee Weakens and Equity Markets Post Losses",
+          "src": "Business Standard · NDTV Profit · The New Indian Express",
+          "b": "The Indian rupee fell by 0.42% to 95.96 against the US dollar. This drop marked the sharpest decline since July 14. Lower palm oil purchases and a weak currency also pushed August vegetable oil imports down by 4.7%. Meanwhile, a broader market rout wiped out 9.50 lakh crore rupees from investor wealth.",
+          "i": "The Indian rupee dropped 0.42% to close at 95.96 against the US dollar, marking its sharpest decline since July 14. Weaker currency values and lower palm oil purchases contributed to a 4.7% fall in India's August vegetable oil imports. Concurrently, an ongoing market rout deepened across exchanges, wiping out 9.50 lakh crore rupees in investor wealth.",
+          "a": "The Indian rupee depreciated 0.42% to 95.96 against the US dollar, registering its steepest single-session drop since July 14. Foreign exchange headwinds and currency depreciation impacted commodity purchasing power, driving August vegetable oil imports down by 4.7% via reduced palm oil acquisitions. Simultaneously, domestic equities suffered an extensive market rout that erased 9.50 lakh crore rupees in market capitalization.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkJiY0h3Vm5EYWZDU0xWQXNfeXVHT3FMYWo4ODdDNTQ4a0E5Yng2TG4wVUVINm5Sdmxld2tyWjFUeEpGRVZYX1RSWmkxRHM0b1A1cDE4Z1g5R3pxSWdWRkF0enZhRnYwTG9KZEc5ZlRPZ0loQTk3S29HUnBnb1dqMk8tSVY2SktfZGdKc0k3bnZaWWJVZ05yQllIWkZwRjNIaWF6dlBWUjhwbkstcHVfRHp6SHA?oc=5",
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNDkwVi1MWXZzc1VFQ3k4dUN4X25neElYT3FqbHZ5RWgwWkVadWF2Vy13aTZKakFmTzNZQ3lPZEs4NjBUYlhQZ0lMNTVPZVpLY1pQUWZWOHFJQm5WVlc4WlZWdWZUSmpYYndWV0VraHI5ZGM0TndYVGVMMVVKWEdETWxYWDNOZExJSW1ySC1iay1JUlZ4dFpCRw?oc=5"
-          ]
-        },
-        {
-          "t": "Balance of Payments Surplus Expands",
-          "src": "Reserve Bank of India · Reuters",
-          "b": "A balance of payments tracks all money flowing in and out of a country. India recorded a balance of payments surplus of $20.8 billion in July. This surplus grew because of a large surge in foreign exchange inflows. The current account deficit for April to July stood at $11.2 billion. Merchandise exports reached $177.1 billion over the same April to July period.",
-          "i": "India posted a balance of payments surplus of $20.8 billion in July, driven by a surge in foreign exchange inflows. Preliminary balance of payments data show the current account deficit widened to $11.2 billion for the April to July period. Merchandise exports totaled $177.1 billion between April and July, while merchandise imports reached $247 billion. The current account deficit was recorded at $7.0 billion for the month of July alone.",
-          "a": "The external accounts printed a balance of payments surplus of $20.8 billion in July, propelled by robust foreign exchange inflows. Preliminary balance of payments accounts indicate the cumulative current account deficit widened to $11.2 billion for the April to July window. Merchandise exports printed at $177.1 billion against merchandise imports of $247 billion over the same four-month interval. The monthly current account deficit for July registered at $7.0 billion.",
-          "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63596",
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3kyajFvT3RhOGZockdPRUZ1RTB4SVczdVNOUmtPS1RKRWdmbXltWFRTXzliaFhKOWU5a003T2JsWGlmaENtVWltSWZTOUMxOGVZQ1FTTUFqY01kMmNURmpaR0ZDN0pfU1VxRUxSM0ZDcUdTMTRyaTdxUEVQd0JmZ1V0d0J2aWdaOWxtTFVtZnQtZTR2U201QV8zWEhsRkhYUC03bzlqbWwtQkRRb1J2RThVUVhad2x5ZmhR?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzY4SWJmYl9UMGpfWnVWYVkxSDRlb0VYbEdqMGZRd3ZMc0I3TXJQVl9xQkYtQWduWXdtQ0JVX2dEczRSMmFjUFdJVU1RbzlTSXl2cE9zRHlkT1FERkdGWS1KRzJSS3JzcVpiYXJXVFpPTmlDYWhpaE1BWFlmVnN2UFRJWkJMOTBiSHM2bGIxX2tqT0NtVURBMHc1SlRNU3dtN3Z3Q0QwdndkLXdpdWFwMkpUaERnZm1QbDFiWE8xeTgxS0gxQmoyQ9IBzgFBVV95cUxNUEE2VGU5ZXllZ214T2pIdEplNTcyQWFlRjd3ZWQ1dzlKSzhtYlVKMlBsd3FtbFpRa1Z2aXNOQ1VVT0VPXzRHQ0ltQkNsenhBSGg3X2I4OTJuZkp6M19rbVZ4dEYyWVI0WkFIUVpuNEZjT2Z2aGMyWFAxVmIxWjZJUjJLa0ZDZVNodEQ2MVVoZHpMWXllQ0U0WkkzV1ZpNTRsYVpCYWpsTXhjWFd4cVZjcDYta0pMdDQ1Z1FTZDRXQWZqS3Q4WV81eDdYZGlIdw?oc=5",
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdGRMV2tPYnFwQl9iV1FpQkg1WEd5TWlOV2VvQnN6OUhnNmNLSFVlb3lXYm04RGRfbEd4bW9CR0tzdGtrVmNMUXpvUkxzUW1EMzF0R3JlckgyNUxmU3hYUC1qSzlTYUVjNlpTV2dhWExjcV9DSG9hZ2JzengzMTNfYmZQN19Ka1FlT2gtR1FqZE1FNmxmazRuQnZPS2p1VF9ybG1JVUVXUnB5QTc1a1dCMVRaS19USG82R2VoeWVMc1ViU3EwX1HSAc4BQVVfeXFMT0czUHZoa21sSXZMSzJZR19aZ1NLLUlOM2ppSTlndWV2YWZRVWRXNnZhZ1luTGdLLWJkQVRCb25IWktMR1FqTkxiTUFCcmJteDJxejBrczJpeUFqeGF4TUx1MF9NMnZDVkhxM1RsamxMVlVyZmJpczF1X1V6Q1BmcGFzSEtESFFsUEN1d2tOTE5Ud3pHTE1DVjFnamxaeHFiWWxGVzliN29SUTVmY2c3UGhBVGtsSVJwMmU3ZGc0NEdqdWRhX0dSSk9fQXJrRVE?oc=5",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeF9VcVNSVFVZQTlNNjhPVTlUaVRhc0JYWlNjSzdWQXdOMS1iNkZCX0NQakREaENCVEMyVHFBekZ4NU1CeFE0QXBVVG50X3paX1FQaDFHV01SNGNpb3d0aWFzSjBvZzdDdVVBTFEyTXkwN2VVdk11OUZObVZzTkhadlRSMjd5VWJmN0NTY2pkNlVkV0d2N0w5NS0zUUhmbzJRemE5T9IBsgFBVV95cUxNQ2NYcGFXMHZETm9YLWRxZG83N3ZlbDZJTFJ1YmtURlNIZ1NseFdXQXVqWEtQVVJRMEk5bllLeXpkTG1vUnJDNXhJLXQxWHVDSlZ5M3l3UXcxc1lmTTVlUnRPMC1FeHdiTHB0NFNwaXF4YVRCUVJNV1dYc19INTZTREh3ajhadmpmTUdkNjRjTzNXOXhvVW4xRGJ1TlVyaVJic2MtVTI2SW04VGtpYnlzXzNn?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Chief Economic Adviser V. Anantha Nageswaran stated that the Indian economy is resilient rather than vulnerable. Government officials continue to monitor economic indicators closely. Authorities manage state finances through regular auctions of state government securities.",
-        "i": "Chief Economic Adviser V. Anantha Nageswaran asserted that the Indian economy displays resilience rather than vulnerability. Policymakers manage sovereign debt issuance through scheduled auctions of state government securities. State authorities raised funds via re-issued debt instruments across multiple tenors.",
-        "a": "Chief Economic Adviser V. Anantha Nageswaran characterized the macroeconomic framework as resilient rather than vulnerable. Fiscal managers execute state government securities auctions to fund sub-sovereign borrowing requirements across diverse tenors. Sub-sovereign debt auctions continue to clear at calculated yield thresholds.",
-        "source": {}
+        "b": "State governments raised funds by selling securities through auctions held by the central bank. Arunachal Pradesh, Assam, and Bihar accepted bids for various tenors and yields on September 15, 2026. These debt sales help regional administrations finance their public spending projects.",
+        "i": "State governments successfully raised capital via state government securities auctions conducted on September 15, 2026. Arunachal Pradesh, Assam, and Bihar issued debt instruments across multiple tenors, including re-issued securities carrying specific coupon rates. The auctions establish benchmark borrowing yields for regional administrations within the domestic debt market.",
+        "a": "Regional administrations executed debt issuance via state government securities auctions settled on September 15, 2026. Arunachal Pradesh, Assam, and Bihar allotted securities across 15-year and 20-year tenors, utilizing both fresh issuance and re-issues of existing benchmark bonds like the 7.66% Assam SGS 2036 and Bihar SGS variants. These auctions define sub-sovereign yield curves and reflect state-level fiscal borrowing requirements."
       },
       "timeline": [
         [
-          "17 Jun 2026",
-          "Assam issued SGS 2036 securities."
+          "15 Jun 2026",
+          "Assam issued 7.66% SGS 2036 securities"
         ],
         [
           "22 Jul 2026",
-          "Bihar issued SGS 2041 securities."
+          "Bihar issued 7.66% SGS 2041 securities"
         ],
         [
           "15 Sep 2026",
-          "Reserve Bank of India held a full auction of State Government Securities."
+          "RBI held state government securities auctions and reported BoP data for July 2026"
+        ],
+        [
+          "16 Sep 2026",
+          "RBI scheduled overnight variable rate reverse repo auction"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras signs US gas deal and new supplier contracts",
+      "sub": "Petrobras signs major deals and plans new projects",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras signs long-term supply agreement with Sempra",
-          "src": "Upstream Online · Seeking Alpha",
-          "b": "Petrobras is a big energy company owned partly by Brazil. It just agreed to buy liquid gas for 20 years from a firm named Sempra. Liquid gas is natural gas cooled down until it becomes a liquid. This helps ships carry it across oceans easily. The deal locks in fuel supplies for two decades.",
-          "i": "Petrobras signed a 20-year agreement to purchase liquefied natural gas from Sempra Infrastructure. The contract secures long-term fuel volumes for the Brazilian state-controlled enterprise. Long-term off-take agreements of this scale establish predictable supply lines for international energy traders. The accord ties domestic utility demand to North American export terminals.",
-          "a": "Petrobras committed to a 20-year offtake structure with Sempra Infrastructure, monetising cross-border supply capacity. The multi-decade duration insulates the counterparties from spot price volatility in the Atlantic basin. This procurement strategy locks in baseload import volumes against regional demand projections.",
+          "t": "Petrobras secures long-term LNG supply with Sempra",
+          "src": "ad-hoc-news.de · Upstream Online · grafa.com",
+          "b": "Petrobras is a big energy company owned partly by Brazil. It just signed a contract to buy liquefied natural gas, which is gas cooled until it turns into a liquid so ships can carry it easily, for twenty years. The company selling this gas is Sempra, a large energy infrastructure business. This means Petrobras locked in a steady fuel supply for a very long time.",
+          "i": "Petrobras signed a twenty-year liquefied natural gas supply agreement with Sempra. The deal commits the Brazilian state-controlled energy producer to long-term imports sourced from Sempra infrastructure assets. Sempra shares rose following the announcement alongside positive earnings guidance.",
+          "a": "Petrobras executed a twenty-year off-take agreement for liquefied natural gas with Sempra. The long-term volume commitment provides baseline demand for Sempra export facilities while securing multi-decade import security for the Brazilian counterparty. Sempra equity reacted positively to the multi-decade revenue visibility alongside broader corporate guidance updates.",
           "links": [
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFhJS0YwcHhoN3F0OGZONUcwV1dwd0lyVmo1ems0cEltajNNNjdLc2pnWWVsaXZwVnJvRlBHckNraEZrdDEtY2k4RUN5R0c4dFNBRXlGUURKOXFDUFNNa3hEQnRvQmxHZGFPWE5lbjVOOUFpSGp6MG13VUhJN1lsYW1RcDJYdnRpcWxGQXZaWXBSWnZ6TjZEbUQxUUI0WEplZ0hSTzlhZWNHVkRKVndaT1FCVWlfZDdqSjFweDFrUjBUNVR5WUdZMU1R?oc=5",
             "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGo5YkQ1bTFUamdJdUNNTnFPb083ekhXTjZ6WFEta1hyUmxJMGFJSFZGUTRRaHFid0FMV1ZmWFdrZGU3RzE2ZDJwNy1tdnVZM1NEX0Jab1hvbVdKWVFlamR0aEVzeHJVamxsUTI0RlNrVnJUU3oyZnB0N2t4QjFtLWhXRW9YS0syTUtpaWFtUHRaOEhIV05Scg?oc=5",
-            "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamxhV010X2RDQmltclNuM3lPYWlCWWV3Sl9kV0hyT2VmaGROemV5dElIUTZjWE45VjJ3TkRYQ080MjRvbkp1R1hYM3lHTlBDR3o2el9qaEFmS0hqOE9xa0ZRMUZ4STZGS3J0TV8tMmZNZGJKa2VNM2REU1ZjTm5hZUJoNEpuN1BleFRCQ0NxVVhvTUtBVWdB?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTBMMXJRVGFTSjVISk93R2owS2I0Qko0M01ISWFjZEk4VXJ4RWotZXV2YWFwUERuam1La00tQTljMTNGbC14YXJFcWwyanNDZ3I4aDVaUnRFRW1wMS1vYzV0a3p6RnlpYWJUZG5LT21tajBCbDBnTjF0UnpKYkVLNThMbXRUMzVKbXdwc2M1TzM1NnA3bU5PWm5sc0RiaEl3?oc=5",
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamxhV010X2RDQmltclNuM3lPYWlCWWV3Sl9kV0hyT2VmaGROemV5dElIUTZjWE45VjJ3TkRYQ080MjRvbkp1R1hYM3lHTlBDR3o2el9qaEFmS0hqOE9xa0ZRMUZ4STZGS3J0TV8tMmZNZGJKa2VNM2REU1ZjTm5hZUJoNEpuN1BleFRCQ0NxVVhvTUtBVWdB?oc=5",
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUU9sek1RemJkSGRRam13a3d1UjN5V3VFbmJvdHNGa3RxU09JWXRwREx0OThNdVliTXNmSFJoeXZqMHZ0Q1d6MjA3bUMxM1hnNnlNc2tlNkRuNTdLRlNEWGZ5c2kwVnE0NlNnd2gzOGRKZzc3Y2NBdHlxMUtQb1dUdGUxNXFSdjlSZTNhcnNlcnJHYUpzTXMxTWNQbzlYLVdFYnhHUm5ZUTZUaDZURlJpaHp1YlpKZw?oc=5",
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDNlQXpoa1FVUjlYRTlXdkNMZ2VvSWlFMVZQRk96dU1GdWdtQzRMQWtDSlI1b25RbG9KSUc5OHphdW9pSm1DeTVoUy1ucDRvN1BWb3drcENGSzJEMm8taFdRdzJ1aWw4TWRIeVVQakp0eDRxVTlnbGlRSXlsRU8xcmh1czZTR2R2dXFkTg?oc=5"
           ]
         },
         {
-          "t": "Petrobras awards deepwater and infrastructure contracts",
-          "src": "BNamericas · Offshore-Energy.biz · India Shipping News",
-          "b": "Petrobras plans to hire companies for 15 different projects involving refining and gas. It also tapped a firm named Strohm to test special pipes deep underwater. Another company named SeaLoading secured a long-term shipping contract. These deals involve work deep offshore in Brazil.",
-          "i": "Petrobras advanced 15 separate refining, logistics, and gas projects for future contracting. The corporate entity engaged Strohm to trial thermoplastic composite pipes at depths reaching 1,500 meters offshore. SeaLoading also secured a long-term agreement for its SeaLoader 2 vessel in Brazilian waters.",
-          "a": "Petrobras advanced its procurement pipeline by slateing 15 refining and logistics initiatives for tender. The operational scope expanded via a deepwater trial with Strohm for thermoplastic composite pipes at 1,500 meters. SeaLoading concurrently cemented asset utilisation by securing a long-term charter for the SeaLoader 2 system.",
+          "t": "Petrobras awards offshore contracts and plans project pipeline",
+          "src": "BNamericas · Offshore-Energy.biz · Oilfield Technology",
+          "b": "Petrobras hired Strohm to test thermoplastic composite pipes in deep water up to one thousand five hundred meters deep offshore Brazil. SeaLoading also secured a long-term contract for the SeaLoader 2 vessel offshore Brazil. Petrobras has fifteen refining, logistics, and gas projects waiting to be contracted.",
+          "i": "Petrobras awarded a contract to Strohm for thermoplastic composite pipes intended for deepwater trials reaching depths up to one thousand five hundred meters. SeaLoading secured a long-term deployment for the SeaLoader 2 offshore unit in Brazilian waters. Petrobras maintains an active procurement pipeline containing fifteen refining, logistics, and gas projects.",
+          "a": "Petrobras engaged Strohm for a deepwater trial utilizing thermoplastic composite pipes at depths up to one thousand five hundred meters offshore. SeaLoading finalized a long-term charter for the SeaLoader 2 production support vessel in domestic maritime operations. Petrobras oversees fifteen distinct refining, logistics, and gas infrastructure developments scheduled for future contracting.",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0pUOHMwaTNtYmdoMFhrVW1QSEg0YVFsUko2Y3ZEdnpRMlBhazJydF9lS0p0ZXVXUE9WNnpJSUJlN3F0T1dJbkRFTFUzNV9VR0FkdlFNNm8zaE1SUFpaX1V6aG9RRjZncjh4aXl5NmpFUUJfMkJCd1dQY0FoYk5RXzBGTjdRR3loa1NMa1dpMGd1MFZPY01BajhsTDJySTlvalEyNTM5YWRMblpw?oc=5",
             "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM3R1X0thaDlRTmtwSFJrc045Uk9EQVBUU3JTbXVHNU14cE5yQ3MyWm5jWnYzV3FJOVh6QlYtZmRmaWkyOGhuUG5zSWppRmNSbmplQ2hYLWREbDhpcWZBdDhPcTlEdXN1aUpUUmlsQTgtOGNWNGFIM0xIMDUtWng3UlZ2Q1JZV0UyNFhSSlZValU2Z2tuSlVzUkx6UklRRTdVUl9mSGdFR2EzNE9CcTBtNw?oc=5",
+            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSkptWVlhZkUtbXlKV29QSmpINzgyTDRMR1AxZThnTXY2VzZVdGoxUUtnZE1jQkhiM2lEeHd5cDE0dEJ4ZG83RjAxUWFEblZJNFVuTjBEYmlMbHlrajFmZkRkUjZuQWlnejFsOFhPM1FsY2NaRUR1clVTdlkyZTk5bkk4MzNhMno3V0JLanB5RHg4ek1XMktDcUFuWVF3MXpyWkpyRzM4U1hxMnNuWWdUbkp6Vl80RFRDcGRnWkp3OFJMWlpLNGpWNDQtWm5fNUdnRHQxSNIB1AFBVV95cUxQSkptWVlhZkUtbXlKV29QSmpINzgyTDRMR1AxZThnTXY2VzZVdGoxUUtnZE1jQkhiM2lEeHd5cDE0dEJ4ZG83RjAxUWFEblZJNFVuTjBEYmlMbHlrajFmZkRkUjZuQWlnejFsOFhPM1FsY2NaRUR1clVTdlkyZTk5bkk4MzNhMno3V0JLanB5RHg4ek1XMktDcUFuWVF3MXpyWkpyRzM4U1hxMnNuWWdUbkp6Vl80RFRDcGRnWkp3OFJMWlpLNGpWNDQtWm5fNUdnRHQxSA?oc=5",
             "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0xYeTF5RDBOWUUwY01rRzlRamE4VVJ0MTJ2WE5nLWxzRnA1Y1NBQzdUNHNyeE83azBGM1F0NVEyZnBDcjRCNlM0TkpJTGFqVUd1TmlvYXhhaFI4TVFDSTYyc2FzaXd6bzhnS2twNGo5UjFrSnpZTzBWUUZMVkJDdldndWo5TDJxV3Y0VkhLY29YZC1HaV9ZcWl5MllrVXJfYjQwTFM5blp0cWc5U3pXTnRXZU9SY3otdGxrNDBpdDhXZXNrTXV5VnUxNnAtUQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government leaders oversaw fresh energy agreements involving Petrobras and international suppliers. State officials managed industrial plans across fifteen domestic refining and gas projects. Local authorities supervised maritime operations and deepwater trials.",
-        "i": "State stakeholders oversaw commercial developments involving the state-controlled enterprise Petrobras. Policymakers monitored the progression of 15 domestic refining and logistics tenders. Federal oversight touched upon both international import channels and deepwater offshore trials.",
-        "a": "State oversight intersected with corporate capital allocation as Petrobras advanced international off-take deals and domestic tenders. Regulators tracked the pipeline of 15 refining and gas projects alongside deepwater technical trials. State-backed energy policy continued to balance import security with offshore production expansion.",
-        "sources": {}
+        "b": "No political updates were reported for Brazil today.",
+        "i": "No political developments were reported in Brazil.",
+        "a": "No political metrics or administrative updates were released for Brazil."
       },
       "timeline": [
         [
-          "14 Sep 2026",
-          "Sempra Infrastructure signed a 20-year liquefied natural gas deal with Petrobras."
+          "15 Sep 2026",
+          "Sempra announced a twenty-year liquefied natural gas supply deal with Petrobras."
         ],
         [
           "15 Sep 2026",
-          "Petrobras lined up 15 refining, logistics, and gas projects to be contracted."
+          "Petrobras awarded a deepwater pipe contract to Strohm and a vessel agreement to SeaLoading."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Pipeline disruption hits Saudi oil output and markets",
+      "sub": "Pipeline attacks hit Saudi oil output and Aramco investments",
       "ind": [],
       "stories": [
         {
-          "t": "Pipeline Shutdown Drives OPEC Basket to $123",
-          "src": "streamlinefeed.co.ke · EnergyNow.com",
-          "b": "The OPEC basket is a group measure of crude oil prices from member nations. The OPEC basket reached $123 after a Saudi pipeline shut down. A pipeline is a long tube that carries oil across the land. The head of Aramco warned that 1 billion barrels were lost. This loss will slow the recovery of the oil market.",
-          "i": "The OPEC basket reached $123 following a Saudi pipeline shutdown. The chief executive of Saudi Aramco warned that the loss of 1 billion barrels will slow the market recovery. A blocked Hormuz Strait threatens catastrophic consequences for global energy supplies.",
-          "a": "The OPEC basket printed at $123 following a domestic infrastructure outage. Aramco leadership quantified lost supply at 1 billion barrels, identifying a severe bottleneck for market clearing. Persistent disruption around the Hormuz Strait creates tail risks for spot pricing.",
+          "t": "Attacks Hit Pipeline and Reduce Crude Output",
+          "src": "EnergyNow.com · streamlinefeed.co.ke",
+          "b": "An oil pipeline is a long tube that carries oil across the ground or under the sea. Physical attacks hit the East-West pipeline in Saudi Arabia and reduced the output of crude oil. The CEO of Saudi Aramco warned that one billion barrels of oil were lost. The OPEC basket of oil prices rose to $123 per barrel after the pipeline was shut.",
+          "i": "Attacks damaged the East-West pipeline in Saudi Arabia and disrupted crude output. The CEO of Saudi Aramco stated that one billion barrels were lost, which will slow the recovery of the oil market. The OPEC basket price reached $123 per barrel following the pipeline shutdown.",
+          "a": "Attacks forced a shutdown of the East-West pipeline and cut Saudi crude output. The Saudi Aramco CEO quantified the lost volume at one billion barrels, warning of a protracted oil market recovery. The OPEC basket subsequently touched $123 per barrel.",
           "links": [
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVc4TmVyYlFMNUNfM0FiaXgyREtWcUtCQnNmWlVYMEJUYWZoVXBGMVMxS2lkZmNnN2d3NUp4VW9HUlZTTmlKUmpacFZmNzE3YmFqV21aeEtPQVVocTMxZGtQdnlJOEowZjdKQVFlTHdxckJHM3FZenRUTXN0Q0p0ZG1fR2N2eTAtN0pWTk0zbnhCeHAzZjhVWGQxd0hUWDBwaTlWaVQxRVlSRm9jY0RV?oc=5",
             "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0N4LWRiRktUX0picFU2aGg2M0UySGVhdXdMWVE3d3k4cEpzOGI5VnFSbjFtMjNvOE54b3dWd21tMlpXWXAzMFJUZGxaOHBKd1o4c3NiOVFmS1Zuem42SUktb3FPbkwzWWFFRXd6RERFZzVyazFmdG5ySk9fbWFTVWxCdC1ENDNvUl9ES2pn?oc=5",
             "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlNKRFVVb0FuZUdQM2E5WVl3TFlHRzRpRFJja3dlT1lJYlItMm5DbFNrR3pRWm9TWTE0MDhreTdDS2NoTUNPbGRoeEs0MFZITDg2YWRZZTQ0dXhXQUVoeklhbTVNa003bVp2aDVhZUNxTHNLdlJ6MkZTVWhtM25oUk9oQm1oeUY4Zk5PV1JZUjJFQjBqYUZ3RXVlQllWbFlVM0E?oc=5"
           ]
         },
         {
-          "t": "Aramco Backs Tech Startup and Expands Business",
-          "src": "Yieh Corp. · TradingView",
-          "b": "Wa'ed Ventures is the venture capital arm of Aramco. Wa'ed Ventures backed a $31m funding round for BRKZ, which is a Saudi tech startup. BRKZ supplies the construction industry. Aramco also expanded its business with Vallourec for oil country tubular goods.",
-          "i": "Wa'ed Ventures participated in a $31m funding round for Saudi technology startup BRKZ. Aramco also broadened its oil country tubular goods business with Vallourec. Construction supplier funding rounds continue to receive direct support from state-linked energy entities.",
-          "a": "Wa'ed Ventures deployed capital into a $31m financing round for procurement platform BRKZ. Aramco concurrently expanded its supply chain agreements for oil country tubular goods with Vallourec. Strategic investments target domestic infrastructure and industrial capacity building.",
+          "t": "Aramco Backs Technology Funding and Supply Deals",
+          "src": "TradingView · ارقام · European Coatings",
+          "b": "Wa'ed Ventures which is a venture capital arm of Saudi Aramco backed a $31 million funding round for a technology startup named BRKZ. East Pipes secured a supply contract worth 20 million Saudi Riyals with Saudi Aramco. Dow is also considering an exit from a chemical joint venture with Saudi Aramco.",
+          "i": "Wa'ed Ventures participated in a $31 million funding round for Saudi technology startup BRKZ. East Pipes secured a 20 million Saudi Riyal supply contract with Saudi Aramco. Meanwhile, Dow considered an exit from its chemical joint venture with Saudi Aramco.",
+          "a": "Wa'ed Ventures backed a $31 million funding round for technology startup BRKZ. East Pipes secured a 20 million Saudi Riyal supply agreement with Saudi Aramco. Concurrently, Dow weighed an exit from its chemical joint venture with Saudi Aramco.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMnZGSnRzNWNROFFCbHFBQzNjZEUweWhKZ3dQSFprMlNrcEVPak5oX3pLdG5PUUYwRXMtUEs1NjhCTk50emRfWkJ1RHcwNVVzSVRuZk9HSzlWT0d2VWRZM0RRXzlLNTBBNHc3LUpLM05EZzBkSFlQVXo4RXBpa1ZZOV96RVFFeEQ3QWc?oc=5",
-            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1VucmZrcjFKU3BmZVA5NHAxdDlBRGpXT2huTkZmeWVFSjJHM01VSmdfcVFNTjZZY1E3bzBPZG5udEdnbzBMNGY3cVRFSlYwcXV4OHlDNXRMMnpMamFpZnNFcEdVcHJ1TUYtNUNwTDEzcldrZ0g3VUpTSDBZVVBvcGMzMzJ4eGNVWFVOUklCWFlSRk0yazlWdDhnTUJLQ01hSVpZU1dRTjRYaElyM3hFeGVxcWFOWEk0Sk1QY0lnWnBGVWc2ek1aMTVHZkhIb1Nnb19TMF9KQmF6b2xfeHVZdg?oc=5"
+            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1VucmZrcjFKU3BmZVA5NHAxdDlBRGpXT2huTkZmeWVFSjJHM01VSmdfcVFNTjZZY1E3bzBPZG5udEdnbzBMNGY3cVRFSlYwcXV4OHlDNXRMMnpMamFpZnNFcEdVcHJ1TUYtNUNwTDEzcldrZ0g3VUpTSDBZVVBvcGMzMzJ4eGNVWFVOUklCWFlSRk0yazlWdDhnTUJLQ01hSVpZU1dRTjRYaElyM3hFeGVxcWFOWEk0Sk1QY0lnWnBGVWc2ek1aMTVHZkhIb1Nnb19TMF9KQmF6b2xfeHVZdg?oc=5",
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lRHE3U3FzMUxJOEdKWmxSZ1ByVFMxUXBkdGlMWEdiaW1UV1A2YkhwdHZUMHdmT2FfSGctS0lSOXgzajN3TDJIRnZCQU9HRjhhbW82cGx0dE11Q3hYSzllaUVZd1J1Z09HRUE?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTMtXzBSeTZoV0N1Y0J5QmFTOGpST3l4RldIdFJsdDNwSjJXTWJJdm5HMGd4eHliZ0F3SGtfQmlSZXVzSDFsX2VOX0U1ZGFjV09NdXVHZjNubGtybGNyY2hBb0F6cGFDeDhiZk9hczd3MmVBUHVGNjBpUEZmYjNSZXdUeEVIRHpUMkJKUkxJWHQ0TXpURVJ5dW5uLTNKcFFIdEN4U2pVU1ZQZ19hUG5MeVdoTDdHVkdfNG8wc1Nfbw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Dow is considering an exit from its chemical joint venture with Saudi Aramco. Aramco is also bringing a shale gas revolution to the Arabian Desert. State energy policy shapes industrial partnerships across the region.",
-        "i": "Dow is considering an exit from its chemical joint venture with Saudi Aramco. Saudi Aramco continues to develop shale gas extraction across the Arabian Desert. Industrial realignment coincides with shifting international partnership strategies.",
-        "a": "Dow evaluated a potential divestment from its chemical joint venture with Saudi Aramco. Aramco concurrently advanced unconventional shale gas extraction initiatives within the Arabian Desert. Portfolio rationalisation by foreign partners alters domestic petrochemical joint venture dynamics.",
-        "sources": {
-          "0": {
-            "outlet": "European Coatings",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTMtXzBSeTZoV0N1Y0J5QmFTOGpST3l4RldIdFJsdDNwSjJXTWJJdm5HMGd4eHliZ0F3SGtfQmlSZXVzSDFsX2VOX0U1ZGFjV09NdXVHZjNubGtybGNyY2hBb0F6cGFDeDhiZk9hczd3MmVBUHVGNjBpUEZmYjNSZXdUeEVIRHpUMkJKUkxJWHQ0TXpURVJ5dW5uLTNKcFFIdEN4U2pVU1ZQZ19hUG5MeVdoTDdHVkdfNG8wc1Nfbw?oc=5"
-          },
-          "1": {
-            "outlet": "EnergyNow.com",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHBpVjh3RExZNUR5UW1pV0tSajdWbHhPSzZ1THVaN3I4QjJrQzFRZVY3QUpEajdOSFdjeFZHLVJTS21lWWhIZTRUYmlrY29yc0JBN01waWh2ZkptZ2dkOG54Y2Z1anFadHVsQXVxRmFtdkFyZlE3cEZhMkUtUjlFVTc4a2JhY0hNQTNfLUpMMkN4RlpwblE?oc=5"
-          }
-        }
+        "b": "State news agencies reported on the pipeline attacks and the reduction in oil output. Saudi Aramco operates as a state-backed oil company in the kingdom.",
+        "i": "State news agency reports detailed the physical attacks on the East-West pipeline and the resulting drop in output. Saudi Aramco managed ongoing industrial expansions and joint venture reviews amidst the infrastructure disruptions.",
+        "a": "Official state media disclosures detailed the kinetic strikes on critical infrastructure assets. The disruption impacted state-directed industrial projects and supply chain partnerships involving Saudi Aramco."
       },
       "timeline": [
         [
-          "15 Sep 2026",
-          "Aramco CEO warns of lost barrels and Hormuz Strait risks"
-        ],
-        [
-          "15 Sep 2026",
-          "Dow considers exit from Saudi Aramco chemical joint venture"
-        ],
-        [
-          "15 Sep 2026",
-          "Wa'ed Ventures backs $31m funding for BRKZ"
+          "15 Sep",
+          "Saudi Aramco CEO warns that one billion barrels of oil have been lost."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Dangote refinery IPO opens and currency trading shifts",
+      "sub": "Nigeria inflation drops, currency moves, and IPO opens",
       "ind": [],
       "stories": [
         {
-          "t": "Dangote Refinery Launches Initial Public Offering",
-          "src": "findarticles.com",
-          "b": "An initial public offering is when a private company sells shares to the public for the first time. The Dangote Refinery started its initial public offering on September 15, 2026. Everyday retail investors can buy into the offering with a minimum amount of 5,250 naira. This allows small investors to own a piece of the massive refinery business. The initial public offering officially opened on September 15, 2026.",
-          "i": "The Dangote Refinery opened its initial public offering on September 15, 2026. Retail investors face a minimum entry threshold of 5,250 naira to participate in the share sale. This primary market mechanism allows public participation in the large-scale refining enterprise. The initial public offering launched on September 15, 2026.",
-          "a": "The Dangote Refinery equity debut commenced on September 15, 2026, establishing a retail participation floor at 5,250 naira. This primary issuance broadens the domestic investor base via accessible ticket sizes. The capitalization event initiates public trading participation in the refining asset. The initial public offering opened on September 15, 2026.",
+          "t": "Nigeria Inflation Falls",
+          "src": "Daily Report Nigeria",
+          "b": "Nigeria saw its <span class='term' data-t='inflation'>inflation</span> rate drop to 15.39% in August. Inflation is the speed at which the prices of everyday items like food go up over time. When this rate falls, it means prices are rising more slowly than before. The official figures were released on 15 September 2026. The data tracks changes in the cost of living for consumers across the country.",
+          "i": "Nigeria recorded an <span class='term' data-t='inflation'>inflation</span> print of 15.39% for August. This metric measures the annualized rate of price growth across a standard consumer basket. The drop indicates a deceleration in consumer price pressures compared to prior months. Official reports released on 15 September 2026 confirmed the new figure. Analysts monitor this indicator closely to gauge the purchasing power of the local currency.",
+          "a": "Nigeria reported an <span class='term' data-t='inflation'>inflation</span> reading of 15.39% for August. The deceleration eases real yield pressures across domestic debt instruments. Market participants are recalibrating term premium assumptions following the release on 15 September 2026. The print alters the monetary policy reaction function for upcoming Central Bank of Nigeria decisions. Real interest rates improve as the headline figure contracts.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxbVVFT25qa3Bic3V5bFRYeW1PVW1TOHZuV3RrZzJ6S040cGRjdzlpeHdXRVVjYWlvZXJIa2diaDVoVDhJdXNYcXpabkxFeExFbHFhSS1pZTN5d0QzTzlJWDBIM0ZQcWNvcmtEa3dUU095ZktWNlpnZkxiWdIBgwFBVV95cUxOZ2xCNjJRM0NYNU1MTHZFOEM1TTRIT3BKeS1jVFc4YmxvcV9YZVJjY2pQTlpVVGpRUnBqVGVDaDVIVXh5OTFKTXpGeG5CVGp1NjNIRjhiOEFWd3JnZTRrY1JhY085bS1HNVZuNW1OdzJyVk5GQmNjUEI5cTBFcDRhVU1HTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGFmYmpBbEJ4eHdEUG5faU1pWFhDbkNvSHZiYU03ZTd6ako1dnc1OV9iYlR1YXA0cVNBeXdZb0J0VDlwc2FMaGlmeEVsT3U1OWNiVkhYYmdPalk0bjl6WHB2b1JaaEVvdW5SZnlNRXoydHlOR05wRVN2OE9YU2ppcUp3?oc=5"
           ]
         },
         {
-          "t": "Naira Moves Against Dollar at NAFEM Window",
-          "src": "Arbiterz · Tribune Online",
-          "b": "The naira is the official money used in Nigeria. It traded at 1,329 naira per United States dollar at the NAFEM trading window on September 15, 2026. Currency markets let people trade different types of money. The exchange rate tells you how many naira you need to buy one dollar.",
-          "i": "The naira traded at 1,329 against the dollar at the NAFEM window on September 15, 2026. Currency trading sessions reflect shifting supply and demand dynamics for the foreign exchange reserves. The official exchange rate settled at 1,329 naira per dollar on September 15, 2026.",
-          "a": "The official foreign exchange rate printed at 1,329 naira per dollar at the NAFEM window on September 15, 2026. Interbank liquidity flows continue to dictate spot pricing within the managed float architecture. The exchange rate closed at 1,329 naira to the dollar on September 15, 2026.",
+          "t": "Naira Exchange Rate Adjustments",
+          "src": "Legit News · Nigerian Bulletin · arbiterz.com",
+          "b": "The Nigerian naira strengthened to N1,329 against the US dollar at the NAFEM window on 15 September 2026. The Central Bank of Nigeria also released fresh exchange rates for other major currencies like the pound and the euro. These rates show how much local money is needed to buy foreign money. The currency had previously traded around N1,540. Political figures like Kenneth Okonkwo noted that politician Atiku plans to scrap the current naira floating exchange rate policy if elected in 2027.",
+          "i": "The naira strengthened to N1,329 per dollar at the NAFEM window on 15 September 2026. The Central Bank of Nigeria published updated rates for the dollar, pound, and euro, superseding previous levels around N1,540. Meanwhile, political opposition figures stated that Atiku would dismantle the floating exchange rate policy implemented by Tinubu if victorious in 2027. Foreign exchange liquidity and official rate interventions continue to drive volatility in the currency market. Market participants track these official rate sheets to price foreign exchange transactions.",
+          "a": "The naira closed at N1,329 against the US dollar at the NAFEM benchmark on 15 September 2026. The Central Bank of Nigeria published revised administrative rates for major crosses, moving away from previous levels near N1,540. Political commentary from Okonkwo signaled that presidential candidate Atiku intends to dismantle Tinubu's floating exchange rate regime if elected in 2027. Arbitrage channels between parallel and official windows remain sensitive to these structural policy threats. Implied volatility in non-deliverable forwards reflects ongoing skepticism regarding exchange rate sustainability.",
           "links": [
-            "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTBEUVVldS1wcGlmRm1jaDdnYlhHLTBhczlsUTZVTjRDczd6MUJhMjNlT0VWMDA0OEROZDlaem5IRmNsYm1ieUItYUhPVHNQMkhMN3hBeE5BaThvQUdDdkZfSF9RbW5IcElFVk9aOW1CTlp4VDg3U252Vlhad01fUE9xLTlSd1paNWxjbmFfSmQ5MWJocVpVellLV2FQWFZpcmZ6RHlzalN6M2gxalg1M0lVZXdRZ01QQUFmWTcyVk1TMFBpWTJ3?oc=5",
-            "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vbS1GbmJYUEZtUE12c0tDVXpkS2w4Q2FjMU1MN2laSHFNX2M2VldrYUtHRkdkY2RFeHh6VmZhWVUtU0hLb21Gd2NYWThYaVctX3I1QktoU2pHRTNTYi1sSjE3QkUtajYySFBUOXJjR245dlphMnVidFRTUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXRyY3h0a3NwaHBfNTF1SXphTWk3SjRFSUE1M3drNmtoZ3hxQjVNM2J4aGNaUldqbFdpNHNZbllOcXZCRVR3TmdDaVdoMlBSNVN0OFFBWEVKaThOdWJWcUJodW5FTlVZUGJZVEFRa3BwN3dLWU9kTUM3UllWanhGU1AzOFNVYTlxNFBQRU41QUxORWJHMV9DS2tzUDZuTFBJMTFWd0ZSM1AyZlVIMzFveXo5M2FaQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnQ4NzVCZzVnaDg1dm5tZUFjYy1adExqNWp5Tjc2TDVpR0lWTjViX2JaQ3NJb2ZmM3pQdmstckhHVXRiVzJmdUpYX0lzaTl1ZG1yTk1hVHZJTVN5RmdONTJ0MVdJbHJZOFE5Sy1UXzZEdk9jSXFDUHFvcXhoTml0OWMtSUw1YXJtZlBjem9UQ1N0BjNlT29fR1dNb3RTZlFhLWh3SQ?oc=5",
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTBEUVVldS1wcGlmRm1jaDdnYlhHLTBhczlsUTZVTjRDczd6MUJhMjNlT0VWMDA0OEROZDlaem5IRmNsYm1ieUItYUhPVHNQMkhMN3hBeE5BaThvQUdDdkZfSF9RbW5IcElFVk9aOW1CTlp4VDg3U252Vlhad01fUE9xLTlSd1paNWxjbmFfSmQ5MWJocVpVellLV2FQWFZpcmZ6RHlzalN6M2gxalg1M0lVZXdRZ01QQUFmWTcyVk1TMFBpWTJ3?oc=5"
+          ]
+        },
+        {
+          "t": "Dangote Refinery IPO Launches",
+          "src": "findarticles.com",
+          "b": "The Dangote Refinery initial public offering opened on 15 September 2026. An initial public offering is when a private company sells shares to the public for the first time. Retail investors can participate with a minimum amount of 5,250 naira. This gives everyday citizens a chance to own a piece of the massive refining business.",
+          "i": "The Dangote Refinery initial public offering opened on 15 September 2026. Retail investors can enter the primary offering with a minimum subscription of 5,250 naira. This primary equity issuance allows domestic public participation in the company's capital structure. Bookrunners set the retail tranche minimum to encourage broad local participation.",
+          "a": "The Dangote Refinery initial public offering commenced on 15 September 2026. The transaction establishes a retail entry threshold of 5,250 naira for public subscribers. Institutional allocations and equity valuation metrics will set the capitalization baseline for the downstream oil facility. Syndicate banks are managing the order book as domestic liquidity targets the industrial listing.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxbVVFT25qa3Bic3V5bFRYeW1PVW1TOHZuV3RrZzJ6S040cGRjdzlpeHdXRVVjYWlvZXJIa2diaDVoVDhJdXNYcXpabkxFeExFbHFhSS1pZTN5d0QzTzlJWDBIM0ZQcWNvcmtEa3dUU095ZktWNlpnZkxiWdIBgwFBVV95cUxOZ2xCNjJRM0NYNU1MTHZFOEM1TTRIT3BKeS1jVFc4YmxvcV9YZVJjY2pQTlpVVGpRUnBqVGVDaDVIVXh5OTFKTXpGeG5CVGp1NjNIRjhiOEFWd3JnZTRrY1JhY085bS1HNVZuNW1OdzJyVk5GQmNjUEI5cTBFcDRhVU1HTQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Politicians discussed the current monetary policies on September 15, 2026. Kenneth Okonkwo stated that Atiku would remove the floating exchange rate policy introduced by Tinubu if he wins the presidency. Meanwhile, Peter Obi stated on September 15, 2026, that he holds his billions in naira rather than in dollars.",
-        "i": "Political figures debated currency policy frameworks on September 15, 2026. Kenneth Okonkwo announced that Atiku plans to dismantle the naira float policy implemented by Tinubu. Separately, Peter Obi declared on September 15, 2026, that his billionaire status is denominated in naira instead of foreign currency.",
-        "a": "Political opposition actors targeted the central exchange rate mechanism on September 15, 2026. Kenneth Okonkwo outlined plans for Atiku to scrap the floating naira regime established by Tinubu. Concurrently, Peter Obi emphasized his domestic asset denomination on September 15, 2026, stating his billionaire net worth exists entirely in naira."
+        "b": "Politicians are debating major economic rules in Nigeria. Atiku's camp wants to remove the floating exchange rate policy put in place by Tinubu if they win the 2027 election. These arguments shape how citizens view the future of the local currency.",
+        "i": "Political opposition figures are targeting the current administration's exchange rate framework ahead of the 2027 election. Okonkwo stated that Atiku intends to dismantle Tinubu's naira float policy. These policy debates form a central pillar of upcoming electoral campaigns.",
+        "a": "Electoral positioning ahead of 2027 centers on structural exchange rate policy divergence. Okonkwo's statements indicate that Atiku's platform includes the outright abandonment of Tinubu's floating exchange rate framework. Currency regime stability remains a focal point for political rhetoric and macroeconomic planning."
       },
       "timeline": [
         [
-          "14 Sep 2026",
-          "The dollar to naira snapshot rate was recorded for the preceding day."
+          "15 Sep 2026",
+          "August inflation drops to 15.39%"
         ],
         [
           "15 Sep 2026",
-          "The Dangote Refinery initial public offering opened with a 5,250 naira retail minimum."
+          "Naira trades at N1,329 per dollar at NAFEM"
         ],
         [
           "15 Sep 2026",
-          "The naira traded at 1,329 against the dollar at the NAFEM window."
+          "Dangote Refinery IPO opens with 5,250 naira minimum"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Company updates and currency tracking in Australian markets",
+      "sub": "Corporate earnings, operational updates, and strategic project reviews",
       "ind": [],
       "stories": [
         {
-          "t": "Fleetwood Updates Accommodation Strategy",
-          "src": "Kalkine",
-          "b": "Fleetwood is a company listed on the stock market under the code FWD. It shares updates regarding its accommodation strategy and business reshaping. Public markets track these operational changes to gauge company performance. The announcement was issued on 15 September 2026.",
-          "i": "Fleetwood, trading as ASX:FWD, released an update on its accommodation strategy and business reshaping. Listed entities frequently issue strategic reviews to update <span class='term' data-t='gilt'>gilts</span> or equity investors on operational pivots. The update crossed newswires on 15 September 2026.",
-          "a": "Fleetwood (ASX:FWD) detailed its accommodation strategy and business reshaping initiatives. Equity analysts evaluate these strategic milestones against prior margin guidance to reassess enterprise valuation multiples. The corporate update was published on 15 September 2026.",
-          "gloss": "gilt",
+          "t": "GWA Group Reports FY2026 Results and Housing Market Exposure",
+          "src": "kalkine.com.au",
+          "b": "GWA Group published its FY2026 financial results. The company highlighted its exposure to the housing market. Investors closely watched the reported figures for dividend growth. The update focused on overall operational performance.",
+          "i": "GWA Group released its FY2026 figures. Management addressed housing market exposure within the portfolio. The results detailed corporate earnings and distribution metrics. The update provided clarity on the financial trajectory for shareholders.",
+          "a": "GWA Group detailed its FY2026 results with specific emphasis on housing market exposure. The corporate update framed distribution growth against prevailing macro headwinds. Market participants parsed the earnings release for asset yield durability.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMG85RExXeFlid0l2andiWEFNcUN2SzJSTldwQW5HV3dvNlZUSVVyamxZNjc0RWx1WnJQTm8xY3kzVEt6ZWhMSnRXT2NSVk42YUNyalVBWTlBVXNMM0tscjZZQmY4TWZzM2NvUmplQ0xCWVVUTC15a2lhVjc1U2pJbHVzNTRDbmRSQUdxWmdLMjRKSzc4MVdjV2RNSldlaVZRWVhXelROaGNsZw?oc=5"
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbTFMMWpjVUo2ck4xdk5Cd2NsS0RkbVNHZ1o5Tk9ER0VDeWYtM2hDalpEOW93VHJHRE8xSmV4a05TclBHeGdBWTYzc1A1V01LV3Z1cVJEeGctcHUzQ0FEeW5oVi1MZWRJbGdMUXVFN2tOTlhxWkhsb01TOWlGTGZxWEN4MkUxS1NYM3RDQnpmZnlndW9hS0xrU2xZNHVWS0wwLTZpbzFYbkhfWEw5VmJPSFduR2hCeVktc0k3UWZWWVloWXRDUmhF?oc=5"
           ]
         },
         {
-          "t": "Australian Dollar Eyes Resistance Against US Dollar",
-          "src": "fxstreet.com",
-          "b": "Currencies are money traded between different countries, like trading Australian dollars for US dollars. Foreign exchange analysts at UOB look for the Australian dollar to break past the price level of 0.7100 against the US dollar. This currency tracking helps international traders understand exchange rates. The report was published on 15 September 2026.",
-          "i": "UOB foreign exchange analysts are targeting a break of the 0.7100 level for the Australian dollar against the US dollar. Currency pairs reflect relative economic strength and <span class='term' data-t='inflation'>inflation</span> differentials between nations. This technical outlook was released on 15 September 2026.",
-          "a": "UOB strategists highlight potential upside momentum for the Australian dollar targeting a decisive break above 0.7100 against the US counterpart. Foreign exchange flows depend on yield spread dynamics and broader risk sentiment. The currency note was issued on 15 September 2026.",
-          "gloss": "inflation",
+          "t": "Chalice Mining Advances Gonneville Project Milestones",
+          "src": "kalkine.com.au",
+          "b": "Chalice Mining progressed its Gonneville project. The firm advanced exploration activities. Management also moved forward with approval milestones. The update outlined operational steps for the site.",
+          "i": "Chalice Mining advanced the Gonneville project through targeted exploration. The company achieved specific regulatory approval milestones. Operations at the site progressed according to the corporate schedule.",
+          "a": "Chalice Mining advanced the Gonneville project schedule via exploration catalysts and regulatory milestones. The operational update quantified progress on project development timelines. Investors evaluated the risk adjustments associated with ongoing approvals.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjJocFJRRndjRjRnZlNkUVlhdlRPSkpmZWw5QzR6WHNpTWRpcDFSbFVUZDlXR2hRUWM4VG9fS1RrWlNqUGlUc3hTYzVOVTU3LV9mZGhZTUpzWTJ1U3pZR18zMndLMWZPcThDVkl6UjdsZXB2MEs3WG1zb1VMT3BmM1ZhLWVEWENUVGhObThNbWJJcklOWnJEck55LWVVQ3JiVzhvSGdxSGJQUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzN4UVBNczh6TWdiWHlraXkzVE1zR05yNmhxY3ZYYlNjcmpCSXVkUktPZmlsd0Y0SzRJdkVCTGlKX3ZValNVdlg1WnJVQVRkWUZXaHJqMTJDX3NIdHB1Q2cweWZ1SWtpVWQtVXl0b1VoeFcxbEJkVmxBX3NWMzIzN1NmZnZqNk8zcHA2SVNvV1Z1MzdfQnc4U1RTbDd4c1doTlV0WmxINndvUFZEQVJ5Y3NtaURuUk5zMWNzUU5DcG9qcWNTWm83ZkZNalg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No government policy updates or political announcements were recorded in the market news sources on 15 September 2026.",
-        "i": "No fiscal or legislative policy developments were reported across Australian market feeds on 15 September 2026.",
-        "a": "Macroeconomic policy announcements remained absent from the institutional news flow on 15 September 2026."
+        "b": "Market updates for Australian companies focused on business results. Firms released financial numbers and project updates. Sector reports covered housing, mining, and travel demand.",
+        "i": "Australian enterprises released operational updates covering earnings and project milestones. Corporate announcements spanned multiple sectors including mining and real estate. Regulatory approvals and distribution profiles dominated the market flow.",
+        "a": "Australian corporate disclosures centred on asset performance and project approvals. Filings detailed operational metrics across mining, real estate, and industrial sectors. Market participants assessed strategic updates against prevailing economic conditions."
       },
       "timeline": [
         [
           "15 Sep 2026",
-          "Fleetwood issues an accommodation strategy and business reshaping update."
+          "GWA Group published FY2026 financial results."
         ],
         [
           "15 Sep 2026",
-          "UOB publishes an exchange rate outlook targeting a 0.7100 break for the Australian dollar against the US dollar."
+          "Chalice Mining reported progress on the Gonneville project."
+        ],
+        [
+          "15 Sep 2026",
+          "Tourism Holdings Rentals issued a FY2026 operational update."
+        ],
+        [
+          "15 Sep 2026",
+          "Cogstate released its September 2026 clinical trial update."
         ]
       ]
     }
