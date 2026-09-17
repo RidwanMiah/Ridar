@@ -1,541 +1,588 @@
 {
-  "generated": "2026-09-17T15:28:10.953Z",
+  "generated": "2026-09-17T16:26:20.840Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "17 September 2026",
-    "headline": "The Federal Reserve raised interest rates as the Bank of England held its benchmark rate and halted long-dated sales.",
+    "headline": "US stocks rally as oil and yields fall while the Bank of England holds rates.",
     "lede": {
-      "b": "The Federal Reserve is the central bank of the United States, which means it sets the official cost of borrowing money. It raised interest rates for the first time in years to slow down inflation, which is when the general price of goods and services goes up over time. US Treasury yields, which are the returns paid on government loans, fell after this announcement. Meanwhile, in the United Kingdom, the Bank of England kept its benchmark interest rate at 3.75% and stopped selling long-dated gilts, which are bonds issued by the government to raise money. These decisions caused government bond prices to rally and yields to fall as institutional demand for UK debt surged.",
-      "i": "The Federal Reserve executed a rate hike to combat rising <span class='term' data-t='inflation'>inflation</span>, causing US Treasury yields to drop and commercial borrowing costs to rise. Share indexes like the S&P 500 and Nasdaq advanced despite the tighter monetary stance. Simultaneously, the Bank of England maintained its benchmark <span class='term' data-t='interest rate'>interest rate</span> at 3.75% while halting long-dated <span class='term' data-t='gilt'>gilt</span> sales. This sudden suspension of asset disposals triggered a robust bond rally across the curve as institutional demand for sovereign debt surged.",
-      "a": "The Federal Reserve executed its first <span class='term' data-t='interest rate'>interest rate</span> hike in years to curb <span class='term' data-t='inflation'>inflation</span>, prompting a compression in US Treasury yields and an advance in equity benchmarks like the S&P 500 and Nasdaq. Concurrently, the Bank of England held its benchmark rate at 3.75% and suspended long-dated <span class='term' data-t='gilt'>gilt</span> disposals as part of its quantitative tightening recalibration. The sudden halt to asset sales spurred a sharp curve-wide bond rally driven by institutional demand for sovereign debt."
+      "b": "The Federal Reserve raised interest rates, which caused an initial drop in stock prices. Markets later recovered as oil prices and Treasury yields, which are returns paid on government loans, cooled down. The Nasdaq index climbed back up. In the United Kingdom, the Bank of England kept borrowing costs the same. It also changed how it sells its government debt, called gilts.",
+      "i": "The Federal Reserve hiked interest rates, triggering an initial equity selloff before markets recovered. Stocks rallied as oil prices and Treasury yields cooled down, which reduced corporate borrowing costs. Meanwhile, the Bank of England maintained borrowing costs while altering its <span class='term' data-t='gilt'>gilt</span> sales strategy. Policymakers halted long-dated debt sales to rewrite their quantitative tightening plan.",
+      "a": "The Federal Reserve hiked rates, prompting an initial equity drawdown before indices rebounded on cooling oil prices and lower Treasury yields. Lower yields compressed corporate borrowing costs, supporting broad equity gains despite earlier <span class='term' data-t='inflation'>inflation</span>-linked pressures. Concurrently, the Bank of England held rates while halting long-dated <span class='term' data-t='gilt'>gilt</span> sales to restructure its quantitative tightening parameters."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The Federal Reserve raised interest rates, and share indexes like the S&P 500 advanced.",
-        "i": "The Federal Reserve delivered a rate hike that lowered Treasury yields and pushed up commercial borrowing costs.",
-        "a": "The Federal Reserve executed a rate hike that compressed Treasury yields and lifted the S&P 500 and Nasdaq."
+        "b": "US stocks rallied after oil prices and Treasury yields cooled down.",
+        "i": "US equities rallied as cooling oil prices and lower Treasury yields reduced corporate borrowing costs.",
+        "a": "US equities rebounded as sliding Treasury yields compressed corporate borrowing costs and offset earlier rate-hike pressures."
       },
       {
         "c": "United Kingdom",
-        "b": "The Bank of England held its interest rate at 3.75% and stopped selling long-dated gilts.",
-        "i": "The Bank of England maintained its interest rate at 3.75% and halted long-dated gilt sales, sparking a bond rally.",
-        "a": "The Bank of England held rates at 3.75% and suspended long-dated gilt sales, triggering a sovereign debt rally."
+        "b": "The Bank of England kept borrowing costs the same and changed how it sells debt.",
+        "i": "The Bank of England maintained borrowing costs and altered its gilt sales strategy.",
+        "a": "The Bank of England held rates and paused long-dated gilt disposals to overhaul its quantitative tightening framework."
       },
       {
         "c": "Germany",
-        "b": "German inflation rose to 2.9% because energy costs climbed, and the DAX index hit a one-week high.",
-        "i": "German inflation accelerated to 2.9% on higher energy costs as the DAX index reached a one-week high.",
-        "a": "German inflation rose to 2.9% driven by energy costs, while the DAX index climbed to a one-week high."
+        "b": "German stocks went up and annual inflation rose to 2.9%.",
+        "i": "The DAX index rose as annual inflation accelerated to 2.9%.",
+        "a": "The DAX advanced to an over one-week high as annual inflation printed at 2.9%."
       },
       {
         "c": "Japan",
-        "b": "Expectations of tightening by the Bank of Japan lifted the yen, and the Nikkei rose 0.53%.",
-        "i": "Expectations of Bank of Japan tightening lifted the yen against the US dollar while the Nikkei gained 0.53%.",
-        "a": "Anticipated Bank of Japan tightening lifted the yen while the Nikkei advanced 0.53% amid easing oil prices."
+        "b": "Japanese households put more money into stocks than into pensions.",
+        "i": "Japanese household stock investments surpassed insurance and pension holdings for the first time.",
+        "a": "Japanese retail asset allocation shifted as household stock investments surpassed insurance and pension holdings."
+      },
+      {
+        "c": "China",
+        "b": "An SDIC Power unit planned a bond sale and carmakers released new SUVs.",
+        "i": "An SDIC Power subsidiary filed to register up to 8 billion yuan in bonds.",
+        "a": "An SDIC Power subsidiary registered up to 8 billion yuan in debt instruments while domestic automakers updated SUV pricing."
+      },
+      {
+        "c": "India",
+        "b": "The Reserve Bank of India sold debt and ran a reverse repo auction.",
+        "i": "The Reserve Bank of India absorbed banking liquidity via a ₹50,000 crore gilt sale.",
+        "a": "The Reserve Bank of India conducted a ₹50,000 crore debt sale and scheduled a ₹25,000 crore open market operation."
+      },
+      {
+        "c": "Brazil",
+        "b": "Petrobras bought African oil blocks and the Selic rate was cut.",
+        "i": "Petrobras acquired a 90% stake in eight offshore oil blocks as Brazil cut the Selic rate.",
+        "a": "Petrobras acquired eight offshore blocks in Côte d'Ivoire while domestic assets reacted to the Selic rate cut."
+      },
+      {
+        "c": "Saudi Arabia",
+        "b": "Saudi Aramco sought fuel cargoes and the OPEC Fund backed a project in Oman.",
+        "i": "Saudi Aramco bid for European fuel cargoes while the OPEC Fund backed an Omani project.",
+        "a": "Saudi Aramco sought Mediterranean fuel cargoes following regional attacks and the OPEC Fund earmarked funding for Oman."
+      },
+      {
+        "c": "Nigeria",
+        "b": "The naira slid against the dollar and retail fuel prices reached N1,430.",
+        "i": "The naira depreciated to N1,430 per dollar at the official NAFEM window.",
+        "a": "The naira settled at N1,329.56 per dollar at the NAFEM window as retail fuel prices reached N1,430."
+      },
+      {
+        "c": "Australia",
+        "b": "Vicinity expanded its equity base and Goldman Sachs disclosed a stake.",
+        "i": "Vicinity launched new securities on the ASX and Goldman Sachs disclosed a Vulcan Energy stake.",
+        "a": "Vicinity expanded its equity base on the ASX and Goldman Sachs disclosed a major position in Vulcan Energy."
       }
     ],
     "thread": {
-      "b": "Central banks around the world adjusted their monetary policies and interest rates today. Stock markets reacted to these policy updates, energy price shifts, and currency movements.",
-      "i": "Central bank policy decisions drove market movements today. Federal Reserve and Bank of England actions influenced bond yields and equity benchmarks globally.",
-      "a": "Cross-border monetary policy adjustments dictated market direction today. Central bank rate decisions and quantitative tightening pivots drove sovereign bond rallies and currency fluctuations."
+      "b": "Central banks and major companies adjusted their financial plans across multiple countries. Interest rates, debt sales, and currency values shifted in different regions. These actions happened as markets reacted to economic data.",
+      "i": "Central banks adjusted monetary policy levers while corporate issuers navigated debt and equity markets. Rate decisions and inflation prints drove distinct asset class reactions globally.",
+      "a": "Monetary authorities balanced rate stances against shifting inflation prints while corporate issuers tested debt and equity capital structures across global markets."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Federal Reserve raises rates and markets react",
+      "sub": "Stocks rally as oil prices and Treasury yields cool",
       "ind": [],
       "stories": [
         {
-          "t": "Federal Reserve Delivers Rate Hike",
-          "src": "TradingView · Wall Street Journal",
-          "b": "The Federal Reserve, which is the central bank that manages the nation's money, just raised its main interest rate for the first time in years. A rate hike makes borrowing money more expensive for everyone. The central bank took this action to fight rising prices across the economy. Stock indexes like the S&P 500 and the Nasdaq jumped higher immediately after the announcement. Treasury yields, which track the interest paid on government debt, fell as the central bank acted.",
-          "i": "The Federal Reserve executed its first rate hike in years to combat <span class='term' data-t='inflation'>inflation</span>. Share indexes including the S&P 500 and the Nasdaq advanced following the decision. US Treasury yields fell as the central bank implemented the tighter monetary stance. Borrowing costs rose across commercial sectors, affecting regional banks and housing markets.",
-          "a": "The Federal Open Market Committee delivered a rate hike to anchor expectations against persistent price pressures. S&P 500 and Nasdaq benchmarks rallied through the session as equities digested the shift. Treasury yields compressed simultaneously, signalling changing duration demand and credibility gains for the central bank. Market participants adjusted equity growth projections while monitoring transmission into credit and housing sectors.",
+          "t": "Federal Reserve rate hike and market recovery",
+          "src": "Axios · Proactive financial news",
+          "b": "The Federal Reserve is the central bank of the United States, which is the official institution that manages the country's money supply and interest rates. The Federal Reserve hiked interest rates this week. This caused an initial stock selloff. Markets later recovered, and the Nasdaq rose as the selloff reversed.",
+          "i": "The Federal Reserve hiked interest rates this week, triggering an initial equity selloff. Markets subsequently recovered from the <span class='term' data-t='inflation'>inflation</span>-linked pressure. The Nasdaq climbed as indices bounced back from the Fed-driven losses.",
+          "a": "The Federal Reserve implemented a rate hike this week, prompting an immediate downside repricing in risk assets. Equities subsequently mounted a recovery as options markets signaled the system could absorb higher Treasury yields. The Nasdaq clawed back its Fed-driven losses as macro volatility subsided.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmVweERUY1lmNEpaMUROa0R5bGVzaElOZjktWm1ESEQ2SFFYYkFNaEFaUF82VUx0d3ZVbUt5d1M4eFRHR0c0MTBlOTJMTWFsZk5hNlhublY5QzYtTU9yNHpObEtTQXpvMWxTaFktTWtUWVltbjJoam1KSTVHRWlUdWVINlZwc0U0bkxoYVdGUk1zQ0pKMUlqcEtMUUQza19VU2I5emM5NVVpMFhzUHJOOHp5b0F5Z3lpWEpWT2tyVDd2b1doX0E?oc=5",
-            "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5"
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUtVSDBnTFpEaUVCYXRtc3Uyb3g1Tjl4ZllBbGFaMUhTTUVaMVFuckZreTlZMGFtMXFRamRzaDhrMHAtVjFnRFpHSWxLeDROc1RZaGVfTWNpM01pN2JmdmFSQWROT0ExbkpQWDN3Nmg0NzBva21zMDN3STdaNk5aanlyTlE?oc=5",
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWS0zdTlhbWQ3LWdDYWVPN0tiY0lUMlJET2JuaXdYRy1IWlpRQXRJTVdtTHRGUkJpbVpoUkRvUm5lTkgtLUxTZzUyOVZVb3NtWXJCN29nV3hVQ3ZyN1l1cHotVEhnN1FlLTdzOGVnZ2l2OFRQSFJiMXNKak9EUlBIMEFUSTkzVzd5U3hacHVCVy1leXFvVjRDYjhLY1pFSm1pdnp2NTJablBWbGVWYm1qamJZUWlzUl9hS3VEamo1dmtvdkQ0?oc=5"
           ]
         },
         {
-          "t": "Strategist Cuts S&P 500 Target",
-          "src": "24/7 Wall St. · Morningstar",
-          "b": "A prominent market strategist just lowered his forecast number for the S&P 500 index. The index tracks five hundred of the biggest companies in the country. This reduction happened even though company earnings reports stayed solid. Investors continue to trade various exchange-traded funds tied to this index.",
-          "i": "A prominent market strategist reduced his price target for the S&P 500. This adjustment occurred independently of underlying corporate earnings performance. Investors continued allocating capital through exchange-traded funds tracking the benchmark index. Broader equities showed mixed movements alongside the Nasdaq and Dow components.",
-          "a": "A high-profile equity strategist revised downward his year-end S&P 500 target despite stable corporate earnings fundamentals. The contraction in the forecast reflects valuation adjustments rather than deteriorating enterprise cash flows. Flow dynamics across exchange-traded funds remained active as market participants recalibrated risk exposures. Major indices including the Nasdaq and Dow traded higher despite the strategist downgrade.",
+          "t": "Stocks rally as yields and oil cool",
+          "src": "Schaeffer's Investment Research",
+          "b": "Stocks went up because oil prices and Treasury yields went down. Treasury yields are the interest payments the government pays on its loans. Lower yields make borrowing cheaper for companies. This encourages investors to buy more stocks.",
+          "i": "Stocks rallied as oil prices and Treasury yields cooled. Lower yields reduced borrowing costs for corporations. This easing in fixed-income markets supported broad equity gains.",
+          "a": "Equities rallied on the back of declining crude prices and softening Treasury yields. The compression in yields alleviated valuation pressures on growth stocks. Broad market participation improved as the fixed-income overhang dissipated.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYjhYVmZLTEI5TnFCVjJBS3V3RmNSZmVwb2JzY0lYalVRcmtUdnRlMFp2a0VSY0F3akNhOUl5VWFMZ1lhb3pXZmM5OWJzbnRmcUVOV01WT1hobThyVXY1ajlDczdSQmxxUnJSZk9JdzVOYWVhQllaSmNpcTZvSVJTSi15OHV3cklBUVgtbE1TS2ZxdFlpWFZHNjhEYTBiSzlqd0VyS0EwaTJfNFp5MlRBMEZZeWV3QXFsN0Q2QmpyNm9iOFJxRXAxNkZUQXNMZ1VoVDZrMS01Y1BkWnhZbVlycGJWNA?oc=5",
-            "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iOWgwNmNORjZERVNzZXphT1VaN29FZERuYVNQUlpRTk9qV0paNU4yNVdQcDY3SGJneDgyZjFSM1k0WXVlS1QyMDRlMUZWaFBNem4yNU9oYUVMdWNnLUJkWlRaOWRjSWRRVlV1LVZQYw?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE5kc1JJRm1KZ2dETE9DbVNaUm0yX0JiUi1tM2lMYmxVZ1ZDRHJYM1VIRFc0WXhJZ3YzZmxXeC1GbFRBcTF3Ml8xVWowa0RmcEZpMEJlM1o4NHpkQkMySmVfTmk3LTVjTW4xME1zQVE0MHk0T2xqUVQ1c2ZkMWxmQTVKUUFxbjl3a2hOWTJfUDJFRzFCSFRqZFZVdUh4SmRYbV9YMzFHSXQ5MXhC?oc=5"
+          ]
+        },
+        {
+          "t": "Paramount falls on mega-merger warning",
+          "src": "Barron's",
+          "b": "Paramount was the worst-performing stock in the S&P 500. The S&P 500 is a stock market index, which is a group of five hundred large American companies tracked together to measure how the market is doing. Paramount shares dropped after a warning was issued against a mega-merger.",
+          "i": "Paramount finished as the worst-performing stock in the S&P 500 index. Shares dropped following a public warning against pursuing a mega-merger. The negative sentiment isolated the media firm from the broader market rally.",
+          "a": "Paramount underperformed all peers to rank as the worst stock in the S&P 500. Equity value degraded following specific regulatory or structural warnings against a mega-merger transaction. Market participants punished the name despite the supportive macroeconomic backdrop.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3Ffak1lbExncW9QQ0g0LWdRV1R0N1ZQY0RxMURhbENpU0tkNTNpbUJCUjNqWUVaMFhtZHdmdUpzTTdhN2JFUjdyVzQ3QXJtQmI4X1JZdWUtcnlDbTZMQm9tT19MR0V4VmNGM0hselY5cUZVRFBTMDdNWGVfRDJ4UFJR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Elected officials discussed the direction of the national economy. Lawmakers watched how higher borrowing costs affect local housing markets. Government policies continue to focus on price stability.",
-        "i": "Policymakers evaluated monetary transmission channels across regional housing sectors. Congressional members monitored borrowing expense pressures following the central bank shift. Legislative debates centered on maintaining growth without exacerbating price pressures.",
-        "a": "Federal policymakers scrutinized transmission mechanisms as tighter monetary settings reached regional real estate markets. Legislative discourse focused on fiscal alignment with central bank tightening cycles. Economic committees assessed structural vulnerabilities across regional banking institutions.",
-        "timeline": {
-          "0": {
-            "date": "17 Sep",
-            "text": "The Federal Reserve delivered an interest rate hike."
-          },
-          "1": {
-            "date": "17 Sep",
-            "text": "US Treasury yields fell following the central bank decision."
-          },
-          "2": {
-            "date": "17 Sep",
-            "text": "A major market strategist lowered his S&P 500 target."
-          }
-        }
-      },
-      "timeline": []
-    },
-    "United Kingdom": {
-      "iso3": "GBR",
-      "label": "United Kingdom",
-      "sub": "Bank of England holds rates and halts long-dated gilt sales",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Bank of England Holds Interest Rate at 3.75%",
-          "src": "Briefs Finance · FXStreet",
-          "b": "The Bank of England is the country's central bank, which sets the official borrowing cost for the whole economy. It kept its main interest rate at 3.75% because <span class='term' data-t='inflation'>inflation</span> remained hot. Officials indicated that another rate rise could happen soon. Markets reacted to these ongoing price pressures.",
-          "i": "The Bank of England maintained its benchmark interest rate at 3.75% amidst persistent <span class='term' data-t='inflation'>inflation</span> pressures. Policymakers opted for a cautious hold while leaving room for potential future tightening. Financial institutions adjusted their expectations for upcoming monetary policy decisions.",
-          "a": "The Monetary Policy Committee held the base rate at 3.75%, implicitly acknowledging sticky <span class='term' data-t='inflation'>inflation</span> dynamics that limit imminent easing. Forward pricing curves continue to price in upside risks to the terminal rate path. Traders recalibrated short-term interest rate swaps following the cautious guidance.",
-          "gloss": "inflation",
-          "links": [
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDlKRlB0Y09IUGhWbE9odnotd0czdGJFVVpFblNCN2FabmI5Z2p1UnR6UUtFR1UtTUJGS2s5SzI4cmRaaFM0ekxWU2Q1eHVzTzVvZWpFSHlfUVlqcW1obnhOcDIwQnZKTV9uSjJXZzdOWG5QVWR5UlBZSWdSUzk0SGJDX2dYNjNkOFk0R1ZXYUYydw?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDN6aExwTXJXOVJLbE9jRkhESnlYWlI3ZnYzOFcxSklCTGVPNWpMVEpKSEl6cUp3WDRQWm9fNENDM29UMVl3NDREUDVFN1J6Z1RKRjNTOUo4QVg4YWdDUXU5LU5KWW1yVFJ4YnNqWGVwZDZkWkxhVzg3RG9KdXpkaXluUnluM3UyS2h1S2lfelRuR3dtMHgtSWtwQUZFd0lacm96dVFXcw?oc=5"
-          ]
-        },
-        {
-          "t": "Bank of England Halts Long-Dated Gilt Sales",
-          "src": "Reuters",
-          "b": "The Bank of England stopped selling long-dated <span class='term' data-t='gilt'>gilts</span>, which are bonds issued by the government to borrow money. This pause changed how the bank plans to get rid of the bonds it bought during quantitative easing, a program where it created money to buy financial assets. Investors welcomed the decision, which caused a sharp bond rally.",
-          "i": "The Bank of England suspended long-dated <span class='term' data-t='gilt'>gilt</span> sales as it rewrote its strategy for unwinding quantitative easing. Market participants cheered the sudden pause in asset disposals, triggering a robust bond rally across the curve. Yields fell as institutional demand for UK sovereign debt surged.",
-          "a": "The central bank altered its quantitative tightening trajectory by halting long-dated <span class='term' data-t='gilt'>gilt</span> sales, addressing structural supply imbalances in the secondary market. Asset managers responded by aggressively bidding for sovereign paper, compressing term premia. The revised balance sheet reduction blueprint removed near-term duration overhang.",
-          "gloss": "gilt",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzNBODRNWENQME11Q3prVU5TUk5RUGFpQXlGbTJ5NnAwSmFaWW96QVNFS3l4RVB2NHprOWR3UmlUd3NtQWliMmwwdWhKbXN3ZjVUS1hVQkl6akcteVpnQjBZWjlFTUVQMmF4Z205aUZoVEx3dFNJTUR4X1I5RWxudEdjd2dyV21qU3VuN01oaF9RUGFqZDY5VVFKZlJsMXVNRUJTa1FBYU5iSXBmRXRnczRlUUI0T1ho?oc=5",
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzl4SDdOQTEtVWhzeVYyUC1HMTg2bERxVVJUTk5pamNPZDNNUjl4bWh3TEEtOGRYY0xzVUJxQWpGbjlEakJzR0JrMm1feGtaVW0tNVVPZGU2dVRyVml1UjVXOG9zU2NpejlYcXUySU13U1phOXFUbGdpRU9LdjZ6cy05TkdsNFZYdVRZQVk1WlBNYTdrSTI1UlRXMUJXWndsYksxQ2lwR2E?oc=5"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "The central bank kept interest rates steady at 3.75%. It also changed how it plans to reduce the bonds it holds. Officials faced pressure from persistent price increases across the country.",
-        "i": "The Bank of England maintained rates at 3.75% while overhauling its quantitative tightening roadmap. Policymakers navigated persistent price pressures to deliver a cautious hold.",
-        "a": "The Monetary Policy Committee maintained the bank rate at 3.75% alongside a recalibration of quantitative tightening operations. Officials balanced upside price risks against structural adjustments in asset purchase facility unwind plans."
+        "b": "Government officials and central bankers debated interest rate decisions and economic policies.",
+        "i": "Federal Reserve officials implemented monetary policy adjustments while market participants monitored fiscal signals.",
+        "a": "Federal Reserve authorities executed policy tightening while monitoring sovereign debt absorption capacities."
       },
       "timeline": [
         [
           "17 Sep 2026",
-          "Bank of England holds interest rates at 3.75%"
+          "Federal Reserve hiked interest rates"
         ],
         [
           "17 Sep 2026",
-          "Bank of England halts long-dated gilt sales and rewrites QE unwind plan"
+          "Paramount shares dropped following a mega-merger warning"
+        ],
+        [
+          "17 Sep 2026",
+          "Stocks rallied as Treasury yields and oil prices cooled"
+        ]
+      ]
+    },
+    "United Kingdom": {
+      "iso3": "GBR",
+      "label": "United Kingdom",
+      "sub": "Bank of England holds rates and alters gilt sales",
+      "ind": [],
+      "stories": [
+        {
+          "t": "Bank of England Holds Rates and Alters Gilt Sales",
+          "src": "Bloomberg.com · Reuters",
+          "b": "The Bank of England keeps interest rates steady. Interest rates are like the fee you pay to borrow money. The central bank also stops selling long-dated government bonds, which are loans people make to the government. This change alters how the bank unwinds its previous quantitative easing programme. Quantitative easing is when a central bank creates money to buy assets.",
+          "i": "The Bank of England maintains current borrowing costs while overhauling its <span class='term' data-t='gilt'>gilt</span> sales strategy. Policymakers halt long-dated debt sales to rewrite the plan for unwinding quantitative easing. Governor Bailey implements this quantitative tightening tweak to adjust central bank balance sheet reduction.",
+          "a": "The Monetary Policy Committee holds the policy rate while restructuring asset purchase facility reductions. Officials suspend long-dated debt auctions to calibrate quantitative tightening velocity. This operational pivot alters duration supply dynamics in the secondary market.",
+          "gloss": "gilt",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakNYRFlLT1lOeFgzUlBiZmpTOHJxQm9wc2FPM3VnTFVvc0h5V1VMdm5DSHowZmI0M2JZQUh2am52OTAxck5tNHVyMlVfYzBuaXA5Z1JIRTV6MlYybTZjRV9FajVzTHZqSEtad1JDeXJTTFJiZXdSOUZ4WVlYWkNPRGVBdWIzUE5YaHZQRFNnN2RkSkRaX0twTmNJMW9IcHFPUTFFR1dmRlRCNnM?oc=5",
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXzNBODRNWENQME11Q3prVU5TUk5RUGFpQXlGbTJ5NnAwSmFaWW96QVNFS3l4RVB2NHprOWR3UmlUd3NtWWliMmwwdWhKbXN3ZjVUS1hVQkl6akcteVpnQjBZWjlFTUVQMmF4Z205aUZoVEx3dFNJTUR4X1I5RWxudEdjd2dyV21qU3VuN01oaF9RUGFqZDY5VVFKWlJsMXVNRUJTa1FBYU5iSXBmRXRnczRlUUI0T1ho?oc=5"
+          ]
+        },
+        {
+          "t": "Inflation Outlook Shifts Tone Toward Hikes",
+          "src": "Insurance Business · Reuters",
+          "b": "The Bank of England shifts its tone toward potential rate hikes. This shift happens as inflation is set to top 4%. Inflation means the speed at which prices for everyday items go up. Insurers also report that regulatory stress tests from the Prudential Regulation Authority are too demanding.",
+          "i": "The Bank of England pivots toward a tightening bias as <span class='term' data-t='inflation'>inflation</span> approaches 4%. Financial institutions voice concerns to regulators regarding stringent stress test requirements. Insurers label the Prudential Regulation Authority stress framework excessively burdensome.",
+          "a": "The central bank signals a hawkish re-pricing as consumer price projections breach 4%. Prudential Regulation Authority stress parameters draw pushback from institutional insurers citing overly stringent solvency calibrations.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVZIMTVCSkthTldKT2xFbUkzR3dVNDJIOTZWS2N2b3poV2I4X3pVd2xHM2tXZFRVNklTNERfWW9LZ1JlcW5UNDNXNTJZbm41QnlBb1FsSUhZQ3puSFdrY3M3dmZXS09fQXZyd3hKMHJuVnhPOS1mQ1hlTWw5LUQ1eTQxN3c0bm5KM1JjX3dtNlpXdGpmdHM1Sl93SnVOeFo2ckhEWUJhSGRTVHg5MGlmOEJGc1NCNnVuWkw3ODBROVp1aTI0dlFxdy1n?oc=5",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWQxa3d0cG05Tmpfck4tZm5ZLTRLMUQ1bzRpVUNlbDg0ZDlNemp5d0hPbDVkcjBJdENvbFdldlA3a0h1VkZfOUt2NUE5eVNSaHlMbWZLUTBhNGZoOWEzNDZ6QVFYR095Wmt1dndTak1SaDJHbXBTZzdwWWlmZW16MjBRV3ZTanNaQm00M1VxdXE2OE5JUkdKczBSWTNVNkpJQzl6dTlXaGtHRXNWS21z?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "Governor Bailey adjusts monetary policy operations. This adjustment grants breathing space to local political figures like Burnham.",
+        "i": "Governor Bailey alters quantitative tightening parameters. The policy adjustment provides operational relief for regional leaders such as Burnham.",
+        "a": "Bank of England balance sheet recalibrations alter sovereign debt absorption. Governor Bailey's quantitative tightening adjustments create fiscal headroom for municipal leaders like Burnham."
+      },
+      "timeline": [
+        [
+          "17 Sep",
+          "The FTSE 100 closes at 14433."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German inflation ticks up and DAX index hits one-week high",
+      "sub": "German stocks gain as DAX rises and inflation ticks up",
       "ind": [],
       "stories": [
         {
-          "t": "German inflation rises as energy costs climb",
+          "t": "German Equities Advance",
+          "src": "Investing.com · ad-hoc-news.de · tradingview.com",
+          "b": "The main German stock market index, called the DAX, went up by 0.77% by the end of the trading day on September 17, 2026. This means the overall value of the top companies tracked on that list increased. Specific companies moved in different directions during this session. Hochtief stock went up because of a technical rebound, which is when a falling price bounces back. Meanwhile, Commerzbank and Brenntag saw their share prices weaken. The DAX reached an over one-week high following a central bank rate decision.",
+          "i": "The DAX index closed higher by 0.77% on September 17, 2026, reaching an over one-week high following the latest central bank rate decision. Individual equities within the index showed divergent movement. Hochtief shares gained ground on a technical rebound. Commerzbank and Brenntag shares both weakened during the session.",
+          "a": "The DAX advanced 0.77% on September 17, 2026, touching a one-week high in the wake of the Federal Reserve rate decision. Intra-index dispersion remained wide. Hochtief outperformed on a technical rebound, whereas Commerzbank and Brenntag lagged the broader benchmark.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ09lRWY4dmd3bU9GNlExUUdJMXRUd0M4aXpYM3lfZmphcl81QUJEUldTWGl4WVFBa1pCeDBCcW51SDlwdi1TQlZHay1DMW44dURuTHRqNUllWERBMG1yUmRVR21xUTNScHRPclpyX1ZrNjF5NFJ4ZnBBQTlEQ2ZNcExvTjV2anBwa1d5ejQxeVBMb2pqbUUzMExSTFpPRUJBYVA5U2JUWF9QTm8?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhjbW40YkVGTDN3Y0JRNzFpckRKS1VFbHJCVm80OGp4SzJRU1JidHBkcS1tWXc4Mmo1YWJzanhXbjY3a1VpVm9VN0R1aTBmTVdOZC1hNjd3QVVJU2RVbGlVbUEzX2JqTU1DVUZaVWQ0NGx3b3R2T2ozV1Z2NjVjTHo3OERtTXhzZGZFbVNwQWdhQnAzaTVZd0ZpUUQ4bm5aTHEyZ19JQUdkYWlURXdfbkNBamt4ejdWU2VONThRZWd5N0h6MVBmOHdRZFk?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdqVmd5eGNzVTVNaFB2TWJ4cHp3NzFqbjdHQ2NlMm5MUWhHdUwxbDdlaGo5M19LOWJDRUVSMUNtMndHOTE1ZjVIbmNUVG42WVZ6T3V1cnprT2V2MGVVbTNBLV9GT2FZY3BUZ1huZWg2QnphTUFKTkdGOU9Ya2lvLUtZNFUyVGVtUnB3dXZQcGFWT0RlTTBybnNZY3Z6U2hIYk9CbHhOcDdKVkF0Mm1FSzUwZGJKZk9vZnNnQU9nTQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlY3VDRxQ19Zem1JUk14REhNaHVsX2lwNGNpakd4cGxkeXR2eGdpdVFSVjBheGVaTUVaSXlpb0x3VVNXbHVqSkh0UU5UNDU0WWtqUlREQmprMzBqOHB2d2FkNUMwa1lvUGI5c1NzTWF3bnu4T0NmendwbGFOT1ZFNUV4ZFZvTmNVQ1VKdWxIdmR5Yy1LNmppSGVPa1cxOFNFbU9nUEcyUGxEb1lNZWpwU1ZUd2pVWHo4QlE?oc=5",
+            "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySWhnbU9TZ1pZN2k1YmhtSHVKZWdwaHVYWUxVOTRUTGxaNTEwaFI5Mk5DSXV4Q0M4OThyc2NmcjBqemY1Rmg5elEzZzRaUkVvX3FEUGhMMzh4UXZ0MFRqMkhSc2hYYTZwaW9XTnF0a2RkY2lvSnpZSWlpLU5SWVk?oc=5"
+          ]
+        },
+        {
+          "t": "Consumer Price Pressures Accelerate",
           "src": "InteriorDaily",
-          "b": "German inflation, which is the rate at which prices for everyday goods and services go up, rose to 2.9%. This increase happened because energy prices climbed higher. Higher energy prices make it more expensive to heat homes and run factories. The new data shows how consumer costs are shifting across the country.",
-          "i": "German <span class='term' data-t='inflation'>inflation</span> climbed to 2.9%. Higher energy costs drove the upward move in the headline consumer price figures. Energy price swings feed directly into broader industrial and household expenses. The latest reading marks an acceleration from previous price measures.",
-          "a": "German <span class='term' data-t='inflationprints'>inflation prints</span> accelerated to 2.9% on the back of rising energy components. Energy pass-through effects continue to complicate the broader macroeconomic trajectory for the industrial sector. This upward tick challenges prevailing easing assumptions across European debt markets.",
+          "b": "German annual <span class='term' data-t='inflation'>inflation</span> rose to 2.9% by September 17, 2026. This metric tracks how fast the general cost of living goes up across the economy. Higher energy costs drove the increase in the headline consumer price figures. The data emerged alongside broader equity market updates on September 17, 2026.",
+          "i": "German annual <span class='term' data-t='inflation'>inflation</span> accelerated to 2.9% by September 17, 2026. Energy price increases served as the primary driver behind this upward movement in consumer prices. The release coincided with active trading sessions across European equity benchmarks on September 17, 2026.",
+          "a": "German headline <span class='term' data-t='inflation'>inflation</span> printed at 2.9% on September 17, 2026, pressured higher by climbing energy components. The print feeds directly into European real yield calculations as regional indices react to global monetary policy shifts. The reading circulated across market terminals on September 17, 2026.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjBaS0k0Q3FNMWMwWGp6NVZTOWQxNXRXVUJEM3o1cHA4TnBteVlRanVCNWtfOFJic1Y1ME4tUEd2RVA1b0NrZ2NtdGo2QkFLa3lFaUoxTlpabzRuYmZMQTRSODZnR0ZxN2EtekFWQzVJOUNnY0xodGdVc2UwQ2UzQUU1N3RScGh3WEdBd2ZHRkRyWld2WW9CbXlnRURjYUFa?oc=5"
           ]
-        },
-        {
-          "t": "DAX index climbs to over one-week high following moves",
-          "src": "ad-hoc-news.de · TradingView · marketscreener.com",
-          "b": "The main stock market index in Germany, called the DAX, reached its highest level in more than a week. Shares of companies like Hochtief gained value during a technical rebound. Meanwhile, stocks for firms such as Commerzbank and Brenntag softened. Other equities like Bilfinger plunged in value.",
-          "i": "The DAX index reached a one-week high following recent central bank decisions. Hochtief shares gained ground on a technical rebound. Commerzbank and Brenntag equities weakened during the session. Bilfinger shares plunged heavily as individual stock performance diverged.",
-          "a": "The DAX index advanced to a one-week high following spillover momentum from international rate decisions. Hochtief outperformed the broader benchmark via a technical rebound. Commerzbank and Brenntag lagged the index as specific analyst targets weighed on valuations. Bilfinger suffered sharp losses during the session.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhjbW40YkVGTDN3Y0JRNzFpckRKS1VFbHJCVm80OGp4SzJRU1JidHBkcS1tWXc4Mmo1YWJzanhXbjY3a1VpVm9VN0R1aTBmTVdOZC1hNjd3QVVJU2RVbGlVbUEzX2JqTU1DVUZaVWQ0NGx3b3R2T2ozV1Z2NjVjTHo3OERtTXhzZGZFbVNwQWdhQnAzaTVZd0ZpUUQ4bm5aTHEyZ19JQUdkYWlURXdfbkNBamt4ejdWU2VONThRZWd5N0h6MVBmOHdRZFk?oc=5",
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdqVmd5eGNzVTVNaFB2TWJ4cHp3NzFqbjdHQ2NlMm5MUWhHdUwxbDdlaGo5M19LOWJDRUVSMUNtMndHOTE1ZjVIbmNUVG42WVZ6T3V1cnprT2V2MGVVbTNBLV9GT2FZY3BUZ1huZWg2QnphTUFKTkdGOU9Ya2lvLUtZNFUyVGVtUnB3dXZQcGFWT0RlTTBybnNZY3Z6U2hIYk9CbHhOcDdKVkF0Mm1FSzUwZGJKZk9vZnNnQU9nTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlY3VDRxQ19Zem1JUk14REhNaHVsX2lwNGNpakd4cGxkeXR2eGdpdVFSVjBheGVaTUVaSXlpb0x3VVNXbHVqSkh0UU5UNDU0WWtqUlREQmprMzBqOHB2d2FkNUMwa1lvUGI5c1NzTWF3bnU4T0NmendwbGFOT1ZFNUV4ZFZvTmNVQ1VKdWxIdmR5yy1LNmppSGVPa1cxOFNFbU9nUEcyUGxEb1lNZWpwU1ZUd2pVWHo4QlE?oc=5",
-            "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySWhnbU9TZ1pZN2k1YmhtSHVKZWdwaHVYWUxVOTRUTGxaNTEwaFI5Mk5DSXV4Q0M4OThyc2NmcjBqemY1Rmg5elEzZzRaUkVvX3FEUGhMMzh4UXZ0MFRqMkhSc2hYYTZwaW9XTnF0a2RkY2lvSnpZSWlpLU5SWVk?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0ZObjl6VWJOT0k0TEF2djRKWXNMWUJuZ2d5eFlKZWxKNVQ0QVRxRjBwWU12NUNzSmk4ajl0ZGk3VHRyc0JQRVRwdXI0M1dJOGVjYXp2TjVsZW1NdGxucTBiYTFTZW40dXl1SVJoeHJGVlFFeEZ1dmdYZW1mTW54N3VrOFBzalBqLUZ4LXJEa2Ffa1FVby15d2c5TFhYWVNndU80bHBpbw?oc=5"
-          ]
         }
       ],
       "politics": {
-        "b": "German officials watched consumer price numbers climb. Energy costs played a central role in the recent economic updates. Markets reacted to these changes throughout the trading day.",
-        "i": "Policymakers monitored the acceleration in headline consumer price metrics. Energy sector volatility added friction to domestic price stability goals. Financial markets adjusted asset valuations as the data printed.",
-        "a": "Fiscal and monetary authorities assessed the persistence of energy-driven price pressures. Transmission channels from utility costs to broader indices remain active. Asset prices recalibrated instantly following the release."
+        "b": "No political events or government policy announcements for Germany were reported in the available market data on September 17, 2026.",
+        "i": "No domestic political developments or administrative updates concerning Germany appeared in the market feeds on September 17, 2026.",
+        "a": "German fiscal and political updates remained absent from the institutional wire reports on September 17, 2026.",
+        "sources": {}
       },
       "timeline": [
         [
-          "17 Sep",
-          "German inflation prints at 2.9% amid higher energy prices"
+          "17 Sep 2026",
+          "German annual inflation rises to 2.9% due to climbing energy costs."
         ],
         [
-          "17 Sep",
-          "DAX index rises to a one-week high following rate decisions"
+          "17 Sep 2026",
+          "Hochtief leads DAX gainers on a technical rebound while Commerzbank weakens."
+        ],
+        [
+          "17 Sep 2026",
+          "The DAX closes up 0.77% at an over one-week high."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Japanese Yen gains on rate hike expectations and stocks rise",
+      "sub": "Japan household investments shift and yen movements",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Tightening Expectations Lift Yen",
-          "src": "FXStreet",
-          "b": "The Japanese Yen is the official money used in Japan. Expectations that the country's central bank, which is the main bank that controls the money supply, will raise interest rates have made this money stronger against the US Dollar. Financial institutions like Scotiabank and MUFG say that faster policy tightening is helping these currency gains.",
-          "i": "Expectations of faster monetary tightening by the Bank of Japan are lifting the Japanese Yen against the US Dollar. Financial institutions including Scotiabank and MUFG note that market participants are pricing in stricter policy stances. This shift in <span class='term' data-t='inflation'>inflation</span> and rate outlooks directly impacts foreign exchange valuations.",
-          "a": "Anticipation of accelerated monetary tightening by the Bank of Japan drives appreciation in the Japanese Yen against the US Dollar. Sell-side desks at Scotiabank and MUFG attribute the currency strength to shifting rate differentials and hawkish policy pricing. Market participants continue to monitor how incoming macroeconomic data will shape the terminal rate trajectory.",
-          "gloss": "inflation",
+          "t": "Households Shift Capital Into Equities",
+          "src": "Nikkei Asia · Investing.com",
+          "b": "Japanese households put their money into stocks more than insurance and pensions for the very first time. Stocks are shares in companies that you can buy and sell. This means everyday people are taking more risk with their savings. The Nikkei index rose 0.53% at the close of trade.",
+          "i": "Japanese household stock investments surpassed insurance and pension holdings for the first time. The shift illustrates a broader change in retail asset allocation towards equities. Meanwhile, the Nikkei 225 index advanced 0.53% at the close of trade.",
+          "a": "Japanese household balance sheets crossed a structural threshold as direct equity holdings eclipsed life insurance and pension assets. This reallocation marks a departure from traditional domestic risk aversion in retail portfolios. The equity move coincided with the Nikkei 225 closing 0.53% higher.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbi1ZX2gtZjYtRzEtc1R1NU9vWDRoa0F0bGZfWGUxWXhWbjZlRmRuUlRWU3RPdUNXRTJlX1dSclJaYU9JQ0hURVpwMld6dWRlZzZybm9FWjYteUY0OWQ1bGdZcWh2VGVIa3dTa2pUeXl6NG1BaXZxTnlnWWU1Ym5UWWE4bS0zRkUxZGlQcTY1TDd5TkVRNFRBd2haTmYyOWUxSnlOSW1aVEJKNWl1ejF4X3RCQWhBdVBaOG1LcENR?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHhzM3Z5OFVhb3BJX2F1NUpLaTZyLThXSmJycUN5NnRUVXhlUFN5a003OHhVYTc0RGVNci1LQndZd0xkcll6Zi1CdkdET01SUElfZUgwU1JEbkdUUVF2dWgwXzVzeGFBZVIxVnBIM0dnZkRsVHJpUjI2bWxwak9fRmVxcG43U05OWHVsY0dZLWdaV1pydFBrYVpfbTEtamM3eHllc1ZWY1lDeE9sYmRicjl6MDBiZw?oc=5"
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFpEMUdSQzhiNzB6X0g4TUlxQkM5cGxsQ19NamNneVhNYkVSSlZid2ZRSUxCczJsbGhGaHNKLTVZRG94a1Nab2VraDFablctTUtYSTVPSWtNM0tYWjJNWTNTZVVMdWsxcTNOMDBza2hVYUFlV1hjdjFXWHhwSlFidnhOZG5RLVB4clRjTkMwZ1pzRkU3RkFXaGtIcGRMNUQtVHB3d3lzc3VHdkZkc2c?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG1VaWZYSVdpZ3ZUT0ZXTGpvUTdxNVJFZXNTYWo2dTlhTnR3Zm5OVXE1dnp2WU8yaEkxb2hOMVZfaExxT3JYZnpVV1M4anF5b2p1MFlpQ3YxNF9aQ1FRT1JfRDRUMFJQVGRpeUpvcDZ3YWpCaTdFLTlrbHZCYUJHcDdlODZ5Vmh3T0ZmTTZSV3RNSFVEVDZid0hKVW14V3MzUXBTSE5FVUxIYmE5OWZJLTRn?oc=5"
           ]
         },
         {
-          "t": "Nikkei Rises as Oil Prices Ease",
-          "src": "Investing.com · MarketWatch",
-          "b": "The Nikkei 225 index, which is a list tracking major company shares in Japan, gained 0.53% to close higher. Falling oil prices and bargain hunting in gaming and pharmaceutical stocks helped support the market. Mitsubishi Heavy Industries also invested 10 billion Yen in an artificial intelligence company.",
-          "i": "The Nikkei index rose 0.53% at the close of trade, supported by easing oil prices and bargain hunting across gaming and pharmaceutical equities. Mitsubishi Heavy Industries contributed to corporate activity by committing 10 billion Yen to an artificial intelligence firm through a capital alliance.",
-          "a": "Equities advanced as the Nikkei index climbed 0.53% by the close, buoyed by lower oil prices and sector-specific bargain hunting in gaming and pharmaceuticals. Corporate developments featured Mitsubishi Heavy Industries deploying 10 billion Yen into an artificial intelligence company via a capital alliance ahead of the central bank decision.",
+          "t": "Yen Rises on Central Bank Expectations",
+          "src": "FXStreet",
+          "b": "The Japanese Yen went up against the US Dollar because people expect the central bank to tighten monetary policy. Central banks manage a country's money supply and interest rates. Markets are pricing in a possible rate hike to 1.25%.",
+          "i": "The Japanese Yen strengthened against the US Dollar as market participants anticipated faster <span class='term' data-t='inflation'>inflation</span>-driven tightening by the central bank. Expectations solidified around a potential rate hike to 1.25%. Analysts note that future currency direction hinges heavily on upcoming official guidance.",
+          "a": "Japanese Yen appreciation against the US Dollar accelerated on market repricing of Bank of Japan policy normalisation trajectories. Forward curves continue to price a terminal destination near the 1.25% threshold. Transmission velocity relies explicitly on Governor Ueda's forward guidance regarding policy pacing.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG1VaWZYSVdpZ3ZUT0ZXTGpvUTdxNVJFZXNTYWo2dTlhTnR3Zm5OVXE1dnp2WU8yaEkxb2hOMVZfaExxT3JYZnpVV1M4anF5b2p1MFlpQ3YxNF9aQ1FRT1JfRDRUMFJQVGRpeUpvcDZ3YWpCaTdFLTlrbHZCYUJHcDdlODZ5Vmh3T0ZmTTZSV3RNSFVEVDZid0hKVW14V3MzUXBTSE5FVUxIYmE5OWZJLTRn?oc=5",
-            "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMlRVUkdTNnMtSUFndWljX1g2THZKRVZyWEdSaENQQlBBYTdydUpUbnJQNE93R29sVEZRZzJkNDdCTVFpX2YyVUFlemRlQXNaYzBGb3BhU1FIQXZ4N0Nnakh4OWQ5bnZoRU1HekMyWlM5MWFzTjFPbUEzeF9NNTQ4MWFJekpxMnVBUjJYMHpWaWJWT0hXRTlMUTduT21Rb05ZTGJQS0RYcXk2R2YtcktVSkUtLTRqNXA1MXRsZnJieUhJZDFoVFoyeE9yTTJ1TFd6Z2g3U3VRWWVCT29xSnFvcDVlTkFaaXVhRHpHN01n?oc=5"
+            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczRqMkhCa1RkRkl3eEhTazVidVR0OV9MUm1aVllfQ0hCd1ZVSG40SmFnbjY5N3hxYk5rYWwtdWlrdG5sMGJ5VkdhLXduQkF0RVVhc3JHUTJuTUVSbjhWd05HVEw3aGRxSDk0Qk9GUzRyVDZVTFNXTWM4MlZTNVlNMlpDMFRCb2NvXzFJNjVCVFVLVnpDT3R2eVNtQWJHampZTHpISTkzOTBaYTlIQnRmcnpkTThfNWZ0aUJDMEJBeUVnV2NwV3V3U21KYUhoU0tuNHhkbQ?oc=5",
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbi1ZX2gtZjYtRzEtc1R1NU9vWDRoa0F0bGZfWGUxWXhWbjZlRmRuUlRWU3RPdUNXRTJlX1dSclJaYU9JQ0hURVpwMld6dWRlZzZybm9FWjYteUY0OWQ1bGdZcWh2VGVIa3dTa2pUeXl6NG1BaXZxTnlnWWU1Ym5UWWE4bS0zRkUxZGlQcTY1TDd5TkVRNFRBd2haTmYyOWUxSnlOSW1aVEJKNWl1ejF4X3RCQWhBdVBaOG1LcENR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government faces a major economic decision as the central bank prepares a rate hike. Officials watch currency movements closely as the Yen fluctuates against foreign money. Market participants await guidance from leaders on future financial policies.",
-        "i": "Policymakers navigate monetary adjustments as the central bank approaches a widely anticipated rate decision. Officials monitor exchange rate volatility and currency devaluation pressures against the US Dollar. Market focus centers on upcoming guidance from leadership regarding the pace of policy normalisation.",
-        "a": "Monetary authorities confront policy normalisation as expectations solidify around an impending interest rate hike. Executive commentary and central bank guidance remain critical for dictating cross-border capital flows and exchange rate stability. Analysts price in further adjustments depending on upcoming macroeconomic releases."
+        "b": "Leaders in Japan face discussions about interest rates and currency values. These choices affect how much everyday goods cost. Officials watch the global economy closely.",
+        "i": "Japanese policymakers navigate shifting monetary conditions as expectations for tighter policy grow. Officials evaluate currency weakness against the US Dollar alongside domestic asset shifts. Market participants monitor these institutional signals for clues on upcoming rate decisions.",
+        "a": "Japanese fiscal and monetary authorities confront complex transmission dynamics as domestic asset allocation pivots toward equities. Policymakers manage exchange rate sensitivities as the yen trades near key technical levels against the dollar. Central bank communication remains the primary variable for market pricing of the 1.25% rate path."
       },
       "timeline": [
         [
-          "17 Sep",
-          "The Nikkei index closes higher by 0.53% amid easing oil prices and bargain hunting."
+          "17 Sep 2026",
+          "Data shows Japanese household stock investments surpassed insurance and pensions for the first time."
         ],
         [
-          "17 Sep",
-          "Mitsubishi Heavy Industries invests 10 billion Yen in an artificial intelligence company."
+          "17 Sep 2026",
+          "The Nikkei 225 closed 0.53% higher while analysts projected potential rate hikes to 1.25%."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Corporate bond issues and supply chain shifts in China",
+      "sub": "Corporate bond issues and new vehicle pricing updates",
       "ind": [],
       "stories": [
         {
           "t": "SDIC Power Subsidiary Plans Bond Registration",
           "src": "Investing.com",
-          "b": "A company subsidiary named SDIC Power wants to register bonds worth up to 8 billion yuan. Bonds are certificates that act like a loan from an investor to a company. The company pays back the money later. This process lets the business raise large amounts of cash from the market.",
-          "i": "A subsidiary of SDIC Power moves to register up to 8 billion yuan in <span class='term' data-t='gilt'>bonds</span>. Issuing debt instruments allows corporate entities to secure substantial capital directly from institutional lenders. Market participants evaluate the creditworthiness of the issuer before purchasing these fixed-income assets.",
-          "a": "SDIC Power's subsidiary files for an 8 billion yuan debt shelf registration, increasing corporate supply in the domestic fixed-income market. Pricing will depend on prevailing yield curves and duration demand from institutional balance sheets. Investors will scrutinize the coupon structure against sector-specific leverage ratios.",
+          "b": "Companies often borrow money from investors by selling debt certificates called bonds, which pay regular interest and return the original sum later. A subsidiary of SDIC Power plans to register up to 8 billion yuan in these debt certificates. The filing reaches a total value of up to 8 billion yuan. The announcement was published on September 17.",
+          "i": "Firms routinely raise capital through debt instruments to fund operations. A subsidiary of SDIC Power intends to register up to 8 billion yuan in <span class='term' data-t='gilt'>bonds</span>. The registration targets an aggregate ceiling of up to 8 billion yuan. The filing details were released on September 17.",
+          "a": "Corporate issuers continue to utilise debt capital markets for funding liquidity. A subsidiary of SDIC Power prepares to register up to 8 billion yuan in debt securities. The facility reaches a maximum sizing of up to 8 billion yuan. The regulatory filing was dated September 17.",
           "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYkRPVmVMWS12UnFfaDZPQ1FRMkRNNFNJcERCdmU5bl9VYkhhY0tGczJXcnlrMFpXT2gwNTFaUFVJb3BGRmxDQW83S2VkcENHR3ZvcWVKV0swQXlCYzNHekxhbFlsOThxdkNuWU4yNTNwdFJpZkNzWHFtdndYNDVZMHktNTh2am5MdFdGZkRZbTlDZ1l6aG4tbjdxOGNyYTAyVUs4RG9kWERyUFpzdTRIOFB2eWZBUzhj?oc=5"
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYkRPVmVMWS12UnFfaDZPQ1FRMkRNNFNJcERCdmU5bl9VYkhhY0tGczJXcnlrMFpXT2gwNTFaUFVJb3BGRmxDQW83S2VkcENHR3ZvcWVKV0swQXlCYzNHekxhbFlsOThxdkNuWU4yNTNwdFJpZkNzWHFtdndYNDVZMHktNTh2ajndFdFwzM0d1eG9obi1uN3E4Y3AwMlVLOERvZFhEclB6c3RJOFB2eWZBUzhj?oc=5"
           ]
         },
         {
-          "t": "Weikexian Targets Stock Listing Amid Pressure",
-          "src": "finance.biggo.com",
-          "b": "A supplier named Weikexian works with major brands like Mixue and Luckin. The company is racing toward a listing on the Beijing Stock Exchange. It faces a profit squeeze and a financial pressure of 116 million yuan linked to a valuation adjustment mechanism. A valuation adjustment mechanism is a contract clause that sets targets for a company's financial performance.",
-          "i": "Weikexian, a key supplier for Mixue and Luckin, pursues a listing on the Beijing Stock Exchange. The company navigates a tight profit margin alongside a 116 million yuan obligation tied to a valuation adjustment mechanism. Such clauses impose financial penalties or equity adjustments if specific operational milestones remain unmet.",
-          "a": "Supply chain vendor Weikexian accelerates its Beijing Stock Exchange IPO path amid compressed earnings margins. The firm carries a 116 million yuan valuation adjustment mechanism liability that contractually binds founders or the company to compensate investors if earnings targets fail. Valuation adjustment mechanism overhangs often complicate equity pricing and governance assessments during public market debuts.",
+          "t": "Li Auto and XPeng Release New SUV Models",
+          "src": "eletric-vehicles.com · CnEVPost · GlobalChinaEV",
+          "b": "Car makers launch fresh models to attract family buyers. Li Auto prices its i9 model at 369,800 yuan, which sits below the 500,000 yuan bracket for similar SUVs. XPeng launches its G9L SUV in China on September 17 and prepares a European launch for October 12.",
+          "i": "Automakers compete in the domestic market with aggressive pricing strategies. Li Auto prices its i9 model at 369,800 yuan, undercutting competitors in the 500,000 yuan SUV segment. XPeng rolls out the G9L SUV domestically and schedules its European introduction for October 12.",
+          "a": "Vehicle manufacturers adjust pricing matrices to capture market share in competitive segments. Li Auto prices the i9 at 369,800 yuan, undercutting the broader 500,000 yuan SUV tier. XPeng debuts the G9L in China ahead of a scheduled European market introduction on October 12.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVQnpkMTRVSXpyNmozdFNFWnliOFMxN3VQNGw1T2wxVTQzM1RnVEdZQ1hkUkQwdzQtUUtvQk5FTDd1aUdqT3JiRzV3TFBaVUs1MjF5MWk3QTdZVDZVVFE1dEZZdzVOMVhBc2lZMWpDRmhZc1lWRkE?oc=5"
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeThJTXkxYmJieVNfMGlyTF85eVJWLU1ldUhuNnFnbWV6MlZFc3VMNnZadjFUZ05sV2lHMGNpOW0zbkRkdkcybUxLS0pkeGxaTmtDUTlESlRudmhkT1o3MmdmeFo0NmprYUZ2ajdwa2NENnJUd2VnMnRkODNNcjhyZ0s3blFPWGZ3bXJFMW8zUmYxWmdKVk9WbjNjWFVhdGFOcVJDSGR6Y2g?oc=5",
+            "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fN1ZzelVOTzlmQ2g1Y0ItVmdFVm5lQXZSVDB2RUFuaEYtM2tKbFJsamJVRU4zRGtWaXhKUFpNc3RJWWV4ZVY3NGcxZnhjaldfUjVycFBOd2dRSXUtdE5OVGU4eXJlRWdK?oc=5",
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2dIVWc3bmhyYTNrUUxjQ3hNNWxmQi1aVHRTZi1LRlYyOTZEOFhGZ3FQY1BKSzU4OVA2Rk5MYnlkY004eFl0VkMxZm5naGtHSUQ4QllwYXdyU0pSb1NJYkVNR2c1eEdkV2pIb0tIUFFiSEdYVmVWLUF4SjEwaWRDVWwxY0pfZ1FndXg0bmg2eFNsR2FQamZaSUhyUWx0WTFh?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political updates were reported in the market news sources today.",
-        "i": "No political developments appeared in the reporting feeds today.",
-        "a": "No geopolitical or domestic policy metrics were released in the current dataset.",
-        "sources": {}
+        "b": "Hong Kong outlines a five-year plan on September 17. The plan expands trading in equities, the offshore yuan, and gold.",
+        "i": "Hong Kong details its five-year plan on September 17. The policy framework expands trading activities in equities, the offshore yuan, and gold.",
+        "a": "Hong Kong formalises its five-year plan on September 17. The strategic blueprint broadens market access across equities, offshore yuan, and gold trading sectors."
       },
       "timeline": [
         [
-          "17 Sep 2026",
-          "SDIC Power subsidiary moves to register up to 8 billion yuan in bonds."
+          "17 Sep",
+          "SDIC Power subsidiary plans to register up to 8 billion yuan in bonds"
         ],
         [
-          "17 Sep 2026",
-          "Weikexian pursues a Beijing Stock Exchange listing with a 116 million yuan valuation adjustment mechanism pressure."
+          "17 Sep",
+          "XPeng launches the G9L SUV in China and sets a European launch for October 12"
+        ],
+        [
+          "17 Sep",
+          "Li Auto prices the i9 SUV at 369,800 yuan"
+        ],
+        [
+          "17 Sep",
+          "Hong Kong outlines a five-year plan covering equities, offshore yuan, and gold trading"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Reserve Bank of India conducts debt auctions and liquidity steps",
+      "sub": "Reserve Bank of India auctions debt and manages liquidity",
       "ind": [],
       "stories": [
         {
-          "t": "RBI Conducts Open Market Bond Sales and Plans Further Debt Auctions",
+          "t": "Central bank conducts debt sales",
           "src": "Reserve Bank of India · Reuters",
-          "b": "The Reserve Bank of India sold ₹50,000 crore of government bonds to take money out of the banking system. Banks and investors offered bids worth ₹66,590 crore for these bonds. The central bank plans another sale of ₹25,000 crore in government securities on September 21, 2026. This follows earlier bond sale results issued on September 17, 2026.",
-          "i": "The Reserve Bank of India accepted ₹50,000 crore in an open market operation sale to drain banking system liquidity. Primary participants submitted bids totalling ₹66,590 crore across multiple maturities including the 7.59% GS 2029. Cut-off yields for these auctions ranged from 6.6007% for the 2029 paper to 7.0090% for the 8.28% GS 2032 security. The central bank scheduled a subsequent <span class='term' data-t='gilt'>gilt</span> sale of ₹25,000 crore for September 21, 2026.",
-          "a": "The Reserve Bank of India absorbed ₹50,000 crore of duration via an open market sale following robust demand where total bids reached ₹66,590 crore. Cut-off yields spanned from 6.6007% on the 7.59% GS 2029 to 7.0090% on the 8.28% GS 2032 issue. Building on this liquidity contraction, the monetary authority announced an additional <span class='term' data-t='gilt'>gilt</span> auction of ₹25,000 crore for September 21, 2026. The series of debt sales marks an intensified effort to manage domestic liquidity surpluses.",
+          "b": "The Reserve Bank of India sold ₹50,000 crore of government securities to reduce cash in the financial system. Banks and other participants placed bids totaling ₹66,590 crore for the offering. This marked the first such debt sale auction by the central bank in 9 years. Cut-off yields for the accepted securities ranged from 6.6007% to 7.0090%.",
+          "i": "The Reserve Bank of India absorbed banking system liquidity by executing an <span class='term' data-t='gilt'>gilt</span> sale of ₹50,000 crore. Total bids reached ₹66,590 crore against the notified face value. Cut-off yields spanned from 6.6007% on the 7.59% GS 2029 paper to 7.0090% on the 8.28% GS 2032 issue.",
+          "a": "The Reserve Bank of India drained system liquidity via a ₹50,000 crore open market sale spanning six tenors from 2029 to 2032. Total demand reached ₹66,590 crore, allowing the central bank to clear paper at cut-off yields between 6.6007% and 7.0090%. This structural drainage operation represents the first instance of such debt sales in 9 years.",
           "gloss": "gilt",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63615",
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63613",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63612",
             "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDhTSUFnTHZibTJkZnh4VWFOMHI1eG9wTjliYWNHaDd1SEdBNko5clJLZnB6aDBDTWVwWnluQXYyQ252NHJId3BTMVNjUlZhZ2ktSGlMbmdPM295bGZXR3VrQmZUWG1pUkY2M3IxeUxNR3o0Rk5FVlQzVjRSX3FOVTRaVVZzOU8yVWQwQU9Bc0hmV3lLZlZFSld2c2lpRTA1V2JoXzZPbERhUlNpcmhOSERYNmt4Ukd5cnQ5S2pxdTRMZw?oc=5"
           ]
         },
         {
-          "t": "Indian Stock Indices Move Mixed as Markets Track Global Policy",
-          "src": "BusinessToday - IndiaIPO · INDIA New England News",
-          "b": "The Sensex index slipped while the Nifty index settled higher on September 17, 2026. The Nifty gained 0.23% as investors watched policy outcomes from the US Federal Reserve. Tata group stocks rose after N Chandrasekaran was reappointed.",
-          "i": "The Sensex index declined slightly while the Nifty index advanced 0.23% on September 17, 2026. Equity participants weighed international monetary cues from the Federal Reserve policy outcome alongside domestic corporate updates. Tata group equities appreciated following the reappointment of N Chandrasekaran.",
-          "a": "Domestic equities diverged as the Sensex edged lower while the Nifty advanced 0.23% on September 17, 2026. Market participants adjusted portfolios while digesting the Federal Reserve policy outcome. Tata group equities outperformed following the reappointment of N Chandrasekaran.",
+          "t": "Additional repo operations and upcoming security sales",
+          "src": "Reserve Bank of India",
+          "b": "The Reserve Bank of India scheduled a 3-day variable rate reverse repo auction for ₹2,25,000 crore. The reverse repo is a tool used by the central bank to borrow money from commercial banks. Separately, the central bank announced another sale of government securities worth ₹25,000 crore for September 21, 2026. That upcoming auction involves the 8.28% GS 2027 security maturing on September 21, 2027.",
+          "i": "The Reserve Bank of India announced a 3-day variable rate reverse repo auction to absorb ₹2,25,000 crore from the banking system. The central bank scheduled a separate open market sale of ₹25,000 crore in government securities for September 21, 2026. The upcoming sale features the 8.28% GS 2027 security maturing on September 21, 2027.",
+          "a": "The Reserve Bank of India deployed a ₹2,25,000 crore variable rate reverse repo tender across a 3-day tenor to manage short-term liquidity overhang. A supplementary open market sale of ₹25,000 crore targeting the 8.28% GS 2027 maturing on September 21, 2027 was scheduled for settlement on the same date.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2VsUDBCREJaV0dUSWN5NWtyZFhPUzQza21SS3BZSUdyTXpNQ3pEVmVlcWZfVUIwWDc4ZjVBZVYybVdoLXdlcmE2RXJLLWRYSFBGTnpSaVVJbm1PMl91QmtOUnJTYWY4NUlHOV9XeDBON2E2MDRrUXptV0NRY19pZFJoejU1cDZSYWRidWVIOU84VTJObDV3cDlMM2lKRjZFdmF5LUlUSWRaQ3ZUNVhlUTZYMF9oY0ZNSjhzRUlWVzluX0lPY0g5QlJ4Qi1hSDlyRkVr?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxObG5DbVNxcTVTM21qWHN2Y3pBZWtrTDV3QS1GeElqSmJpVDQ1bVRhSFpmUUEyX2kyVmluNkJobElBUTZST0RPNTdBQU5xaXJ1Sjd3cTR6OEhRM2YzdlpFaG5INEpVc3M0RVpNTWJ2MGEtRkFsb3pYalJqMTdqMGtpQS1iRkNIU1o0MllFWTV1a0U5ZW5ucmoyQnJtV0paRWZIcGc?oc=5"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63617",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63615"
           ]
         }
       ],
       "politics": {
-        "b": "The Reserve Bank of India scheduled a three-day Variable Rate Reverse Repo auction for ₹2,25,000 crore on September 18, 2026. The central bank also extended regulatory directions on The Valsad Mahila Nagrik Sahakari Bank. Additionally, the Reserve Bank cancelled the registration of five non-banking financial companies.",
-        "i": "The Reserve Bank of India announced a ₹2,25,000 crore three-day Variable Rate Reverse Repo auction under the liquidity adjustment facility for September 18, 2026. Regulatory interventions continued as the central bank extended Section 35A directions for The Valsad Mahila Nagrik Sahakari Bank Ltd. Furthermore, the authority cancelled the certificates of registration for five non-banking financial companies under the Reserve Bank of India Act, 1934.",
-        "a": "Liquidity management operations expanded with a scheduled ₹2,25,000 crore three-day Variable Rate Reverse Repo auction under the liquidity adjustment facility for September 18, 2026. Regulatory enforcement persisted via the extension of directions under Section 35A of the Banking Regulation Act, 1949 for The Valsad Mahila Nagrik Sahakari Bank Ltd. Simultaneously, the regulatory authority revoked the certificates of registration of five non-banking financial companies pursuant to Section 45-IA (6) of the Reserve Bank of India Act, 1934."
+        "b": "Local stock indexes showed mixed movements as participants evaluated global monetary policy updates. The Sensex index ended flat while the Nifty index gained 0.23%. Tata group shares increased following the reappointment of N Chandrasekaran.",
+        "i": "Domestic equity benchmarks finished on divergent paths as traders evaluated international monetary decisions. The Sensex settled flat while the Nifty advanced 0.23%. Tata stocks traded higher following the reappointment of N Chandrasekaran.",
+        "a": "Indian equity indices registered a mixed session as participants priced in global policy rate trajectories. The Nifty closed 0.23% higher while the Sensex finished flat. Tata group equities advanced following the reappointment of N Chandrasekaran.",
+        "sources": {
+          "0": {
+            "outlet": "BusinessToday - IndiaIPO",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV2VsUDBCREJaV0dUSWN5NWtyZFhPUzQza21SS3BZSUdyTXpNQ3pEVmVlcWZfVUIwWDc4ZjVBZVYybVdoLXdlcmE2RXJLLWRYSFBGTnpSaVVJbm1PMl91QmtOUnJTYWY4NUlHOV9XeDBON2E2MDRrUXptV0NRY19pZFJoejU1cDZSYWRidWVIOU84VTJObDV3cDlMM2lKRjZFdmF5LUlUSWRaQ3ZUNVhlUTZYMF9oY0ZNSjhzRUlWVzluX0lPY0g5QlJ4Qi1hSDlyRkVr?oc=5"
+          },
+          "1": {
+            "outlet": "INDIA New England News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObG5DbVNxcTVTM21qWHN2Y3pBZWtrTDV3QS1GeElqSmJpVDQ1bVRhSFpmUUEyX2kyVmluNkJobElBUTZST0RPNTdBQU5xaXJ1Sjd3cTR6OEhRM2YzdlpFaG5INEpVc3M0RVpNTWJ2MGEtRkFsb3pYalJqMTdqMGtpQS1iRkNIU1o0MllFWTV1a0U5ZW5ucmoyQnJtV0paRWZIcGc?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "17 Dec 2025",
-          "RBI issued directions to The Valsad Mahila Nagrik Sahakari Bank Ltd"
-        ],
-        [
-          "11 Sep 2026",
-          "RBI announced OMO sale auction of Government of India securities"
+          "Reserve Bank of India issued directions to The Valsad Mahila Nagrik Sahakari Bank Ltd"
         ],
         [
           "17 Sep 2026",
-          "RBI conducted OMO sale auction and cancelled registrations of five NBFCs"
+          "Reserve Bank of India conducted open market sale auction of ₹50,000 crore"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras expands in Africa and Ibovespa reacts to Selic",
+      "sub": "Petrobras secures African oil blocks and markets react to rates",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras secures blocks in Ivory Coast",
-          "src": "IndexBox · Moneyweb · Benin Web TV",
-          "b": "Petrobras is a big energy company mostly owned by the Brazilian state. The firm just signed deals for eight new areas off the coast of Ivory Coast in West Africa. These areas are called offshore blocks, which are zones where companies search for oil deep under the sea. Petrobras took a 90% stake in these eight blocks, meaning it owns most of the rights and will lead the work there.",
-          "i": "Petrobras signed production sharing contracts for eight offshore blocks in Côte d'Ivoire. The Brazilian state-backed energy producer acquired a 90% operating stake across these new exploration areas. This expansion broadens the company's upstream portfolio into West African waters.",
-          "a": "Petrobras executed production sharing contracts for eight offshore blocks in Côte d'Ivoire, securing a 90% operated working interest in the acreage. The portfolio expansion deepens the company's geographical diversification strategy within West African hydrocarbon basins. Market participants registered mixed sentiment regarding the capital allocation toward new overseas exploration ventures.",
+          "t": "Petrobras signs deals for eight offshore oil blocks in Côte d'Ivoire",
+          "src": "Demócrata · ad-hoc-news.de · IndexBox",
+          "b": "Petrobras is a big energy company in Brazil. The firm just signed agreements to get stakes in eight offshore oil blocks. These blocks are located in Côte d'Ivoire, which is a country in West Africa. Petrobras will keep a 90% share in these oil blocks. The contracts are official production sharing agreements.",
+          "i": "Petrobras acquired a 90% stake in eight offshore oil blocks in Côte d'Ivoire. The Brazilian energy company signed official production sharing contracts for the West African assets. Petrobras stock edged slightly lower following the news amid mixed sentiment. Sempra stock steadied as the deal highlighted broader long-term growth.",
+          "a": "Petrobras executed production sharing contracts for eight offshore blocks, securing a 90% operating interest in Côte d'Ivoire. The West African expansion printed mixed sentiment across equities, causing Petrobras shares to edge lower while Sempra stock steadied on anticipated long-term synergies. The transaction broadens the state-controlled operator's geographical footprint outside domestic basins.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHkwMlRRUkVXSlI1RmdUbzZxVi1hSGdpSFR2SmNrYzNmZW5EelNQSXJaNGxDdkNJYWlLaldINy00bHpvNkV4N09FMDFkWXFDd2QyY1dVUFJhZDcxZzd1ajd2c3ZsR0FVNFhYTHFiQVg1ZGFUOXVJX1NLNXNjelFHZmFabk0wdmN4eWhhYkZRdXZTUXVyOEw3WXgtdXhYbktJSk1VbQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1NWWnJRQUFLaFpjSTNWSmZfZDBQLXBKdnlfOXBtMEloVWtmV21JVzJhODZBa2twUGdVc0xOSVRjbmZCcUV6THNCbURZRDhqWDZmNldHNU5maHk5Z3FyeTR4QXdRcGM5N3hoeWc5N0t1c3NhU3Q4X1JqMkZTdUVrRHFYa3hXNjRkNW9FZ3E5YXlUVlBpejY1OW5VTVItRkN2SjNjYzU2Ukg?oc=5",
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2dERzEtX1h0S2FxNWFnM0FkRHJyMjc2dU8weFJhVnRic0VCMHlzZU9GUzg4ZjU3RlZva3NKRXFfS1pRcUdnT1dLal9HQlh0dHpjWEk1RFN4U3BsT3pwTVpBZjh6TnJoanFZbUE3cXd2d1dSa1Vrc3luQjZZNWtZZEtfSGkwYUdGSHBXLXQ5TkVZR21ZSEE?oc=5"
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3lxT2t0b2xnVEdTakhDMUFRcmppTE82UTA5UHl1eFh0ejA5dnBhWm9qWl9aaENuM3FvbEd1N25hUTV0UEZlbUpXSW9fS1hOYWE2YWpvT1gya0Q3ZlFtdWxzSWpDVnJsbFVlU0lGWERYMnF2bWM5V3B2Zk9hUmt0bG5kb1hVOGZGajk0dVJ0RHgyS0V4Mm9DV1RZcjhPakdPV0w1bVUyUFBzNF9rVFRLeldxd1dBWk9heTlxVkxUTlU0d9IBxwFBVV95cUxOSm1scUdJYVJQc0RVelJPcmV6V3BPM19CVkJSWUY1ZmxTdGZIeUVTRzMwbnJERHRNRTlpZ2JLOUVxdlU5Xzc0MlBBd3RjR3ZfWmFTTDg0RWlwRlZ2WjRQU2xBZlNYenlqSl9tRzV4bEFRQnFQOUZiQnZyUXBlRXNfQWktQmZhYnpiWFZWdUwxcUU3d1Vic0hDVU80dUQ3M2stQVRWLWF4RUVOUUFTeGdPLUdfYWN2eGVOUDFudGdJMnJhcDBrdW1z?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWc4UndvOHRucTFodE9GaHJsVy00eWdSd2VlVTNEcW1mdFpKV0s4MnVEdWJ6b2hmQ015SFd0QXpCdzE4S2tPdEFMSUJaYl9XVjFlbHpKcGZGUXVvMHM5WVZDTkUwV1pMcF8tbnR0ai04U3E2LTJ5TVlJelhXZDRTa1dGNjJ6Y0Z1aGxFSVVESjBVOGZZQ29aMF9jZWVPbWVMclJzWUdPNTAzZlJkQm44MzJFVVNqZW1FNWdRMVVoc05TWjlLbTFlb1oxTmMzdw?oc=5",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHkwMlRRUkVXSlI1RmdUbzZxVi1hSGdpSFR2SmNrYzNmZW5EelNQSXJaNGxDdkNJYWlLaldINy00bHpvNkV4N09FMDFkWXFDd2QyY1dVUFJhZDcxZzd1ajd2c3ZsR0FVNFhYTHFiQVg1ZGFUOXVJX1NLNXNjelFHZmFabk0wdmN4eWhhYkZRdXZTUXVyOEw3WXgtdXhYbktJSk1VbQ?oc=5"
           ]
         },
         {
-          "t": "Ibovespa rises following interest rate cut",
-          "src": "TradingView",
-          "b": "The Ibovespa is the main stock market index for Brazil, tracking the share prices of top companies trading in the country. The index climbed higher after a decision to lower the Selic rate. The Selic rate is the core interest rate set by the central bank, which influences borrowing costs across the entire economy. Lower rates often make stocks more attractive to investors compared to holding cash.",
-          "i": "The Ibovespa rose following a cut to the Selic rate by Brazil's monetary authorities. Lower borrowing costs typically stimulate domestic equity demand as investors rotate away from fixed-income yields. Market indices responded positively to the adjusted monetary policy stance.",
-          "a": "The Ibovespa advanced following the implementation of a Selic rate reduction. The easing cycle compresses domestic risk-free yields, triggering capital flows into local equities. This monetary adjustment alters valuation multiples across the exchange constituents.",
+          "t": "Brazilian assets react as the Selic interest rate is cut",
+          "src": "tradingview.com",
+          "b": "The Selic is the main interest rate set by the central bank in Brazil. Lowering this rate makes borrowing cheaper for people and businesses. The Brazilian real stayed steady following this recent interest rate cut. At the same time, the Ibovespa stock index went up.",
+          "i": "Brazil lowered the Selic rate, prompting a distinct reaction across domestic asset classes. The Brazilian real remained steady despite the monetary easing. Meanwhile, the Ibovespa index advanced following the central bank decision.",
+          "a": "The central bank executed a Selic rate cut, triggering immediate adjustments in local asset pricing. The Brazilian real held steady against major counterparts despite the reduced yield allure. Simultaneously, the Ibovespa equity benchmark rose as looser monetary conditions boosted risk appetite.",
           "links": [
+            "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUdKcTBtQldTbWFhMHdBNHN1d1kwWWtNV2lNd1hHOVF2azZfOTdiSnl0NFNvc25QZnFaSWJlSjBDREo0ei1YSGVPc3BMVl9oU1pFZkk3eVBHdGtuS2twbGUtcEpfY2FVbjJzU19aQlV5eTF5SXR0WERqRUlxbVpkUVItMFNqNTVwdVk2b2liNTllZw?oc=5",
             "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZEVTN4NzNHUm05X2tiM0hqNGFHR2h2cUdiV045emR4MlZmdlFYV3dIVENvVllqdDRSRHpQXzFrdERUME5OclY5cUdWaUtTbm5sR0dCVkViSnpWcUo2VmFKQnkzcG5aNVZhazkyN25WalVjYnVnM1JQWVVsWTd4Q0xYcGRFZjZI?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials oversee state-controlled firms like Petrobras while managing national energy policies. Economic planners adjust borrowing rates to influence national growth and price levels.",
-        "i": "State involvement in Petrobras shapes corporate strategy alongside international exploration bids. Central bank policy decisions regarding the Selic rate directly impact domestic financial conditions.",
-        "a": "State equity ownership in Petrobras intersects with national resource extraction agendas and foreign expansion. Monetary policy adjustments via the Selic framework govern macroeconomic liquidity and equity valuations.",
-        "sources": {
-          "0": {
-            "outlet": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHkwMlRRUkVXSlI1RmdUbzZxVi1hSGdpSFR2SmNrYzNmZW5EelNQSXJaNGxDdkNJYWlLaldINy00bHpvNkV4N09FMDFkWXFDd2QyY1dVUFJhZDcxZzd1ajd2c3ZsR0FVNFhYTHFiQVg1ZGFUOXVJX1NLNXNjelFHZmFabk0wdmN4eWhhYkZRdXZTUXVyOEw3WXgtdXhYbktJSk1VbQ?oc=5"
-          },
-          "1": {
-            "outlet": "TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZEVTN4NzNHUm05X2tiM0hqNGFHR2h2cUdiV045emR4MlZmdlFYV3dIVENvVllqdDRSRHpQXzFrdERUME5OclY5cUdWaUtTbm5sR0dCVkViSnpWcUo2VmFKQnkzcG5aNVZhazkyN25WalVjYnVnM1JQWVVsWTd4Q0xYcGRFZjZI?oc=5"
-          }
-        }
+        "b": "Government officials and energy regulators watched Petrobras secure its new international oil contracts in West Africa. Lawmakers also observed how the central bank adjusted the national interest rate.",
+        "i": "State stakeholders monitored Petrobras as the company finalized its production sharing contracts in Côte d'Ivoire. Policymakers evaluated the broader economic impact of the latest monetary policy adjustment.",
+        "a": "State oversight bodies scrutinised the cross-border capital allocation by Petrobras into West African blocks. Federal monetary authorities maintained policy execution through the latest adjustment cycle."
       },
       "timeline": [
         [
-          "17 Sep 2026",
-          "Petrobras signed production sharing contracts for eight offshore blocks in Ivory Coast."
-        ],
-        [
-          "17 Sep 2026",
-          "The Ibovespa rose following a Selic interest rate cut."
+          "17 Sep",
+          "Petrobras signs production sharing contracts for eight offshore blocks in Côte d'Ivoire"
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco seeks fuel cargoes and launches tech tool",
+      "sub": "Aramco fuel supply hunt, technology ventures and OPEC funding",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco Hunts for Fuel Cargoes",
-          "src": "marketscreener.com · Rigzone · Il Sole 24 ORE",
-          "b": "Saudi Aramco is a very large oil company owned by Saudi Arabia. It buys and sells energy around the world. The company is now trying to buy extra fuel in Europe and the Mediterranean. This happens after recent attacks forced changes to its normal business. Aramco stopped its usual exports to the European Union.",
-          "i": "Saudi Aramco is bidding for fuel cargoes in Europe and the Mediterranean. The state-backed energy giant changed its sourcing strategy following attacks in the region. These incidents disrupted regular flows and forced Aramco to halt exports to the European Union.",
-          "a": "Saudi Aramco entered spot markets to bid for replacement fuel cargoes across Europe and the Mediterranean. Regional security incidents impaired logistical routes and forced an abrupt halt to outgoing exports bound for the European Union. The shift transforms the dominant supplier into an opportunistic buyer of refined product to meet localized delivery obligations.",
+          "t": "Aramco Hunts for Fuel Supply and Technology Ventures",
+          "src": "marketscreener.com · EquityBulls · Bloomberg.com",
+          "b": "Saudi Aramco is looking for fuel cargo supplies in Europe and the Mediterranean after recent attacks. Saudi Aramco also worked with Wipro and SAP to launch a new tool named Wipro STO360. This new tool uses artificial intelligence to help companies manage plant shutdowns. Saudi Aramco stated that technology delivered $5 billion in value last year.",
+          "i": "Saudi Aramco bids for fuel cargoes in Europe and the Mediterranean following attacks in the region. Saudi Aramco partners with Wipro and SAP to launch the Wipro STO360 solution. This artificial intelligence tool targets plant shutdown management for industrial operations. Saudi Aramco previously reported that technology generated $5 billion in value last year.",
+          "a": "Saudi Aramco enters Mediterranean and European markets for replacement fuel cargoes following regional attacks. The company rolls out the Wipro STO360 solution alongside Wipro and SAP to optimize industrial plant turnarounds via artificial intelligence. Management attributes $5 billion in operational value to technological integration from the prior year.",
           "links": [
             "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHNfWTRDMDhUUXhxM3pyQWFzTGFZa0tBSmNJRUxudDlGQmFLZjBGVTNjZ2VEZXhEdXJXYklkT0Y0azM2X3RzZnNSeGhMaVZBQUVKOHJyZjFTVnlWRFQ0S096VGpOZHNDYXhaejNpMU9XaVowcXhJWENUR0gwa2lHakZrY1hMNnBBMTZsd2R2ZUZobjl5NUM0ZTF4aC1nNWRFR3NwU000RjhSbVZpZ3h6LUttSkxQNUpVZldnMU5FTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmJnemV3aC1GVlpERm50cURtTFA2UThuSzE3TFhkaWY4aldCREVISG1feTdzOEtjZWxGeU9pNk50R01wUXRLMUNNVUR3SWI4OUxSMDA3bXZJZUhKWGtfLWVnUWxqMzRlQXdaZkhjNVpqUy1qck5DWHZMWUNCRDFzd3ZwOXlQVTVOVHNUMUU3UWlnSE11ZENiTk1LV19QZmZZX0VN?oc=5",
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1VDNG1zVWlzLVZyYjZkcGdvV3dmVGhkY0Q5WHV5MlZHaEoyekx3X3FITU90T2ttTUF0VGNHZE1qV2RBOTB4MV9kWGdfZlQ4ejBUS2dvS0FCeXJrejRsUnhuNEEyd2NFRXpONGtfc3FoNS1zcG1MbHhQRGEwSFg2SlQxRVVIYVBvM1M1Q1N6WG93WVlUTXJ5UkR6azlpcEdjZ2ZsRDF3V1Rjdw?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnBWbVFFQVJ1cGo0RFBKU2ZyY1RzVzRzN3VYTXlDUlJGVzhydFRZaV9vLXV3R2xFSGRJRlNXMFhyMDM4c3FhX0E3UW5JaVZEMEJpejZqWjY5TW5MZmVaMUtVbmVYalNYdnpmS0N4OEd6SlJ5N2Q3Zk9Hb3FvQzUxNnQzTi16aGpfTVRsVlFmUU92VHlDMGFwQ0RyUlZXenp0QWdLdlZiQzAwRzl1RHlkR0szODU?oc=5"
+            "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZUxrUjFlcGdXRTc3eTFJM3dONnpRMWdUdzFralJ6TDBnV0xJVllIM01uOEhGdkE0ajUxRVRYV29LNkF6NXBJRTZaWFRCaFBrQjB4THk4ek5ERkxIZHRJ?oc=5",
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnBWbVFFQVJ1cGo0RFBKU2ZyY1RzVzRzN3VYTXlDUlJGVzhydFRZaV9vLXV3R2xFSGRJRlNXMFhyMDM4c3FhX0E3UW5JaVZEMEJpejZqWjY5TW5MZmVaMUtVbmVYalNYdnpmS0N4OEd6SlJ5N2Q3Zk9Hb3FvQzUxNnQzTi16aGpfTVRsVlFmUU92VHlDMGFwQ0RyUlZXenp0QWdLdlZiQzAwRzl1RHlkR0szODU?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2FnOXhTQ2tRYnFvYl9xMndCV01rU1RDaEFpVUVwVWxRcVRzVzRRWDJYLU1KaFQ4dFdGLXB2QjZaOV9hckcxWDVjOXFPUXBOenowRkZWMWVZOXdtUzh0bGFpbWtPVUNWQjFGdUszbVpRdUlzTmhVMzljeWNGdlFMTUFQaGVUNUg1c1NoTDRvc0FLbnR3STlMbWxqM0thUEZzampKZndtcw?oc=5",
+            "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVTBHVmhvSElRTHp1M2Z3NkxqZWJTTlUyR0JvWkVCcm5kcGQzNW9reWxPMWh1SHpxXzB0eUplNTgxRTZaZlhlUUZLVWw4M2hqaUhSLUtOa2ZXYjEwdXlSZFVrLU5YTjItVl95X3hzckVMRWREUXFQb3lCMG4wNnV3TU5SVEhlRDhadXA0R05EdG91Y0NUOHRDN1JYX3ZvWlJUYllXUFoxWURxWFh5bmVBaVhjOVZwNHpWRmdickpyUW5VM1VOQkdTNHRPSWxZWVRrTnBqVHV4YWo5LTgwRWlhTjdKbG0yTDTSAewBQVVfeXFMUEpaZ3NBZGRTQ2xnc2hXZVFFOG5DaU81eTFsYUxRLVZNdmNmOEtXQmZQNkZKS3lIdnh3ZGhTalBxQXBLdktST1pUSmNHREFBMVlWVEFUQWVCZTI1d2N4Wk9WeUxDbWVheVo3ekN6aEF0ZkVGNGR3N0tKaUk0Sy1fY0FBSGl0TUFJUmxQbGZ4UTRZY0NJX3NlSW43dnFRVVlHRWNIckZ0bktTdnB2MEdCNjNCX1YyX0ZXUEJXRGZZZmhoaEQtNGhTLTI1TE5qMC05UnJTd0N3SkJDS2pTcnk0UkUwRUF3cGRsSnQ5dXc?oc=5"
           ]
         },
         {
-          "t": "New Software Launch and Technology Value",
-          "src": "EquityBulls · Upstox · Semafor",
-          "b": "Wipro is an information technology company. It worked with Aramco and SAP to build a new tool called Wipro STO360. This artificial intelligence tool helps companies manage the shutdown of industrial plants. Aramco also stated that its technology investments delivered $5 billion in value last year.",
-          "i": "Wipro collaborated with Aramco and SAP to launch the Wipro STO360 solution. The artificial intelligence tool assists industrial operators in managing complex plant shutdowns. Meanwhile, Aramco reported that its technology initiatives generated $5 billion in value over the prior year.",
-          "a": "Wipro commercialized its STO360 shutdown management solution alongside co-developers Aramco and SAP. The artificial intelligence platform targets industrial facility downtime optimisation for heavy enterprise clients. Concurrently, Aramco quantified its broader technological integration, claiming $5 billion in generated value for the previous year.",
+          "t": "OPEC Fund Earmarks Funding for Sustainable City Project",
+          "src": "omanobserver.om · Upstox · Arab News",
+          "b": "The OPEC Fund earmarked $40 million for Oman’s Yiti Sustainable City project. Wipro shares fell 38% year-to-date alongside its recent technology partnership announcements. Aramco F4 Saudi Arabian Championship and Motor Mania announced ticket sales for 10 days of motorsport action.",
+          "i": "The OPEC Fund earmarked $40 million for Oman’s Yiti Sustainable City project. Wipro shares fell 38% year-to-date while the firm launched its new partnership. The Aramco F4 Saudi Arabian Championship and Motor Mania announced ticket sales for 10 days of motorsport action.",
+          "a": "The OPEC Fund allocated $40 million to Oman's Yiti Sustainable City project. Wipro shares traded down 38% year-to-date during its enterprise rollout announcements with Aramco and SAP. The Aramco F4 Saudi Arabian Championship and Motor Mania opened ticket sales for 10 days of motorsport events.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZUxrUjFlcGdXRTc3eTFJM3dONnpRMWdUdzFralJ6TDBnV0xJVllIM01uOEhGdkE0ajUxRVRYV29LNkF6NXBJRTZaWFRCaFBrQjB4THk4ek5ERkxIZHRJ?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1dXWWdFeGJjZ3hSVUJvQzlnLWtVWjFOaEc4Wm5LTFRxbHhEV2VJSnhKdi1EOUZWVXktWjF1WUNkWjlPREFzUHlsMmxtNUhXUEVxaHA5eGtYUE5PWWJ4MnZFaXZYQkN6SFF3ZjBQYTQ1aGFxNHh2a1R4dGNmRUlldXpMVy02NEswN2JkbHdZVDdHUE8xcllIaloyWnM1U3hudk1oU0NSRUtkb1dkQU5RSUNtS01UV3ZtempoU3ZaNi3SAVpBVV95cUxOcWhoV1UwWW5Mb01TYWU2OGlRTEtZcGFpMTA4UFp1VzZ1OWtNVjdqdEFrZ1JOcG1sRlhiQ0pXakphZ3N4X3NNam40b0hES0NnenJRWVRTQkVFRHc?oc=5",
             "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTDJ1ZTI5WTI0RTM3Q3dZODhRUGFXTmNxWTBjOHJDRFhfU1duVG85UTNFV1ZWRy0zN0RwUFQxdmhlaGRVc04ycFZ6cGZwLWNMVEk4NjhLeFBiWkwwUndlT3dkWWQ1MWl3MVlkRkFtSlRnU0NuMV9XSjNYUDFXb0l1cUswZVFwd0pBYVB5aVRCMFJVRmEzckxkRW1Va2lsX3diY2Q0dWhlRktScUtWT1lBekxiQkxJMlpXelR5eUJTUEs4TXh5dlZybk84bzNSOG0t?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2FnOXhTQ2tRYnFvYl9xMndCV01rU1RDaEFpVUVwVWxRcVRzVzRRWDJYLU1KaFQ4dFdGLXB2QjZaOV9hckcxWDVjOXFPUXBOenowRkZWMWVZOXdtUzh0bGFpbWtPVUNWQjFGdUszbVpRdUlzTmhVMzljeWNGdlFMTUFQaGVUNUg1c1NoTDRvc0FLbnR3STlMbWxqM0thUEZzampKZndtcw?oc=5",
-            "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVTBHVmhvSElRTHp1M2Z3NkxqZWJTTlUyR0JvWkVCcm5kcGQzNW9reWxPMWh1SHpxXzB0eUplNTgxRTZaZlhlUUZLVWw4M2hqaUhSLUtOa2ZXYjEwdXlSZFVrLU5YTjItVl95X3hzckVMRWREUXFQb3lCMG4wNnV3TU5SVEhlRDhadXA0R05EdG91Y0NUOHRDN1JYX3ZvWlJUYllXUFoxWURxWFh5bmVBaVhjOVZwNHpWRmdickpyUW5VM1VOQkdTNHRPSWxZWVRrTnBqVHV4YWo5LTgwRWlhTjdKbG0yTDTSAewBQVVfeXFMUEpaZ3NBZGRTQ2xnc2hXZVFFOG5DaU81eTFsYUxRLVZNdmNmOEtXQmZQNkZKS3lIdnh3ZGhTalBxQXBLdktST1pUSmNHREFBMVlWVEFUQWVCZTI1d2N4Wk9WeUxDbWVheVo3ekN6aEF0ZkVGNGR3N0tKaUk0Sy1fY0FBSGl0TUFJUmxQbGZ4UTRZY0NJX3NlSW43dnFRVVlHRWNIckZ0bktTdnB2MEdCNjNCX1YyX0ZXUEJXRGZZZmhoaEQtNGhTLTI1TE5qMC05UnJTd0N3SkJDS2pTcnk0UkUwRUF3cGRsSnQ5dXc?oc=5"
+            "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYXJzcTVsSVpqTmRReG4ycEpxUFV2cW52eGRpcDJLR01wVmp5U2lZTm5oSm02UXNQVVRCQUxaZVh0NFhuRG9HSElIR2s1bzJuZ2hoWVg3UWtIZnRsOVpvbGw3Wm9zOHBsUjRpNElzNUphN2QyQ1pqV25tYXp0QzdpQ3QwNG5YRmJFRTBmTUJQVWlCQWxZQjEtQXl1bG1YVHU1Ri1ycTVoODgtOThfTlRNMXdzU1pmLWpLUElCYkVwMkc4eTZ1bWxwYjdHdkFuOFJOVUpvbHRJTnFkQ0xuRXJRQlVseVBYZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Pakistan offered help to Saudi Arabia. Saudi Aramco also faced attacks that changed its shipping plans.",
-        "i": "Pakistan provided assistance to the Saudi authorities. Meanwhile, Saudi Aramco experienced operational disruptions stemming from recent attacks.",
-        "a": "State-level assistance from Pakistan arrived to aid Saudi authorities. Simultaneously, physical attacks on infrastructure forced Aramco to alter trade flows and halt outbound shipments to the European Union."
+        "b": "Saudi Aramco is the state oil company of Saudi Arabia. Saudi Aramco makes business deals around the world. These deals include fuel purchases and software partnerships.",
+        "i": "Saudi Aramco operates as the state-owned oil enterprise of Saudi Arabia. The corporation expands its commercial footprint through international fuel procurement and software ventures.",
+        "a": "Saudi Aramco functions as the state oil enterprise of the Kingdom of Saudi Arabia. The corporate apparatus pursues international fuel procurement and software integrations across global markets."
       },
       "timeline": [
         [
           "17 Sep 2026",
-          "Wipro, Aramco and SAP launch the STO360 shutdown management tool."
+          "Aramco partners with Wipro and SAP for the Wipro STO360 tool."
         ],
         [
           "17 Sep 2026",
-          "Aramco bids for replacement fuel cargoes in Europe and the Mediterranean."
+          "Aramco bids for fuel cargoes in Europe and the Mediterranean following attacks."
+        ],
+        [
+          "17 Sep 2026",
+          "OPEC Fund earmarks $40 million for Oman's Yiti Sustainable City project."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira exchange rates, petrol prices, and labour demands",
+      "sub": "Naira exchange rates and fuel prices shift",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Slips at Official Window",
-          "src": "Arbiterz · tribuneonlineng.com",
-          "b": "The naira is the money used in Nigeria. It traded at N1,329.56 for one US dollar on September 17, 2026. This is a small drop in value compared to its previous rate at the official market, known as NAFEM. Currencies change in value every day based on buying and selling.",
-          "i": "The naira traded down to N1,329.56 per US dollar at the NAFEM window on September 17, 2026. This marginal depreciation follows ongoing pressure on the official <span class='term' data-t='carry'>foreign exchange</span> market. Foreign reserve levels and external dollar demand continue to influence these daily currency adjustments.",
-          "a": "The naira registered a marginal depreciation to N1,329.56 against the US dollar at the NAFEM session on September 17, 2026. This downward tick reflects persistent spot market clearing dynamics amid thin liquidity buffers. Importers and offshore investors continue to monitor reserve trajectories to gauge near-term currency stability.",
-          "gloss": "carry",
+          "t": "Naira Slides in Official Market",
+          "src": "Arbiterz · Tribune Online",
+          "b": "The official Nigerian currency dropped in value against the dollar. One dollar now buys more naira than before. This rate is set at the official trading window known as NAFEM. Currency values change constantly based on market demand. The official exchange rate reached N1,329.56 per dollar on September 17, 2026.",
+          "i": "The domestic currency depreciated marginally against the greenback during official trading sessions. Transactions at the NAFEM window settled at N1,329.56 per dollar. Foreign exchange pressures continue to influence currency valuations across official platforms. Central bank interventions and reserve levels dictate liquidity conditions. The official exchange rate closed at N1,329.56 per dollar on September 17, 2026.",
+          "a": "The official rate weakened slightly to settle at N1,329.56 per dollar at the NAFEM window. Order flow imbalances and persistent foreign exchange constraints drive the marginal depreciation. Reserve adequacy remains a key transmission channel for defending domestic valuations against external shocks. The official exchange rate was recorded at N1,329.56 per dollar on September 17, 2026.",
           "links": [
             "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUm9ERFJXOWRrakRVc1lXeDZuMnBCeEhvZ0hrVTMzSlpVMFZHMzFhMEFIUnc2UEw1eTZIZ3RnNFJSd2ltaGxaUktXSklhUXN3U3g3ci13MGtwcVI1aUxmVk1Ld0V1U3RxVEV2cHV1X2N5bnB5ZUlyU1BXXzNGWnZ5VTc2NW9hUkxQVXM2NTliZ09EWXVaVnlrMlctRDZ6TFlJc0xreGt3?oc=5",
-            "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnIyaHZjbGY5TWlFOWIteXlkOFpuV1dKbDMzOEZib1hoNzlvb0dpZVQxQk5vQ1Nfb3dJRU9lR3BFUURfazlncTFBN3lGbFVQWjFfMGtPSE1RWUNQYnduemM2T2pjZ1pROGF1Ry1JenRyTmsydllhazlwN1hmY1RwTW5McVZVYm1WOGlVRWp6NlFMajBDYnBLcA?oc=5"
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnIyaHZjbGY5TWlFOWIteXlkOFpuV1dKbDMzOEZib1hoNzlvb0dpZVQxQk5vQ1Nfb3dJRU9lR3BFUURfazlncTFBN3lGbFVQWjFfMGtPSE1RWUNQYnduemM2T2pjZ1pROGF1Ry1JenRyTmsydllhazlwN1hmY1RwTW5McVZVYm1WOGlVRWp6NlFMajBDYnBLcA?oc=5"
           ]
         },
         {
-          "t": "Labour Union Demands Wage Awards and Crude Allocations",
+          "t": "Labour Demands Concessions as Petrol Price Reaches N1,430",
           "src": "Business Post Nigeria",
-          "b": "The Nigeria Labour Congress is asking for wage awards. It also wants crude oil allocations paid in the local currency. Petrol prices recently reached N1,430 per litre. The union made these requests on September 17, 2026, to help workers cope with high costs.",
-          "i": "The Nigeria Labour Congress pushed for wage awards and naira-denominated crude allocations on September 17, 2026. These demands emerged as retail petrol prices climbed to N1,430 per litre. Labour leaders argue that such interventions are necessary to offset mounting living costs.",
-          "a": "The Nigeria Labour Congress tabled demands for wage awards alongside local currency crude allocations on September 17, 2026. These policy requests coincide with retail petrol prices touching N1,430 per litre. The proposals target domestic refining supply chains and consumer purchasing power.",
+          "b": "Fuel pump prices climbed to N1,430 per litre across the country. The Nigeria Labour Congress responded by demanding wage awards for workers. Union leaders also asked for crude oil allocations paid in local currency. These measures aim to cushion the blow of high energy costs. Petrol prices hit N1,430 per litre on September 17, 2026.",
+          "i": "Retail fuel prices escalated to N1,430 per litre, prompting immediate union demands. The Nigeria Labour Congress pressed authorities for wage awards to offset the cost of living. Representatives also requested crude oil allocations denominated in local currency for domestic refiners. Petrol retail prices reached N1,430 per litre on September 17, 2026.",
+          "a": "Retail petrol prices surged to N1,430 per litre, triggering formal interventions from organised labour. The Nigeria Labour Congress demanded compensatory wage awards and naira-denominated crude allocations to stabilize domestic supply chains. These policy demands seek to mitigate cost-push pressures stemming from energy price adjustments. The fuel price was registered at N1,430 per litre on September 17, 2026.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnhydFlLSlduOThIbVFRSTBfVFVDRUhvVEttenFKWFdOeU5SVzdnaC1BenZvbUJwNXJNUW1RRDVWTVQ0aTItcmdnMDJrcXM2aERaNHY0QjNERWRIbTRaMVpjOUJjNWRkdFI3TXlTa09KdjdDM2ZUTWM0Qk43eDNfSXNHNkotVHNpeFE0RjVvbHpsV3FjSldaUjJBWUlyWkRVMG0yOW54QV9LUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnhydFlLSlduOThIbVFRSTBfVFVDRUhvVEttenFKWFdOeU5SVzdnaC1BenZvbUJwNXJNUW1RRDVWTVQ0aTItcmdnMDJrcXM2aERaNHY0QjNERWRIbTRaMVpjOUJjNWRkdFI3TXlTa09KdjdDM2ZUTWM0Qk43eDNfSXNHNkotVHNpeFE0FjVvbHpsV3FjSldaUjJBWUlyWkRVMG0yOW54QV9LUQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Customs Comptroller-General Adeniyi praised British American Tobacco on September 17, 2026. He thanked the company for its contributions to the Nigerian economy. Government officials frequently meet with large corporate taxpayers to discuss industrial policy.",
-        "i": "Customs Comptroller-General Adeniyi commended British American Tobacco on September 17, 2026. The praise focused on the company's fiscal contributions to the national economy. Regulatory agencies continue to engage formally with major manufacturers.",
-        "a": "Customs Comptroller-General Adeniyi publicly lauded British American Tobacco on September 17, 2026, for its macroeconomic contributions. The commendation highlights ongoing public-private dialogue between trade regulators and large multinational entities operating within domestic industrial corridors.",
+        "b": "Customs leadership commended British American Tobacco for supporting the economy. Authorities continue to monitor foreign reserves to relieve pressure on property markets.",
+        "i": "Customs Comptroller-General Adeniyi praised British American Tobacco for its economic contributions. Market participants observed that stronger foreign reserves could reduce foreign exchange strains in property sectors.",
+        "a": "Comptroller-General Adeniyi lauded British American Tobacco for industrial investments supporting fiscal metrics. Elevated foreign reserve balances offer a potential transmission channel to alleviate foreign exchange illiquidity across domestic property markets.",
         "sources": {
           "0": {
             "outlet": "Nigeria Maritime News",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckRMcWJCb09zcFVNYWFKYldhdlhmWkt2ZzZvMXlkc0hKNEF6MzVrN0hlTHBYdUV5LXZUTlZxOWM1dkFSeVlFaDNPR2FLSWtIUHlFcVYyQkszYzB4Zk15RzRXTll6emlTQTcwV2wxdy1pRU55MUU3MC1RZkdUZTVGMGIwcjlRbWhzRGtZQ0YyUGFuSWRuWFRxa2FyLUpyNE1ZbzhMaHBoRWVVb09qTFpBclJuOHVQeTlrU1N4UFZ6OTlBa0FJQ0dN?oc=5"
+          },
+          "1": {
+            "outlet": "nigeriahousingmarket.com",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVF3SDB3emVWMXhNS09oNkRBMkJsRnJqSWJwNmg4Skk4bFlKVUxveTZuRkx4MG1xSXd1UFB5LTBNQmtGMWVSam5RZEJTQVRQck9MWE9Rd0lBU29salUxWk1lYTFDRTdKeURFQXpCbmR3b3MxVDVCcTZsX2dTZUhyVTA4TTY5LWhpWEh3Q3lsTnhEZWFSM09haEstQ09vbWp1?oc=5"
           }
         }
       },
       "timeline": [
         [
           "16 Sep 2026",
-          "Dollar to naira exchange rates were recorded across official and unofficial channels."
+          "Dollar to naira exchange rates were recorded by market analysts."
         ],
         [
           "17 Sep 2026",
-          "The naira closed slightly weaker at N1,329.56 per dollar at the NAFEM window."
-        ],
-        [
-          "17 Sep 2026",
-          "Petrol retail prices reached N1,430 per litre as the NLC requested wage awards."
+          "Petrol prices reached N1,430 per litre and the official naira rate settled at N1,329.56 per dollar."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Australian Dollar rebounds and markets track asset updates",
+      "sub": "ASX updates, corporate disclosures, and currency movements",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Dollar Moves Against US Rates",
-          "src": "FXStreet",
-          "b": "The Australian Dollar, which is the official currency used in Australia, experienced a rebound. This currency movement helped offset a hawkish Federal Reserve rate hike. A rate hike is when a central bank raises the cost of borrowing money. The US Dollar exchange rate faces a short-term downside target of 0.7050 according to UOB.",
-          "i": "The Australian Dollar recovered ground against the US currency. This rebound compensated for the hawkish Federal Reserve <span class='term' data-t='inflation'>policy</span> stance. UOB analysts project short-term downside toward 0.7050 for the currency pair.",
-          "a": "The AUD rebound countered the hawkish Fed rate trajectory in spot FX flows. UOB strategists maintain a short-term downside target of 0.7050 against the USD. Cross-asset pricing implies persistent divergence in monetary policy expectations between the RBA and the FOMC.",
-          "gloss": "inflation",
+          "t": "Vicinity Expands Equity Base",
+          "src": "ad-hoc-news.de",
+          "b": "Vicinity stock increases its equity base. New VCX securities start trading on the ASX. Shares represent fractional ownership in a company. The Australian Securities Exchange functions as the marketplace where these shares are bought and sold.",
+          "i": "Vicinity stock expands its equity base with the launch of new VCX securities on the ASX. The issuance increases total outstanding shares. New liquidity enters the order books following the trading commencement.",
+          "a": "Vicinity stock executes an equity base expansion via the issuance of new VCX securities on the ASX. The primary issuance alters capital structure metrics. Market participants absorb the incremental float through standard matching engines.",
           "links": [
-            "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFIxWHhUYWppVWQxcW1LWF9pNXZRcDY4dHB5Y2lJTklYV01uYlkyYjZyNGdUejJMT3cySGh5RzhmeDBkRnNMaFlhTDZaNHdDTzZpWFVZMjM4UkszcG5ySVBENkE1UVVPRGctaVdMTXF1M3lGRzBaQjF6ek9meC1yaVdRT3FnV09FV1puOFVvT2UyTEljTkVWUnZEdm9Udw?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkVpWVI4Vk05YTJMSFFHR21RcDhBNHlXVXhHRW1WeUhqRTF6UndibmVBNnRvZHZZRDJwbGk1UnFkRm9McUtlX0lQdU5SUmlyMUJ5VDJYa2QxMllDaW1qRGF3ZjZhcWZ2Z1hoN0NFckw3R1g0OFZtMW1RbHVzOExaTVQyc3NwbFY4Y3VGdUI2V1E5di1ZbjVPNFo3WkNMVUZORWhwcmtYSnE0M3RBVTVxLUpIaXVyQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXdFeUdaRkdlUXhYWG1qUjNJSkNneGVxcWhJbzVNSTlQb1FCZzhodlhvYWZfT25tSlpqNXR5ZldhUXRHM1ptS1FqLTItUjFHdTJMNnlJT2VLSXpmZEJia2NwaUpEZ0RBdzU3YkVIR2lCM2JERTU3YzNBRm5yYkhuVXgwcmtLdjBLeTNVMGh1UGxISVFKUnpPSmN6dmhSLVhIdUdaQUI0RUNXRlJRWkJYdkVMSkowZ0xZaThxaXNjbWFwa2FlbWV3cFFJcDc3dw?oc=5"
           ]
         },
         {
-          "t": "Corporate and Commodity Updates on ASX",
-          "src": "Kalkine",
-          "b": "Advanced Engineered Materials released a half-year report update. Brookside Energy completed its Suttles Pad drilling. Tasmea updated its essential services platform and market development. L1 Gold Fund pursued an equity raising strategy.",
-          "i": "Advanced Engineered Materials updated its half-year report. Brookside Energy finalised Suttles Pad drilling operations. Tasmea progressed its essential services platform development. L1 Gold Fund advanced its equity raising strategy for gold investments.",
-          "a": "ASX-listed entities issued operational updates across multiple sectors. Advanced Engineered Materials reported platform metrics in its half-year accounts. Brookside Energy completed Suttles Pad drilling to expand US energy development. L1 Gold Fund structured an equity raising for gold acquisition.",
+          "t": "Goldman Sachs Discloses Stake in Vulcan Energy",
+          "src": "tradingview.com",
+          "b": "Vulcan Energy Resources Limited reveals a major holdings notice for Goldman Sachs. A major holdings notice tells the public when a large institution buys a big piece of a company. Goldman Sachs is a major global financial firm.",
+          "i": "Vulcan Energy Resources Limited discloses a major holdings notice for Goldman Sachs. Regulatory filings confirm the institutional position change. The disclosure highlights concentrated ownership shifts in the underlying asset.",
+          "a": "Vulcan Energy Resources Limited publishes a major holdings notice detailing Goldman Sachs' position. The regulatory filing quantifies institutional accumulation parameters. Market participants reprice the equity based on the disclosed ownership concentration.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNDVTSlUwYk10aU1VT3drbkhadWpkdXNrcFdVaXctaFhIZFRiSDJEdExfZXVBTThvZm4yd05sZTZkbk5nZ1ZPZk9hRUp0aUlzelJEWmhzSVNqdTNITk8wYXJoQXRwaXpTZk9xRUhvbUJlRUtLSjBNRkN4YU0xRm9VUFlYdjFpaVlDRGVBdU1BbWY5UlBUalVVNVVKbnVrM1dBOVNGTEIxTHpvX3d1NVMxMUVoMnIwNkJNd0J1Yl9MVTBSSkNxMlpJWGlyTWVHanhqTTZwVEtIQ000MFpWamc?oc=5",
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbjFvVnBtNm0zcjZBY1JpcE54VkEwUU9hRmpmb2FtcFBBNlpqNW1Oa3JYWmFkVzZGWWFRRFV0SnpHeC1MYjk0R3R3c0FZR0FReXRoOS1TcTJlM3ZZdW00R1VXNC1XeXlETU1JQmFNSmFVSmJUa0R5azN1WVBydDdkd0UwX0o1d2czSVB2bHpSU2lzY3pvdGhHOWtzQUZ6Q3M3SlFrT3RlUm1uR1h2aVBRU3hpVHBBVnJuU2l3T1VoN2x5dmtWcWFjTA?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3gyYkl2NEtrLXMzYmYtNXowUW1KOThLellHb2ROR09DcVpmdEFFMXNqSVQwaDVUcWwwejkxVlpSMXFtSjA3bC16cXFjSW1ZcGJlZ09EaXpBVWNfbDhobDA2RnNfeWRWWnREQUZvYWtYemg0d2IwSDg0eWphSXY5RDJBd0lpVE9DWWdUc0MwdGF2d2lENlJQRloxWlR6MUo0aGotR05tSXJZdWVPcllfMUlDMzQ5cFpKN2w4Mi15WEdvQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdC1MV3d2YlJFVEtFNzZXT1VkQkpTSk04bHppeVZUWmVVMTlNclZGOXZwTGxPc25STFBSdjZhNGtfU044ZjZPY2Z2cjQ5WkZZcXhWR2hPYzluM2pranR5RENfcnZsemZMZmoxb2lPUjV1cmxCcURRelc2eXlfOHpTZ2kzRjlxU3pIQ1BTekluM05LNUF5QzY1R05ETEZCOG5Cai1Oam03b3F3b1FCWE03aEJJYUhuTWRuR3N6Z2Fn?oc=5"
+            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZnh4VFQ5NXB6M1d0bmxBOG4wS2laSFBzTTJROUQteEJsYlRZcnFlcEdzQWZCSEljbWRTbmU1a3dNOU9KT0lIQ2F3NFhYN2pSQllVS3VTY2oxOXVYbXgxaXdneHlnWEtzcVBOZldqWTBJZXdEa2NES0ZrcERHdVBpc0RUYjJsbVFFVWk3cFBsTTIyTFBnWl9HYzBUcDhVVjJibzIyOER1NWFRdzlhZG9YUHJHVzZDQkZMbVFVcmdBM2l0QkhQRy0xY2l4eVVkMnFTd0c1Q2RDaDBnSk9PRm42Yg?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Market participants monitored various listed technology, mining, and exchange-traded fund assets. Codan, Iress, Technology One, NEXTDC, Megaport, and Life360 drew investor attention. Mining firms including Genesis Minerals, Regis Resources, and Capricorn Metals also featured in market reviews.",
-        "i": "Market participants focused on ASX technology equities such as Codan, Iress, Technology One, NEXTDC, Megaport, and Life360. Mining counters including Genesis Minerals, Regis Resources, and Capricorn Metals drew analytical interest. Additional attention centred on Fortescue within the iron ore sector and the Global X India Nifty 50 ETF.",
-        "a": "Sector rotation focused on ASX tech constituents Codan, Iress, Technology One, NEXTDC, Megaport, and Life360 alongside software firms SiteMinder, Nuix, and Weebit Nano. Precious metals participants tracked Genesis Minerals, Regis Resources, and Capricorn Metals. Bulk commodity sentiment incorporated Fortescue iron ore dynamics alongside cross-border exposure via the Global X India Nifty 50 ETF."
+        "b": "The Australian Dollar rebounds against other currencies. This currency movement offsets a hawkish Federal Reserve rate hike. A rate hike is when a central bank raises the cost of borrowing money.",
+        "i": "The Australian Dollar rebound offsets the hawkish Federal Reserve rate hike. Foreign exchange markets adjust valuations following policy tightening. Cross-border capital flows react to shifting yield differentials.",
+        "a": "The Australian Dollar rebound counterbalances the hawkish Federal Reserve rate hike transmission. G10 currency desks reprice rate probabilities and sovereign spread differentials. FX spot dynamics absorb the hawkish impulse through relative valuation adjustments."
       },
       "timeline": [
         [
           "17 Sep 2026",
-          "Advanced Engineered Materials and Brookside Energy release operational updates on the ASX."
+          "Vicinity starts trading new VCX securities on the ASX."
         ],
         [
           "17 Sep 2026",
-          "UOB publishes short-term downside forecasts for the Australian Dollar against the US Dollar."
+          "Vulcan Energy Resources discloses a Goldman Sachs major holdings notice."
+        ],
+        [
+          "17 Sep 2026",
+          "The Australian Dollar rebounds following the Federal Reserve rate hike."
         ]
       ]
     }
