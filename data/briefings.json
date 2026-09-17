@@ -1,553 +1,535 @@
 {
-  "generated": "2026-09-17T13:26:20.495Z",
+  "generated": "2026-09-17T14:27:43.559Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "17 September 2026",
-    "headline": "The Federal Reserve raised interest rates as oil prices dropped below $100.",
+    "headline": "The Federal Reserve raised interest rates as Wall Street opened higher and oil prices declined.",
     "lede": {
-      "b": "The Federal Reserve, which is the central bank of the United States that manages the country's money supply and borrowing costs, voted unanimously to raise its key interest rate by 0.25 points to a range of 3.75%-4.0%. This adjustment is the first rate increase since 2023 under Kevin Warsh, and it happened despite public demands for lower rates from President Donald Trump. Meanwhile, U.S. oil prices fell below $100 after Saudi Arabia increased crude supplies through the Strait of Hormuz to offset a pipeline attack.",
-      "i": "The Federal Open Management Committee voted unanimously to lift the federal funds rate by 0.25 points, establishing a target range of 3.75%-4.0%. This move marks the first rate increase since 2023 under the leadership of Kevin Warsh, arriving despite public pressure for looser monetary policy from President Donald Trump. Simultaneously, U.S. oil prices retreated below $100 as Saudi Arabia increased crude supplies through the Strait of Hormuz to absorb supply shocks from a pipeline attack.",
-      "a": "The Federal Open Committee executed a unanimous 0.25 point hike to the federal funds rate, establishing a target range of 3.75%-4.0% under Kevin Warsh despite public pressure for monetary easing from President Donald Trump. Concurrently, prompt-month WTI futures retreated below $100 as Saudi Arabia bypassed regional pipeline constraints by routing incremental crude volumes through the Strait of Hormuz."
+      "b": "The Federal Reserve, which is the central bank and main monetary authority of the United States, raised borrowing costs for the first time in years. Warsh directed this move to contain inflation, which is the general rise in the prices of goods and services over time. Wall Street opened higher because easing oil prices and falling Treasury yields alleviated earlier market anxiety. Treasury yields are the returns the government pays investors who lend it money through bonds, which are fixed-income IOUs issued to raise capital. Stock futures and compliance updates also circulated across American exchanges.",
+      "i": "The Federal Reserve raised borrowing costs under Warsh to contain <span class='term' data-t='inflation'>inflation</span> via tighter monetary policy. Wall Street opened higher as easing crude prices and falling Treasury yields alleviated earlier market anxiety. Stock futures advanced alongside regulatory compliance updates from Faraday Future, SCWorx Corp, and Schrödinger.",
+      "a": "The Federal Reserve tightened monetary policy by lifting borrowing costs under Warsh to anchor <span class='term' data-t='inflation'>inflation</span> expectations. Wall Street equities opened higher as retreating crude prices and falling Treasury yields compressed risk premia. US stock futures advanced concurrently with corporate compliance disclosures from Faraday Future, SCWorx Corp, and Schrödinger."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The Federal Reserve raised interest rates by 0.25 points while oil prices dropped below $100.",
-        "i": "The Federal Reserve lifted the federal funds rate to 3.75%-4.0% as oil prices dropped below $100 following increased Saudi shipments.",
-        "a": "The FOMC delivered a 25 basis point hike to the 3.75%-4.0% range while WTI spot prices dropped below $100 on Hormuz supply injections."
+        "b": "The Federal Reserve raised borrowing costs as stock futures advanced.",
+        "i": "The Federal Reserve raised borrowing costs while equity futures advanced on falling yields.",
+        "a": "The Federal Reserve hiked borrowing costs as equity futures advanced on compressing yields."
       },
       {
         "c": "United Kingdom",
-        "b": "The Bank of England held its benchmark rate at 3.75% while inflation rose to 3.1%.",
-        "i": "The Bank of England maintained the Bank Rate at 3.75% as inflation reached 3.1% in August 2026.",
-        "a": "The MPC held the Bank Rate at 3.75% amid print data showing inflation climbing to 3.1%."
+        "b": "Governor Bailey stated that the economic outlook remains too uncertain to evaluate market bets on four rate hikes.",
+        "i": "Governor Bailey noted that the economic outlook remains too uncertain to evaluate market bets on 4 rate hikes.",
+        "a": "Governor Bailey cited economic uncertainty regarding market bets on 4 rate hikes."
       },
       {
         "c": "Germany",
-        "b": "The DAX index reached a one-week high as German inflation accelerated to 2.9%.",
-        "i": "The DAX index advanced 0.77% as German inflation accelerated to 2.9% on energy costs.",
-        "a": "The DAX advanced to an over one-week high as domestic inflation prints accelerated to 2.9%."
+        "b": "German inflation climbed to 2.9% as energy costs rose.",
+        "i": "German inflation climbed to 2.9% as rising energy costs pushed price indices upward.",
+        "a": "German inflation printed at 2.9% as energy inputs pushed price indices higher."
       },
       {
-        "c": "India",
-        "b": "The Reserve Bank of India sold ₹50,000 crore of government bonds in an open market operation.",
-        "i": "The Reserve Bank of India sold ₹50,000 crore in government securities and drained liquidity via a variable rate reverse repo.",
-        "a": "The RBI executed a ₹50,000 crore open market gilt sale and drained banking liquidity via a 3,00,000 crore rupee variable rate reverse repo."
+        "c": "Japan",
+        "b": "The Nikkei 225 index climbed 0.53% to end the session at 64,136.",
+        "i": "The Nikkei 225 index climbed 0.53% to close at 64,136 as oil costs fell.",
+        "a": "The Nikkei 225 index closed up 0.53% at 64,136 amid declining crude valuations."
       }
     ],
     "thread": {
-      "b": "Several central banks adjusted their borrowing policies and managed debt levels. Price pressures also changed across different regions.",
-      "i": "Central banks adjusted monetary policy tools through rate decisions and open market operations. Core inflation prints and commodity adjustments accompanied these liquidity shifts.",
-      "a": "Sovereign monetary authorities balanced shifting inflation prints with open market liquidity management and balance sheet adjustments."
+      "b": "Central bank decisions and shifting energy costs moved markets across multiple regions today. Stock indices and currency levels reacted to these changing economic conditions.",
+      "i": "Central bank policy decisions and commodity price movements drove cross-border equity and currency adjustments. Investors adjusted positions in response to shifting rate expectations and energy costs.",
+      "a": "Global asset prices responded to central bank tightening expectations and shifting commodity inputs. Equities and currencies repriced dynamically across developed and emerging jurisdictions."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Federal Reserve raises rates as oil and trade tensions shift",
+      "sub": "Federal Reserve raises rates as oil and yields decline",
       "ind": [],
       "stories": [
         {
-          "t": "Federal Reserve raises interest rates",
-          "src": "Federal Reserve · MarketWatch · CNBC",
-          "b": "The Federal Reserve is the central bank of the United States, which means it sets the cost of borrowing money across the economy. On Wednesday, the central bank raised its benchmark interest rate by a quarter-percentage-point. This increase brings the target range to between 3.75% and 4.0%. This rate is the cost banks charge each other for overnight loans, which influences the price of consumer debt like home equity lines of credit. The Federal Open Market Committee released economic projections following the meeting.",
-          "i": "The Federal Open Market Committee voted unanimously on Wednesday to lift the federal funds rate by 0.25 points. This adjustment establishes a new target range of 3.75%-4.0%. The central bank executed its first rate increase since 2023 under the leadership of Kevin Warsh. The decision arrived despite repeated public demands for looser monetary policy from President Donald Trump.",
-          "a": "The Federal Open Market Committee delivered a unanimous 0.25 point rate hike on Wednesday, pushing the benchmark corridor to 3.75%-4.0%. Kevin Warsh oversaw the central bank's initial tightening move since 2023 in defiance of executive pressure. The unanimous consensus strips away the immediate political fault line the White House sought to build around central bank independence.",
+          "t": "Federal Reserve Raises Interest Rates",
+          "src": "KSDK · Reuters · The New York Times",
+          "b": "The Federal Reserve, which is the central bank of the United States and manages the country's money, raised its interest rate. This is the first time the bank has hiked rates in years. Warsh led this major step to help contain <span class='term' data-t='inflation'>inflation</span>, which is when the general price of goods and services goes up over time. Wall Street opened higher as easing oil prices boosted relief after the announcement.",
+          "i": "The Federal Reserve raised borrowing costs for the first time in years. Warsh directed the move to contain <span class='term' data-t='inflation'>inflation</span> through tighter monetary policy. Wall Street opened higher as easing oil prices and falling Treasury yields alleviated earlier market anxiety following the rate decision.",
+          "a": "The Federal Reserve executed a rate hike under Warsh's direction to anchor <span class='term' data-t='inflation'>inflation</span> expectations in the first such tightening in years. Equity markets opened higher as declining crude prices and lower Treasury yields mitigated the immediate tightening shock.",
+          "gloss": "inflation",
           "links": [
-            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-            "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-            "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html"
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWkE3cmQ5dnNwdG5yTXFYRjM3ME1HOU5LMkgzTVRvSWRXT1JkWVpEOU9OVzdoWlNpWWRST0hQRlhmb1VCQkVadDcyRnFINlRIaVBXdFpmbUhTVmxJS1JXeHNsdnFIZnlfQldyRktyYnhSLW1PaEtLZHdkUnlGX3F2YkQ2Mm5TVnpEMWdsZ0psZWtjMC1HYi16cURqaU44SGstc2JFX0R3SmI3N1A0UGhzTXRlMmdDUlYtUGFubHlueEZwMF9JN1lzbnh2WE5NTXcxZ1BJN25BYk4?oc=5",
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5"
           ]
         },
         {
-          "t": "Oil prices retreat below $100 after pipeline attack",
-          "src": "CNBC",
-          "b": "Crude oil prices dropped below $100 per barrel on Wednesday. Saudi Arabia offered additional crude supplies through the Strait of Hormuz. This extra oil eased worries about disruptions to exports caused by a pipeline attack.",
-          "i": "U.S. oil prices fell below $100 following reports that Saudi Arabia increased crude supplies via the Strait of Hormuz. The extra volume absorbed supply shocks originating from a recent pipeline attack. This injection calmed market concerns regarding the security of regional export flows.",
-          "a": "WTI crude slipped under $100 as Saudi Arabia compensated for regional supply disruptions via Hormuz routing. The rapid physical accommodation by Riyadh neutralized the risk premium generated by the pipeline strike. Traders recalibrated immediate scarcity pricing following the announcement of alternative export channels.",
+          "t": "Stock Futures and Compliance Updates",
+          "src": "BioSpace · Investing.com · Quiver Quantitative",
+          "b": "US stock futures rose because oil prices and Treasury yields went down. Faraday Future and SCWorx Corp both made moves to regain Nasdaq equity compliance. Schrödinger also reported inducement grants under Nasdaq Listing Rule 5635(c)(4).",
+          "i": "US stock futures advanced as crude prices and Treasury yields retreated. Faraday Future and SCWorx Corp secured updates regarding Nasdaq compliance. Schrödinger disclosed inducement grants under Nasdaq Listing Rule 5635(c)(4).",
+          "a": "US equity futures rebounded alongside declines in sovereign yields and energy benchmarks. Faraday Future and SCWorx Corp regained or pursued Nasdaq compliance metrics. Schrödinger issued inducement grants pursuant to Nasdaq Listing Rule 5635(c)(4).",
           "links": [
-            "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html"
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2FZeVpxbmxvaGVGZ0w2YlNBUmxUcmw0UUtfOGQwbndVRUJPR1FjbndnUzlyQjRZNVNqWmt6TmdBVW1EN2g3S3IzZEdJQ29rUS15aWc4R1d3X3RNcDlobU5ySy1TTENhMUhqakZ0NDg5S08wTzlrUFpqbnRORzJUdDhvN3hWVzlPdDJEMXV5bjFPS3VWMmR3TEptS3pucDJqa3hFWWdkQ25KV2h5UWhOZXZCZDZoVy1fYTh4NlRwQzlicjdoWEdR?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWZnTUVhTVFHWW1veTJiTmRLc0I3c0JRajRPcGVRVHVZNlBXTmxqYU42ako5LTZkT0Nzc2k5ejhYNE9LRzRFRy1CdlMwa3BxYlVIQUk5bzdaTmI4d3BXZGNQcGRIYVlxREhreFo4Vy1xbUt0X2JxTGVDSUpSRGZlNnJ1ODBIakFZYlY0bGJfekJyUTZOR1JlZmpqWHl6cG9GU2xHMkZxbw?oc=5",
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGxXVVlpcmFoUGtZWHNhS1k5TUJGRkhwVTBrUi1QS1ByQUtwVGJCQkEyWkxJQnBVSWk4c0JGRU14WHFZS2RxeVNCcm9wd0Y5S29JODVGU29ZTlVRT0oxTWdyR0s0Wk9iczFBeUN1MGNkbVJGS3FsUzFOMkVqVEJPY0syMGhMREVGS3pQVE5naVE3RXZpZmVIM3QxdHZ6SHdkQUFLU2NRY21Ed3plNUhKZC1nWHBqa1BqU0JV?oc=5",
+            "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVJCdWp2REtuM0ZyMmd3d0hzSmtSS2UwZ01sRjJuRjhKX3F6ZndpbUtPTm9wdVFURnZTVnJKVThwV3ZmWjQtcDFiVl90b0lhbGZmVzZhQ0cyMmk2VFZBQU1LU3Atazh6dkhCX0NFakxXR3VlYlAyRXROZ1U0ZERtRHQ1UXVpMGtlbHJBWmtDMEllVW1s?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "President Donald Trump stated that the United States is nearing the end of its nearly seven-month war with Iran. He also dismissed the idea of Canada becoming an associate member of the European Union as laughable. Meanwhile, trade tensions persist as the president previously demanded lower interest rates from the Federal Reserve.",
-        "i": "President Donald Trump declared that the U.S. is approaching the conclusion of its nearly seven-month conflict with Iran as Tehran signals willingness for a deal. In separate trade commentary, Trump labelled the European Union's proposal for Canada to become an associate member as laughable. These geopolitical developments run parallel to ongoing friction between the White House and the Federal Reserve over borrowing costs.",
-        "a": "The executive branch signaled that the nearly seven-month Iran conflict is nearing its terminal phase amid apparent openness to a diplomatic settlement by Tehran. Concurrently, Trump dismissed a European Union overture to make Canada an associate member. The diplomatic postures unfold as White House trade threats regarding foreign surpluses remain tied to monetary policy disputes.",
-        "source": {}
+        "b": "The Federal Reserve took actions that affect borrowers and investors across the country.",
+        "i": "The Federal Reserve adjusted monetary policy through a new interest rate decision.",
+        "a": "Federal Reserve officials implemented tightening measures to shift macroeconomic liquidity."
       },
       "timeline": [
         [
-          "16 Sep 2026",
-          "The Federal Open Market Committee concluded its two-day meeting and released new economic projections."
-        ],
-        [
-          "16 Sep 2026",
-          "The Federal Reserve announced a quarter-point rate increase, establishing a target range of 3.75%-4.0%."
-        ],
-        [
           "17 Sep 2026",
-          "U.S. oil prices fell below $100 per barrel following news of increased Saudi crude supplies through Hormuz."
+          "The Federal Reserve raised interest rates."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Bank of England holds rates and alters bond sales",
+      "sub": "Bank of England governor addresses rate bets and balance sheet plans",
       "ind": [],
       "stories": [
         {
-          "t": "Bank Rate Maintained at 3.75%",
-          "src": "Bank of England · CNBC",
-          "b": "The Bank of England is the country's central bank. It sets the official borrowing cost for the economy. This is called the Bank Rate. The Monetary Policy Committee voted to keep this rate at 3.75% in September 2026. This rate influences mortgages and loans for millions of people.",
-          "i": "The Bank of England decided to hold the Bank Rate steady at 3.75% during its September meeting. The central bank's Monetary Policy Committee administers this benchmark, which dictates economy-wide borrowing costs. This decision arrived alongside data showing <span class='term' data-t='inflation'>inflation</span> rising to 3.1% in August 2026. The rate pause defied moves by other major central banks.",
-          "a": "The Monetary Policy Committee maintained the Bank Rate at 3.75% despite headline consumer price growth accelerating to 3.1% in August 2026. This divergence from global tightening cycles places the transmission mechanism for domestic monetary policy under renewed scrutiny. Market pricing had already imputed the terminal rate expectations following successive energy cost pressures.",
-          "gloss": "inflation",
-          "links": [
-            "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-            "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html"
-          ]
-        },
-        {
-          "t": "Asset Purchase Facility and Gilt Sales Overhaul",
-          "src": "UK Government · Bank of England",
-          "b": "The Bank of England runs an Asset Purchase Facility to buy and sell government debt. These government bonds are called gilts. The bank announced it will pause standard auctions of these assets. It is reviewing a new plan to sell them directly back to the government instead.",
-          "i": "The Bank of England and HM Treasury announced sweeping updates to the Asset Purchase Facility. The Bank Executive outlined a plan to unwind holdings of <span class='term' data-t='gilts'>gilts</span> acquired for monetary policy purposes. As part of this shift, standard Bank auctions are temporarily paused. Officials are currently reviewing a mechanism to sell the debt directly back to the government.",
-          "a": "The Treasury and the Bank of England restructured the Asset Purchase Facility via an exchange of letters on 17 September 2026. The Bank Executive paused APF <span class='term' data-t='gilts'>gilt</span> auctions to evaluate a model for returning debt directly to the sovereign balance sheet. This alteration in quantitative tightening alters the duration supply absorbed by private secondary markets.",
+          "t": "Bank of England Governor Comments on Rate Path and Balance Sheet",
+          "src": "TradingView · Reuters · Bank of England",
+          "b": "Governor Bailey said the economic outlook is too uncertain to judge market bets on 4 rate hikes. Interest rates are the cost of borrowing money. The central bank manages the country's money supply. Governor Bailey noted that plans to alter quantitative tightening to retain some <span class='term' data-t='gilt'>gilts</span> on the balance sheet began before the latest change of government leadership. Quantitative tightening is a policy where a central bank reduces its holdings of government debt. <span class='term' data-t='gilt'>Gilts</span> are bonds issued by the British government.",
+          "i": "Governor Bailey stated that the economic outlook remains too uncertain to evaluate market bets on 4 rate hikes. The central bank governor noted that plans to alter quantitative tightening to retain certain <span class='term' data-t='gilt'>gilts</span> on the balance sheet started prior to the recent change in government leadership. Quantitative tightening reduces central bank asset holdings. These operational adjustments precede the current political administration.",
+          "a": "Governor Bailey characterized the macroeconomic horizon as insufficiently clear to validate market pricing of 4 rate hikes. The central bank initiated deliberations regarding structural modifications to quantitative tightening to preserve specific <span class='term' data-t='gilt'>gilts</span> on the balance sheet ahead of the preceding ministerial transition. This balance sheet calibration reflects institutional planning independent of government leadership changes.",
           "gloss": "gilt",
           "links": [
-            "https://www.gov.uk/government/publications/update-on-the-asset-purchase-facility-apf",
-            "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026"
-          ]
-        },
-        {
-          "t": "Next Raises Profit Forecasts After Warm Weather Boost",
-          "src": "Guardian Business",
-          "b": "Next is a large clothing retailer listed on the stock market. It owns the UK rights to brands like Gap and Victoria's Secret. The company raised its profit forecasts for the fourth time this year. Warmer weather helped drive unexpected sales growth.",
-          "i": "Next upgraded its profit guidance for the fourth time this year following an unexpected surge in sales. The FTSE 100 retailer, which manages UK operations for brands such as Gap and Victoria’s Secret, credited warmer weather for the demand spike. Management also warned that retail prices could rise during the autumn season.",
-          "a": "Next lifted its full-year profit projections for the fourth consecutive time in 2026. The FTSE 100 apparel vendor attributed the outperformance to unseasonal ambient temperatures driving volume higher. Concurrently, the firm signaled potential consumer price increases for the upcoming autumn collection.",
-          "links": [
-            "https://www.theguardian.com/business/2026/sep/17/next-forecast-profits-sales-prices"
+            "https://www.tradingview.com/news/1",
+            "https://www.reuters.com/news/2",
+            "https://www.bankofengland.co.uk/news/3"
           ]
         }
       ],
       "politics": {
-        "b": "The Chancellor of the Exchequer exchanged open letters with the Governor of the Bank of England on 17 September 2026. These letters followed an inflation rate of 3.1% in August 2026. The Chancellor also appointed three new non-executive directors to the Bank of England’s Court of Directors.",
-        "i": "The Chancellor of the Exchequer and the Governor of the Bank of England engaged in a formal correspondence on 17 September 2026 regarding August's 3.1% inflation print. This exchange accompanied structural announcements concerning the Asset Purchase Facility. Separately, the Chancellor appointed three new non-executive directors to the Bank of England’s Court of Directors on 16 September 2026.",
-        "a": "HM Treasury and Threadneedle Street formalised their policy coordination via an exchange of letters on 17 September 2026 after inflation breached the target at 3.1%. The Chancellor concurrently reshaped oversight by appointing three new non-executive directors to the Bank of England’s Court of Directors on 16 September 2026.",
-        "gloss": "inflation"
+        "b": "Governor Bailey stated that discussions to change quantitative tightening started before the recent change in government leadership. The central bank operates independently from the government. Officials manage monetary policy without political interference. Governor Bailey mentioned this timeline during a broadcast interview.",
+        "i": "Governor Bailey clarified that internal discussions regarding balance sheet adjustments predated the latest shift in government leadership. The central bank maintains operational independence while executing quantitative tightening. These administrative timelines were emphasized during the governor's pooled broadcast interview.",
+        "a": "Governor Bailey insulated the central bank's operational timeline by asserting that structural balance sheet alterations originated prior to the governmental transition. The institutional independence of the monetary authority underpins these quantitative tightening adjustments. These chronological details emerged during official media engagements."
       },
       "timeline": [
         [
-          "16 Sep 2026",
-          "The Chancellor appointed three new non-executive directors to the Bank of England’s Court of Directors."
-        ],
-        [
           "17 Sep 2026",
-          "The Bank of England maintained Bank Rate at 3.75% and reported CPI inflation at 3.1% for August 2026."
-        ],
-        [
-          "17 Sep 2026",
-          "The Chancellor and the Governor exchanged letters regarding the Asset Purchase Facility and gilt sales."
+          "Governor Bailey discusses rate bets and balance sheet plans in a broadcast interview."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German index climbs and price pressures pick up",
+      "sub": "German inflation rate rises and stock index hits high",
       "ind": [],
       "stories": [
         {
-          "t": "German Equities Advance",
-          "src": "TradingView · marketscreener.com",
-          "b": "The DAX index tracks major German company shares, which are small slices of ownership in businesses. This main stock market index rose to an over one-week high on September 17, 2026. The index opened 0.77% higher following decisions made by the Federal Reserve. Individual equities moved in opposite directions, with Hochtief stock gaining on a technical rebound while Brenntag and Bilfinger shares softened.",
-          "i": "The DAX index advanced to an over one-week high on September 17, 2026. The benchmark opened 0.77% higher following the recent rate decision by the Federal Reserve. Individual equities diverged as Hochtief stock climbed on a technical rebound, whereas Brenntag and Bilfinger shares declined.",
-          "a": "The DAX index rallied to a more than one-week high on September 17, 2026, opening up 0.77% in the wake of the Federal Reserve policy announcement. Dispersion within the index remained pronounced as idiosyncratic moves dominated individual equities, lifting Hochtief via a technical rebound while pressuring Brenntag and Bilfinger.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySWhnbU9TZ1pZN2k1YmhtSHVKZWdwaHVYWUxVOTRUTGxaNTEwaFI5Mk5DSXV4Q0M4OThyc2NmcjBqemY1Fmg5elEzZzRaUkVvX3FEUGhMMzh4UXZ0MFRqMkhSc2hYYTZwaW9XTnF0a2RkY2lvSnpZSWlpLU5SWVk?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0ZObjl6VWJOT0k0TEF2djRKWXNMWUJuZ2d5eFlKZWxKNVQ0QVRxRjBwWU12NUNzSmk4ajl0ZGk3VHRyc0JQRVRwdXI0M1dJOGVjYXp2TjVsZW1NdGxucTBiYTFTZW40dXl1SVJoeHJGVlFFeEZ1dmdYZW1mTW54N3VrOFBzalBqLUZ4LXJEa2Ffa1FVby15d2c5TFhYWVNndU80bHBpbw?oc=5"
-          ]
-        },
-        {
-          "t": "German Price Pressures Accelerate",
+          "t": "German consumer price growth quickens",
           "src": "InteriorDaily",
-          "b": "German <span class='term' data-t='inflation'>inflation</span> measures how fast the cost of living goes up. This rate climbed to 2.9% on September 17, 2026. Higher energy costs drove the increase in consumer prices across the country.",
-          "i": "German <span class='term' data-t='inflation'>inflation</span> accelerated to 2.9% on September 17, 2026. Higher energy costs drove the upward pressure on consumer prices across the economy.",
-          "a": "German <span class='term' data-t='inflation'>inflation</span> printed at 2.9% on September 17, 2026. The acceleration was propelled primarily by advancing energy components within the consumer basket.",
+          "b": "German <span class='term' data-t='inflation'>inflation</span> measures how fast prices go up across the whole country. That rate went up to 2.9% because energy costs got higher. When energy costs rise, everyday goods and services cost more.",
+          "i": "German <span class='term' data-t='inflation'>inflation</span> climbed to 2.9% as rising energy costs pushed price indices upward. This acceleration reflects immediate pressures in the energy sector feeding into broader consumer goods.",
+          "a": "German <span class='term' data-t='inflation'>inflation</span> printed at 2.9%, driven by an upward move in energy components. The print tests the transmission mechanisms of recent central bank policy as energy shocks continue to feed headline prints.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjBaS0k0Q3FNMWMwWGp6NVZTOWQxNXRXVUJEM3o1cHA4TnBteVlRanVCNWtfOFJic1Y1ME4tUEd2RVA1b0NrZ2NtdGo2QkFLa3lFaUoxTlpabzRuYmZMQTRSODZnR0ZxN2EtekFWQzVJOUNnY0xodGdVc2UwQ2UzQUU1N3RScGh3WEdBd2ZHRkRyWld2WW9CbXlnRURjYUFa?oc=5"
           ]
+        },
+        {
+          "t": "DAX index climbs to multi-week peak",
+          "src": "tradingview.com · ad-hoc-news.de",
+          "b": "The DAX is a stock index, which is a group of big company shares traded together as a bundle. The DAX reached an over one-week high following a central bank rate decision. Individual company stocks like Hochtief gained, while Brenntag and Commerzbank softened.",
+          "i": "The DAX index reached an over one-week high following the Federal Reserve rate decision. Stock movements diverged across the index as Hochtief gained on a technical rebound, while Brenntag and Commerzbank weakened.",
+          "a": "The DAX 40 advanced to an over one-week high in the wake of the Federal Reserve rate decision. Dispersion within the index remained evident as Hochtief rallied on technical positioning while Commerzbank lagged behind analyst targets.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ySWhnbU9TZ1pZN2k1YmhtSHVKZWdwaHVYWUxVOTRUTGxaNTEwaFI5Mk5DSXV4Q0M4OThyc2NmcjBqemY1Fmg5elEzZzRaUkVvX3FEUGhMMzh4UXZ0MFRqMkhSc2hYYTZwaW9XTnF0a2RkY2lvSnpZSWlpLU5SWVk?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjhjbW40YkVGTDN3Y0JRNzFpckRKS1VFbHJCVm80OGp4SzJRU1JidHBkcS1tWXc4Mmo1YWJzanhXbjY3a1VpVm9VN0R1aTBmTVdOZC1hNjd3QVVJU2RVbGlVbUEzX2JqTU1DVUZaVWQ0NGx3b3R2T2ozV1Z2NjVjTHo3OERtTXhzZGZFbVNwQWdhQnAzaTVZd0ZpUUQ4bm5aTHEyZ19JQUdkYWlURXdfbkNBamt4ejdWU2VONThRZWd5N0h6MVBmOHdRZFk?oc=5",
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTdqVmd5eGNzVTVNaFB2TWJ4cHp3NzFqbjdHQ2NlMm5MUWhHdUwxbDdlaGo5M19LOWJDRUVSMUNtMndHOTE1ZjVIbmNUVG42WVZ6T3V1cnprT2V2MGVVbTNBLV9GT2FZY3BUZ1huZWg2QnphTUFKTkdGOU9Ya2lvLUtZNFUyVGVtUnB3dXZQcGFWT0RlTTBybnNZY3Z6U2hIYk9CbHhOcDdKVkF0Mm1FSzUwZGJKZk9vZnNnQU9nTQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlY3VDRxQ19Zem1JUk14REhNaHVsX2lwNGNpakd4cGxkeXR2eGdpdVFSVjBheGVaTUVaSXlpb0x3VVNXbHVqSkh0UU5UNDU0WWtqUlREQmprMzBqOHB2d2FkNUMwa1lvUGI5c1NzTWF3bnU4T0NmendwbGFOT1ZFNUV4ZFZvTmNVQ1VKdWxIdmR5Yy1LNmppSGVPa1cxOFNFbU9nUEcyUGxEb1lNZWpwU1ZUd2pVWHo4QlE?oc=5"
+          ]
         }
       ],
       "politics": {
-        "b": "No political updates are available in today's market reports for Germany.",
-        "i": "No political developments were reported in the German market data today.",
-        "a": "No sovereign or domestic political metrics were published in the session feeds.",
-        "timeline": {
-          "0": {
-            "date": "17 Sep 2026",
-            "text": "German inflation rate rises to 2.9% due to climbing energy costs."
-          },
-          "1": {
-            "date": "17 Sep 2026",
-            "text": "The DAX index opens 0.77% higher following the Federal Reserve rate decision."
-          }
-        }
+        "b": "German financial markets reacted to new inflation numbers showing price growth at 2.9% alongside central bank rate choices.",
+        "i": "German markets processed domestic inflation prints of 2.9% alongside spillover effects from international central bank decisions.",
+        "a": "German asset prices adjusted to a 2.9% headline inflation print and external monetary policy shifts from the Federal Reserve."
       },
-      "timeline": []
+      "timeline": [
+        [
+          "17 Sep 2026",
+          "German inflation is reported at 2.9% due to rising energy costs."
+        ],
+        [
+          "17 Sep 2026",
+          "The DAX reaches an over one-week high following international rate decisions."
+        ]
+      ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan data releases",
+      "sub": "Nikkei gains and yen moves on central bank expectations",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan publishes trade data",
-          "src": "Bank of Japan",
-          "b": "The Bank of Japan is the country's central bank, which is the official institution that manages the money supply and sets interest rates. The Bank of Japan released new figures regarding real exports and real imports. These numbers show the physical volume of goods leaving and entering the nation. The publication date for this report was 17 September 2026.",
-          "i": "The Bank of Japan published updated figures covering developments in real exports and real imports. These data series measure trade volumes adjusted for price movements. The release provides insight into external demand dynamics. The central bank issued this dataset on 17 September 2026.",
-          "a": "The Bank of Japan released its periodic tracking of real exports and real imports. This dataset quantifies physical trade flows, stripping out nominal price variations to isolate volume effects. Analysts parse these metrics to gauge net external contribution to GDP. The central bank published the series on 17 September 2026.",
+          "t": "Nikkei Rises as Oil Costs Fall and Investors Hunt Bargains",
+          "src": "News and Statistics IndexBox · Investing.com · Fana News",
+          "b": "Stock markets are places where shares in companies are bought and sold. The Nikkei 225 is an index, which is a basket of major companies that tracks how the stock market is doing overall. The Nikkei 225 index rose by 0.53% to close at 64,136. Lower oil prices helped push the stock market higher. Investors also hunted for bargains in the gaming and pharmaceutical sectors.",
+          "i": "The Nikkei 225 index climbed 0.53% to end the session at 64,136. Declining oil prices provided broad support for Japanese equities. Bargain hunting in gaming and pharmaceutical shares further lifted the benchmark index.",
+          "a": "The Nikkei 225 advanced 0.53% to close at 64,136. Softer energy inputs eased cost pressures across downstream sectors, catalysing equity inflows. Concurrently, value-driven positioning in pharmaceutical and gaming issues sustained the broader index.",
           "links": [
-            "http://www.boj.or.jp/en/research/research_data/reri/index.htm"
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSC1ZTkdoaUZqYzJ6b3JqX2ZjSFRfN0FrYkxLd1VweWE3aFdPd1NOYmJPdnBPMldhdTJKRDVnVGVRVnJmMGg1QmRQMkJJT2ZReUNEdUlXVV9qMFZ0OTNkZjJuYlpFekp3R2o0cUZ0OVNwQ0VwMEJuRjd2S2xZSWZsSVkzNFN2ZVEzWHBIMHNKVVBKQUtMUThvM19ieWh6aFk?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG1VaWZYSVdpZ3ZUT0ZXTGpvUTdxNVJFZXNTYWo2dTlhTnR3Zm5OVXE1dnp2WU8yaEkxb2hOMVZfaExxT3JYZnpVV1M4anF5b2p1MFlpQ3YxNF9aQ1FRT1JfRDRUMFJQVGRpeUpvcDZ3YWpCaTdFLTlrbHZCYUJHcDdlODZ5Vmh3T0ZmTTZSV3RNSFVEVDZid0hKVW14V3MzUXBTSE5FVUxIYmE5OWZJLTRn?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2lfT0IwamdUV3o2TkFVUWQ3aFZQanVHQmR5dVowMHVkTC1kaW5PdTJYVVdCZ2tqQmdhUl9raDlwYV9UaFA5TU5DVjdhNTZDekNxbldiREFCQkZiT2pKSXVxRTIta0NwbGdIWTRmcWMyN2R1YWVMQXZpR1F5TnVpQlJjS2o?oc=5"
           ]
         },
         {
-          "t": "Flow of funds accounts published",
-          "src": "Bank of Japan",
-          "b": "The Bank of Japan released preliminary figures for the flow of funds accounts. This report looks at financial transactions across the whole economy. It covers the second quarter of 2026. The publication took place on 16 September 2026.",
-          "i": "The Bank of Japan published preliminary flow of funds accounts for the second quarter of 2026. This dataset tracks financial asset and liability transactions across household, corporate, and government sectors. The central bank released the preliminary statistics on 16 September 2026.",
-          "a": "The Bank of Japan released preliminary flow of funds accounts for the second quarter of 2026. The dataset details sectoral balance sheet adjustments and inter-institutional financial intermediation. The central bank made the preliminary figures public on 16 September 2026.",
+          "t": "Yen Strengthens on Bank of Japan Tightening Expectations",
+          "src": "FXStreet",
+          "b": "The Bank of Japan is the country's central bank, which manages the money supply and interest rates. Markets expect the central bank to raise interest rates to 1.25%. Expectations of faster monetary tightening lifted the Japanese yen against the US dollar. Falling oil prices and upcoming rate decisions also influenced currency movements.",
+          "i": "Expectations of Bank of Japan monetary tightening supported the Japanese yen against the US dollar. Danske Bank noted that markets have priced in a rate hike to 1.25%. Scotiabank and MUFG reported that faster policy normalisation drove the currency gains.",
+          "a": "Anticipation of accelerated Bank of Japan policy normalisation underpinned the Japanese yen against the US dollar. Danske Bank highlighted a market-implied rate path reaching 1.25%. Scotiabank and MUFG observed that hawkish policy adjustments continue to compress yield differentials in favour of the currency.",
           "links": [
-            "http://www.boj.or.jp/en/statistics/sj/sj.htm"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbi1ZX2gtZjYtRzEtc1R1NU9vWDRoa0F0bGZfWGUxWXhWbjZlRmRuUlRWU3RPdUNXRTJlX1dSclJaYU9JQ0hURVpwMld6dWRlZzZybm9FWjYteUY0OWQ1bGdZcWh2VGVIa3dTa2pUeXl6NG1BaXZxTnlnWWU1Ym5UWWE4bS0zRkUxZGlQcTY1TDd5TkVRNFRBd2haTmYyOWUxSnlOSW1aVEJKNWl1ejF4X3RCQWhBdVBaOG1LcENR?oc=5",
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHhzM3Z5OFVhb3BJX2F1NUpLaTZyLThXSmJycUN5NnRUVXhlUFN5a003OHhVYTc0RGVNci1LQndZd0xkcll6Zi1CdkdET01SUElfZUgwU1JEbkdUUVF2dWgwXzVzeGFBZVIxVnBIM0dnZkRsVHJpUjI2bWxwak9fRmVxcG43U05OWHVsY0dZLWdaV1pydFBrYVpfbTEtamM3eHllc1ZWY1lDeE9sYmRicjl6MDBiZw?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmRvME1NdUVya3ZZRnhzMGZFai05QmE2TEVYSEJBT2R5cTRrUndWaThCTUhGMjBYUlltUTRsYW1oMFZWR3lNLXphRlpvdll6elFxUnZ3Ylhfc0VJOW5uaWNzdXJBM295WU1BRW9WLUxWSlRzUUd2aTJFXzJIc1phMVdYOGpUYy1YeVFQSzJCbmk5MFpibFF0V2dB?oc=5"
+          ]
+        },
+        {
+          "t": "Mitsubishi Heavy Industries Makes Ten Billion Yen AI Investment",
+          "src": "MarketWatch",
+          "b": "Mitsubishi Heavy Industries invested 10 billion yen in an artificial intelligence company through a capital alliance. The Yomiuri newspaper reported the deal. Large industrial firms are increasingly funding technology partnerships.",
+          "i": "Mitsubishi Heavy Industries deployed 10 billion yen into an artificial intelligence firm via a capital alliance. The Yomiuri newspaper disclosed the transaction details. This agreement links heavy manufacturing operations with artificial intelligence capabilities.",
+          "a": "Mitsubishi Heavy Industries allocated 10 billion yen to an artificial intelligence enterprise via a strategic capital alliance. Reporting from the Yomiuri outlet outlined the transaction structure. This deployment underscores corporate integration of artificial intelligence assets within traditional engineering conglomerates.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMlRVUkdTNnMtSUFndWljX1g2THZKRVZyWEdSaENQQlBBYTdydUpUbnJQNE93R29sVEZRZzJkNDdCTVFpX2YyVUFlemRlQXNaYzBGb3BhU1FIQXZ4N0Nnakh4OWQ5bnZoRU1HekMyWlM5MWFzTjFPbUEzeF9NNTQ4MWFJekpxMnVBUjJYMHpWaWJWT0hXRTlMUTduT21Rb05ZTGJQS0RYcXk2R2YtcktVSkUtLTRqNXA1MXRsZnJieUhJZDFoVFoyeE9yTTJ1TFd6Z2g3U3VRWWVCT29xSnFvcDVlTkFaaXVhRHpHN01n?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political news sources reported on international trade remarks. Donald Trump spoke about European proposals involving Canada. Ursula von der Leyen and Mark Carney discussed political links. The reports appeared in September 2026.",
-        "i": "International media reported on comments by Donald Trump regarding European proposals for Canada. Ursula von der Leyen and Mark Carney discussed bilateral arrangements. These diplomatic exchanges occurred in September 2026.",
-        "a": "External news coverage focused on geopolitical trade frictions involving Donald Trump, Ursula von der Leyen, and Mark Carney. Reports detailed proposed associate membership frameworks and potential tariff threats. The coverage was published in September 2026.",
-        "sources": {
-          "0": {
-            "outlet": "Guardian Business",
-            "url": "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video"
-          }
-        }
+        "b": "Central bankers and government officials monitor interest rates and currency levels closely. Economic policymakers face decisions regarding inflation and monetary tightening. Market participants evaluate upcoming rate announcements from the Bank of Japan.",
+        "i": "Monetary authorities weigh the pace of interest rate increases against macroeconomic indicators. Policymakers monitor foreign exchange stability as the yen reacts to tightening expectations. Market participants price in a policy rate path leading to 1.25%.",
+        "a": "Monetary policymakers calibrate policy normalisation trajectories against external debt and currency dynamics. Foreign exchange valuations remain highly sensitive to real yield spreads driven by central bank signaling. Rate expectations continue to anchor around a 1.25% terminal policy target."
       },
       "timeline": [
         [
-          "16 Sep 2026",
-          "The Bank of Japan published preliminary flow of funds accounts for the second quarter of 2026."
+          "17 Sep 2026",
+          "Nikkei 225 closes higher at 64,136 amid falling oil prices"
         ],
         [
           "17 Sep 2026",
-          "The Bank of Japan released updates on real exports and real imports."
+          "Mitsubishi Heavy Industries announces 10 billion yen artificial intelligence investment"
+        ],
+        [
+          "17 Sep 2026",
+          "Bank of Japan rate hike expectations lift the yen against the US dollar"
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "China AI labs, US Treasuries, and EU laws",
+      "sub": "Corporate bond issues and domestic EV price competition",
       "ind": [],
       "stories": [
         {
-          "t": "Huawei urges faster AI development",
-          "src": "Financial Times",
-          "b": "Huawei is a major Chinese technology company that makes phones and network equipment. The chair of Huawei demands that artificial intelligence laboratories in China speed up their research. Artificial intelligence means computer systems that can perform tasks normally requiring human intelligence. This push contrasts with warnings from Silicon Valley executives who want to slow down AI development due to safety concerns.",
-          "i": "The rotating chair of Huawei urges Chinese artificial intelligence laboratories to accelerate their development timelines. This domestic directive diverges sharply from calls originating in Silicon Valley for a deceleration of AI progress over existential risk concerns.",
-          "a": "Huawei's leadership demands accelerated artificial intelligence development trajectories across domestic labs, decoupling China's strategic posture from Western calls for safety-driven moratoriums. The accelerated timeline highlights a widening philosophical rift regarding technological existential risks between Chinese industrial planners and Silicon Valley incumbents.",
+          "t": "SDIC Power and CGN Power Issue New Debt",
+          "src": "Investing.com India · marketscreener.com",
+          "b": "An energy company named SDIC Power has a subsidiary that plans to sell up to 8 billion yuan worth of bonds, which are formal IOU notes where investors lend money to a company in exchange for regular interest payments. Another energy firm called CGN Power raised 1 billion yuan through its own five-year bond issue. These debt instruments allow large corporations to raise capital directly from institutional lenders.",
+          "i": "The SDIC Power subsidiary registered a programme to issue up to 8 billion yuan in <span class='term' data-t='gilt'>bonds</span> to secure corporate financing. Simultaneously, CGN Power raised 1 billion yuan via a five-year debt offering. Both transactions highlight active debt capital market utilization among major Chinese utility providers.",
+          "a": "SDIC Power's subsidiary filed for an 8 billion yuan debt shelf registration, while CGN Power priced a 1 billion yuan five-year tranche. These primary market issuances reflect corporate liquidity management strategies against prevailing domestic yield curves. The absorption capacity of institutional investors dictates the clearing spreads for these utility issues.",
+          "gloss": "gilt",
           "links": [
-            "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFZHem9LWk0tYklLeUNjTFZxV2p4QkJ5LXNjbVBkVmpGYXFldnZHcDU4RGdjU25oUGxfSkIzaWpidjVJNl9obHRQUENyZ3ROZTFFQ1Vjc196d2tQaVM2elVkZGVRU2x3YzNFUkZPOU1GRC1EV3pQWGprN3ptTkdqbGtyTElaMTdramxDMFFETDJuWXg5aTdMWkp6ejg2ZVpjOVZZZ0EwQ1hvRGR6QkVaTU5FS0VrMGVFZnYtRjV3?oc=5",
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVZSNmY4eGotUE1lUW1Ba0FOeXE5WmZQaW1QZjhkTjhWRGttRGlRWFpiZEpNNVQxNkE4b1dCUERQcFRIVlY4NGtMNl9oSmlNZmlnblAwbERTVE1TVVBidDdtcUZQZGpvY1JockFBOW4zOVlHN19kbUlpaEJIN0k1WXprdnFsMXpqZFBheEU0a0Y4NmR1cC11MVZtMjBWd1k5UjFfZloxSV8zWlc0ckNKcHE0STgtWVJE?oc=5"
           ]
         },
         {
-          "t": "China reduces US Treasury holdings",
-          "src": "Financial Times",
-          "b": "China reduces its holdings of United States government debt to the lowest level since 2008. US Treasuries are official loans made to the American government that pay regular interest. This gradual unwinding of debt happens as diplomatic and economic rifts deepen between the world's two largest economies.",
-          "i": "China reduces its <span class='term' data-t='gilt'>Treasury</span> holdings to the lowest point since 2008. This gradual balance sheet unwinding occurs against a backdrop of widening geopolitical rifts between the world's two largest sovereign economies.",
-          "a": "Chinese monetary authorities pare US sovereign debt portfolios down to levels last observed in 2008. This steady divestment channel reflects structural portfolio realignments amid deteriorating bilateral relations between the two largest global economies.",
-          "gloss": "gilt",
+          "t": "Xpeng and Li Auto Launch New SUV Models",
+          "src": "CnEVPost · GlobalChinaEV",
+          "b": "An electric vehicle maker named Xpeng launched the G9L in China to target family buyers. A rival manufacturer called Li Auto introduced its i9 model at a price of 369,800 yuan, undercutting the typical 500,000 yuan price tag seen across competing domestic sports utility vehicles. These vehicle releases arrive amid intense competition in the domestic car market.",
+          "i": "Xpeng expanded its family sport utility vehicle lineup with the commercial launch of the G9L model. Competitor Li Auto priced its i9 vehicle at 369,800 yuan, undercutting the broader 500,000 yuan benchmark prevalent in the domestic sport utility vehicle segment.",
+          "a": "Xpeng executed a product expansion strategy with the G9L release targeting family demographics. Li Auto aggressively undercut the 500,000 yuan domestic sport utility vehicle pricing cluster by positioning the i9 at 369,800 yuan, compressing margin expectations across the original equipment manufacturer cohort.",
           "links": [
-            "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1"
+            "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fN1ZzelVOTzlmQ2g1Y0ItVmdFVm5lQXZSVDB2RUFuaEYtM2tKbFJsamJVRU4zRGtWaXhKUFpNc3RJWWV4ZVY3NGcxZnhjaldfUjVycFBOd2dRSXUtdE5OVGU4eXJlRWdK?oc=5",
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb2dIVWc3bmhyYTNrUUxjQ3hNNWxmQi1aVHRTZi1LRlYyOTZEOFhGZ3FQY1BKSzU4OVA2Rk5MYnlkY004eFl0VkMxZm5naGtHSUQ4QllwYXdyU0pSb1NJYkVNR2c1eEdkV2pIb0tIUFFiSEdYVmVWLUF4SjEwaWRDVWwxY0pfZ1FndXg0bmg2eFNsR2FQamZaSUhyUWx0WTFh?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Katy Watson explores Australia's relationship with China, examining whether the nation acts as a partner, rival or frenemy. Meanwhile, British government sources warn that European Union legislation aimed at China threatens UK business plans.",
-        "i": "A BBC documentary investigates Australia's complex diplomatic posture towards China as a partner and rival. Concurrently, UK government sources reveal that the EU's Industrial Accelerator Act poses risks to British industry and delays reset summits.",
-        "a": "Media programming scrutinises Australia's multi-faceted bilateral diplomacy with Beijing across economic and security vectors. Simultaneously, prospective UK-EU bilateral summits face administrative delays over the Industrial Accelerator Act, a legislative instrument explicitly formulated to counter Chinese industrial dominance."
+        "b": "Hong Kong outlined a five-year plan to expand trading in equities, offshore yuan, and gold.",
+        "i": "Hong Kong authorities formalized a five-year plan focused on expanding equities, offshore yuan, and gold trading capabilities.",
+        "a": "The Hong Kong administrative framework codified a five-year plan prioritizing the structural expansion of equity, offshore yuan, and gold trading platforms."
       },
       "timeline": [
         [
-          "16 Sep 2026",
-          "UK government sources warn that EU legislation aimed at China threatens British industry."
+          "17 Sep 2026",
+          "Xpeng launched the G9L family SUV in China."
         ],
         [
           "17 Sep 2026",
-          "Huawei chair calls for accelerated artificial intelligence development in China."
+          "Li Auto priced its i9 SUV at 369,800 yuan."
         ],
         [
           "17 Sep 2026",
-          "Data reveals China cuts US Treasury holdings to the lowest level since 2008."
+          "SDIC Power's subsidiary moved to register up to 8 billion yuan in bonds."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Reserve Bank of India conducts bond sales and absorbs cash",
+      "sub": "Central bank conducts debt sales and liquidity auctions",
       "ind": [],
       "stories": [
         {
-          "t": "RBI Sells Government Securities in Open Market Operation",
+          "t": "Reserve Bank of India Runs Open Market Operations",
           "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India held an auction to sell government debt on September 17, 2026. Debt is a loan where an investor gives money to the government and receives interest back. The central bank notified a total face value amount of ₹50,000 crore. Market participants submitted bids totaling ₹66,590 crore. The central bank accepted the full notified amount of ₹50,000 crore across multiple securities including the 7.59% GS 2029 and the 8.28% GS 2032.",
-          "i": "The Reserve Bank of India executed an open market sale of government <span class='term' data-t='gilt'>securities</span> on September 17, 2026, targeting a notified face value of ₹50,000 crore. Participants submitted total bids of ₹66,590 crore, prompting the central bank to accept the entire notified allocation. Cut-off yields across the six issued instruments ranged from 6.6007% for the 7.59% GS 2029 up to 7.0090% for the 8.28% GS 2032. A subsequent open market sale auction for an aggregate amount of ₹25,000 crore in 8.28% GS 2027 paper is scheduled for September 21, 2026.",
-          "a": "The Reserve Bank of India absorbed system liquidity via an open market sale auction on September 17, 2026, matching the notified aggregate face value of ₹50,000 crore against total bids of ₹66,590 crore. Clearing cut-off yields spanned from 6.6007% on the 7.59% GS 2029 to 7.0090% on the 8.28% GS 2032, with corresponding cut-off prices of ₹102.25 and ₹105.63 respectively. The central bank announced a follow-up open market sale for ₹25,000 crore of 8.28% GS 2027 paper slated for September 21, 2026, alongside an underwriting auction for ₹28,000 crore of government securities on September 18, 2026.",
+          "b": "The central bank of a country manages money and interest rates. It sold government debt worth ₹50,000 crore on September 17, 2026. This debt is like an IOU where the government borrows money from investors. Participants placed bids totalling ₹66,590 crore for these sales. Another sale of ₹25,000 crore is scheduled for September 21, 2027.",
+          "i": "The Reserve Bank of India accepted ₹50,000 crore worth of bids during an open market <span class='term' data-t='gilt'>gilt</span> sale on September 17, 2026. Total bids reached ₹66,590 crore across multiple maturities including the 7.59% GS 2029 and 8.28% GS 2032 issues. A further debt sale of ₹25,000 crore is planned for September 21, 2026.",
+          "a": "The Reserve Bank of India absorbed system liquidity by clearing ₹50,000 crore in open market debt sales across tenors such as the 7.59% GS 2029 and 8.28% GS 2032 issues on September 17, 2026. Aggregate demand reached ₹66,590 crore against the notified face value. A subsequent ₹25,000 crore sovereign debt sale is scheduled for September 21, 2026.",
           "gloss": "gilt",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63615",
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63613",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63612",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63609"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63615"
           ]
         },
         {
-          "t": "Central Bank Absorbs Overnight Liquidity via Variable Rate Reverse Repo",
+          "t": "Variable Rate Reverse Repo Auction Announced",
           "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India ran an overnight variable rate reverse repo auction on September 17, 2026. A reverse repo is a tool where the central bank borrows money from commercial banks to reduce the cash floating in the economy. The central bank set a notified amount of 3,00,000 crore rupees for a 1-day tenor. Banks submitted total offers of 2,39,959 crore rupees. The central bank accepted every offer received at a cut-off rate of 5.24%.",
-          "i": "The Reserve Bank of India deployed an overnight variable rate reverse repo auction on September 17, 2026, to drain liquidity from the banking system. Commercial banks tendered 2,39,959 crore rupees against a notified amount of 3,00,000 crore rupees for the 1-day tenor. The central bank accepted the entire tendered amount at a cut-off rate and weighted average rate of 5.24%. Total overnight money market volumes reached 7,18,168.02 crore rupees on September 16, 2026, with a weighted average rate of 4.81%.",
-          "a": "The Reserve Bank of India cleared 2,39,959 crore rupees in its overnight variable rate reverse repo auction on September 17, 2026, falling short of the 3,00,000 crore rupees notified amount for the 1-day tenor. The auction printed a cut-off and weighted average rate of 5.24%. Broader overnight money market operations on September 16, 2026, registered a total volume of 7,18,168.02 crore rupees across call money, triparty repo, market repo, and corporate bond repo segments, with a weighted average rate of 4.81%.",
+          "b": "The central bank runs a special auction to take extra cash out of the banking system. This auction happens on September 18, 2026. Banks can deposit ₹2,25,000 crore for three days. The money goes back to the banks on September 21, 2026.",
+          "i": "The Reserve Bank of India announced a Variable Rate Reverse Repo auction for September 18, 2026. The notified amount is set at ₹2,25,000 crore with a tenor of three days. Funds will reverse back to participants on September 21, 2026.",
+          "a": "The Reserve Bank of India scheduled a variable rate reverse repo liquidity drain of ₹2,25,000 crore for September 18, 2026. The three-day window operates between 09:30 AM and 10:00 AM. Settlement and reversal occur on September 21, 2026.",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63608",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63607"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63617"
           ]
         }
       ],
       "politics": {
-        "b": "The Reserve Bank of India cancelled the registration certificates of 5 non-banking financial companies on September 17, 2026. Another 8 non-banking financial companies surrendered their certificates to the central bank. The central bank also extended regulatory directions for The Valsad Mahila Nagrik Sahakari Bank Ltd.",
-        "i": "The Reserve Bank of India cancelled the certificates of registration of 5 non-banking financial companies under Section 45-IA (6) of the Reserve Bank of India Act, 1934, on September 17, 2026. An additional 8 non-banking financial companies voluntarily surrendered their certificates of registration, leading to cancellation under the same legislative provision. The central bank also extended regulatory directions originally issued under Section 35A read with Section 56 of the Banking Regulation Act, 1949, to The Valsad Mahila Nagrik Sahakari Bank Ltd.",
-        "a": "The Reserve Bank of India revoked the certificates of registration of 5 non-banking financial companies pursuant to Section 45-IA (6) of the Reserve Bank of India Act, 1934, on September 17, 2026. A separate cohort of 8 non-banking financial companies surrendered their certificates, prompting official cancellation under the identical statutory authority. Additionally, the central bank extended regulatory directions for The Valsad Mahila Nagrik Sahakari Bank Ltd. originally enacted under Section 35A read with Section 56 of the Banking Regulation Act, 1949."
+        "b": "The central bank cancelled the registration certificates of five non-banking finance companies. It also extended restrictions on a specific cooperative bank in Gujarat.",
+        "i": "The Reserve Bank of India cancelled the registration certificates of five non-banking finance companies under Section 45-IA of the RBI Act. It also extended regulatory directions for The Valsad Mahila Nagrik Sahakari Bank under the Banking Regulation Act.",
+        "a": "The Reserve Bank of India revoked the certificates of registration for five non-banking finance companies pursuant to Section 45-IA of the Reserve Bank of India Act, 1934. It simultaneously extended regulatory directions for The Valsad Mahila Nagrik Sahakari Bank under Section 35A and Section 56 of the Banking Regulation Act, 1949."
       },
       "timeline": [
         [
           "17 Dec 2025",
-          "RBI issued directions to The Valsad Mahila Nagrik Sahakari Bank Ltd."
+          "Regulatory directions issued to Valsad Mahila Nagrik Sahakari Bank"
         ],
         [
           "11 Sep 2026",
-          "RBI announced OMO sale auction for September 21, 2026"
-        ],
-        [
-          "16 Sep 2026",
-          "Money market operations recorded total overnight volume of 7,18,168.02 crore rupees"
+          "Reserve Bank of India announced upcoming open market operations"
         ],
         [
           "17 Sep 2026",
-          "RBI conducted OMO sale auction and overnight variable rate reverse repo auction"
+          "Open market sale auction held for ₹50,000 crore of government securities"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras supply deals and diesel price updates",
+      "sub": "Petrobras secures Ivory Coast blocks and Ibovespa moves",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras adjusts fuel costs and expands global partnerships",
-          "src": "Reuters · news.cgtn.com",
-          "b": "Petrobras raised the average diesel price for distributors by 1 real per litre starting September 17. The firm also granted an equal discount through a new diesel subsidy program in Brazil. Meanwhile, Petrobras signed production-sharing agreements for exploratory blocks located in Ivory Coast.",
-          "i": "Petrobras increased distributor diesel prices by 1 real per litre effective September 17 while concurrently applying matching discounts under a domestic <span class='term' data-t='inflation'>inflation</span>-offsetting subsidy program. Beyond its domestic fuel adjustments, the company secured production-sharing contracts for exploratory blocks in Ivory Coast.",
-          "a": "Petrobras adjusted its domestic pricing structure by lifting average distributor diesel prices by 1 real per litre from September 17, paired with an equivalent fiscal discount via the new subsidy framework. Internationally, the state-controlled operator expanded its upstream footprint by executing production-sharing agreements for exploratory blocks in Ivory Coast.",
-          "gloss": "inflation",
+          "t": "Petrobras signs Ivory Coast offshore deals",
+          "src": "Quantum Commodity Intelligence · Brazil Energy Insight · ad-hoc-news.de",
+          "b": "Petrobras is a big energy company owned partly by the state. It just signed eight new contracts. These deals give the company the right to search for oil in the sea near the Ivory Coast. The new project is part of a push into West Africa. Investors reacted to the news and the company stock went down slightly.",
+          "i": "Petrobras signed eight production sharing contracts for offshore blocks in Côte d’Ivoire. The agreement expands the footprint of the state-backed energy producer into West Africa. Equity markets responded with caution to the announcement. Petrobras stock edged lower following the venture into new international exploratory fields.",
+          "a": "Petrobras added eight new offshore exploratory blocks in Côte d’Ivoire via production sharing agreements. The geographic diversification into West African deepwater assets triggered a muted response in New York and domestic trading. The equity price drifted lower as the market digested the capital expenditure implications of the international expansion.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmM4NmVXSk1RWVJTeGlzVTQ3WjFUTlF1M0FRZlBuSU9XekhPcGRESWVLV3BmOEIxakVuM2tkdEZIYXBPSmJfRXA0X01NOWJpNXVfZTdubTZXUTZ2SUxnQVZITUIteEN5VFI1MTNzOG5BcGlKbGxFUmhodmJpcy1xYk12NjMzN0F3S1NjcWlBcndxNHlMbUZnUWdNZU9ESHlfUlBodDNvbXJsYkpWUGhoOVhHUTZOSHRwYnVTeEw4QQ?oc=5",
-            "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NaHNmSFBtVlBwNW9LMzc2ZWU5OGhOOTk2Nm42M3JkZDFvUlc3S3hyVlhVMWFRY2s2NXBaZ3h0THBpV3JhWHc3VWZ0eWFac1I1TC0xX0xma1lmNzZzNV9kQWdianprOUwtT1JmMXhn?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0tvVXZiWS1nQ2RmT3M3S1pvSjZkTl8yb2I2UTdYM0tGaTBZSWp5cWtWZlh4SnVtM2pMMXM1azBmcnNRbTFVQ0tWQ0w3ZEw5eDQya01OeTUwUEZJX3JlWW9aOWU5cHd6THBLNEhiT3p3M2V4X0JKX3luWF9xeThhUzlHWDNNWWhDdHoyZVI3bGtmVUlaQW52MlBwNWFiNlh6UXVHLUxXbXNOb2gtSjRUVFVFZHFkd21QX3dRSGlJMDk?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjJWak1tX05SNUZmYThsZWR6cjAycHctNmhORUY5eUhQZ0J4NXlGcWh5U3BEYUFldXQtWWY1dG1HV0JNWV9jV3Noc3EwQ2JKc1lXSWpRUml4cVJ2bEdnRWctOTc0TTBMUTFDdERzdTlrREFxcFUwd1NqLUUyUFlrYzFMckpIWFZQeFBkc2Zybkl2c0d6OVBDSnZJTlU3UTh1VkNiOTNRbnloUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjdaU3prWEpPcVB6eHJIcE41YnkzXzJWY3M2VVJjaUxDMERxQm00YnpuQkl4cFVkc21mWHhXRFNfSHplc1lJclVPUkQ2WmxmZDFhMzlyRDhFMjQ3ZV82el9ZQkdsU2VueE9wM253MFJPTTZ3X0liTWpYaC0wUTdaVjBVbVhGWkhjeE5hS3c5V0Vob2JfOG9VRTJvU1N2bzlfLWhEVUtUaDBzdw?oc=5",
+            "https://news.google.com/rss/articles/CBMizAFBVV95cUxORThOaVlJdW1nWnEyWk1kamFiSEdVSlB3bGZ4Z3B2eG9pWGwzUUdvazM4ZnBMVTRjZ0wwU2pFX3dNZ3NieF9hMVdhQUhpbVFaczlfclF3cmsweXYxcW11VUVLb2NHYTU3SVhMWXF4dzg5SmpjUFhaeENGOW03dWJ2QnZoODg5T0VaU1QwRGJOUE5uYTkwR1hxcmx4NWJ2Q3VBRDhkckNqNzFqcHk1OUZUaEtHTEQ3YlhVM3MxTFFOWHlYUDhGc1c1SHdqWGw?oc=5"
           ]
         },
         {
-          "t": "Petrobras secures multi-year technical and supply agreements",
-          "src": "marketscreener.com · Ocean Energy Resources · megaproject.com",
-          "b": "Computer Modelling Group and Petrobras renewed a simulation software agreement for five years. Petrobras also contracted Vallourec for pre-salt project pipes and partnered with Mol for a long-term cargo transfer vessel.",
-          "i": "Computer Modelling Group finalized a five-year software licensing and support agreement renewal with Petrobras. Vallourec secured a pipe supply contract for a Petrobras pre-salt project, while Mol concluded a long-term agreement for a cargo transfer vessel.",
-          "a": "Computer Modelling Group extended its multi-year software licensing and support agreement with Petrobras for five consecutive years. In parallel hardware and logistics developments, Vallourec secured a tubular contract for a pre-salt asset, and Mol finalized a long-term charter for a cargo transfer vessel.",
+          "t": "Computer Modelling Group renews Petrobras deal",
+          "src": "markets.businessinsider.com · marketscreener.com",
+          "b": "Computer Modelling Group makes software that helps test oil fields. It just renewed an old agreement with Petrobras. The new contract lasts for five years. Both companies will continue working on simulation software and support services.",
+          "i": "Computer Modelling Group signed a five-year renewal for its software licensing and support agreement with Petrobras. The multi-year contract continues the technical partnership between the two firms. Petrobras uses the simulation software for reservoir modeling.",
+          "a": "Computer Modelling Group secured a five-year extension for its software licensing and technical support contract with Petrobras. The renewal preserves the operational software pipeline used for reservoir simulation. Long-term vendor continuity remains a core component of upstream digital infrastructure for the operator.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXpwdlRpV183N0gwd2JkNDF6YkRTZGNGQWVlUEEyZ2NFM05iYnJTUmgtdzFUSnBCZnNYTnpkWldnaGhkTzNmLWVUY0R5bjRSN1otVlpwUnd1RDY2NU9KOS1waEctaVpWbHZEcW83OHVuNTF1SlMzVlZuaVdnR0RSYWNIYnRxekpLdGVmM1NSeFRfclFQdTBFU3d6bTdxMGdXVnZRcjZxNGdEM2s2NFlLVXZpRHR2MmhQMnFyTzhvMWxYR21wVHhPZGxkQ19mVUNVZFpOV2FZNVpXTTQyX0hN?oc=5",
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDVxVFJmeVZNcExIMGdDelBPSUFuTm5aLVI4eHVXZGNPZ2p2SW9jVFg0YlNsVzVPUExYUEdsUzE3X2UtM05fWlNrMnp0ZGtPTXJobktJbm5qTjI4cEpSRWF6WHVyRHJyVDRpMU1pMEh0ZTB2MUY3MWszZzJxV1U3WF95S0dJRlRGSWdRcGJGVFQ3WHU4Qk1xT2xQRmdiMlllTlVrVg?oc=5",
-            "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGhHVVgxYVZCQm12cmFqaW1FSG9aQVoxcndfSUxOWjY0YWgybWZaajVLSV9xUXhaYjZndXBzOVRXYUtzTGZneFp4R0NpWFNCTG05SGltNHpZMTk3cHd6bEc5d0pyUVFpbzhXMngxdUhSR21vZktfeHdYRHZXbnJ4aE1Ub2h0bjlWWjFfWHJGb0I4dXkzNkk0U0JEVjhQSWFPUVE?oc=5"
+            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU05reFR1Z0xXYnhPM3czNHBVTjRaSWR3X2x0QklvMnNRZVJYeFIzM0s5NERLZnctdFFNVWF1emg2Rjg1X2hvRUhmQjl0OS1teWlvN3ROaGVueTl6dXEtZ2JjbDFnUU1LYUFoMDZSSnFiYm52a0x6dDZuaG1NbGtxNU9PdS1hMk92dURZVXd6VUVJWDNfT2k1UVpuUnhhUkdyS2lTTFhTVlFhOTkwOTRjTmlrblIzM1VjeTk4LTNtMnRRSjJjclUwQllSWGJWTUF0MkprT2R1T1Bid1g2?oc=5",
+            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXpwdlRpV183N0gwd2JkNDF6YkRTZGNGQWVlUEEyZ2NFM05iYnJTUmgtdzFUSnBCZnNYTnpkWldnaGhkTzNmLWVUY0R5bjRSN1otVlpwUnd1RDY2NU9KOS1waEctaVpWbHZEcW83OHVuNTF1SlMzVlZuaVdnR0RSYWNIYnRxekpLdGVmM1NSeFRfclFQdTBFU3d6bTdxMGdXVnZRcjZxNGdEM2s2NFlLVXZpRHR2MmhQMnFyTzhvMWxYR21wVHhPZGxkQ19mVUNVZFpOV2FZNVpXTTQyX0hN?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Petrobras updated diesel pricing alongside a new government subsidy program. These adjustments occurred during the period leading up to the election.",
-        "i": "State-controlled Petrobras balanced domestic fuel price hikes with a state-backed subsidy mechanism. The changes transpired in the lead-up to the national election.",
-        "a": "The administrative adjustments to domestic fuel distribution margins and state-backed subsidy offsets coincided with the pre-electoral window."
+        "b": "The Brazilian stock market index, called the Ibovespa, went up today. This happened after an interest rate cut known as the Selic cut. Lower interest rates often encourage investors to buy more stocks.",
+        "i": "The Ibovespa rose following a reduction in the benchmark Selic interest rate. Lower borrowing costs typically drive equity valuations higher in local markets. Investors reallocated capital into domestic shares as monetary policy eased.",
+        "a": "The Ibovespa posted gains following the execution of a Selic rate cut by the central bank. The easing cycle altered local discount rates, prompting equity inflows across cyclical sectors. Market participants repriced domestic risk assets against the lower trajectory of benchmark yields.",
+        "gloss": null
       },
       "timeline": [
         [
-          "16 Sep",
-          "Petrobras awards deepwater TCP contract to Strohm offshore Brazil"
+          "17 Sep 2026",
+          "Petrobras signed eight offshore production sharing contracts in Côte d’Ivoire."
         ],
         [
-          "17 Sep",
-          "Petrobras raises average diesel price to distributors by 1 real per liter"
+          "17 Sep 2026",
+          "Computer Modelling Group and Petrobras announced a five-year software agreement renewal."
+        ],
+        [
+          "17 Sep 2026",
+          "The Ibovespa rose following a Selic interest rate cut."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Oil prices fall and strikes continue",
+      "sub": "Aramco launches software tool and changes fuel flows",
       "ind": [],
       "stories": [
         {
-          "t": "Crude prices drop after pipeline attack",
-          "src": "CNBC",
-          "b": "Crude oil is a liquid pumped from the ground and refined into petrol. Prices of this resource dropped below $100 after a pipeline attack. Saudi Arabia offered extra crude supplies through Hormuz to calm export worries.",
-          "i": "Crude prices fell below $100 after a pipeline attack disrupted regional logistics. Additional Saudi supplies moved via Hormuz to ease export concerns. These alternative routes helped calm the physical market.",
-          "a": "Crude benchmarks dropped below $100 as Saudi Arabia routed extra volume through Hormuz following a pipeline attack. The prompt supply addition compressed prompt spreads by easing export bottleneck fears. This physical mitigation directly countered the immediate risk premium priced into the near-term curve.",
+          "t": "Aramco, Wipro and SAP release plant shutdown tool",
+          "src": "Business Standard · Semafor",
+          "b": "Aramco joined two companies named Wipro and SAP to build a new tool. The tool uses artificial intelligence, which is computer software that can think and learn like a person. It helps factories manage when they turn off machines for repairs. Aramco says technology delivered $5,000,000,000 in value last year.",
+          "i": "Wipro collaborated with Aramco and SAP to launch a new <span class='term' data-t='inflation'>artificial</span> intelligence tool called Wipro STO360. The software targets shutdown, turnaround, and outage management for industrial plants. Aramco stated that digital technology delivered $5,000,000,000 in value during the previous year.",
+          "a": "Wipro deployed the STO360 solution alongside Aramco and SAP to optimize turnaround efficiency in capital-heavy operations. The rollout follows Aramco's previous attribution of $5,000,000,000 in enterprise value to technology integration last year. Marginal gains in asset utilization directly offset margin compression from volatile feedstock costs.",
+          "gloss": "inflation",
           "links": [
-            "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html"
+            "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOalFOeVdEbzdYVmFqQXBvTjd5RURtS2ZJWXRxRVZPZWZQQUN1dDhSR1VvakpaZU9mNFpxdThEYWdUTUtRTFJoSVQzY2dPMUZjYUZQZFFKeWFhNlRZcUVPM19XTmk3Ym51OU1MX2JCb2h1dTJhZEt0U0tzSjZpMVhscDlWTVdyZGFHLVFjZHpsdWk1ZnU1aFhfMUVpMTd1Y0haYUlVQ1FGUXQ5YXF3eDBhU01iRWlDUTJFbnVzYUR1bVN5UEtlRlg4NXBPOHdOZF8zNEZIa1NnNEtpM2fSAeABQVVfeXFMUDdBTWN3QW9ZeEJEbXlmdlg2c3lIOUNpNnpxVklQMjJmQ0J2WEZyWEpnNDdOWjBodmU2WEhGSmFUMy1HVDdUampYZnZvS3QtVVIyRFBmdnJBOEx1ODh0cVlCbG5oRkNrN1NaeFQzM3NwOFFTMjUwQ1IwZzhwNTVkS0k1WjV0Y21BWVEyWGpEcWJLVkZ0MjNrWXhDcWdLV25vUmVUbXRkQ1JOcy12aHJqYU92VFZXMXA4RnlSalpsR3FmYTJVLTUyNWtNb2hSaVdiR3lmS0pyRmxlTjA4NjN6SEo",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2FnOXhTQ2tRYnFvYl9xMndCV01rU1RDaEFpVUVwVWxRcVRzVzRRWDJYLU1KaFQ4dFdGLXB2QjZaOV9hckcxWDVjOXFPUXBOenowRkZWMWVZOXdtUzh0bGFpbWtPVUNWQjFGdUszbVpRdUlzTmhVMzljeWNGdlFMTUFQaGVUNUg1c1NoTDRvc0FLbnR3STlMbWxqM0thUEZzampKZndtcw"
           ]
         },
         {
-          "t": "Strikes exchange follows remarks on Iran war",
-          "src": "CNBC",
-          "b": "Saudi Arabia and the Houthis exchanged military strikes. Donald Trump stated that the United States is hopefully nearing the end of its nearly seven-month war with Iran. He mentioned that Tehran seems open to a deal.",
-          "i": "Saudi Arabia and the Houthis exchanged strikes during the ongoing conflict. Donald Trump stated that the United States is nearly through its nearly seven-month war with Iran. He added that Tehran appears open to a deal.",
-          "a": "Saudi Arabia and the Houthis traded strikes amid the ongoing regional conflict. Donald Trump reported that the United States approaches the end of its nearly seven-month war with Iran. He indicated that Tehran displays openness toward a settlement.",
+          "t": "Aramco halts certain fuel exports and adjusts Mediterranean supply",
+          "src": "Il Sole 24 ORE · Bloomberg.com · India.com",
+          "b": "Aramco stopped sending crude oil to refiners in India and halted exports to the European Union. The company also searched for fuel supplies in the Mediterranean after recent attacks. Oil prices jumped above $105 per barrel following these events.",
+          "i": "Aramco halted crude oil supply to Indian refiners and stopped exports to the European Union. The state oil producer searched for alternative fuel supplies in the Mediterranean following recent attacks. Oil prices surged above $105 per barrel amid the Gulf crisis.",
+          "a": "Aramco cut crude flows to Indian refiners and suspended exports to the European Union during the ongoing Gulf crisis. Procurement teams scouted for substitute fuel supplies in the Mediterranean following physical attacks on infrastructure. Brent crude spot prices reacted by breaking above $105 per barrel.",
           "links": [
-            "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1VDNG1zVWlzLVZyYjZkcGdvV3dmVGhkY0Q5WHV5MlZHaEoyekx3X3FITU90T2ttTUF0VGNHZE1qV2RBOTB4MV9kWGdfZlQ4ejBUS2dvS0FCeXJrejRsUnhuNEEyd2NFRXpONGtfc3FoNS1zcG1MbHhQRGEwSFg2SlQxRVVIYVBvM1M1Q1N6WG93WVlUTXJ5UkR6azlpcEdjZ2ZsRDF3V1Rjdw?oc=5",
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnBWbVFFQVJ1cGo0RFBKU2ZyY1RzVzRzN3VYTXlDUlJGVzhydFRZaV9vLXV3R2xFSGRJRlNXMFhyMDM4c3FhX0E3UW5JaVZEMEJpejZqWjY5TW5MZmVaMUtVbmVYalNYdnpmS0N4OEd6SlJ5N2Q3Zk9Hb3FvQzUxNnQzTi16aGpfTVRsVlFmUU92VHlDMGFwQ0RyUlZXenp0QWdLdlZiQzAwRzl1RHlkR0szODU?oc=5",
+            "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWE1VjNrMzdnamNXbDlWTGNrR3VaYnY1aU8yWEFodXRyVGo3NkZuYUxPajJQa3FqMWh5YW5nZWdEYTY1aHdBRzNvSExzNlZTZWh2Nk5xTUIwV3ZKbU9ZVWhqOWJKOWM1VkxacG9oLUswdjdicU9GQV9NQnZpVjlEcnlOVEFDdzIzakZJbmdkMWM1MVdNcU5BM2xGVTVHdmg5d05fcWVBYy1OSThlbGRzLThJbWZhTmxWODBXM3RQRl9tN1doWEd5MFFzeXgyT1JaSW0zbUY4LTlleXk2eUNqbjJZVTY5R0Qx0gHuAUFVX3lxTE8wTllUaHRMSk5ZWkJlU18yZjhCZFJKeTJZRmhmY25JdXNDQWllMEx5RXdIY0VHVnlBdGpHZ00zenZaUE9GTllKcUlYVHgtSS10ZUl3dFEwRGxzazZHNXpJMVdHdGRZY05ubGZuM1g3YUFKb1RncmlhVXNEUkhHRl96XzRsN0NlMkZlUlJlRWkzMzE1RGhJZW56djJZRnU0SHNSMHB3YnFyTmJGSmplX25XSHU0MWEtMWRSdVcxVGxaeVFyMmhmS0NUUk8teGEtUlU0MTAxMDVDdDJNdjVnQ3hxa3piM1YyUVZYanRMNkE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Donald Trump stated that the United States is nearing the conclusion of its nearly seven-month conflict with Iran. Saudi Arabia and the Houthis traded military strikes at the same time.",
-        "i": "Donald Trump stated that the United States approaches the end of its nearly seven-month conflict with Iran. Concurrently, Saudi Arabia and the Houthis exchanged military strikes.",
-        "a": "Donald Trump claimed proximity to the conclusion of the nearly seven-month U.S. war with Iran. Simultaneously, Saudi forces and the Houthis engaged in a mutual exchange of strikes."
+        "b": "Aramco remains a central pillar of the Saudi state economy. Government policies rely heavily on its oil revenue. State officials direct industrial partnerships to boost efficiency.",
+        "i": "State control over Aramco ties national economic strategy directly to hydrocarbon exports. Government directives push technology adoption to protect downstream margins. Regional security incidents directly alter state trade flows.",
+        "a": "State ownership of Aramco binds fiscal stability directly to physical export volumes and crude benchmarks. Strategic state initiatives mandate technological integration via partners like SAP and Wipro to safeguard downstream throughput. Geopolitical disruptions force immediate state-level rationing of export destinations."
       },
       "timeline": [
         [
           "17 Sep 2026",
-          "Saudi Arabia and the Houthis trade strikes while Trump comments on Iran war."
+          "Wipro, Aramco and SAP launch the STO360 shutdown management solution."
+        ],
+        [
+          "17 Sep 2026",
+          "Aramco halts crude supplies to Indian refiners and stops EU exports."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira movements, bank earnings, and potential rate cuts",
+      "sub": "Petrol price surges and currency adjustments in Nigeria",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Moves at Official Market",
-          "src": "Business Post",
-          "b": "The official currency of Nigeria is the naira. The naira recently weakened against the United States dollar by 56 kobo at the official market. Currency markets constantly adjust the price of one money against another based on supply and demand. This official rate determines costs for various official transactions.",
-          "i": "The naira recorded a decline of 56 kobo against the dollar in the official foreign exchange market. Trading sessions continue to reflect underlying liquidity shifts in the official windows. Official rates drift as commercial demand for hard currency fluctuates.",
-          "a": "Official spot values for the naira depreciated by 56 kobo during the session. Interbank clearing mechanisms continue to process order flows against shifting reserve availability. Marginal adjustments in the official band reflect ongoing spot-market clearing dynamics.",
+          "t": "Petrol Prices and Union Demands",
+          "src": "Business Post Nigeria",
+          "b": "Petrol prices in Nigeria reached N1,430 per litre. Labour unions responded by asking for wage awards. They also want crude oil allocated in the local currency. High fuel costs affect everyday life for citizens.",
+          "i": "The price of petrol climbed to N1,430 per litre in Nigeria. The Nigeria Labour Congress demanded wage awards alongside naira crude allocation. These measures aim to cushion the blow of rising energy costs.",
+          "a": "Retail petrol surged to N1,430 per litre, prompting the Nigeria Labour Congress to pursue compensatory wage awards and naira-denominated crude allocations. Such supply-side interventions target domestic refining costs but risk fiscal distortion.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcW5VLWJfLWdOMlNleFY3akhTejM2bzNMOWJib04yOGJGN25qamJGVU1uaG5KLU9kcHJ4bFlSV3I0WUFwX1VDR2ZEd0U0TjliTzJPSUMwd18yR3BJbUxvNFhOak9zSVdpaXVLZHFsWnI2aTNIMEZrSGplcGtXVDAwNEdFYVRhSmZNNkRFRFg3WlRNVGM1WTNlSlpR?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnhydFlLSlduOThIbVFRSTBfVFVDRUhvVEttenFKWFdOeU5SVzdnaC1BenZvbUJwNXJNUW1RRDVWTVQ0aTItcmdnMDJrcXM2aERaNHY0QjNERWRIbTRaMVpjOUJjNWRkdFI3TXlTa09KdjdDM2ZUTWM0Qk43eDNfSXNHNkotVHNpeFE0RjVvbHpsV3FjSldaUjJBWUlyWkRVMG0yOW54QV9LUQ?oc=5"
           ]
         },
         {
-          "t": "Fitch Reports on Bank Earnings",
-          "src": "Streamline Feed",
-          "b": "Fitch Ratings published a report about Nigerian banks. The report shows that the lower value of the naira actually helped increase earnings for foreign subsidiaries of these banks. When a local currency drops, money earned in stronger foreign currencies translates into more local money.",
-          "i": "Fitch reported that the devaluation of the naira boosted the earnings contribution of foreign subsidiaries to Nigerian banks. Domestic lenders with regional footprints benefit translation-wise when reporting local currency revenues. Foreign currency earnings expand in domestic terms following currency depreciation.",
-          "a": "Fitch highlighted that sustained naira depreciation amplified the consolidated earnings contribution of offshore subsidiaries for domestic banking institutions. Balance-sheet translation gains materialize as foreign-denominated cash flows convert into depreciated functional reporting currencies. These cross-border income streams buffer domestic credit institutions against local macroeconomic headwinds.",
+          "t": "Naira Exchange Rate Movements",
+          "src": "Arbiterz · nigeriahousingmarket.com",
+          "b": "The official foreign exchange market traded the naira at N1,329.56 per dollar. This marks a marginal drop for the local currency. Foreign reserves and currency pressures remain closely watched by property markets and investors.",
+          "i": "The naira weakened marginally to N1,329.56 per dollar at the NAFEM window. Foreign exchange pressure persists across commercial sectors. Stronger foreign reserves could potentially alleviate some of these currency strains.",
+          "a": "Spot rates at the NAFEM window saw the naira depreciate marginally to N1,329.56 per dollar. Persistent FX pressure continues to challenge domestic asset classes, though reserve accumulation offers a potential transmission channel for relief.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHJPUldTNkZyYlJZYzhxUkNHQnVUYTVUZm1JM2VWZ2F1NXdlb3VJdHN6T2s4R1oyMzN4RlBNcVlFNndJemthQU54dkFONWdsQm9JbWlENE1vRzhHbHp0aEJZMFNicGdNRld1cjJSbmU1dG4wVG5mM0hwWWJsSU5EMUJJTXcyT0NDenVUYXd4WWk4V2gzWG9nM2hvdXBadlpmbzlBRnlwY1FjYnpob3QxdWZkcF9ZWEs3U09MSDRn?oc=5"
-          ]
-        },
-        {
-          "t": "Potential Interest Rate Reductions",
-          "src": "Bloomberg",
-          "b": "Observers predict that Nigeria might lower interest rates. Interest rates are the cost of borrowing money set by central authorities. This possible change comes as consumer price increases slow down and the national currency shows more strength.",
-          "i": "Analysts expect the central bank to cut interest rates following softer <span class='term' data-t='inflation'>inflation</span> readings and a stronger currency. Lower borrowing costs typically stimulate domestic lending activity. Monetary authorities adjust these rates in response to macroeconomic indicators.",
-          "a": "Market consensus anticipates a monetary easing cycle driven by decelerating headline price growth and currency stabilization. Real yield dynamics shift as policymakers weigh growth objectives against currency stability constraints. Lower benchmark rates would reprice domestic fixed-income securities.",
-          "gloss": "inflation",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDZDa19KeVR1X1NoTGFXdlBVUjgzNjFibGU4MWE3NnE2RFhhaEpjTXdza29CQ3MzQUhueUVMRzZ0eXRscmRkMG9tV05QcWFWcTNYa0I2enFvLVVSQ1hnZlBoa3FZd19qd2ppVHJNSG1FdGJ1S1BLUGZZZ0F4YU5sYklzN0FYZmNXWllRQW9yWE9rWHBBdTZhTFAxTnkwT3M2cWREaHNRSkhBTk1UZk5sTlltTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUm9ERFJXOWRrakRVc1lXeDZuMnBCeEhvZ0hrVTMzSlpVMFZHMzFhMEFIUnc2UEw1eTZIZ3RnNFJSd2ltaGxaUktXSklhUXN3U3g3ci13MGtwcVI1aUxmVk1Ld0V1U3RxVEV2cHV1X2N5bnB5ZUlyU1BXXzNGWnZ5VTc2NW9hUkxQVXM2NTliZ09EWXVaVnlrMlctRDZ6TFlJc0xreGt3?oc=5",
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVF3SDB3emVWMXhNS09oNkRBMkJsRnJqSWJwNmg4Skk4bFlKVUxveTZuRkx4MG1xSXd1UFB5LTBNQmtGMWVSam5RZEJTQVRQck9MWE9Rd0lBU29salUxWk1lYTFDRTdKeURFQXpCbmR3b3MxVDVCcTZsX2dTZUhyVTA4TTY5LWhpWEh3Q3lsTnhEZWFSM09haEstQ09vbWp1?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Nigeria Labour Congress demanded wage awards and crude oil priced in naira for local refineries. Labour unions negotiate these demands to help workers cope with high petrol prices.",
-        "i": "The Nigeria Labour Congress demanded wage awards alongside the supply of crude oil priced in naira to local refineries. Unions push for these interventions to offset the impact of high fuel costs on workers. Labour representatives maintain pressure on authorities regarding domestic energy pricing.",
-        "a": "The Nigeria Labour Congress pressed demands for compensatory wage awards and crude oil feedstock denominated in naira for domestic refineries. Organized labor targets localized petroleum pricing frameworks to mitigate real wage erosion. These demands intersect directly with ongoing petroleum subsidy and refining policy debates.",
-        "sources": {
-          "0": {
-            "outlet": "Opinion Nigeria",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWpaTEdSVTltWUlPSVhqMFpxWGhQNnAtZlF3SlBjekpiUHdTOUdGYkRPbEZfNm1IaF9FUmtMUlpCR2VHU0llVEN2aTRTMV9BY01Uend6SzNfYUdSaHFyRThEWlIxeWNVUW90c3Vpc0RISkh1UXJRUHNnS0lsT29nMi1VazI4Q21SczI3TVAtanhrUFB3SG5rcHpOejhBLUpwLTRz?oc=5"
-          }
-        }
+        "b": "Government customs officials praised British American Tobacco for helping the economy. Leaders navigate various economic challenges.",
+        "i": "Customs Comptroller-General Adeniyi commended British American Tobacco for its contributions to the national economy.",
+        "a": "Customs Comptroller-General Adeniyi formally acknowledged British American Tobacco for ongoing fiscal contributions to the domestic economy."
       },
       "timeline": [
         [
           "16 Sep 2026",
-          "Dollar to naira exchange rates recorded at official markets."
+          "Dollar to naira exchange rates recorded prior to official market updates."
         ],
         [
           "17 Sep 2026",
-          "Fitch reported that naira devaluation boosted foreign subsidiary earnings for Nigerian banks."
+          "Petrol prices hit N1,430 per litre while the naira traded at N1,329.56 per dollar."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Currency levels and corporate updates",
+      "sub": "Updates on ASX technology stocks, mining firms and currency levels",
       "ind": [],
       "stories": [
         {
-          "t": "Australian Dollar Outlook",
-          "src": "FXStreet",
-          "b": "The Australian Dollar might fall toward 0.7050 against the US Dollar. A currency value is the price of one country's money in another country's money. This exchange rate shows how many US dollars one Australian dollar buys. UOB analysts shared this currency forecast.",
-          "i": "The <span class='term' data-t='carry'>Australian Dollar</span> faces short-term downside momentum toward 0.7050 against the US Dollar. UOB analysts outlined this potential path for the currency pair. Foreign exchange markets price these fluctuations continuously based on macroeconomic data.",
-          "a": "UOB projects short-term downside toward 0.7050 for the Australian Dollar against the US Dollar. This trajectory implies increasing pressure on the domestic currency within current spot rate parameters. Traders are pricing this depreciation path based on prevailing FX flow dynamics.",
-          "gloss": "carry",
+          "t": "Australian Technology and Mining Equities Attract Investor Attention",
+          "src": "Kalkine · Kalkine Media",
+          "b": "An investor focuses on several shares on the stock exchange. Codan, Iress, Technology One, Nextdc, Megaport, and Life360 receive attention. Mining firms Genesis Minerals, Regis Resources, and Capricorn Metals also draw notice. Fortescue remains a key focus for iron ore shares. Tasmea Ltd provides an update on its essential services platform.",
+          "i": "Market participants track multiple technology firms on the ASX including Codan, Iress, Technology One, NEXTDC, Megaport, and Life360. Resource equities such as Genesis Minerals, Regis Resources, and Capricorn Metals draw investor focus. Fortescue impacts broader iron ore stocks, while Tasmea Ltd releases a market development update.",
+          "a": "Equities across the ASX technology sector, featuring Codan, Iress, Technology One, NEXTDC, Megaport, and Life360, trade under heightened observation. Mining names Genesis Minerals, Regis Resources, and Capricorn Metals alongside Fortescue drive sentiment in resource baskets. Tasmea Ltd updates its essential services platform positioning.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkVpWVI4Vk05YTJMSFFHR21RcDhBNHlXVXhHRW1WeUhqRTF6UndibmVBNnRvZHZZRDJwbGk1UnFkRm9McUtlX0lQdU5SUmlyMUJ5VDJYa2QxMllDaW1qRGF3ZjZhcWZ2Z1hoN0NFckw3R1g0OFZtMW1RbHVzOExaTVQyc3NwbFY4Y3VGdUI2V1E5di1ZbjVPNFo3WkNMVUZORWhwcmtYSnE0M3RBVTVxLUpIaXVyQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3gyYkl2NEtrLXMzYmYtNXowUW1KOThLellHb2ROR09DcVpmdEFFMXNqSVQwaDVUcWwwejkxVlpSMXFtSjA3bC16cXFjSW1ZcGJlZ09EaXpBVWNfbDhobDA2RnNfeWRWWnREQUZvYWtYemg0d2IwSDg0eWphSXY5RDJBd0lpVE9DWWdUc0MwdGF2d2lENlJQRloxWlR6MUo0aGotR05tSXJZdWVPcllfMUlDMzQ5cFpKN2w4Mi15WEdvQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEg3OWJwUGxOQkVmd285YXQyRzRtR055MGYwTzhHeGxza3B6d05rc2N0WE1qTEp2UE1EenlIY0llVHJvREZqSGJSZnhIWWpQWDBGOGNDem1fd0pQQWV5OURySFhSdEh6TFhLY0RWZjdwTkN2Rkl2bTFwUzJuNHljYVpONWs2Ni1QLVp2RWlFN0xvZkpGcTNBSU9ILThUbEtDRE5zUTdBcGZrdHgyNDRRc0g4RURNSG9JVnpUQ21WcTZPd01CcWpFSUFxUGw4TktkUC1fQzVVZnRBRTgxNmpQdA?oc=5",
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUdCMW5lVTVSREhJQUs3NklNSExuNVNyQTliVnRBXzRNZGFfWmtySktNWFFvNElmMDM4VDlPTExSQnA5WEgzcTNGLWFHVmhYLXlDZ2JWRUpIUm8yc3pqd056OHZKN2UyRFZ1dkJOaHgxOUl1STc0aUZpM3BWRlF3LTc4VXpwbGtNOFVNZUxJUkNobzZzRC1aQ1VhU0dfR1IyVzRqak1vN3pWWHRpbEhBcEZpaDZXNkluRTJxOFdJTkZ4OFNYcW9paldn?oc=5",
+            "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHVmU0tVNXlFTzlsNy1seXlkR3MzMzdyQzhEMmZHdElwMnh5Umw3RXNlSThtejcxdmg0N1l3b0hOaUx6RWE3aFZRaXd2OW1fX0tZMTZsVFFHT19aUGpYUUpQT25kU2VsbFFVeHF5VWFVc2FPZlpaVEtVLWNfdWhpVWt6SVIzbTBWNnk4ek1PamRhWE14RFJYNWE1ZzB3azZ6Yi1GNHl5YkpYR19EQUNFYmZuYVl6YXA2a1F0b1YyQkctU2RiTnVjb3lHMTNCM1ZsRlhIV3VLaVFZS2lLZmdSOV9RTjRMYUEzcU1Va1lVMHRPSGxh?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUdqT0JpT0RhZS1YaEhlZG9ScjNpQ1RpTWpnOENVM0h6SmJpWDdIS2Jnb2pib0tZNzR6T1lDcnhXMGlfTnNzYmUtbVRmZ3p0WndkekhiY292OUQ2SUs1a3luaFlRUzJRN1VKeHBuOG9Gc05rNUdNNzVheGw4MXdXN3FNbEpxZUwzMVNxdGxmVjNueGZhVHVNN2QxOGJRUUE?oc=5"
           ]
         },
         {
-          "t": "ASX Resource and Tech Updates",
+          "t": "Funds and Exchange-Traded Products Target Global Markets From Australia",
           "src": "Kalkine",
-          "b": "Power Minerals advanced its rare earth drilling in Brazil. Falcon Metals extended its gold system with high-grade drilling. DXN built an AI data-centre pipeline through high-performance computing contracts.",
-          "i": "Power Minerals advanced its rare earth drilling operations in Brazil. Falcon Metals extended the Blue Moon gold system through high-grade drilling results. DXN expanded its AI data-centre pipeline by securing high-performance computing contracts.",
-          "a": "Power Minerals advanced Brazilian rare earth drilling operations. Falcon Metals extended the Blue Moon gold system with high-grade intercepts. DXN secured high-performance computing contracts to expand its AI data-centre pipeline.",
+          "b": "L1 Gold Fund raises equity for its gold investment strategy. Other providers list exchange-traded products offering exposure to international assets. Global X India Nifty 50 ETF tracks Indian shares. Global X Japan TOPIX 100 ETF provides access to Japanese large-cap firms. Global X China Tech ETF targets Chinese technology companies.",
+          "i": "L1 Gold Fund pursues an equity raising update alongside its gold strategy. Investors utilize specific ASX-listed exchange-traded funds for overseas allocations. The Global X India Nifty 50 ETF tracks the Nifty 50 index. The Global X Japan TOPIX 100 ETF targets Japanese large-cap equities, while the Global X China Tech ETF focuses on Chinese technology.",
+          "a": "L1 Gold Fund executes an equity raising cycle to support its gold investment mandate. Cross-border capital allocation manifests through local exchange-traded products. The Global X India Nifty 50 ETF replicates the Nifty 50 benchmark. The Global X Japan TOPIX 100 ETF and Global X China Tech ETF capture Japanese large-cap and Chinese technology beta respectively.",
           "links": [
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjFaVVYtNEM1MkdhYzUxNXRjS3o3SFZTdTR5eGd6M2x6UTNaRnJwN1BKWGJRSi1rc1k4ZXpZTElkbnlpVHZUQTBiZi1seHhjaTBxQ09YUDhkQ01JTTg2bS1zMVJEQmJKNER2UVRlaXU1YzF4c0NiLWtmTUc2d0FET0d6b1h4cEcydWpUR25WVUNqS1FLTGRNZFB6SQ?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlM3LWhXMDJ4azFMLXV1bHFhZS1CWV9pZDZwNWkwbXZqVW9GZGF3R0RNT3pSM3pianY4MG9kSUJxNlRGLUViTEdRUWJlTmV2VzBrVXhBS3o4VzlWS3hDRGtGR1pFSEpTemRMbDBJeXhTV1dyUlZrQkpiZjZxYWxjS0tVSmtoSnA0UFFobjNtcDJtTURsQ0JQd0tMY2RsN2xSRmxObDU5WGtiY2RRMFdfY3N2OFktQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTRoVVZZM2w4VmFYVGNUcVJCR3hSc25rdEZQVFQtWkJCcFhBbXUtWUdCM2JJQzhMR2hsYWVnVzQtbzJManZZcmJKQjBVQXM2NGtfWGtvbEZGMWE5X210d2xpU05YTlg2a3VUbldZcVVUU3JpUnVpR2lyTUVBbUI3TkNsbFdYazFnSURwdWg2c1ptZHhLWUo4QlJhR0lQSVIwbldXcnhENl90d2lhRVpF?oc=5"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdC1MV3d2YlJFVEtFNzZXT1VkQkpTSk04bHppeVZUWmVVMTlNclZGOXZwTGxPc25STFBSdjZhNGtfU044ZjZPY2Z2cjQ5WkZZcXhWR2hPYzluM2pranR5RENfcnZsemZMZmoxb2lPUjV1cmxCcURRelc2eXlfOHpTZ2kzRjlxU3pIQ1BTekluM05LNUF5QzY1R05ETEZCOG5Cai1Oam03b3F3b1FCWE03aEJJYUhuTWRuR3N6Z2Fn?oc=5",
+            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd1hZcHVyS3d1WHJ6bFBsN0l5ekF1NDhEYXA0QUtaQWxkT3N6bUxJUUJ3YWZNY2dqbmFDMzBKUlplbXFtekl5Nk5WYkFKZEdEb0tmcDZ5a0RnS01Wc0o0NWlLXzR6Tl93c2xJc2VBMG1CVVl1WGl3cEVQUmxhM0tpbFlUSms0TG8xblZmU1NfeHBYeEdZVlpSdnZBa1VGNGlDNVBQY3dlUmdfVkdnM2tjZzh1S29Xc3BMRm50aTRlVDBrS29jajR3VTBkTG5zUk1vRDFqVzJKMmpEQXY5?oc=5",
+            "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb3VhSTdPNHg0bEYybFRLRmxmRmhBcXQwNWFFaHctZkkzMkd5OHh0a1E3dzdzRi1JTjlLNHlDd3h1ODNhLTBZUG5QSGtNWDlhZWRPUk5zcnZaME1VRnN4MEtXSmlaMEJuN3BiWGV0MlBvX2RORmRHdTlXYkwzSjN5MVhiMkxZUDN5NU9aV0hlUjNOcDNBQTRhUjVuLXBjVjl0YWZUYVl0MExIY3dEdWFXWEpaeUpwSkR1NEw4aGNQSUNvRWcxc0hIUjQ2b1I3OUlMSmVCRW85OTVJajdtVzRrSVE1UzE4SXVPdDV4WmV0X2Q1QQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY01OWkhtX0dnUk51MEhoalRNcDFxdDVIajRrNV9JNjk0WUx5bVZvbWEySnltQm9oRW53dHpsTER5ZktEamEwbFJRTVpiTERVQnNUblRlU2FvX3hYSU9oWW11MzN4Zkk4WlFNNlgzQlhibjdrUG1nVGZ3M2Z3ZEI4bEhhZ1k0RHQ5NWQtOVNmdVdBOXd2R1VwTUVhNmtEa0JxbXBEdDZkbnNndVlHLUxwTTBGeG4wSVkyZmxIM2hBazh3OGtoc21xdmotSktYdm5URlFVWXVB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No government policy updates or political announcements were reported in Australian markets today.",
-        "i": "No fiscal or regulatory policy updates emerged across Australian markets during the session.",
-        "a": "No macroeconomic policy announcements or regulatory interventions were documented in the session feeds."
+        "b": "The Australian dollar faces downward pressure against the United States dollar. UOB analysts point to a short-term downside target of 0.7050. Power Minerals advances its rare earth drilling operations in Brazil.",
+        "i": "The Australian dollar eyes short-term downside toward 0.7050 against the United States dollar according to UOB forecasts. Power Minerals progresses its rare earth drilling project in Brazil.",
+        "a": "The Australian dollar against the United States dollar trades with near-term downward momentum toward 0.7050 as outlined by UOB desks. Power Minerals advances its Brazilian rare earth drilling operations.",
+        "sources": {
+          "0": {
+            "outlet": "FXStreet",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYkVpWVI4Vk05YTJMSFFHR21RcDhBNHlXVXhHRW1WeUhqRTF6UndibmVBNnRvZHZZRDJwbGk1UnFkRm9McUtlX0lQdU5SUmlyMUJ5VDJYa2QxMllDaW1qRGF3ZjZhcWZ2Z1hoN0NFckw3R1g0OFZtMW1RbHVzOExaTVQyc3NwbFY4Y3VGdUI2V1E5di1ZbjVPNFo3WkNMVUZORWhwcmtYSnE0M3RBVTVxLUpIaXVyQQ?oc=5"
+          },
+          "1": {
+            "outlet": "Kalkine",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjFaVVYtNEM1MkdhYzUxNXRjS3o3SFZTdTR5eGd6M2x6UTNaRnJwN1BKWGJRSi1rc1k4ZXpZTElkbnlpVHZUQTBiZi1seHhjaTBxQ09YUDhkQ01JTTg2bS1zMVJEQmJKNER2UVRlaXU1YzF4c0NiLWtmTUc2d0FET0d6b1h4cEcydWpUR25WVUNqS1FLTGRNZFB6SQ?oc=5"
+          }
+        }
       },
       "timeline": [
         [
-          "17 Sep",
-          "UOB publishes short-term downside target for the Australian Dollar at 0.7050."
-        ],
-        [
-          "17 Sep",
+          "17 Sep 2026",
           "Power Minerals advances Brazilian rare earth drilling operations."
         ],
         [
-          "17 Sep",
-          "DXN builds AI data-centre pipeline through high-performance computing contracts."
+          "17 Sep 2026",
+          "UOB outlines short-term downside for the Australian dollar toward 0.7050 against the United States dollar."
+        ],
+        [
+          "17 Sep 2026",
+          "Kalkine reports on market developments for multiple ASX technology, mining, and fund equities."
         ]
       ]
     }
