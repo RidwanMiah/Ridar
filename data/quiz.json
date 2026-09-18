@@ -1,707 +1,681 @@
 {
-  "generated": "2026-09-18T00:31:20.947Z",
+  "generated": "2026-09-18T01:23:47.912Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "What happened to Wall Street as technology shares rallied?",
+      "tag": "United States of America · Central bank policy",
+      "q": "Why did the Federal Reserve raise interest rates?",
       "o": [
-        "Wall Street closed higher",
-        "Wall Street closed lower",
-        "The market halted trading",
-        "The S&P 500 fell below its key level"
+        "To counter persistent inflation and elevated energy costs",
+        "To boost the valuation of newly listed Nasdaq stocks",
+        "To weaken the United States dollar against the Japanese yen",
+        "To support foreign exchange liquidity in developing markets"
       ],
       "a": 0,
-      "e": "The briefing states that Wall Street closed higher as technology shares rallied and the Nasdaq index surged. The other options contradict this direct factual movement."
+      "e": "The Federal Reserve tightened monetary policy by raising borrowing costs in response to stubborn price pressures and high energy prints. Higher rates act as a brake on economic activity when inflation is elevated. The other choices misidentify the primary driver, which was domestic price growth rather than equity listings or exchange rates."
     },
     {
       "lvl": "b",
-      "tag": "United Kingdom · Monetary Policy",
-      "q": "What action did the Bank of England take regarding its policy rate?",
+      "tag": "United States of America · Equity markets",
+      "q": "How much capital did Orion180 raise in its initial public offering on the Nasdaq?",
       "o": [
-        "It held interest rates steady",
-        "It raised interest rates to 4%",
-        "It cut interest rates to 1.25%",
-        "It abolished all interest rates"
+        "$240m",
+        "$150m",
+        "$11,000",
+        "$1,331"
       ],
       "a": 0,
-      "e": "The text reports that the Bank of England held interest rates steady while overhauling its quantitative tightening schedule. A 4% rate was set by the US Federal Reserve, not the Bank of England."
+      "e": "Orion180 priced its shares at $12 each, generating $240m in gross proceeds from its public offering. Leader's Advantage Acquisition raised $150m, making that option incorrect. Matching the correct company to its specific proceeds figure answers the question."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Central bank policy",
+      "q": "What action did the Bank of England take regarding its quantitative tightening schedule?",
+      "o": [
+        "It reduced gilts sales while maintaining its benchmark interest rate",
+        "It increased benchmark interest rates to match the United States Federal Reserve",
+        "It accelerated portfolio runoff to remove liquidity faster",
+        "It purchased foreign exchange reserves to strengthen the British pound"
+      ],
+      "a": 0,
+      "e": "The Bank of England held its benchmark rate steady and simultaneously altered its quantitative tightening plan by reducing gilts sales. This operational shift slowed the pace of portfolio runoff. The other options either reverse the direction of the gilts adjustment or incorrectly claim a rate change."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "How did the British pound react to the central bank decision?",
+      "o": [
+        "It declined in foreign exchange markets",
+        "It appreciated against all major global currencies",
+        "It remained completely flat with zero spot price movement",
+        "It surged as foreign exchange traders increased long exposure"
+      ],
+      "a": 0,
+      "e": "The British pound slid in foreign exchange markets following the central bank decision to leave interest rates unchanged. Traders trimmed long exposure when yield differentials failed to expand. The incorrect options describe currency gains or flat conditions that contradict the reported decline."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
       "q": "How did the DAX index perform on September 17, 2026?",
       "o": [
-        "The benchmark gained 0.77%",
-        "The benchmark fell 0.77%",
-        "The index remained completely flat",
-        "The index dropped by 3%"
+        "It closed higher with a 0.77% gain",
+        "It fell sharply due to surging oil prices",
+        "It remained completely unchanged across the session",
+        "It dropped following Commerzbank analyst target upgrades"
       ],
       "a": 0,
-      "e": "The source explicitly states that the DAX benchmark gained 0.77% by the end of the session on September 17, 2026. Therefore, the other directional moves are incorrect."
+      "e": "The DAX index closed higher with a 0.77% gain on September 17, 2026, supported by retreating oil prices and falling US Treasury yields. The other choices incorrectly describe negative market performance or attribute false outcomes to specific corporate movers."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Central Banking",
-      "q": "To what level did the Bank of Japan push its benchmark interest rate?",
-      "o": [
-        "1.25%",
-        "1.9%",
-        "4.0%",
-        "0.77%"
-      ],
-      "a": 0,
-      "e": "The Bank of Japan lifted its benchmark rate to 1.25%, which is a 31-year high. The 1.9% figure refers to the August inflation rate, not the interest rate."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Banking",
-      "q": "What operational change did China's first trillion-yuan city commercial bank make to its credit operations?",
-      "o": [
-        "It terminated all loan-facilitation activities and retained co-lending structures",
-        "It ceased all lending permanently",
-        "It switched entirely to third-party loan facilitation",
-        "It lowered interest rates on all mortgages"
-      ],
-      "a": 0,
-      "e": "The text notes the bank terminated all loan-facilitation activities and retained exclusively co-lending structures. This internalises default risk rather than distributing origination through third-party platforms."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Central Banking",
-      "q": "What tool did the Reserve Bank of India use to absorb liquidity from the banking system?",
-      "o": [
-        "A Variable Rate Reverse Repo auction",
-        "A corporate bond issuance",
-        "A direct benchmark interest rate cut",
-        "An increase in foreign portfolio investments"
-      ],
-      "a": 0,
-      "e": "The Reserve Bank of India announced a Variable Rate Reverse Repo auction with a notified amount of 2,25,000 crore rupees to drain excess systemic liquidity. It did not use a bond issuance or a rate cut for this specific operation."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Commodities",
-      "q": "What agreements did Petrobras sign for its international ventures in Côte d'Ivoire?",
-      "o": [
-        "Production-sharing contracts for eight exploration blocks",
-        "Debt restructuring agreements with lenders",
-        "Contracts to purchase electric SUVs",
-        "Pipeline construction agreements"
-      ],
-      "a": 0,
-      "e": "Petrobras signed production-sharing contracts for eight exploration blocks in Côte d'Ivoire alongside new LNG supply deals. The debt restructuring proposals were related to Braskem, a different company."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What physical infrastructure was damaged in Saudi Arabia, reducing output and transport flows?",
-      "o": [
-        "Three pumping stations along the East-West pipeline",
-        "The Strait of Hormuz maritime border",
-        "The domestic retail petrol stations",
-        "The Braskem debt restructuring facilities"
-      ],
-      "a": 0,
-      "e": "Attacks damaged three pumping stations along the East-West pipeline, forcing production curtailments. The Strait of Hormuz is a maritime chokepoint, not the pipeline infrastructure that was physically attacked."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Foreign Exchange",
-      "q": "What was the level of the Nigerian naira against the US dollar as liquidity tightened?",
-      "o": [
-        "N1,331",
-        "N1,430",
-        "N1,329.56",
-        "$11,000"
-      ],
-      "a": 0,
-      "e": "The Nigerian naira weakened to N1,331 against the US dollar as foreign exchange liquidity tightened. N1,430 refers to the price of petrol per litre, and N1,329.56 was the NAFEM window spot price."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Central Banking",
-      "q": "What did Reserve Bank of Australia Governor Bullock flag regarding monetary policy?",
-      "o": [
-        "A potential policy tightening path",
-        "An immediate benchmark rate cut to 1.25%",
-        "The termination of all loan-facilitation activities",
-        "A complete halt to financial sector lending"
-      ],
-      "a": 0,
-      "e": "Governor Bullock explicitly flagged the risk of further policy tightening, which supported the local currency. Rate cuts or lending bans are not mentioned in the RBA briefing."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Legal",
-      "q": "Which legal firm initiated investigations into Fulcrum Therapeutics, Wise Group, and Cellebrite DI?",
-      "o": [
-        "Kaplan Fox",
-        "Hagens Berman",
-        "Braskem Lenders",
-        "SDIC Power"
-      ],
-      "a": 0,
-      "e": "Kaplan Fox initiated investigations into Fulcrum Therapeutics, Wise Group, and Cellebrite DI. Hagens Berman issued an alert for a class action against Lincoln Educational Services instead."
-    },
-    {
-      "lvl": "b",
-      "tag": "Germany · Equities",
-      "q": "Which DAX stock weakened to become an index laggard following analyst targets?",
+      "tag": "Germany · Corporate updates",
+      "q": "Which DAX company underperformed following recent analyst revisions?",
       "o": [
         "Commerzbank",
-        "Hochtief",
         "Brenntag",
-        "Micron"
+        "Hochtief",
+        "Orion180"
       ],
       "a": 0,
-      "e": "Commerzbank shares weakened to become an index laggard following analyst targets. Hochtief gained ground on a technical rebound, and Micron is a US-listed semiconductor firm."
+      "e": "Commerzbank shares weakened following recent analyst targets, making the bank a laggard on the DAX. Hochtief gained on a technical rebound, and Brenntag softened separately. Orion180 is a US-listed entity rather than a DAX stock."
     },
     {
       "lvl": "b",
-      "tag": "China · Automotive",
-      "q": "What pricing adjustment did BYD make to its refreshed small electric SUV line?",
+      "tag": "Japan · Central bank policy",
+      "q": "What was the Bank of Japan's benchmark interest rate adjustment on 18 September 2026?",
       "o": [
-        "An entry-level starting price of approximately $11,000",
-        "A price increase to 8bn yuan",
-        "A fixed rate of 1.25%",
-        "A discount matching the NAFEM window"
+        "It increased to 1.25%",
+        "It held steady at 4%",
+        "It decreased to eliminate negative rates",
+        "It matched the United States Federal Reserve rate exactly"
       ],
       "a": 0,
-      "e": "BYD updated its small electric SUV with an extended driving range and a starting price of roughly $11,000. The 8bn yuan figure refers to an SDIC Power bond registration."
+      "e": "The Bank of Japan increased its benchmark interest rate to 1.25% on 18 September 2026. This move aligned with market expectations for a hawkish policy normalization path. The other options cite incorrect interest rate figures or false policy comparisons."
     },
     {
       "lvl": "b",
-      "tag": "India · Equities",
-      "q": "How did Indian domestic benchmarks Sensex and Nifty close following the US Federal Reserve rate adjustment?",
+      "tag": "Japan · Foreign exchange",
+      "q": "Where did the Japanese Yen trade relative to the United States Dollar around the rate decision?",
       "o": [
-        "Nearly flat",
-        "Up by 1.7%",
-        "Down by 3.1%",
-        "At a 31-year high"
+        "Near a two-week low",
+        "At an all-time record high",
+        "Parity with the dollar",
+        "Unchanged for six months"
       ],
       "a": 0,
-      "e": "Domestic benchmarks Sensex and Nifty absorbed the external shock from the US rate change and closed nearly flat. A 1.7% surge describes the Nasdaq, not the Indian indices."
+      "e": "The Japanese Yen traded near a two-week low against the United States Dollar as domestic inflation softened slightly. Spot desks adjusted exposures as incoming macro prints failed to generate sustained currency buying. The alternative options are extreme or flat market descriptions not found in the text."
     },
     {
       "lvl": "b",
-      "tag": "Brazil · Corporate Debt",
-      "q": "How did Braskem creditors respond to the proposed debt restructuring plan?",
+      "tag": "China · Corporate strategy",
+      "q": "What structural change did China's first trillion-yuan city commercial bank make to its lending model?",
       "o": [
-        "They rejected the plan and demanded a fresh equity injection from owners",
-        "They accepted the plan and lowered interest rates",
-        "They converted all debt into production-sharing contracts",
-        "They initiated a securities class action lawsuit"
+        "It halted all loan-facilitation activities and opted exclusively for co-lending operations",
+        "It terminated all co-lending structures to focus solely on unsecured retail loans",
+        "It expanded its international operations into the United States rare earths market",
+        "It merged its commercial banking division with BYD's electric vehicle manufacturing business"
       ],
       "a": 0,
-      "e": "Braskem creditors rejected the presented debt restructuring framework and demanded that the corporate owners inject fresh equity. They did not accept the restructuring."
+      "e": "The Chinese city commercial bank drew a strict line by halting all loan-facilitation activities and preserving solely co-lending operations. The other options mix up unrelated business lines or mention entirely different entities like US rare earths firms."
     },
     {
       "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What contingency action did Saudi Aramco take regarding crude supplies to Indian refiners following pipeline attacks?",
+      "tag": "India · Currency and commodities",
+      "q": "What drove the Indian rupee higher against major currencies?",
       "o": [
-        "It halted crude supplies to Indian refiners",
-        "It increased allocations to offset transport flows",
-        "It rerouted all barrels through the Strait of Hormuz",
-        "It raised petrol prices to N1,430 per litre"
+        "Support from the Reserve Bank of India and softer oil prices",
+        "An unexpected interest rate hike by the US Federal Reserve",
+        "The resumption of crude shipments from Saudi Aramco",
+        "A massive influx of initial public offering capital from Nasdaq listings"
       ],
       "a": 0,
-      "e": "Logistical constraints from the pipeline attacks forced Saudi Aramco to immediately halt crude allocations for Indian refiners. It worked to circumvent, rather than use, the Strait of Hormuz."
+      "e": "The Indian rupee edged higher due to intervention and support from the Reserve Bank of India, alongside softer global crude oil prices that reduced import bill pressures. The other choices reference events that either negatively impacted currencies or occurred in entirely different markets."
     },
     {
       "lvl": "b",
-      "tag": "Nigeria · Labour and Consumer",
-      "q": "What demand did the Nigeria Labour Congress make in response to surging petrol prices?",
+      "tag": "Brazil · Mergers and acquisitions",
+      "q": "What did Petrobras secure in Côte d'Ivoire?",
       "o": [
-        "Wage awards and naira-denominated crude allocations",
-        "An immediate investigation by Kaplan Fox",
-        "A reduction in the benchmark interest rate to 1.25%",
-        "A complete ban on AI-generated advertisements"
+        "Eight offshore production-sharing and exploration contracts",
+        "A complete debt restructuring plan backed by Braskem lenders",
+        "Exclusive control over the East-West pipeline transit capacity",
+        "Direct equity injection rights from local bank creditors"
       ],
       "a": 0,
-      "e": "Retail petrol price surges prompted the Nigeria Labour Congress to demand wage awards and naira-denominated crude allocations. AI ad warnings were issued by a regulatory council, not demanded by the NLC."
+      "e": "Petrobras secured eight offshore production-sharing and exploration contracts in Côte d'Ivoire, expanding its footprint into West African waters. The other options incorrectly attribute Braskem debt disputes or Saudi pipeline assets to the Brazilian energy producer."
     },
     {
       "lvl": "b",
-      "tag": "Australia · Equities",
-      "q": "Which sector emerged as the leading sector on the ASX 200 board during the rebound?",
+      "tag": "Brazil · Corporate debt",
+      "q": "What were Braskem lenders demanding in response to the proposed debt restructuring plan?",
       "o": [
-        "Financials",
-        "Technology",
-        "Materials",
-        "Semiconductors"
+        "Direct equity injection into the firm by company owners",
+        "An immediate acquisition of West African oil blocks",
+        "A transition toward co-lending operations with commercial banks",
+        "Complete cessation of liquefied natural gas supply agreements"
       ],
       "a": 0,
-      "e": "Financials emerged as the leading sector and sustained their relative strength mantle, whereas technology and materials continued to lag. Semiconductors outperformed on Wall Street, not the ASX."
+      "e": "Braskem creditors rejected a proposed debt restructuring plan because they demanded that company owners inject direct equity into the firm instead. The impasse increased refinancing risk for the petrochemical producer. The wrong options describe unrelated corporate actions from different regions."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Infrastructure",
+      "q": "What infrastructure asset was damaged in Saudi Arabia on 17 September 2026?",
+      "o": [
+        "Three pumping stations along the East-West pipeline",
+        "The Kayelekera uranium restart facility in Malawi",
+        "The Santos and Campos offshore production basins",
+        "The primary automated trading platform on the Nasdaq exchange"
+      ],
+      "a": 0,
+      "e": "An assault damaged three pumping stations along the East-West pipeline in Saudi Arabia, which constrained transit capacity and reduced petroleum output. The other options refer to African mining projects, Brazilian basins, or US stock exchanges."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Energy exports",
+      "q": "What operational change did Saudi Aramco make regarding Indian refiners?",
+      "o": [
+        "It suspended crude shipments to them amidst logistical bottlenecks",
+        "It increased petroleum output to compensate for pipeline damage",
+        "It established a new co-lending financing partnership with local banks",
+        "It lowered benchmark lending rates to 1.25%"
+      ],
+      "a": 0,
+      "e": "Saudi Aramco suspended crude shipments to Indian refiners on 17 September 2026 while exploring alternative transit routes to bypass the Strait of Hormuz. The wrong choices confuse output restrictions with production increases or mix in central bank policy rates."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "Why did the Nigerian naira weaken to N1,331 against the US dollar?",
+      "o": [
+        "Foreign exchange liquidity tightened amid a hawkish US Federal Reserve trajectory",
+        "The Bank of England reduced gilts sales in secondary markets",
+        "Domestic petrol prices fell sharply below N1,430 per litre",
+        "The Reserve Bank of India intervened to support the rupee"
+      ],
+      "a": 0,
+      "e": "Spot rates for the Nigerian naira fell as foreign exchange liquidity tightened, exacerbated by a hawkish US Federal Reserve driving investors toward dollar-denominated safe havens. The other choices involve unrelated central banks, currency regions, or inverted commodity price directions."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Commodities",
+      "q": "What domestic price increase compounded purchasing power pressure in Nigeria alongside the currency depreciation?",
+      "o": [
+        "Petrol prices climbed to N1,430 per litre",
+        "Electric vehicle base prices rose to $11,000",
+        "Initial public offering shares priced at $12 each",
+        "Benchmark interest rates increased to 4%"
+      ],
+      "a": 0,
+      "e": "Domestic petrol prices concurrently advanced to N1,430 per litre, prompting the Nigeria Labour Congress to seek wage awards alongside currency depreciation. The other figures represent electric vehicle costs in China, US IPO share prices, or international interest rates."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Mining",
+      "q": "Which project is Sheffield Resources maintaining primary focus on securing financing for?",
+      "o": [
+        "The Thunderbird project",
+        "The Kayelekera uranium site restart",
+        "The Fiji ironsands and copper-gold assets",
+        "The Nevada rare earths asset divestment"
+      ],
+      "a": 0,
+      "e": "Sheffield Resources retains primary emphasis on securing financing for the Thunderbird project. Lotus Resources handles the Kayelekera uranium restart, and Dome Gold Mines develops Fiji ironsands. Bayan Mining pivoted to a US rare earths strategy after a Nevada asset sale."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Corporate updates",
+      "q": "What strategic pivot did Bayan Mining execute following a divestment?",
+      "o": [
+        "It shifted focus entirely to a United States rare earths strategy after a Nevada asset sale",
+        "It acquired eight offshore production-sharing blocks in Côte d'Ivoire",
+        "It terminated all loan-facilitation activities to adopt co-lending structures",
+        "It launched an initial public offering on the Nasdaq exchange"
+      ],
+      "a": 0,
+      "e": "Bayan Mining shifted focus to a United States rare earths strategy subsequent to a Nevada asset divestment. The alternative choices incorrectly assign African oil contracts, Chinese banking models, or US stock offerings to the Australian mining firm."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "Why did technology shares drive Wall Street higher during the session?",
+      "tag": "United States of America · Central banking",
+      "q": "Why did the Federal Reserve raise borrowing costs?",
       "o": [
-        "Long-term yields compressed and crude prices retreated, boosting valuations.",
-        "The Federal Reserve announced an unexpected emergency interest rate cut.",
-        "Semiconductor earnings reports exceeded every analyst's revenue projection.",
-        "Regulatory investigations into technology companies were officially dropped."
+        "To counter persistent price pressures driven largely by elevated energy costs",
+        "To weaken the US dollar against the Japanese Yen and support exporters",
+        "To finance the public stock offering launched by Orion180 on Nasdaq",
+        "To offset the quantitative tightening schedule implemented by the Bank of England"
       ],
       "a": 0,
-      "e": "Technology leadership and the broader market surge coincided with falling Treasury yields and cheaper crude oil. Lower discount rates increase the present value of future tech earnings, making equities more attractive."
+      "e": "The central bank tightened policy in response to stubborn inflation and elevated energy prints. Higher rates act as a monetary brake when commodity price pressures force the committee to prioritize cooling demand over growth concerns. The other options involve unrelated market events or incorrect causal directions."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Fixed Income",
-      "q": "Why did the British pound slide after the Bank of England's policy announcement?",
-      "o": [
-        "Traders priced in a softer yield differential following the quantitative tightening adjustment.",
-        "The central bank unexpectedly raised its benchmark interest rate above market forecasts.",
-        "Governor Andrew Bailey announced an immediate resignation due to fiscal pressures.",
-        "Public finances collapsed after local leaders failed to secure emergency loans."
-      ],
-      "a": 0,
-      "e": "The central bank altered its gilt disposal schedule, easing structural supply burdens. This adjustment caused currency markets to price in a softer yield differential, which depressed the pound."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "How did Commerzbank perform relative to the DAX index?",
-      "o": [
-        "It underperformed and became an index laggard following updated analyst targets.",
-        "It rallied past all other banking stocks after reporting record third-quarter profits.",
-        "It remained completely flat because investors awaited the European Central Bank meeting.",
-        "It led the benchmark higher via a technical rebound alongside Hochtief."
-      ],
-      "a": 0,
-      "e": "Commerzbank weakened and lagged the broader index because of recent analyst targets. Meanwhile, Hochtief captured gains through a technical rebound."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Monetary Policy",
-      "q": "How did the Bank of Japan's rate hike impact its policy stance?",
-      "o": [
-        "It pushed the benchmark rate to 1.25%, reaching a 31-year high.",
-        "It reduced rates to zero to combat falling inflation prints.",
-        "It abandoned yield curve control entirely to support commercial lending.",
-        "It aligned its interest rate directly with the United States Federal Reserve."
-      ],
-      "a": 0,
-      "e": "Governor Ueda lifted the benchmark rate to 1.25%, marking a 31-year high for the institution. Traders evaluated this shift against ongoing currency valuations in the upper 155 range."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Banking",
-      "q": "Why did China's first trillion-yuan city commercial bank cease its loan-facilitation activities?",
-      "o": [
-        "To internalise default risk exposure and comply with tighter regulatory guidelines.",
-        "To eliminate all lending operations and focus exclusively on corporate bond underwriting.",
-        "To transfer its entire credit portfolio to foreign financial institutions.",
-        "To avoid paying higher taxes on third-party platform originations."
-      ],
-      "a": 0,
-      "e": "The bank terminated loan facilitation and retained strictly co-lending modalities to internalise default risk exposure rather than distributing origination through third-party platforms."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Monetary Policy",
-      "q": "Why did the Reserve Bank of India conduct a Variable Rate Reverse Repo auction?",
-      "o": [
-        "To drain excess systemic liquidity from the banking system ahead of settlement dates.",
-        "To inject long-term capital into domestic equity markets following foreign outflows.",
-        "To lower the benchmark lending rate and stimulate credit growth for manufacturers.",
-        "To offset the currency depreciation caused by the European Central Bank."
-      ],
-      "a": 0,
-      "e": "The central bank deployed a three-day Variable Rate Reverse Repo with a notified amount of 2,25,000 crore rupees to absorb short-term liquidity from the banking system."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Equities",
-      "q": "How did Brazilian asset markets react to the central bank's Selic rate cut?",
-      "o": [
-        "The Ibovespa climbed, the 10-year sovereign yield compressed, and the real maintained momentum.",
-        "Foreign investors immediately withdrew all capital, causing the Ibovespa to crash.",
-        "The Brazilian real depreciated sharply against the US dollar and British pound.",
-        "Braskem creditors agreed to restructure debt terms without requiring fresh equity."
-      ],
-      "a": 0,
-      "e": "Monetary easing via the Selic reduction drove the Ibovespa higher and compressed the 10-year yield. The real held its upward trajectory against the dollar as technical resistance capped losses."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "Why did Saudi Aramco halt crude supplies to Indian refiners?",
-      "o": [
-        "Attacks on pumping stations along the East-West pipeline impaired transport flows.",
-        "Indian refiners refused to pay higher prices dictated by maritime chokepoints.",
-        "The Strait of Hormuz was permanently closed due to international trade sanctions.",
-        "Production was voluntarily shifted to domestic power generation plants."
-      ],
-      "a": 0,
-      "e": "Attacks damaged three pumping stations along the East-West pipeline, forcing immediate production curtailments and transport rerouting that propagated downstream to crude allocations for Indian refiners."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Currencies",
-      "q": "What drove the Nigerian naira to depreciate against the US dollar across consecutive sessions?",
-      "o": [
-        "Persistent foreign exchange liquidity constraints in the official market segment.",
-        "An emergency devaluation decree issued by the Nigeria Labour Congress.",
-        "Massive capital inflows into AI-generated refinery investment scams.",
-        "The complete shutdown of domestic retail petrol distribution networks."
-      ],
-      "a": 0,
-      "e": "Persistent FX liquidity constraints in the official segment drove the naira lower to N1,331 against the USD, accompanied by external headwinds from a hawkish Federal Reserve rate path."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Monetary Policy",
-      "q": "How did Reserve Bank of Australia Governor Bullock influence currency markets?",
-      "o": [
-        "By explicitly flagging the risk of further policy tightening, pushing rate-implied pricing upward.",
-        "By announcing an immediate reduction in benchmark interest rates to counter regional softness.",
-        "By pegging the Australian dollar directly to the Japanese yen following Bank of Japan data.",
-        "By purchasing large quantities of domestic bank shares to stabilize financial sector momentum."
-      ],
-      "a": 0,
-      "e": "Governor Bullock flagged a potential policy tightening path, which caused rate-implied pricing to adjust upward and supported the local currency alongside softer Bank of Japan metrics."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Legal",
-      "q": "What action did Kaplan Fox take regarding Fulcrum Therapeutics, Wise Group, and Cellebrite DI?",
-      "o": [
-        "Initiated investigations on behalf of investors.",
-        "Filed a joint securities class action lawsuit in federal court.",
-        "Acquired majority equity stakes to restructure executive compensation.",
-        "Demanded immediate capital injections from corporate owners."
-      ],
-      "a": 0,
-      "e": "Plaintiff counsel Kaplan Fox commenced investigations into Fulcrum Therapeutics, Wise Group, and Cellebrite DI on behalf of investors, alongside a notification regarding The Ensign Group."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "What drove Hochtief stock to capture gains during the DAX session?",
-      "o": [
-        "A technical rebound that positioned it as a top index performer.",
-        "An unexpected interest rate cut by the Frankfurt central bank.",
-        "A massive corporate acquisition funded by US Treasury yields.",
-        "Higher crude oil prices boosting infrastructure spending forecasts."
-      ],
-      "a": 0,
-      "e": "Hochtief captured gains as a top performer via a technical rebound, contrasting with underperforming peers like Commerzbank and Brenntag."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Inflation",
-      "q": "What did Japan's August inflation print demonstrate ahead of the central bank policy pivot?",
-      "o": [
-        "A rate of 1.9%, sustaining a seven-month high.",
-        "A surge to 4.0%, matching the United States Federal Reserve target.",
-        "A sharp deflationary spiral driven by collapsing retail vehicle prices.",
-        "A zero percent change that forced Governor Ueda to delay rate adjustments."
-      ],
-      "a": 0,
-      "e": "Japan recorded an August inflation print of 1.9%, sustaining a seven-month high right before the central bank policy pivot and interest rate increase."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Corporate Debt",
-      "q": "What is the purpose of the SDIC Power subsidiary's recent debt filing?",
-      "o": [
-        "To register up to 8bn yuan in debt securities to raise capital through fixed-income markets.",
-        "To restructure existing bank loans into short-term co-lending facilities.",
-        "To fund an equity injection for struggling electric vehicle manufacturers.",
-        "To absorb excess liquidity from domestic commercial banking channels."
-      ],
-      "a": 0,
-      "e": "The SDIC Power subsidiary initiated filings to register up to 8bn yuan in debt securities, expanding corporate duration supply in mainland debt markets."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Equities",
-      "q": "How did Indian domestic benchmarks Sensex and Nifty react to the US Federal Reserve's rate hike to 4%?",
-      "o": [
-        "They absorbed the external shock and closed nearly flat.",
-        "They surged by over 3% as foreign portfolio capital flooded into the market.",
-        "They plummeted into a bear market due to immediate margin calls.",
-        "They decoupled entirely from global markets to reach new record highs."
-      ],
-      "a": 0,
-      "e": "The Federal Reserve's adjustment triggered cross-border asset reallocation out of emerging markets, but domestic benchmarks Sensex and Nifty absorbed the external shock and closed nearly flat."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Corporate Debt",
-      "q": "How did Braskem creditors respond to the company's proposed debt restructuring plan?",
-      "o": [
-        "They rejected it and demanded that corporate owners inject fresh equity into the firm.",
-        "They accepted the terms immediately to protect their long-term bond yields.",
-        "They converted their debt holdings into production-sharing exploration blocks.",
-        "They petitioned the central bank to lower the Selic rate to preserve liquidity."
-      ],
-      "a": 0,
-      "e": "Braskem creditors rejected the presented debt restructuring framework, shifting pressure directly to the equity owners for a capital injection instead of accepting the original terms."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What did Saudi Aramco's chief executive caution regarding the recovery of the oil market?",
-      "o": [
-        "Structural disruptions near the Strait of Hormuz threaten to postpone normalization until 2027.",
-        "Pipeline repairs will take multiple years, permanently reducing global crude supplies.",
-        "Indian refiners will permanently halt crude imports from Middle Eastern producers.",
-        "Alternative energy adoption will eliminate the need to restore pipeline throughput."
-      ],
-      "a": 0,
-      "e": "Management guided for a throughput restoration within days, but the chief executive cautioned that structural disruptions near the Strait of Hormuz threaten to postpone the normalization of oil balances until 2027."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Equities",
-      "q": "How did sector performance diverge across the ASX 200 during the rebound?",
-      "o": [
-        "Financials led the board with relative strength while technology and materials lagged.",
-        "Technology stocks surged past financials on the back of lower US Treasury yields.",
-        "Materials emerged as the top sector while financial institutions faced liquidation.",
-        "All sectors moved in lockstep, resulting in zero dispersion across market breadth."
-      ],
-      "a": 0,
-      "e": "Financials sustained their relative strength leadership mantle across the session while technology and materials faced persistent selling pressure that dragged on relative index performance."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Technology",
-      "q": "What drove Wall Street's higher close alongside the surge in the Nasdaq index?",
-      "o": [
-        "Long-term yields compressed, crude prices retreated, and semiconductor stocks outperformed.",
-        "The Federal Reserve cut benchmark interest rates aggressively to support corporate balance sheets.",
-        "Regulatory approval of new artificial intelligence investment platforms boosted retail sentiment.",
-        "Foreign central banks intervened directly in domestic equity markets to purchase index futures."
-      ],
-      "a": 0,
-      "e": "The briefings state that technology leadership drove Wall Street higher as long-term yields compressed and crude prices retreated, with semiconductors outperforming. The incorrect options introduce outside events like Fed rate cuts or foreign interventions not found in the source text."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Legal",
-      "q": "Why did Kaplan Fox initiate multiple investor investigations across several NASDAQ-listed companies?",
-      "o": [
-        "To commence probes into firms such as Fulcrum Therapeutics, Wise Group, and Cellebrite DI on behalf of investors.",
-        "To file mandatory regulatory disclosures for initial public offerings on the main exchange.",
-        "To challenge the monetary policy tightening schedule announced by the central bank.",
-        "To acquire controlling equity stakes in struggling semiconductor manufacturers."
-      ],
-      "a": 0,
-      "e": "The text explicitly notes that Kaplan Fox commenced probes into Fulcrum Therapeutics, Wise Group, and Cellebrite DI alongside a notification regarding The Ensign Group. The other choices attribute entirely different regulatory or corporate actions to the law firm."
-    },
-    {
-      "lvl": "a",
       "tag": "United Kingdom · Monetary policy",
-      "q": "How did the foreign exchange market respond to the Bank of England's status-quo decision and balance-sheet adjustments?",
+      "q": "How did the Bank of England alter its quantitative tightening schedule while holding benchmark interest rates steady?",
       "o": [
-        "The British pound depressed as currency markets priced in a softer yield differential.",
-        "The British pound surged to a multi-year high as quantitative tightening concluded entirely.",
-        "Foreign exchange trading halted completely pending further clarification from Governor Bailey.",
-        "The local currency appreciated sharply due to an immediate increase in the policy rate."
+        "By reducing gilts sales to decelerate portfolio runoff",
+        "By increasing foreign exchange interventions to support sterling",
+        "By purchasing more corporate bonds to boost secondary market liquidity",
+        "By raising the policy rate to widen yield differentials against the US dollar"
       ],
       "a": 0,
-      "e": "The source notes that currency markets immediately priced in a softer yield differential, depressing the pound. The other choices contradict the documented depreciation and the hold on policy rates."
+      "e": "The Monetary Policy Committee maintained the policy rate while recalibrating quantitative tightening through reduced gilts sales. This operational shift slows down portfolio runoff and alters duration supply without changing the main policy stance. The other actions either misstate the policy tool used or describe external currency interventions."
     },
     {
-      "lvl": "a",
+      "lvl": "i",
       "tag": "Germany · Equities",
-      "q": "What market conditions supported the Frankfurt benchmark's 0.77% advance on September 17, 2026?",
+      "q": "What catalyzed the upside across continental European indices, helping the DAX gain 0.77% on September 17, 2026?",
       "o": [
-        "Lower oil prices and declining US Treasury yields eased valuation pressure on European equities.",
-        "Aggressive corporate buyback announcements across the entire banking and industrial sectors.",
-        "A surprise interest rate cut by the European Central Bank during morning trade.",
-        "Complete resolution of all pending debt restructuring negotiations for German lenders."
+        "Retreating oil prices and falling US Treasury yields",
+        "Positive analyst revisions and earnings beats from Commerzbank",
+        "An increase in benchmark interest rates by the Bank of Japan",
+        "The successful launch of special purpose vehicle IPOs on Nasdaq"
       ],
       "a": 0,
-      "e": "European equities caught a bid as lower oil prices and declining US Treasury yields eased pressure on valuations, according to the text. The wrong options invent macroeconomic triggers like ECB rate cuts or universal corporate buybacks."
+      "e": "European equities rose as oil prices and US Treasury yields retreated during the session. Commerzbank actually underperformed due to negative analyst revisions, making it a laggard rather than a market driver. The other choices involve central bank tightening or unrelated primary market listings."
     },
     {
-      "lvl": "a",
-      "tag": "Germany · Corporate actions",
-      "q": "Why did Commerzbank underperform the broader DAX index during the trading session?",
+      "lvl": "i",
+      "tag": "Japan · Monetary policy",
+      "q": "How did the Bank of Japan's decision to raise its benchmark interest rate to 1.25% impact domestic financial conditions?",
       "o": [
-        "Updated analyst targets weighed on its shares, pushing the stock to become an index laggard.",
-        "It announced a massive cross-border acquisition that alarmed credit rating agencies.",
-        "Management failed to register its upcoming corporate bond issuance with domestic authorities.",
-        "Creditors rejected its comprehensive debt restructuring plan and demanded fresh equity."
+        "It altered domestic carry dynamics and short-end swap curves",
+        "It eliminated foreign exchange liquidity constraints in developing markets",
+        "It triggered an immediate surge in crude oil shipments to Indian refiners",
+        "It forced commercial banks to halt all loan-facilitation activities"
       ],
       "a": 0,
-      "e": "Commerzbank underperformed following updated analyst targets, making it an index laggard. The other choices mix up details from entirely different companies and briefings, such as Braskem's debt rejection."
+      "e": "The rate hike aligned with prior market expectations and impacted domestic carry dynamics, prompting traders to recalibrate short-end swap curves. The other options refer to commodity logistics in Saudi Arabia, banking models in China, or foreign exchange pressures in Nigeria, which are entirely separate."
     },
     {
-      "lvl": "a",
-      "tag": "Japan · Central banking",
-      "q": "What level did the Bank of Japan reach when Governor Ueda lifted the benchmark interest rate?",
-      "o": [
-        "It reached 1.25%, marking a 31-year high for the institution.",
-        "It reached 4.00%, matching the rate set by the US Federal Reserve.",
-        "It reached 1.90%, aligning directly with the August <span class='term' data-t='inflation'>inflation</span> print.",
-        "It reached zero percent to combat persistent deflationary spirals."
-      ],
-      "a": 0,
-      "e": "The sources state that the Bank of Japan lifted its benchmark rate to 1.25%, marking a 31-year high. The alternative figures either belong to US rates, Japanese <span class='term' data-t='inflation'>inflation</span>, or describe incorrect policy directions."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Macroeconomics",
-      "q": "How did the August <span class='term' data-t='inflation'>inflation</span> print of 1.9% relate to the timing of the central bank's policy pivot?",
-      "o": [
-        "It sustained a seven-month high right before the central bank policy pivot.",
-        "It dropped to zero, forcing the central bank to abandon its tightening trajectory.",
-        "It surged to 4%, matching the external shock from overseas interest rates.",
-        "It triggered an emergency currency peg adjustment in the upper 155 range."
-      ],
-      "a": 0,
-      "e": "Japan recorded an August <span class='term' data-t='inflation'>inflation</span> print of 1.9%, sustaining a seven-month high immediately ahead of the central bank policy pivot. The other options misstate the economic data or invent policy interventions."
-    },
-    {
-      "lvl": "a",
+      "lvl": "i",
       "tag": "China · Banking",
-      "q": "What operational change did China's first trillion-yuan city commercial bank implement for its credit operations?",
+      "q": "What structural change did China's first trillion-yuan city commercial bank execute regarding its lending models?",
       "o": [
-        "It ceased all loan-facilitation portfolios to internalise default risk through co-lending modalities.",
-        "It outsourced all credit origination to third-party digital platforms to eliminate capital requirements.",
-        "It lowered the entry-level price of its flagship electric vehicle line to $11,000.",
-        "It registered 8bn yuan in debt securities to expand its duration supply."
+        "It terminated all loan-facilitation arrangements and retained exclusively co-lending operations",
+        "It raised its benchmark borrowing costs to match the US Federal Reserve's 4% target",
+        "It began direct offshore production-sharing in Côte d'Ivoire to diversify revenue",
+        "It suspended crude oil shipments to refiners to bypass regional transport bottlenecks"
       ],
       "a": 0,
-      "e": "The bank ceased all loan-facilitation portfolios, retaining strictly co-lending modalities to internalise default risk exposure. The wrong choices confuse the bank's operational shift with BYD's car pricing or SDIC Power's bond filing."
+      "e": "The institution drew a strict line by business type, halting all loan-facilitation activities to focus solely on co-lending structures. The other choices attribute unrelated corporate actions from Brazil or Saudi Arabia to a Chinese commercial bank."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Foreign exchange",
+      "q": "Which factors supported the Indian rupee against major currencies during the reported session?",
+      "o": [
+        "Reserve Bank of India intervention and softer global crude oil prices",
+        "An increase in foreign portfolio investment inflows following the Fed rate hike",
+        "The resumption of crude shipments by Saudi Aramco through the Strait of Hormuz",
+        "Higher domestic petrol prices that reduced import bill pressures"
+      ],
+      "a": 0,
+      "e": "Support from the central bank combined with transmission from softer global crude oil prices to reduce import bill pressures and drive the currency higher. Higher US rates actually created risks of capital flight rather than inflows, and Saudi Aramco had halted shipments rather than resumed them."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Energy and corporate debt",
+      "q": "Why did Braskem creditors reject the proposed debt restructuring plan?",
+      "o": [
+        "They demanded that company owners inject direct equity into the firm instead",
+        "They preferred to allocate capital toward Petrobras's new assets in Côte d'Ivoire",
+        "They were restricted by central bank rules governing loan-facilitation models",
+        "They wanted to purchase newly minted float from the Nasdaq initial public offerings"
+      ],
+      "a": 0,
+      "e": "Lenders rebuffed the proposed debt arrangement because they demanded an explicit equity sponsor cash infusion from company owners. Petrobras's African expansion and Nasdaq share offerings have no connection to Braskem's corporate debt standoff."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Energy infrastructure",
+      "q": "What operational adjustments did Saudi Aramco make following the attacks on the East-West pipeline stations?",
+      "o": [
+        "It halted crude deliveries to Indian refiners and sought alternative transit routes to bypass the Strait of Hormuz",
+        "It raised its benchmark interest rate to match the monetary tightening executed by the Federal Reserve",
+        "It sold off its offshore production-sharing blocks in Côte d'Ivoire to preserve operating margins",
+        "It reduced its quantitative tightening schedule by cutting domestic petroleum output sales"
+      ],
+      "a": 0,
+      "e": "Attacks on the pumping stations constrained transit capacity, prompting management to suspend shipments to Indian refiners and explore routes bypassing the Strait of Hormuz. The other answers mix up oil logistics with monetary policy levers or unrelated asset sales in Africa."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "How does a hawkish US Federal Reserve trajectory impact the outlook for the Nigerian naira?",
+      "o": [
+        "Elevated US yields incentivize capital flight toward dollar-denominated safe havens, exacerbating local FX constraints",
+        "Higher US interest rates automatically lower domestic petrol prices to N1,430 per litre",
+        "The Federal Reserve's rate hike expands local foreign exchange liquidity by weakening the dollar",
+        "Tightening monetary policy in the US forces the Nigerian central bank to reduce gilts sales"
+      ],
+      "a": 0,
+      "e": "A hawkish US stance raises US yields, encouraging investors to pivot toward dollar-denominated assets, which drains foreign exchange liquidity in emerging markets and pressures the local currency. The other options describe impossible economic outcomes or reverse the direction of capital flows."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Resource equities",
+      "q": "What primary operational or financial focus characterized Sheffield Resources according to the updates?",
+      "o": [
+        "Securing project funding for the Thunderbird project",
+        "Pivoting entirely to a United States rare earths strategy after a Nevada asset sale",
+        "Restarting the Kayelekera uranium site in Malawi",
+        "Logging aggregate revenue alongside underlying copper-gold exploration"
+      ],
+      "a": 0,
+      "e": "Sheffield Resources retained primary emphasis on financing for the Thunderbird project. Bayan Mining was the entity that pivoted to a US rare earths strategy after a Nevada divestment, while Lotus Resources handled the Malawi uranium site."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Primary markets",
+      "q": "What role did underwriters play in the initial public offering for Orion180 on Nasdaq?",
+      "o": [
+        "They cleared the book for the listing, pricing shares at $12 to generate $240m in gross proceeds",
+        "They adjusted quantitative tightening schedules to absorb newly minted float in secondary markets",
+        "They purchased special purpose vehicle assets to bypass regional transport bottlenecks",
+        "They intervened in foreign exchange markets to stop the depreciation of the British pound"
+      ],
+      "a": 0,
+      "e": "Underwriters cleared the book for the listing by pricing shares at $12 each to capitalize $240m in fresh equity. The other options falsely link primary equity underwriting to central bank operations, shipping bottlenecks, or currency interventions."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "Why did the British pound decline in foreign exchange markets following the central bank decision?",
+      "o": [
+        "Yield differentials failed to expand because the policy rate was left unchanged, causing macro accounts to trim long exposure",
+        "The central bank unexpectedly raised interest rates against a backdrop of stubborn energy inflation",
+        "Foreign investors shifted their capital into Special Purpose Vehicles on the Nasdaq exchange",
+        "Commercial banks halted loan-facilitation activities to preserve their co-lending structures"
+      ],
+      "a": 0,
+      "e": "Sterling depreciated because the central bank held rates steady, which meant yield differentials failed to expand and macro accounts trimmed long exposure. The central bank did not raise rates, and the other choices refer to US stock offerings or Chinese commercial banking."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Equities",
+      "q": "Which specific factor contributed to Commerzbank lagging behind the broader DAX index during the session?",
+      "o": [
+        "Recent analyst revisions and lower target prices",
+        "A technical rebound that favored infrastructure firms like Hochtief",
+        "Direct exposure to supply disruptions along the East-West pipeline",
+        "The Bank of Japan's decision to normalize policy rates to 1.25%"
+      ],
+      "a": 0,
+      "e": "Commerzbank shares weakened following recent analyst targets and revisions, making it a laggard on the DAX while Hochtief rose on a technical rebound. Pipeline attacks and Japanese monetary policy had no direct impact on German bank stock performance."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Foreign exchange",
+      "q": "How did the Japanese Yen react to incoming macroeconomic data just prior to the central bank rate decision?",
+      "o": [
+        "It drifted near two-week lows against the US dollar as domestic inflation printed softer readings",
+        "It appreciated sharply as foreign exchange desks scrambled to buy spot currency following energy spikes",
+        "It strengthened past N1,331 as foreign portfolio investment flows sought safe havens",
+        "It tracked the BSE Sensex index after domestic equities absorbed external tightening shocks"
+      ],
+      "a": 0,
+      "e": "Domestic inflation printed softer readings right before the rate decision, causing spot FX desks to adjust exposures as incoming data failed to generate sustained buying, leaving the yen near a two-week trough. The other options confuse the yen with the Nigerian naira or Indian stock indices."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Automotive",
+      "q": "What product revision did BYD implement for its top-selling small electric SUV?",
+      "o": [
+        "It updated the vehicle specification to deliver increased range with a base price around $11,000",
+        "It shifted its sales model to rely exclusively on loan-facilitation co-lending structures",
+        "It rerouted export deliveries away from the Strait of Hormuz to bypass transport bottlenecks",
+        "It acquired offshore production-sharing contracts to secure raw battery materials in Côte d'Ivoire"
+      ],
+      "a": 0,
+      "e": "BYD revised its compact electric SUV specification to provide expanded range metrics while maintaining an entry-level price point of approximately $11,000. The other options incorrectly mix up vehicle manufacturing specs with commercial banking, oil transit, or Brazilian energy expansion."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Equities",
+      "q": "How did Indian benchmark indices such as the BSE Sensex behave following the external shock of the US Federal Reserve raising rates to 4%?",
+      "o": [
+        "They closed nearly flat, with the Sensex holding steady at 74,314.59 despite volatile trading",
+        "They experienced severe drops as foreign portfolio investment flooded out toward US dollar assets",
+        "They rallied strongly due to lower crude oil import bills and Reserve Bank of India rate cuts",
+        "They halted secondary market trading to clear books for new special purpose vehicle listings"
+      ],
+      "a": 0,
+      "e": "Domestic equities absorbed the external rate hike, with the BSE Sensex settling nearly flat at 74,314.59 following a choppy session. The indices did not collapse despite foreign portfolio flows being sensitive to widening yield differentials."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Energy exploration",
+      "q": "What geographic expansion did Petrobras undertake outside its domestic Santos and Campos basins?",
+      "o": [
+        "It secured eight offshore production-sharing and exploration blocks in Côte d'Ivoire",
+        "It acquired infrastructure along the East-West pipeline to manage Middle Eastern oil transit",
+        "It partnered with Sempra to launch public stock offerings on the Nasdaq exchange",
+        "It took over Braskem's petrochemical debt restructuring plan as an equity sponsor"
+      ],
+      "a": 0,
+      "e": "Petrobras expanded its footprint into West African waters by acquiring eight offshore production-sharing and exploration contracts in Côte d'Ivoire. The other answers wrongly attribute Middle Eastern pipelines, Nasdaq listings, or petrochemical debt rescue operations to the Brazilian energy firm."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Corporate updates",
+      "q": "What strategic asset shift did Bayan Mining execute following its recent corporate activities?",
+      "o": [
+        "It divested its Nevada asset and pivoted entirely to a United States rare earths strategy",
+        "It secured project funding for the Thunderbird resource development on the ASX",
+        "It advanced its Fiji ironsands and copper-gold exploration assets",
+        "It logged rising revenue streams from aggregate materials and underlying copper extraction"
+      ],
+      "a": 0,
+      "e": "Bayan Mining shifted its focus completely to a United States rare earths strategy subsequent to a Nevada asset divestment. Sheffield Resources handled the Thunderbird project, Dome Gold Mines managed the Fiji assets, and Freehill Mining reported aggregate revenues."
     },
     {
       "lvl": "a",
-      "tag": "China · Corporate finance",
-      "q": "Why is the SDIC Power subsidiary's filing to register up to 8bn yuan in <span class='term' data-t='gilt'>bonds</span> significant for mainland markets?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did the Federal Reserve raise borrowing costs despite growth concerns?",
       "o": [
-        "It expands corporate duration supply in mainland debt markets, testing yield absorption capacity.",
-        "It forces the commercial bank to abandon co-lending structures in favor of loan facilitation.",
-        "It provides immediate equity financing to resolve the Braskem creditor dispute.",
-        "It alters the benchmark interest rate set by the central bank."
+        "Persistent inflation and elevated energy prints forced the Committee to tighten monetary policy and cool aggregate demand.",
+        "A surge in initial public offerings on the Nasdaq required higher interest rates to balance equity market liquidity.",
+        "The federal funds rate needed to match foreign central bank hikes to prevent capital outflows from US banks.",
+        "Commercial banks requested higher rates to support net interest margins following loan-facilitation bans."
       ],
       "a": 0,
-      "e": "The impending bond issuance expands corporate duration supply in mainland debt markets, testing yield absorption capacity as filings proceed. The alternatives falsely link the filing to commercial banking structures or unrelated corporate restructurings."
+      "e": "The Federal Reserve acted in response to stubborn inflation and elevated energy costs, aiming to cool aggregate demand through tighter credit conditions. The other options introduce factors from entirely different sectors or countries not mentioned in the US monetary policy text."
     },
     {
       "lvl": "a",
-      "tag": "India · Monetary policy",
-      "q": "Why did the Reserve Bank of India deploy a three-day Variable Rate Reverse Repo auction?",
+      "tag": "United States of America · Equity markets",
+      "q": "What characterized the primary market activity for Orion180 and Leader's Advantage Acquisition?",
       "o": [
-        "To drain excess systemic liquidity ahead of settlement dates via a 2,25,000 crore rupee operation.",
-        "To counter foreign portfolio capital outflows triggered by the US Federal Reserve rate hike to 4%.",
-        "To purchase domestic index futures and support the Sensex and Nifty benchmarks.",
-        "To finance production-sharing contracts for international oil exploration blocks."
+        "Both entities completed initial public offerings on the Nasdaq, securing millions in capital and testing investor appetite for fresh equities.",
+        "Both companies issued high-yield corporate bonds to restructure existing debt rather than launching equity offerings.",
+        "Both firms issued secondary shares directly to Braskem creditors to resolve international debt defaults.",
+        "Both businesses converted from co-lending structures to public partnerships without raising fresh capital."
       ],
       "a": 0,
-      "e": "The central bank deployed the auction to drain excess systemic liquidity ahead of settlement dates, targeting 2,25,000 crore rupees. While US rate hikes also affected Indian markets, the specific reverse repo auction was designed to manage domestic cash levels."
+      "e": "Both Orion180 and Leader's Advantage Acquisition completed initial public offerings on the Nasdaq exchange, raising $240m and $150m respectively in fresh equity capital. The other options incorrectly describe debt restructuring or alternative corporate structures."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Equities and debt",
-      "q": "What direct consequence followed the rejection of Braskem's debt restructuring plan by its creditors?",
+      "tag": "United Kingdom · Fixed income",
+      "q": "How did the Bank of England alter its quantitative tightening schedule alongside its rate decision?",
       "o": [
-        "Pressure shifted directly to the equity owners to inject fresh capital into the firm.",
-        "The central bank immediately lowered the Selic rate to compress sovereign yields.",
-        "Petrobras acquired all exploration blocks in Côte d'Ivoire to offset the losses.",
-        "The Brazilian real depreciated past its 200-day moving average."
+        "It reduced gilts sales to decelerate portfolio runoff and alter the duration supply hitting secondary markets.",
+        "It increased the benchmark interest rate to match the Federal Reserve's tightening cycle.",
+        "It halted all loan-facilitation activities to prioritize co-lending operations across commercial banks.",
+        "It intervened directly in foreign exchange markets to halt the depreciation of the British pound."
       ],
       "a": 0,
-      "e": "Braskem creditors rejected the presented debt restructuring framework, shifting pressure directly to the equity owners for a capital injection. The other choices reference separate macroeconomic events like Selic cuts or Petrobras ventures."
+      "e": "The Bank of England maintained its benchmark rate while reducing gilts sales, which decelerates portfolio runoff and modifies duration supply. The other answers confuse quantitative tightening with interest rate changes or unrelated commercial banking models."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What logistical challenges followed the attacks on three pumping stations along Saudi Arabia's East-West pipeline?",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "Why did the British pound slide in foreign exchange markets following the central bank announcement?",
       "o": [
-        "Saudi Aramco had to curtail production, reroute transport, and halt crude allocations to Indian refiners.",
-        "International shipping companies immediately rerouted all tankers through the Strait of Hormuz.",
-        "The chief executive announced that global oil market normalization would accelerate ahead of schedule.",
-        "Domestic retail petrol prices fell to N1,430 per litre due to excess regional supply."
+        "Spot prices broke lower as yield differentials failed to expand, prompting macro accounts to trim long exposure after a rate hold.",
+        "A surprise interest rate hike by the Bank of England flooded the market with liquidity and drove down spot exchange rates.",
+        "Saudi Aramco halted crude shipments to British refiners, triggering an immediate energy deficit and currency flight.",
+        "Foreign portfolio investors withdrew all capital from the FTSE 100 in response to increased gilt sales."
       ],
       "a": 0,
-      "e": "The attacks forced immediate production curtailments, transport rerouting, and an immediate halt to crude allocations for Indian refiners. The wrong options contradict the text by suggesting normal maritime transit or accelerated recoveries."
+      "e": "Sterling depreciated because the central bank held rates steady, meaning yield differentials failed to expand and macro accounts trimmed long exposure. The other options invent policy moves or supply shocks not present in the text."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Germany · Equities",
+      "q": "What drove the DAX index higher on September 17, 2026?",
+      "o": [
+        "Retreating oil prices and falling US Treasury yields catalyzed broader European equity gains.",
+        "Commerzbank posted record operating margins, leading the index higher despite analyst downgrades.",
+        "The European Central Bank lowered interest rates to offset the impact of the Middle East pipeline attacks.",
+        "Brenntag completed a major equity offering on the Nasdaq, boosting continental investor confidence."
+      ],
+      "a": 0,
+      "e": "European equities advanced as lower oil prices and falling US Treasury yields catalyzed upside across continental indices. Commerzbank actually underperformed due to analyst revisions, and other choices cite non-existent monetary easing."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Monetary policy",
+      "q": "What was the immediate market and structural impact of the Bank of Japan lifting its benchmark rate to 1.25%?",
+      "o": [
+        "It aligned with prior market pricing for a hawkish normalization path, impacting domestic carry dynamics and short-end swap curves.",
+        "It caused the Japanese Yen to surge to multi-year highs as foreign investors rushed into domestic equities.",
+        "It forced commercial banks to halt all loan-facilitation activities in favour of co-lending operations.",
+        "It triggered an immediate default on Braskem bonds due to higher domestic funding costs."
+      ],
+      "a": 0,
+      "e": "The rate hike matched market pricing for hawkish normalization, altering domestic carry dynamics and short-end swap curves. The other options misstate the currency's reaction or apply unrelated commercial banking developments."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Foreign exchange",
+      "q": "Why did the Japanese Yen hover near two-week lows against the US dollar?",
+      "o": [
+        "Softer domestic inflation readings and shifting yield differentials failed to generate sustained currency buying ahead of the rate decision.",
+        "The Bank of Japan kept interest rates at zero while the Federal Reserve cut rates aggressively.",
+        "Attacks on Saudi pipeline stations disrupted energy imports to Japan, draining foreign exchange reserves.",
+        "Foreign portfolio flows flooded into Japanese government bonds, causing an oversupply of domestic currency."
+      ],
+      "a": 0,
+      "e": "The yen drifted because incoming domestic inflation prints were soft and yield differentials failed to spark sustained buying before the announcement. The other answers rely on incorrect monetary policy directions or external energy shocks."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Corporate strategy",
+      "q": "How did China's first trillion-yuan city commercial bank alter its operating model?",
+      "o": [
+        "It terminated all loan-facilitation arrangements entirely and elected to preserve solely co-lending structures.",
+        "It completed an initial public offering on the Nasdaq to secure fresh equity capital for international expansion.",
+        "It partnered with Petrobras to fund offshore production-sharing contracts in Côte d'Ivoire.",
+        "It suspended crude oil shipments to international refiners due to logistical bottlenecks."
+      ],
+      "a": 0,
+      "e": "The institution restructured its business by halting loan-facilitation activities and keeping exclusively co-lending operations. The other choices involve US listings, Brazilian oil assets, or Saudi supply chains."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Automotive",
+      "q": "What product revision did BYD implement for its top-selling compact electric SUV?",
+      "o": [
+        "It revised the vehicle specification to deliver expanded range metrics with an entry-level price point around $11,000.",
+        "It transitioned the manufacturing process entirely to United States rare earths facilities.",
+        "It increased the base price to match the funding costs of US federal interest rate hikes.",
+        "It converted the electric vehicle platform into a special purpose acquisition vehicle."
+      ],
+      "a": 0,
+      "e": "BYD updated the SUV to increase its driving range while maintaining a base price around $11,000. The rest of the options introduce completely unrelated industrial or financial themes."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Foreign exchange",
+      "q": "What factors supported the appreciation of the Indian rupee against major currencies?",
+      "o": [
+        "Reserve Bank of India intervention alongside transmission from softer global crude oil prices reducing import bill pressures.",
+        "An unexpected interest rate cut by the US Federal Reserve that weakened the greenback globally.",
+        "The complete suspension of crude shipments from Saudi Aramco that erased India's trade deficit.",
+        "A massive initial public offering wave on the BSE Sensex that attracted foreign exchange liquidity."
+      ],
+      "a": 0,
+      "e": "The rupee rose due to central bank support and the reduction of import bill pressures from softer global crude oil prices. The other options describe monetary easing by the Fed or supply halts that would pressure, not help, the currency."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Equities",
+      "q": "How did Indian benchmark indices like the BSE Sensex react to the US Federal Reserve raising rates to 4%?",
+      "o": [
+        "They closed nearly flat after absorbing the external shock, despite foreign portfolio flows remaining sensitive to widening sovereign yield differentials.",
+        "They dropped sharply as foreign investors pulled all capital out of domestic equities to chase US dollar safe havens.",
+        "They rallied strongly because higher US rates lowered domestic borrowing costs for local commercial banks.",
+        "They halted trading entirely until the Reserve Bank of India matched the 4% rate hike."
+      ],
+      "a": 0,
+      "e": "The BSE Sensex settled flat following a volatile session as domestic equities absorbed the external shock of higher US rates. The other choices exaggerate the capital flight or invert the relationship between US rates and domestic borrowing costs."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Energy",
+      "q": "What geographic and strategic expansion did Petrobras undertake recently?",
+      "o": [
+        "It acquired eight offshore production-sharing blocks in Côte d'Ivoire to diversify outside the Santos and Campos basins.",
+        "It purchased Braskem's distressed petrochemical assets to resolve the bondholder restructuring impasse.",
+        "It took over the damaged pipeline stations along the East-West transport network in Saudi Arabia.",
+        "It launched an initial public offering on the Nasdaq to fund its West African exploration units."
+      ],
+      "a": 0,
+      "e": "Petrobras secured eight offshore blocks in Côte d'Ivoire, expanding its footprint outside its traditional domestic basins. The other options incorrectly link Petrobras to Braskem's debt issues, Middle Eastern pipelines, or US stock listings."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Corporate finance",
+      "q": "Why did Braskem creditors reject the proposed debt restructuring plan?",
+      "o": [
+        "They demanded an explicit direct equity sponsor cash infusion from company owners instead of weaker balance-sheet terms.",
+        "They preferred to convert their debt holdings into equity shares of Petrobras's new West African ventures.",
+        "They wanted the company to allocate all capital toward purchasing electric vehicle manufacturer BYD.",
+        "They insisted that Braskem shift entirely from petrochemicals to co-lending banking operations."
+      ],
+      "a": 0,
+      "e": "Lenders rebuffed the debt arrangement because they are demanding direct equity injections from majority stakeholders rather than accepting weaker balance-sheet terms. The other answers link the petrochemical firm to unrelated corporate transactions."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Energy infrastructure",
+      "q": "How did Saudi Aramco respond to the attacks on the East-West pipeline pumping stations?",
+      "o": [
+        "It halted crude deliveries to Indian refiners and pursued alternative transit routes to bypass the Strait of Hormuz.",
+        "It increased production volumes at secondary facilities to offset the domestic transit bottleneck completely.",
+        "It partnered with Petrobras to secure offshore production-sharing contracts in West Africa.",
+        "It raised its benchmark interest rate to curb domestic inflation caused by the energy disruption."
+      ],
+      "a": 0,
+      "e": "Aramco suspended crude shipments to Indian refiners and sought alternative transit routes to bypass the Strait of Hormuz following the infrastructure damage. The other options incorrectly claim output was increased or mix in Brazilian and monetary policy elements."
     },
     {
       "lvl": "a",
       "tag": "Nigeria · Foreign exchange",
-      "q": "What primary factor drove the Nigerian naira lower to N1,331 against the US dollar at the NAFEM window?",
+      "q": "What macroeconomic pressures compounded the depreciation of the Nigerian naira?",
       "o": [
-        "Persistent foreign exchange liquidity constraints in the official segment combined with a hawkish Federal Reserve.",
-        "A sharp reduction in domestic retail petrol prices mandated by the Nigeria Labour Congress.",
-        "The liquidation of all AI-generated refinery investment advertisements online.",
-        "An increase in local-currency crude allocations to offset retail inflation."
+        "Persistent foreign exchange liquidity constraints combined with rising domestic petrol prices and a hawkish US Federal Reserve.",
+        "An aggressive interest rate cut by the Central Bank of Nigeria that flooded the banking system with naira.",
+        "The complete shutdown of the East-West pipeline that choked off Nigeria's petroleum export revenues.",
+        "Massive foreign portfolio inflows into the Nigerian stock exchange that destabilized the local currency."
       ],
       "a": 0,
-      "e": "The naira drifted lower driven by persistent FX liquidity constraints in the official segment and external headwinds from a hawkish Federal Reserve rate path. The other choices mix up unrelated labor demands or scam warnings."
+      "e": "The naira slipped due to foreign exchange liquidity squeezes, rising local petrol prices, and capital flight pressures from a hawkish US Federal Reserve. The other choices cite central bank cuts or pipeline disruptions that do not apply to Nigeria."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Central banking",
-      "q": "How did Reserve Bank of Australia Governor Bullock's commentary impact rate-implied pricing and the local currency?",
+      "tag": "Australia · Mining and energy",
+      "q": "What operational updates characterized resource equities on the ASX?",
       "o": [
-        "Rate-implied pricing adjusted upward and the Australian dollar extended gains on hawkish expectations.",
-        "The central bank lowered benchmark rates, depressing the currency in foreign exchange markets.",
-        "Financial sector equities lagged the broader ASX 200 index due to tightening friction.",
-        "Technology and materials sectors absorbed the monetary shock by expanding capital expenditures."
+        "Firms updated investors on funding and milestones, with Beach Energy navigating oil market shifts and Sheffield Resources focusing on Thunderbird financing.",
+        "All microcap miners merged with commercial banks to adopt co-lending structures and avoid debt defaults.",
+        "Mining companies liquidated their foreign assets entirely to buy shares in electric vehicle producer BYD.",
+        "Resource issuers converted their project funding directly into US Treasury bonds to capture falling yields."
       ],
       "a": 0,
-      "e": "Reserve Bank of Australia Governor Bullock flagged the risk of further policy tightening, causing rate-implied pricing to adjust upward and the Australian dollar to extend gains. The other answers misstate the direction of currency moves or policy actions."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Automotive",
-      "q": "What market effect accompanied BYD's pricing adjustment and battery range refresh for its flagship small electric SUV?",
-      "o": [
-        "It intensified margin pressure across the competitive domestic battery-electric vehicle segment.",
-        "It eliminated all default risk exposure for commercial banks engaging in co-lending.",
-        "It forced subsidiary SDIC Power to cancel its 8bn yuan debt security registration.",
-        "It triggered an immediate cross-border asset reallocation out of mainland equities."
-      ],
-      "a": 0,
-      "e": "BYD's pricing adjustment intensified margin pressure across the competitive domestic battery-electric vehicle segment, according to the text. The incorrect options link this product launch to unrelated commercial banking or corporate debt events."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Markets",
-      "q": "How did Brazilian financial assets behave following the central bank's reduction of the Selic rate?",
-      "o": [
-        "The Ibovespa climbed, the 10-year sovereign yield compressed, and the real maintained upward momentum.",
-        "Creditors rejected the debt restructuring plan, forcing equity owners to inject fresh capital.",
-        "Petrobras cancelled its international production-sharing agreements in Côte d'Ivoire.",
-        "Foreign portfolio investors reallocated all capital into US Treasuries."
-      ],
-      "a": 0,
-      "e": "The Ibovespa edged higher following the Selic rate cut, the 10-year sovereign yield compressed, and the Brazilian real maintained upward momentum against major currencies. The alternative answers describe corporate restructuring or foreign investment reallocations from other regions."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · External shocks",
-      "q": "How did Indian domestic benchmarks Sensex and Nifty react to the US Federal Reserve raising interest rates to 4%?",
-      "o": [
-        "They absorbed the external shock of cross-border asset reallocation and closed nearly flat.",
-        "They surged by over 3% as foreign portfolio investors aggressively increased their local exposure.",
-        "They experienced severe liquidity contractions that forced the Reserve Bank to execute reverse repos.",
-        "They decoupled entirely from global markets, driven solely by local manufacturing data."
-      ],
-      "a": 0,
-      "e": "Domestic benchmarks Sensex and Nifty absorbed the external shock of cross-border asset reallocation and closed nearly flat despite tighter US monetary policy. The other options falsely claim massive index rallies or extreme decouplings."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Commodities",
-      "q": "What domestic pressures emerged in Nigeria following the surge in retail petrol prices to N1,430 per litre?",
-      "o": [
-        "The Nigeria Labour Congress demanded wage awards and naira-denominated crude allocations.",
-        "Commercial banks halted all loan-facilitation activities to internalize default risk.",
-        "Regulatory authorities banned all foreign exchange transactions at the NAFEM window.",
-        "State-owned oil producers redirected export flows away from maritime chokepoints."
-      ],
-      "a": 0,
-      "e": "Retail petrol prices advanced to N1,430 per litre, generating immediate pressure for fiscal compensation via NLC demands for wage awards and local-currency crude allocations. The wrong choices attribute different events, such as Chinese banking changes or foreign exchange restrictions, to this price move."
+      "e": "ASX-listed resource firms released funding and operational updates, specifically including Beach Energy and Sheffield Resources. The other options invent sweeping structural conversions or liquidations not found in the text."
     }
   ]
 }
