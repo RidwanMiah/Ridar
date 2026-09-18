@@ -1,503 +1,501 @@
 {
-  "generated": "2026-09-18T17:22:34.130Z",
+  "generated": "2026-09-18T18:26:55.789Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "18 September 2026",
-    "headline": "The Bank of Japan raised rates to 1.25%, US Treasury yields hit multi-year highs, and Saudi Aramco halted European crude allocations after a pipeline attack.",
+    "headline": "The Bank of Japan raised its policy rate to 1.25% as equity markets fell and Treasury yields rose globally.",
     "lede": {
-      "b": "United States stocks fell as Treasury yields went up. Treasury yields are the returns governments pay people who lend them money by buying their bonds, which are formal IOU notes. Central banks tried harder to stop inflation, which is when the price of everyday goods goes up over time, pushing global share prices down. The two-year Treasury yield reached a new multi-year high. Meanwhile, the Dow Jones stock index recorded a third consecutive weekly drop.",
-      "i": "United States equities edged lower as <span class='term' data-t='inflation'>inflation</span> pressures drove Treasury yields to fresh multi-year highs. Central bank tightening accelerated the sell-off, pushing the Dow toward its third consecutive weekly decline. Higher borrowing costs compressed equity valuations across major indexes. The two-year Treasury yield climbed to its highest level in years, reflecting shifting monetary policy expectations.",
-      "a": "United States equities drifted lower as duration repricing pushed the two-year Treasury yield to a multi-year high. Central bank hawkishness compressed equity valuations, delivering the Dow its third consecutive weekly loss. The transmission of higher discount rates through fixed-income channels continued to pressure risk assets. Term premium expansion directly mirrored persistent <span class='term' data-t='inflation'>inflation</span> hedging by market participants."
+      "b": "The Bank of Japan raised its main interest rate to 1.25% on 2026-09-18. An interest rate is the cost of borrowing money. This decision caused worry for people with variable-rate mortgages who now face higher monthly debt payments. At the same time, the Japanese yen strengthened into the upper 156 range against the dollar after authorities conducted a rate check. A rate check is when central bank officials call traders to ask for current currency prices, which usually warns that the government might soon buy or sell its currency to influence its value. Meanwhile, global stock markets fell and US Treasury yields jumped.",
+      "i": "The Bank of Japan lifted its policy rate to 1.25%, triggering immediate concern among variable-rate mortgage holders facing higher debt-servicing costs. The yen pared earlier losses and surged into the upper 156 range against the dollar after authorities conducted a rate check, sparking sudden <span class='term' data-t='carry trade'>intervention</span> jitters across trading desks. Dissenting votes within the central bank complicated the policy message delivered by Ueda. This monetary tightening coincided with falling equity markets and rising Treasury yields in the United States.",
+      "a": "The Bank of Japan hiked its policy rate to 1.25% amid dissenting votes, complicating Ueda's forward guidance. The Japanese yen subsequently squeezed into the upper 156 range following a supervisory rate check that catalysed <span class='term' data-t='carry trade'>intervention</span> anxiety across desks. This monetary tightening transmitted directly into domestic debt-servicing channels for variable-rate borrowers. Simultaneously, global risk assets compressed as US Treasury yields jumped and equity valuations repriced."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "US stocks fell while Treasury yields rose and Orion180 insurance debuted on Nasdaq with a $1.14 billion valuation.",
-        "i": "US equities edged lower as Treasury yields rebounded and the two-year yield hit a multi-year high.",
-        "a": "US equities retreated as the two-year Treasury yield hit a multi-year high and Orion180 priced its Nasdaq debut at a $1.14 billion valuation."
+        "b": "US equity markets fell while Treasury yields jumped on 2026-09-18.",
+        "i": "US equities retreated intraday while Treasury yields climbed, pressuring asset valuations.",
+        "a": "Equities dropped intraday as surging Treasury yields forced a downward repricing of asset valuations."
       },
       {
         "c": "United Kingdom",
-        "b": "The FTSE 100 dropped by 1.51% and the pound fell as an oil shock hit following supply cuts.",
-        "i": "The FTSE 100 slid 1.51% as rising gilts yields and an oil shock weighed on financial shares.",
-        "a": "The FTSE 100 fell 1.51% under pressure from rising gilts yields and crude supply shocks stemming from the Strait of Hormuz."
+        "b": "London's FTSE 100 fell as financial stocks dragged the index down.",
+        "i": "The FTSE 100 retreated as financial shares weighed on the benchmark amid rising rate pressure.",
+        "a": "The FTSE 100 closed lower led by financial sector weakness as rate expectations shifted."
       },
       {
         "c": "Germany",
-        "b": "The DAX index fell by 1.63% at the close of trade in Frankfurt as producer prices climbed.",
-        "i": "The DAX closed 1.63% lower on quarterly derivatives expiration day alongside hot German producer price readings.",
-        "a": "The DAX dropped 1.63% amid quarterly derivatives expiration and broad European selling driven by hot producer prices."
+        "b": "Germany's DAX index fell 1.63% as producer prices climbed.",
+        "i": "The DAX dropped 1.63% on quarterly expiration day as rising factory gate inflation squeezed margins.",
+        "a": "The DAX declined 1.63% into quarterly expiration amidst a broader European sell-off driven by auto and telecom losses."
       },
       {
         "c": "Japan",
-        "b": "The Bank of Japan lifted its benchmark interest rate to 1.25% as authorities checked foreign exchange rates.",
-        "i": "The Bank of Japan raised its benchmark rate to 1.25% while authorities conducted rate checks to defend the yen.",
-        "a": "The Bank of Japan hiked its benchmark rate to 1.25% at a 31-year high, prompting official foreign exchange checks as the yen drifted."
+        "b": "The Bank of Japan raised its interest rate to 1.25%.",
+        "i": "The Bank of Japan lifted its policy rate to 1.25% while the yen surged after a rate check.",
+        "a": "The Bank of Japan advanced its policy rate to 1.25% through a fractured vote while authorities conducted a rate check."
       }
     ],
     "thread": {
-      "b": "Global markets reacted to rising borrowing costs and central bank actions. Energy supplies also faced sudden disruptions.",
-      "i": "Global equity markets absorbed tightening monetary policy, rising bond yields, and renewed crude supply shocks. Central bank actions drove currency and asset re-pricing across multiple regions.",
-      "a": "Synchronised monetary tightening and sovereign debt issuance compressed global equity valuations. Energy supply shocks compounded cross-asset volatility as central banks absorbed systemic liquidity."
+      "b": "Central banks and government authorities adjusted monetary policies around the world. Stock markets dropped in several countries while currency values shifted.",
+      "i": "Monetary policy adjustments and persistent inflation pressures drove equity sell-offs across multiple international jurisdictions. Central banks actively managed domestic borrowing rates and currency interventions during the trading sessions.",
+      "a": "Global equity indices experienced coordinated downside pressure alongside shifting central bank policy paths and currency interventions."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Stocks fall as Treasury yields rise on central bank moves",
+      "sub": "US equities fall and Treasury yields rise",
       "ind": [],
       "stories": [
         {
-          "t": "Stock Markets Fall as Treasury Yields Rebound",
-          "src": "The Motley Fool · Seeking Alpha · Euronext Markets",
-          "b": "United States stock markets dropped. Treasury yields, which are the interest payments the government pays people who lend it money, went back up. Central banks are making fighting price increases, known as inflation, their main goal. Global shares fell because of this push. The Dow Jones index dropped for its third straight week.",
-          "i": "United States equities edged lower as Treasury yields rebounded. Central banks intensified their <span class='term' data-t='inflation'>inflation</span> fight, driving global shares down. The two-year Treasury yield reached a new multi-year high. Meanwhile, the Dow logged a third consecutive weekly decline.",
-          "a": "Equities retreated globally alongside a rebound in Treasury yields as central banks reinforced their hawkish stance against <span class='term' data-t='inflation'>inflation</span>. The two-year U.S. Treasury yield printed a fresh multi-year high, transmitting downward pressure across risk assets. The Dow Jones posted its third consecutive weekly loss.",
-          "gloss": "inflation",
+          "t": "Equity Markets Fall and Treasury Yields Jump",
+          "src": "finance.yahoo.com · wsj.com",
+          "b": "Equity markets are places where shares of companies are bought and sold. These equity markets fell intraday while Treasury yields jumped. Treasury yields represent the return the government pays investors who lend it money, which is similar to the interest on a loan. These market movements occurred on 2026-09-18.",
+          "i": "Equity markets fell intraday while Treasury yields jumped on 2026-09-18. Higher yields increase borrowing costs across the economy, altering asset valuations. Stocks declined as Treasury yields rose.",
+          "a": "Intraday equity selling coincided with an upward surge in Treasury yields on 2026-09-18. Duration risk repricing directly pressured equity valuations as discount rates climbed. The broader stock market retreated alongside these rising yields.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHRIaFhtaWtKZkxzU3FDTEVnaTBWTm9HUkE0Vk9XME9INDVZLVBvVThvSGRMSDhLMld5YXJxZHRReXo0cGRpLVItcDZfSVlZaW9qcmk4MHdFMDNGMk9MRDFCLUZPM3FFN25EdEtmUG9YRktVdmkyRjVNU1BPWlhTcEU5cVdpWE5MaDZfRw?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTFZd0ZCU3ZHa2NYSW9ud05qYW1BQ2Jsbk1KVjZqd1pzR0NkUGRSREN1S1FUWE5iczVKZjFvMHZYaFVRaW5rTUFHeE9Pc09FMXRuOGp4WEdPcHc4Q09YZmdUQWJMcG9EcXZiQ3ZseG1aUS1EeW11Skl6U3BMWGRmMDdNWHNLSnJUN2JSVnN1aEJZZw?oc=5",
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFJaWTlGYVdkeTZ1bDhVSVk5QTYyRlZXa2dmbmRlRlY4QW5KanRGX291eFJMbGtTM2xXNDJSTVpTc0xxWDVjSW1uZ2xhbE9XMVVJVWtWY3N1NzY3ajNxSW95d0tDYUs5UUxsV0lYZktkV3BIWjVhZG56OWFfWVFpdVZHeEdHRTVLSHBrMnlPc1diaXRNX2lEOFpteUwxMTJJc0syWEcwYVRSOEl0WG9VcXpJVElwMkpsWlhrSGJuV3FRZXc?oc=5",
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWdZelU2d3JvOUc2QTVSQUt0Wk1pTnhkX0c3NF9DU0JUcFpYdWF3Ty1NNlFabDJXbF9IZENjNVI3aUVVTzRsekh4V24yTlZaX2wzVEhaMFRQc3FPUklPRlJPNnNCT1E0SmJCWl9FZHE5Qy1ZZEN3Y2NJWGpQaThRdmtfekZHbzl5bzI2NVpLMHJQUDZUVlR0U2owaEhvNHhDdDc3Ug?oc=5"
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDVKdk5qX1JuLWlIRlBXdzZPbGZlaTgycUFsdnFySmtHNkJBQ3IxM29MMjcxSkxxcEI2MUN5VGwxZVdjTnpuQnM4SWZYTDRLZk5pWXMzNnJvZVFGVjFYVU53VG5oRUZnVkZhcmtUWFNqamNxSWNsWHhCUDQ2cW1kUTZmQmlabU5xRHowVHVyVmlSakRCOUFaZHQ1S0JRWDVNOVlSYg?oc=5",
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdjdNNEdZekx5Z2lNdUo3NXhvc3hrNlBfOGtCX3ZTRE1WVnppNDFwaVdaRWFnUWstbVRGb3VzWnR6c3RVV0dGU1d0NDZLMjJSdjJTSDNwc0hPeTZSZzlUX1M2ejhheHp0eFNBVzZmakFNRHNMQ3BBZncyUGpMS2pYYk9GclpsRnJpaVBHQVFMOVkyNGtQenBZc1RCbXQ1Z3RBSUxHRHk5U3g?oc=5"
           ]
         },
         {
-          "t": "Orion180 Debuts on Nasdaq With $1.14 Billion Valuation",
-          "src": "Reuters · Investing.com",
-          "b": "Orion180 Insurance started trading on the stock market. The company received a valuation of $1.14 billion. Its share price fell during its first day of trading. The Nasdaq index managed to post gains despite broader market losses.",
-          "i": "Orion180 Insurance debuted on the Nasdaq exchange with a $1.14 billion valuation. Company shares fell during their initial trading session. The broader Nasdaq index managed an overall gain despite weakness in other major indexes.",
-          "a": "Orion180 Insurance priced its Nasdaq debut at a $1.14 billion valuation. Equities dropped in early trading for the newly public insurer. The tech-heavy Nasdaq bucked broader market downward trends to stay positive.",
+          "t": "Cybersecurity Firms Lead Nasdaq Gains",
+          "src": "stocktwits.com",
+          "b": "Cybersecurity firms like ZS, CRWD, and PANW gained attention as cybersecurity firms led weekly Nasdaq 100 gains. The Nasdaq is a stock market index, which is a group of chosen company shares tracked together to measure market health. This came as the artificial intelligence security debate intensified.",
+          "i": "Cybersecurity firms including ZS, CRWD, and PANW drove weekly <span class='term' data-t='inflation'>Nasdaq</span> 100 gains. This sectoral outperformance coincided with an intensifying debate over artificial intelligence security.",
+          "a": "ZS, CRWD, and PANW spearheaded weekly Nasdaq 100 outperformance amid heightening discourse surrounding artificial intelligence security vectors. The capital rotation into these cybersecurity equities underscored defensive positioning within tech-heavy growth allocations.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFplRFhOcTl0cTdvYmxDRW1pck9yTFlyUFZ2ejFrSm9CR29lSDBsdU1wdS1Zb0tHQUpVa1pMM3o0elBpYUlvUUNSakd0YUVfN08wNXpzZnZWWG9CSHAtQzNkNWw4SUxlSDJFRk1FNFM0LWhvY0RmeXFOVXdKM1kxNEVvb1EyV2pBV3dfQWlOajRCbjgtM2JvSmJ0U1ZZQ3ZnYkVUclNqZVg0Mkd6?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGp5ZnlURGx3bjhKNXFDMF81eTY0UkNzeGNMcTM1LXdmN2NXTm9MOE1DYnFLLXNyTVZzYU53a1hCT1R1NVEzRi1BMXJaa1lGQllScERrdHZrYTNyNEw3eUp0bE1lMEhZN2xJTXFReUc3bm9fVTJkYzB4dHJidC11T0lrUW1YZnIxYnpHb2t3NTBwTGtrYjJyT0NzSEowak12YkZ3ZGtGeDNCcEFsR1NEN1Q2eW1pYjh4cEJxYXBjZUFEdw?oc=5"
+            "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOE1ibl9INFNaU0FFb19raW5GdkVELUhEanBUaHBOemlzeUxVWGJEZktrN3Q4aTBJbmZuODBZS19RdXFGS292X1QydW5FRHF5eTJfYVh2bnF0bC11Wm9wWnk2X1JUWWFJQWQ1bEVkdS11N3otUjlVakV1MnZzMl9qUjVyM3FzbkJVSjhFcjRYWE9Sa1Q2alJ3aURDUl9yemVaRzFXaHRyV3hhZzB0a1duOTU2U1JwNV9HQ0FFTnhkRllSMG8ta2VuTWJiQ3VhX2h1RXl4RHlXTmhoSTcweDUwamR5S3Rad0Q2NjBLMzJmVlY2aXVjN1hYNzFqUUp1WGVadm9aSg?oc=5"
+          ]
+        },
+        {
+          "t": "Orion180 Insurance Debuts at $1.14 Billion Valuation",
+          "src": "Reuters",
+          "b": "Orion180 Insurance completed its market debut with a valuation of $1.14 billion. During this debut, its shares fell. Shares are tiny slices of ownership in a company.",
+          "i": "Orion180 Insurance achieved a valuation of $1.14 billion during its initial public offering. Company shares fell in their market debut on 2026-09-18.",
+          "a": "Orion180 Insurance priced its market debut at a valuation of $1.14 billion. Equity shares experienced downward pressure during their initial trading session on 2026-09-18.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFplRFhOcTl0cTdvYmxDRW1pck9yTFlyUFZ2ejFrSm9CR29lSDBsdU1wdS1Zb0tHQUpVa1pMM3o0elBpYUlvUUNSakd0YUVfN08wNXpzZnZWWG9CSHAtQzNkNWw4SUxlSDJFRk1FNFM0LWhvY0RmeXFOVXdKM1kxNEVvb1EyV2pBV3dfQWlOajRCbjgtM2JvSmJ0U1ZZQ3ZnYkVUclNqZVg0Mkd6?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government leaders watched central banks try to lower price inflation. Interest rates on government loans reached new multi-year highs. Central banks stated they will keep fighting high prices.",
-        "i": "Policymakers observed central banks double down on tightening measures to suppress inflation. Sovereign yields surged to multi-year highs across the curve. Central bank officials reiterated their commitment to restrictive monetary policy.",
-        "a": "Authorities noted central bank rhetoric anchoring a restrictive monetary path. Sovereign debt auctions absorbed higher yields as the two-year Treasury touched multi-year peaks. Central bank resolve against persistent price pressures remained explicit."
+        "b": "The Federal Reserve raised interest rates, which makes borrowing money more expensive for everyone. This rate hike caused people to hold onto their vehicles for longer periods. Higher oil prices also made it harder for the country to lower inflation, which is the general rising cost of everyday goods.",
+        "i": "Federal Reserve rate hikes increased borrowing costs, reinforcing a consumer trend toward longer vehicle ownership. Meanwhile, higher oil prices hampered broader inflation progress according to Morgan Stanley.",
+        "a": "Federal Reserve monetary tightening transmitted through lending channels to reinforce prolonged vehicle ownership cycles. Morgan Stanley noted that elevated oil feedstock costs constrained downward inflation momentum.",
+        "comp": null
       },
       "timeline": [
         [
           "18 Sep 2026",
-          "Orion180 Insurance debuts on the Nasdaq with a $1.14 billion valuation."
+          "Orion180 Insurance debuts with a valuation of $1.14 billion while shares fall."
         ],
         [
           "18 Sep 2026",
-          "The two-year United States Treasury yield reaches a new multi-year high."
+          "Morgan Stanley reports that higher oil prices hampered US inflation progress."
         ],
         [
           "18 Sep 2026",
-          "The Dow Jones records a third consecutive weekly decline."
+          "Equity markets fall intraday and Treasury yields jump."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "London stocks drop on oil shock and rising bond yields",
+      "sub": "London stocks retreat and interest rate pressure builds",
       "ind": [],
       "stories": [
         {
-          "t": "FTSE 100 Slides as Financials Weigh and Bond Yields Rise",
-          "src": "TradingView · The Independent",
-          "b": "The FTSE 100 index, which is a list tracking the biggest companies listed in London, dropped by 1.51%. Financial companies and falling stock prices pushed the index down. At the same time, bond yields, which act like the interest rate governments pay to borrow money, started rising again.",
-          "i": "The FTSE 100 index dropped by 1.51% as financial sector stocks retreated. Rising government bond yields pressured equity valuations across the exchange. Investors absorbed the climb in borrowing costs following an upward resumption in <span class='term' data-t='gilt'>gilts</span> yields.",
-          "a": "The FTSE 100 closed 1.51% lower, driven down by broad weakness in financials as sovereign debt yields resumed their upward trajectory. The repricing across fixed income rippled directly into equity risk premia. Higher discount rates compressed valuations throughout the board-heavy index.",
-          "gloss": "gilt",
+          "t": "FTSE 100 drops as financials drag indices down",
+          "src": "Reuters",
+          "b": "London's main stock market index fell. The FTSE 100 tracks the one hundred biggest companies listed in London. Financial firms weighed down the index. Airtel Africa shares also tumbled heavily. Trading closed with losses across the board.",
+          "i": "London's FTSE 100 retreated as financial stocks weighed on the benchmark. Airtel Africa shares tumbled alongside the broader market decline. Equity values fell as sellers dominated the trading session. The index finished lower following broad sectoral weakness.",
+          "a": "The FTSE 100 extended losses driven by downside pressure in financials and sharp declines in Airtel Africa. Equity pricing reflected risk-off sentiment across London equities. Sectoral breadth turned negative as selling concentrated in large-cap index constituents. Price action confirmed a downward break from recent trading ranges.",
           "links": [
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1RSUXhfamJTcHY4ZVhhdndpQlg2UFhzRkVuMjliRURBOFBld1p5NTJCdjJsU2RzTmZzeWxzbHktT3dnVXVfRWJFQ2ZxSnNEUDR3UkdEZnV3QXN3MnBWVDNOakVlVWloZ19SX3VlcG1BOC1BQmUzSllTNkdWOEpRNXZWZlBsQW9wS0dfNkFwVXI?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0xGSWF1cnV3RTlrVF9La09kWENDM19uU0FGVWZJMXR5dzhHTW1fblNLcXRrRzIwZXdnbVFpbDJ3OHkzbkR1N29rdHdiVHIxNDdic1JrSEpjWkRSc1dSM0x2b2VnZ0VCLUtCcDRLM3ZCMDlmYkJfU3Y3ajk3T3FySjZHSGstR3NQWWNBOHlTbnY2MVk1bzhnWjBwdDNlVEF1akd2U09YR3Q4QURBeVRma25ldUxuUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREpkd0xZU2pYS055Q0c1UE52U3FtdDlJZUdSU1FlOTZ0MzJDN2FFeFJyUkl6eHByc0UweFRhSldFU0lfS2RDdTFOWnBGZlVtc0libFlCQXdabDczV0N3WmZnVGxVRlp5RW0zZkNYM1RXZlhZWFFXbGNGUmk4d1FhTEU5ZGVuZDBWbkI4blN0QVhCUFNIMmpuWUtSQW5WR0JUeE5hZ3R4OVRZdw?oc=5"
           ]
         },
         {
-          "t": "Pound and Stocks React to Oil Shock and Supply Cuts",
-          "src": "FXStreet · Investing.com",
-          "b": "The British pound gave back earlier gains made from retail sales data. A tanker incident in the Strait of Hormuz and supply cuts by Aramco caused oil prices to shock markets. Airtel Africa shares also tumbled heavily during the trading session.",
-          "i": "The GBP/USD currency pair surrendered earlier gains driven by domestic sales figures as an oil shock reemerged. Crude supply pressures intensified following a tanker strike in the Strait of Hormuz and supply reductions from Aramco into Europe. Airtel Africa shares suffered sharp losses amid the wider market retreat.",
-          "a": "Sterling surrendered its intraday retail sales pop against the dollar as energy supply shocks dominated macro flows. The disruption involving a tanker hit near Hormuz and Aramco lowering European supply allocations injected renewed volatility into energy complexes. Airtel Africa underperformed significantly alongside the broader contraction in risk assets.",
+          "t": "Bank of England faces potential pressure for rate increase",
+          "src": "Reuters",
+          "b": "The Bank of England is the country's central bank, which sets borrowing costs for the economy. Market talk suggests the bank could be forced into a rate rise. Higher rates make loans more expensive. This helps control rapid price increases.",
+          "i": "The Bank of England could face pressure to execute a rate rise. Market commentators noted shifting expectations for monetary policy. Higher borrowing costs act as a primary transmission mechanism to cool demand. Analysts revised their rate trajectories accordingly.",
+          "a": "Market talk indicated that the Bank of England <span class='term' data-t='inflation'>could be forced</span> into a rate rise. Terminal rate pricing adjusted upwards as participants reassessed monetary policy reaction functions. The implied path of policy rates steepened across the curve. Yields reacted to shifting expectations of central bank intervention.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWm4wdHNzWkkxTThrdFM3c052WXdYNXlaS0ZicUJ2ZVNIMmwzSHhtZExSTDA0TWFieHhlT3I0YlBMOGx2bzRzM2lCdG8xREp5dG50LW85QlYtM1gwMF8yWW9WVmlSMHhQaDF2dXhjNFozdHNmRDhaSWw1cGk2OWdmZHo5V1VDME9Md3Rua2Zsa0dNZkhwd1NMMmVudmZXTXZzVldxa1JkbWwzQlZRcTJZLWE1eGJjNlc3Sy1jU2VtZFFMU0ZJeHUwel9ZaEpIN1k?oc=5",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN201RlJjTkI2NTBrRW83UFlKLXJPTGRsZ3F5ckNGczgwUi1ycUdUY0NDd0Q0WGViVmVUWEJhaXBiTmxWY3AycnMyZDFuakVGeE04dWJsRVBpYXJuNEQwLVNpREJyUUtTVHhpVW1LaG93eUJPQlg1WDJpdjY0MFJOaWV5aFowVWlnSS1nN1NFalZINWhKRm9RUHQ3Q1dUVVcwVTJaWkQwdmExbnk4RFpuR1BFUFg1UWtxc041RHZ6d1F3dWd4?oc=5"
+            "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iemduUHMwX3VkOW9JYTYyWHJhSjk2bjB3NkdZMHI5UjFfbWwxSVQ3c3JvWDlEQVY3NmxJbEFEaUFCdV9nR2FGSGFJQncxbjlRQmRkSDJmdGtXa3JrWlZ4N2VpeEd6OFk?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The government faced market pressures as bond yields rose and stock prices fell.",
-        "i": "Fiscal conditions tightened as higher sovereign borrowing costs accompanied broader equity market losses.",
-        "a": "Sovereign debt markets priced in higher yields while equities adjusted to tightening external energy shocks."
+        "b": "Political updates for the United Kingdom were not provided in today's news feeds. Markets focused entirely on corporate share movements and central bank policy talk. Official policy announcements remained absent from the financial reports.",
+        "i": "UK political developments remained absent from the session's news flow. Market participants concentrated on equity indices and interest rate projections. No legislative or administrative updates influenced trading.",
+        "a": "Macroeconomic data and private sector corporate filings drove market attention. Fiscal policy announcements played no direct role in daily price discovery. Trading volumes responded strictly to monetary expectations and corporate earnings."
       },
       "timeline": [
         [
           "18 Sep",
-          "FTSE 100 closes 1.51% lower following a drop in financial stocks."
+          "FTSE 100 falls as financials weigh on the index"
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German stocks slip as producer prices climb and futures expire",
+      "sub": "German stocks slip as producer prices climb and indices fall",
       "ind": [],
       "stories": [
         {
-          "t": "DAX Closes Lower on Quarterly Expiration Day",
-          "src": "Investing.com · marketscreener.com · AD HOC NEWS",
-          "b": "The DAX is a stock index, which is a group of major shares tracked together to measure how the market is doing. Frankfurt stocks fell on the quarterly expiration day. The DAX index dropped by 1.63% at the close of trade. Losses deepened across the session as the energy sector weighed on the index.",
-          "i": "The blue-chip DAX index fell by 1.63% at the close of trade in Frankfurt. Quarterly derivatives expiration exacerbated the losses across the session. E.ON stock slipped as the energy sector dragged down the broader market.",
-          "a": "The DAX closed 1.63% lower during the quarterly quadruple witching expiration session. Broad-based selling pressure hit Frankfurt equities with autos and telecoms leading the losses. E.ON shares declined alongside the wider energy sector.",
+          "t": "German Stocks Fall on Quarterly Expiration Day",
+          "src": "Investing.com · Reuters · marketscreener.com",
+          "b": "The main stock market index in Germany is called the DAX. This index tracks big companies like car makers and phone companies. On Friday, the DAX dropped by 1.63%. Traders call this day a quarterly expiration day. This is a date when certain financial contracts end at the same time.",
+          "i": "The DAX index fell 1.63% at the close of trade on Friday. European equities suffered a broad sell-off led by autos and telecoms. Frankfurt stocks slumped significantly on quarterly expiration day, deepening earlier session losses.",
+          "a": "The blue-chip DAX index dropped 1.63% amid a wider European STOXX 600 sell-off driven by autos and telecoms. Futures and options expiration exacerbated intraday volatility in Frankfurt. Price action tested vital support levels as liquidation pressure mounted.",
           "links": [
             "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXpEVEQxM1VWRGp6VFNhcDJkZXgza1pHcURJQmppWEpidTRKNUtzWGFPTEJzOWp4Y0lGZUowd2Z1X1dKc2xWaE9mX3BWbE1EQkszRlhsdU5FWkZJVzVDTWZESWVWcHYtSjN5ZWJ0NUNTYlhnZnNqcmV0YlI5TWxSOU1GUTh1SGxpdXZGYlQ0Wjl2TEx2TVM4WDJXTEhpOHYxNk1sZXhwMllmLXc3?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkFGcHJvcHlLeTZmdTZqX19aS2xKN2VjSl9mb3JfUlBKU0wyeXdOb3l3dVhySjVvNWg5NUNKRnBOSHA2V0xINGNtUkNhcjJZcEJWd2NSQ3h3S0xKcGxCY3BBVk5BTkdpYUVSZHhnUGxEbnpxTnI4LTRTT1I0YkZ5RWlWMmZQN19pR0QxNnlycEJKSlREUWVVam53LVJ3VTJzT1o0NzU4RFpacG03UlV1QTJaNEs?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjdMZjZqLWhIUE40MnhaUWlULTNyUWlLQXBEWWpWdzBQblZRbVZrVnhub1BEb0RGb0p4V0FoRG5ydG9kSUhEemlBT3JqMUxEM2VNemN1OEk4Uzg0T25rQUhCRXJlOVFVcmFXQmxqal94N21mRldNamNrSGRIdkVLTllKcU56RU03WWg0Y1ZFTkhlTEllTEJkcnp1Z0xyelJBRlY0U09xdTd6SkhtNlB3c0pmTzA?oc=5"
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJ4WTVpMzJfcEJQZ0VrSFFpZ3J3Q2RkLWRJR1dCV1NPY3pDb1JyenZKbXRIYko5bllROWNOal8zZURwMVZUSW93Slg1T2dRSWV5Rk8tU19vUDBYdTFockhkenhOaHNiU1RWc0lQTmxjY1F2QnNpcERWdEx0ZVF2dXdPUUhzeGM2M0tFNFlTY1M0ZHU0VXJWeDBicFpSTlc0WEF1Q2JQZw?oc=5",
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkFGcHJvcHlLeTZmdTZqX19aS2xKN2VjSl9mb3JfUlBKU0wyeXdOb3l3dVhySjVvNWg5NUNKRnBOSHA2V0xINGNtUkNhcjJZcEJWd2NSQ3h3S0xKcGxCY3BBVk5BTkdpYUVSZHhnUGxEbnpxTnI4LTRTT1I0YkZ5RWlWMmZQN19pR0QxNnlycEJKSlREUWVVam53LVJ3VTJzT1o0NzU4RFpacG03UlV1QTJaNEs?oc=5"
           ]
         },
         {
-          "t": "German Producer Prices Run Hot",
-          "src": "Finimize · Reuters · marketscreener.com",
-          "b": "Producer prices are the costs that factories and producers pay for goods before they reach shoppers. These prices ran hot in Germany. Higher producer prices can push up inflation, which is the general rise in the price of things over time. Markets reacted negatively to the data release.",
-          "i": "German producer prices climbed higher during the period. The hotter readings contributed to a broad sell-off across European equities. The STOXX 600 fell as automotive and telecommunication shares led the declines alongside the DAX.",
-          "a": "German producer price data printed higher, stoking concerns over persistent cost pressures. The upside surprise in input costs preceded a broad European sell-off led by autos and telecoms in the STOXX 600. The DAX absorbed these macro inputs alongside quarterly expiry flows.",
+          "t": "German Producer Prices Increase",
+          "src": "Finimize · marketscreener.com",
+          "b": "Producer prices are the costs that factories and makers pay for their raw materials. When these costs go up, it is called inflation. In Germany, these prices ran hot recently. This puts pressure on businesses before they sell items to shoppers.",
+          "i": "German producer prices climbed higher during the session. This <span class='term' data-t='inflation'>inflation</span> metric contributed to the negative sentiment around the DAX index. Higher factory costs create profit margin squeezes for industrial firms.",
+          "a": "German producer price data printed on the higher side. The print reinforced concerns over sticky input costs feeding downstream. Equity markets reacted negatively as margin contraction fears overshadowed operational updates.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2dkeUN5dWNQdkJaR3AyRlBNc2hVTFA0WUdYLUZvYXh4RmFwaDd4OC1vcEFOUjktZnZsLV9RYUo2NjhGcHQ5SkktOFBWeThwVGpURTBqb2Ziam1UV1R1VmlYb19GdmNnQ2FCUG1hN2x4M0FWaGIyNWxESlU5RERZb2dMOVBKRmlv?oc=5",
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUJ4WTVpMzJfcEJQZ0VrSFFpZ3J3Q2RkLWRJR1dCV1NPY3pDb1JyenZKbXRIYko5bllROWNOal8zZURwMVZUSW93Slg1T2dRSWV5Rk8tU19vUDBYdTFockhkenhOaHNiU1RWc0lQTmxjY1F2QnNpcERWdEx0ZVF2dXdPUUhzeGM2M0tFNFlTY1M0ZHU0VXJWeDBicFpSTlc0WEF1Q2JQZw?oc=5",
             "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEVTWXV5Z1htZDNoa3hYbjZGNzctMXowaVl3NHEySTlFYjNTN0k3TWlyMENEbEh6UW1oeGhjS2JxZ2YyekVYcE9XZjMwaWJSUm5kSDJkdzNRclhTTHNsejgzTVg1UUk0MGVKU3hIdU5ILW1QRTJTOUp6eDVvdEFYb3AtVjZZbHRNbHB1bUIwNVRBa2ZZZDdJaFJpcVBPUlNaWTljZk91bS1fUGc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Bundesbank official Nagel is out of the running to lead the European Central Bank. Handelsblatt reported that Joachim Nagel will not succeed Christine Lagarde. Observers noted the focus shifted to other political and economic developments.",
-        "i": "Bundesbank President Joachim Nagel is all but out of the race to succeed Christine Lagarde at the European Central Bank. Handelsblatt reported his removal from contention for the role. Markets parsed this alongside domestic data releases and upcoming elections.",
-        "a": "Bundesbank chief Joachim Nagel is effectively eliminated from the succession race for Christine Lagarde's seat at the European Central Bank according to Handelsblatt. The leadership shift removes a prominent hawk from the projected institutional shortlist. Analysts weighed this personnel development against ongoing German election focus and Ifo sentiment readings."
+        "b": "Reports state that Joachim Nagel from the Bundesbank is losing ground in the race to follow Christine Lagarde at the European Central Bank. Handelsblatt shared this news on Friday. Observers are also watching upcoming elections.",
+        "i": "Bundesbank President Joachim Nagel lost momentum in the succession race for Christine Lagarde's role at the European Central Bank, according to Handelsblatt. Meanwhile, local market participants turned their attention toward upcoming political elections and Ifo surveys.",
+        "a": "Handelsblatt reported that Bundesbank chief Joachim Nagel fell behind in the institutional race to succeed Christine Lagarde at the European Central Bank. Domestic attention simultaneously pivoted toward upcoming federal elections and incoming Ifo economic sentiment prints."
       },
       "timeline": [
         [
           "18 Sep",
-          "Bundesbank's Nagel all but out of race to succeed ECB's Lagarde according to Handelsblatt"
+          "Handelsblatt reports Bundesbank's Nagel trails in ECB succession race"
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan raises interest rate to 1.25%",
+      "sub": "Bank of Japan raises rates to 1.25%",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Raises Interest Rate",
-          "src": "Bloomberg.com · briefs.co · New Age BD",
-          "b": "The Bank of Japan raised its main interest rate to 1.25%. Interest rates are the cost of borrowing money. This move pushed borrowing costs to a 31-year high. Officials took this step to fight rising prices. The Japanese yen fell against the US dollar after the announcement.",
-          "i": "The Bank of Japan lifted its benchmark rate to 1.25%. This rate hike reached a 31-year high designed to combat <span class='term' data-t='inflation'>inflation</span>. Dissenting votes within the central bank undercut market expectations. The yen subsequently weakened against the dollar as traders reacted to the decision.",
-          "a": "The Bank of Japan elevated the policy rate to 1.25%. Dissenters undermined the policy signal, disappointing participants who anticipated a more aggressive stance. The currency depreciated toward the mid-157 range following the announcement before authorities intervened.",
-          "gloss": "inflation",
+          "t": "Bank of Japan raises policy rate",
+          "src": "finance.biggo.com · Bloomberg.com",
+          "b": "The Bank of Japan is the country's central bank, which manages the money supply and sets borrowing costs. It raised its policy rate to 1.25%. This move created worry for people who hold variable-rate mortgages, as their loan repayments will likely increase.",
+          "i": "The Bank of Japan lifted its policy rate to 1.25%. This decision triggered immediate concern among variable-rate mortgage holders facing higher debt-servicing costs. Dissenting votes within the central bank complicated the policy message delivered by Ueda.",
+          "a": "The Bank of Japan delivered a rate hike to 1.25%, though internal dissent undercut the policy signal. The adjustment immediately stoked repayment anxieties for domestic variable-rate mortgage holders. Markets digested the decision alongside broader currency dynamics and intervention jitters.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTlGVHpscnl1blJhZ09STmZEZGNSMnVTbjhLY0lLa0UwTXVycjAxV2gwUUZEZXZQT3lsTVdyNVZIU2R2MHA5UWJiaXBmMm9BN2tEOExjUDNmQXp2bUlhdFZnSWRBWmJrSG8yUmxza2pCRlJtT2l6R1hSV09zNG1NS01fSFdNU21NTmNmYkNWWXJIV1BSZXVQbTN5LURmNzFVa2ZwUUU2dl83bU03V2k0WTNBWEExVlAzaW15UDFn?oc=5",
-            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlFpYXRoeHdLSzVVYk4yVkVMQVpYZmdzZDdhNktZeExpZmVnTmVpWG9pc0xQbjJyY0pzc2NZTDFGOWE0M1FkWHFBbEJLdGlyOVkxYjAyLXdhaGVBWFc4czBlWHR0b0lDeHRlekJRbmw5cE9Ick1Ub1dfV24xOHFCb1oyWDJGUXdn?oc=5",
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXc5blVLb1huQzBZcjNLRmZyTlR1cFU4VWFGdW1tM3B4aFloZ2tMd0pjeDBnN0tIZkg3TFZMUV8ySFlIWmpILXkzb3huTDIyMjUxUFhhNS0tcUt4SDYwTXN4M1h0aUZ5bkNBMjk5bjVIUEk1M2lUbnFYWUVtemF0OEluNjVEblFIbEVNInVlZHJ4OU5sQW5pUXNxT0g0bVJqX3UzSTVEWVBkQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oQVNKZUdiN25rWk00c2l4UlBsRVNocUJmQ0prejBlQWh5ODN2bTBHQ0ZBQy10Um9kUlF0TkFwS2N0aUNkUm9lMkFqY2xrRDFGZjB0cFhQOVB3OXNMMkdjNDFKM09CaXRVM1ZDMWFlNjl2c3VXbWc?oc=5",
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTlGVHpscnl1blJhZ09STmZEZGNSMnVTbjhLY0lLa0UwTXVycjAxV2gwUUZEZXZQT3lsTVdyNVZIU2R2MHA5UWJiaXBmMm9BN2tEOExjUDNmQXp2bUlhdFZnSWRBWmJrSG8yUmxza2pCRlJtT2l6R1hSV09zNG1NS01fSFdNU21NTmNmYkNWWXJIV1BSZXVQbTN5LURmNzFVa2ZwUUU2dl83bU03V2k0WTNBWEExVlAzaW15UDFn?oc=5"
           ]
         },
         {
-          "t": "Authorities Check Foreign Exchange Rates",
-          "src": "Finimize · Nikkei Asia · Investing.com",
-          "b": "Japanese authorities checked foreign exchange rates in the market. This action is often called a rate check. The yen jumped by over 1 yen after this check. The currency moved to the upper-156 range against the US dollar. Intervention fears briefly pushed the pair below 157.",
-          "i": "Japanese authorities conducted <span class='term' data-t='gilt'>rate</span> checks in the foreign exchange market. The yen surged by more than 1 yen in response. The currency climbed to the upper-156 range against the dollar. Speculation about official intervention briefly drove the pair below 157.",
-          "a": "Japanese authorities executed rate checks across foreign exchange desks. The currency rallied over 1 yen, touching the upper-156 boundary against the dollar. Market participants adjusted short positions amid immediate intervention jitters.",
-          "gloss": "gilt",
+          "t": "Yen swings following rate check",
+          "src": "News On Japan · Bloomberg.com · Nikkei Asia",
+          "b": "The Japanese yen is the official currency of Japan. It strengthened sharply into the upper 156 range against the US dollar. Officials conducted a rate check, which often happens before governments step in to buy or sell their currency.",
+          "i": "The yen pared earlier losses and surged into the upper 156 range against the dollar. Authorities conducted a rate check, sparking sudden intervention jitters across trading desks. The currency pair had previously traded in the mid 157 range before the official action rattled participants.",
+          "a": "The yen rebounded sharply from BOJ-fueled declines after authorities executed a rate check, driving the exchange rate into the upper 156 range against the dollar. Market participants reevaluated positioning following the intervention warning. The currency pair compressed lower after touching the mid 157 range in New York trading.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFlJY0pNV0J5QkxnRTdrQ3pvdF9sNGJnZGRxUDBVUGhJVG9LaDg3eGxRbEVEZHBMVG9tbWVOSEd0WE0ydnY0cXdVVlpEUTRWX0ZtSGl3bF9JNTNUSDhTVkVfbkxsRllkZmJNT0dBWkJ0Z0NUeHdENGlhU0ttZmtpNTVzc1lZQ1Aw?oc=5",
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmZPZnhRQW9fa0gwamZ5c2pYOGluWnJpay04aWVDYVBpaHQydE5mN1kxTWhSSE5PSzU0aDVFaHprU0tZQTVERVVPUERSQjdleDF0NkJKLUx5aTFtenZzeDFvdXQ3cGpNaFdKQ1RTRDYtX2NIRU1EeklPZF9Mc0NVVURZejJyNVo2eGZMWldzX3pXQ015S1NTQ1VlNlRtdXlucmx6V3pUY0VPTTJjQ29TLUhHLWpCNWNV?oc=5",
-            "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRk5yOUZvZFdqR20tbHM5Y251OFFDZHprOFdkeHlxQVZ6VWRpT0Foc014LXZjb3M0WjVPNk80V3ZRbUdfcDRicnFSZ2xjdTVvQl9feXE1ZDhRUGlCQ1ZSWWdraHk3ZTB1UnBMZ0VFTjFYNjhxYUdDRmQzVG95blhFWUpRMExqYjJGRFYwNXRZU0NueWR4NWg0U050STczZGlUdjRRbQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vaGEzengwUWZtUGhUOHZhS2dKVENNSW42MUxISWoxV3Bwc1hfU19ubDZoNUJUSDdQMnlqeHdCMXA2RUtBcnV4MnphY0o2ODJUdG11TA?oc=5",
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxONW5PTWdWd3FXTGdyRVVtVklQZUl4cUJ6bDZNeE5FMzBqVjJKTXBxeDBnUDBNZ3ozRHFYVkxYdmtWNC1xQ1phZ3E2WkJtdm9sNElQcXk4MXZLVUpUMDJtb0dhd3Q5czZNeVM3LWFlNkNmQW90djU4cUh2cVh1TnlVNzVUT0hmNTMwb1pXR3pxVWtQOEhmOTY3U3JiSW51R3ptZGl2RUR2SjRIOEhxSTM5bQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmZPZnhRQW9fa0gwamZ5c2pYOGluWnJpay04aWVDYVBpaHQydE5mN1kxTWhSSE5PSzU0aDVFaHprU0tZQTVERVVPUERSQjdleDF0NkJKLUx5aTFtenZzeDFvdXQ3cGpNaFdKQ1RTRDYtX2NIRU1EeklPZF9Mc0NVVURZejJyNVo2eGZMWldzX3pXQ015S1NTQ1VlNlRtdXlucmx6V3pUY0VPTTJjQ29TLUhHLWpCNWNV?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Central banks in Japan, the United States, and Europe aligned on rate actions. Officials dealt with similar economic pressures. Policy makers adjusted borrowing costs to address these challenges.",
-        "i": "The Bank of Japan, Federal Reserve, and European Central Bank entered historic alignment on rate hikes. Officials coordinated policy responses to persistent price pressures. Central banks utilized monetary tools simultaneously across regions.",
-        "a": "The Bank of Japan, Federal Reserve, and European Central Bank converged on policy tightening cycles. Authorities managed cross-border currency spillovers alongside domestic mandates. Central bankers aligned monetary levers amidst synchronized global price pressures."
+        "b": "Central bank leaders made monetary policy choices while currency traders reacted to government warnings. Officials managed the value of the national currency against foreign money. Observers linked the timing of these financial steps to international policy talks.",
+        "i": "Monetary authorities balanced domestic policy adjustments with external currency pressures. Officials utilized rate checks to manage exchange rate volatility. Observers noted the interplay between central bank decisions and broader diplomatic currency coordination.",
+        "a": "Policymakers navigated the complex transmission between interest rate adjustments and foreign exchange intervention. Authorities leveraged rate checks to cap currency depreciation without committing to immediate direct market operations. Analysts tracked how these domestic monetary shifts intersected with bilateral currency frameworks."
       },
       "timeline": [
         [
-          "18 Sep 2026",
-          "Bank of Japan raises rate to 1.25%"
+          "18 Sep",
+          "Bank of Japan raises policy rate to 1.25%"
         ],
         [
-          "18 Sep 2026",
-          "Authorities conduct foreign exchange rate checks"
-        ],
-        [
-          "18 Sep 2026",
-          "Yen surges to upper-156 range against dollar"
+          "18 Sep",
+          "Authorities conduct rate check, pushing yen to upper 156 range"
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Yuan hits three-year high and securities deal moves ahead",
+      "sub": "Yuan hits high, securities merge, whistleblower rewards rise",
       "ind": [],
       "stories": [
         {
-          "t": "Yuan Surges Past Key Milestone",
-          "src": "caixinglobal.com",
-          "b": "The currency of China is the yuan. A currency is the official money used in a country. The exchange rate tells you how much one currency is worth in another. The yuan climbed past the rate of 6.7 per dollar. This reached a three-year high.",
-          "i": "The Chinese <span class='term' data-t='inflation'>yuan</span> strengthened past 6.7 per dollar. This exchange rate reached a three-year high. Currency appreciation alters import costs and capital flows across borders. Markets adjusted positions following the move.",
-          "a": "The Chinese yuan breached the 6.7 per dollar threshold to print a three-year high. Spot appreciation alters cross-border capital dynamics and <span class='term' data-t='carry'>carry</span> trade unwinds. Traders are repricing domestic asset valuations against the stronger currency.",
-          "gloss": "inflation",
+          "t": "Chinese Currency Reaches Three-Year Peak Against the Dollar",
+          "src": "Caixin Global",
+          "b": "The Chinese currency is called the yuan. A currency is the official money used in a country. The yuan just strengthened past the rate of 6.7 per single United States dollar. This marks the strongest exchange rate for the Chinese money in 3 years.",
+          "i": "The yuan climbed past 6.7 per dollar. This exchange rate represents a 3-year high for the Chinese currency against the greenback.",
+          "a": "The yuan breached the 6.7 threshold per dollar. Spot rate dynamics reflect a 3-year peak for the onshore currency against the US dollar.",
           "links": [
             "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVM4UE0wVW95b1dEclFNNXdFU2Y2RkNXR01ITDlHbFJKNUhyQktqNHVjLXJtRlVYRHlxaUd6am92MzFCU0NMS1NiQ3Z4MTV5dGJVam8xYjN4NlcyVGszMVNpM2lWb0xUVGRobDVBMl8tbkFuU2lGaU5mOHZ5R2xFbE1YRnVmdUpwRGlYR2Z6dWdza2ZhQjBzQ2RmaHdqcmZYZC1ZWmgybw?oc=5"
           ]
         },
         {
-          "t": "Brokerage Progresses With Share-Swap Merger",
+          "t": "Dongxing Securities Applies to Delist During CICC Merger",
           "src": "finance.biggo.com",
-          "b": "Dongxing Securities applied to delist from the stock market. A stock market is where pieces of companies are bought and sold. This happened as part of a merger with CICC. A merger combines two companies into one business.",
-          "i": "Dongxing Securities formally applied to delist its shares. CICC advanced its share-swap merger into the implementation phase. Corporate restructuring continues to reshape the domestic brokerage sector.",
-          "a": "Dongxing Securities submitted formal de-listing applications. CICC progressed its share-swap merger into the active implementation phase. The structural consolidation reduces listed brokerage entities in the market.",
+          "b": "Dongxing Securities is a financial company that helps sell shares. It applied to stop trading its shares on the stock exchange. This happens while a share-swap merger with CICC enters its implementation phase.",
+          "i": "Dongxing Securities formally submitted an application to delist. The move coincides with CICC advancing its share-swap merger into the implementation phase.",
+          "a": "Dongxing Securities filed for formal delisting. The corporate action proceeds as the share-swap merger involving CICC transitions into the implementation phase.",
           "links": [
             "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLejNqZ3FkMjVQeUFGQVBycjJnT0hxdWd2N1VRWFY0clIwSHFxZE94WUxkRDI5dkdiQ09vUGRXQmxBZnBsbEtNY3R3QzFLeHE5T1JXTWdETU5kdmljclkzVnhxejVxTHVJZ3I0dzRIZ2xwZ21hQXc?oc=5"
+          ]
+        },
+        {
+          "t": "Regulator Boosts Whistleblower Rewards and Import Outlook",
+          "src": "finance.biggo.com · 巴士的報",
+          "b": "The China Securities Regulatory Commission announced rewards for 17 whistleblower cases. It raised the maximum payout cap to 1 million yuan per case. Separately, an official stated that total import volume is expected to exceed 20 trillion yuan throughout 2026.",
+          "i": "The CSRC revealed its first batch of rewards covering 17 whistleblower cases, elevating the per-case ceiling to 1 million yuan. Meanwhile, official projections estimate that import volume will surpass 20 trillion yuan over 2026.",
+          "a": "The CSRC published the inaugural reward distribution for 17 whistleblower matters, lifting the per-case cap to 1 million yuan. Concurrently, official guidance anticipates aggregate import volume to eclipse 20 trillion yuan through 2026.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BcGNBNjR3RjBfNGtJN3JCaDIwT3Z4MXBpak1IVWlGMGJ0ZUxnVGtSd2RIcXpwczVKWl9aU1F2RE1kVGlCTnQwVnpuOF9RRDJ6dWU1LU53TWVqelZDdFF1dUJHd0pxNnRjbzRENWtYTXFuendEUkE?oc=5",
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1RIWFZuSG41QktqcEZmNlIyRG9xbW02ckJ0b1pUdHl5Z2ZEY3k3bTAzdWtsQWpOekhiSElvMWtSNkZoR2FUTzhiLVpMYU9FdnJBeGhRMTlhRTNuWXB4OVctam41ZWVFeDFUNG8zRFdVMnNTWlRzS2lFUlVVeW1sWmZpaldmQ1lzN0l4akRCTTZtVGFMbzI3X052ajZqY0xHdkpaQXM4alkzbWZ1TU1wd0JyMXJ2ZFNXQUNPcQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China announced rewards for whistleblowers reporting rule-breaking. The highest reward per case increased to 1 million yuan. Officials also reported that import volumes are expected to pass 20 trillion yuan.",
-        "i": "The China Securities Regulatory Commission announced its first batch of rewards for 17 whistleblower cases. Authorities raised the per-case reward cap to 1 million yuan. Officials stated that total import volume is expected to exceed 20 trillion yuan.",
-        "a": "The China Securities Regulatory Commission formalized rewards for 17 whistleblower cases while raising the per-case cap to 1 million yuan. Regulatory authorities also projected that annual import volume will exceed 20 trillion yuan. Enforcement mechanisms continue to target market compliance."
+        "b": "Hasan Piker stated that the United States benefits more from cooperating with China than from trading threats.",
+        "i": "Hasan Piker argued that cooperation with China yields better outcomes for the United States than exchanging threats.",
+        "a": "Hasan Piker contended that bilateral cooperation with China serves US interests more effectively than adversarial posturing."
       },
       "timeline": [
         [
-          "18 Aug",
-          "Solai Ltd announced the resignation of Qiang Yuan from Chief Financial Officer."
-        ],
-        [
-          "18 Sep",
-          "Dongxing Securities formally applied to delist during the CICC merger implementation."
+          "18 Sep 2026",
+          "Yuan surpasses 6.7 per dollar to reach a three-year high."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indian shares fall, RBI auctions debt, and tech exports eyed",
+      "sub": "Indian shares drop for sixth week as oil and rate fears weigh",
       "ind": [],
       "stories": [
         {
-          "t": "Indian Shares Drop for Sixth Consecutive Week",
-          "src": "TradingView · BusinessToday - IndiaIPO",
-          "b": "Stock markets in India went down for the sixth week in a row. People who own shares saw values drop because of worries about higher interest rates and oil costs. Companies like TCS and Titan saw their share prices fall by up to 4%.",
-          "i": "Indian shares recorded their sixth straight weekly loss. Market sentiment remained under pressure as participants reacted to ongoing oil price worries and interest rate fears. Major index constituents such as TCS and Titan declined by up to 4%.",
-          "a": "Equities extended their downward trajectory into a sixth consecutive weekly decline, pressured by macro headwinds including energy costs and rate uncertainty. Large-cap constituents such as TCS and Titan underperformed, dragging the Nifty and Sensex lower by up to 4%.",
+          "t": "Indian Shares Extend Weekly Losing Streak",
+          "src": "TradingView · BusinessToday IndiaIPO",
+          "b": "Share prices are pieces of ownership in companies. Indian shares fell for the sixth week in a row. Companies like TCS and Titan saw their values drop by up to 4%. Investors worried about oil prices and interest rates.",
+          "i": "Indian equity markets extended their weekly losses to a sixth consecutive term. Major index constituents such as TCS and Titan recorded declines of up to 4%. Persistent concerns regarding crude oil and rate trajectories drove the sell-off.",
+          "a": "Indian equities posted a sixth consecutive weekly decline, pressured by macro headwinds surrounding crude oil and rate expectations. Index heavyweights TCS and Titan led the laggards with drops reaching 4%. Sentiment across the Nifty and Sensex remained subdued throughout the session.",
           "links": [
             "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWE1VX0JhbTVzX0V4c0VKcEpxTzdIOHhPVFZ0V0ZIVEdlUlhUMkxZbGVwWnZFSFEyZFF2a0s0U2VEdVptZVNSZDJGckxYSWdJNFBabU5aRXIwREFSaWZmeUJERjRaNUlxLVpHcUFWcC0yc016UEZMaEVfV0pyTVB6ZnhPYV9jaWlEMGI1WFBWWUlpaW9ZMm94Vnk3TXRmMnhxaE1faWVaeVZNTTgzNmZ1VXBNcHh2QXh0dHo5Q3Z1QlZfdw?oc=5",
             "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0FUZFVfUlVsZmw0b1ZWaTVDbkVtbVcyNE9FM1ZCeDJQX2cwSWlFUFBFc0Q3SUIxVHpmS1FMYW1hUWNyd1pWZW5lRThwQlB5ZDIyS09tTWRSQTRnRWV4eDBJRDVXX05Ec3JJU3hBR2lRSXFKOWhuT3BDRkwyZVNQbk13MHBVS1dMbE00dkdCN01YTTd3NnlvRG9oMEdSLXVTQ1Mzb0pUc21FTlJEeU5TZnZFYmJDaVN4TGRDaE8zaExNZ0hxa3c?oc=5"
           ]
         },
         {
-          "t": "Reserve Bank of India Announces Debt Auctions and Liquidity Measures",
+          "t": "Reserve Bank of India Auctions Treasury Bills and State Securities",
           "src": "Reserve Bank of India",
-          "b": "The central bank of the country set auctions for government treasury bills worth ₹24,000 crore. State governments also offered to sell stock worth ₹16,750 crore. The central bank will run a overnight variable rate reverse repo auction to manage cash in the banking system.",
-          "i": "The central bank scheduled treasury bill auctions totalling ₹24,000 crore across 91-day, 182-day, and 364-day tenors. State governments offered ₹16,750 crore through security re-issues and auctions. Meanwhile, the RBI announced an overnight variable rate reverse repo auction to absorb ₹1,00,000 crore from the banking system.",
-          "a": "The monetary authority scheduled ₹24,000 crore of sovereign paper auctions across 91-day, 182-day, and 364-day tenors alongside ₹16,750 crore of state government securities. Concurrently, the central bank announced a ₹1,00,000 crore overnight variable rate reverse repo auction to manage short-term liquidity overhang under the liquidity adjustment facility.",
+          "b": "The Reserve Bank of India is the country's central bank, which manages the money supply and banking system. It offered treasury bills worth ₹24,000 crore across different time lengths. State governments also offered to sell stock worth ₹16,750 crore through auctions.",
+          "i": "The Reserve Bank of India scheduled auctions for 91-day, 182-day, and 364-day <span class='term' data-t='gilt'>treasury bills</span> amounting to ₹24,000 crore. State governments simultaneously offered to sell stock worth ₹16,750 crore via auctions. These debt operations form part of routine government borrowing mechanisms managed through the central bank.",
+          "a": "The Reserve Bank of India announced a ₹24,000 crore sovereign debt auction spanning 91-day, 182-day, and 364-day tenors. Concurrently, various state governments offered ₹16,750 crore of state <span class='term' data-t='gilt'>stock</span> via re-issues and specific tenors. These primary issuance schedules test domestic absorption capacity amidst tight liquidity management.",
+          "gloss": "gilt",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63628",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63627",
             "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63626",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63622"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63628"
           ]
         }
       ],
       "politics": {
-        "b": "The central bank released new data about software exports and overseas investments. Japanese firms showed interest in local chip manufacturing plans.",
-        "i": "The RBI published annual survey figures on software and ITES exports alongside overseas direct investment data for August. Foreign interest in local semiconductor manufacturing also expanded.",
-        "a": "Data releases covered annual IT and BPO export surveys alongside August overseas direct investment flows. Industrial interest from Japanese suppliers like Fujifilm and Tokyo Electron targeted domestic semiconductor fabrication initiatives.",
-        "sources": {
-          "0": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63625"
-          },
-          "1": {
-            "outlet": "Japan markets",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYW9FUlFiRk95QjdqT3MwSlFWVG1RQ2FSZ2VQYmlpaEVXdVQ3TFphM0sxbDMybWlXX24xU2xMSVFlX1BEY3JBdkVBdnNPUElRd0VnWEVudFFHNl9PQTNid25IX2l0amVvaWhPcVhJal8xR3gzZmJyYzBfNUxYaWZjWFZlTGVXWjllS01uTUVMSWFNTXFZM1lxOWhWX0tZVS0zNHVhd0E1S19tejR3TWc0RUFmOA?oc=5"
-          },
-          "2": {
-            "outlet": "Reserve Bank of India",
-            "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63623"
-          }
-        }
+        "b": "The government released survey data about software and IT exports. Officials also tracked overseas direct investments for August.",
+        "i": "The central bank published its annual survey on computer software and information technology enabled services exports for 2025-26. Authorities also released August data on overseas direct investment through automatic and approval routes.",
+        "a": "Data releases covered the 2025-26 annual survey on computer software and IT-enabled services exports alongside August overseas direct investment figures. These metrics outline external sector flows and foreign exposure via both automatic and approval routes."
       },
       "timeline": [
         [
-          "18 Aug",
-          "RBI released overseas direct investment data for August 2026"
+          "11 Sep 2026",
+          "State government loans and advances stood at ₹14,958 crore according to statistical updates."
         ],
         [
-          "18 Sep",
-          "RBI announced treasury bill auctions worth ₹24,000 crore"
-        ],
-        [
-          "21 Sep",
-          "RBI scheduled overnight variable rate reverse repo auction"
+          "18 Sep 2026",
+          "The Reserve Bank of India announced treasury bill auctions totaling ₹24,000 crore."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras earnings and US gas deals, alongside stock index drops",
+      "sub": "Petrobras results, supply pacts, and index pressure",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Secures Supply Agreement and Reports Earnings",
+          "t": "Petrobras Posts Earnings and Secures US Supply",
           "src": "Rigzone · scanx.trade",
-          "b": "Petrobras is a big energy company owned partly by the state. It signed a deal to buy gas from the United States for 20 years. The company also reported a record profit and a debt of $70.8bn for the second quarter of 2026. A debt is money that a company owes to others.",
-          "i": "Petrobras finalized a 20-year supply agreement with Sempra's Port Arthur LNG project in the US. The state-controlled energy producer released its Q2 2026 results, posting a record profit alongside $70.8bn in total debt. The company also expanded its footprint internationally by entering eight offshore exploration blocks in Cote D'Ivoire.",
-          "a": "Petrobras secured a long-term LNG offtake agreement from Sempra's Lone Star State facility, diversifying its feedstock access. The corporate disclosure for Q2 2026 showed record earnings alongside a $70.8bn liability burden. Concurrently, the firm operationalized its upstream expansion strategy by acquiring stakes in eight offshore blocks in Cote D'Ivoire.",
+          "b": "Petrobras is a big energy company in Brazil. Petrobras reported its Q2 financial results. Petrobras beat profit estimates per share, though sales missed slightly. Petrobras posted a record profit alongside $70.8bn of debt. Petrobras also signed a 20-year deal to get liquid natural gas from the Port Arthur project in the United States.",
+          "i": "Petrobras released <span class='term' data-t='inflation'>Q2</span> figures showing earnings per share beat expectations while sales missed slightly. Petrobras registered a record profit alongside a debt load of $70.8bn. Petrobras also finalised a 20-year supply agreement for American natural gas from Sempra's Port Arthur project in Texas.",
+          "a": "Petrobras reported Q2FY26 results featuring an EPS beat against a minor top-line sales miss. Petrobras logged a record profit alongside a $70.8bn debt stack. Petrobras expanded its long-term feedstock access via a 20-year offtake contract with Sempra for Port Arthur LNG capacity.",
+          "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdG9ZeWNVaV82TEFSWm1qemxGdHV3RDVkbFp1bjF3SEJNWFU3TGZ3SE5qemk1T3RGazhoajdaU1J1VUY1ZHdqamF2ZXQ1bG1XTERoQ3RpWVNjcU9MYjFmYk9FU293TmJsQnFuZlN6bUdSM0sxei16VFZyNTlfQTZwZ1lYRGNSb0pJbWtvZ0tfMjZMazBmRWZ5a3BZbmlEVUhVbXg3UDR5NmdiRHcxVXo0?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlNMZDRXcFdadExTNTZNWVd2SjRIRFJnMnBrUUVPUWJyM0tMTl9JbkFzWGNfUTdqWmRzTEJZUHBLRDFHZWJ4RC1mRDI3REhvVTVCUGR2NXdWLXZmaGZMdnZPM2wyU1dHbXVHVElUMmR4UjJ2OUl4N2hXbUVlTG5FblUyZGFkNTBuWE40XzVkQ0g1d2FkOVJZMzhPSExXMkZScm5uLXlrVV8xQ29USlJGaXJkeDNJX3JIb2pHVERJOE4?oc=5"
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekdqY1dTUDBvUE4zNjFLZ3pLVjZ6YXdzTEFtaEVDNnFDbEVabXlLRU1ORml3U3dMel9jeG5rVGlGREVZa2hDSzBxajRBM0FhZGxITWFRcjB3V1Qyb1BMMHA5LXF5eW9PajBkbEt2QUNuckl3X0VQcnZJeUFvREpYNHVTZlpTUlNDc0VWRjdBTks0YTQ2UEUwVUZ5NFZMdUFXODA2M1pvUmxRckdqS2QzRzBVY1FMODg?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQlNMZDRXcFdadExTNTZNWVd2SjRIRFJnMnBrUUVPUWJyM0tMTl9JbkFzWGNfUTdqWmRzTEJZUHBLRDFHZWJ4RC1mRDI3REhvVTVCUGR2NXdWLXZmaGZMdnZPM2wyU1dHbXVHVElUMmR4UjJ2OUl4N2hXbUVlTG5FblUyZGFkNTBuWE40XzVkQ0g1d2FkOVJZMzhPSExXMkZScm5uLXlrVV8xQ29USlJGaFJEeDNJX3JIb2pHVERJOE4?oc=5"
           ]
         },
         {
-          "t": "Brazilian Index Declines Amid Price Pressures",
-          "src": "TradingView · Traders Union",
-          "b": "The Ibovespa is an index, which is a basket of major company shares that shows how the stock market is doing. It fell because people worried about <span class='term' data-t='inflation'>inflation</span>, which means that prices for everyday items are going up. Meanwhile, the Brazilian real currency traded up against several foreign currencies after technical indicators suggested oversold conditions.",
-          "i": "The Ibovespa index fell as <span class='term' data-t='inflation'>inflation</span> concerns weighed on investor sentiment across local equities. Foreign exchange markets registered upward movement in the euro and pound sterling against the Brazilian real. Technical indicators had previously flagged oversold conditions for the local currency before the rebound.",
-          "a": "The Ibovespa benchmark index dropped due to persistent <span class='term' data-t='inflation'>inflation</span> headwinds affecting domestic asset valuations. Cross-rate dynamics showed the euro and sterling appreciating against the Brazilian real following technical oversold signals. Market participants adjusted positioning as currency pairs tested local resistance levels.",
+          "t": "Ibovespa Slips as Price Pressures Weigh on Sentiment",
+          "src": "TradingView",
+          "b": "The Ibovespa is the main stock market index for Brazil, which tracks the performance of major companies. The Ibovespa fell on September 18. Traders worried about rising consumer prices and living costs. This inflation concern drove the main stock index downward during the session.",
+          "i": "The Ibovespa declined on September 18. Market participants pulled back from equities as <span class='term' data-t='inflation'>inflation</span> worries intensified. Those rising price pressures weighed on the broader Brazilian index during the trading session.",
+          "a": "The Ibovespa dropped on September 18. Macroeconomic concerns regarding rising inflation drove the equity index lower. Persistent price pressures continue to dictate domestic risk sentiment across local indices.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWERfZmxVZTlHZ3Bkejdld0NMSjV6bENQTmk0TVVFU1NYQjZBVmZ2VC1fWFBBRlYxdGRCTjVVbkgwT29OcWxrYjNBb3hMd2ZubTFtaGdaenFWOVBURHBqLXB4MDgzNG5wbWtNV0x0bHpjRnVLTVBFdWh1S09ZMnBXd1VCTm1yTGlBQzdUMDhjY1Y?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUldRczRmSzNLQ0xKTmwtSk91MkNVZ3BpMWJvVGVLb1plbldNMFFCbm0xWHRfdUNvU2FGVnNTUTczSTc4TFA5Yl9IMnpXVHM5bXdtV2JXOHZueWRNakNSdVBJaHpQM2FQY0FfN1VZbUpoemEyZHlGX09EUW5sUjR2ejRNUkNVVGdyemtiZVZqaXg0QQ?oc=5"
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWERfZmxVZTlHZ3Bkejdld0NMSjV6bENQTmk0TVVFU1NYQjZBVmZ2VC1fWFBBRlYxdGRCTjVVbkgwT29OcWxrYjNBb3hMd2ZubTFtaGdaenFWOVBURHBqLXB4MDgzNG5wbWtNV0x0bHpjRnVLTVBFdWh1S09ZMnBXd1VCTm1yTGlBQzdUMDhjY1Y?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "State-controlled companies like Petrobras continue to steer major energy deals while economic pressures affect domestic markets.",
-        "i": "State involvement in energy producers like Petrobras remains central as corporate strategy aligns with international supply contracts.",
-        "a": "State-linked corporate governance at Petrobras dictates international supply integration alongside domestic macroeconomic exposure."
+        "b": "Corporate updates and commodity developments drive market movements in Brazil. Companies report earnings and sign international trade deals. Stock indices react to domestic cost pressures.",
+        "i": "Brazilian markets balance corporate earnings reports against macroeconomic inflation pressures. Petrobras updates dominate energy flows while equity indices respond to cost concerns.",
+        "a": "Brazilian market direction remains anchored to corporate disclosures from state-linked entities and macro pricing prints. Equity valuations adjust to domestic inflation expectations while industrial operators secure long-term capital projects."
       },
       "timeline": [
         [
           "18 Sep",
-          "Petrobras reported Q2 2026 results including record profit and $70.8bn debt"
+          "Petrobras reports second quarter earnings and signs supply deal"
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Saudi pipeline attack halts European oil deliveries",
+      "sub": "Aramco halts European crude supplies after pipeline attack",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco halts European crude allocations following pipeline attack",
-          "src": "Bloomberg.com · Business Today · Bhaskar English",
-          "b": "A drone strike hit the East-West pipeline in Saudi Arabia. Saudi Aramco told European buyers they will get no crude oil next month. The company stopped these October deliveries to two European refiners. Remaining exports are heading to East Asia instead. Repairs to the damaged infrastructure will take time.",
-          "i": "A drone attack originating from Iraq forced the shutdown of the East-West pipeline. Saudi Aramco informed European refiners that October crude allocations are completely halted. The state oil producer redirected remaining export flows toward East Asia. Repair work on the damaged pipeline infrastructure is scheduled to take time.",
-          "a": "A drone strike from Iraq disabled the critical East-West pipeline, triggering a complete halt in October crude allocations to at least two European refiners. Saudi Aramco diverted its export streams toward East Asia while repair operations commence. The supply disruption leaves European buyers scrambling for alternative energy sources.",
+          "t": "Aramco Halts European Crude Supplies After Pipeline Attack",
+          "src": "Bloomberg.com · Bhaskar English",
+          "b": "Saudi Aramco is the state-owned oil company of Saudi Arabia. It cancelled crude oil deliveries to European refiners for the following month. A drone attack originating from Iraq damaged a vital pipeline. Repairs to the pipeline require time. Consequently, some export volumes are redirected toward East Asia.",
+          "i": "Saudi Aramco suspended crude shipments to European buyers for next month following a pipeline shutdown. A drone strike launched from Iraq caused the disruption on the infrastructure route. Repair work on the damaged pipeline is expected to take time. The state producer consequently diverted available volumes to East Asia.",
+          "a": "Saudi Aramco cut all October crude allocations to European refiners following a drone attack from Iraq that disabled a key transit pipeline. The resulting logistics bottleneck forced emergency rerouting toward East Asia while repair works commence. The supply shock leaves European buyers scrambling for alternative grades and emergency reserves.",
           "links": [
             "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZIWWl4WUpocnpCN0xpcFBObHIzcUZqOTIweWxjbjJxdS0ycDNybXBfWG9XQTNZMVVaR2MtNC0wQnp5LWVUU1VXY3RKLUFWQjFwS256cS1za1pQdDhmaDNCSmJldW9sdFhjLVlxM1N3cE5acjUzN25BWFVfcVdQaUFqel9LOXpMQWpNVzN1S2JiNzNVUFJoX0NRb0pQbERxZlh6LW5CWVVDcDh2NkIwcnlR?oc=5",
-            "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX0RQRkpUcFlpd1E2S3F3U2pxN1IyOEl6WkJRSHRSQlJLRU1zTlZvNVNiYXhiUkdzQVlrb3Jua0RLdGp4akt2aEhBa0gyeUJMdGNvTTF3S2xLNVYtUDRWcnRWM2VlZ2FBSV9wTEJidXlDSVFQQ3NOOWd1Nnp3VVJlWVhjT2ZpV29EQjMtWUpPR3ROU2ItQ0QzRDNIbWdLS1NFdURhVFplUXlMUWNEOE5kaXM4UzktZ3ZfbnZRZ3E4VVZwUDZpQjFpd2pjcnZCbnZnWGlkUUZTSWZLaGE2dTM4NDdsX1FKSi1h0gHuAUFVX3lxTE5VUGYxWjdYdXRqekJSYUxWSHB1NnUzWVl2RXRYUGlKSl9uV0t2V2VnSkdfdTNYclBDN29VSFhPa3UzSk5GQjdLNzJvT0dub0RGWm1sTWZpS29wVXNHLWJGakw3a2JGbms5MFVzeDBldkdZVWZEdVUxWWI2NG9UeGtMMktBcnRpZF9QdWRTQzgtSnFScktjZmVXXzdMQWY3YUZoaFJPekxXNWdteWFROURmQWxKeENlSVNoLVNNV2F0LWhpM3RqSW1EMGZvSjVhNlNpY05mYjNMVHYxYzFFb1YwUHZiMTZ3c1B3Q0NkNVE?oc=5",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVJkRXRoWnBHN2JybFd4TDZIMmp5TEZsdGpac0E3Q2RNUEMxMGtuRHllNnJISTZsdm9jM0RsbFFkUEZ1M21KVnVQVXB1NFZtNlB5UngwbDNWZ2RyZ1NtWm5UbFBiTUM3Y3JEUUxGWU9VQURuQ09RbTZ4eUktZ3VjT08tcWdDaWlNSEs1MXVQSWpMSGtYYmQ4MTkycXhjZU1rZ08tS1YwdTVGZTE0ZmhOMHRsSG5QRkdUSjlLbnBybkxOcU1B0gHKAUFVX3lxTE1kcDZwcTlVSEd6Zzd3NWNjcUd4ZnBtdGpMVUl4YkVCQ0hkbVpEX014U3VqS2RBdlpKWGVRa2hyZXY5TW55c0NVeXlLYWtvaERrZlUtWmh4LXU5OGNmMjNsSmFYT3lwb203RV94UkdOcVhzYllndENHRGJBYWlFX3k1ZU8wQjRMSk5pRkFHVXFvTEI0eFFwTVpfS2ZvZ2Z6RXJKVnZ3Tm1ZbEJoMDQxN2gxNmdWODVWR3REem1pd0pLUTZzVDQ2RVA5QlE?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVJkRXRoWnBHN2JybFd4TDZIMmp5TEZsdGpac0E3Q2RNUEMxMGtuRHllNnJISTZsdm9jM0RsbFFkUEZ1M21KVnVQVXB1NFZtNlB5UngwbDNWZ2RyZ1NtWm5UbFBiTUM3Y3JEUUxGWU9VQURuQ09RbTZ4eUktZ3VjT08tcWdDaWlNSEs1MXVQSWpMSGtYYmQ4MTkycXhjZU1rZ08tS1YwdTVFZTE0ZmhOMHRsSG5QRkdUSjlLbnprbkxOcU1B0gHKAUFVX3lxTE1kcDZwcTlVSEd6Zzd3NWNjcUd4ZnBtdGpMVUl4YkVCQ0hkbVpEX014U3VqS2RBdlpKWGVRa2hyZXY5TW55c0NVeXlLYWtvaERrZlUtWmh4LXU5OGNmMjNsSmFYT3lwb203RV94UkdOcVhzYllndENHRGJBYWlFX3k1ZU8wQjRMSk5pRkFHVXFvTEI0eFFwTVpfS2ZvZ2Z6RXJKVnZ3Tm1ZbEJoMDQxN2gxNmdWODVWR3REem1pd0pLUTZzVDQ2RVA5QlE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials in Saudi Arabia have not released further statements following the pipeline closure.",
-        "i": "State authorities in Saudi Arabia maintain strict control over energy announcements as repairs begin.",
-        "a": "State officials maintain operational silence regarding the security breach on the critical transit infrastructure."
+        "b": "State officials stopped oil flows to Europe after a drone strike hit pipeline infrastructure. Repair timelines remain uncertain. Deliveries are shifted to alternative markets.",
+        "i": "Infrastructure damage from a cross-border drone strike halted Saudi pipeline operations. State authorities redirected remaining export volumes to East Asian clients. European refiners received official notice of zero crude allocations for the upcoming month.",
+        "a": "A hostile drone vector originating from Iraq incapacitated domestic transit pipelines, prompting immediate force majeure declarations from state exporters. European counterparties absorbed the entirety of the supply suspension. Operational resources pivoted entirely toward asset repair and Asian market redirection."
       },
       "timeline": [
         [
-          "18 Sep",
-          "Saudi Aramco halts October crude allocations to European customers following a pipeline attack."
+          "18 Sep 2026",
+          "Saudi Aramco informs European buyers of zero crude allocations for next month."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira exchange rates and policy coordination deals",
+      "sub": "Naira movements and fiscal coordination deals",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Slips Against the Dollar",
-          "src": "PM News Nigeria · within nigeria",
-          "b": "The official exchange rate for the Nigerian currency fell. One United States dollar costs N1,331. Street traders exchange the dollar at over N1,390. Currency values change constantly depending on how much buyers want them.",
-          "i": "The <span class='term' data-t='inflation'>naira</span> dropped to N1,331 per dollar at the official market window. Parallel market rates exceeded N1,390 per dollar. Official and unofficial pricing maintained a distinct spread.",
-          "a": "NAFEM spot rates printed N1,331 per USD while parallel market quotations breached N1,390. The widening premium reflects persistent structural liquidity distortions across foreign exchange tiers.",
-          "gloss": "inflation",
+          "t": "Naira Trades at Different Rates Across Markets",
+          "src": "Vanguard News · PM News Nigeria",
+          "b": "The naira is the money used in Nigeria. One dollar traded for N1,331 at the official market. The official market is the main legal exchange run by the government. The parallel market is an unofficial place to trade currency outside official rules. The naira traded for N1,380 in that parallel market.",
+          "i": "The naira settled at N1,331 per dollar at the NAFEM window. Currency trading in the parallel market priced the dollar at N1,380. Exchange rate fragmentation continues between official platforms and unofficial channels. The official rate closed near N1,331.",
+          "a": "NAFEM spot prints closed at N1,331 per dollar while parallel market quotes indicated a persistent premium at N1,380. Basis divergence between official and unofficial liquidity pools remains wide. Arbitrageurs monitor the spread for convergence signals.",
           "links": [
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVN4QkpBYXVKMTkydWNhTlpLZFVieGhqZGVXQkx0YXdxY1VjVHE5VTlpTHAxNU9pZWpkXzlNcGwxZllvVENYQW9FMUVWd2NvMWg1ZE9jekJwbGI3S3F6RlJfZGVNeEdVa1cyUVdRN1lsX2J2dmR3OW9MLTVvYlFVeGN0OVBtTS1YeFBZZEpkZDl1N0xBZ1E?oc=5",
-            "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNENZb2lyMFl3SGsyRGJCdXRPQmF4T0hITjdUM1VkTnhXR055LXQtRVdDbVU2cXNlWFd5MkhETl84MXJzc3U1c1gwUUJHN1hWY0xZR2ZST2tZRHhyejJVajFXbFlSQTBiaVc5NDhVSDNla0JDUTZTTU5KaTdZcndFZjRyX2U3R1FkV3A5NTFlTWxPQzdRZ19QdFdKenNLY1pCd0lqNjBtVlZPVUxkREg1Um8zd1IxRGdxOTBQN3VTMUo1TzJ6b2RkdHRTcjR0R3VydldjeXFnVkRtQktyaWh5ODZmQTlyX1NuZmx5OUg2QkYxakVrS0U4cHpSWFVqQdIB_gFBVV95cUxQNENZb2lyMFl3SGsyRGJCdXRPQmF4T0hITjdUM1VkTnhXR055LXQtRVdDbVU2cXNlWFd5MkhETl84MXJzc3U1c1gwUUJHN1hWY0xZR2ZST2tZRHhyejJVajFXbFlSQTBiaVc5NDhVSDNla0JDUTZTTU5KaTdZcndFZjRyX2U3R1FkV3A5NTFlTWxPQzdRZ19QdFdKenNLY1pCd0lqNjBtVlZPVUxkREg1Um8zd1IxRGdxOTBQN3VTMUo1TzJ6b2RkdHRTcjR0R3VydldjeXFnVkRtQktyaWh5ODZmQTlyX1NuZmx5OUg2QkYxakVrS0U4cHpSWFVqQ"
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnAxSF9rSk9BWVg3Q2NnX1BtM0drZ0NtOEZhbXVNQnBUTWM5b2hMVXVaY3N0OWFEU3IyZjR4UHczUUpSTTAyUjBla1lxckRXM2J2Yk1kNnhZZ1YwQXFqX3pmVHhfSjFBUXp3SjRDbkZHazV4Y0xuRGlfNGU5ZkFLSlRVZElZSG5EdmlsUNIBkgFBVV95cUxOSWZxV0t1eHZtTWpCS0ZzWDIzbFVTQS1Rb1RvejdMTUNQMHV2Q3cxN2ExUFA0Mjd3TV9ZdDdBYnFDMEpMQUJCckhENUl3VFQ2MGJ0YlZ6alpPWUhLWlNDQlpNSGxDRDNQX2dPRS1nSVE5TXZUUllkRzcyeWNSemRFQzN5cFdLUjh2ejVqTVJrTTZKQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVN4QkpBYXVKMTkydWNhTlpLZFVieGhqZGVXQkx0YXdxY1VjVHE5VTlpTHAxNU9pZWpkXzlNcGwxZllvVENYQW9FMUVWd2NvMWg1ZE9jekJwbGI3S3F6RlJfZGVNeEdVa1cyUVdRN1lsX2J2dmR3OW9MLTVvYlFVeGN0OVBtTS1YeFBZZEpkZDl1N0xBZ1E?oc=5"
           ]
         },
         {
-          "t": "Central Bank Removes Trillions From Circulation",
-          "src": "Legit News",
-          "b": "The Central Bank of Nigeria pulled N2.5 trillion out of the economy. Central banks do this to control money supply. A new exchange rate emerged after this removal. Fewer naira notes in circulation affects what things cost.",
-          "i": "The Central Bank of Nigeria removed N2.5 trillion from circulation. This liquidity withdrawal induced a new exchange rate formation. Central banks use such volume adjustments to steer monetary policy objectives.",
-          "a": "CBN liquidity drainage totaling N2.5 trillion forced a re-pricing of reserve balances. The resulting exchange rate print underscores aggressive base money contraction via open market operations.",
+          "t": "Government Agencies Sign Coordination Pact",
+          "src": "Legit News · Punch Newspapers",
+          "b": "The federal government and the Central Bank of Nigeria signed a new agreement. They want to fix problems with price increases, money owed, and foreign money. The central bank also pulled N2.5 trillion out of circulation. Circulation is the total amount of money moving around in the economy.",
+          "i": "The Federal Government and the <span class='term' data-t='inflation'>Central Bank of Nigeria</span> signed a memorandum to institutionalise fiscal-monetary coordination. Both institutions aim to address <span class='term' data-t='inflation'>inflation</span>, debt, and forex pressures. The central bank removed N2.5 trillion from circulation through policy measures.",
+          "a": "Fiscal authorities and the <span class='term' data-t='inflation'>Central Bank of Nigeria</span> formalized a coordination framework targeting <span class='term' data-t='inflation'>inflation</span> dynamics, sovereign liabilities, and FX stability. Liquidity mop-ups executed by the central bank extracted N2.5 trillion from the monetary base. Policy transmission relies on aligning budget execution with monetary tightening.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGw1YTVzeVhCQkZJUy1mVFJYOTdvV0RmU1JucXhrUXhrMHlzR3NKMlR1RDN2M2dZY3JqQ1RQS3JSLVRYNnpETmdzVnp1RFdFc0phcGtQeFFhakpXWU5yZjJtUmY1blhVWVNpd2hKNVdxalAtRENlYjBXcVZaUjNPYmZUaTRTRzZzbmd1Wkd5ZVlJTDRjZklhRFd3eWF5c19IUXE5dDBWRzlKSjVLNm92WmYtdy13V0tlS2ZGNDQ2alI?oc=5"
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGw1YTVzeVhCQkZJUy1mVFJYOTdvV0RmU1JucXhrUXhrMHlzR3NKMlR1RDN2M2dZY3JqQ1RQS3JSLVRYNnpETmdzVnp1RFdFc0phcGtQeFFhakpXWU5yZjJtUmY1blhVWVNpd2hKNVdxalAtRENlYjBXcVZaUjNPYmZUaTRTRzZzbmd1Wkd5ZVlJTDRjZklhRFd3eWF5c19IUXE5dDBWRzlKSjVLNm92WmYtdy13V0tlS2ZGNDQ2alI?oc=5",
+            "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QNEx4T19HOTV5d09qNXEzMmdGemduR3JqaXloTXJ2U1J4eXB1b3R1SmlSRnF4VWRlNkNyaGZHd1lNSHhFeXdaSHFGWUFtZkQ2QW00ZzBhdmJRdFZTNXJ5dWF1blo4N2lYanR0UFRoOGNVRDd2czdaU0hqakI?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The federal government and the Central Bank of Nigeria signed an agreement. They want to coordinate fiscal policy, which is government spending, with monetary policy, which controls interest rates and money. They aim to reduce debt and currency problems.",
-        "i": "The federal government and the Central Bank of Nigeria signed a memorandum of understanding. The pact formalises coordination between fiscal authorities and monetary management. Both institutions intend to jointly tackle public debt and foreign exchange pressures.",
-        "a": "Federal authorities and the central bank executed an MoU institutionalizing joint fiscal-monetary policy coordination. The framework seeks to harmonize debt management strategies with monetary tightening to contain macro imbalances.",
-        "sources": {
-          "0": {
-            "outlet": "Punch Newspapers",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QNEx4T19HOTV5d09qNXEzMmdGemduR3JqaXloTXJ2U1J4eXB1b3R1SmlSRnF4VWRlNkNyaGZHd1lNSHhFeXdaSHFGWUFtZkQ2QW00ZzBhdmJRdFZTNXJ5dWF1blo4N2lYanR0UFRoOGNVRDd2czdaU0hqakI?oc=5"
-          }
-        }
+        "b": "The government and financial leaders are working together on economic rules. They signed a deal to handle money issues. Officials hope this will help stabilize the country.",
+        "i": "The Ministry of Finance and the central bank established a formal coordination mechanism. This pact joins fiscal policy and monetary tools under one framework. Officials signed the agreement to manage debt and currency values.",
+        "a": "Institutionalizing fiscal-monetary coordination bridges the Ministry of Finance and the central bank. The signed memorandum binds policy levers across budgetary spending and monetary aggregates. Execution risk centres on adherence to joint targets for debt management and currency stabilization."
       },
       "timeline": [
         [
           "18 Sep 2026",
-          "The official naira exchange rate closed at N1,331 per dollar."
+          "The Central Bank of Nigeria and the Ministry of Finance signed a coordination agreement."
         ],
         [
           "18 Sep 2026",
-          "The Central Bank of Nigeria removed N2.5 trillion from circulation."
+          "The central bank removed N2.5 trillion from circulation."
         ],
         [
           "18 Sep 2026",
-          "The federal government and the Central Bank of Nigeria signed a policy coordination MoU."
+          "The official naira exchange rate closed near N1,331 per dollar."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX 200 ticks higher as Bullock flags inflation risks",
+      "sub": "ASX 200 rebounds as analysts assess various firms",
       "ind": [],
       "stories": [
         {
-          "t": "ASX 200 rises despite risk warnings",
-          "src": "Finimize",
-          "b": "The ASX 200 index, which is a collection of the biggest companies traded on the share market, ticked higher. This happened even as Reserve Bank of Australia Governor Michele Bullock flagged <span class='term' data-t='inflation'>inflation</span> risks. Inflation is when the general price of goods and services goes up over time, meaning your money buys less than it used to. Share prices moved up regardless of these warnings. The index finished the session with gains.",
-          "i": "The ASX 200 index ticked higher during the trading session. This upward move occurred even as Reserve Bank of Australia Governor Michele Bullock flagged persistent <span class='term' data-t='inflation'>inflation</span> risks. Market participants digested the central bank warnings while equity valuations edged upward. The benchmark index ultimately recorded a positive close.",
-          "a": "The ASX 200 ticked higher despite RBA Governor Michele Bullock highlighting ongoing <span class='term' data-t='inflation'>inflation</span> risks that complicate the monetary easing path. Equity pricing shrugged off the hawkish rhetoric regarding price stability as buyers maintained near-term momentum. The resulting index trajectory implies resilient domestic demand assumptions despite the central bank's cautionary stance.",
-          "gloss": "inflation",
+          "t": "ASX 200 Rebounds as Resistance Looms",
+          "src": "stonex.com",
+          "b": "The ASX 200 index, which is a list tracking two hundred big companies on the stock exchange, bounces back up. Traders now watch to see if it hits a ceiling called resistance. This is a point where prices struggle to climb any higher. StoneX reports this market movement.",
+          "i": "The ASX 200 index recovers some lost ground during the session. StoneX notes that technical resistance now looms overhead for the benchmark. Market participants monitor whether the index can break through this barrier.",
+          "a": "The ASX 200 mounts a recovery bounce while approaching key technical barriers. StoneX highlights overhead resistance as the primary near-term constraint for index momentum. Price action now tests whether incoming order flow can invalidate this technical ceiling.",
           "links": [
-            "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXdvbDNBb0FRQ0h6Rm55MnVMN2NocEN4UmxmMDdXWHVPeVc0YmJFdlBXcDhPX1JyTy1xSVJGNU54Z1hWQVp3bWRCSnNMM2lhbFZJTFhzLTZ6MDFGUl85bjdWMjV6NExpc0x1dmpvZWJnb0Y5bTY1TVRYUVBNQ2ZBTk5zb0NkaUlXWWtCWkR3?oc=5"
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGN0cFJzd3VCTXdzV0FHaGVqc1lIeXp0c3dta0JuTW5qaW4wWkFyQkotY2lvNWJucG5fWkdkVm01VzBSMkJubTBuS3cwVEF2STVfVHBVVHFCdkRtZldlRTFsNFFqRzF2bkVMdmd3bVk2ZzBLeVQ4STBRQW5zb1J2Rk9DNEZzOFM4a0l5N1RGeFhzby1Cai1FMzhtZ3ZjekFHQUpWRg?oc=5"
+          ]
+        },
+        {
+          "t": "Analyst Updates Affect Centuria Capital and CSL",
+          "src": "finance.yahoo.com · simplywall.st",
+          "b": "Analysts cut the fair value estimate for Centuria Capital Group shares while weighing growth and risk factors. CSL faces intense pressure to rebuild confidence among investors. Both companies trade on the Australian Securities Exchange.",
+          "i": "Centuria Capital Group shares see their fair value estimate reduced as analysts reassess growth metrics and risk exposure. CSL encounters mounting pressure to restore investor confidence. Both firms navigate shifting market expectations on the ASX.",
+          "a": "Centuria Capital Group absorbs a fair value downgrade as analysts reprice growth and risk parameters. CSL confronts persistent stakeholder pressure to repair market confidence and justify current valuations. Both equities reflect ongoing sector-specific revisions by sell-side researchers.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0VLeXR5WXlUOXhBNW9uTHFqXzY2bjcwajBQeXRiR3daUXNmNGo0NXNia05KakF0T0hTYjBEMGNiUFpUelZZUzJ3M3NHekZaeGVPU3hDVDItUG1lQXVRUmtoTWY2ZXZrbkM2WFdfNy01X2F5SGQ2eXdvM1c2NmdFcHJqODhXT0tHaURaVzJzM2YwdUoxWEw5STJjTQ?oc=5",
+            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMnJneWJVZzlETURTMDljOGhpWFZFamVZOEI4aEFfZW5tYkIzaEhzUHRMRnNLcnNuLWp4M0xCdUdHRTFGbXF6VmZobjlXZm1hOFk0N0FFWUFZOE1qQkZfZUdJZkhxQ0h6TUpkaU9kaGgzQjlEVjRnSGdEYVhUcDJZSG1jbXlBV0pHXzhScUdXOGZ0NUZUYWdkSWVSRUxDR2RRdjNxOFpLejhEOXFGM2RxMm5QQ2ZFMEFHeUx3N2VrQzl1MHphOG9XdUNzMGRoWm53VEliWTBn0gHbAUFVX3lxTE9wbHlIMkp0TUdWd3Q3ZE05QTdlLXNGQXNPLU1CNkR2d3B0dGlHZXdrR1BENHNEeWFhcjRSWDBDSFE0c0FNd2JRSXhiQl9tVnlDaHZzenJnd0J6QklGYTBLTHh6NnpPaTZRS1V2T2xOZ0w3TjI5SFBncXQ1X3J2aFY5ZVdUenNWWnpMbkw4d2pkc1c2bW91aHlEV01yOVZEaDJyWmtfa0VmV2kwck9ISXBrZkxIQWYzem94ckN1dkp0SkxKU0ZlUTdGM0xMWXlBLXRaZXhQYUdBZlkxVQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Central bank leaders continue to monitor consumer prices. Government officials review economic data regularly.",
-        "i": "Central bank leadership maintains focus on consumer price pressures. Monetary policymakers evaluate incoming macro indicators to guide future policy settings.",
-        "a": "Regulatory authorities sustain scrutiny on core price vectors. Policymakers balance macroprudential mandates against observed domestic demand metrics."
+        "b": "Corporate updates and share price movements dominate financial news in Australia today.",
+        "i": "Equities markets react to analyst revisions and technical index levels across the ASX.",
+        "a": "Market activity centers on valuation adjustments for individual equities and technical resistance on the main index."
       },
       "timeline": [
         [
           "18 Sep 2026",
-          "ASX 200 ticks higher as Bullock flags inflation risks"
+          "StoneX reports that the ASX 200 index rebounds toward technical resistance levels."
+        ],
+        [
+          "18 Sep 2026",
+          "Analysts lower fair value estimates for Centuria Capital Group amidst ongoing risk assessments."
+        ],
+        [
+          "18 Sep 2026",
+          "CSL faces continued pressure from market participants to rebuild investor confidence."
         ]
       ]
     }
