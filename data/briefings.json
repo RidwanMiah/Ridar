@@ -1,298 +1,239 @@
 {
-  "generated": "2026-09-19T18:25:56.380Z",
+  "generated": "2026-09-19T19:21:35.651Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "19 September 2026",
-    "headline": "The Bank of Japan raised its interest rate as the Federal Reserve pushed borrowing costs higher.",
+    "headline": "The Bank of Japan raised rates while the yen fell and Brazil cut borrowing costs.",
     "lede": {
-      "b": "The Bank of Japan raised its main interest rate by 0.25 points to reach 1.25%. An interest rate is the cost of borrowing money, set by a central bank, which is the official government institution that controls a country's money supply. Following this move, the Japanese currency dropped 1.2% against the dollar. Meanwhile, the Federal Reserve in the United States increased its benchmark rate to fight inflation, which is the rising cost of everyday goods. This caused mortgage rates on home loans to surge to nearly 7%.",
-      "i": "The Bank of Japan raised its benchmark interest rate by 0.25 points to 1.25%, prompting the <span class='term' data-t='carry'>yen</span> to drop 1.2% against the dollar. Simultaneously, the Federal Reserve increased its <span class='term' data-t='inflation'>inflation</span>-fighting rate, pushing US mortgage rates to nearly 7%. Higher borrowing costs tighten financial conditions across domestic credit markets as central banks restrict liquidity.",
-      "a": "The Bank of Japan hiked its policy rate by 25 basis points to 1.25%, triggering a sharp <span class='term' data-t='carry'>yen</span> depreciation to 157.80 before a central bank rate check intervened. Concurrently, the Federal Reserve's ongoing <span class='term' data-t='inflation'>inflation</span> tightening cycle drove US mortgage rates toward 7%, maintaining upward pressure on asset yields across equity indices."
+      "b": "The Bank of Japan raised its interest rate, which is the cost of borrowing money, but its currency still weakened. Traders left a popular trade where they borrowed yen to buy higher-yielding assets, and the exchange rate hit 157.80 per dollar. Brazil lowered its borrowing costs for the fifth straight meeting because price rises slowed down. Lower rates reduce the cost of debt for consumers and businesses. These changes alter how money moves across the global financial system.",
+      "i": "The Bank of Japan raised rates, yet the currency weakened and traders exited the <span class='term' data-t='carry'>carry</span> trade further as the exchange rate hit 157.80 per dollar. Meanwhile, Brazil's central bank reduced borrowing costs for the fifth consecutive meeting. The monetary authority eased policy as <span class='term' data-t='inflation'>inflation</span> pressures moderated across the domestic economy. Lower benchmark rates stimulate economic activity by reducing the cost of debt for consumers and corporations. The currency dropped 1.2% in the session following the Japanese policy move.",
+      "a": "The Bank of Japan tightened policy while the exchange rate breached 157.80 per dollar, driving further unwinding of the <span class='term' data-t='carry'>carry</span> trade as the currency dropped 1.2%. Concurrently, Brazil's central bank cut rates for the fifth consecutive meeting amid moderating <span class='term' data-t='inflation'>inflation</span>. The widening divergence between monetary authorities alters cross-border capital flows and derivative pricing. The Japanese currency fell despite the rate hike because market participants had anticipated a larger adjustment."
     },
     "items": [
       {
-        "c": "Japan",
-        "b": "The Bank of Japan raised its interest rate to 1.25%, and the yen dropped.",
-        "i": "The Bank of Japan hiked rates by 25 basis points to 1.25%, causing the yen to slide 1.2% to 157.80.",
-        "a": "The Bank of Japan executed a 25 basis point hike to 1.25%, prompting an initial yen fall to 157.80 followed by a rate check."
-      },
-      {
         "c": "United States of America",
-        "b": "The Federal Reserve raised its rate, pushing mortgage rates up to nearly 7%.",
-        "i": "The Federal Reserve increased its rate, pushing US mortgage rates to nearly 7%.",
-        "a": "The Federal Reserve advanced its tightening schedule, driving mortgage rates to test the 7% threshold."
+        "b": "SpaceX saw its weighting jump to 2.82% in the Nasdaq index rebalance.",
+        "i": "SpaceX increased its weighting to 2.82% during the quarterly Nasdaq 100 rebalance.",
+        "a": "SpaceX secured a 2.82% weighting in the quarterly Nasdaq 100 rebalance, altering index tracking influence."
       },
       {
-        "c": "Germany",
-        "b": "The DAX 40 index fell 0.15% to 25,402.28 due to higher oil costs and yields.",
-        "i": "The DAX 40 index eased 0.15% to 25,402.28 as rising inflation expectations and oil costs tightened conditions.",
-        "a": "The DAX 40 retreated 0.15% to 25,402.28 on September 19, 2026, pressured by escalating inflation expectations and commodity yields."
+        "c": "Japan",
+        "b": "The Bank of Japan raised rates and the yen dropped 1.2% in the session.",
+        "i": "The Bank of Japan raised rates while traders exited the carry trade as the currency hit 157.80 per dollar.",
+        "a": "The Bank of Japan hiked rates while the exchange rate hit 157.80 per dollar, driving a 1.2% currency drop."
       },
       {
-        "c": "Saudi Arabia",
-        "b": "Houthi strikes hit Riyadh and Aramco infrastructure, sparking an airport fire.",
-        "i": "Houthi strikes targeted Riyadh and Saudi Aramco facilities, causing a fuel tank fire near the airport.",
-        "a": "Houthi military operations utilizing missiles and drones struck Riyadh and Saudi Aramco infrastructure, igniting a fuel tank fire near the airport."
+        "c": "Brazil",
+        "b": "Brazil's central bank reduced borrowing costs for the fifth straight meeting.",
+        "i": "Brazil's central bank cut rates for the fifth consecutive meeting as inflation pressures moderated.",
+        "a": "Brazil's monetary authority lowered benchmark rates for the fifth consecutive meeting amid easing inflation."
       }
     ],
     "thread": {
-      "b": "Central banks adjusted official rates while physical infrastructure faced attacks. Energy markets absorbed supply interruptions and rising fuel expenses.",
-      "i": "Central bank policy adjustments coincided with regional supply shocks. Middle East infrastructure attacks disrupted crude deliveries while monetary authorities managed domestic currency values.",
-      "a": "Divergent central bank tightening cycles interacted with physical supply disruptions across energy corridors. Geopolitical strikes on Aramco infrastructure constrained downstream feedstock flows while policy rates adjusted."
+      "b": "Central banks adjusted monetary policy across different regions. Exchange rates reacted to these shifts in borrowing costs. Asset weights and commodity flows also shifted.",
+      "i": "Central bank policy divergence drove currency movements and index adjustments. Rate decisions altered domestic borrowing costs while exchange rates reflected shifting yield differentials. Commodity supplies and equity weightings shifted concurrently.",
+      "a": "Monetary authorities drove cross-asset volatility through diverging policy adjustments. Central bank rate decisions intersected with index rebalancing and currency depreciation. Capital flows adjusted to shifting yield differentials across international markets."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Fed rate hikes, equity indices, and yield pressures",
+      "sub": "SpaceX Nasdaq weight shifts and crypto crime measures",
       "ind": [],
       "stories": [
         {
-          "t": "Federal Reserve Adjustments Raise Borrowing Costs",
-          "src": "Bozeman Daily Chronicle",
-          "b": "The Federal Reserve, which acts like the central bank for the country, decided to raise its key interest rate. This makes borrowing money more expensive for everyone. Because of this change, mortgage rates climbed to nearly 7%. People are now worrying more about whether they can afford everyday loans and housing.",
-          "i": "The Federal Reserve increased its benchmark <span class='term' data-t='inflation'>inflation</span>-fighting rate, pushing borrowing costs higher across the economy. Mortgage rates reacted by surging to nearly 7%. This tightening cycle heightens consumer affordability concerns as borrowing becomes more expensive.",
-          "a": "The Federal Reserve enacted another key rate hike, driving mortgage rates toward the 7% threshold. This monetary tightening intensifies affordability strains across household credit channels. Market participants are pricing in persistent restrictive policy as policymakers combat price pressures.",
-          "gloss": "inflation",
+          "t": "SpaceX Weight Increases in Nasdaq 100 Rebalance",
+          "src": "Investing.com · Seeking Alpha",
+          "b": "An index is a collection of various companies grouped together to track how a market performs. The Nasdaq 100 is one such major index. SpaceX will see its weight jump to 2.82% in the upcoming quarterly rebalance. Bloomberg confirmed this weighting boost following the index adjustment.",
+          "i": "The <span class='term' data-t='inflation'>Nasdaq</span> 100 undergoes periodic adjustments to its constituent weights. Bloomberg reported that SpaceX will see its weighting jump to 2.82% in the quarterly rebalance. This change alters how much influence the company holds within the broader index tracking mechanism.",
+          "a": "Index reconstitution mechanics dictate that constituent weightings adjust dynamically during quarterly rebalancing cycles. Bloomberg data confirms that SpaceX will see its allocation scale to 2.82% within the Nasdaq 100. This adjustment forces passive index funds tracking the benchmark to reallocate capital accordingly to match the new target weight.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNG45R0p2clJIdkpmaDBJN3FsQ1o4OFRjMjZBeG9PV3BWT3RvVTJ5MV93V3BNYVY1TVZZT3dRLWp2dktuV1hrTmVpTTNZanBRQkVlQV9IeEU2anNwQ0JibzVpazRHLURNaTZLRlpIZkp5am5WX1FwRkdsLUdiWnNXZDV3alpxV2RDY2dmLXZVQ01OY1psTTVGVC1nMlpHZWphUnJETTFCblYzWmNOTnA5Zk9YODdRajVjYjZFbElwZ0xrT1pGaHFmUFFONE1YX2N2VTE3TkNQdGVMTzJDcFdsdUtMVllFTmNzWWJfUmFibDlWZ2RNcy1aa0NUMDZ3ZnB1MllFMnc5OGt1YVBWRWJyUzROUkZHYXRPQWNnSkhzZ19NeU0?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR01KWG5RYThLR3VtQXZNWGpwNmRJOW82bDVWbGRVQWVjMzI2OHpxTGdld0l5ZWpkY0ZJWmQ2T2QwZjRCWTF0UEw0enZCc3F0NTI4UU1xMGlPaURmZkZSalg2WU5GelNyLTJsZWI4Q0dmcklCYWhWeHY1UXJrMVpqY05ab2hPZVAwenJlNjEzSUM4Y3FuYmtJdGhGM0ZlcWFoOW1qaG1HSGlZTjhDYkctNEo2cjFlTTFwOEw3YWthQjk3SDZuOVdPZg?oc=5",
+            "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0pnQjNfUWNOaUNGelByOTlWMHV1ME9IaDliSkYzcndpQzd4NUxkQ0l5WThRUE5sV2RYY3NJV1VYU2kyYUFfTXgxcHhyWHd4N05sX3FVNXVyME9xQWZERzl1Y0FLR2FYd1kwWXRsbUZMNzl0T09XNEFRVHktZWtfaHpvVTlpUW50WmtmblNqNVktQQ?oc=5"
           ]
         },
         {
-          "t": "Index Rebalancing and Yields Drive Equity Focus",
-          "src": "Pluang · Seeking Alpha · Yahoo Finance",
-          "b": "The S&P 500 index, which tracks five hundred big companies, held steady even as interest rates went up. At the same time, the Nasdaq 100 index announced that SpaceX will receive a weighting boost after a rebalancing. Only a few stocks in that tech-heavy index currently pay dividends yielding over 3%.",
-          "i": "The S&P 500 index maintained its position despite rising Treasury yields and Federal Reserve rate increases. In tech markets, the Nasdaq 100 scheduled a rebalancing that grants SpaceX a weighting boost. Investors scanning these indices noted that only a handful of Nasdaq stocks yield above 3%.",
-          "a": "The S&P 500 index persevered through rising Treasury yields and tighter monetary policy. Meanwhile, the upcoming Nasdaq 100 rebalancing awards SpaceX an increased index weighting. Equity analysts observed that fewer than a handful of constituents in the tech index maintain yields exceeding 3%.",
+          "t": "Nasdaq Targets Illicit Crypto Activity",
+          "src": "Yahoo Finance",
+          "b": "Cryptocurrency is digital money that exists only on computers. Criminals sometimes try to hide illegal money using these digital coins. Nasdaq has launched new tools to make it much harder for them to hide. These measures aim to clean up financial crime in digital assets.",
+          "i": "Digital asset markets face tighter oversight as market operators deploy advanced tracking systems. Nasdaq introduced new technology designed to make it harder for illicit actors to conceal cryptocurrency transactions. This initiative targets the mechanisms bad actors use to launder funds across digital networks.",
+          "a": "Exchange operators continue to scale surveillance infrastructure for digital assets. Nasdaq deployed specialised analytics to impede illicit actors attempting to obfuscate cryptocurrency fund flows. The integration aims to enhance on-chain traceability and tighten compliance parameters across digital asset order books.",
           "links": [
-            "https://news.google.com/rss/articles/CBMie0FVX3lxTE01YXJjdm1KV0o4WnJTNVotQXBhZURuV3JwWDFjazAwaHR6Qm0zNTFTcWNLSHJCcGdSY3BVS3VtVDJYb2toYkEzMU5ZckxqR0JrSlQwM1ZsUnQyc3NqaHZqMF9nZDJMdnp4TnR5RDdfNDFaV29rZWN3d0EyRQ?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0pnQjNfUWNOaUNGelByOTlWMHV1ME9IaDliSkYzcndpQzd4NUxkQ0l5WThRUE5sV2RYY3NJV1VYU2kyYUFfTXgxcHhyWHd4N05sX3FVNXVyME9xQWZERzl1Y0FLR2FYd1kwWXRsbUZMNzl0T09XNEFRVHktZWtfaHpvVTlpUW50WmtmblNqNVktQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejItcVlRaW5yZzBsQ3dfbjV5dnV6aTJKWnJIUWpDdG9ESkRqS3I4Ml9mU3hnX3pKMDVpM0ZqYXpTeF9qMlFoaUVYeGNzM3VYZ0E2ckFIZUtmRGlkby1oZjJhX01vY3JkVkRmQ1NHNXVzMk5DNHJOVkM0UExzWkl6Q1g2ZkZKdmo3WHNVWndydS0telVCRzV2bzNtUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjJpVkVOdHBubkpYNFY1NGZ0aF9PaUZtYW1nbHNQQVI5QkF0dFhmeElOLXdWWDUyRVZQWTBxRDFlNVU4OG5SNFZEYTN1bUkyNi00QnlzaU5CdmlUV2JNWmlEMGlaN0lFQ21KZ09VNk1fajROSDdZUzdBSl9QNGVwekctQnhEa3AwNm5WSUQ0MVN1YWZJb1dTdA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials monitored the rising cost of borrowing and consumer debt burdens. Lawmakers heard warnings about affordability challenges facing households across the nation. Economic policy debates centered on how monetary changes impact everyday citizens.",
-        "i": "Federal policymakers confronted mounting data showing strained consumer affordability and higher credit costs. Elected officials analyzed the macroeconomic transmission of central bank actions into household budgets. Regulatory scrutiny also touched corporate reporting deadlines and shareholder rights.",
-        "a": "Policymakers assessed the fiscal implications of compressed consumer liquidity and elevated borrowing costs. Government agencies tracked regulatory disclosures while legislators evaluated broader economic stability risks. Macroeconomic indicators continued driving federal discourse on monetary policy limits.",
-        "sources": {
-          "0": {
-            "outlet": "Bozeman Daily Chronicle",
-            "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNG45R0p2clJIdkpmaDBJN3FsQ1o4OFRjMjZBeG9PV3BWT3RvVTJ5MV93V3BNYVY1TVZZT3dRLWp2dktuV1hrTmVpTTNZanBRQkVlQV9IeEU2anNwQ0JibzVpazRHLURNaTZLRlpIZkp5am5WX1FwRkdsLUdiWnNXZDV3alpxV2RDY2dmLXZVQ01OY1psTTVGVC1nMlpHZWphUnJETTFCblYzWmNOTnA5Zk9YODdRajVjYjZFbElwZ0xrT1pGaHFmUFFONE1YX2N2VTE3TkNQdGVMTzJDcFdsdUtMVllFTmNzWWJfUmFibDlWZ2RNcy1aa0NUMDZ3ZnB1MllFMnc5OGt1YVBWRWJyUzROUkZHYXRPQWNnSkhzZ19NeU0?oc=5"
-          },
-          "1": {
-            "outlet": "Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNjBoMUpEWFZoVV9WeVRiQmdsWm15Q0hQNUt3WGNCRU5mN292RlpXTkZobUZzWlJtMlI4XzhRQTZuMkxZVTJuZk5yQ09qQXRSR1NGT1M4ZlkwYTJVOW5iRDl2U3FjNVVjek5ZRFZnZnhrdDdVT2VLTlFqSEc4aDR3bmlSV1gtWDMzYmx6azFmdjdrcGFXbHEzQmZoYWVTNkRlVEpTZzFXWllCUTlPM3Q4cFFRZEpCWG1yVlNhRmFvQlNBaXRWcWktQkNlWFRsQUhLNXUzMzRsWWsxQlFDVWowc01fRzJKb3RfTUNKSXJEdU5iWVFLRE85TFVQWHZmQ1VqUl96Umg0YTRnZWg5OG5JbkoxcVZhc2pXSVRIWnNtdHV5OGtwUnB4Skc1NlJNME9U?oc=5"
-          }
-        }
+        "b": "Federal Reserve officials discussed the path of rising prices and interest rates. The S&P 500 index held steady despite these ongoing economic pressures. Consumers also received advice on managing credit card debt through published reports.",
+        "i": "Federal Reserve officials issued warnings regarding the ongoing outlook for inflation. Meanwhile, the S&P 500 held steady despite persistent central bank rate hikes. Separate reports outlined consumer strategies for paying down credit card debt.",
+        "a": "Federal Reserve commentary underscored persistent risks surrounding the broader inflation trajectory. Equity benchmarks like the S&P 500 demonstrated resilience despite cumulative monetary tightening cycles. Concurrently, personal finance channels addressed household balance sheet pressures via credit card debt reduction frameworks."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "The Federal Reserve hiked its key interest rate, pushing mortgage rates toward 7%."
+          "Yahoo Finance reports on Nasdaq tools targeting crypto criminals."
         ],
         [
           "19 Sep 2026",
-          "The S&P 500 held steady despite rising Treasury yields and monetary tightening."
-        ],
-        [
-          "19 Sep 2026",
-          "Bloomberg confirmed SpaceX will receive a weighting boost in the Nasdaq 100 rebalancing."
+          "Bloomberg confirms SpaceX weight increase to 2.82% in Nasdaq 100 rebalance."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Political challenges and local reports",
+      "sub": "Market stories from the sources",
       "ind": [],
       "stories": [
         {
-          "t": "Michael Marra faces challenges",
+          "t": "Regional Press Coverage on Political Challenges",
           "src": "The Times",
-          "b": "Politicians face many tasks in their jobs. Michael Marra deals with various issues. These include Reform UK and the budget. He works through these problems.",
-          "i": "Michael Marra encounters multiple hurdles. These obstacles involve Reform UK and the upcoming budget. Officials navigate these political pressures.",
-          "a": "Michael Marra manages a complex political agenda. Fiscal policy decisions and party competition shape the current environment. Strategic positioning remains critical for the administration.",
+          "b": "Michael Marra faces challenges involving Reform UK and the budget. A budget is a plan for spending money. Local news reports on these political topics. The report comes from The Times.",
+          "i": "Michael Marra confronts distinct challenges regarding Reform UK and the budget. The Times covers these unfolding political pressures. Policy positioning remains central to the upcoming fiscal <span class='term' data-t='inflation'>inflation</span> debate.",
+          "a": "Michael Marra navigates structural headwinds encompassing Reform UK and fiscal policy parameters. The Times highlights the administrative friction points. Second-order effects depend on debt issuance trajectories.",
+          "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUhSUVdMUmFIeHlsSW5taGREUHpOZ1F5bXQweU1HaWpwcXM4TXpyNlJRUFlxbGpnaDhlY0hWeGFldFVRbk1UcUJCODNIcXRnYlc2OTR1LWFUbHJRbG03R293VzEtQ2lNV0NiQl9uU0syQkJIR0NyQ0hBQ25vdFE1REtxakNjQXhXOWppTXJubVNaQkY4YVQwQUw4ai1vc0VzbmZ3?oc=5"
-          ]
-        },
-        {
-          "t": "Animal health update on CD163 knockout",
-          "src": "agronews.com",
-          "b": "Scientists work on animal health. A CD163 knockout blocked PRRSV. This test happened in <span class='term' data-t='gilt'>gilts</span> and fetuses.",
-          "i": "Researchers study disease resistance in livestock. A CD163 knockout blocked PRRSV in <span class='term' data-t='gilt'>gilts</span> and fetuses. Genetic modifications prevent viral infections.",
-          "a": "Genomic interventions alter disease susceptibility in livestock. A CD163 knockout blocked PRRSV in <span class='term' data-t='gilt'>gilts</span> and fetuses. This cellular modification stops viral replication.",
-          "gloss": "gilt",
-          "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PYWQ4ZzRCU0c3LWFEZ3hwOVY1QTZqYWI2Q3RuVnY0Y0NwSFNGQ2FBTFFzalpqV0lJWVBwTFNCdm5XVVRuYnBSbS1MYzgxMWlYQU4zLVVZZWMweENxakpZYWhaX0U5SG5KRjl0cER6SUk1ZDV2MFE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political figures face pressure from other groups. They also plan for the budget. These events happen in the United Kingdom.",
-        "i": "Political figures manage opposition from Reform UK. Officials prepare for upcoming budget decisions. These events shape the British political sphere.",
-        "a": "Political figures manage opposition from Reform UK. Officials prepare for upcoming budget decisions. These pressures dictate policy formulation in the United Kingdom.",
-        "sources": {
-          "0": {
-            "outlet": "The Times",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaUhSUVdMUmFIeHlsSW5taGREUHpOZ1F5bXQweU1HaWpwcXM4TXpyNlJRUFlxbGpnaDhlY0hWeGFldFVRbk1UcUJCODNIcXRnYlc2OTR1LWFUbHJRbG03R293VzEtQ2lNV0NiQl9uU0syQkJIR0NyQ0hBQ25vdFE1REtxakNjQXhXOWppTXJubVNaQkY4YVQwQUw4ai1vc0VzbmZ3?oc=5"
-          }
-        }
+        "b": "Michael Marra faces political challenges from Reform UK and the budget. The Times reports on these events.",
+        "i": "The Times details the political challenges facing Michael Marra concerning Reform UK and upcoming budget choices.",
+        "a": "Michael Marra addresses challenges spanning Reform UK positioning and fiscal policy as detailed by The Times."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "Michael Marra faces challenges from Reform UK and the budget"
-        ],
-        [
-          "19 Sep 2026",
-          "CD163 knockout blocks PRRSV in gilts and fetuses"
+          "The Times publishes details on the challenges facing Michael Marra."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "Frankfurt equities dip as yields and oil weigh on sentiment",
+      "sub": "Fuel prices spark windfall tax talks",
       "ind": [],
       "stories": [
         {
-          "t": "DAX 40 Eases on Yields and Oil Pressures",
-          "src": "bbntimes.com",
-          "b": "Germany's main stock market index dropped slightly by 0.15 percent to settle at 25,402.28 points. An index is a group of stocks chosen to track the health of a market. Rising bond yields and oil prices weighed on the benchmark. A yield is the return an investor gets on a bond, which is like a loan made to a government or company. The Frankfurt benchmark eased on September 19, 2026.",
-          "i": "The DAX 40 benchmark eased 0.15% to 25,402.28 on September 19, 2026. Higher <span class='term' data-t='inflation'>inflation</span> expectations and oil costs pressured Frankfurt equities. Bond yields climbed alongside commodities, tightening financial conditions. Trading on the index closed down at the end of the session.",
-          "a": "The DAX 40 retraced 0.15% to 25,402.28 on September 19, 2026, pressured by sovereign yield expansion and crude repricing. Duration assets compressed as discount rates adjusted upward. Equity valuations reflected tightening liquidity constraints across European bourses.",
+          "t": "European Energy Windfall Tax Debated",
+          "src": "Guardian Business",
+          "b": "European governments are talking about a new tax on energy companies. Fuel and gas prices are near record highs. A German minister says that companies are exploiting the situation in the Middle East. High energy costs are causing big public anger and helping the far right. Elections happen next year.",
+          "i": "European governments are discussing a bloc-wide windfall tax on energy firms as high fuel and gas prices create domestic political pressure. A German minister accuses companies of exploiting the situation in the Middle East. Surging <span class='term' data-t='inflation'>inflation</span> in energy costs drives mounting public discontent and bolsters the far right ahead of elections next year.",
+          "a": "European policymakers debate a bloc-wide windfall tax on energy companies amid near-record fuel and gas prices. A German minister alleges corporate exploitation of the Middle East situation as an exogenous price shock threatens domestic stability. The resultant pressure complicates political management ahead of elections next year.",
           "gloss": "inflation",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUtleWtRZHFHZE05OS1jek5EVGptZm5rSjFDTnFSTnF3WmxkRi1FWGhXb1ZfaG9qOEFQTy10cURYSVRlZkNCWU5NQW5Wd0NXQmlzMm5XNjAxN3l5bTVBcVFGUHlPaE93dU0tZlZxR29qVnc4S3EzSVlMZEJkbFowd3ptekVkQldoaEZUaFpSdURsYkxzV1E1ZGpodVNseHdwTTl3VXFkNGN1UW5weDBpb2JGaFpaRVdEZklDRjhTM2lJRnM?oc=5"
-          ]
-        },
-        {
-          "t": "European Energy Costs Trigger Windfall Tax Debates",
-          "src": "The Guardian",
-          "b": "Near-record fuel and gas prices are causing major domestic problems for European leaders. A German minister stated that companies are exploiting the situation in the Middle East. European governments discussed imposing a bloc-wide windfall tax on energy companies. Public discontent is mounting ahead of elections due next year. Surging costs have intensified pressure on leaders.",
-          "i": "European governments discussed a bloc-wide windfall tax on energy firms following record fuel and gas prices. A German minister accused companies of exploiting the Middle East situation. High energy costs became a domestic political challenge amid public discontent. Elections across the region are scheduled for next year.",
-          "a": "Record European fuel and gas prices prompted deliberations over a bloc-wide windfall tax on energy corporations. German officials alleged that energy providers were exploiting Middle East disruptions for margin expansion. Surging energy levies exacerbated domestic political friction ahead of upcoming electoral cycles.",
           "links": [
             "https://www.theguardian.com/world/2026/sep/18/eu-europe-fuel-prices-calls-windfall-tax-energy-firms"
           ]
         }
       ],
       "politics": {
-        "b": "European governments faced mounting public discontent over high fuel and gas prices. A German minister accused companies of exploiting the Middle East situation. Elections are due next year.",
-        "i": "Soaring fuel and gas prices generated political friction across European capitals. A German minister claimed firms were exploiting events in the Middle East. Policymakers weighed a bloc-wide windfall tax to address public discontent ahead of next year's elections.",
-        "a": "Spiking energy costs intensified political vulnerability for European leaders facing elections next year. Ministerial accusations of supply-side rent extraction in the Middle East catalyzed debates over a coordinated windfall tax. Domestic discontent forced fiscal interventions to mitigate the fallout from elevated commodity prices."
+        "b": "High energy prices are causing public anger in Germany. Leaders face a challenge from the far right. Elections are due next year.",
+        "i": "High fuel and gas prices create domestic political pressure for leaders. Public discontent mounts alongside the challenge of the far right. Elections are scheduled for next year.",
+        "a": "Soaring energy costs compound public discontent and empower the far right. European leaders face intense domestic pressure ahead of elections next year."
       },
       "timeline": [
         [
           "18 Sep 2026",
-          "European governments discussed a bloc-wide windfall tax on energy companies."
-        ],
-        [
-          "19 Sep 2026",
-          "Germany's DAX 40 eased 0.15% to 25,402.28."
+          "European governments discussed imposing a bloc-wide windfall tax on energy companies."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan raises interest rates as the yen slides",
+      "sub": "BOJ rate hike impact and corporate expansions",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Raises Interest Rates",
-          "src": "Binance · tmgm.com",
-          "b": "The Bank of Japan is the country's central bank, which is the main bank that controls the money supply and interest rates. It raised its interest rate by 0.25 points to reach 1.25%. An interest rate is the cost of borrowing money. Even with this raise, the country's currency, called the yen, dropped in value by 1.2% to 157.80 per dollar. Currency is the official money used in a country.",
-          "i": "The Bank of Japan increased its benchmark interest rate by 25 basis points to 1.25%. Following this monetary policy decision, the <span class='term' data-t='carry'>yen</span> dropped 1.2% to 157.80 against the dollar in the trading session. Authorities subsequently conducted a rate check as the currency decline quickly narrowed.",
-          "a": "The Bank of Japan executed a 25 basis point hike to 1.25%, failing to satisfy aggressive market tightening expectations. The <span class='term' data-t='carry'>yen</span> depreciated 1.2% to 157.80 before paring losses following reported rate checks by officials preparing for potential intervention. Traders adjusted short-duration positions as the policy divergence failed to halt currency weakness.",
+          "t": "Central Bank Tightens Policy While Currency Falls",
+          "src": "Binance · Bloomberg.com",
+          "b": "The Bank of Japan raised its borrowing costs. This is the amount paid to borrow money from the central bank. Despite this increase, the national currency dropped in value. The exchange rate reached 157.80 against the dollar. The currency fell 1.2% in the trading session following the announcement.",
+          "i": "The Bank of Japan raised rates, yet the currency weakened. Traders exited the <span class='term' data-t='carry'>carry</span> trade further as the exchange rate hit 157.80 per dollar. The currency dropped 1.2% in the session following the policy move. Market participants had anticipated a larger adjustment.",
+          "a": "The Bank of Japan hiked rates by less than market expectations, triggering a bearish FX reaction. The currency tumbled 1.2% to 157.80 per dollar as implied yield differentials failed to compress sufficiently. This session drop reflects unwinding positions where market participants shorted the currency against higher-yielding assets.",
           "gloss": "carry",
           "links": [
             "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JclNNQS1zN0hvaGVMVmhYemQ5NFJGZG5CNUJFbUhYcDVqam41Yzl2YTdkVVVFSG9xLWotNy1lcmZwd2h2ZlAxOGl5ZjYzdHh3YWZWVENrNzU4R0pRcDdxZDZIbjE?oc=5",
             "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3TGh1U1BWVEZ1SV9EYnJFVkd6N2pJemo3aXhuOHMybDMxU2pQdm5QdDZlbTMyZ1l2Ujhpc0FKVlY0ZG5jT3RFU1cxeEFBMXFKd3NLRlhvVHpBeGwtTHpXUVZmY3Q?oc=5",
-            "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0VBQ2dyRks0cEktVnY3QWZPWElVb1hwQWUtNWFxVUFjS3NwTllQLXpCZ3hlWHk0S0c4YjluVlk2aFVtREVTemV0ckU3ZExaVkUxbnlJRGFOeGNlNTVCcFNDcnhONGo3MmdXdC1oY0FGWi1tVWxab0V4akt3d2dZYnVJUHBrd2FHMG03LVNrVGFQWmxVellueWl6WWpsU0pCRjl1aDdYVzFWX2poaG50ck5OUU45SndrT25FTGo2YlgyUUNlTnE4UTFod1p1MnN0VEU3WjhNODNBY3pKSngxcmtB?oc=5"
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzIyNDhway1mR0VHblU1MUNuVkxmUXY0VVYwQ2JWa2k3NmppVnlsLVdNNHE4dmhPaER5UXJxUlBVYnNyeklrU2dDZEVkcGwyMTd4ajFaTHVhVXJQUHAyMzlwZGRjSFdRSmdRWVN4QkZYTDl0MXNBNU42T0xKTzBXWDZaZkRTRUpjOUxES1hvVllrOWgzMGpuWndCc2hldXBZeE5jUmZuaklZTkpzUnQwSXJmb0daQzMyVzhJ?oc=5"
           ]
         },
         {
-          "t": "Nippon Life Targets US Data Centers",
-          "src": "tradingview.com · Nikkei Asia",
-          "b": "Nippon Life is a major Japanese company. It plans to spend $13 billion to help finance data centers. Most of these computer and server buildings will be located in the United States. Nikkei Asia reported this investment plan.",
-          "i": "Nippon Life allocated $13 billion for data center financing. The insurer will deploy the capital primarily in the United States. Nikkei Asia published details of the investment strategy.",
-          "a": "Nippon Life committed $13 billion toward data center financing. The capital expenditure targets infrastructure primarily within the United States. Nikkei Asia broke the financing blueprint.",
+          "t": "Nippon Life Directs Billions Toward Infrastructure",
+          "src": "Finimize · Reuters · Nikkei Asia",
+          "b": "Nippon Life plans to invest $13 billion. The money goes toward data center financing. Most of these digital infrastructure projects are located in the United States. Nikkei Asia reported the massive funding push.",
+          "i": "Nippon Life allocated $13 billion for data center financing. The capital deployment targets infrastructure primarily situated in the United States. Nikkei Asia first reported the investment strategy.",
+          "a": "Nippon Life earmarked $13 billion for data center financing. The capital expenditure focuses heavily on United States digital infrastructure assets. Nikkei Asia detailed the allocation parameters.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMDh0VHE0M01WS3RoOHd3YWNMbWdaS1h1N2xMc0VsUDhEcVFmT2VESlFJd3MtUzczSjZJUDB5MU9XakhMSE5mZEowLVhLQ1NFbnljTzc3OVJBTWFQcmtCNkxKeUpXZnl6dmI1c09sRkZnN1VrUF8ySVpJS1Q1NGExcEhPSDQwUmo3RVRjdTRGcWp6SWdoNlpXbmplbHZLMDNBNWVObHhQa3I1RUZUZjNGSEJjdFJHTl9wdUhwRnZPOVJibnhVNGhpS1Z0UThfME1YcXh4dmhiNmRSQWQzTlpYbjRFczZhVFNOLS0yNzRBZw?oc=5",
+            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0o2amRmelpMbk9BZ05Bek1JT3VEQkhYOGI0dnF6cW5ZcGg5MEVsWS1hRVYxMGRHN09fRy0xTTJScGptN2ZEUVkxeTk3RFlkY3lydGpNQ09YZlR1VnVqRWljVEVXRHlUeTdyWWVCaVJJeTlYVURmYTZHN19IT1pxWGxKbDFXSVJ3?oc=5",
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjh5T3NXaFpGUEVWa2tnSE93LXNoNzJEUXZGVU9hSXNRRmI2ODZhRk5remJwemRMbVBrM0E5T2t4Z3VDbGdzNEVPSGhtSEV2bDJXN2tQYWpURlJKRGtKaGN0YThaTGdRQVdadDZ6MG0tQzM3T05YU1lCSDJVUHZaRXhEN3Y5ZVB3eXJYaHJOeGFvUFA3Q3dXeDNKQThaMUVOS1BraTVRT1Qxa1ctWkM5UDEtVDJpYVdacjNWc1gyNDc2dkxPemVMU2tWZjdHX3lW?oc=5",
             "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTVRY3FzM3Vna1l1NlFQVDljOXFVNmVob3JWNVQxSHcyOEhvOFQ1ei1QN0g5WndmeVZaeHRBTDEwRk5ObWpPTGJPVHY4VFJ3Mk1vYTYxSnllYV9wbVdSclBqNzgza1lXdW16U0ZiNFVJNlI4WmY0cTlpZzNRai1RdGlPMXJwckluOTd0RzZEMFpqdXgwWXNwZzc0VFpIUDZ3cjJxMlQzcW5McDZaeGZ5MXd4YUpjOEdWcGdMc3d4N0dLdmFvSU5IdjdKY3k?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Supermarket chains in Japan are training workers for a new push into Vietnam with 100 stores. Toyota is building extended-range electric vehicles inside China. Tokyo has become the cheapest market globally to buy a Tesla Model Y due to subsidies and a weak currency.",
-        "i": "A Japanese supermarket operator initiated staff training ahead of a 100-store expansion in Vietnam. Toyota expanded its vehicle lineup by entering the extended-range EV market with a China-manufactured model. Tokyo emerged as the least expensive global market for the Tesla Model Y driven by local subsidies and currency depreciation.",
-        "a": "A Japanese supermarket operator commenced training protocols to support a 100-store retail push into Vietnam. Toyota advanced its manufacturing strategy by introducing an extended-range EV produced in China. Concurrently, localized subsidies and currency weakness positioned Tokyo as the lowest-priced global market for the Tesla Model Y.",
-        "sources": {
-          "0": {
-            "outlet": "Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckZZcjZtS2RrbkZIQ3hHWDdoLVZwN3FlNE96VXBDTW9JWURYZ3dKbmhVUjNrTjJQdXdzNU9PVGMzMjlLQXpWeFJ1c3kzV2NCcXRqOGdfMms2dzVIU0lCeURLYUozX1BLYVlDV015aHRKdkdYdUtnY0tkWkZ4WGF4bWVRZm1wTLC5pFOVXNsTXdwZDRyWDVUUm85TUE1UDBCbzRVQnFpNE1ZWnl4cGU3SVRGSUFHV192VlloOVBuZlJRdw?oc=5"
-          },
-          "1": {
-            "outlet": "Nikkei Asia",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkRYRjg2VlNCN3Rtb0dvM1RyRjk1MHdfMzFGTVNqeUphRXpReWlTb3EzSnY2ZXZYcmJyNjh5LXlnVGNaN193eUY2azhGZ25IQm1FX0EyMUtvN0dNdGlfRVRrUk9ScjdhMHpNYmZ3b1VURHJVRXNHYjB5a2kwRWx2ZUtib3JoYW1UMkVHb2xwMkstcFg2cTBlb1YtcGdRc0IxYVFrbDFn?oc=5"
-          },
-          "2": {
-            "outlet": "finance.biggo.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkYzdhQWEzTGFXQURmWkRleVhnVjJWOHV6WnhSM2E4T2VqOXcwSG90dENPS1BGN1pSOVU3OFlvekVENV9YNUxPdUY1VmZ2eldCd3pHVkVqVEx1TkpHTDNwYmMyV3U4WjRfS3psaUUxQUx1dmx5YkE?oc=5"
-          }
-        }
+        "b": "Toyota entered the market for extended-range electric vehicles with a new vehicle produced in China. Meanwhile, a Japanese supermarket operator started training staff for a planned expansion of 100 stores in Vietnam.",
+        "i": "Toyota expanded its product line into extended-range electric vehicles using a manufacturing base in China. Concurrently, a domestic supermarket chain commenced training programs to support a 100-store retail rollout in Vietnam.",
+        "a": "Toyota diversified its EV architecture through an extended-range model manufactured in China. Separately, a Japanese supermarket initiated workforce training ahead of a 100-store commercial expansion into Vietnam."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "The Bank of Japan raised its interest rate by 25 basis points to 1.25%."
+          "Toyota introduces an extended-range electric vehicle built in China."
         ],
         [
           "19 Sep 2026",
-          "The yen dropped 1.2% to 157.80 against the dollar following the rate decision."
+          "Nippon Life announces a $13 billion data center financing plan."
         ],
         [
           "19 Sep 2026",
-          "Nippon Life announced plans to allocate $13 billion for data center financing primarily in the US."
+          "The Bank of Japan raises interest rates, pushing the currency to 157.80."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "China launches cross-border digital yuan and new EV models",
+      "sub": "Digital yuan trade, AI face licensing, and Aokang share sale",
       "ind": [],
       "stories": [
         {
-          "t": "China Introduces Digital Yuan Service for Cross-Border Trade",
+          "t": "China Launches Digital Yuan Service for Cross-Border Trade",
           "src": "巴士的報",
-          "b": "China launches a new digital yuan service for cross-border trade. The digital yuan is a digital form of the country's official money. This service helps businesses buy and sell across borders more easily.",
-          "i": "China launches a digital yuan service for cross-border trade. The system facilitates international commercial settlements using the official state-backed digital currency. Cross-border transactions typically rely on traditional correspondent banking networks.",
-          "a": "China rolls out a digital yuan service tailored for cross-border trade. The infrastructure aims to bypass legacy SWIFT-based settlement channels for bilateral transactions. Adoption metrics will depend on foreign counterparty integration and liquidity pools.",
+          "b": "China has started a new digital yuan service. The digital yuan is a digital form of the country's official money. This service helps businesses trade across borders. It makes sending money between different countries easier. The system is now live for transactions.",
+          "i": "China launched a digital yuan service for cross-border trade. This infrastructure facilitates international settlements using the central bank digital currency. The mechanism streamlines foreign transactions for enterprises. The service operates to support overseas commercial exchanges.",
+          "a": "China introduced a digital yuan cross-border trade settlement service. The system expands the operational scope of the central bank digital currency into international payments. This deployment provides an alternative channel for foreign exchange transactions. The infrastructure supports cross-border liquidity flows between participating commercial entities.",
           "links": [
             "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEJJb2hwbDBQbTRQTlFRYTJhT0VrX25UeWY1Q1djaVdTQmE3cVZ3LTRmY2piRHVZbXFBb1pxVWlWTTVIT2YyS3VXbGp3QTdJUGMwN3BtUWxXRUtaVVYtRU1sWlMyR0V0SGdmY0FqakFYLUY5MkdKM1Fxb1FzZzZpb0dVd2FKSVN0RnduYWd1Q3BGYzVxU0V2NG5sVEhOUnVnYnNhMXRHeEFDWHRqT2p3?oc=5"
           ]
         },
         {
-          "t": "Toyota Enters Extended-Range EV Market with Chinese-Made Model",
-          "src": "Nikkei Asia",
-          "b": "Toyota builds a new extended-range electric vehicle in China. Extended-range electric vehicles use both a battery and a fuel engine to travel long distances. Car makers build these models to meet shifting driver demand.",
-          "i": "Toyota launches an extended-range electric vehicle manufactured in China. Extended-range electric vehicles utilize internal combustion engines solely as generators to recharge the battery pack. This powertrain architecture targets range anxiety among domestic consumers.",
-          "a": "Toyota debuts a locally manufactured extended-range electric vehicle in China. The drivetrain configuration combines battery-electric propulsion with an internal combustion range extender. This move positions the manufacturer against domestic rivals in a fiercely contested segment.",
+          "t": "People in China Earn Money by Licensing Faces to AI Content Producers",
+          "src": "South China Morning Post",
+          "b": "People in China are making money by letting artificial intelligence companies use their faces. Artificial intelligence means computers that act like humans and create content. Individuals earn between US$7 and US$15,000 for these licenses. Content producers use these facial data sets for their digital projects.",
+          "i": "Individuals in China generate earnings ranging from US$7 to US$15,000 by licensing their faces to artificial intelligence content producers. These transactions supply generative models with authentic human features. Creators utilize the acquired biometric data to build digital avatars and synthetic media. The market reflects growing commercial demand for human facial likenesses in software applications.",
+          "a": "Participants in China monetize biometric assets by licensing facial likenesses to artificial intelligence content producers for US$7 to US$15,000. This marketplace supplies foundational training data and visual parameters for generative neural networks. Synthetic media developers absorb these facial inputs to scale digital video generation. The transactions highlight the monetization channels emerging within the commercial AI supply chain.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckZZcjZtS2RrbkZIQ3hHWDdoLVZwN3FlNE96VXBDTW9JWURYZ3dKbmhVUjNrTjJQdXdzNU9PVGMzMjlLQXpWeFJ1c3kzV2NCcXRqOGdfMms2dzVIU0lCeURLYUozX1BLYVlDV015aHRKdkdYdUtnY0tkWkZ4WGF4bWVRZm1wTGNMaUFOVXNsTXdwZDRyWDVUUm85TUE1UDBCbzRVQnFpNE1ZWnl4cGU3SVRGSUFHV192VlloOVBuZlJRdw?oc=5"
+            "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzlEQlJKSFRyQnJXVzgxWl9hbkd5NjA5MWd3ckhydlZsbEFMME9FdTZzdlpyVnJNQ1pQelJYQVpRZ25PeVdGYzY5S0RtdG5LN240OEJuU0pJWDJFT2F4Sk9zRkZXbWJQOS1SUUY2Sm0zczBYNTJSaDRIeUpXaU1rUWp4VV9tNk13bWFVS0VtblpRbmJ0RUk4bjdZVHNyZ3g5emI4M2FycU9CNEI4QVAyU1BZWHdwRUFUaTZTcHNDVXlhZmR6SnRCVUtNaDBxcGNlQjBhQnAyVEIybWQ0YnVyMVEtNXTSAeQBQVVfeXFMUHlCR2hWYlZiNjRYU0dURjJXY0JQYkctYkN1M3VMSTREa2hNSUx5STVoclBYNVVQbDFnUE5tSWpBc1ZES3hRbEpYMnV2ZVJyN0hCemJaZmNlZ2RLTENOQU8wV3pWOEJfR3h5cm5HWWlDT1Q3Smdha1J3Y0dhUXdydVplRWxSV3VkbXJVTm44S01falNyRUtuWkRJV3ExVERoclBvOEJUempTOHdFd0RRUHd3Y3d2dHN6S20xM0U1cV9wcWZsajdrXy12Nm1hSXVWc1FRNnNXUGJBdU9RNmJxU21LT1lE?oc=5"
+          ]
+        },
+        {
+          "t": "Aokang International Controlling Shareholder Sells Shares to New Partnership",
+          "src": "finance.biggo.com",
+          "b": "A father and son duo controlling Aokang International cashed out nearly 400 million yuan of their shares. Aokang International is a Chinese company. The buyer is a business partnership. This buying partnership was formed just 13 days before the deal.",
+          "i": "The controlling father-son shareholder duo at Aokang International cashed out nearly 400 million yuan through a block sale. A partnership formed a mere 13 days prior acquired the stake. The transaction transfers a significant ownership block in the Chinese enterprise to the newly established entity.",
+          "a": "The controlling paternal-filial principals of Aokang International liquidated equity worth nearly 400 million yuan. A newly formed partnership, established only 13 days before the transaction, acted as the counterparty. The acquisition concentrates a substantial ownership interest into a freshly minted corporate vehicle.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5UjVjd3Vidm5hRjg4Rmd6ZTZ0eWI5OGdKUGRWZHM5SjFBYkNhSmdodUIzNUVnYUtYWmdFbWxwQ2xSeUdhVzNINW5ORlNERzNuMkNlaFJKSUdhWXV4ZEFSRDNxY21mbGc4NzdKLUNJdnlYZTBFdmc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "People in China earn between US$7 and US$15,000 by licensing their faces to artificial intelligence companies. Cricket organizations target China's sports economy, valued at 1 trillion yuan. A new initial public offering priced at 4.39 yuan halts trading four times in two days.",
-        "i": "Individuals in China generate between US$7 and US$15,000 by licensing facial likenesses to AI content producers. The International Cricket Council targets the domestic sports economy, which exceeds 1 trillion yuan. A newly listed equity priced at 4.39 yuan triggers trading halts four times across two sessions.",
-        "a": "Content producers pay domestic participants between US$7 and US$15,000 for facial likeness licensing rights. The International Cricket Council eyes the domestic sports economy, valued at 1 trillion yuan. An equity offering priced at 4.39 yuan registers four trading halts within two sessions amid high volatility."
+        "b": "The text does not mention politics or government elections.",
+        "i": "The sources contain no information regarding political developments or policy votes.",
+        "a": "No political data or governmental elections are reported in the source material."
       },
       "timeline": [
         [
@@ -301,237 +242,222 @@
         ],
         [
           "19 Sep 2026",
-          "Toyota introduces a China-made extended-range electric vehicle."
+          "Aokang International controlling shareholders cash out nearly 400 million yuan to a new partnership."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indices down, crude halted, and economy forecasts",
+      "sub": "Indices lower, Aramco halts crude, economy projection",
       "ind": [],
       "stories": [
         {
-          "t": "Sensex and Nifty Finish the Week Lower",
-          "src": "BusinessLine · Rediff",
-          "b": "The main stock market indices, called Sensex and Nifty, finished the week lower. Stocks represent small pieces of ownership in companies. These indices track groups of major company shares. Both indices ended the week down. They also trailed fixed deposits over a three-year bull market test.",
-          "i": "The Sensex and Nifty indices finished the week lower. Both equity benchmarks trailed fixed deposits in a three-year bull market test. Share prices faced downward pressure across the sessions. Upside potential for the index remained capped.",
-          "a": "The Sensex and Nifty closed the week lower, extending their underperformance relative to fixed deposits over a three-year horizon. Price action showed the index upside remaining capped through the sessions. Open interest positioning in Bank Nifty offered unusual signals during the week.",
+          "t": "Indices Post Weekly Losses",
+          "src": "Rediff · BusinessLine",
+          "b": "Stock market indices like the Sensex and the Nifty went down over the week. These indices track the performance of groups of major companies. The drop happened during a market test where shares trailed fixed deposits. Fixed deposits are savings accounts with fixed interest rates.",
+          "i": "The Sensex and the Nifty finished the week lower. Both major indices faced a three-year bull market test where they trailed fixed deposits. Equity upside remained capped during the period.",
+          "a": "Domestic equity benchmarks Sensex and Nifty closed the week in negative territory. The indices continued to underperform fixed deposits through a three-year bull market test characterized by persistent upside caps.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEdBeElVS2hVRnlzNE55OW93R2Z3T2xfWnpIY1JuNG5xdjFScmpLVGdCNEplOXEySU9EUVM4aUdDdkFXT0V6YThDN2EyQU1XTkpGbmdiUHZVMUdmRUpER1k0SG9CaWlfU3BnQXc4YzBLZHdoNGgxbEJKQXhxMHNNWXptSllxM2V6a1R4dzZUMF91ZGZ4bkZseFF2a2FhZ1J1SDRNSmFnOVZaQzhaQnd3Y1VsaE5YSEd1V0ZaM2o5cTXSAccBQVVfeXFMTkpfem9jNm5INEdsU1hKa3V2WXJaYTVvUnJrQWJoNXBUeTRZXy16TW9ZMW1jaGhWbmRmZGQ5SHFOdFRyai05Vm9aMzR6MXNhcVlVcGJCM3FOVzBHb2dIYnRHaWJfZEJSUlQ1NTl1bFdFU19DUnpGblJBdEFJZFZiLWg5eWxvdE5QNTJYeVlSNDFBUDluMFdYTEFkS0NFV0M1cEpBRDFMR0NzYXFybGpFTF9CWHRGSUJqOGU0LWxTSXZRZlhYWXYxMA?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9NVk5fcDBRQ01FSUNibk1MUEdqb2x5U2JEQ2dldDV6Tm5mOC0wdjFkdXRHamUtSFExNHpoOHQtcnBnYk9TVTF6dFRmeVlDdzZRb25MMmNLeXlrVFBFbVZxM29fNV8zYnMtNHE4c2VVQUI5di10RVZhLVBiNlFBeUwtYVUyQUttS3I3eWRSR0h5cEJWYjNMV2ZSaE9NOFd2OWtnLWUtSGhENEtqejJ6TQ?oc=5"
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdE9NVk5fcDBRQ01FSUNibk1MUEdqb2x5U2JEQ2dldDV6Tm5mOC0wdjFkdXRHamUtSFExNHpoOHQtcnBnYk9TVTF6dFRmeVlDdzZRb25MMmNLeXlrVFBFbVZxM29fNV8zYnMtNHE4c2VVQUI5di10RVZhLVBiNlFBeUwtYVUyQUttS3I3eWRSR0h5cEJWYjNMV2ZSaE9NOFd2OWtnLWUtSGhENEtqejJ6TQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEdBeElVS2hVRnlzNE55OW93R2Z3T2xfWnpIY1JuNG5xdjFScmpLVGdCNEplOXEySU9EUVM4aUdDdkFXT0V6YThDN2EyQU1XTkpGbmdiUHZVMUdmRUpER1k0SG9CaWlfU3BnQXc4YzBLZHdoNGgxbEJKQXhxMHNNWXptSllxM2V6a1R4dzZUMF91ZGZ4bkZseFF2a2FhZ1J1SDRNSmFnOVZaQzhaQnd3Y1VsaE5YSEd1V0ZaM2o5cTXSAccBQVVfeXFMTkpfem9jNm5INEdsU1hKa3V2WXJaYTVvUnJrQWJoNXBUeTRZXy16TW9ZMW1jaGhWbmRmZGQ5SHFOdFRyai05Vm9aMzR6MXNhcVlVcGJCM3FOVzBHb2dIYnRHaWJfZEJSUlQ1NTl1bFdFU19DUnpGblJBdEFJZFZiLWg5eWxvdE5QNTJYeVlSNDFBUDluMFdYTEFkS0NFV0M1cEpBRDFMR0NzYXFybGpFTF9CWHRGSUJqOGU0LWxTSXZRZlhYWXYxMA?oc=5"
           ]
         },
         {
-          "t": "Crude Deliveries to Refiners Halted Following Attack",
+          "t": "Saudi Aramco Halts Crude Supplies",
           "src": "The Times of India",
-          "b": "Saudi Aramco stopped crude oil supplies to Indian refiners after a pipeline attack. Crude oil is the raw material used to make fuel. Replacement barrels remain available for purchase. The disruption affected deliveries to domestic processors.",
-          "i": "Saudi Aramco halted crude oil supplies to Indian refiners following a pipeline attack. Replacement barrels remain available to cover the shortfall. Refiners faced an immediate supply interruption from the primary source. Alternative cargo options exist in the market.",
-          "a": "Saudi Aramco suspended crude shipments to Indian refiners in the wake of a pipeline attack. Replacement barrels are accessible to absorb the supply shock. Refining margins face potential adjustments depending on spot replacement costs. Logistics channels adapted to source alternative crude grades.",
+          "b": "Saudi Aramco stopped sending crude oil to Indian refiners. This happened because of a pipeline attack. Replacement barrels are available for the affected refiners.",
+          "i": "Saudi Aramco halted crude supplies to Indian refiners following a pipeline attack. Replacement barrels remain available in the market to substitute the disrupted volume.",
+          "a": "Saudi Aramco suspended crude shipments to Indian refiners in the wake of a pipeline attack. Alternate replacement barrels were made accessible to offset the supply interruption.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNQU1kQXg0ZDZDUmx0S0tUeHVzMUxicWdLYVZJdGVvR2dHM1BGMU5SNl9PT3YwM2lSUkZQRV80M3c3ZHBwdnhkWGFFN0pyVk1GX3RxQnhnb2NsMVAydkZvU2xGSW9PZnVvcFh4a1UyU2ZhelljNDdvbXJkRmtXU09lWERFOEhYWUJYVlRCOVUyTGk0SGJsbS1BMFcxTFZ0WHoydFVnbDBQY1VTekVqY0ppTkJJbUI3ZUVsWi1KTmxiTkZpc1dzNGE3S2UwQmR3Sng1UnR1VjBiZ2N6TDFFcE1uaDR2d2I0VzM1Tnc3REVHUHl0UTNVcDFQajRub19IM3JESVdpMkFrVWY5MWx6M0x3aTJWbmYyTVlCOVhoV0J0VC13VE1jaThHVU83dlVUZ2tDXzA1elhHMnprLUZPTUxYREVWcG81R2t4SXNMSUZqZjQ0OTVveUZaTTZ5MEpXVHVuU2hRdzhn0gHrAkFVX3lxTE02YXBMMEJ2ekZaUkxneUhhYVkwY3AyN0lLdUxzOUJuYWtrblFWQ1FIUWE2OXB2VkJmUEVaOFdEUTdncC0tdE94TWF5cVNjaWpFazZrTlFEMGF0Sjl2MXZEZ3NEOEFfVGROSS1HWFRPSXVBTkpVQVlqRm82UkhOWXBOVzczVk8wQ2pic3dLRmhseGJZZkNyZWdFZW11Y291M1NXTGpJdnFTUUl6SjFZeWNsVWFuLVVjeWZwTHlSN2ppeThKcWs1N0YzUEtFb1pWLTYtQW1lcUU2VmtLWUZqdVhFWTloOEZWeXpWYjZYRlBjbVdpUGk0VXYyTFJKbEFrOVBlZlRWMFpjN3VWbmg1U2tEVkhpaWYtR2RoUDlJSjlkV1piaDlIWlYwUjBTcll6Y3ZzUm5ESnJFdFM3VDhoOUNUbm9jUFU4aldVbXJlaldod2V5MUVBRzNvQkFaVlFjdWJJR3RXMEplZWdYTQ?oc=5"
+            "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNQU1kQXg0ZDZDUmx0S0tUeHVzMUxicWdLYVZJdGVvR2dHM1BGMU5SNl9PT3YwM2lSUkZQRV80M3c3ZHBwdnhkWGFFN0pyVk1GX3RxQnhnb2NsMVAydkZvU2xGSW9PZnVvcFh4a1UyU2ZhelljNDdvbXJkRmtXU09lWERFOEhYWUJYVlRCOVUyTGk0SGJsbS1BMFcxTFZ0WHoydFVnbDBQY1VTekVqY0ppTkJJbUI3ZUVsWi1KTmxiTkZpc1dzNGE3S2UwQmR3Sng1UnR1VjBiZ2N6TDFFcE1uaDR2d2I0VzM1Tnc3REVHUHl0UTNVcDFQajRub19IM3JESVdpMkFrVWY5MWx6M0x3aTJWbmYyTVlCOVhoV0J0VC13VE1jaThHVU83dlVUZ2tDXzA1elhHMnprLUZPTUxYREVWcG81R2t4SXNMSUZqZjQ0OTVveUZaTTZ5MEpXVHVuU2hRdzhn0gHrAkFVX3lxTE02YXBMMEJ2ekZaUkxneUhhYVkwY3AyN0lLdUxzOUJuYWtrblFWQ1FIUWE2OXB2VkJmUEVaOFdEUTdncC0tdE94TWF5cVNjaWpFazZrTlFEMGF0Sjl2MXZEZ3NEOEFfVGROSS1HWFRPSXVBTkpVQVljRm82UkhOWXBOVzczVk8wQ2pic3dLRmhseGJZZkNyZWdFZW11Y291M1NXTGpJdnFTUUl6SjFZeWNsVWFuLVVjeWZwTHlSN2ppeThKcWs1N0YzUEtFb1pWLTYtQW1lcUU2VmtLWUZqdVhFWTloOEZWeXpWYjZYRlBjbVdpUGk0VXYyTFJKbEFrOVBlZlRWMFpjN3VWbmg1U2tEVkhpaWYtR2RoUDlJSjlkV1piaDlIWlYwUjBTcll6Y3ZzUm5ESnJFdFM3VDhoOUNUbm9jUFU4aldVbXJlaldod2V5MUVBRzNvQkFaVlFjdWJJR3RXMEplZWdYTQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Ajit Doval stated that the Indian economy will reach 38 trillion US dollars by the year 2046.",
-        "i": "Ajit Doval projected that the Indian economy will touch 38 trillion US dollars by 2046.",
-        "a": "Ajit Doval projected an expansion of the Indian economy to 38 trillion US dollars by 2046."
+        "b": "Ajit Doval stated that the economy of India is set to reach 38 trillion US dollars by the year 2046.",
+        "i": "Ajit Doval projected that the Indian economy will expand to 38 trillion US dollars by 2046.",
+        "a": "Ajit Doval forecasted the aggregate size of the Indian economy to attain 38 trillion US dollars by 2046."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "Ajit Doval projected 38 trillion US dollars economy size by 2046"
+          "Ajit Doval projects 38 trillion US dollar economy by 2046"
         ],
         [
           "19 Sep 2026",
-          "Saudi Aramco halted crude supplies to Indian refiners after a pipeline attack"
+          "Saudi Aramco halts Indian crude supplies following pipeline attack"
         ],
         [
           "19 Sep 2026",
-          "Sensex and Nifty finished the trading week lower"
+          "Sensex and Nifty finish the week lower"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras board decisions and ongoing Rio worker strikes",
+      "sub": "Brazil's central bank cuts rates and Petrobras joins subsidy scheme",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Approves Diesel Subsidy Program Entry",
-          "src": "Reuters · tradingview.com",
-          "b": "The board of directors at Petrobras voted to join a diesel subsidy program. A subsidy is financial support from the government to keep prices lower for buyers. This choice changes how the state-backed oil company operates its pricing. Officials announced the decision on 19 September 2026. The company handles large fuel and energy markets in Brazil.",
-          "i": "Petrobras executives approved participation in a state-backed diesel subsidy program. The corporate board formalised the decision on 19 September 2026. This move alters the pricing mechanics for the state-controlled energy producer. Analysts monitor how public policy mandates intersect with corporate revenues. The firm remains a dominant force across Brazilian markets.",
-          "a": "The board of Petrobras ratified entry into the diesel subsidy framework on 19 September 2026. This administrative shift subjects the state-controlled producer to renewed margin compression risks tied to domestic price smoothing. Market participants must re-evaluate free-cash-flow assumptions amid policy-driven intervention. Equity valuations reflect ongoing tension between minority shareholder returns and federal social objectives.",
+          "t": "Brazil Lowers Interest Rates as Price Rises Slow Down",
+          "src": "wsj.com",
+          "b": "Brazil's central bank lowered its main interest rate for the fifth meeting in a row. A central bank is a national bank that manages the country's money and sets borrowing costs. This rate is lowered because inflation is cooling. Inflation is when the prices of everyday things go up over time. Lower rates make borrowing cheaper for people and businesses.",
+          "i": "Brazil's central bank reduced borrowing costs for the fifth consecutive meeting. The monetary authority eased policy as <span class='term' data-t='inflation'>inflation</span> pressures moderated across the domestic economy. Lower benchmark rates typically stimulate economic activity by reducing the cost of debt for consumers and corporations.",
+          "a": "The Copom reduced the Selic rate by a matching increment for the fifth consecutive meeting, reacting to decelerating headline <span class='term' data-t='inflation'>inflation</span> prints. The easing cycle reflects improved domestic price dynamics despite persistent fiscal concerns weighing on local asset classes. The transmission mechanism relies on lowering the cost of bank credit to support domestic demand without unanchoring long-term expectations.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNC1tN3hCWUsyLUdEOTRXd3lxNHFnSmVCWkR3R2ViVE5EaUxFam8xamRFdjRUYmRlNWtWaHF6Y0xhdV9PM1FBaWI1OGoxdzNnZ3Z5d1NPV2tFRkFvNlAxOW9TTWJ0YmxQQkF6VFg2cnZWUkp5Z1F4blgtMmdaTkdJOGZFeWx2cXdvTDRNMkNzUTZXc0hUbm9JM0VrN3BYTllzMWxFRFRwN1N2Y2tGMUZsRlZMV0pJbnptQWFjbm03V2tncFVM?oc=5"
+          ]
+        },
+        {
+          "t": "Petrobras Board Approves Entry Into Diesel Subsidy Program",
+          "src": "Reuters · TradingView",
+          "b": "Petrobras is a big oil company in Brazil. The board of directors at Petrobras voted to join a diesel subsidy program. A subsidy is money given by the government to keep prices lower for buyers. The company approved entering this state program on September 19, 2026.",
+          "i": "Petrobras joined a government-backed diesel subsidy program. The corporate board approved participation in the scheme on September 19, 2026. State-directed subsidy initiatives frequently alter the commercial margins of integrated energy producers.",
+          "a": "The board of Petróleo Brasileiro SA approved participation in the national diesel subsidy mechanism on September 19, 2026. State intervention through price smoothing mechanisms introduces regulatory risk for minority shareholders by potentially capping fuel revenues below international parity. Market participants are monitoring the fiscal compensation terms agreed between the federal government and the corporate treasury.",
           "links": [
             "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkJTQ2FrelAyRV9KWFRpajBrMlJOZDAtNFhyR3pha0E4V1YxbGpxR3JaOXhfUWJOT0JLNm1uN1RfUE5QY294TFd1eXZxbWFxOXFNRVcxTHBXWTNYSjVKTjl5X1F1MUN6ZFp4Yjg0Y3pHdjZrQXl5enlVNFdVU1ZBT0dZTW9Oci1zN2x2VFBnT1FpQ0VoaFRpTkVEcEdoT3lnVm1IV2hxTnptc2JfOTNGaFdzaGFBdw?oc=5",
             "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUdwb05ON2VsSk1lbWc3ejZUSEJHbDNaVFk4TFk0X2lNTVBtUTlzYjI3bERXalZSaFR1Rk5NamZFRE9zRGZjTEFEVWliaGVtU3hHZC1YR1ZsdWpoVlc4aVk4WlJVelk4SUgwemxkS2dvRkw3ZVR4ZUFnUEZkaUh3eTc3d1N4c3EzLXR0a0lMSUVlWXlfVldzbVRSWWZzYVJSVWJ1bVVYNU9HU0h2bEpsbjZ4cVhhRGdHM1NmclcwZTNWdWY1OGFibmNpak5sS1k?oc=5"
           ]
-        },
-        {
-          "t": "Rio Workers Begin Strike Action While Platforms Operate",
-          "src": "#Mezha",
-          "b": "Workers in Rio started a strike. Offshore oil platforms keep running despite the protests. Petrobras manages these platforms off the coast. The labor action began in September 2026. Operations on the sea structures continue as normal for now.",
-          "i": "Rio-based personnel initiated a strike action across company facilities. Petrobras offshore platforms maintain production schedules despite the labor disruption. Management oversees the continued extraction of crude from regional fields. The industrial action began in September 2026. Output figures show no immediate disruption from the picket lines.",
-          "a": "Rio personnel commenced strike action while upstream assets sustained output. Petrobras offshore platforms reported uninterrupted extraction figures despite local labor friction. Contingency protocols mitigated immediate supply shocks across regional assets. Production telemetry confirms nominal throughput on floating installations. Management navigates localized workforce dissent without impairing core hydrocarbon delivery.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uWlFDc3Yyb3ZNTTdyZG5MUWxxRENwU1d5TzFCOUhwa0paejhfUWpGQ2dnMEw2RjZ4dTktT3dWNEh4Nk5GeTRQV2x2Q1ItXzZzNWg4Q1lRYldLZ25LM1hNOFBrRkg?oc=5"
-          ]
         }
       ],
       "politics": {
-        "b": "Government leaders influence fuel prices through state-run energy companies. Citizens debate the balance between cheap diesel and corporate profits. Officials manage subsidies to control everyday living costs. Public policy directly shapes energy company decisions. State intervention remains a central theme in national politics.",
-        "i": "Federal authorities leverage state-controlled entities to execute domestic price controls. State intervention in corporate governance frequently sparks friction between public policy goals and market returns. Political figures balance consumer inflation pressures against shareholder dividends. Energy policy serves as a primary tool for managing economic stability. State directives heavily influence strategic asset allocation.",
-        "a": "State ownership of strategic energy assets institutionalises fiscal and social objectives within corporate governance. Executive appointments enforce policy transmission channels through subsidized fuel pricing and domestic procurement quotas. Political interference compresses valuation multiples relative to global peers. Sovereign actors rely on state-directed capital expenditure cycles to pursue regional development goals. Market pricing discounts ongoing regulatory risk premiums."
+        "b": "The Brazilian government interacts with state-controlled companies like Petrobras to manage fuel prices for citizens. At the same time, the central bank operates to control price increases across the country.",
+        "i": "State involvement in corporate operations remains prominent as Petrobras enters the government diesel subsidy program. Meanwhile, monetary policymakers continue their easing cycle in response to cooling consumer prices.",
+        "a": "State capitalism dynamics persist as Petrobras enters a government-sponsored diesel subsidy scheme, balancing public policy objectives against corporate governance norms. Concurrently, the central bank advances its monetary easing trajectory as headline inflation metrics moderate."
       },
       "timeline": [
         [
           "18 Sep 2026",
-          "Petrobras sold its first batch of CORSIA-certified sustainable aviation fuel."
+          "Petrobras secures pipe supply contracts for the Sepia 2 project and plans oil exploration off Côte d'Ivoire."
         ],
         [
           "19 Sep 2026",
-          "The Petrobras board approved joining the diesel subsidy program."
+          "Petrobras board approves joining the diesel subsidy program and christens the Starnav Elektra vessel."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Houthi missile and drone strikes hit Riyadh and Aramco sites",
+      "sub": "Houthi missile and drone claims target Riyadh and Yanbu",
       "ind": [],
       "stories": [
         {
-          "t": "Houthi strikes hit Riyadh and Aramco facilities",
-          "src": "Breakingthenews.net · The Times of India · The Times of Israel",
-          "b": "Fighters from the Houthi movement carried out missile and drone attacks. They targeted Riyadh, the capital city of Saudi Arabia, and various facilities belonging to Saudi Aramco, the state oil company. Firefighters rushed to put out a fuel tank fire near the airport in Riyadh after loud blasts echoed through the area. Saudi Aramco halted some crude supplies to Indian refiners following a pipeline attack.",
-          "i": "The Houthi armed forces executed two military operations involving missiles and drones against Riyadh and Saudi Aramco infrastructure. Emergency responders battled a fuel tank fire near the Riyadh airport following explosions at the site. Saudi Aramco subsequently suspended crude supplies to Indian refiners after a pipeline assault, though replacement barrels remain accessible.",
-          "a": "Houthi forces launched coordinated missile and drone strikes targeting Riyadh and critical petroleum infrastructure. Saudi Aramco facilities in Yanbu and near the Riyadh airport sustained damage, triggering emergency firefighting responses and an immediate halt of crude supplies to Indian refiners. Replacement barrels were reportedly made available to mitigate the immediate export disruption stemming from the pipeline attack.",
+          "t": "Houthi forces claim missile and drone attacks on Riyadh and Yanbu",
+          "src": "The Media Line · Moneycontrol.com",
+          "b": "The Houthis fired missiles and drones at Riyadh and Yanbu. Riyadh is the capital city of Saudi Arabia. Yanbu houses important oil infrastructure belonging to Saudi Aramco. Saudi Arabia issued alerts before the group claimed responsibility.",
+          "i": "Houthi forces launched missile and drone attacks targeting Riyadh and Saudi Aramco facilities in Yanbu. The operations followed an official Saudi alert. State-linked bodies in Yemen claimed responsibility for the military actions.",
+          "a": "Houthi military operations targeted sensitive infrastructure in Riyadh and Saudi Aramco assets in Yanbu. The strikes followed prior security alerts issued by Saudi authorities. The Yemen-based forces asserted execution of two distinct military operations.",
           "links": [
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGJGOEVUUldqUTJjM2s2SWZKdllQWUhUdXp4TFFDUkhmRk1LNFRGZW5kNEZqTkxpNDV5V3NQR2FzOGJlYW1PcTRPbHNFcTNNeVB4RUF5dURiU1N4UnFuZHZaWkRQQy05aFhYWGYxaUQyVmVkMGFtM0htU0ZSSndKdWV1N25uSnpSS1FqcTdTanhSYzJvOGc?oc=5",
-            "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNQU1kQXg0ZDZDUmx0S0tUeHVzMUxicWdLYVZJdGVvR2dHM1BGMU5SNl9PT3YwM2lSUkZQRV80M3c3ZHBwdnhkWGFFN0pyVk1GX3RxQnhnb2NsMVAydkZvU2xGSW9PZnVvcFh4a1UyU2ZhelljNDdvbXJkRmtXU09lWERFOEhYWUJYVlRCOVUyTGk0SGJsbS1BMFcxTFZ0WHoydFVnbDBQY1VTekVqY0ppTkJJbUI3ZUVsWi1KTmxiTkZpc1dzNGE3S2UwQmR3Sng1UnR1VjBiZ2N6TDFFcE1uaDR2d2I0VzM1Tnc3REVHUHl0UTNVcDFQajRub19IM3JESVdpMkFrVWY5MWx6M0x3aTJWbmYyTVlCOVhoV0J0VC13VE1jaThHVU83dlVUZ2tDXzA1elhHMnprLUZPTUxYREVWcG81R2t4SXNMSUZqZjQ0OTVveUZaTTZ5MEpXVHVuU2hRdzhn0gHrAkFVX3lxTE02YXBMMEJ2ekZaUkxneUhhYVkwY3AyN0lLdUxzOUJuYWtrblFWQ1FIUWE2OXB2VkJmUEVaOFdEUTdncC0tdE94TWF5cVNjaWpFazZrTlFEMGF0Sjl2MXZEZ3NEOEFfVGROSS1HWFRPSXVBTkpVQVlqRm82UkhOWXBOVzczVk8wQ2pic3dLRmhseGJZZkNyZWdFZW11Y291M1NXTGpJdnFTUUl6SjFZeWNsVWFuLVVjeWZwTHlSN2ppeThKcWs1N0YzUEtFb1pWLTYtQW1lcUU2VmtLWUZqdVhFWTloOEZWeXpWYjZYRlBjbVdpUGk0VXYyTFJKbEFrOVBlZlRWMFpjN3VWbmg1U2tEVkhpaWYtR2RoUDlJSjlkV1piaDlIWlYwUjBTcll6Y3zUm5ESnJFdFM3VDhoOUNUbm9jUFU4aldVbXJlaldod2V5MUVBRzNvQkFaVlFjdWJJR3RXMEplZWdYTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX29lRVBPUnIwTWswUmlUdkhsMEEwTXR1VnJ6SWt5TVVwdkhreDJCVWlZdWR2M050LTZwSW45ODN2OGtkZ3NpTk5nVDMzZ2M5Ni1tRkRiSzd5d0Fna2FWb1VNMXZ2b0RJS21pZlVxY25hTnNSOTJsTDRncDRPMXVDLXVkS2dHQVZJUThHcDJCcEIxYXhTRXJfcWR1b2JKTzlDaWNqeTNZOS1TYnpUc1BISTUyQUR1a2dCSkZycFJaNTNrWWZKd014UExHZnpfMWM?oc=5"
-          ]
-        },
-        {
-          "t": "OPEC Fund allocates financing for global development",
-          "src": "pan african visions",
-          "b": "The OPEC Fund approved 645,000,000 dollars in funding. This money aims to improve water security, support resilient transport, and foster economic growth. Various international regions will receive these financial resources for infrastructure development.",
-          "i": "The OPEC Fund authorized 645,000,000 dollars in financing designated for water security projects, resilient transport systems, and broader economic growth initiatives. This capital injection targets infrastructure resilience across developing member regions.",
-          "a": "The OPEC Fund committed 645,000,000 dollars toward sovereign and multilateral projects focused on water security, transport resilience, and macroeconomic expansion. The financing package expands the institution's ongoing developmental lending footprint across targeted emerging economies.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGJETFYzenhWclVGaHNkNS1ZNDc2T2ZJY0RqbHlaOWRMSXd6SklPUWtkakh0emo2dzhodnhSNWVGQXpNMEc4eUtKTWFVU0E5OUU2ZWxCRFFab0hwakF4Mi1jdEt0OFhxSU51T2IyZXNNVC1Nc2RaVkZBNVZ1NDdSOXlPS3FnakY1M0ZQU0I4MkhKS2ZyVi1rM0JfeUtZZjRMT2Q5YVN1aDR1OHkxVWFGdWpDSE1QSFNOODA1UEhJbU1wMmZVLWtqME1B?oc=5"
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3c1NjZYdXlkejkxdi1EMFpNV2plUGZnbEFfUmlQUVY2YVY1ajF2YzREbU5lS09TUk8yejlpS2JPNDh1Q2V4NHExVzdJSW1jRTVzcEQxMlEzZUdQWm80eDRpVW8tMTItY0F2dUE5QkFhc2tocEJDVUdsTDdRdGFwWW1seE81MUxaYlVueXRhOXJNU0puaHpKVnBNcGprc0pkd3FvWG5NVnA4QQ?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTTFHaHZNR0thTUNVQThaSk1oOXl5QUF4S0JIWi0ta1pia2FJZG9UN1JycFQ1ZDNwWXNjWkdLc0FSMWtpU1UwM2RiQlB1NF9yV3Vua1hZcFJQa0lfTmk4V0VYRE9waURnNGo4aTVjTzg1MzVyQWU1X1ZVQkxxRDJMT0N6cXhuMVg0Q3VhTzF4S3BNZWUzaFJ6ekZYZDVqdHpGMTI5eUZWbkxacXltelQyOHl2RXZUcnQxai1ZMmNJVmN5QWtnSzJLWVJBQjRnUdIB0wFBVV95cUxQdWY3dklSSERMWEFMcXFUOFRRUmFPNy1MdEkwLTAtcWNxRmM5eDdhcHY5WlNiRVhmX2VYNkx5emN0Rnc5ZUNYUU9iR0VFVkFXUjBXaUZyaG9oVnQ4c2M3V042VkRLWjZIc2ljUHEzWS12VFpDOWtGdFpvc1V2VGNPMnB0QXVsUU52UGZyZUJoQXpkZnI5ck1CWUlaN2F4and4YnRqWW9fWjhuNHNkQUhWd2djM0Z0Tnh1d3d0czZNQ1NvYmRRLWxTczN5YjJJOUhBYXFR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials in Riyadh faced coordinated attacks by Houthi forces using drones and missiles. State authorities responded to explosions and fires near critical petroleum and transport hubs. Saudi Aramco managed supply chains after physical infrastructure sustained damage.",
-        "i": "Saudi authorities confronted multiple Houthi aerial and missile assaults directed at the capital and energy infrastructure. The state oil entity adjusted crude export distributions following the physical disruption of pipeline assets. Emergency response teams mobilized around impacted locations in Riyadh and Yanbu.",
-        "a": "The Saudi state absorbed dual kinetic strikes from Houthi forces targeting metropolitan Riyadh and strategic energy assets. Operational contingencies at Saudi Aramco were tested as pipeline damage forced a temporary cessation of crude shipments to specific refiners. Security apparatuses maintained heightened alert statuses across critical industrial corridors."
+        "b": "The Houthis stated they targeted sensitive sites in the Saudi capital. Saudi Aramco installations in Yanbu were also listed in the group's claims. Official Saudi alerts preceded the announcements.",
+        "i": "Houthi spokesmen claimed responsibility for strikes on Riyadh and Saudi Aramco facilities in Yanbu. The strikes occurred after Saudi authorities issued warnings. Official statements confirmed the targeting of sensitive locations.",
+        "a": "Houthi actors claimed responsibility for coordinated drone and missile strikes against Riyadh and Saudi Aramco sites in Yanbu. The declarations followed active security alerts within the kingdom."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "The OPEC Fund approved 645 million dollars for water security and transport."
-        ],
-        [
-          "19 Sep 2026",
-          "Saudi Aramco halted crude supplies to Indian refiners after a pipeline attack."
-        ],
-        [
-          "19 Sep 2026",
-          "Houthi forces claimed missile and drone strikes on Riyadh and Aramco facilities."
+          "Saudi authorities issued alerts before Houthi forces claimed missile and drone attacks on Riyadh and Yanbu."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Dangote refinery IPO launch and currency movements",
+      "sub": "Dangote refinery IPO launches and currency policies align",
       "ind": [],
       "stories": [
         {
           "t": "Dangote Refinery Launches Share Sale",
           "src": "facebook.com",
-          "b": "A company called Dangote refinery started selling shares to the public this week. A share is a tiny piece of ownership in a business. This share sale became the biggest one in all of Africa. People can buy into the business with a small starting amount of 5,250 Nigerian naira, which is about $3.94.",
-          "i": "Dangote refinery launched its initial public offering this week, marking the largest share sale on the continent. The offering requires a minimum investment of 5,250 Nigerian naira, equal to $3.94.",
-          "a": "Dangote refinery initiated its public share offering this week, establishing the largest equity launch in Africa. The transaction set a low entry barrier with a minimum investment threshold of 5,250 Nigerian naira, or $3.94.",
+          "b": "Dangote refinery started a share sale this week. This is called an initial public offering, or IPO, which means a private company offers pieces of itself to the public for the first time. The minimum investment is five thousand two hundred and fifty Nigerian naira, or three dollars and ninety-four cents. This low price made it Africa's largest share sale. It also caused many online jokes about regular citizens turning into oil tycoons.",
+          "i": "Dangote refinery launched an initial public offering this week, marking Africa's largest share sale. Investors can participate with a minimum investment of 5,250 Nigerian naira, equivalent to $3.94. The accessible entry point drove widespread social media attention and memes depicting ordinary citizens transforming into oil magnates.",
+          "a": "Dangote refinery executed an initial public offering this week, establishing Africa's largest equity float. The issuance established a low retail barrier of 5,250 Nigerian naira, or $3.94, driving intense domestic participation and widespread retail engagement across digital platforms.",
           "links": [
             "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjc3bFEzVEtFcjNuVHVzQWV6dGZqWXJSZXFpZUNNdlktcFUxcmI4aWcxd1J6ZFJGWUNfakl0QmdTXzBTSXBObm9nZkVoNFdCMkpIS0dTTVRPQ3hiT1RLbFRrTHoxQ3QzQkd2cnUzTHZhdUVtWFFjVWNsYi10b3ZHR29YbjJvRUVLQWoyU1IxdDFBTkE3MWowMFlBc0FkYU1pZVQ2aGMwNVYzM0pFRmV1OVk1MDYxQjMzcm95NVhnSy1jVjJjTWVzdG15VFNGMHBVc1ZYMFFEd0xzRW1H?oc=5"
           ]
         },
         {
-          "t": "Official Currency Rate and Policy Coordination",
-          "src": "Business Post Nigeria · Proshare",
-          "b": "The national money of Nigeria, called the naira, held steady at an exchange rate of N1,331 for $1 at the official market. The Federal Ministry of Finance and the Central Bank of Nigeria signed an agreement to coordinate their economic policies better. An exchange rate tells you how much of one currency you need to buy another.",
-          "i": "The naira held steady at an exchange rate of N1,331 per $1 at the NAFEM window. The Federal Ministry of Finance and the Central Bank of Nigeria signed a memorandum of understanding to formalise fiscal and monetary policy coordination.",
-          "a": "The naira traded steady at N1,331 against the dollar at the NAFEM fixing. The Federal Ministry of Finance and the Central Bank of Nigeria formalised a memorandum of understanding focused on aligning fiscal and monetary policy mechanisms.",
+          "t": "Central Bank and Ministry Sign Coordination Deal",
+          "src": "Business Post Nigeria · Proshare · Tribune Online",
+          "b": "The Federal Ministry of Finance and the Central Bank of Nigeria signed a new memorandum of understanding. This agreement focuses on policy coordination between the two major financial bodies. Meanwhile, the naira held steady at one thousand three hundred and thirty-one naira per US dollar at the NAFEM market. The currency also showed appreciation against the dollar at the official foreign exchange market.",
+          "i": "The Federal Ministry of Finance and the Central Bank of Nigeria formalized a memorandum of understanding on policy coordination. Concurrently, the naira held steady at 1,331 per US dollar at NAFEM. The currency also recorded an appreciation against the dollar at the official foreign exchange market.",
+          "a": "The Federal Ministry of Finance and the Central Bank of Nigeria institutionalized an administrative framework via a memorandum of understanding on policy coordination. Simultaneously, the naira consolidated at 1,331 against the dollar at NAFEM while registering marginal gains in the broader official foreign exchange market.",
           "links": [
             "https://news.google.com/rss/articles/CBMie0FVX3lxTE93YUNxN1lKTE9zNEtnSkFzNklnckNnbE9FdlBvbVNGMEdhTEpXS1BIUkgzbXpHa0J3aGpQM2paemN5ZlpwRFptNGNtbFZmMmVUSXBucVVicm5PTURmaV81M29TamRwRm0tTDh6eUF1bWFSYkJDYXZabWtZRQ?oc=5",
-            "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZmd1UGVUTFNVTkNIUGdxM2ZWQlVqUU9BenI0WTEzNUxwdFh2SlJDS3BXVkJKRVJUcnFvcFpKRDdFU3MzaWlMNHZackFoTjBOem9vQ09pcFNDVW95NHdlY3ZQRFZJa3NaY0hwLU9PcjJsMm9kcjktMGN2U3lkLWY1VWJuX00xX2RxeEo1enFjNFVPNHZyUzlrUXhQU0VRNFVLMkdSbi0zbkVTV1pBbENiTXhmdjMyUUFBa1FweV9tZktUSF96UmpoVk9FRGxkV1ozX3JJMERlZHBUZHFfajg3cU1ZMXZ1akdUcjlXOHN3Rjd2cjR6RmdxZlhpd3B5Q283SEJIMQ?oc=5"
+            "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZmd1UGVUTFNVTkNIUGdxM2ZWQlVqUU9BenI0WTEzNUxwdFh2SlJDS3BXVkJKRVJUcnFvcFpKRDdFU3MzaWlMNHZackFoTjBOem9vQ09pcFNDVW95NHdlY3ZQRFZJa3NaY0hwLU9PcjJsMm9kcjktMGN2U3lkLWY1VWJuX00xX2RxeEo1enFjNFVPNHZyUzlrUXhQU0VRNFVLMkdSbi0zbkVTV1pBbENiTXhmdjMyUUFBa1FweV9tZktUSF96UmpoVk9FRGxkV1ozX3JJMERlZHBUZHFfajg3cU1ZMXZ1akdUcjlXOHN3Rjd2cjR6RmdxZlhpd3B5Q283SEJIMQ?oc=5",
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLUFKdVZ5dkpzVDJIdnJyMllsUC1ZV1FvN190bUJpdFVxeE5YcVAzbWF0WFJMdEtUZXdzVlhNWEdjS2xBeHVDcldiLXNMcjlnaTU2ZHBaLXRSU2E2WnRHckhYMGN3T3I2WFNJZjlzc0RzT1k4LVotZmRkNzNRUU1XdnAyd25zc0lCV2JmN3hB0gGTAUFVX3lxTE9yNUxVNURjQTdsNi0zMUhZVDNuYnE0aXhJSEdEeDJKLVhhYWdremNtbEpsa1JKbU1qWHZzR1g4WGFSam9LYWVNUVV4ZHk2dTVMYkp5dGMzaHByVTFIbVRNZTl5QXBpQlJyejFQc1NLZkN1TV8xMjI5SWttd3FXcjdiYjlmUzB2RDRFbHAxQTFqbHdvZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "A former government secretary in Anambra released a letter detailing the finances of Obi. A local dispute also emerged over a court project costing 50 million naira.",
-        "i": "A former Anambra government secretary released a letter concerning Obi's finances. A separate local dispute arose regarding a court project valued at 50 million naira.",
-        "a": "A former Anambra government secretary published correspondence concerning Obi's financial records. A separate administrative dispute surfaced over a 50 million naira court infrastructure project."
+        "b": "President Tinubu urged a faster rollout for compressed natural gas transport in the country.",
+        "i": "President Tinubu called for an accelerated deployment of compressed natural gas transport infrastructure.",
+        "a": "President Tinubu demanded expedited execution schedules for compressed natural gas transport adoption."
       },
       "timeline": [
         [
           "19 Sep 2026",
-          "Dangote refinery launched its IPO with a minimum investment of 5,250 Nigerian naira."
+          "Dangote refinery launched its initial public offering"
         ],
         [
           "19 Sep 2026",
-          "The Ministry of Finance and Central Bank signed an MoU on policy coordination."
+          "Finance ministry and central bank signed a policy coordination MoU"
         ],
         [
           "19 Sep 2026",
-          "The naira held steady at N1,331 per dollar at NAFEM."
+          "Naira traded at 1,331 per dollar at NAFEM"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Resource stock evaluations and corporate updates on the ASX",
+      "sub": "Resource company updates and exploration funding",
       "ind": [],
       "stories": [
         {
-          "t": "Sunrise Energy Metals and Westgold Resources Face ASX Valuations",
-          "src": "simplywall.st",
-          "b": "Sunrise Energy Metals trades at a price-to-book ratio of 29x after earnings. A price-to-book ratio compares a company's share price to its net assets per share, meaning a higher number can show a pricier stock. Westgold Resources looks 22% undervalued based on a three-year production outlook. Westgold Resources trades on the ASX under the ticker WGX. Sunrise Energy Metals trades on the ASX under the ticker SRL.",
-          "i": "Sunrise Energy Metals trades at a 29x price-to-book multiple following earnings results. Westgold Resources appears 22% undervalued when evaluated against its three-year production outlook. Market participants track these metrics on the ASX under tickers SRL and WGX respectively.",
-          "a": "Sunrise Energy Metals prints a 29x price-to-book multiple post-earnings, leaving the valuation fully priced on current book value metrics. Westgold Resources implies a 22% discount to intrinsic value based on a three-year production trajectory. Both equities trade on the ASX under tickers SRL and WGX.",
+          "t": "ActivEX reports funding needs across projects",
+          "src": "Kalkine",
+          "b": "ActivEX trades under the code AIV. The company explores for copper across multiple commodities. Funding remains a recurring question for the firm. The explorer manages a multi-commodity portfolio.",
+          "i": "ActivEX operates as a copper explorer facing recurring funding challenges. The company maintains a multi-commodity portfolio. Capital allocation remains central to the firm's ongoing exploration strategy.",
+          "a": "ActivEX addresses structural capital constraints across its multi-commodity portfolio. The copper explorer must resolve funding questions to advance its asset base. Market pricing reflects equity dilution risks inherent in junior explorer funding rounds.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPalZmMWxkTGV1NTRhdkswQkpkQVlnb3IzeXJtNHlmN2Jic3NyakxwRDRNNEJKcDQxOFhvT19DOVJnVjMySjdsdHlmMUMzcDU3NmJSbDJKcDJGejdPU2oyVFItNUFiZWtrNWF5Y085WDhxV0pxVjdVQXdCZW5KdHZHSWZSVDg0TW9iVmNmN0ZSQjdmbHZ6dHdORW4zWjlacWtJSHFJQWYtS0loV3N2V3dHcml5TzdNRVBxMVktQkRYb3ZPNW9OUEVmdFYzMkY0ZlNiVnVjMnZHbVA4YWl30gHiAUFVX3lxTE5vLWREMmZSczNvYVBsWk1GSzB3X3pEd0EyUWZnM1dUY1JYLVVGNkI2TzFQanlndDlzd0VxZGxMelJ0SjVLOGtGSS13NGpYcGt4U1FkRjlqemc1QjJybjYwdTVSS1JHTnJCQ3NNMUlnSHFQMlB4SEY0U0VPdTl6Um1MOUFVal9PM0kwSGUxeDNuZVJ1eDZjc0o5NTc2QS1FYXhZUTdkYmZ2SlV0ZS1WTm9WVlNEOWxXcDYzQmYwek1BUFlNcEhZZjY0a2wyQWlURTdWR0lmYkhOV0pYdXlRMG5IaWc?oc=5",
-            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnRfLTJESjQybzdVb0RfY2p5dFp3QjBTSWNVRlh5QTFDeFdKcENEU000dzAtb3dGeGRzV0tveW41a2I0X2tNRWt2RVBzYTJ0LTk5eXF2cUd3ekF4VW5GMXFIQ18yY2Z0cXBJRW56WkJ1dEZqd0MtMXJVcURQQ2RfaVU1VWl3NUdnNUd1X0Myd2FqMmIwNXFfbVdZRGhFSzNUWnhZNUI4cnRNa2Z6THpYUmFtTldrcGM3WmtUR1docVd4UDcyY1A1czhlSmVwTHVTSnpfakxLenPSAd4BQVVfeXFMTjNkSFZHTHl6S3MwVHYwWkg0SGRvX0RyZUQ5SS0yYWswQzI4MmUwUnlJS3ptUzNDeWpLeFRybEVRUUpIYTlPRS1aX1QtdEVpZndNVzA0MGF4MmxlNDVhb1ZkRUc0cEdNaGVxN0lVNEpveDZHcFhUMzJnM1htOGlhaklQeGhZckp6VTQ4aFR1YmRPRE9NQkQ0V0lEdzN2VWJXa3hHb1FYSlhpUTB4aGVJMDk2NC1WcXNSb1JvRkQ5blUwdFVqT3I3a1JSel9sV0x2UnFlT3g4cTlxUDlVd3lB?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTRkSTZIa3czcE9lY2k3MUZpMlU5cTFRWUw2X3czYnZCOGp3elAxSjVjM1JGdU4yRGQ2N003b0VUbmtjYlB5RjlYZm5JN3ZrU3BGZF80NUQ4U3pzZjdwMklpT1lGb0phY09kTXlZanRVWFZjSlpjT2VUVXVxVXJtaWpIcThDNG1sRGRhWHpCT0x3X3RMVGdpMU5RcVVwTk1sQlpJT1ItUkF5ZGlVcGdDbUZpalk1U1hLZm1US2N4QnNlTldxbWUzS1MyVQ?oc=5"
           ]
         },
         {
-          "t": "ActivEX and Andean Silver Provide Project and Funding Updates",
+          "t": "Andean Silver expands South American resource base",
           "src": "Kalkine",
-          "b": "ActivEX faces recurring funding questions across its copper and multi-commodity portfolio under ticker AIV. Andean Silver builds resources at the Cerro Bayo silver-gold project located in Chile under ticker ASL. Both companies operate as explorers and developers listed on the ASX.",
-          "i": "ActivEX confronts recurring capital constraints across its multi-commodity and copper portfolio under the ticker AIV. Andean Silver expands mineral resources at the Cerro Bayo silver-gold project within a Chilean district under ticker ASL. Both firms trade equity securities on the ASX.",
-          "a": "ActivEX navigates ongoing capital structure questions across its diversified copper and multi-commodity assets under ticker AIV. Andean Silver advances resource delineation at the Cerro Bayo silver-gold project situated in a productive Chilean jurisdiction under ticker ASL. Both mining entities maintain active listings on the ASX.",
+          "b": "Andean Silver trades under the ticker ASL. The firm develops the Cerro Bayo silver-gold project. This asset sits in a productive Chilean district. The project builds its resource inventory.",
+          "i": "Andean Silver advances the Cerro Bayo silver-gold project in Chile. The company expands its resource base within a productive mining district. Asset valuation depends on the grade and scale of the new resource estimates.",
+          "a": "Andean Silver expands its resource footprint at the Cerro Bayo silver-gold project. The Chilean district asset provides organic growth for the company's valuation. Market participants monitor resource conversion rates and metallurgical recoveries.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTRkSTZIa3czcE9lY2k3MUZpMlU5cTFRWUw2X3czYnZCOGp3elAxSjVjM1JGdU4yRGQ2N003b0VUbmtjYlB5RjlYZm5JN3ZrU3BGZF80NUQ4U3pzZjdwMklpT1lGb0phY09kTXlZanRVWFZjSlpjT2VUVXVxVXJtaWpIcThDNG1sRGRhWHpCT0x3X3RMVGdpMU5RcVVwTk1sQlpJT1ItUkF5ZGlVcGdDbUZpalk1U1hLZm1US2N4QnNlTldxbWUzS1MyVQ?oc=5",
             "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekFDWFM4ZEo4V1JMbjdmZXlKYkxjUWw2bTFHWnVtcTJ4bFJEeHRLd0RHNmJsZE5RUzBhSDFYYWVIcjZYdFh5azluYnlwdlE4R1RBMWdLaDdKYS1NVlNUdEhFNl9KbDBEdHdDdzBPWE53ckh0aXZKNVNYcU0ybTlLejlDWGpLQ0NXcmN6bi05NkZnOUt6T205bno5WlkzMFFRajZqYTdra3NsWXo1dUhpMHFXYUxFVFRLc190S0pzYjhmaWRkLTlaNnBTcEREZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "AGL Energy faces a High Court appeal bid that alters its investment narrative on the ASX. Market watchers track AGL under the ticker AGL. No other political updates were reported for Australian markets.",
-        "i": "AGL Energy confronts a High Court appeal bid that shifts its corporate investment narrative. Equity shares trade on the ASX under the ticker AGL. No further regulatory or political interventions occurred across the exchange.",
-        "a": "AGL Energy digests a High Court appeal petition that alters the corporate equity narrative. Shares continue trading on the ASX under the ticker AGL. Broader macro-political disclosures remained absent from exchange feeds."
+        "b": "Australian mining companies report earnings and resource updates. Explorers continue to raise capital for projects. Markets evaluate stock valuations across the sector.",
+        "i": "Resource equities on the ASX face scrutiny over capital adequacy and project valuations. Exploration firms balance funding risks against commodity exposure. Market pricing reflects distinct production outlooks.",
+        "a": "Australian resource equities trade against shifting commodity valuations and exploration milestones. Equity markets price capital structure risk alongside asset potential. Valuation multiples adjust to production guidance and reserve growth."
       },
       "timeline": [
         [
-          "19 Sep 2026",
-          "Sunrise Energy Metals reports a 29x price-to-book valuation following earnings."
+          "19 Sep",
+          "ActivEX outlines funding questions across its multi-commodity portfolio"
+        ],
+        [
+          "19 Sep",
+          "Andean Silver develops its Cerro Bayo silver-gold project resource"
         ]
       ]
     }
