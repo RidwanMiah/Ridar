@@ -1,707 +1,707 @@
 {
-  "generated": "2026-09-21T06:33:20.052Z",
+  "generated": "2026-09-21T08:27:21.367Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Foreign exchange",
-      "q": "Why did the U.S. Dollar Index climb back above 100?",
-      "o": [
-        "Because the Federal Reserve issued hawkish signals that increased expectations for further rate hikes.",
-        "Because the Bank of England lowered its benchmark interest rates significantly.",
-        "Because U.S. Treasury yields compressed following a loss by Jane Street.",
-        "Because foreign bank dollar sales exceeded corporate demand for the greenback."
-      ],
-      "a": 0,
-      "e": "Hawkish signals from the Federal Reserve push the dollar higher as market participants re-evaluate the probability of rate hikes. The other options describe events in the UK, US debt, or India that do not directly drive the global dollar index."
-    },
-    {
-      "lvl": "b",
       "tag": "United States of America · Fixed income",
-      "q": "What happened to U.S. Treasury yields when the Federal Reserve regained market trust?",
+      "q": "What happened to US Treasury yields according to the report?",
       "o": [
-        "They fell.",
-        "They rose sharply.",
-        "They remained unchanged.",
-        "They doubled."
+        "Treasury yields eased as global borrowing costs tumbled.",
+        "Treasury yields rose sharply due to domestic <span class='term' data-t='inflation'>inflation</span> spikes.",
+        "Treasury yields remained completely unchanged during the session.",
+        "Treasury yields doubled following emergency central bank interventions."
       ],
       "a": 0,
-      "e": "U.S. Treasury yields fell as the Federal Reserve regained market trust and duration demand returned. Yields move inversely to bond prices when demand increases."
+      "e": "The text states that Treasury yields ease as global borrowing costs tumble. The other options contradict this explicit market movement."
     },
     {
       "lvl": "b",
-      "tag": "United Kingdom · Regulatory oversight",
-      "q": "Why did the Bank of England and the U.S. Federal Reserve increase their scrutiny of large lenders?",
+      "tag": "United States of America · Regulation",
+      "q": "Which regulatory agencies issued updated guidance on bank core providers?",
       "o": [
-        "Following a $15bn loss incurred by Jane Street.",
-        "Because of a sudden drop in the FTSE All-World Index.",
-        "Due to new H-1B visa fee regulations in India.",
-        "Because Saudi Aramco suspended October oil supply shipments."
+        "The Federal Reserve, the FDIC, and the OCC.",
+        "The Securities and Exchange Commission and the Department of Justice.",
+        "Only the Federal Reserve acting alone.",
+        "The World Bank and the International Monetary Fund."
       ],
       "a": 0,
-      "e": "The regulatory inquiries into institutional counterparty risk and prime broker exposures followed a $15bn hit absorbed by Jane Street. The other events involve different markets and institutions."
+      "e": "The briefing explicitly notes that the Federal Reserve, the FDIC, and the OCC clarified bank core provider oversight. No other agencies are listed in this context."
     },
     {
       "lvl": "b",
-      "tag": "United Kingdom · Equity markets",
-      "q": "What action must passive tracking vehicles take when new international equities are added to the FTSE All-World Index?",
+      "tag": "United Kingdom · Equities",
+      "q": "How did the FTSE 100 index open at the start of the week?",
       "o": [
-        "Execute required reweighting trades to maintain benchmark replication parity.",
-        "Liquidate all holdings in Chinese energy storage providers.",
-        "Increase exposure to high-yield German property firms.",
-        "Sell all shares of Perpetual and Orora immediately."
+        "It opened 0.48% higher.",
+        "It opened 2.7% lower.",
+        "It opened exactly flat with zero movement.",
+        "It crashed by 15%."
       ],
       "a": 0,
-      "e": "Index updates require passive funds to adjust their portfolios through reweighting trades so they continue to match the benchmark index. The other options refer to specific company deletions or regional changes rather than standard index replication."
+      "e": "The briefing explicitly states that the FTSE 100 index opened 0.48% higher to begin the week's trading sessions."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Equity markets",
-      "q": "Which German firms recorded declines alongside broader DAX-led weakness?",
+      "tag": "United Kingdom · Banking",
+      "q": "What prompted the Bank of England and US Federal Reserve to initiate probes into global banks?",
       "o": [
-        "GEA, Vonovia, Deutsche Börse, Fresenius, and DHL.",
-        "Petrobras, Sempra, and Saudi Aramco.",
-        "Wipro, Coforge, and OFSS.",
-        "Perpetual, Orora, and Magellan Financial Group."
+        "A $15 billion loss suffered by Jane Street.",
+        "A sudden collapse of the oil market.",
+        "A new <span class='term' data-t='gilt'>bond</span> issuance by Zheshang Securities.",
+        "A regulatory change in the German DAX index."
       ],
       "a": 0,
-      "e": "The briefing explicitly notes that GEA, Vonovia, Deutsche Börse, Fresenius, and DHL moved lower following DAX-led weakness. The other companies belong to Brazil, India, or Australia."
+      "e": "The text notes that the inquiry follows a $15 billion loss suffered by Jane Street. The other options refer to unrelated events in different countries."
     },
     {
       "lvl": "b",
+      "tag": "Germany · Equities",
+      "q": "By how much did the DAX index open higher at the start of the session?",
+      "o": [
+        "0.89%",
+        "2.7%",
+        "0.48%",
+        "55%"
+      ],
+      "a": 0,
+      "e": "The briefing states that the DAX index opened 0.89% higher at the start of the session. The other figures belong to different assets or markets."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Equities",
+      "q": "Which specific German stock posted a 2.7 percent gain ahead of the wider market open?",
+      "o": [
+        "Infineon",
+        "Zheshang Securities",
+        "Petrobras",
+        "Daito Trust Construction"
+      ],
+      "a": 0,
+      "e": "The text notes that Infineon stock advanced by 2.7 percent on the Xetra platform ahead of the wider opening."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Currencies",
+      "q": "Near which level did the Japanese Yen hover against the US Dollar amid intervention anxieties?",
+      "o": [
+        "157.00",
+        "6.70",
+        "1,331.00",
+        "25,442.00"
+      ],
+      "a": 0,
+      "e": "The Japanese Yen maintains losses below the 157.00 threshold against the US Dollar according to the briefing."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Corporate finance",
+      "q": "How much new loan financing did Daito Trust Construction secure?",
+      "o": [
+        "105 billion yen",
+        "1.5 billion yuan",
+        "12.0 million Australian dollars",
+        "15 billion dollars"
+      ],
+      "a": 0,
+      "e": "The text explicitly states that Daito Trust Construction secured three loans totaling 105 billion yen."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Equities and currency",
+      "q": "What milestone did China A-shares market turnover surpass on September 21?",
+      "o": [
+        "2 trillion yuan",
+        "4.5 trillion yuan",
+        "21,000 yuan",
+        "15 billion yuan"
+      ],
+      "a": 0,
+      "e": "The briefing notes that total market turnover surpassed 2 trillion yuan as China A-shares closed higher."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Equities",
+      "q": "What happened to Unitree shares following their initial public offering gains?",
+      "o": [
+        "They dropped 55% from their peak.",
+        "They rose by an additional 55%.",
+        "They remained completely frozen.",
+        "They merged with Petrobras."
+      ],
+      "a": 0,
+      "e": "The text states that Chinese robot manufacturer Unitree dropped 55% from its peak as initial public offering gains evaporated."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Commodities",
+      "q": "What fuel subsidy program did Petrobras back?",
+      "o": [
+        "A new diesel subsidy scheme.",
+        "A natural gas export subsidy.",
+        "An electric vehicle charging grant.",
+        "A coal import tariff reduction."
+      ],
+      "a": 0,
+      "e": "The text states that Petrobras backed a new diesel subsidy scheme and entered the economic subsidy program supporting diesel."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Corporate",
+      "q": "Which company secured a ₹2,000 crore steel pipe contract from Saudi Aramco?",
+      "o": [
+        "An associate firm of Welspun Corp",
+        "Zheshang Securities",
+        "Nyrada",
+        "Daito Trust Construction"
+      ],
+      "a": 0,
+      "e": "The briefing states that Welspun Corp saw an associate firm secure a ₹2,000 crore steel pipe contract from Saudi Aramco."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Currencies",
+      "q": "At what level did the naira close as the foreign exchange market recorded a sharp decline?",
+      "o": [
+        "N1,331",
+        "157.00",
+        "6.70",
+        "25,442"
+      ],
+      "a": 0,
+      "e": "The briefing notes that the naira closed at N1,331 as the foreign exchange market recorded a sharp decline."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Macroeconomics",
+      "q": "Why did fiscal and monetary policy coordination deepen in Nigeria?",
+      "o": [
+        "As the country battles rising prices.",
+        "To prepare for a sudden currency peg removal.",
+        "Because foreign exchange reserves reached zero.",
+        "To fund a new robot manufacturing plant."
+      ],
+      "a": 0,
+      "e": "The text states that fiscal and monetary coordination deepened as the country battles rising prices."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equities",
+      "q": "How did the S&P/ASX 200 finish the session?",
+      "o": [
+        "Up 0.01%",
+        "Down 0.48%",
+        "Up 2.7%",
+        "Down 55%"
+      ],
+      "a": 0,
+      "e": "The briefing states that the S&P/ASX 200 finished the session up 0.01% as financial gains offset material and tech weakness."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Capital raising",
+      "q": "How much fresh capital did Nyrada secure through its placement and share purchase plan?",
+      "o": [
+        "A$12.0 million",
+        "A$5.125 million",
+        "A$2.0 million",
+        "A$42,100 crore"
+      ],
+      "a": 0,
+      "e": "The text explicitly states that Nyrada secured A$12.0 million in fresh capital via a placement and a share purchase plan."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Corporate debt",
+      "q": "What debt transaction did Zheshang Securities complete?",
+      "o": [
+        "A 1.5 billion yuan <span class='term' data-t='gilt'>bond</span> repayment.",
+        "A 105 billion yen loan agreement.",
+        "A A$12.0 million equity placement.",
+        "A ₹2,000 crore steel pipe order."
+      ],
+      "a": 0,
+      "e": "The briefing reports that Zheshang Securities completed a 1.5 billion yuan <span class='term' data-t='gilt'>bond</span> repayment."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Technical analysis",
+      "q": "At what level did the DAX bounce off a support level amid a head-and-shoulders technical pattern threat?",
+      "o": [
+        "25,442",
+        "25,697",
+        "157.00",
+        "1,331"
+      ],
+      "a": 0,
+      "e": "The DAX bounced off a support level at 25,442, while momentum subsequently stalled at 25,697."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did United States Treasury yields ease globally?",
+      "o": [
+        "International borrowing costs tumbled, prompting broader credit adjustments and portfolio reallocations.",
+        "The Federal Reserve lowered its benchmark interest rate to combat domestic inflation.",
+        "Commercial banks increased their holdings of sovereign debt due to new regulatory capital requirements.",
+        "Foreign central banks simultaneously sold their domestic assets to purchase dollar reserves."
+      ],
+      "a": 0,
+      "e": "Global borrowing costs tumbled, which compressed domestic term premia and altered cross-border capital flows. The text notes that sovereign yields ease as global borrowing costs tumble, reflecting international credit adjustments. The alternative choices introduce unmentioned central bank rate cuts or regulatory capital rules."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Regulation",
+      "q": "What is the primary regulatory vector of the new tri-agency guidance from the Federal Reserve, FDIC, and OCC?",
+      "o": [
+        "Operational resilience risks stemming from outsourced technological infrastructure and third-party core service providers.",
+        "Capital adequacy ratios for international investment banks holding high-risk derivative portfolios.",
+        "Foreign exchange exposure limits for commercial lenders operating during market closures.",
+        "Consumer lending transparency standards for retail credit card providers."
+      ],
+      "a": 0,
+      "e": "The agencies established tighter supervisory boundaries for third-party technology vendors to address operational resilience risks. The text states that the regulatory vector targets operational resilience risks stemming from outsourced technological infrastructure. The other options describe capital rules or lending standards not found in the briefing."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Equities",
+      "q": "What drove the FTSE 100 index higher at the start of the trading session?",
+      "o": [
+        "Crude oil benchmarks declined due to growing hopes surrounding Iran diplomacy.",
+        "A surprise interest rate cut by the Bank of England boosted banking equities.",
+        "Technology sector outperformance spilled over from continental European exchanges.",
+        "Major corporate earnings reports beat consensus expectations across multiple sectors."
+      ],
+      "a": 0,
+      "e": "Equity valuations found support as crude benchmarks declined following growing hopes surrounding Iran diplomacy. The briefing links the 0.48% open to slipping oil prices and diplomacy channels. Other options mention rate cuts or earnings which do not appear in the sources."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Banking",
+      "q": "Why did the Bank of England and the US Federal Reserve initiate a joint probe into global banks?",
+      "o": [
+        "To map counterparty credit risks across lending desks following a large draw-down experienced by Jane Street.",
+        "To investigate illegal foreign exchange market manipulation during holiday closures.",
+        "To assess compliance with new third-party technology vendor oversight regulations.",
+        "To evaluate the impact of rising sovereign debt yields on commercial bank balance sheets."
+      ],
+      "a": 0,
+      "e": "The supervisory pivot follows a $15 billion loss or draw-down suffered by Jane Street, prompting regulators to map counterparty credit risks across lending desks. The briefing ties the inquiry directly to this specific trading firm exposure. The other choices involve topics like FX manipulation or technology vendors."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Equities",
+      "q": "How did Infineon shares perform relative to the broader German stock exchange opening?",
+      "o": [
+        "They gained 2.7 percent on Xetra, preceding the wider cash equity open and DAX index opening bell.",
+        "They dropped 55% from their peak as post-IPO momentum reversed sharply.",
+        "They bounced off a support level at 25,442 under a head-and-shoulders threat.",
+        "They underperformed regional indices due to declining technology sector demand."
+      ],
+      "a": 0,
+      "e": "Infineon equity gained 2.7 percent on Xetra ahead of the broader cash equity open, preceding the wider DAX opening bell by a short margin. The text highlights this specific outperformance ahead of the main open. The other options refer to completely different companies or technical levels."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Technical Analysis",
+      "q": "What technical price action did the DAX encounter during the session?",
+      "o": [
+        "It bounced off a support level at 25,442 under a head-and-shoulders continuation threat before stalling at 25,697.",
+        "It breached a three-year high of 6.7 as real estate and shipping sectors rallied.",
+        "It fell 55% from its peak as initial public offering gains evaporated.",
+        "It closed marginally higher by 0.01% as financial lenders offset materials weakness."
+      ],
+      "a": 0,
+      "e": "The DAX tested downside limits by bouncing off 25,442 under a head-and-shoulders continuation threat, and momentum subsequently stalled at 25,697 against a primary resistance wall. The other choices mix up figures from Chinese equities or Australian benchmarks."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Currencies",
+      "q": "Why does Commerzbank frame policy delay as a primary transmission vector for sustained structural weakness in the Japanese Yen?",
+      "o": [
+        "Monetary policy delays fail to deter persistent short positioning and rising risks of carry trade unwinding.",
+        "Holiday closures in Tokyo prevent the central bank from executing direct foreign exchange interventions.",
+        "Corporate debt issuance absorbs domestic liquidity that would otherwise support the currency.",
+        "Lower sovereign debt returns alter duration risk calculations for institutional bondholders."
+      ],
+      "a": 0,
+      "e": "Commerzbank frames policy delay as the primary transmission vector for sustained structural weakness because verbal intervention fails to deter persistent short positioning and potential carry trade unwinding. The other options mention holiday closures or corporate debt, which do not explain Commerzbank's specific transmission vector."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Corporate Finance",
+      "q": "How did Daito Trust Construction fund its ongoing operations during the Tokyo holiday closures?",
+      "o": [
+        "By finalizing a 105 billion yen credit package via three separate loans despite Silver Week market closures.",
+        "By executing a 1.5 billion yen bond repayment and securing a municipal waste-to-energy tender.",
+        "By raising A$12.0 million in fresh capital via a placement and a share purchase plan.",
+        "By issuing a sub-¥20,000 mass-produced commercial robotics product."
+      ],
+      "a": 0,
+      "e": "Daito Trust Construction finalized a 105 billion yen credit package via three separate loans during the Silver Week market closure in Tokyo. The other options confuse this with Chinese bond repayments or Australian capital raises."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Equities and Currency",
+      "q": "What drove the yuan to a three-year high on September 21?",
+      "o": [
+        "Geopolitical catalysts overshadowed domestic fundamentals, causing the currency to appreciate independently of Federal Reserve rate adjustments.",
+        "A coordinated interest rate cut by domestic monetary authorities to support the real estate sector.",
+        "Mass-produced household robotics commercialisation boosting export revenues.",
+        "A massive influx of foreign portfolio capital following a successful Zheshang Securities bond repayment."
+      ],
+      "a": 0,
+      "e": "The currency appreciation to a three-year high occurred independently of Federal Reserve rate adjustments as geopolitical catalysts overshadowed domestic fundamentals. The text explicitly notes this independence from Fed policy. The other choices introduce unmentioned rate cuts or export revenues."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Corporate",
+      "q": "What market reaction followed the initial public offering gains of robot manufacturer Unitree?",
+      "o": [
+        "Shares retreated 55% from peak valuations as post-IPO momentum reversed sharply.",
+        "The firm secured multiple production sharing contracts offshore the Ivory Coast.",
+        "The company completed a 1.5 billion yuan bond redemption to stabilize liquidity.",
+        "Associated firms secured a ₹2,000 crore steel pipe contract from Saudi Aramco."
+      ],
+      "a": 0,
+      "e": "Unitree shares retreated 55% from peak valuations as post-IPO momentum reversed sharply, while sector peers pushed commercialisation boundaries. The other choices mix in oil contracts, bond redemptions, or steel orders from unrelated briefings."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Commodities",
+      "q": "What action did Petrobras take regarding the new diesel subsidy scheme?",
+      "o": [
+        "It formally entered the economic subsidy program supporting diesel after fuel payments reached $1.9bn.",
+        "It secured multiple production sharing contracts offshore the Ivory Coast alongside Petroci.",
+        "It finalised procurement hurdles for a pipe-laying support vessel tender.",
+        "It backed a A$12.0 million capital raise to fortify its balance sheet."
+      ],
+      "a": 0,
+      "e": "Petrobras formally entered the new economic subsidy program supporting diesel after total fuel payments reached $1.9bn. The other choices reference offshore contracts or Australian capital raises."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Energy",
+      "q": "How did Welspun Corp shares react after an associate firm secured a steel pipe contract from Saudi Aramco?",
+      "o": [
+        "They surged as much as 5%, outrunning broker targets and elevating the firm's total order book to ₹42,100 crore.",
+        "They opened 0.48% higher following a retreat in global crude benchmarks.",
+        "They advanced by 2.7 percent ahead of the broader cash equity open on Xetra.",
+        "They registered a sharp decline as broad dollar strength neutralized central bank interventions."
+      ],
+      "a": 0,
+      "e": "Welspun Corp shares surged as much as 5% following the ₹2,000 crore order win from Saudi Aramco, pushing its total order book to ₹42,100 crore. The other options attribute share moves to German tech stocks, British oil dynamics, or Nigerian currencies."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Currencies",
+      "q": "Why did the Nigerian naira record a sharp decline to close at N1,331 in the foreign exchange market?",
+      "o": [
+        "Broad dollar strength neutralised the central bank's interventions, softening the previous bullish outlook.",
+        "Fiscal and monetary authorities failed to synchronise their institutional levers to manage aggregate demand.",
+        "Global borrowing costs tumbled, altering duration risk calculations for institutional bondholders.",
+        "Tokyo market closures triggered carry trade unwinding across emerging market currencies."
+      ],
+      "a": 0,
+      "e": "The naira recorded a sharp decline because broad dollar strength neutralised the central bank's interventions, softening the previous bullish outlook. The other choices incorrectly attribute the currency move to uncoordinated fiscal policy, global bond yields, or Tokyo market closures."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Equities",
+      "q": "What drove the S&P/ASX 200 to finish the session marginally higher by 0.01% despite tech and mining weakness?",
+      "o": [
+        "Gains in financial lenders and insurance counters absorbed selling pressure elsewhere.",
+        "A A$12.0 million capital raise injected vital liquidity into the issuer's developmental runway.",
+        "Strong demand for municipal waste-to-energy tenders boosted regional index valuations.",
+        "Corporate debt issuance and syndicated bank borrowings remained active despite holiday closures."
+      ],
+      "a": 0,
+      "e": "Financials and insurance counters absorbed selling pressure elsewhere, providing upward momentum that offset weakness in materials and technology sectors. The other options refer to Nyrada's capital raise, Chinese municipal tenders, or Japanese corporate debt."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Capital Markets",
+      "q": "How did Nyrada fund its A$12.0 million capital raise without recourse to debt markets?",
+      "o": [
+        "Through a placement and a share purchase plan, underpinned by a A$5.125 million commitment from the board.",
+        "By securing three separate loans totalling 105 billion yen during a market closure.",
+        "By executing a 1.5 billion yuan bond repayment alongside a municipal waste-to-energy contract.",
+        "By entering an economic subsidy program after fuel payments hit $1.9bn."
+      ],
+      "a": 0,
+      "e": "Nyrada completed its capital raise via a placement and a share purchase plan, underpinned by a A$5.125 million commitment from the board, injecting liquidity without recourse to debt markets. The other choices mention Japanese loans, Chinese bond repayments, or Brazilian fuel subsidies."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Corporate Finance",
+      "q": "What financial transaction did Zheshang Securities execute alongside municipal developments in Zhejiang?",
+      "o": [
+        "It executed a 1.5 billion yuan debt redemption, while Zhejiang Weiming secured a municipal waste-to-energy tender.",
+        "It secured three loans totaling 105 billion yen during the Silver Week market closure.",
+        "It raised A$12.0 million in fresh capital via a placement and a share purchase plan.",
+        "It finalised production sharing contracts offshore Ivory Coast alongside Petroci."
+      ],
+      "a": 0,
+      "e": "Zheshang Securities executed a 1.5 billion yuan debt redemption while Zhejiang Weiming Environment Protection secured a 281 million yuan municipal waste-to-energy tender. The other choices reference Japanese corporate loans, Australian share plans, or African oil contracts."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Macroeconomics",
+      "q": "Why did Nigerian authorities deepen fiscal and monetary policy coordination?",
+      "o": [
+        "To confront persistent inflation pressures by synchronising institutional levers and managing aggregate demand.",
+        "To offset the sharp decline in the foreign exchange market caused by broad dollar strength.",
+        "To regulate outsourced technological infrastructure and third-party core service providers.",
+        "To target a 4.5 trillion yuan output value for the domestic grain sector under food security mandates."
+      ],
+      "a": 0,
+      "e": "Fiscal and monetary policy coordination deepened as authorities confronted persistent inflation pressures, synchronising institutional levers to manage aggregate demand and anchor macroeconomic stability. The other options misattribute the coordination to foreign exchange interventions, US bank regulators, or Chinese grain targets."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Equities",
+      "q": "What broader European market momentum influenced the DAX opening 0.89% higher?",
+      "o": [
+        "Regional indices such as the STOXX 600 registered gains, driven by technology sector outperformance.",
+        "Crude oil benchmarks surged on growing hopes surrounding Iran diplomacy channels.",
+        "Major global banks reported counterparty credit risks after drawing down $15 billion.",
+        "Central banks launched joint probes into trading firm exposures across lending desks."
+      ],
+      "a": 0,
+      "e": "The DAX opened 0.89% higher by tracking broader European momentum in the STOXX 600, with technology sector outperformance driving the regional advance. The other choices mention oil benchmark surges, bank probes, or credit risk exposures which do not align with the German equity opening."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Fixed income",
+      "q": "What implied assumption underpins the transmission of global borrowing costs to domestic Treasury yields?",
+      "o": [
+        "Foreign central bank rate paths remain aligned with domestic liquidity expectations.",
+        "Domestic credit growth outpaces international capital flows.",
+        "Term premia decouple entirely from cross-border capital allocations.",
+        "Term structure shifts operate independently of foreign monetary policy."
+      ],
+      "a": 0,
+      "e": "The text states that the trajectory relies on foreign central bank rate paths remaining aligned with domestic liquidity expectations. If this assumption breaks, the transmission mechanism altering duration risk calculations would falter. The other options contradict the stated reliance on cross-border capital and foreign rate paths."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Banking regulation",
+      "q": "How does tri-agency regulatory guidance alter the market dynamics for third-party core service providers?",
+      "o": [
+        "It narrows arbitrage opportunities between banking charters by increasing compliance overhead.",
+        "It completely eliminates outsourced technological infrastructure across all institutions.",
+        "It reduces operational resilience risks by removing third-party vendors from the audit cycle.",
+        "It lowers compliance overhead to expand vendor options for depository institutions."
+      ],
+      "a": 0,
+      "e": "The guidance increases compliance overhead for core dependencies, which narrows arbitrage opportunities between banking charters. The other choices misstate the direction of regulatory impact, which tightens oversight rather than removing vendors or lowering overhead."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Equities",
+      "q": "What drove equity valuations higher for the FTSE 100 index at the start of the session?",
+      "o": [
+        "Crude benchmarks declined due to shifting sentiment around Iran diplomacy channels.",
+        "Global central banks announced coordinated interest rate cuts.",
+        "Direct intervention in foreign exchange markets weakened domestic currency.",
+        "Banking exposures to non-bank financial intermediaries were completely resolved."
+      ],
+      "a": 0,
+      "e": "Equity valuations found support as crude benchmarks declined, tracking shifting sentiment around Iran diplomacy channels. The other choices involve monetary policy or foreign exchange events not cited as drivers for this specific equity opening move."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Banking regulation",
+      "q": "What triggered the joint regulatory probe by the Bank of England and the US Federal Reserve into global banking exposures?",
+      "o": [
+        "A $15 billion draw-down experienced by Jane Street.",
+        "A 0.48% drop in the FTSE 100 index.",
+        "A 55% peak valuation correction in robotics manufacturing.",
+        "A 105 billion yen credit package finalisation."
+      ],
+      "a": 0,
+      "e": "The supervisory pivot follows a $15 billion draw-down experienced by Jane Street. This non-bank financial intermediary loss prompted regulators to map counterparty credit risks across lending desks."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Equities",
+      "q": "What primary factor drove the regional advance in the STOXX 600 alongside the DAX opening?",
+      "o": [
+        "Technology sector outperformance drove the regional advance.",
+        "Mass-produced robotics commercialisation boosted industrial output.",
+        "Sovereign debt repayments lowered regional borrowing costs.",
+        "Diesel subsidy programs expanded across European markets."
+      ],
+      "a": 0,
+      "e": "Technology sector outperformance drove the regional advance, matching the 2.7 percent gain in Infineon and broader European momentum. The other options cite unrelated industry developments from different jurisdictions."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Technical analysis",
+      "q": "How do technical traders utilise the 25,442 and 25,697 price thresholds on the DAX?",
+      "o": [
+        "They assess these technical thresholds to price short-term directional bias against pattern threats.",
+        "They calculate the long-term dividend yield of component technology shares.",
+        "They determine the exact compliance overhead for third-party technology vendors.",
+        "They measure the capital adequacy ratio of banking institutions."
+      ],
+      "a": 0,
+      "e": "Traders assess these technical thresholds—bouncing off support at 25,442 and stalling at resistance of 25,697 under a head-and-shoulders threat—to price short-term directional bias. The other choices reference corporate finance or regulatory concepts unrelated to technical chart boundaries."
+    },
+    {
+      "lvl": "a",
       "tag": "Japan · Foreign exchange",
-      "q": "Why does the USD/JPY exchange rate maintain a ceiling on its bearish momentum?",
+      "q": "What primary transmission vector drives sustained structural weakness in the Japanese Yen according to Commerzbank?",
       "o": [
-        "Ongoing intervention warnings from Japanese authorities.",
-        "A sudden surge in German pre-market equity losses.",
-        "The suspension of Saudi oil shipments to Europe.",
-        "An increase in the H-1B visa fee."
+        "Monetary policy delays sustain persistent short positioning below the 157.00 threshold.",
+        "Corporate debt issuance during the Silver Week market closure.",
+        "Syndicated bank borrowings replacing foreign exchange reserves.",
+        " Domestic grain production targets altering capital flows."
       ],
       "a": 0,
-      "e": "Japanese authorities monitor the market closely and intervention threats persist to support the currency, which creates a ceiling on bearish momentum for the pair. The other choices involve unrelated regional economic events."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Equities and commodities",
-      "q": "What primary driver lifted regional equity indices across Asia?",
-      "o": [
-        "Broad technology sector strength driven by semiconductor demand for artificial intelligence applications.",
-        "Lower grain industry output values projected across China.",
-        "An increase in benchmark interest rates by the Bank of England.",
-        "Higher fuel payments made through the Petrobras subsidy program."
-      ],
-      "a": 0,
-      "e": "Share markets across Asia climbed as technology and chip shares advanced, driven specifically by artificial intelligence demand. The other options describe negative pressures, commodities, or policy changes elsewhere."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Foreign exchange",
-      "q": "How did the People's Bank of China manage volatility at the start of the trading session when the yuan reached a three-year high?",
-      "o": [
-        "By guiding the daily fixing stronger.",
-        "By suspending oil supply shipments to Europe.",
-        "By lowering the Nifty IT sectoral index.",
-        "By increasing visa fees for technology firms."
-      ],
-      "a": 0,
-      "e": "The People's Bank of China set the daily reference rate stronger at the opening of the trading session to manage currency volatility. The other choices are unrelated operational actions."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Sectoral output",
-      "q": "What target did China project for its grain industry annual output value across the 2026 to 2030 period?",
-      "o": [
-        "To exceed 4.5 trillion yuan.",
-        "To reach exactly 18.7 trillion yuan.",
-        "To remain below 2,000 crore rupees.",
-        "To hit $15 billion."
-      ],
-      "a": 0,
-      "e": "China projected its grain industry annual output value to exceed 4.5 trillion yuan through 2026-2030. The other figures belong to Nigerian revenue, Indian corporate contracts, or trading losses."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Technology sector",
-      "q": "Why did India's Nifty IT sectoral index drop 0.7% in Monday trading?",
-      "o": [
-        "Because of the return of the $100,000 H-1B visa fee.",
-        "Because foreign bank dollar sales offset corporate demand.",
-        "Because Saudi Aramco awarded a steel pipes contract to Welspun Corp.",
-        "Because Perpetual exited the FTSE All World Index."
-      ],
-      "a": 0,
-      "e": "The renewed $100,000 H-1B visa fee exerts immediate downward pressure on export-oriented technology firms, causing the index drop. Currency sales, Saudi pipe orders, and Australian index deletions did not cause this technology sector decline."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Foreign exchange",
-      "q": "What provided a tailwind for the Indian rupee to edge higher against the dollar?",
-      "o": [
-        "Equity market gains and declining crude oil prices.",
-        "An increase in H-1B visa fees.",
-        "Higher shipping rates for pipeline support vessels.",
-        "Passive fund outflows from global benchmarks."
-      ],
-      "a": 0,
-      "e": "Spot rupee edged higher supported by foreign bank dollar sales, equity market gains, and declining crude oil prices. Visa fees and passive outflows create downward or disruptive pressures rather than currency tailwinds."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Energy and subsidies",
-      "q": "What multi-decade agreement did Petrobras execute alongside joining an economic subsidy framework?",
-      "o": [
-        "A 20-year liquefied natural gas off-take agreement with Sempra.",
-        "A pipeline laying support vessel tender with Paratus and Vantris.",
-        "A steel pipe supply contract with Saudi Aramco.",
-        "A technology share offering scheduled for October 6."
-      ],
-      "a": 0,
-      "e": "Petrobras signed a 20-year contract with Sempra to secure liquefied natural gas supplies while joining the subsidy program. The vessel tender and Saudi pipe contract involve completely different corporate entities."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Exploration",
-      "q": "What triggered formal community concerns regarding Petrobras operations?",
-      "o": [
-        "Oil exploration activities in Amapá.",
-        "The christening ceremony of a chartered vessel in Rio de Janeiro.",
-        "A 20-year off-take agreement signed with Sempra.",
-        "Aggregate fuel payments hitting $1.9bn."
-      ],
-      "a": 0,
-      "e": "Exploration initiatives in Amapá generated formal community concerns as noted alongside its vessel tender updates. Ceremonies, LNG contracts, and fuel payments did not cause these specific regional community reactions."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Corporate contracts",
-      "q": "Why did Welspun Corp shares rally up to 5%?",
-      "o": [
-        "An associate unit secured a large steel pipes contract valued at Rs 2,000 crore from Saudi Aramco.",
-        "The firm launched a $5 billion initial public offering on the Australian exchange.",
-        "Saudi Aramco suspended its October crude oil supply allocations to Europe.",
-        "The company joined the FTSE All-World Index as a new equity inclusion."
-      ],
-      "a": 0,
-      "e": "Welspun Corp shares advanced following a Rs 2,000 crore steel pipe supply contract awarded to its unit by Saudi Aramco. The other choices involve an Australian IPO, European oil suspensions, or index changes."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What action did Saudi Aramco take regarding its crude oil supply to Europe for October?",
-      "o": [
-        "It suspended supply shipments.",
-        "It increased allocations by 5 billion dollars.",
-        "It transferred all export operations to Sempra.",
-        "It replaced oil shipments with liquefied natural gas."
-      ],
-      "a": 0,
-      "e": "Saudi Aramco suspended its October crude oil supply allocations to Europe, causing market participants to recalibrate supply expectations. The firm did not increase allocations or switch products."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Fiscal data",
-      "q": "What happened to the real purchasing power of the N18.7trn half-year revenue collected in Nigeria?",
-      "o": [
-        "It was eroded by subsequent currency devaluation.",
-        "It doubled due to rising crude oil prices in global markets.",
-        "It was fully offset by foreign bank dollar sales.",
-        "It was converted into grain industry output value."
-      ],
-      "a": 0,
-      "e": "Subsequent currency devaluation eroded the real purchasing power of the collections, creating a disconnect between nominal fiscal inflows and real returns. Oil prices and dollar sales do not explain this domestic fiscal devaluation."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Index rebalancing",
-      "q": "Why did Perpetual, Orora, Domino's Pizza Enterprises, and Magellan Financial Group experience forced selling?",
-      "o": [
-        "Because they exited the FTSE All World Index after failing specific liquidity or size criteria.",
-        "Because they failed to secure an H-1B visa approval for technology staff.",
-        "Because Petrobras cancelled its pipeline laying support vessel tenders.",
-        "Because the Bank of England raised benchmark interest rates."
-      ],
-      "a": 0,
-      "e": "Global benchmarks drop local equities from portfolios when they fail specific liquidity or size criteria, triggering forced selling from passive vehicles tracking the index. The other options refer to completely unrelated international corporate or regulatory updates."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Primary markets",
-      "q": "What primary market activity did Firmus schedule for October 6?",
-      "o": [
-        "A $5 billion initial public offering.",
-        "A Rs 2,000 crore steel pipe supply contract.",
-        "A 20-year liquefied natural gas off-take agreement.",
-        "A N18.7trn aggregate revenue handle posting."
-      ],
-      "a": 0,
-      "e": "Firmus scheduled a $5 billion initial public offering for October 6 according to term sheet disclosures. The other choices describe industrial supply deals, energy contracts, or government revenue collections."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Foreign exchange",
-      "q": "Why did the U.S. Dollar Index move back above 100 according to market reports?",
-      "o": [
-        "Hawkish signals from the Federal Reserve drove shifting terminal rate expectations and supported front-end rate differentials.",
-        "The Bank of England left its benchmark rates unchanged, causing capital to flood into American assets.",
-        "Global equity indices suffered broad losses, forcing investors to liquidate foreign holdings for cash.",
-        "U.S. Treasury yields compressed as the Federal Reserve regained market trust among foreign central banks."
-      ],
-      "a": 0,
-      "e": "Hawkish signals from the central bank alter front-end rate differentials, which directly impacts the greenback's valuation. The Bank of England's hold was a separate event that removed cross-market volatility rather than driving the dollar above 100."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Fixed income",
-      "q": "How did U.S. Treasury yields react to the Federal Reserve's actions alongside the Bank of England's decision?",
-      "o": [
-        "U.S. Treasury yields compressed as the Federal Reserve regained credibility and duration demand returned.",
-        "Treasury yields spiked as investors demanded higher compensation for policy uncertainty.",
-        "Long-term yields rose sharply due to hawkish rate hike signals from the central bank.",
-        "Yields remained entirely flat because the Bank of England matched the Federal Reserve's rate level."
-      ],
-      "a": 0,
-      "e": "Restored market trust and returning duration demand caused U.S. Treasury yields to compress. This occurred while the Bank of England left benchmark rates unchanged."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Regulatory oversight",
-      "q": "What prompted the Bank of England and the U.S. Federal Reserve to escalate scrutiny of large lenders?",
-      "o": [
-        "A $15bn loss incurred by Jane Street triggered inquiries into prime broker exposures and hidden leverage.",
-        "The introduction of new FTSE All-World Index inclusions created massive settlement failures across prime brokerages.",
-        "Massive retail withdrawals forced central banks to audit cross-border balance sheets for liquidity gaps.",
-        "An unexpected interest rate hike by the Bank of England broke institutional counterparty agreements."
-      ],
-      "a": 0,
-      "e": "The $15bn hit absorbed by Jane Street exposed hidden leverage within prime brokerage networks, prompting regulators to examine margin thresholds and counterparty risk."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Equity markets",
-      "q": "What operational requirement do passive tracking vehicles face following FTSE All-World Index modifications?",
-      "o": [
-        "They must execute required reweighting trades to maintain benchmark replication parity.",
-        "They are legally mandated to liquidate all holdings in newly included firms after thirty days.",
-        "They must short the new constituents to offset index-level distribution pressures.",
-        "They need to convert their underlying assets into domestic currency denominations."
-      ],
-      "a": 0,
-      "e": "When an index adds new listings, passive tracking vehicles must execute reweighting trades to ensure their portfolio matches the benchmark composition. This prevents tracking error."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equity markets",
-      "q": "Why did German listings such as GEA and Vonovia register pre-market losses?",
-      "o": [
-        "They reflected ongoing index-level distribution anchored by DAX benchmark weakness.",
-        "The Federal Reserve issued hawkish rate signals that directly devalued European manufacturing margins.",
-        "Supply chain disruptions in Amapá restricted raw material shipments to German factories.",
-        "New regulatory margin thresholds forced institutional investors to sell German blue chips."
-      ],
-      "a": 0,
-      "e": "The pre-market losses were part of broad downward pressure anchored by the DAX benchmark and index-level distribution, rather than direct policy shocks from the Federal Reserve."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Foreign exchange",
-      "q": "What mechanism currently prevents aggressive bearish momentum on the USD/JPY pair despite technical moving averages?",
-      "o": [
-        "Ongoing intervention warnings and monitoring from Japanese authorities create a ceiling on bearish momentum.",
-        "The People's Bank of China setting a stronger daily reference rate for regional currencies.",
-        "A massive surge in Brent crude oil prices that artificially strengthens the Japanese yen.",
-        "Direct asset purchases of domestic equities by the Bank of Japan to support the currency."
-      ],
-      "a": 0,
-      "e": "Japanese authorities maintain constant pressure through intervention warnings, which caps bearish momentum even when technical indicators imply further upside for the pair."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Equity markets",
-      "q": "What primary demand driver propelled regional equity indices higher across Asia?",
-      "o": [
-        "Artificial intelligence applications and semiconductor demand drove the technology sector rally.",
-        "A sudden suspension of oil supply shipments to Europe by major crude exporters.",
-        "Substantial economic subsidy programs implemented by Petrobras in overseas markets.",
-        "Aggressive interest rate cuts by the Bank of Japan across all ASEAN member states."
-      ],
-      "a": 0,
-      "e": "Technology sector strength led by semiconductor demand for artificial intelligence applications lifted regional equity indices, offsetting oil price declines."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Foreign exchange",
-      "q": "How did the People's Bank of China manage yuan volatility ahead of the leadership summit between Trump and Xi?",
-      "o": [
-        "It guided the daily fixing stronger at the opening of the trading session.",
-        "It completely floated the exchange rate by removing all daily currency trading bands.",
-        "It executed emergency bilateral currency swaps with foreign commercial banks.",
-        "It raised domestic interest rates to offset capital outflows from state-owned enterprises."
-      ],
-      "a": 0,
-      "e": "The central bank managed volatility by setting the daily reference rate stronger at the opening of the session, signaling policy intentions to market participants."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Commodities",
-      "q": "What impact did Beijing HyperStrong Technology's inclusion in the FTSE All-World Index have on financial flows?",
-      "o": [
-        "It triggered rebalancing flows from institutional trackers, broadening international equity exposure.",
-        "It forced long-term sectoral grain output projections to surpass 4.5 trillion yuan.",
-        "It caused passive funds to liquidate domestic energy storage providers entirely.",
-        "It created an immediate liquidity shortage across Chinese commercial lending desks."
-      ],
-      "a": 0,
-      "e": "Index membership expansion automatically triggered portfolio adjustments and rebalancing flows from institutional trackers, broadening international exposure to the firm."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Technology sector",
-      "q": "Why did export-oriented technology firms in India experience immediate downward margin pressure?",
-      "o": [
-        "The renewed $100,000 H-1B visa fee directly impacted operating margins for firms reliant on international deployment.",
-        "Foreign bank dollar sales flooded the domestic market, inflating the value of local tech revenues.",
-        "The Nifty IT sectoral index was removed from global benchmarks due to low liquidity.",
-        "Crude oil price spikes increased electricity costs for software development centers."
-      ],
-      "a": 0,
-      "e": "The specific policy shift involving the high visa fee directly targets operating margins for firms deploying staff internationally, leading to an immediate sector drop."
-    },
-    {
-      "lvl": "i",
-      "tag": "India · Foreign exchange",
-      "q": "What counterbalanced persistent corporate dollar demand to support the appreciation of the Indian rupee?",
-      "o": [
-        "Foreign bank dollar sales, supported by equity market gains and declining crude oil prices.",
-        "A massive influx of capital from the $5 billion initial public offering on the local exchange.",
-        "Direct foreign exchange intervention by the central bank to maintain a fixed currency peg.",
-        "An unexpected rate hike by the Bank of England that reduced cross-border volatility."
-      ],
-      "a": 0,
-      "e": "Foreign bank dollar sales offset corporate demand, while declining crude oil prices and equity gains provided a helpful tailwind for the local currency."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Energy sector",
-      "q": "What strategic agreement did Petrobras execute alongside its participation in the economic subsidy program?",
-      "o": [
-        "A 20-year liquefied natural gas off-take agreement with Sempra.",
-        "A joint venture with Paratus and Vantris for pipeline laying support vessels.",
-        "A multi-billion dollar float on the Australian securities exchange.",
-        "An agreement to supply crude oil shipments directly to European refiners."
-      ],
-      "a": 0,
-      "e": "Petrobras executed a 20-year LNG off-take agreement with Sempra at the same time it joined the framework for fuel payments and economic subsidies."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Shipping and exploration",
-      "q": "What operational milestone did the Paratus and Vantris joint venture achieve with Petrobras?",
-      "o": [
-        "It cleared a technical hurdle in the pipeline laying support vessel tender.",
-        "It finalized a multi-decade LNG supply contract in Rio de Janeiro.",
-        "It resolved all formal community concerns regarding exploration initiatives in Amapá.",
-        "It completed the christening ceremony for an inaugural chartered oil vessel."
-      ],
-      "a": 0,
-      "e": "The joint venture cleared the technical hurdle in the pipeline laying support vessel tender, advancing its position with the energy firm."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Industrial supply",
-      "q": "How did the market react when Welspun Corp's associate unit secured a steel pipes contract from Saudi Aramco?",
-      "o": [
-        "Welspun Corp shares rallied up to 5%, expanding an already substantial order book.",
-        "Saudi Aramco suspended all October oil supply shipments to European markets.",
-        "Passive equity funds tracking global benchmarks automatically divested their holdings.",
-        "The Nifty IT sectoral index dropped to reflect rising industrial infrastructure costs."
-      ],
-      "a": 0,
-      "e": "The large contract added to an already substantial order book, causing the firm's equity price to rally up to 5% following the announcement."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What action did Saudi Aramco take regarding its October shipments to Europe?",
-      "o": [
-        "It suspended its crude oil supply allocations, prompting market participants to reassess export recovery trajectories.",
-        "It increased steel pipe orders to support regional infrastructure development projects.",
-        "It permanently capped production to stabilize global oil prices against central bank rate hikes.",
-        "It redirected all surplus petroleum products into domestic fuel subsidy programs."
-      ],
-      "a": 0,
-      "e": "The state-backed entity suspended its October crude oil supply allocations to Europe, forcing observers to recalibrate their supply expectations."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Fiscal policy",
-      "q": "Why was there a significant disconnect between nominal fiscal inflows and real returns in Nigeria's half-year revenue data?",
-      "o": [
-        "Subsequent currency devaluation eroded the real purchasing power of the collections.",
-        "Tightened monetary coordination by the central bank artificially suppressed aggregate tax collection.",
-        "Passive index rebalancing forced state authorities to divest their foreign currency reserves.",
-        "Falling global crude oil prices reduced the nominal output value of grain industries."
-      ],
-      "a": 0,
-      "e": "Although the Federation Account Allocation Committee posted a large nominal revenue handle, subsequent currency devaluation eroded the real purchasing power of those funds."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Equity markets",
-      "q": "Why did firms like Perpetual and Orora experience forced selling and subsequent valuation discounts?",
-      "o": [
-        "They failed specific liquidity or size criteria, causing passive funds tracking the FTSE All World Index to divest.",
-        "They announced large-scale initial public offerings that flooded the primary market with new shares.",
-        "They were impacted by the renewed $100,000 H-1B visa fee levied on international deployment.",
-        "They suffered heavy losses after prime brokerages tightened margin thresholds following a trading firm default."
-      ],
-      "a": 0,
-      "e": "Global benchmarks drop local equities when they fail liquidity or size criteria, triggering automated selling from passive tracking vehicles that results in valuation discounts."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Primary markets",
-      "q": "What does Firmus's scheduled initial public offering on October 6 represent for the local financial exchange?",
-      "o": [
-        "A substantial liquidity event that expands primary market depth and tests institutional appetite for large-cap tech listings.",
-        "An emergency capital injection to offset forced selling from passive index rebalancing funds.",
-        "A direct cross-border merger designed to counteract domestic currency devaluation pressures.",
-        "A regulatory compliance measure mandated by central bank inflation-fighting coordination frameworks."
-      ],
-      "a": 0,
-      "e": "The multi-billion dollar float represents a substantial liquidity event that expands primary market depth and tests institutional appetite for large-cap technology listings on the exchange."
+      "e": "Commerzbank frames policy delay as the primary transmission vector for sustained structural weakness, failing to deter persistent short positioning against the US Dollar. The other choices confuse corporate credit transactions with macroeconomic currency drivers."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Fixed income",
-      "q": "What mechanism primarily drove the U.S. Dollar Index back above 100 according to the market reports?",
+      "tag": "Japan · Corporate debt",
+      "q": "What characterised Daito Trust Construction's financing activity during the Tokyo market closure?",
       "o": [
-        "Front-end rate differentials supporting the greenback due to hawkish Federal Reserve signals.",
-        "An unexpected expansion in U.S. Treasury duration demand reducing short-term yields.",
-        "Large-scale foreign bank dollar sales counteracting domestic corporate demand.",
-        "Passive fund rebalancing flows following adjustments to international equity composites."
+        "Corporate debt demands remained active via three separate loans totalling 105 billion yen.",
+        "Equity issuance replaced all existing liabilities to eliminate debt service costs.",
+        "Direct foreign exchange intervention reduced overall borrowing requirements.",
+        "Cross-border capital flows compressed domestic term premia."
       ],
       "a": 0,
-      "e": "Hawkish signals from the Federal Reserve altered terminal rate expectations and drove front-end rate differentials that supported the greenback above 100. Treasury yield compression occurred separately as market trust returned, rather than being the direct driver of the dollar index surge."
+      "e": "Daito Trust Construction finalized a 105 billion yen credit package via three separate loans during the Silver Week market closure, showing corporate debt demands remained active despite FX pressures."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Financial regulation",
-      "q": "What systemic risk channels are regulators investigating following Jane Street's $15bn loss?",
+      "tag": "China · Equities and currency",
+      "q": "What dynamic drove the yuan past the 6.7 threshold to a three-year high on September 21?",
       "o": [
-        "Margin thresholds and liquidity contagion across cross-border balance sheets within prime brokerage networks.",
-        "Foreign portfolio investor concentration limits within regional currency swap agreements.",
-        "Passive index tracking errors resulting from forced divestment of international equities.",
-        "Sectoral margin compression driven by export-oriented visa fee implementations."
+        "Geopolitical catalysts overshadowed domestic fundamentals, occurring independently of Federal Reserve rate adjustments.",
+        "Immediate monetary easing by the US Federal Reserve injected liquidity into Asian markets.",
+        "A massive wave of stock buybacks executed by technology sector manufacturers.",
+        "Regulatory tightening of banking core service providers across domestic institutions."
       ],
       "a": 0,
-      "e": "Regulatory oversight targeted hidden leverage within prime brokerage networks servicing proprietary trading desks, focusing specifically on margin thresholds and liquidity contagion across cross-border balance sheets. The other options refer to equity rebalancing, currency flows, or trade policy rather than prime broker counterparty risk."
+      "e": "The yuan breached the 6.7 threshold as geopolitical catalysts overshadowed domestic fundamentals, occurring independently of Federal Reserve rate adjustments. The other options incorrectly attribute currency appreciation to US rate cuts or domestic corporate actions."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Equity markets",
-      "q": "Why must passive tracking vehicles execute specific trades when the FTSE All-World Index incorporates new listings?",
+      "tag": "China · Corporate finance",
+      "q": "What operational challenge are robotics manufacturers actively testing in the wake of Unitree's post-IPO price retreat?",
       "o": [
-        "To maintain benchmark replication parity by adjusting their portfolios to include the newly added equities.",
-        "To capture valuation discounts created by forced selling from peer institutional funds.",
-        "To offset currency devaluation impacts on nominal half-year revenue collections.",
-        "To counteract the margin compression caused by rising cross-border counterparty risk."
+        "Consumer demand elasticity to validate sustainable revenue models for household robotics.",
+        "Counterparty credit risk exposures across international lending desks.",
+        "Commercial debt repayment schedules under municipal waste-to-energy contracts.",
+        "Foreign exchange intervention thresholds against speculative short positioning."
       ],
       "a": 0,
-      "e": "When global composite benchmarks add listings like Beijing HyperStrong Technology or Montage Technology, passive tracking vehicles must execute required reweighting trades to maintain benchmark replication parity. The other choices misattribute index mechanics to currency adjustments or unrelated regulatory probes."
+      "e": "Manufacturers are actively testing consumer demand elasticity to validate sustainable revenue models for household robotics following the peak valuation reversal of Unitree shares. The other choices refer to banking probes, debt tenders, or currency markets."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Equity markets",
-      "q": "What characterized the pre-market session for German equities across the Xetra platform?",
+      "tag": "Brazil · Commodities",
+      "q": "What preceded Petrobras entering the new economic subsidy program supporting diesel?",
       "o": [
-        "Broad pre-market losses anchored by DAX-led weakness, including contractions in GEA and Vonovia.",
-        "Substantial gains driven by artificial intelligence demand and semiconductor manufacturing.",
-        "Increased volatility resulting from central bank intervention threats and currency stabilization.",
-        "Sharp inflows prompted by index inclusion announcements from the FTSE All-World benchmark."
+        "Total fuel payments reached $1.9bn prior to the formal endorsement.",
+        "Production sharing contracts were finalized offshore Ivory Coast.",
+        "Pipe-laying support vessel procurement hurdles were cleared.",
+        "Domestic grain output targets were established for 2030."
       ],
       "a": 0,
-      "e": "Listings registered broad pre-market losses anchored by the DAX benchmark, featuring a 1.2% pullback in GEA and a 1.6% contraction in Vonovia alongside secondary issues moving lower. This reflects index-level distribution rather than tech sector rallies or intervention-driven currency moves."
+      "e": "Total fuel payments reached $1.9bn prior to the formal endorsement of the diesel subsidy scheme by Petrobras. The other options describe separate offshore operations and procurement milestones."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Foreign exchange",
-      "q": "How do ongoing intervention warnings from Japanese authorities impact USD/JPY price action?",
+      "tag": "Saudi Arabia · Energy infrastructure",
+      "q": "What financial impact did the Saudi Aramco contract win have on Welspun Corp?",
       "o": [
-        "They create a ceiling on bearish momentum while technical stabilization above key moving averages implies further upside continuation.",
-        "They compress front-end rate differentials and force passive equity funds to liquidate local holdings.",
-        "They accelerate spot depreciation toward a three-year peak ahead of upcoming leadership summits.",
-        "They directly eliminate cross-border capital flow pressures impacting ASEAN units like the ringgit."
+        "It elevated the firm's total order book to ₹42,100 crore as shares surged up to 5%.",
+        "It triggered a 1.3% gain in Saudi Aramco shares ahead of the market open.",
+        "It reduced the company's reliance on steel pipe manufacturing inputs.",
+        "It triggered a cross-border regulatory probe into non-bank financial intermediaries."
       ],
       "a": 0,
-      "e": "Ongoing intervention warnings create a ceiling on bearish momentum for the currency pair, which sustains a position above its 20-day exponential moving average. The combination of technical stabilization and institutional positioning implies continuation probabilities rather than currency depreciation or equity liquidation."
+      "e": "The substantial steel pipe award from Saudi Aramco elevated the firm's total order book to ₹42,100 crore and caused shares to surge up to 5%. The other answers confuse the vendor's stock reaction with the buyer's share movement or unrelated regulatory actions."
     },
     {
       "lvl": "a",
-      "tag": "China · Foreign exchange",
-      "q": "What policy action did the People's Bank of China take to manage volatility at the start of the trading session?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What market force drove the naira to decline to N1,331 in the foreign exchange market?",
       "o": [
-        "It guided the daily fixing stronger as spot appreciation accelerated toward a three-year peak.",
-        "It suspended crude oil supply allocations to Europe to suppress domestic inflation vectors.",
-        "It established a multi-decade liquefied natural gas off-take framework with Sempra.",
-        "It enforced strict margin thresholds across prime brokerage networks servicing proprietary desks."
+        "Broad dollar strength neutralised the central bank's interventions and softened the previous bullish outlook.",
+        "Aggressive fiscal tightening completely eliminated consumer price inflation pressures.",
+        "Synchronised institutional monetary levers stabilized aggregate demand instantly.",
+        "International credit adjustments compressed domestic term premia."
       ],
       "a": 0,
-      "e": "The People's Bank of China guided the daily reference rate stronger at the opening of the session to manage volatility as the yuan climbed to a three-year high ahead of bilateral meetings. The other choices involve commodity contracts, energy supplies, or banking regulations entirely outside central bank fixing policy."
+      "e": "Broad dollar strength neutralised the central bank's interventions, softening the previous bullish outlook and causing the naira to decline to N1,331. The other choices describe fiscal coordination or global bond dynamics rather than the stated dollar strength."
     },
     {
       "lvl": "a",
-      "tag": "China · Commodities and indices",
-      "q": "What market reaction was triggered by Beijing HyperStrong Technology securing inclusion in the FTSE All-World Index?",
+      "tag": "Australia · Equities",
+      "q": "How did sector divergence shape the final session movement of the S&P/ASX 200 index?",
       "o": [
-        "Rebalancing flows from institutional trackers that automatically adjusted their portfolios to include the new shares.",
-        "A downward valuation adjustment reflecting an 11% discount to estimated fundamental value.",
-        "Immediate margin calls across prime brokerage networks servicing high-volume market participants.",
-        "A sharp contraction in sector output projections for the 2026 to 2030 period."
+        "Financials and insurance counters absorbed selling pressure to offset weakness in tech and mining components.",
+        "Energy sector outperformance entirely offset the collapse of banking counterparty credit desks.",
+        "Foreign exchange intervention neutralized selling pressure in materials and technology.",
+        "Corporate debt issuance provided liquidity that outweighed mining sector declines."
       ],
       "a": 0,
-      "e": "Index membership expansion triggered rebalancing flows from institutional trackers that automatically adjusted portfolios to include the newly added shares. This contrasts with index deletions, which typically induce valuation discounts and forced selling."
+      "e": "Financials and insurance counters absorbed selling pressure elsewhere, allowing the benchmark to finish marginally higher by 0.01% despite underperformance in tech and mining components. The other choices involve mismatched actors or incorrect mechanisms."
     },
     {
       "lvl": "a",
-      "tag": "India · Technology sector",
-      "q": "What transmission channel connected the renewed $100,000 H-1B visa fee to the performance of Indian technology shares?",
+      "tag": "Australia · Corporate finance",
+      "q": "What structural benefit did Nyrada achieve through its A$12.0 million capital raise?",
       "o": [
-        "Direct downward pressure on operating margins for export-oriented firms reliant on international deployment.",
-        "A sharp contraction in foreign portfolio investor capital flows supporting the local currency.",
-        "Compelled divestment by passive index trackers following benchmark liquidity rebalancing.",
-        "Increased debt financing costs stemming from joint monetary and fiscal policy tightening."
+        "It injected vital liquidity into the issuer's developmental runway without recourse to debt markets.",
+        "It eliminated counterparty credit risk across international banking lending desks.",
+        "It secured municipal waste-to-energy contracts under official food security mandates.",
+        "It hedged against foreign exchange depreciation pressures during market closures."
       ],
       "a": 0,
-      "e": "The policy shift directly impacts operating margins for firms reliant on international deployment, causing the Nifty IT sectoral index to decline. This is a direct operational cost rather than a passive index rebalancing effect or a macro currency flow."
+      "e": "The funding injects vital liquidity into the issuer's developmental runway without recourse to debt markets, combining board backing with a share purchase plan. The other options refer to banking probes, municipal tenders, or currency markets."
     },
     {
       "lvl": "a",
-      "tag": "India · Foreign exchange",
-      "q": "What primary market dynamics supported the spot rupee in opening higher against the dollar?",
+      "tag": "China · Debt and commodities",
+      "q": "What specific corporate action did Zheshang Securities execute alongside regional municipal developments?",
       "o": [
-        "Foreign bank dollar sales offsetting corporate demand, aided by equity market gains and declining crude oil prices.",
-        "Intervention warnings from central authorities creating a firm ceiling on bearish currency momentum.",
-        "Substantial capital inflows from multi-billion dollar initial public offerings scheduled on the local exchange.",
-        "A sharp upward adjustment in benchmark lending rates by the central bank to suppress inflation."
+        "A 1.5 billion yuan debt redemption.",
+        "A 55% initial public offering valuation correction.",
+        "A 105 billion yen credit package finalisation.",
+        "A 2.7 percent equity gain on the Xetra platform."
       ],
       "a": 0,
-      "e": "Foreign bank dollar sales countered persistent corporate demand while equity market gains and declining crude oil prices provided a tailwind for the rupee. The other options describe currency mechanisms in other regions, such as yen intervention warnings or upcoming equity floats."
+      "e": "Zheshang Securities executed a 1.5 billion yuan debt redemption, while Zhejiang Weiming secured a waste-to-energy tender. The other choices cite European equity moves, Japanese credit packages, or Chinese tech IPO corrections."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Energy and subsidies",
-      "q": "What broader market visibility consequences followed Petrobras executing its long-term agreements?",
+      "tag": "Germany · Equities",
+      "q": "What preceded the wider DAX index opening bell by a short margin regarding Infineon shares?",
       "o": [
-        "Sempra shares captured heightened visibility in export markets following the 20-year liquefied natural gas off-take agreement.",
-        "Petrobras shares dropped sharply as aggregate fuel payments surpassed $1.9bn under the economic subsidy framework.",
-        "Seagems faced immediate community opposition in Amapá following joint venture pipeline tender clearances.",
-        "Global index providers deleted regional listings due to failure of specific liquidity and size criteria."
+        "Infineon equity gained 2.7 percent on Xetra, catching relative strength alongside sector peers.",
+        "The STOXX 600 index registered losses due to a spike in crude oil benchmarks.",
+        "Regulators launched a joint probe into global bank lending exposures.",
+        "Daito Trust Construction finalised a three-loan credit package."
       ],
       "a": 0,
-      "e": "Sempra stock gained visibility and captured heightened attention in export markets as a direct result of the multi-decade commitment from Petrobras. The other options misstate the direction of asset performance or incorrectly link operational ventures to index exclusions."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Energy markets",
-      "q": "How did market participants react to Saudi Aramco suspending its October crude oil supply allocations to Europe?",
-      "o": [
-        "They began recalibrating supply expectations amid ongoing assessments of regional export recovery trajectories.",
-        "They immediately re-evaluated prime broker exposures to major trading firms following counterparty risk spikes.",
-        "They adjusted passive tracking vehicles to account for deleted energy sector equities.",
-        "They priced in lower terminal interest rates due to falling commodity prices globally."
-      ],
-      "a": 0,
-      "e": "Market participants are actively recalibrating supply expectations while assessing the broader recovery trajectories of Saudi exports after the suspension of October shipments to Europe. This supply shock is distinct from banking counterparty risk investigations or passive equity index adjustments."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Industrial supply",
-      "q": "What drove the share price appreciation of Welspun Corp following its associate unit's recent contract award?",
-      "o": [
-        "A Rs 2,000 crore steel pipe supply contract from Saudi Aramco that expanded an existing order book standing at ₹42,100 crore.",
-        "The successful finalization of a multi-billion dollar initial public offering on the local exchange.",
-        "An increase in half-year revenue collections driven by nominal fiscal inflows.",
-        "Passive fund rebalancing following inclusion in the FTSE All-World Index benchmark."
-      ],
-      "a": 0,
-      "e": "Welspun Corp shares rallied up to 5% after its associate unit secured a large steel pipes contract from Saudi Aramco, adding to an already substantial order book of ₹42,100 crore. This commercial expansion is unrelated to public equity floats or fiscal revenue collections."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Fiscal policy",
-      "q": "What disconnect was illustrated by the Federation Account Allocation Committee half-year revenue data in Nigeria?",
-      "o": [
-        "The divergence between nominal fiscal inflows of N18.7trn and real exchange-rate-adjusted returns eroded by currency devaluation.",
-        "The mismatch between rising consumer price index pressures and stagnating benchmark interest rates.",
-        "The gap between passive fund tracking portfolios and the actual liquidity criteria of global equity benchmarks.",
-        "The variance between foreign bank dollar sales and persistent corporate demand for foreign exchange."
-      ],
-      "a": 0,
-      "e": "Subsequent currency devaluation eroded the real purchasing power of the N18.7trn aggregate revenue collections, illustrating a clear disconnect between nominal fiscal inflows and real exchange-rate-adjusted returns. The other options describe unrelated monetary, currency, or index phenomena."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Index rebalancing",
-      "q": "What valuation impact did index deletions have on firms like Perpetual after failing specific liquidity or size criteria?",
-      "o": [
-        "Forced selling from passive vehicles tracking the FTSE All World benchmark pushed Perpetual to trade at an 11% discount to its estimated fundamental value.",
-        "Immediate operational margin compression reduced export-oriented revenues across primary technology listings.",
-        "A sharp rise in domestic currency purchasing power offset nominal revenue devaluations.",
-        "Enhanced institutional appetite led to significant pre-market share price expansions."
-      ],
-      "a": 0,
-      "e": "Global benchmarks drop local equities that fail liquidity or size criteria, triggering forced selling from passive vehicles that leaves affected firms like Perpetual trading at an 11% valuation discount. This structural outflow dynamic is distinct from operating margin pressures or currency adjustments."
-    },
-    {
-      "lvl": "a",
-      "tag": "Australia · Primary markets",
-      "q": "What primary market significance does Firmus scheduling its $5 billion initial public offering for October 6 carry?",
-      "o": [
-        "It expands primary market depth and tests institutional appetite for large-cap technology listings on the local exchange.",
-        "It forces automated index trackers to divest existing portfolio holdings due to size criteria failures.",
-        "It provides a multi-decade liquidity off-take framework for global liquefied natural gas suppliers.",
-        "It establishes a coordinated fiscal and monetary policy toolkit to suppress regional inflation."
-      ],
-      "a": 0,
-      "e": "Primary market depth expands as Firmus schedules its multi-billion dollar float, directly testing institutional appetite for large-cap technology listings. This primary issuance is entirely separate from index deletion sell-offs, energy off-take pacts, or central bank inflation policy."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Fixed income",
-      "q": "Why did U.S. Treasury yields compress concurrently with the Bank of England leaving benchmark rates unchanged?",
-      "o": [
-        "The Federal Reserve regained market trust and duration demand returned, removing a source of cross-market volatility.",
-        "Front-end rate differentials widened rapidly to push the U.S. Dollar Index above 100.",
-        "Prime brokerage networks unwound hidden leverage across cross-border balance sheets.",
-        "Passive equity vehicles executed required reweighting trades to maintain replication parity."
-      ],
-      "a": 0,
-      "e": "U.S. Treasury yields compressed as the Federal Reserve regained credibility and duration demand returned, while the Bank of England pausing its rates removed a source of cross-market volatility and helped adjust the yield curve. The other choices reference separate dollar appreciation drivers or equity rebalancing events."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Regional equities",
-      "q": "What primary drivers supported the regional equity rally across Asian share markets?",
-      "o": [
-        "Technology and chip share advances driven by artificial intelligence demand for semiconductor applications.",
-        "Aggressive foreign bank dollar sales offsetting corporate demand in foreign exchange markets.",
-        "Long-term sectoral grain industry output projections exceeding 4.5 trillion yuan.",
-        "Joint fiscal and monetary policy synchronisation aimed at suppressing core inflation."
-      ],
-      "a": 0,
-      "e": "Share markets across Asia climbed as technology and chip shares advanced, specifically powered by artificial intelligence demand for semiconductor applications. This regional equity strength occurred alongside a slip in oil benchmarks, distinguishing it from currency interventions or grain output targets."
+      "e": "Infineon equity gained 2.7 percent on Xetra ahead of the broader cash equity open, preceding the wider DAX index opening bell by a short margin alongside sector peers. The other choices contradict the positive tech sector momentum."
     },
     {
       "lvl": "a",
       "tag": "Nigeria · Monetary policy",
-      "q": "What is the primary operational goal of the tightening coordination framework between Nigerian monetary and fiscal authorities?",
+      "q": "What institutional response accompanied the persistent price pressures faced by Nigerian authorities?",
       "o": [
-        "To suppress inflation and anchor price stability through joint supply and demand management of structural price vectors.",
-        "To maintain benchmark replication parity for passive tracking vehicles following international equity index updates.",
-        "To counter persistent corporate foreign exchange demand via targeted foreign bank dollar sales.",
-        "To enforce strict margin thresholds and eliminate counterparty risk across prime brokerage networks."
+        "Fiscal and monetary policy coordination deepened as policymakers synchronised institutional levers.",
+        "Official intervention directly targeted foreign exchange short positioning below threshold limits.",
+        "Central banks initiated joint probes into non-bank financial intermediary exposures.",
+        "Regulatory agencies established tighter supervisory boundaries for third-party technology vendors."
       ],
       "a": 0,
-      "e": "Monetary and fiscal authorities are tightening coordination frameworks specifically to suppress inflation, aiming to anchor price stability through joint supply and demand management and addressing structural price vectors. The other options apply to passive index tracking, foreign exchange interventions, or broker margin rules."
+      "e": "Fiscal and monetary policy coordination deepened as authorities confronted persistent inflation pressures, with policymakers synchronising institutional levers. The other options reference US banking regulation, Japanese FX intervention, or global bank probes."
     }
   ]
 }
