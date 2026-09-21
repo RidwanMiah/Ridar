@@ -1,532 +1,510 @@
 {
-  "generated": "2026-09-21T14:28:40.320Z",
+  "generated": "2026-09-21T15:27:49.802Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "21 September 2026",
-    "headline": "Major stock indices advanced as Treasury yields and oil prices fell while global central banks investigated trading firm exposures.",
+    "headline": "The Bank of Japan raised borrowing costs to 1.25% as the Federal Reserve faced policy warnings and US-UK regulators launched joint bank probes.",
     "lede": {
-      "b": "Stock markets rose because government borrowing costs and oil prices dropped. When borrowing costs drop, investors pay higher prices for company shares. At the same time, central banks in the United Kingdom and the United States started an inquiry into financial losses at a trading firm named Jane Street. Officials want to understand the hidden risks when traditional banks lend money to leveraged trading firms. Saudi Aramco also stopped sending oil to European refineries after a pipeline attack.",
-      "i": "Global equity indices advanced as Treasury <span class='term' data-t='gilt'>yields</span> and petroleum costs declined, reducing corporate expenses and discount rates. Concurrently, the Bank of England and the Federal Reserve launched a joint inquiry into bank exposures following significant financial losses at Jane Street. Regulators are probing counterparty credit risks tied to funding leveraged trading operations. In energy markets, Saudi Aramco suspended crude deliveries to European refineries after a pipeline attack.",
-      "a": "Equities rallied across major benchmarks as lower sovereign <span class='term' data-t='gilt'>yields</span> compressed equity discount rates and falling oil prices alleviated input cost pressures. Simultaneously, the Bank of England and the Federal Reserve initiated a joint probe into counterparty credit exposures following substantial trading losses at Jane Street. This regulatory scrutiny targets the interconnected risks of traditional lenders funding highly leveraged market makers. Meanwhile, Saudi Aramco halted European crude shipments in response to a physical pipeline assault."
+      "b": "The Bank of Japan raised its main policy rate, which is the interest rate central banks charge commercial banks, to 1.25%. This caused the Japanese yen to drop in value against other currencies. Meanwhile, Federal Reserve officials in the United States warned that controlling rising prices, known as inflation, will prove painful. Regulators in the UK and the US also started joint probes into bank trading exposures following a big loss at a firm named Jane Street.",
+      "i": "The Bank of Japan adjusted its policy rate to 1.25%, prompting a slide in the yen and heightening <span class='term' data-t='carry'>carry</span> trade risks. Across the Atlantic, Federal Reserve officials warned that combatting <span class='term' data-t='inflation'>inflation</span> may require aggressive tightening. Simultaneously, UK and US regulators launched joint probes into counterparty risk following a major trading loss at Jane Street.",
+      "a": "The Bank of Japan hiked rates to 1.25%, precipitating yen depreciation toward intervention thresholds and threatening <span class='term' data-t='carry'>carry</span> trade unwinds. Concurrently, Federal Reserve officials signaled more aggressive monetary tightening paths to combat persistent <span class='term' data-t='inflation'>inflation</span> risks. In regulatory developments, authorities in London and Washington initiated joint counterparty probes following significant trading losses at Jane Street."
     },
     "items": [
       {
+        "c": "Japan",
+        "b": "The Bank of Japan raised its policy rate to 1.25%, which weakened the yen.",
+        "i": "The Bank of Japan adjusted its policy rate to 1.25%, triggering a slide in the yen.",
+        "a": "The Bank of Japan lifted its policy rate to 1.25%, generating downward yen pressure."
+      },
+      {
         "c": "United States of America",
-        "b": "The S&P 500 and Nasdaq 100 rose as bond yields fell, though Federal Reserve official Goolsbee warned that strong demand might keep price increases high.",
-        "i": "The S&P 500 and Nasdaq 100 advanced as Treasury yields fell, while Fed official Goolsbee cited robust demand as a driver of domestic inflation.",
-        "a": "Major indices rose on declining Treasury yields, while Goolsbee noted that robust economic demand risks compounding persistence in domestic inflation."
+        "b": "Federal Reserve officials warned that fighting inflation will likely be painful.",
+        "i": "Federal Reserve officials warned that combatting inflation may require aggressive action.",
+        "a": "Federal Reserve officials issued warnings regarding aggressive monetary policy requirements."
       },
       {
         "c": "United Kingdom",
-        "b": "The FTSE 100 rose as falling oil prices reduced costs, while the Bank of England and the Federal Reserve began a joint investigation into trading firm exposures.",
-        "i": "The FTSE 100 gained as lower petroleum values eased inflation, while the Bank of England and Fed probed bank exposures to Jane Street.",
-        "a": "The FTSE 100 extended gains on falling petroleum costs, while the Bank of England and Fed probed systemic counterparty credit risks linked to Jane Street losses."
-      },
-      {
-        "c": "Germany",
-        "b": "European stocks rose as lower oil prices eased price pressures, but the Bundesbank warned that high energy costs will keep inflation high and slow down growth.",
-        "i": "European equities rose on falling oil prices, whereas the Bundesbank warned that energy costs and healthcare reforms will keep inflation elevated.",
-        "a": "European stocks advanced as falling crude alleviated inflation fears, even as the Bundesbank flagged third-quarter growth headwinds from energy and healthcare."
-      },
-      {
-        "c": "Japan",
-        "b": "The yen slipped as the Bank of Japan checked rates before a holiday, and Takaichi scheduled talks with Donald Trump about Japanese investment in the US.",
-        "i": "The yen slipped as the Bank of Japan conducted rate checks, while Takaichi prepared US investment talks with Donald Trump.",
-        "a": "The yen softened ahead of intervention risks and a central bank rate check, while Takaichi scheduled bilateral investment dialogues with Donald Trump."
+        "b": "The Bank of England and the US Federal Reserve began a joint probe after a trading loss at Jane Street.",
+        "i": "Regulators at the Bank of England and Federal Reserve probed bank exposures after Jane Street posted a trading loss.",
+        "a": "UK and US regulators initiated joint counterparty risk probes following a major trading loss at Jane Street."
       }
     ],
     "thread": {
-      "b": "Falling oil prices and lower bond yields helped stock markets rise across several regions today. Central banks also stayed active by checking rates, managing liquidity, and launching joint investigations into financial risks. Saudi Aramco halted oil deliveries to Europe following a pipeline attack.",
-      "i": "Declining oil prices and lower sovereign yields supported equity gains across multiple regions. Regulatory bodies concurrently addressed financial stability via joint bank probes and liquidity operations. Saudi Aramco suspended European crude deliveries after a physical pipeline attack.",
-      "a": "Cross-border equity rallies found support in falling crude values and compressed sovereign yields. Regulatory coordination intensified via joint central bank probes into leveraged counterparty credit exposures. Saudi Aramco simultaneously halted European crude deliveries following a pipeline assault."
+      "b": "Central banks and financial regulators took action across multiple countries today. Policymakers adjusted interest rates and launched joint investigations into trading risks.",
+      "i": "Central bank policy adjustments and regulatory interventions dominated cross-border monetary developments. Monetary authorities balanced domestic inflation pressures against external currency and risk exposures.",
+      "a": "Global monetary authorities balanced aggressive policy signaling with sudden risk management probes. Cross-border supervisory bodies coordinated counterparty evaluations while domestic central banks recalibrated benchmark rates."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Stock indices rise as Treasury yields and oil prices fall",
+      "sub": "US market targets and Federal Reserve policy warnings",
       "ind": [],
       "stories": [
         {
-          "t": "Major indices rise as bond yields slip",
-          "src": "Investing.com · qz.com",
-          "b": "The S&P 500 and the Nasdaq 100 rose as government borrowing costs dropped. Treasury yields are the returns paid on government debt, which often dictate wider borrowing rates. Oil prices also fell during the session. These falling costs encouraged investors to buy more shares. The S&P 500 tested resistance at 7,838.",
-          "i": "The S&P 500 and the Nasdaq 100 advanced as Treasury <span class='term' data-t='gilt'>yields</span> and oil prices declined. Lower yields reduce discount rates for equities, prompting a broad rally across major benchmarks. Resistance levels appeared at 7,838 for the S&P 500 and 30,405 for the Nasdaq 100. Market participants noted that overall market breadth remained weak despite the headline gains.",
-          "a": "Equities pushed higher as sovereign debt yields eased and crude benchmarks declined, though internal market participation showed persistent divergence. The S&P 500 encountered technical resistance at 7,838 alongside bull trap warnings, while the Nasdaq 100 tested overbought levels at 30,405. These moves reflect shifting duration pricing rather than uniform capital inflows across all sectors.",
-          "gloss": "gilt",
+          "t": "Federal Reserve Officials Issue Warnings on Federal Reserve Policy",
+          "src": "Seattle Post-Intelligencer · ft.com",
+          "b": "Federal Reserve officials discuss the state of the economy. A Federal Reserve official states that fighting <span class='term' data-t='inflation'>inflation</span>, which is the rising cost of everyday goods, will likely prove painful. Another official adds that the central bank's response may need to become more aggressive.",
+          "i": "Federal Reserve officials warn about the path ahead for monetary policy. One Federal Reserve official states that combatting <span class='term' data-t='inflation'>inflation</span> will likely prove painful. Another official suggests the central bank's policy response may need to turn more aggressive.",
+          "a": "Federal Reserve officials signal potential policy calibration challenges. One Federal Reserve official characterises the fight against <span class='term' data-t='inflation'>inflation</span> as likely painful, while another advocates for a more aggressive stance, implying terminal rate pricing may understate the necessary tightening cycle.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREF6YmNlVVg0VXF3TEJsQnlpQmhUWF9YV3A3WUZDaENMNEJMUzdoTVplUjEyLWE0Zm9ZTUdwNFBWWDdwN3lIWGF6UTR5QmtOLTJNakk5SEVVSklFQl9ua0tZTmxpTG1jRVpFbUhueFBFdldpNjFROXJ0dm5mWFBpNFRiTnJydHk1Z1JKVU1MbVNyUzFnMEhZTm10RWtrR2VOeGl0RG9QMUtCSWo5OU9uRmZuaDBIdUhqSy1V?oc=5",
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVBYSGViZjZfSEhQQ3lHWF9YRG9ZamVOaE1adWFrdFZVSXJONlF4MjZlOExGTXJiY3VOdW9sdl9BWGdvSS1OWE5TT2duSXEtRDhndEtnMFJ2dDFFeG1rcVZsa2FmZk01ZVY1bUE1UkJ2YTlCMEJGaXFUTkVfbVdFaVpQSjRxbnlxUmdBNnRpQTNzaF9FUzZGR3A1dUR4VFZXajA4RTBKWEc1clBNQjFjdmRJSURjZXpJYkNnVg?oc=5",
-            "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd0dpVnU0VnNlVnFOQVNQcG1lcVJONVZvcnVsOG0zVWhFTjkxWFZnMDdEbW1NTHlPdWREeGxqME9jaDdlRVFqQ3hObDFENVlRdzdiZUxYd25QZWFYWXhsUEpCMjhGb2pVMUtwcjQxbzE?oc=5"
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUtIQUo4dEtPSE52QVhQRE05ZmJRdzVRWXhlMnNQaXMydzBJaWZMZmh0VVlZaXVoNDJRcTNnUG9ES3hxWGpXNVQ1RnVsZFdkcXNsRVFnS2lkMGlyTFRrQWRkaDhPTjFVSEFUbDV6Q0FOTEp1anF3VlpmUmYwS3c4eVMtQmI4YXJ1Y3pDMWRkU0dEM2g2RmZDcw?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTmdmb192UXVHb3NNUmJxNDRyWHp0aVU0ZTc3R19vTGNhZFlSSm9ZVnhoSTBrbURqcnFOSERTdlVfbHlNWGZmbk1zSTc0WHRaY2pqUVlWZGlhUXNyVkpIWXRjOHpyTjh3SnhOM2M2TU1NR2Mzcm9WWnJXeloyME0wUDM0dmc?oc=5"
           ]
         },
         {
-          "t": "Federal Reserve official points to robust demand",
-          "src": "Reuters",
-          "b": "Federal Reserve official Goolsbee spoke about the economy. He said that strong demand might be pushing up consumer prices. Consumer price increases are known as inflation. Central banks watch these trends to decide on interest rates. His comments highlight ongoing debates about economic growth.",
-          "i": "Federal Reserve official Goolsbee stated that robust economic demand could be contributing to domestic <span class='term' data-t='inflation'>inflation</span> pressures. Policymakers monitor these demand-side metrics when evaluating monetary policy adjustments. Strong consumer activity complicates the timeline for future interest rate decisions. The remarks emphasize persistent price growth risks.",
-          "a": "Federal Reserve Bank of Chicago commentary from Goolsbee identified persistent demand strength as an upward driver for core <span class='term' data-t='inflation'>inflation</span> metrics. This view complicates the central bank's easing path by suggesting economic momentum remains above potential. Markets continue to reprice terminal rate assumptions based on incoming activity data.",
-          "gloss": "inflation",
+          "t": "Equity Market Targets and Economic Vulnerabilities",
+          "src": "TradingView · Breakingviews",
+          "b": "Jefferies sets a new target for the S&P 500 index for the year 2027. Howard Marks sends a signal to the Federal Reserve. Meanwhile, analysts warn that diesel prices could act as a tipping point for the US economy.",
+          "i": "Jefferies issues a target for the S&P 500 for 2027. Howard Marks delivers a signal to the Federal Reserve regarding market conditions. Analysts warn that diesel prices could serve as a tipping point for the broader economy.",
+          "a": "Jefferies publishes a 2027 target for the S&P 500 index alongside Howard Marks communicating a direct signal to the Federal Reserve. Concurrently, commentary flags diesel market dynamics as a potential macroeconomic tipping point.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5"
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGVRVXctM09lYTZJM3dMVzBlVC10ejMxUWR2bFBfYWdhQmdfVFpVakhZMEJJcEdtZUx2N2JzRUZzYWttSTFkempyN2VOYUdsbjE5YkF5aVE3ekxQRTZuU0lFTHFwRXBaeWhVTk84bFhZOTA0c005c3p3M1NKRkN4ckVTRTJ3UEd4MjZnVWhoWjVyZlEyTHV5cjQyeW9zekJmMUd0ekswbjBhWjB2UElN?oc=5",
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXdLV215dGpWbEpGVTZOX01WNzFaQXN4MUduT2Z5LXludTNCejVVU295bExZby1QdERLcVpwZVdPSk1mdUlibUF6MFFuQ19idl81QllmY2w5T0ZUVFpNTzkzMXlnXy1HYU1ZQXE1T1BxV2NNcWJ1dzhPeHJTSTczWEMwWmxpb05hMzFRRXBNUER2V1QtcUh6dktSOEpWT21jaEZncmtBaVIzQ0hxcUstTw?oc=5",
+            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmJTbmRjN0ZnREMyRUdFTnFwR3FhWDRHTnNNOXNkVXktM1JBaGRna01xX0dsRzNZaTU1WWZsNjNjZGVVTXpXdlJ2VjNqX1ByYmlDeGMyMVJPQWw4ZEFVSFVBV0tweG5wLTN6NmRDb1hZQ2lZSU5kdS14Y0RfN3E1RlMyZ3huajJBalNOWm9JZkpsVXZ2V1EzaXNvTXg5YWUtMEoyc2JrSUQydw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Lawyers are looking into a company named Coastal Financial Corporation. They are checking for possible violations of securities laws. No official government votes are listed.",
-        "i": "Legal investigations target Coastal Financial Corporation over potential securities law violations. Kaplan Fox announced the inquiry into the Nasdaq-listed firm. Regulatory scrutiny remains focused on corporate compliance.",
-        "a": "Kaplan Fox initiated an investigation into Coastal Financial Corporation on the Nasdaq exchange regarding potential securities law violations. The inquiry centers on corporate disclosures and regulatory compliance standards.",
+        "b": "Federal Reserve officials talk about the economy. They discuss inflation and interest rates.",
+        "i": "Federal Reserve officials debate policy settings and inflation dynamics.",
+        "a": "Federal Reserve officials calibrate communication channels regarding macroeconomic risks and policy restriction.",
         "sources": {
           "0": {
-            "outlet": "The National Law Review",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjNFOXlCamtDQ2VQWUpmT1JsV1oxSGpCbUlhNFRJZWtORDlYbXpIQ2hsVWFpX2dhOGVuNHFaak1tS3lsd01TSTdoRjRJVmVaWHRqUzFaemUtekl0QzhYUUxlZmROLXczaXg4VG5xQjVrQm9kaTEtQmRNNG94SWVLalJLWWZhdkNFdTVzem5iZzVmblhlYy1EYk45bDVUaE9iWG8tY2x3bk5UaXg1VExfN202cG4?oc=5"
+            "outlet": "Seattle Post-Intelligencer",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUtIQUo4dEtPSE52QVhQRE05ZmJRdzVRWXhlMnNQaXMydzBJaWZMZmh0VVlZaXVoNDJRcTNnUG9ES3hxWGpXNVQ1RnVsZFdkcXNsRVFnS2lkMGlyTFRrQWRkaDhPTjFVSEFUbDV6Q0FOTEp1anF3VlpmUmYwS3c4eVMtQmI4YXJ1Y3pDMWRkU0dEM2g2RmZDcw?oc=5"
           }
         }
       },
       "timeline": [
         [
           "21 Sep 2026",
-          "Fed official Goolsbee discusses demand and price pressures"
+          "Jefferies releases an S&P 500 target for 2027."
         ],
         [
           "21 Sep 2026",
-          "S&P 500 and Nasdaq 100 test resistance levels as yields ease"
+          "Federal Reserve officials comment on inflation and policy aggression."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Bank of England probes and equity market moves",
+      "sub": "Bank of England regional office and regulatory probes",
       "ind": [],
       "stories": [
         {
-          "t": "Central Banks Investigate Trading Firm Exposures",
-          "src": "marketscreener.com",
-          "b": "The Bank of England and the Federal Reserve are checking how much banks lend to big trading companies. This investigation follows a major financial loss at a firm named Jane Street. Central banks are the main monetary authorities that oversee the banking system and set national interest rates. Regulators want to understand if these hidden risks could harm larger financial institutions.",
-          "i": "The Bank of England and the Federal Reserve initiated a joint inquiry into bank exposures to major trading houses. This regulatory scrutiny follows a significant financial loss recorded by Jane Street. Authorities are examining the counterparty credit risks that traditional lenders take on when funding leveraged trading firms. The probe aims to uncover hidden vulnerabilities within the interconnected financial system.",
-          "a": "The Bank of England and the Federal Reserve launched coordinated probes into prime brokerage exposures following a material loss at Jane Street. Regulators are interrogating the leverage extended to non-bank financial intermediaries and potential systemic feedback loops. The inquiry focuses on margin practices and liquidity buffers across tier-one institutions. This supervisory action tests the resilience of counterparty credit risk frameworks in modern market-making operations.",
+          "t": "Central Bank Establishes New Leeds Office Hub",
+          "src": "FF News · The Independent",
+          "b": "The Bank of England is the UK's main monetary authority, which sets national interest rates. It announced a new office hub in Leeds. This facility will open in 2028. The move expands its footprint in the north of the country.",
+          "i": "The Bank of England expands its regional footprint with a new office hub in Leeds. The central bank scheduled the facility to open in 2028. This establishment increases the institution's presence in northern England.",
+          "a": "The Bank of England proceeds with its northern decentralisation strategy via a newly announced Leeds hub. Operational readiness is slated for 2028. The regional expansion deepens the institution's geographic footprint outside London.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWU81cUVpNUZLQU1KRTlhYTNmeXduWF9fMXFOcmJ3MUk1LU53QXJKUFUtWUxjU2s3dVFGaFpxNk4wZ0xXYVUtZ21yRC1vTDl0ME1WVWRaYXo3a2lIeXkzRlFWYVp6VjJBVlNWWnNCUjQ5YzhoUlBoSWNwVWxQX1BNa0VUVWJkR2RTR1BjTlpzTi02cHBXTnhNSWlmejV6Y2pyTGxrYWRmRDEzZHJTNkxmeEhTZlpQV3NPNzlYWEtBM0FhR3VqNTVpMjhIMGlMZFRfUVE?oc=5"
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdTUwT3M4MnJ0NTJVYmJEcDB1RnZnNnU3RW9lOUVHbFdKbzRYcG1iSW5xQ0loQXJjeHBjVkNXeldqV2tNVHR5S25YS0Z3RGdUZXJrak1Jak1EUXdmVDNxUkE5VjZhUy15LU1uNGdIUkJpMjlUVlR2cXY4bDFzdUk3RmNXaXdfTWJ5WkxIcg?oc=5",
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzRULWdsNzFyU1BGdmVYZ3lJcnJOTjc1cnpOTFV5UDh0NXdxNkVhWXl6T0c0WmVjeUs2a1UtVHVhUThvN3FkaEpLUkFFeEFkQUl5UHhZVkEyYXMzbFYyQzZQUjNydUVFYW81TTlTYkV3UGVubTVQNllPaElXTzFuektTbjJRT0FBekQ3ZzVuSnE1Z1UtRFIweGZMVThyek9vR1lMb1hmTzR3NGFsaFVES3pFZXlSaUxVRjRtSlhB?oc=5"
           ]
         },
         {
-          "t": "Equities Rise as Commodity Costs Drop",
-          "src": "Investing.com · Yahoo Finance UK",
-          "b": "British stocks increased in value as crude oil prices declined. Lower energy costs help reduce <span class='term' data-t='inflation'>inflation</span>, which is the general rise in the price of everyday goods. Investors hope that reduced geopolitical tensions involving Iran will keep energy supplies stable. Lower oil prices mean lower expenses for businesses and consumers.",
-          "i": "The FTSE 100 extended gains as falling petroleum prices eased <span class='term' data-t='inflation'>inflation</span> pressures across the region. Equity markets responded positively to reduced crude values driven by hopes of de-escalation in Iran. Lower commodity costs directly reduce operational expenses for corporate firms. This dynamic supports broader market sentiment by dampening overall price pressures.",
-          "a": "Equities extended gains as sliding crude benchmarks mitigated <span class='term' data-t='inflation'>inflation</span> anxieties across European indices. The sell-off in oil derived from receding geopolitical risk premiums regarding Iran. Lower energy inputs compress headline cost structures for producers, altering near-term monetary policy expectations. Market participants repriced risk assets following this macroeconomic relief.",
-          "gloss": "inflation",
+          "t": "Regulators Probe Bank Exposure Following Trading Loss",
+          "src": "marketscreener.com",
+          "b": "The Bank of England and the Federal Reserve are investigating banks. They are looking at how much money banks lent to trading firms. This investigation follows a loss suffered by Jane Street.",
+          "i": "The Bank of England and the US Federal Reserve initiated joint probes into bank exposures. The regulators are examining counterparty risk regarding trading firms. This supervisory action follows a significant trading loss at Jane Street.",
+          "a": "The Bank of England and the Federal Reserve launch coordinated inquiries into prime brokerage and dealer exposures. The joint probe targets lending relationships with quantitative trading houses following a material loss at Jane Street. Regulators are stress-testing balance sheet resilience to sudden volatility spikes in non-bank financial intermediaries.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0lpWlU0NkpDeXQ1ZFo2MmpRV1NOWnR2ZnNrY3FpTzIxdWtjZ0VMcnd2dXZRVllvX2hYQXpLVVFPRDNOUWNOejdYbDA3anF6QXZBR1dyYndrMTBIb2s1cXNkY0ZLanVFTC1tbTJYWWpqUmVhZWhfQ0MtVEpUNi0wdTY2S2pGNEVFaVB2aWptMmNuX3NYTkR5elNtSHpLYkpmV04wNUF4ZFB5c19TNzZOLUV2ODBSTTBpZ2VuZg?oc=5",
-            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGZfRF85cXN6WjN6WklFcUVRQmZTQzYzeTFWRjlEZ2s1UloxMF9ad1pVOW8xZTlxMFRJeEs4OFQxdWU4bElwazB4aEI5WHFyOW9oZkZLUjNGNHdTQU5vM1ViUGh4QmZnMk4xVDRwNG9sV3cxcWxTNUxhb3V3Um9nSTJxN0tkTVdS?oc=5"
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWU81cUVpNUZLQU1KRTlhYTNmeXduWF9fMXFOcmJ3MUk1LU53QXJKUFUtWUxjU2s3dVFGaFpxNk4wZ0xXYVUtZ21yRC1vTDl0ME1WVWRaYXo3a2lIeXkzRlFWYVp6VjJBVlNWWnNCUjQ5YzhoUlBoSWNwVWxQX1BNa0VUVWJkR2RTR1BjTlpzTi02cHBXTnhNSWlmejV6Y2pyTGxrYWRmRDEzZHJTNkxmeEhTZlpQV3NPNzlYWEtBM0FhR3VqNTVpMjhIMGlMZFRfUVE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The Bank of England announced plans to open a new office in Leeds by the year 2028. This expansion spreads the central bank's operations beyond the capital city. Regional offices help institutions connect better with local economies.",
-        "i": "The Bank of England scheduled the opening of a new regional office in Leeds for 2028. This move decentralises the institution's operational footprint away from London. The new facility expands the central bank's administrative reach into northern England.",
-        "a": "The Bank of England scheduled a regional expansion by establishing a new office in Leeds by 2028. This institutional relocation decentralises operational capabilities from Threadneedle Street. The branch extends the central bank's regional economic surveillance and administrative footprint."
+        "b": "There are no political updates for the United Kingdom in the sources.",
+        "i": "No political developments were reported for the United Kingdom.",
+        "a": "The provided sources contain no political telemetry for the United Kingdom."
       },
       "timeline": [
         [
-          "2028",
-          "The Bank of England schedules the opening of its new regional office in Leeds."
+          "21 Sep",
+          "Bank of England and Fed probe bank exposures after Jane Street loss"
         ],
         [
-          "21 Sep 2026",
-          "The Bank of England and the Federal Reserve launch a probe into trading firm exposures."
+          "21 Sep",
+          "Bank of England announces new Leeds office hub opening in 2028"
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "German growth slows as Bundesbank warns on inflation",
+      "sub": "Bundesbank warns on growth and inflation pressures",
       "ind": [],
       "stories": [
         {
-          "t": "Bundesbank Flags Inflation Risks and Slowing Growth",
-          "src": "IndexBox · Anadolu Ajansı · Yahoo Finance",
-          "b": "The German central bank warned that price rises will stay high. Energy costs and upcoming healthcare changes drive this trend. The wider economy is also losing speed in the third quarter. Low water levels and the conflict involving Iran add pressure.",
-          "i": "The Bundesbank warned that persistent <span class='term' data-t='inflation'>inflation</span> will stay high due to energy costs and healthcare reforms. Domestic economic growth faces a temporary loss of momentum in the third quarter. Low water levels and the Iran war exacerbate these headwinds.",
-          "a": "The Bundesbank flagged sticky price pressures driven by structural energy transitions and 2027 healthcare reforms. Third-quarter output exhibits a temporary growth stall, compounded by supply-chain frictions from low waterway levels and geopolitical shocks.",
-          "gloss": "inflation",
+          "t": "German Economic Momentum Slows",
+          "src": "aa.com.tr · Yahoo Finance",
+          "b": "The German economy is losing speed in the third quarter. This means things are slowing down. The Bundesbank, which is Germany's central bank or main money authority, points to the war in Iran and low water levels. At the same time, the Kremlin says Germany lost competitiveness after ending cheap Russian gas purchases.",
+          "i": "The German economy faces a temporary loss of momentum in the third quarter according to the Bundesbank. Low water levels and the conflict involving Iran constrain activity. Meanwhile, the Kremlin attributes declining competitiveness to the cessation of cheap Russian gas imports.",
+          "a": "German output experiences a third-quarter growth deceleration driven by exogenous supply constraints, notably Rhine waterway navigation bottlenecks from low water levels and geopolitical shocks from the Iran conflict. Structural competitiveness erodes further following the permanent loss of discounted Russian feedstock gas, compounding industrial margin compression.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTRfOFVkTHZ2Z1libkNUcS1JNHNKNWU1YkNHV1pITXRsUzFTMVh0ajdYRG4xMFc3dkRDQUtHUTM3RTFmOU5YR1MzU25UZnN6SlB3VkxFaXpYMl9GeXNyakhNaXhoM01nZDJDZFFJSjVqekxGdFNiOEJ4bGRycjF1aUJLc2k0OFVHWUtnWExZMFRIVFBYa3VKajFmajRZMmZtZUYyV250Tzl3MGFFanZUeDdZUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWxPS2VQNGFJVWhLYnY0d29CZTdwVGlXQlEzMUV0RGZtWnRZQ0VSUEVLVDMwTWtOZnRleVExbklENUFDUVNYODYxX2ZEdmhlQXR5SzhVU0NfQjlzWjZ5OFNleUZxRngwenVNN3V2RGxlRWhpdl9yU1FDXzBYX09zVl84Wk1LbnBwdi1RSVdfbGI1Q1VwQVlMWHpoRUUzM29TeDRSWlUzQkJPQ3Jac2NB?oc=5",
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam9PeFYtdnVzSHNUMm9xNEZhLWpEUFFHdjNmNldveklYaE16Z3RBN0tqVGlDd3dPZ2ItTWJWYmhWN2dVekUtSjJCUXlvOHhaZkpMYVpxRE91NmpNWURxem9nUDZhbTM4ajZMTzRkVVFpXzA1YzZUMzJkMWdwamFJWTBZNTFCTzB0RnF0T3Z5OXpIbkJyTGc?oc=5"
+            "https://www.aa.com.tr/en/economy/german-economy-faces-temporary-loss-of-momentum-in-q3-bundesbank-says/3678077",
+            "https://finance.yahoo.com/news/german-economy-sees-loss-momentum-130333246.html",
+            "https://www.aa.com.tr/en/economy/german-economy-losing-competitiveness-after-ending-cheap-russian-gas-purchases-kremlin/3677937"
           ]
         },
         {
-          "t": "European Equities Rise While DAX Encounters Resistance",
-          "src": "Yahoo Finance UK · Investing.com Canada · AD HOC NEWS",
-          "b": "European stocks rose because lower oil prices eased worries about rising prices. The DAX index in Germany stalled near a resistance level of 25,832 points. Chipmaker Infineon saw its stock gain as analysts maintained a neutral rating.",
-          "i": "European stocks rose as falling oil prices alleviated <span class='term' data-t='inflation'>inflation</span> fears. The DAX index stalled at a triple resistance cluster near 25,832 points. Infineon shares advanced as UBS kept a neutral rating during the broader market rally.",
-          "a": "Broader European indices rallied following energy-driven relief on headline price metrics, though the DAX stalled at a technical triple resistance cluster near 25,832. Infineon outperformed alongside the index advance despite UBS maintaining its neutral stance.",
+          "t": "Bundesbank Signals Persistent Inflation Risks",
+          "src": "News and Statistics - IndexBox · Yahoo Finance UK",
+          "b": "German <span class='term' data-t='inflation'>inflation</span>, which is the rising cost of everyday items, will stay high. The Bundesbank warns that energy costs and 2027 healthcare reforms are to blame. Across Europe, stocks rose because falling oil prices eased worries about <span class='term' data-t='inflation'>inflation</span>.",
+          "i": "German <span class='term' data-t='inflation'>inflation</span> remains elevated due to structural energy expenses and upcoming 2027 healthcare reforms, the Bundesbank cautions. Broader European equities advanced as declining crude oil prices moderated <span class='term' data-t='inflation'>inflation</span> anxieties.",
+          "a": "Bundesbank guidance projects sticky domestic <span class='term' data-t='inflation'>inflation</span> persistence underpinned by sustained energy inputs and mandated 2027 healthcare policy adjustments. Regional equity indices decouple constructively as lower spot oil benchmarks alleviate headline <span class='term' data-t='inflation'>inflation</span> fears across European capital markets.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGZfRF85cXN6WjN6WklFcUVRQmZTQzYzeTFWRjlEZ2s1UloxMF9ad1pVOW8xZTlxMFRJeEs4OFQxdWU4bElwazB4aEI5WHFyOW9oZkZLUjNGNHdTQU5vM1ViUGh4QmZnMk4xVDRwNG9sV3cxcWxTNUxhb3V3Um9nSTJxN0tkTVdS?oc=5",
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzlqekF2YVdHbm84blpRTDJvblladGN1b3VkT20xdHNlams0NlhVeGNhVkVlN1g1RVBRUkxjV0NHckxkOWs4T1RKdmxjb3h2VnB2aUJfWEhMVDVZNndIUXJ1ZFBsTFdaSjV6MUZ1eUN1Q1J1WXFQbk1Xd2xlQmw5a3BOUW43cUVGT01JR0ZoWXBzcFc2dm5DOXJqclZsa3pqZjFzaUttOTQ0OVBzNTVmME4wY1E0SjZXTlE?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaU9oWTdyeS1VS3cxMUNlTUV4U2tOT2M0WTF2SVotbmdHM2RCNXk2R201NVpxSkUzS1lXSE5hTFhNa25ubFpnR0tDcVhqQ2ZsY3Y4dEp6MkZIRWlwVmdyUXNBalRzVmtYOVloVVV6UWxIMnJaekduQU51N09NeDNYSl9aS0hSR2N1RTBxcl90N0ZvRnlVSnkwOXZJTl85bml3RlVhS0FpQ19hSmRUeUdxcXByWUdRQTNjS3I0V215UnkxWG9TMjJJQWgxVEVMam02?oc=5"
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTRfOFVkTHZ2Z1libkNUcS1JNHNKNWU1YkNHV1pITXRsUzFTMVh0ajdYRG4xMFc3dkRDQUtHUTM3RTFmOU5YR1MzU25UZnN6SlB3VkxFaXpYMl9GeXNyakhNaXhoM01nZDJDZFFJSjVqekxGdFNiOEJ4bGRycjF1aUJLc2k0OFVHWUtnWExZMFRIVFBYa3VKajFmajRZMmZtZUYyV250Tzl3MGFFanZUeDdZUQ?oc=5",
+            "https://uk.finance.yahoo.com/news/european-stocks-rise-falling-oil-prices-ease-inflation-concerns-dax-cac-ftse100-131447053.html"
           ]
         }
       ],
       "politics": {
-        "b": "The Kremlin stated that the German economy lost competitiveness. This change followed the end of cheap Russian gas purchases.",
-        "i": "Kremlin officials asserted that the German economy is losing competitiveness following the cessation of cheap Russian gas imports.",
-        "a": "Russian state commentary attributed Germany's structural loss of industrial competitiveness directly to the termination of discounted natural gas imports.",
-        "sources": {
-          "0": {
-            "outlet": "Anadolu Ajansı",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2xuOTBqWmpfZjdhQVZDZ2toZXQyVEFxQTZVRGlqYjBxOHBmc0JmMjFtb3I2Rl83ZkZ6c0dPZjdZbEdfeVFrTmJuY2g1TjYyNGw0REVOZmxjOHRrUUtvNE1teFo0dk5FZ0ttMGV4UW9oZnpGdDBqellkbk5TVkpROVJJVGdQTTAxb19DbmVVMkFzOFJKVXd5S1haUW9WS1BlLVNpYVNZWjRwYzJSd0dYZm5QYUstYko1U2ZvTWRzUQ?oc=5"
-          }
-        }
+        "b": "The German central bank warned about high costs and slowing growth in 2026.",
+        "i": "The Bundesbank issued warnings regarding persistent inflation drivers and a third-quarter deceleration.",
+        "a": "The Bundesbank articulated formal warnings regarding structural inflation persistence and transitory output contraction."
       },
       "timeline": [
         [
           "21 Sep 2026",
-          "Bundesbank issues warnings regarding persistent inflation and third-quarter economic slowdown."
+          "The Bundesbank warns that German inflation will remain high on energy costs and 2027 healthcare reforms."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen positions, rate checks, and US investment talks",
+      "sub": "Bank of Japan rate hike and yen currency pressures",
       "ind": [],
       "stories": [
         {
-          "t": "Yen Positions and Bank of Japan Rate Checks",
-          "src": "Forex Factory · Bloomberg.com · nippon.com",
-          "b": "Currency traders called bulls added many new bets on the Japanese yen ahead of a decision by the American central bank. The Bank of Japan also ran a rate check before a long holiday period in the country. UBS Asset Management strategist Zhao noted readiness to sell the Japanese currency if authorities intervene again. The yen previously slipped as intervention threats persisted.",
-          "i": "Yen bulls piled into positions ahead of the Federal Reserve meeting while commodity longs turned cautious. The Bank of Japan conducted a rate check ahead of a long holiday period in the country. UBS Asset Management's Zhao stated readiness to short the currency if authorities intervene in foreign exchange markets again. Meanwhile, the currency slipped as intervention threats persisted alongside steady dollar moves.",
-          "a": "IMM Commitment of Traders reports indicated that a jump in yen longs was squeezed last week as market participants adjusted positioning ahead of the Fed. UBS Asset Management's Zhao signaled preparedness to sell the currency if Japanese authorities intervene anew. The <span class='term' data-t='carry'>carry trade</span> dynamics continue to evolve as yield differentials drive currency valuations against the US dollar.",
+          "t": "Bank of Japan Raises Borrowing Costs",
+          "src": "VT Markets",
+          "b": "The Bank of Japan is the group that manages the country's money. This group just raised its main interest rate to 1.25%. Interest is the cost of borrowing money. The change pushed the yen currency downward. The bank gave very little extra information about its future plans.",
+          "i": "The Bank of Japan adjusted its policy rate to 1.25%. This adjustment caused the yen to slide against other currencies. Policymakers accompanied the move with limited forward guidance. Traders evaluated the shift alongside ongoing currency intervention risks.",
+          "a": "The Bank of Japan lifted its policy rate to 1.25% while offering sparse forward guidance. The currency depreciated in response to the decision. Market participants continue to price potential intervention thresholds near 160 against the US dollar.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenNKclVBd2M0Mkc1T1J4ekY2TDNOVU5IWk5oTWJaTWFBX3M1WmFGOU95ekRKZmQ5X0V0Z3duTVgzNFRKTGxqQjRBQ0MwdlN5cXR6RVFITXdHTGNxdm1BNTV3b1VTUXVFXzlac0Z5LVZwM3JKZ1ltZWlIakdCTm9QTnR4WlpwcmVEMldMc1pDQ0UwT1RqVWttcGIyU2VZcU9zYUE2TnlVWHdSVklpRFJCTGVhdy1JbzN5c3BkYkdYTQ?oc=5"
+          ]
+        },
+        {
+          "t": "Yen Faces Downward Pressure and Intervention Risk",
+          "src": "FXStreet",
+          "b": "The Japanese yen is the money used in Japan. It dropped lower compared to the US dollar. Experts at ING say the rate could fall to 160 yen per dollar. This drop raises the threat that officials might step in to buy the currency.",
+          "i": "The Japanese yen weakened against the US dollar. Analysts at ING warn that a move toward 160 is possible. This depreciation elevates the threat of official <span class='term' data-t='carry'>carry</span> trade adjustments and currency intervention.",
+          "a": "Spot currency trading pushed the yen lower against the US dollar. ING analysts identified 160 as a plausible level for the cross. Higher intervention risks stem from rapid depreciation and shifting speculative positioning ahead of Federal Reserve decisions.",
           "gloss": "carry",
           "links": [
-            "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUhPcjJoLTVsQ213ZjhLXzVHZGhRaGRqbnc5NkYyMHo2V1gwM3lXNUdMM0hTQ19EcnEwWFJmR2YtZTJpQl93RjRmTGhJTnBwQTd6WXg3dWd6SWM1M1hIeUplVjZIb3RZRUNreTJQSnpxNy1XcTdZcEg2M0FsMU5BOWlONmtKZ9IBiwFBVV95cUxNVDlMeEJaazE1UXVPMk5VZnA4WkNEMGpPb3BRalpYdVN5TVNWOVVCWmh3NmoxMTBIN3N0RDV2LWRHbVpmZHhKR292S1F0VnRmN0ZMSFEzLW4wODQ1THZlMVMta0ZfYXpUVTNZZHZqZ1BHZTBSekpySFAwSEhxSWVxWkhtcG1hWVAyYXdr?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0JsbTRIVXBKSEgxUVRCY2xiVGJGVkZIYmZWOFBjOUM2TFRubEdWcjJZVzE4ekptVms3NXd4bmt0bEt3NS16eTl5VVM5SFBNalVwZHhTdFBZRF9QY21TM3ViMXhsZ0RRRFQ1UGJjeFRxdDR1emlyOWVYQ1YwbDhkZHZPS3IyS3FGR0p1YTlWcFd3a25EbEVPcEswSTQzN1o5bzBPRlk4dDdham1IaG1UMw?oc=5",
-            "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNvMHVvSE9MY1VkRWV3S2hlY0QzcG96cXJ6M2hXR0laa21sazJ3OHRKejZGdDhxX1JhVGhnRGRIcTBOT2I3V05LNWUxc0ludTJleVJKTlY0RW95bk10VkZlMXNiZm9QM0tyNWhuSGlZeGw0NE1TMnNUYVFVZ0JseXJHTW5RTnF6R3d4dkd6T2hIb1VIV1ZTWHZ0bzdFalVzS1QybnpIbG5jNktjWVRta1hQU1Q?oc=5"
-          ]
-        },
-        {
-          "t": "Takaichi Schedules US Investment Talks",
-          "src": "Nikkei Asia",
-          "b": "Takaichi plans to stress Japanese investment in the United States during upcoming talks with Donald Trump. Nikkei Asia reported the scheduled diplomatic engagement between the figures. The discussions focus heavily on cross-border economic ties and capital flows between the two nations.",
-          "i": "Takaichi will stress Japanese investment in the United States during bilateral talks with Donald Trump, according to Nikkei Asia. The scheduled meetings highlight ongoing cross-border capital commitments between the two economies. Official dialogues will center on industrial investment metrics and strategic economic cooperation.",
-          "a": "Takaichi's planned emphasis on Japanese FDI into the US during talks with Trump underscores strategic bilateral capital commitments. Nikkei Asia detailed the upcoming diplomatic schedule focusing on cross-border investment flows. Market participants monitor these high-level talks for potential impacts on trade policy and capital allocation rules.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREVSbkJNUVhEUXBnaFY2UHMzdHU4ZmZIUTdjbEtoNkhQVnNubkhDc2VLeGxGRm55YUo0WHhzUTQwS1htUktlZGp6UjExLXlsLXVNcmtXU2VBUTdzNjRiaHM4alhtbzc2bG1wZFhuU2RIOHZwb3FWcjllQUN0SzM2TjUtdkpKX1liNURUT3h1Z1BEaFl4dFNQeEYzdm9uNWNjYW15RVEzVE9wZ3JOdnhxY2pEVnM2enJxR0hoVGFn?oc=5"
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnlydmxNQWJ2QlVNWWF5Q2FZenZrbVM4NEduYW9VaHYxWDBuSC1KWHBTMWY0TTBYM19DRXRJQlREeU95UFF4RVBOZ0hyaHpYRU1zLWNUY19DWkU3NDR1YVBQcGp5bU5iRnBuZ2dHaVRJNHNWckFQZ3dBNU1xdEswY1k1akllYWtPUDhOdFNrc2gyeFBmdGtYWUVScUM4cFlRcWJoS2k3N3JrbHFBNk40N0hpS0dhNTh0cFhhUXFB?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVFfeHppWG5tckMzZXhiWGIybkRWYkltcHBIY2k2S0g4dEJwWUJzclQ2UEtBdDIxTk05dWtXVlNrOWNWUEd2UlVPT194cTY4c2JacEMtX1c4MW9HQ0NERGp4SU9xNzYwaW1MZ2l0NW8tMXpPbURscVAxY1c1QmhzX0dacG9qZE5Gc2hkd1ZwVDhHRTdDU0tmTUdjdV9kc0pNTkRnMWN0dw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Takaichi prepares for direct talks with Donald Trump regarding cross-border investments. Japanese authorities also monitor currency markets closely through rate checks ahead of holidays.",
-        "i": "Takaichi is set to address Japanese foreign direct investment in the US during discussions with Donald Trump. Meanwhile, domestic officials manage currency stability via rate checks ahead of holiday closures.",
-        "a": "Bilateral engagements led by Takaichi focus on channeling Japanese capital commitments into the United States. Concurrently, domestic monetary authorities maintain active surveillance over foreign exchange stability via rate checks ahead of market holidays."
-      },
-      "timeline": [
-        [
-          "21 Sep 2026",
-          "BOJ conducts a rate check ahead of the holiday period"
-        ],
-        [
-          "21 Sep 2026",
-          "Takaichi schedules talks with Trump emphasizing US investment"
-        ]
-      ]
-    },
-    "China": {
-      "iso3": "CHN",
-      "label": "China",
-      "sub": "Yuan strength, funding rounds, and contracts in China",
-      "ind": [],
-      "stories": [
-        {
-          "t": "Chinese Currency Climbs",
-          "src": "Arise News · Seeking Alpha",
-          "b": "The Chinese currency is called the yuan. A currency is the official money used in a country. The yuan reached a three-year high value. China eased its resistance to the currency gaining strength ahead of a Trump-Xi summit.",
-          "i": "The yuan climbed to a three-year high. China eased its resistance to <span class='term' data-t='inflation'>currency</span> gains ahead of the Trump-Xi summit. The PBOC lifted the yuan further while the greenback consolidated.",
-          "a": "The yuan appreciated to a three-year peak. Authorities moderated resistance to currency appreciation ahead of the Trump-Xi summit. The PBOC systematically lifted the fixing while the dollar consolidated against broader peers.",
-          "gloss": "inflation",
-          "links": [
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0U1SlZhQWNJa2xVc0RVR2JPNXF0Sy1kVnRrbDlUQXZ4R1A5bXI4ZnlQeDdZVW9ZUG1taVMxTDI3Nzk3NTAtSXBaaHJhankxb2tkVC1MYnQ5YnFSNDREakVLczRnN20tX1N6R01zU2I4bDFSLTFqUUk0eGxxLVowTndJQ2VpaWdNaUxNQjR3aXd4UHBYQm1yQWVGRTc1Ymo5Z0lBYkJoNjZaNjF2TDNGOEN5STRyZlQxRDhmcmxn?oc=5",
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU205Q1B5NThzbUw5TnJuU3Faa0xrbEdhWUVWMFd0akM3TmJHMUpRdGRPYzVoMDNRRktHOEpMMmc4SlBVR1g1LTQ2UHRjNXcyLXJRd0p0M1hsX3IwdDlHMHJhRHJVbU1DSDd5NmRUY1N5ZTEyWDlDSkJseHhGY3E2T0xJSGNtXzhjVk1hOGZwZjRIUldZU25rYVluNW40SE9T?oc=5"
-          ]
-        },
-        {
-          "t": "Venture Funding and Engineering Contracts",
-          "src": "finance.biggo.com · TradingView",
-          "b": "SiliconFlow raised nearly 2.9 billion yuan in 2026. This was across Series B+ Round 2 and Series C. China Petroleum Engineering secured 101.0 billion yuan in new contracts during the first eight months.",
-          "i": "SiliconFlow closed its Series B+ Round 2 and Series C. The firm raised nearly 2.9 billion yuan in 2026. China Petroleum Engineering secured 101.0 billion yuan in new contracts during the first eight months.",
-          "a": "SiliconFlow closed Series B+ Round 2 and Series C. Total capital raised in 2026 reached nearly 2.9 billion yuan. China Petroleum Engineering reported new contracts totalling 101.0 billion yuan across the first eight months.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE13RzJuSmpzb3NVZXVYd1hLemFubmJSUUV1djNSYkw0TzI1NVJ4a196YlpZZjFZc21RNUtaZU5JdlpieDJ0QU81QmR3ZjRfbDlpVXZ4VzRlaGdFek5fOG9XdXRGaURPcC1DeW9jZFlwSGJlMW52T1E?oc=5",
-            "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYWhJZmNUQWdKdmlCeF9DTnlNUGhubC1rczJOUVdrcnRFbnRFQ0c5TzE5cW4yM3EwQlNNRVRoc0ItYTFkQnIxaFpTSXp5bVJBdjY3S3UtX0pyQ2otcTB1UEtsMkc2SjFvY3FHRkFsc0VFX1RiR1pSU1JVRThuTGJIdUtIRm5IbmxqLWRCZUVjdzV5U0JSSlVsa0FrMnNlaVRLV2dDc1BMSVdiUFA5MURVNHBnNFIwWVlHT0M4WWk2TWtuQS1TMkI5QktPelBBdGZjb0dUQkI5Sy1SWGgwUXRDR2NoeF9kQVB3WklpdHBJeXQ3aTdsT1lkclJn?oc=5"
-          ]
-        }
-      ],
-      "politics": {
-        "b": "Li Yuan outlined a culture strategy for Taiwan through 2030.",
-        "i": "Li Yuan outlined the Taiwan culture strategy through 2030.",
-        "a": "Li Yuan outlined the Taiwan culture strategy extending through 2030.",
+        "b": "Politician Takaichi plans to talk with Trump. They will focus on Japanese investments inside the United States.",
+        "i": "Takaichi scheduled talks with Trump. The discussions center on Japanese investment commitments within the United States.",
+        "a": "Takaichi prepared bilateral talks with Trump emphasizing Japanese direct investment flows into the United States economy.",
         "sources": {
           "0": {
-            "outlet": "Taiwan News",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CWkh4Rnl2MkZFYW12emdfd3lYUjAtM3JmMnFxYWNJMEtaZUZXOFVRa2VIUjE0RWhvcDZ3YmNyYWFxTEtYTy1UVVBtVXVsbkwzeE82Q3ZsN1g?oc=5"
+            "outlet": "Nikkei Asia",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREVSbkJNUVhEUXBnaFY2UHMzdHU4ZmZIUTdjbEtoNkhQVnNubkhDc2VLeGxGRm55YUo0WHhzUTQwS1htUktlZGp6UjExLXlsLXVNcmtXU2VBUTdzNjRiaHM4alhtbzc2bG1wZFhuU2RIOHZwb3FWcjllQUN0SzM2TjUtdkpKX1liNURUT3h1Z1BEaFl4dFNQeEYzdm9uNWNjYW15RVEzVE9wZ3JOdnhxY2pEVnM2enJxR0hoVGFn?oc=5"
           }
         }
       },
       "timeline": [
         [
           "21 Sep 2026",
-          "China Petroleum Engineering reported 101.0 billion yuan in contracts for the first eight months."
+          "The Bank of Japan lifted its interest rate to 1.25%."
+        ],
+        [
+          "21 Sep 2026",
+          "Analysts noted intervention risks as the yen slid toward 160 against the US dollar."
+        ]
+      ]
+    },
+    "China": {
+      "iso3": "CHN",
+      "label": "China",
+      "sub": "PBOC bill issuance and yuan valuation movements",
+      "ind": [],
+      "stories": [
+        {
+          "t": "PBOC issues bills in Hong Kong and currency climbs",
+          "src": "巴士的報 · arise.tv",
+          "b": "The central bank, which is the state institution that manages a country's money supply and interest rates, is the People's Bank of China. The People's Bank of China will issue 60 billion yuan of RMB bills in Hong Kong. The Chinese currency simultaneously climbed to a three-year high.",
+          "i": "The <span class='term' data-t='inflation'>People's Bank of China</span> will issue 60 billion yuan of RMB bills in Hong Kong. The currency subsequently climbed to a three-year high as resistance to currency gains eased ahead of a Trump-Xi summit.",
+          "a": "The People's Bank of China scheduled the issuance of 60 billion yuan of RMB bills in Hong Kong. The currency concurrently reached a three-year high following the official relaxation of resistance to currency appreciation ahead of the Trump-Xi summit.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRFlvZjVSYWQxRU01bGR4TFk0S0tYZlRiWVFCRWQ4UFY0V2c2aWJCV2J1dXljak12emdvbU9uRXZqMGU5cnZvcEhiTWhVcHNDNk5wQUdIS3NqaTN1bWRwaDZ0eGNqcmFlTkpwdFp3U1RGVDRaNnNRNTJZZFAzSjBRam5venQyMmliZW5BUUgzVXR0LXhmVDNmdllyajFPU1JzQmljNzln?oc=5",
+            "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0U1SlZhQWNJa2xVc0RVR2JPNXF0Sy1kVnRrbDlUQXZ4R1A5bXI4ZnlQeDdZVW9ZUG1taVMxTDI3Nzk3NTAtSXBaaHJhankxb2tkVC1MYnQ5YnFSNDREakVLczRnN20tX1N6R01zU2I4bDFSLTFqUUk0eGxxLVowTndJQ2VpaWdNaUxNQjR3aXd4UHBYQm1yQWVGRTc1Ymo5Z0lBYkJoNjZaNjF2TDNGOEN5STRyZlQxRDhmcmxn?oc=5"
+          ]
+        }
+      ],
+      "politics": {
+        "b": "China expelled two top officers from the party and military. Officials alleged disloyalty.",
+        "i": "China expelled two top officers from the party and military. Authorities cited allegations of disloyalty.",
+        "a": "China expelled two senior officers from the party and the military. The state leveled formal allegations of disloyalty against both individuals."
+      },
+      "timeline": [
+        [
+          "21 Sep 2026",
+          "China expels two top officers from party and military alleging disloyalty"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Central bank auctions, bond sales and liquidity operations",
+      "sub": "RBI liquidity steps, forex swap inflows, and market operations",
       "ind": [],
       "stories": [
         {
-          "t": "Central Bank Absorbs Cash Via Reverse Repo Auction",
-          "src": "Reserve Bank of India",
-          "b": "The Reserve Bank of India runs a system to manage how much money circulates in the economy. It announced a one-day variable rate reverse repo auction for September 22, 2026. This process lets banks park spare cash with the central bank overnight. The notified amount for this operation is ₹75,000 crore. Banks will reverse these transactions on September 23, 2026.",
-          "i": "The central bank utilizes liquidity management tools to steer short-term money market conditions. It scheduled a one-day variable rate reverse repo auction with a notified amount of ₹75,000 crore for September 22, 2026. Commercial banks participate in this window to deposit excess funds overnight. The operation reverses on September 23, 2026.",
-          "a": "The Reserve Bank of India announced an overnight variable rate reverse repo auction targeting ₹75,000 crore to drain short-term liquidity. The window operates under the liquidity adjustment facility on September 22, 2026, with a standard one-day tenor. Counterparties settle the reversal of these short-term funds on September 23, 2026.",
+          "t": "Central Bank Announces Reverse Repo Auction and Swap Inflow Totals",
+          "src": "Reserve Bank of India · India markets",
+          "b": "The central bank, which is the big bank that manages a country's money, announced a special auction to take money out of the banking system. Banks will put seventy five thousand crore rupees into this overnight auction. At the same time, special foreign currency swap inflows reached one hundred forty three point six billion dollars. These inflows helped support the local currency.",
+          "i": "The Reserve Bank of India announced an overnight Variable Rate Reverse Repo auction for seventy five thousand crore rupees to manage liquidity conditions. Meanwhile, total forex swap inflows under the special facility scaled past one hundred forty three point five billion dollars, driven largely by FCNR(B) deposits. The rupee rose eighteen paise to close at ninety five point seventy eight against the US dollar.",
+          "a": "The Reserve Bank of India scheduled a seventy five thousand crore rupee overnight Variable Rate Reverse Repo auction under the liquidity adjustment facility for September 22, 2026. Concurrently, cumulative <span class='term' data-t='carry'>carry</span>-related forex swap inflows scaled past one hundred forty three point five billion dollars, with FCNR(B) deposits accounting for one hundred thirty three billion dollars. Authorised dealer banks reported these positions through September 18, 2026, bolstering the rupee to ninety five point seventy eight against the dollar.",
+          "gloss": "carry",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63640"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63640",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1BWQzUzWVBDdU0yNmU4RnplRHZsV1pDSFF6VFBEMmw4OEJVeThzaW1Vd3JaVVdGdFhvaklmVmg0bmUwb3IwNC02N1FqZGE4SlpnQmQtWDdHU0VWNjlTMmpPUkJyQWVDeURQTkZGVFpjUVN4SjVXcFRVSEhyamtGOGRkWjJrQkhxMFNIVGs3UlFQNnpfRkl3eXRGQkRLUEN2ODNzWjUzSTRLejd4MjVmSjBn0gG6AUFVX3lxTE9ub0RZWlRmM2VlSXR3aDFySTNpVGExQmlObzZ3UDQ4cDVIUlR2WlY4b3BHWERBRDFDZEYwZW1TdUl2S0wxUDk4cGstZHNtNktEczRNZFZyZExLTEtwUGI5eEF3MmUwU0NOSEpHNDR6MDU5RWI5TlNzUW1FX0JvRGQzZGJsVU8tV0Jxd3BJNXhOODNlWEgySEZ1YjZxZlRWaDNKWGJpWDdtMnVycktDbkN3czRsM3ZUUGx0UQ?oc=5"
           ]
         },
         {
-          "t": "Debt Sales and Open Market Operations Change Sovereign Yields",
+          "t": "Government Bond Auctions and Open Market Operations Results",
           "src": "Reserve Bank of India",
-          "b": "The government sells debt instruments to raise funds, similar to issuing IOUs that pay interest. The Reserve Bank of India sold ₹25,000 crore of government securities through open market operations on September 21, 2026. Financial institutions submitted bids totalling ₹84,982 crore for these sales. The central bank also scheduled a separate re-issue of dated securities worth ₹34,000 crore maturing in May 2036.",
-          "i": "The debt management office and the central bank manage sovereign borrowing through primary auctions and secondary market sales. The Reserve Bank of India executed an open market sale accepting ₹25,000 crore against total bids of ₹84,982 crore across multiple <span class='term' data-t='gilt'>gilts</span> on September 21, 2026. Concurrently, authorities announced a separate re-issue of the 6.94% Government Security maturing in 2036 for a notified amount of ₹34,000 crore.",
-          "a": "Sovereign debt management operations combined open market sales with primary issuance announcements on September 21, 2026. The Reserve Bank of India accepted ₹25,000 crore of government paper from ₹84,982 crore in total bids across tenors ranging from 2028 to 2032. Simultaneously, the government scheduled a ₹34,000 crore re-issue of the 6.94% GS 2036 security with an auction date of September 25, 2026.",
+          "b": "The government is selling thirty four thousand crore rupees of a specific security due in May 2036. The central bank also sold twenty five thousand crore rupees of government bonds in an open market sale. Participants placed bids totaling eighty four thousand nine hundred eighty two crore rupees for this sale.",
+          "i": "The government announced the re-issue of the six point ninety four percent Government Security maturing in 2036 for thirty four thousand crore rupees. Separately, the central bank accepted twenty five thousand crore rupees of government securities in an Open Market Operation sale out of eighty four thousand nine hundred eighty two crore rupees in total bids received.",
+          "a": "The Ministry of Finance announced a thirty four thousand crore rupee re-issue of the six point ninety four percent Government Security maturing on May 11, 2036, with settlement slated for September 28, 2026. Concurrently, the central bank executed an Open Market Operation sale absorbing twenty five thousand crore rupees of face value across six dated <span class='term' data-t='gilt'>gilts</span> against total bids of eighty four thousand nine hundred eighty two crore rupees.",
           "gloss": "gilt",
           "links": [
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
-            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63639"
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63639",
+            "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635"
           ]
         }
       ],
       "politics": {
-        "b": "The Reserve Bank of India manages monetary policy and banking rules. It sets capital requirements for commercial lenders under international standards.",
-        "i": "The Reserve Bank of India implements macroprudential regulations and debt auctions. It finalized guidelines on minimum capital requirements for market risk under the Basel III framework for commercial banks.",
-        "a": "The Reserve Bank of India advances regulatory frameworks by issuing final directions on minimum capital requirements for market risk under Basel III. These rules follow draft proposals originally released on February 17, 2023, incorporating stakeholder feedback on the simplified standardised approach."
+        "b": "The central bank manages money supply while the government issues debt securities to fund its operations.",
+        "i": "Monetary authorities balance domestic liquidity through repo auctions and open market operations while managing sovereign debt issuance.",
+        "a": "The central bank employs variable rate reverse repo auctions and open market sales to sterilise liquidity while coordinating primary issuance schedules for sovereign paper."
       },
       "timeline": [
         [
           "17 Feb 2023",
-          "Draft guidelines on Basel III market risk issued"
+          "RBI issued draft guidelines on minimum capital requirements for market risk under Basel III"
         ],
         [
           "08 Jun 2026",
-          "Special USD-INR forex swap facility introduced"
+          "RBI introduced special USD-INR forex swap facility covering FCNR(B) and ECB inflows"
+        ],
+        [
+          "14 Aug 2026",
+          "RBI announced extension of forex swap facility timelines for ECBs and OFCBs"
         ],
         [
           "21 Sep 2026",
-          "RBI conducts open market sale and announces debt auction"
+          "RBI announced a variable rate reverse repo auction of seventy five thousand crore rupees"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Brazilian markets react to interest rate cuts and oil moves",
+      "sub": "Petrobras oil finds and lower interest rate forecasts",
       "ind": [],
       "stories": [
         {
-          "t": "Economists Reduce Interest Rate Forecasts",
-          "src": "Investing.com · Межа. Новини України. · Bloomberg.com",
-          "b": "The main interest rate in Brazil is called the Selic, which acts like the price of borrowing money set by the central bank. Economists lowered their predictions for where this rate will sit in 2026. The new forecast dropped the expected rate to 13.5%. This shift follows recent reductions in borrowing costs.",
-          "i": "Forecasters lowered their 2026 <span class='term' data-t='inflation'>inflation</span>-linked policy rate predictions. Analysts reduced the Selic rate forecast to 13.5%. This adjustment trails a sequence of monetary easing moves by the central bank.",
-          "a": "Consensus adjustments reflect lower terminal rate pricing following recent easing cycles. Forecasters marked down the 2026 Selic projection to 13.5%. Market participants continue to reprice the domestic yield curve in response to shifting central bank guidance.",
-          "gloss": "inflation",
+          "t": "Petrobras Discovers High-Quality Oil and Secures Major LNG Deal",
+          "src": "marketscreener.com · AD HOC NEWS",
+          "b": "An executive at Petrobras announced that an oil exploration find in the Foz do Amazonas yielded very high-quality oil. Petrobras is a large Brazilian energy company. The firm also secured a twenty-year liquefied natural gas deal that influenced its stock and shaped earnings profiles alongside strong profits for the year 2026. A company named Sempra saw its stock edge lower following this energy agreement. Petrobras trades publicly on stock exchanges.",
+          "i": "Petrobras reported that its exploration efforts in the Foz do Amazonas yielded very high-quality oil according to an executive statement. The energy company also finalized a twenty-year liquefied natural gas contract, which influenced its equity valuation alongside strong 2026 earnings. Sempra shares edged lower as this long-term agreement reshaped its earnings profile. Equity markets reacted directly to these corporate developments in the energy sector.",
+          "a": "A Petrobras executive confirmed that the Foz do Amazonas prospect yielded high-quality crude, bolstering the corporate reserve outlook. Concurrently, a twenty-year liquefied natural gas agreement anchored forward earnings visibility, driving strong 2026 profit metrics. Sempra equities adjusted lower as the structural implications of the dual-party supply pact altered its consolidated revenue distribution.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlRDWHY1SHNGLTdzSlNVZHdaRUVrdlBMRGFjcUc2M1kzVmcyYnV6YllFdmM1R0szR3Jta1BMWnJEelZyRkVLYUtkbVlBU0FaZmlMR1FXeXBzeDZPV3d4anh3SWxSYnd1cUNZTG9iY0FIMGtWUVkzdjd6OGtieFd6STAyWnUxN0NMa3lDSmZWTXpyNEx0MFFvZEhqNklDWjVSNDhpNm1WSXE4c3RucmprN3lhOA?oc=5",
-            "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ai1fMVpuaDF1SG1pY2ZGdWc3UkFTWlBLZ1J0Q1VTQWtLS1p6ZG96ekJwSlo2Z0VKendveHFGeXZDWXJYWnFXaTQzdFZfcmYyVEFzVkVZdzNHMXZhejJuUWFCdnBXQkxyNXNYSA?oc=5",
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtKRmxITUx3My1uY3B2UEJXUGVnT3JOWU1ic2U1U0hWenUyYXY5VXJtU1d0UXdKS3JKNkVuTEhjX3dWTjlDVTFUeEJGMXhoeGtEOC1FaFVpRmJGQ0JENVlRTFlKRmlzUXYyMzNEQWkzNDJuajNkNHBqSU5VUUJjaTg4V1hmX08yVXFCc3kzdTBKTkRXdUJrT19qczJXVDZrRi1pb21XYU5xSzR0NjZqSi15cw?oc=5"
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaUIyQnZWeEZWQ1pVODdKN3Jnd0Q2S3F1bUc2RHZvUk00NjBaTGNObjE5emotbDF3Zm8xeWNjanc4a1paR0hnNWw4TkdUNlZ5UXV2ZWxaSV96Smlud3dEN3FHSUd0YjlMeExRdDc0QVY2S004ckZKZFNxOFAxNjd6MWxzOVRudEpCdzlyRUZZS2RNSWhzOFdnc0R3bjBTV2EwSHFNS0NlMllYODVVbjhTZkQ5LXd4Tnl5eWdFTmdLOU9acUQ2LVNsdmdSUU12UQ?oc=5",
+            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVNMZ3JKMU43TFk1WUg1OFRRYVlsSmQ4cXl6b1dfcUZUUWd2RnNpOXdWQkFzbEVvSTBnWHVTZklsUElYZUtBZTFjRFdmYU1DTk9UUld1WG5MLXk2SWx4aGlBb3BnRHlQbk1COHcwSVBHUlUyYUx5Yk9LMVBqNEhidmpzVTdjLTQxMGVoNVlSMVoyWmxUdTNmbG9iVnpjaGxYZTMwWU5aZjlWZW9QUTBGWFhJRXh2aFotZjZHOW5XOGliMUxQYU45NUZDY1dyZw?oc=5",
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDFXZmZzSi1KSjQxSHhnZFhCajkyMjBtS2lZcTVkM3VXYjhOS2dHM3NLNE5CM3lRX1M2a3lxZEp2WDBjanVKOVozTThHVnFBMF9Sai04MW1HSHhseTQ3aVQ0VzlsVk8wNG5zQjNCX3lOSjNqREM0YkhSTkZQb3RVbWJEX1lHcTlyb0VvOEdqMXc3akMxaS12X2duX2p1TTV3U19Uakg3Y2dLMjFpTlAtMjFPM0VYSWowV3BDWkg3aEdabFNITkt3SC11NW9RalVJ?oc=5"
           ]
         },
         {
-          "t": "Petrobras Secures Major Agreement and Boosts Stocks",
-          "src": "TradingView · AD HOC NEWS",
-          "b": "Petrobras signed a 20-year deal for liquefied natural gas. The energy company also posted strong profits for 2026. Sempra stock dropped slightly as this large energy contract reshaped its earnings profile. Meanwhile, the main Brazilian stock index called the Ibovespa went up because oil prices fell.",
-          "i": "Petrobras finalized a 20-year liquefied natural gas agreement alongside robust 2026 earnings projections. Sempra shares edged lower as the long-term contract altered its corporate earnings outlook. The Ibovespa index rebounded as crude oil prices declined across global markets.",
-          "a": "Petrobras closed a 20-year liquefied natural gas contract paired with solid 2026 profit metrics. Sempra equity drifted lower as the structural impact of the supply pact altered its forward earnings profile. The Ibovespa index recovered ground as lower global crude oil prices reduced cost pressures for industrial consumers.",
+          "t": "Economists Lower 2026 Selic Rate Forecast Following Cuts",
+          "src": "TradingView · Traders Union · WEEX",
+          "b": "Economists in Brazil lowered their forecast for the benchmark interest rate, known as the Selic, down to 13.5% for the year 2026. This adjustment followed a recent interest rate cut by the central bank. Lower interest rates typically reduce borrowing costs across the economy. Meanwhile, the Brazilian stock index, the Ibovespa, rebounded as oil prices declined. Currency pairs involving the Brazilian real experienced selling pressure against the US dollar, euro, and British pound.",
+          "i": "Economists lowered their 2026 <span class='term' data-t='inflation'>forecast</span> for the <span class='term' data-t='gilt'>Selic</span> benchmark interest rate to 13.5% following a prior rate reduction. The Ibovespa index subsequently rebounded as lower oil prices altered equity valuations. Foreign exchange markets registered persistent selling pressure against the Brazilian real, keeping the US dollar, euro, and British pound under downward momentum across multiple timeframes.",
+          "a": "Analyst consensus revised the terminal 2026 <span class='term' data-t='gilt'>Selic</span> path downward to 13.5% in response to the monetary easing cycle. Equity benchmarks such as the Ibovespa staged rebounds driven by lower crude pricing dynamics. Cross-border currency desks noted persistent downward pressure on the US dollar, euro, and British pound relative to the real as bearish technical momentum dominated trading ranges.",
+          "gloss": "gilt",
           "links": [
             "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFk3V0lGMHNBR1lQRlNUUjQ0bGZPeFhZUkNrd3JabUJOWnBfZ1VfTmV1aVE5QjI0VVphbzdZX2VoWmhCYzU1aGh3bkl0clNnb0sxRHdPamlPVXMzQmcyWGdzbkxldlJFeEhLeVRTTi1fWllGZF82dGVqTEdKUWhaaDRobGpfVl84Zk4zTkNLWFpmZw?oc=5",
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVNMZ3JKMU43TFk1WUg1OFRRYVlsSmQ4cXl6b1dfcUZUUWd2RnNpOXdWQkFzbEVvSTBnWHVTZklsUElYZUtBZTFjRFdmYU1DTk9UUld1WG5MLXk2SWx4aGlBb3BnRHlQbk1COHcwSVBHUlUyYUx5Yk9LMVBqNEhidmpzVTdjLTQxMGVoNVlSMVoyWmxUdTNmbG9iVnpjaGxYZTMwWU5aZjlWZW9QUTBGWFhJRXh2aFotZjZHOW5XOGliMUxQYU45NUZDY1dyZw?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZDFXZmZzSi1KSjQxSHhnZFhCajkyMjBtS2lZcTVkM3VXYjhOS2dHM3NLNE5CM3lRX1M2a3lxZEp2WDBjanVKOVozTThHVnFBMF9Sai04MW1HSHhseTQ3aVQ0VzlsVk8wNG5zQjNCX3lOSjNqREM0YkhSTkZQb3RVbWJEX1lHcTlyb0VvOEdqMXc3akMxaS12X2duX2p1TTV3U19Uakg3Y2dLMjFpTlAtMjFPM0VYSWowV3BDWkg3aEdabFNITkt3SC11NW9RalVJ?oc=5"
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRzb2xMTjRYemkxamd3dUF2ZG1iV2N6TjNwelo4VG9ndGZzZDBWOVloc0d0Q2N6TXg3OUhVZFU5YWwtTzJHbHg5aHJIM3NfVTVPNmVvSHJmUzA0WHFVOGJZVDN2SllLRTRmaGpsLVRaWDRIRVpoZ016WUdTZGM2RzRrVVk4eWFybVZVbWtuMnRMWVpuWW0w?oc=5",
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRHdFT2V5UnhraWpnZWtfMlBicTNXTVViOWE0bTNqU0g0ak5aYnRfU0JaempnazM3MjRYbktTYnU4UWFscW9uQ0p6MVBDNlhFQ0pXU3lnZjZZUmpySml3WW9XcXNjY1F4MEZmWkdOVHhGUF9XWm9CdjdreUNDV0R1R1NIcHl2OVZEc3ItRQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVFBcFhxSWJ5Znp2RDR3a05BUUplNXpJZG9OWWZETEl5LUR6MEVDVFRXS2hTRDk0Q25WQk1WZXVuYXVidm0zcXlXaWMyckphdkRRbmd6SnMwcHQxMW1FYTF6RTJKbC1IWVlhOTNUeGl3Rm1PMFJTQUVlVDZVelhCbE5GcmVPWjNPVmdJc2htRFo3REx2RlNreWVZVTJPclQtb0k3WVVKQzEwRk9XRmpLdXdKbktfSE9m?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlRDWHY1SHNGLTdzSlNVZHdaRUVrdlBMRGFjcUc2M1kzVmcyYnV6YllFdmM1R0szR3Jta1BMWnJEelZyRkVLYUtkbVlBU0FaZmlMR1FXeXBzeDZPV3d4anh3SWxSYnd1cUNZTG9iY0FIMGtWUVkzdjd6OGtieFd6STAyWnUxN0NMa3lDSmZWTXpyNEx0MFFvZEhqNklDWjVSNDhpNm1WSXE4c3RucmprN3lhOA?oc=5",
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEMxUkZEWlBoVk5JOHFJQ1JUY1BHeUx4dDJQWUJCQXA1NFdYOFV3eHYzWlRpMTRzQUg5dXpzaEYyZFIxTXJTMnl5ek5WSmh3MW5VZDNmNHdHN3R6elRUNkZ2eDUzeFNmSlR6N3FLTnVxWVV2OGc1RmxZdF80dEo5b19IZVZ0T0RrMnFnTGxRTDI?oc=5",
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGhQT09yWWZySWJ3c25JNmd2Vk5HeGhDVFhRMHZDSmhzME9oX1o2dV92TmJ4MFFLd0dwSFVlNUVRZE9XUnd5NHk5UG5raTFjRVFUNzktV2czU1dqb2h6UnNrVFJjTjZkVnNudHp0WGwwWWRfSFFsUjhpY0ZnQ0MyamVDaXdCeDZQcEE?oc=5",
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4ai1fMVpuaDF1SG1pY2ZGdWc3UkFTWlBLZ1J0Q1VTQWtLS1p6ZG96ekJwSlo2Z0VKendveHFGeXZDWXJYWnFXaTQzdFZfcmYyVEFzVkVZdzNHMXZhejJuUWFCdnBXQkxyNXNYSA?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtKRmxITUx3My1uY3B2UEJXUGVnT3JOWU1ic2U1U0hWenUyYXY5VXJtU1d0UXdKS3JKNkVuTEhjX3dWTjlDVTFUeEJGMXhoeGtEOC1FaFVpRmJGQ0JENVlRTFlKRmlzUXYyMzNEQWkzNDJuajNkNHBqSU5VUUJjaTg4V1hmX08yVXFCc3kzdTBKTkRXdUJrT19qczJXVDZrRi1pb21XYU5xSzR0NjZqSi15cw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Economic forecasts shifted following interest rate changes by central authorities.",
-        "i": "Analysts revised macroeconomic projections following monetary adjustments.",
-        "a": "Forecasters recalibrated monetary models following central bank rate adjustments."
+        "b": "Economic forecasts for Brazil shifted as economists adjusted their expectations for national interest rates following recent central bank cuts.",
+        "i": "Brazilian monetary policy expectations shifted as economists revised baseline rate projections downward following official cuts to the Selic rate.",
+        "a": "Forecasters recalibrated macroeconomic models for Brazil to reflect lower terminal policy rates following the central bank's easing actions."
       },
       "timeline": [
         [
-          "21 Sep",
-          "Economists lowered the 2026 Selic interest rate forecast to 13.5% following recent cuts."
-        ],
-        [
-          "21 Sep",
-          "Petrobras announced a 20-year liquefied natural gas deal alongside strong 2026 profit forecasts."
+          "21 Sep 2026",
+          "Brazil economists lowered their 2026 Selic rate forecast to 13.5% following rate cuts."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco supply halts, pipeline attacks, and steel orders",
+      "sub": "Aramco pipeline halts, foreign ownership rises, and deals",
       "ind": [],
       "stories": [
         {
-          "t": "Welspun Corp Rises on Aramco Pipe Order",
-          "src": "Zee Business · Inshorts",
-          "b": "Welspun Corp shares went up by 5%. This happened after an associate company won a steel pipe order worth Rs 2,000 crore from Saudi Aramco. The stock reached a record high on the news.",
-          "i": "Welspun Corp shares gained 5% after an associate secured an over Rs 2,000 crore steel pipe order from Saudi Aramco. The rally pushed the stock price to a record high.",
-          "a": "Welspun Corp rallied 5% to a record high following an associate's award of an over Rs 2,000 crore steel pipe contract from Saudi Aramco.",
+          "t": "Saudi Aramco Halts Crude Supply to India After Pipeline Attack",
+          "src": "BW Businessworld",
+          "b": "Saudi Aramco is a very large Saudi Arabian company that sells oil. It had to stop sending oil to India. This happened after an attack on a pipeline. A pipeline is a long metal tube used to move oil across long distances. The supply stoppage follows the physical damage to that infrastructure.",
+          "i": "Saudi Aramco suspended its crude shipments to India following a physical attack on its pipeline infrastructure. The supply disruption impacts cross-border energy flows between the kingdom and the South Asian market. The company halted deliveries while assessing the damage to the transport route.",
+          "a": "Saudi Aramco truncated its crude export vector to India in the wake of kinetic interdiction against its pipeline assets. The disruption forces refiners in the destination market to rebalance spot-market feedstock procurement. The duration of the outage remains contingent on repair timelines for the damaged conduit network.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFRiTUpxNnhzYk5pVVZnbmV1aVpEaFhfRnVReERHbmUwSzNqSEhzRjFPempGSEZkS1ZvYUc1dEMtdHFfV1M4RHVEUzhvUGIwelYxUDVoMG5WWmdYS29TUGpNT2pVbV9CZWtBR2pFclU5LTNCT3hIajdXdnUxQllQWVpYMGtNQXZSNUtodzZ6TkxkQVdhdkRESjQxa2Y4aEE0ZHZhMzRR?oc=5"
+          ]
+        },
+        {
+          "t": "Foreign Ownership in Saudi Stocks Rises",
+          "src": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+          "b": "People from other countries own a bit more of Saudi Arabian shares now. Shares are tiny slices of ownership in a business. Non-institutional foreign ownership, meaning regular people or funds from abroad outside of the Aramco company, went up last week. It reached 11.21% overall. This shows outside investors hold a slightly larger stake in the local market.",
+          "i": "Non-institutional foreign ownership excluding Saudi Aramco climbed to 11.21% last week. The metric tracks participation by external investors in local equities. This increase reflects incremental capital allocation from abroad into the domestic stock exchange.",
+          "a": "Non-institutional foreign equity participation ex-Aramco advanced to 11.21% over the prior week. The marginal expansion points to steady cross-border portfolio rebalancing into domestic listings. This metric measures the broader floating participation rate available to non-resident entities.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GNW5Gak0tSGVjZU5vdEtmdHFfWUlpQUNLN2UtYXM2UTVHT3NZUGtITGxyQ2NGUEEyLVdaUmV0d2p3X1hNMWt2cFBfUVRidVFpcFJXb1ktVE9SNHhrUk9hT1pXMGtHRjVWY1lVaml3WQ?oc=5"
+          ]
+        },
+        {
+          "t": "Welspun Corp Associate Secures Aramco Steel Pipe Contract",
+          "src": "Zee Business · Construction Week India · Tube & Pipe India",
+          "b": "An associate company of Welspun Corp won a huge order from Saudi Aramco. The deal is worth over Rs 2,000 crore, which means billions of rupees. The order is for steel pipes. After this news came out, Welspun Corp shares gained 5% and hit a record high.",
+          "i": "Welspun Corp's associate entity secured a steel pipe order exceeding Rs 2,000 crore from Saudi Aramco. The major contract win propelled Welspun Corp's share price up by 5%. The equity reached a record high following the announcement of the commercial agreement.",
+          "a": "Welspun Corp's associate clinched an EPIC procurement contract valued at over Rs 2,000 crore for steel pipe supply to Saudi Aramco. The capital influx catalysed a 5% equity rally in Welspun Corp shares to a record high. The valuation re-rating captures the earnings visibility conferred by the heavy-industrial order.",
           "links": [
             "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdHE5S1owdU5od0JsMVZxTzVKMXZDS1MwTjZ3MzhWN05FM2FhakNDSTE5NXdTNEw4VWVJYzJaX1RrbXdVeFZlb3QzdDMwNDd4ektxYU51RTZWQWc2V3VMdkgtYkpLVzEtbGZnWFdSeEtFZmhKOGhWSEFuanEydjJhWS1OLXM2Uy01c25kM0ExMS13UDdTazBPWEZsZV9CTk9yUGJrSmNSeXpGbm9yeE0wdXJKcmJyaVNwMGJCMHdldXliVXYxcGRtWVdHakd2R0RQUkE?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXBKQkdGMjNFTmxudXdWTmpoYm1JY0Z0d1RvdnZxMGc4VTg2UGRibkNZbnBBa085VFpEM2dITlFESU1tWHhNUzhsNFM2RTgxZFRMcTlVUDFvRFhxOVo2cUNqUEtqYWY1NzFIbFR4VjFaeXd3bk42WWRYWF9hc2NySlA4aHRmaVhSbFRrM0xacVgtOTFJUFNLLXhrZU5IUDFWMmIzTG1LWS1jdEd2cy1OTnZ6Yw?oc=5",
+            "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WWEp2V0gyZ2hDdnphVVVtZFlFWDhYd19JMTBsZFNyTGR0Vi03ekxxV3FLM0VpTDdVbXM0S2c5QUNxZXdDX0dzTDg4clRaVVJJbXpmN0NHUFh2aHRUVEpUdg?oc=5",
             "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjVCQ0tENUFod0RidXFoS0dKMW02VnZ3UWpGZGNBVHcwM0Via19sMHl1RGtLbkNVSXlTWTlMOF84TmtKTFVpVVJiNENuTTNMdHNaWUdYWnRkSmVaTWNMVy14cUd6d1c3ZVZhbWlfeHpmajZxNEtuRVNwUVdhdHROU2MtZS1TUFR4X1FBcjN0Z2VJR2xYRTNpWkdfaDVxN3FCc0xBNVctQ07SAagBQVVfeXFMTWI1QkNLRDVBaHdEYnVxaEtHSjFtNlZ2d1FqRmRjQVR3MDNFYmtfbDB5dURrS25DVUl5U1k5TDhfOE5rSkxVaVVSYjRDbk0zTHRzWllHWFp0ZEplWk1jTFcteHFHendXN2VWYW1pX3h6Zmo2cTRLbkVTcFFXYXR0TlNjLWUtU1BUeF9RQXIzdGdlSUdsWEUzaVpHX2g1cTdxQnNMQTVXLUNO?oc=5"
-          ]
-        },
-        {
-          "t": "Saudi Aramco Halts European Crude Deliveries",
-          "src": "AKIpress News Agency",
-          "b": "Saudi Aramco stopped sending crude oil deliveries to refineries in Europe. This decision followed an attack on a pipeline.",
-          "i": "Saudi Aramco suspended crude oil deliveries to European refineries. The halt came directly after a pipeline attack.",
-          "a": "Saudi Aramco halted crude oil deliveries to European refineries in the wake of a pipeline attack.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHBaUWt4UjJBSk9FSGRnMUJMS2VEeGZIY2FrVDRXMUhWVXhjUDVsZFFXMkR1VFp6T2x5cmE4UDNNOHEtMmV2V0JNdTFNNFEtMTdqVk81LWsxdXRZSmdJS3lJanlCM1R3SGw2dGdkS1hYR0MxZDdodklHMUtac1otMkN0NzN4WmxsYVFtd09TNDRFaEh4TmxVd2hWVjEwOXBtTHh2T1BabWE0NGp0NEc2TzNnYXdFdGJKcTFVcWJQNA?oc=5"
-          ]
-        },
-        {
-          "t": "Aramco Stock Holds Steady After Second Quarter Profit",
-          "src": "AD HOC NEWS",
-          "b": "Saudi Aramco stock stayed near SAR 25.90. This followed the release of the company's second quarter profit.",
-          "i": "Saudi Aramco shares held near SAR 25.90 following the release of Q2 profit results.",
-          "a": "Saudi Aramco equity traded flat near SAR 25.90 post Q2 profit figures.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWmFXcjFNak5TXzdoNTQzVnJYa3pzczgyMWRkSjB3N0ZxN2xRWlhra1Jwd1dhLUxoZE41eWNjZVVDamVONTNjR25WZ3p0eHNOb3AwQ1J2SU16LXZnQzU4M3gweHN2Zy1aMmRhQW1ZVktMMlNvbHVLRVJCcnpOTnBBUERWWktCWXBLNXU4X3l4RS0yY0FzZk5PMHlsY0JGelpkeW8xQ2x0TmNSd2c1VkZzblpjalFuWTRKZVE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "An American-Saudi alliance is currently talking with an investment fund to purchase Al-Nassr. At the same time, Saudi oil scientists participated in global climate reports.",
-        "i": "An American-Saudi alliance engaged in discussions with the investment fund to acquire Al-Nassr. Meanwhile, Saudi oil scientists contributed to major climate reports.",
-        "a": "An American-Saudi alliance pursued talks with the investment fund regarding the acquisition of Al-Nassr. Concurrently, Saudi oil scientists authored prominent climate reports."
+        "b": "An American and Saudi group is talking with the Public Investment Fund. They want to buy the Al-Nassr football club. A famous player named Ronaldo is part of the talks. The Public Investment Fund is the main state investment tool of Saudi Arabia.",
+        "i": "An American-Saudi alliance is negotiating with the Public Investment Fund regarding the acquisition of Al-Nassr. The discussions involve player Cristiano Ronaldo in the deal framework. The Public Investment Fund serves as the sovereign wealth vehicle for the Saudi state.",
+        "a": "An American-Saudi consortium is actively negotiating with the Public Investment Fund to secure ownership of Al-Nassr. The transaction discussions feature Cristiano Ronaldo prominently within the commercial structure. The Public Investment Fund acts as the principal sovereign investment vehicle driving domestic sports privatization efforts."
       },
       "timeline": [
         [
-          "21 Sep 2026",
-          "Welspun Corp shares jumped 5% following a major Aramco steel pipe contract."
-        ],
-        [
-          "21 Sep 2026",
-          "Saudi Aramco halted European crude deliveries after a pipeline attack."
+          "21 Sep",
+          "Saudi Aramco halts India crude supply after pipeline attack"
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Central Bank meets as inflation eases to 15.39%",
+      "sub": "Central bank meets, naira rates hold, and pension funds paid",
       "ind": [],
       "stories": [
         {
-          "t": "Central Bank Convenes Policy Meeting Amid Moderating Price Pressures",
+          "t": "Central Bank of Nigeria Convenes Policy Meeting Amid Easing Price Pressures",
           "src": "streamlinefeed.co.ke",
-          "b": "The Central Bank of Nigeria is the big group that manages the country's money and prices. They just started a policy meeting for September. This is where leaders talk about interest rates, which are like the cost of borrowing money. The meeting comes as <span class='term' data-t='inflation'>inflation</span>, which means the speed at which prices go up, eases to 15.39%.",
-          "i": "The Central Bank of Nigeria opened its September policy meeting as <span class='term' data-t='inflation'>inflation</span> figures eased to 15.39%. Policymakers gather to adjust monetary levers that manage price stability across the economy. Officials evaluate these easing metrics to determine upcoming adjustments to borrowing costs. The central bank committee weighs current macroeconomic data as discussions officially get underway.",
-          "a": "The Central Bank of Nigeria initiated its September monetary policy committee deliberations against a backdrop of headline <span class='term' data-t='inflation'>inflation</span> printing at 15.39%. Committee members evaluate the transmission mechanism of prior rate hikes to ascertain if price growth deceleration justifies a policy pivot. Market participants parse the meeting openings for forward guidance on liquidity management and reserve requirements.",
+          "b": "The Central Bank of Nigeria is the group that manages the country's money and sets borrowing costs. It started its September policy meeting on September 21, 2026. Price rises across the country slowed down, bringing the <span class='term' data-t='inflation'>inflation</span> rate to 15.39%. This meeting brings officials together to decide on monetary rules.",
+          "i": "The Central Bank of Nigeria opened its September policy meeting on September 21, 2026. The gathering comes as <span class='term' data-t='inflation'>inflation</span> slows to 15.39%. Policymakers now weigh this easing price growth against their current monetary stance.",
+          "a": "The Central Bank of Nigeria initiated its September policy meeting on September 21, 2026. The deliberations commence against a backdrop of headline <span class='term' data-t='inflation'>inflation</span> easing to 15.39%. Analysts track whether this deceleration shifts the trajectory of the policy rate.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzB2aXpLRzJrZ3JObTVEVV9RTjlnU0JvVGtpci1oYXNVOEZmQmo4MkFRZUYzSS1NT3htYjVYbl9xUXRhOW9BdjBITXFFc0hmUE54bzIwUG45bVZscVVVVERqOUktQUlwcG1qWDkwRE91T01YTlFYazczb0NsZmtfMkdFWEZiODM5M0xKOVMwcXZ2eVV1OTd3alRnejlBQl9zZmIzdUoxeGFmdXJWWFlDdGlpRHVwMU0?oc=5"
           ]
         },
         {
-          "t": "Naira Maintains Stability Against the Dollar",
-          "src": "The Trumpet Newspaper Nigeria · nairametrics.com",
-          "b": "The naira is the official money used in Nigeria. It held steady at ₦1,331 against the US dollar. Currency traders watch this exchange rate every day to see how much foreign money one naira can buy. The dollar's strength currently outweighs the central bank's usual playbook.",
-          "i": "The naira held steady at ₦1,331 against the United States dollar in foreign exchange trading. Currency analysts note that the bullish outlook for the local currency has softened. Strong dollar demand currently outweighs the current playbook deployed by the Central Bank of Nigeria.",
-          "a": "The naira traded flat at ₦1,331 per United States dollar as broader greenback momentum challenged domestic defense mechanisms. The diminishing bullish bias in the local unit underscores the limits of the Central Bank of Nigeria's current intervention playbook against persistent foreign exchange pressures.",
+          "t": "Naira Trades Near ₦1,331 Per Dollar While Federal Government Clears Pension Arrears",
+          "src": "The Trumpet Newspaper Nigeria · Leadership Hausa · Legit News",
+          "b": "The Nigerian naira held steady at ₦1,331 against the United States dollar on September 21, 2026. The British pound also dropped below ₦2,000 against the naira. Meanwhile, the Federal Government paid ₦1.1 billion to pensioners. This payment helps citizens who finished working for the state.",
+          "i": "The Nigerian naira held steady at ₦1,331 against the dollar on September 21, 2026. The British pound also fell against the naira, moving below the ₦2,000 threshold. Concurrently, the Federal Government disbursed ₦1.1 billion to pensioners.",
+          "a": "The Nigerian naira maintained a stable exchange rate of ₦1,331 per dollar on September 21, 2026. Sterling declined against the local currency to trade below the ₦2,000 mark. Simultaneously, the Federal Government executed a disbursement of ₦1.1 billion to pensioners.",
           "links": [
-            "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pU2RqcEZXV2o2QXVNdlNpLVdIa051eUtsQXJDVHh0VWRmbVpyNlBTUzhnTHpyY2FlY0ZKemNtdlpkOXdwMnZ5cEZLZHFnXzhVZ2RCWVVGaU1xaDNicm41YzZJYW1CaH-zRmTkdST25sUUt1M2dsQVQycU90dw?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2ZkTExGS2dueVZMeEVvbklDc1hnV1Z5b3I0WWJrUFFVWWJyYmRrUHctWl9ZRkJrZGhHcE11TnVYUHJmSVVGU0k1S1JnYVY3V05OaHBlTFlJcG94Y0ZHVUUyOE50UnFTZFhQRTZXbGdWZjhuX3hMa1d6N0JhYlVLXzlyRXB5YThDVDVBM2ZmdC1wWHFvbURXZV9KUnJUV0lBQ2h1cUlVRGRDWklMLWY3ZC1yOGJfZw?oc=5"
+            "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pU2RqcEZXV2o2QXVNdlNpLVdIa051eUtsQXJDVHh0VWRmbVpyNlBTUzhnTHpyY2FlY0ZKemNtdlpkOXdwMnZ5cEZLZHFnXzhVZ2RCWVVGaU1xaDNicm41YzZJYW1CaHAtczRmTkdST25sUUt1M2dsQVQycU90dw?oc=5",
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWVQX1FYXy1DMWI0YjZxenlaRWtvNDBuT2YzOVNDZGNRRjNPRlE2OFZnOENuSlZ2Zm9TUjdEdzFaTURHUWVVZ3F1bUVhYlBTZ2FBdHNHTi1yYjF3MGRreTExRExVQ1RucHRfUTNaYWhKaTZVT2FvMVlkc2o3enMtZm05VmlIX1hYYWJCQ0thU3lzOHdpNVpvclB4MEcxeUdjVm90aGJ1RGpsbU45aDN6Qw?oc=5",
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkNCT1lpVWJXZnMyTHp2d05sMHdwcnRhUVpQcmtYcWY0SDFPLW5hbUtmNjNUNUNycFNZODNVZnE0bXVNS0FBanA2QmtCTDVPd0lrVlNuUTJmMGJ2Rm9yX2NuRnpoSjNDWEZKTnVWakZzOWhpQUFjQUxTUUpWdEJYNjFEb0xJb2kzYmF4M0lvRUctNGhmSkRaNkdLUWdDdk5Ya05hX3AxbTVvWms?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The federal government paid out 1.1 billion naira to pensioners. Pensioners are older people who receive regular payments after finishing their working careers.",
-        "i": "The Federal Government disbursed 1.1 billion naira in payments to pensioners across the country. State disbursements continue to draw legal scrutiny as the Oyo governor filed a lawsuit against Abia State over a 200 million naira campaign fee.",
-        "a": "The Federal Government executed a 1.1 billion naira disbursement to domestic pension beneficiaries. Concurrently, inter-state legal disputes emerged as the Oyo governor initiated litigation against Abia State concerning a 200 million naira campaign fee claim."
+        "b": "The Governor of Oyo State filed a lawsuit against Abia State over a campaign fee of two hundred million naira on September 21, 2026. Legal teams will argue the case in court.",
+        "i": "The Governor of Oyo State initiated a lawsuit against Abia State on September 21, 2026. The legal action concerns a campaign fee of 200 million naira.",
+        "a": "The Governor of Oyo State lodged legal proceedings against Abia State on September 21, 2026. The dispute centers on a 200 million naira campaign fee claim.",
+        "sources": {
+          "0": {
+            "outlet": "Head Topics",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1dULTZ3YkJMMnNWaFB1QXAxVWtENDBsZ2gwaXhwTW12ZUw4YVlJOWR0dTFaNmxjVTdEVEp3eEoyRG9tWk5UU1ZQRG9JX1RKOUFBR09ScjdHd190TnZFQTlGUHRQX1ExVk9hMmlSLVV3T1ZHbVNFVWdNdk5oU3VJSFptZUgzMFFDSVNKZDNFU25VQ0VtQV9veW9XYTQxT3RQ?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "21 Sep 2026",
-          "The Central Bank of Nigeria opened its September policy meeting as inflation eased to 15.39%."
-        ],
-        [
-          "21 Sep 2026",
-          "The naira held steady at ₦1,331 against the United States dollar."
-        ],
-        [
-          "21 Sep 2026",
-          "The Federal Government paid 1.1 billion naira to pensioners."
+          "The Central Bank of Nigeria opened its September policy meeting as inflation reached 15.39%."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "ASX flat, currency up on rate hike bets",
+      "sub": "Corporate moves and resource asset updates across Australia",
       "ind": [],
       "stories": [
         {
-          "t": "Index finishes flat",
-          "src": "Investing.com",
-          "b": "The main Australian stock market index is called the S&P/ASX 200. An index is a group of company shares tracked together to show how a market is doing. This index finished the trading day slightly higher. It gained 0.01% at the close of trade.",
-          "i": "The S&P/ASX 200 finished the trading session higher. The benchmark index scraped a gain of 0.01% by the close of trade.",
-          "a": "The S&P/ASX 200 printed a marginal gain at the close of trade. The benchmark index ticked up by 0.01% in quiet afternoon sessions.",
+          "t": "ASX Appoints New Chief Financial Officer",
+          "src": "AFR · simplywall.st",
+          "b": "The Australian Securities Exchange, which runs the stock market where shares are bought and sold, has a new finance chief. The company hired a new chief financial officer from Dexus. This change is part of a larger leadership reset at the exchange.",
+          "i": "The Australian Securities Exchange recruited a new chief financial officer from Dexus. This executive transition forms part of a broader leadership overhaul at the stock exchange operator. Market participants are evaluating how the updated management team will direct the company.",
+          "a": "The Australian Securities Exchange secured a chief financial officer from Dexus to execute its executive reset. This leadership transition alters the governance framework overseeing the primary listing venue. Analysts are pricing in potential shifts in capital allocation following the management restructuring.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFhBN1dfRzZkQWlsdlpzRE9vdGpZem13WG5obzlzSkFNRmtLVkZKVFFlUkRwcTljNVpZUWhyUWpvb21COGotZXRNQm12eUlJdGxKWFMzc3BzNHFwdExtTWRuQ2txQnpsaEZGQ0lUMU1td0o3a3V0ZlVLdkVWSkJYY0NCQ0RNNkNiUXVMT2VfTTNYYVNVV3JKQV9Wc3l5by1VTlhpSUZJaUx1ckRfMXFMOXZBaVhNQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzdHX1pDbmdtaGFZSF9DN21POHZYTkRxaHhtQk1aeUJZRmpoU1l1c041R1lMMjNhWTNvOUc4bUxWOVFhdFNIVXM1ZlREcHE4THJ3VzJ3MmcxbkZ1bnVqdUNWdTNUTFVSX001RFA0QnA4clhieU1MVTEzWlRlaWxLVmRHenpKVlQ1bldvUDUxMlpXQWFCZnNjZW40d0d6TWVraFFMOEc4bjI?oc=5",
+            "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRnpFYkhuWVJaNG4zUFlOR2ZfX2JSZnJMZjFtVVNJSkhDUUZabk1HNEZ1MHFONzRXRmdiLV9ONHlLekR1Y2RGMnZjdDBTVHZCei1LNlg3M2kyZEJhb0ZzOGVPYW53WXAxZERWUEc5VkEzUGlUYUlrYTVPc2drQzlaRDI4VVlKbzZPamt0dUlQWDF0djY4ZUxPSFBiUkNjWmlWRUI4cWs0Zm16T1F6WXd4aS1WT3Vrb3BudmJncDlzaXAyallIU0hqX3N0NE00ODBFeWpBT01R0gHbAUFVX3lxTE5seTBianVLUkc2anVkMXBWNkFvVGhkMU11Y19fdFNLblZDcWNzRWtNWjRHV0M0OFI5ZFpQemYtT18xcXhGZS15bjBOTGNycmw5VnZOdE8xMWY2RjlPZ3BnYTZhRm1WRzk4SHdHX2VFZkxON19USU4wVVF6TlJ5ek9WenIxb3dCaEpWWUlvTjdIUHRXaExCa1pOQUlNdTNGTGxXQkVESFkweWF3eGtORldMeTVCWVNrQ0QyU0xxckliRmx4cUx1RlBPVmNoMFdiQmN6ZTBQZWhWV2FEcw?oc=5"
           ]
         },
         {
-          "t": "Currency climbs on expectations",
-          "src": "FXStreet",
-          "b": "The Australian dollar went up in value. Traders expect the Reserve Bank of Australia to increase interest rates soon. Interest rates are the cost of borrowing money set by a central bank. This rise comes ahead of upcoming jobs data and comments from officials.",
-          "i": "The Australian dollar edged higher against major peers. Traders ramped up bets on a rate hike from the Reserve Bank of Australia. This currency strength precedes upcoming employment figures and remarks from Governor Bullock.",
-          "a": "The Australian dollar edged higher as market participants priced in renewed <span class='term' data-t='inflation'>inflation</span>-driven tightening expectations. Traders increased rate-hike probabilities for the Reserve Bank of Australia. These positioning shifts precede upcoming labor force statistics and addresses from domestic officials.",
-          "gloss": "inflation",
+          "t": "Seppelt Wine Label Acquired by Thickins Family",
+          "src": "AFR",
+          "b": "A century-old wine brand has a new owner. The family of Joel Thickins bought the historic Seppelt wine label. This purchase brings new private ownership to the old wine business.",
+          "i": "The family of Joel Thickins acquired the century-old Seppelt wine label. This transaction transfers ownership of the historical brand into private hands. The deal highlights ongoing private capital interest in heritage food and beverage assets.",
+          "a": "Joel Thickins' family completed the acquisition of the century-old Seppelt wine label. The transaction introduces private family office capital into a legacy agricultural brand. Valuation metrics and terms for the heritage asset purchase remain undisclosed.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFQ1dHJRZ1RORXNOVnh5VDVNUHlQX2FfNFFEUDZhVjFxbXd1REdINXFhT2VaaE1VNGdnVnpPWmJDVDMyd3o0QklEMHpCOTFlVWJHUngzamlfMWM2Y3dreUd5QWY2aHFoNXUwOW81enI4a2lzeWpVVlJnOE93d19JRHJkNWt1RHBBTUtUbVhieDlJQnBJbGFzS0hjeVFaRmJwdVlLcTFlMm5GcHJ5bG1LRFMxeGJiNFN6dUlhVlNIWGs0RHc?oc=5"
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYldiaEhGM3ZZNzlpWGZ3U2QzekpJUFFweUdfTndrTTJWVG5XVFA1SkVUUzNPbzUtRTJrQXVQYnJBclRXMjRKb1hSZTdhMGo4azJvZXJaZGtJM2tPTm9CMTF3T09fUjFKYlltd2htellaS1pYQ0JkSnBtT0VwcUg4Z1ZGcUtlUXRocFZvRG00UkcwX0pFQXgyUnE5eENtRkN3aG1vY3J6cFN2STBFR2lmNTBNbw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "There are no political updates for Australia in the provided sources.",
-        "i": "No political developments were reported in the Australian market updates.",
-        "a": "No political risk factors or sovereign updates were detailed in the regional news feed."
+        "b": "No political news was reported in the markets today.",
+        "i": "No political developments were recorded across Australian markets.",
+        "a": "No macroeconomic policy updates or legislative announcements were registered in the current session."
       },
       "timeline": [
         [
-          "21 Sep 2026",
-          "The S&P/ASX 200 closed up 0.01%."
+          "21 Sep",
+          "ASX hires Dexus chief financial officer in executive reset"
         ],
         [
-          "21 Sep 2026",
-          "The Australian dollar edged higher ahead of upcoming jobs data."
+          "21 Sep",
+          "Joel Thickins' family acquires historical Seppelt wine label"
         ]
       ]
     }
