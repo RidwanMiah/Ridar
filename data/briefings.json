@@ -1,109 +1,70 @@
 {
-  "generated": "2026-09-23T03:26:41.883Z",
+  "generated": "2026-09-23T04:27:32.550Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "23 September 2026",
-    "headline": "The Nasdaq reached a record high as technology shares rallied while the pound slipped.",
+    "headline": "The Nasdaq hit a record high as memory chip makers rallied and oil prices declined.",
     "lede": {
-      "b": "The Nasdaq index, which is a stock market tracker for major technology companies, hit a record high. Artificial intelligence shares rose alongside it. Lower crude oil prices and reduced bond yields, which are the returns paid to investors who lend money to governments, helped the tech sector grow. Meanwhile, the British pound fell below 1.34 against the US dollar because public borrowing increased.",
-      "i": "The Nasdaq climbed to a record high driven by gains in artificial intelligence shares and lower crude oil prices. Reduced bond <span class='term' data-t='inflation'>yields</span> lowered corporate borrowing costs, lifting technology equities. At the same time, the British pound slipped against the greenback as rising domestic public borrowing pressured the currency.",
-      "a": "The Nasdaq printed a record high on an artificial intelligence bid coupled with a softening of crude and compression in duration <span class='term' data-t='inflation'>yields</span>. Concurrently, sterling drifted lower against the dollar under the weight of expanding UK public sector borrowing projections. The divergence reflects US rate expectations drawing capital offshore while domestic debt issuance weighs on domestic sentiment."
+      "b": "The Nasdaq index reached a new record high as technology shares climbed. Technology shares are stocks in computer and software companies. Memory chip makers recorded strong advances, with SanDisk rising over 6% and Micron gaining 5%. Falling bond yields helped support these technology equities. Bond yields are the returns investors get from lending money to governments.",
+      "i": "The Nasdaq index reached a new record high driven by gains among technology equities and memory chip makers. SanDisk rallied over 6% and Micron advanced 5% during the session. Falling <span class='term' data-t='inflation'>inflation</span>-sensitive <span class='term' data-t='gilts'>bond</span> yields and lower crude oil prices supported the broader technology sector. Meanwhile, S&P 500 companies tracked toward a third consecutive quarter of earnings growth exceeding 25%.",
+      "a": "The Nasdaq index printed a record high underpinned by outperformance in memory chip makers, where SanDisk rallied over 6% and Micron advanced 5%. Declining crude oil prices and falling sovereign <span class='term' data-t='gilts'>bond</span> yields compressed discount rates, sustaining tech equity valuations despite lagging broader index price action. Concurrently, S&P 500 constituents tracked toward a third consecutive quarter of earnings growth exceeding 25%."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "The Nasdaq hit a record high after SanDisk shares gained over 6% and Micron advanced 5%.",
-        "i": "The Nasdaq reached a record high as SanDisk shares rallied over 6% and Micron added 5%.",
-        "a": "The Nasdaq touched record territory supported by a 6% rally in SanDisk and a 5% gain in Micron."
+        "b": "The Nasdaq reached a record high as memory chip makers SanDisk and Micron gained over 6% and 5% respectively.",
+        "i": "The Nasdaq reached a record high as memory chip makers SanDisk and Micron gained over 6% and 5% respectively.",
+        "a": "The Nasdaq reached a record high as memory chip makers SanDisk and Micron gained over 6% and 5% respectively."
       },
       {
         "c": "United Kingdom",
-        "b": "The pound slipped below 1.34 against the US dollar due to higher public borrowing.",
-        "i": "Sterling remained constrained below 1.34 against the dollar as public borrowing increased.",
-        "a": "Sterling traded below 1.34 against the dollar amid concerns over surging public borrowing supply."
+        "b": "John Healey considered potential tax adjustments ahead of the upcoming fiscal statement.",
+        "i": "John Healey evaluated potential tax adjustments and revenue implications across asset classes ahead of the Budget.",
+        "a": "John Healey evaluated potential tax adjustments and revenue implications across asset classes ahead of the Budget."
       },
       {
         "c": "Germany",
-        "b": "The DAX 40 finished barely higher at 25,600.01 after a volatile trading session.",
-        "i": "The DAX 40 closed up 0.10% at 25,600.01 following a 360-point intraday swing.",
-        "a": "The DAX 40 settled 0.10% higher at 25,600.01 after navigating a 360-point intraday range."
+        "b": "The DAX 40 index rose 0.10% to close at 25,600.01 after a volatile session.",
+        "i": "The DAX 40 index gained 0.10% to close at 25,600.01 following a 360-point intraday range.",
+        "a": "The DAX 40 index gained 0.10% to close at 25,600.01 following a 360-point intraday range."
       },
       {
         "c": "Japan",
-        "b": "The Japanese yen softened as the central bank offered no new rate hikes.",
-        "i": "The Japanese yen weakened as the central bank gave no hawkish guidance on interest rates.",
-        "a": "The Japanese yen softened as the central bank abstained from delivering hawkish rate guidance."
-      },
-      {
-        "c": "China",
-        "b": "CATL finalized a 4 billion yuan green bond offering to fund sustainable operations.",
-        "i": "CATL completed a 4 billion yuan green bond sale to support sustainable operations.",
-        "a": "CATL priced a 4 billion yuan green issuance to finance sustainable operations."
-      },
-      {
-        "c": "India",
-        "b": "Asian shares extended their winning streak to a sixth session during an AI rally.",
-        "i": "Asian shares extended their winning streak to a sixth session as an AI-led rally lifted regional equities.",
-        "a": "Asian equities extended their winning streak to six sessions on ongoing tech sector momentum."
-      },
-      {
-        "c": "Brazil",
-        "b": "Petrobras invested R$ 450 million in a new 92-meter vessel featuring a female crew.",
-        "i": "Petrobras deployed R$ 450 million for a 92-meter vessel to supply offshore platforms.",
-        "a": "Petrobras allocated R$ 450 million for a 92-meter supply vessel servicing deepwater platforms."
-      },
-      {
-        "c": "Saudi Arabia",
-        "b": "Saudi Aramco achieved a partial restart on its strategic Red Sea pipeline.",
-        "i": "Saudi Aramco executed a partial restart of its strategic Red Sea pipeline.",
-        "a": "Saudi Aramco brought its strategic Red Sea pipeline back online for partial operations."
-      },
-      {
-        "c": "Nigeria",
-        "b": "The Central Bank of Nigeria reduced its benchmark interest rate to 23%.",
-        "i": "The Central Bank of Nigeria lowered its benchmark interest rate to 23%.",
-        "a": "The Central Bank of Nigeria reduced its monetary policy rate to 23%."
-      },
-      {
-        "c": "Australia",
-        "b": "The Reserve Bank of Australia reported that ASX Limited still misses key benchmarks.",
-        "i": "The Reserve Bank of Australia stated that ASX Limited still misses operational resilience benchmarks.",
-        "a": "The Reserve Bank of Australia cited ongoing resilience and governance deficiencies at ASX Limited."
+        "b": "The Japanese Yen softened near 157.50 against the dollar as the Bank of Japan held rate guidance.",
+        "i": "The USD/JPY pair hovered near 157.50 as the Bank of Japan omitted hawkish guidance from its communications.",
+        "a": "The USD/JPY pair hovered near 157.50 as the Bank of Japan omitted hawkish guidance from its communications."
       }
     ],
     "thread": {
-      "b": "Crude oil prices fell below $100 per barrel across global markets. Officials discussed potential supply shifts linked to diplomatic developments.",
-      "i": "Crude oil prices hovered below $100 per barrel globally. Markets also monitored diplomatic developments concerning maritime shipping routes.",
-      "a": "Crude benchmarks traded below $100 per barrel as market participants priced in potential supply additions from regional diplomatic developments."
+      "b": "Energy expenses and oil prices influenced central bank discussions across Europe and Germany. Currency values fluctuated as the Japanese Yen and Chinese yuan both eased.",
+      "i": "Crude oil price movements dominated central bank discussions in Europe alongside currency adjustments in Asia. Sovereign debt issuance expanded in China while bond yields fell in the United States.",
+      "a": "Energy cost dynamics framed monetary policy transmissions in Europe while sovereign bond yields and equity valuations diverged across major indices."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "Nasdaq hits record high amid AI rally and lower oil",
+      "sub": "Nasdaq hits record high as tech stocks and profits climb",
       "ind": [],
       "stories": [
         {
-          "t": "Nasdaq Hits Record High as Tech Stocks Rally",
-          "src": "Investor's Business Daily · Yahoo Finance · Moomoo",
-          "b": "The Nasdaq index tracks a big group of tech companies. It reached a brand new record high. Lower oil prices and lower yields helped push tech stocks up. A yield is like the interest paid on a loan or bond. SanDisk shares went up over 6% and Micron shares climbed 5%.",
-          "i": "The Nasdaq reached a record high alongside gains in artificial intelligence shares. Lower crude oil prices and reduced <span class='term' data-t='inflation'>yields</span> supported the technology sector. SanDisk shares rallied more than 6%, while Micron shares advanced 5%.",
-          "a": "The Nasdaq printed a record high driven by the ongoing artificial intelligence narrative and supportive macro vectors. Lower crude oil benchmarks and falling <span class='term' data-t='inflation'>yields</span> compressed discount rates, disproportionately benefiting duration-heavy technology equities. Memory names outperformed, with SanDisk rallying over 6% and Micron gaining 5%.",
-          "gloss": "inflation",
+          "t": "Nasdaq Reaches Record High Driven by Tech and Memory Chip Gains",
+          "src": "TradingKey",
+          "b": "The Nasdaq index measures the value of many big technology companies. This index reached a record high. Lower oil prices and lower yields, which are like the interest paid on government loans, helped lift technology shares. Companies like SanDisk gained more than 6%, and Micron shares rose 5%.",
+          "i": "The Nasdaq index climbed to a new record high. Declining crude oil prices and falling bond yields supported technology equities. Memory chip makers recorded strong advances, with SanDisk rallying over 6% and Micron rising 5%.",
+          "a": "The Nasdaq Composite printed a record high as lower crude oil prices and compressed yields catalyzed a tech-sector rotation. Memory equities outperformed aggressively, led by SanDisk gaining more than 6% and Micron advancing 5%.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmdCYk1HUkZUVi03VDRCTmpkVi1kblVTZDdxUnotRi13Tl9mNWx5RzNuYVNHcnVDOVVxaHkwRF9vNk9KNWdYMGY5SlhhM3lDVld1cnVoWC01bHJieGhYWGtfS3dlc1lzdW5VVEVDZ3M1M2JSTy1NdTFtaVlIcUp1Ry10ZVNkR0IyT0NlNGdJRlZqNkZZVnBJU1gzWnNOTHUwajJzdnpIa1lnb185QXJQUzFQdDVQOFVvRk5oTw?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmw4ZEhRNUQzN3pRRW1vdXh4aEdlQXZvVzBreXhOQVRJUEpPZ2xQZ1loRGVjZTVyUUdfTHp4STlSVHdNTkZsVng3OXotWjRzRVJnWDRTcW8wTE5WQTRpLThqaldMYUQ5OVUxOGhsc0otNVdEcTdXcnF2cFk1bl9WTi1OTFFXcTd6ZElIOWlMOGM?oc=5",
-            "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjdlcDM1YmpnZkx5VU1MMnFxbE1nUVRXT3VXQWpvVmZ0WGJROU5zWGI5RldHNURTcmpqb0k0RjNaVnNiVkpkT3FGRWdqRDhxUVJQZmxrVEFCYnhhblVaaDE4blpZdlN5ay0tZmZIUXNST0FJbm9kNmdvZmxQMG9CLXVUeWZTNWt3WEY0bW5OZXdTNUZJVUF5YWVwMlZDNmtTc3FRY0FSUnVLbnYzQ3Bn?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmdrNml3Z0o1aHJacmI1VHRDUGtZMFhrU291ZTZKTzQ1N2tIcHRlcXlBRV9tTVRNMjRSY29yUmNDZFNBUWI4UEdpenp3TmNDb1RqTUZmMTV2TmlnN01DUm11WkNIOFNQWmYxQ1p6V3FoUVJ6UTkwY2ptSHlNQ0tVNDRva25lUTd6enpIUmhtYWkzWjNwaUcxZGNTUXRrWmdaYThOYnU5SXhrTFNP?oc=5"
           ]
         },
         {
-          "t": "S&P 500 Profits Grow While Index Lags",
+          "t": "S&P 500 Companies Head for Third Quarter of Strong Profit Growth",
           "src": "The Motley Fool · Yahoo Finance",
-          "b": "Companies in the S&P 500 index are making a lot more money. Profits are on track for a third straight quarter of 25% plus growth. However, the overall index price has not kept up with this rapid profit growth. Iran diplomacy hopes also helped push markets higher.",
-          "i": "S&P 500 corporate profits are on track for a third consecutive quarter of over 25% growth. Despite this strong earnings expansion, the overall index has not kept pace with the profit gains. Meanwhile, indices climbed as investors weighed diplomacy hopes regarding Iran.",
-          "a": "S&P 500 aggregate earnings trajectory remains robust, tracking toward a third successive quarter of exceeding 25% profit growth. Price action across the broader index has decoupled from this underlying fundamental expansion, failing to track the earnings velocity. Concurrently, geopolitical sentiment shifted slightly as diplomacy hopes involving Iran influenced risk appetite.",
+          "b": "Companies in the S&P 500, a group of five hundred large American businesses, are heading toward their third straight quarter of profit growth above 25%. However, the overall index value has not kept pace with these massive earnings increases. Stock futures for major indexes also climbed alongside hopes for diplomacy involving Iran.",
+          "i": "Profits across the S&P 500 index tracked toward a third consecutive quarter of growth exceeding 25%. Equity prices have lagged behind this earnings expansion. Meanwhile, futures contracts for the Dow Jones, S&P 500, and Nasdaq climbed alongside optimism surrounding Iran diplomacy.",
+          "a": "S&P 500 corporate earnings are on track for a third successive quarter of 25%-plus growth, creating a valuation divergence as the broader index fails to match the pace. Futures across major benchmarks advanced concurrently with geopolitical sentiment tied to Iran diplomacy hopes.",
           "links": [
             "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQazJPbGc3MVJiVFY5cGNFTHRnQnNteURoTFlyeEt5MDZ2UDRSal9UVXJqbEtEYW5HRzh5c2dseEN3bXdMd3Y0UjJQM0t0eV90T0FIY3lIaFJEamotZHJ4NWt0WXMxX2pkN1VPNGV3NnNvS1R1aWV5VW41SDdIVFZTNTlJclRIQ28ycUY1S0xGNE9yVmZhMUM4Y0g5anpCLUtVc2o0NWZlTUhtampLQ0JxZFM0M05DU1hCcHJMV081UGZMeEQ1b0VEUTh3R2FzeVFuLUpDNFRmekJWQQ?oc=5",
             "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmw4ZEhRNUQzN3pRRW1vdXh4aEdlQXZvVzBreXhOQVRJUEpPZ2xQZ1loRGVjZTVyUUdfTHp4STlSVHdNTkZsVng3OXotWjRzRVJnWDRTcW8wTE5WQTRpLThqaldMYUQ5OVUxOGhsc0otNVdEcTdXcnF2cFk1bl9WTi1OTFFXcTd6ZElIOWlMOGM?oc=5"
@@ -111,436 +72,450 @@
         }
       ],
       "politics": {
-        "b": "American and Saudi leaders are talking about buying a football team called Al-Nassr. They want the Public Investment Fund involved.",
-        "i": "An American-Saudi alliance is negotiating with the Public Investment Fund regarding the acquisition of Al-Nassr.",
-        "a": "Negotiations involving an American-Saudi alliance and the Public Investment Fund target the acquisition of Al-Nassr.",
-        "sources": {
-          "0": {
-            "outlet": "Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbE14MmdqUUd2ajE3bjR6RDVYMlk1Mnk3clVubzZyZ2NNLWJjWTJYRWFoc296M2lnak1tWEpwRGZaLWJmZHZ1ZEpNRkpfQjA2dlVXMU54QWk5Ul9kRGstalJQQjltLUU5b0wwWEc5di1JN1l4OGE4cE5heUdLQWlKRVR4dDJhamIzQkNNZ29PbFdQd0NGU3BsazEwaTBkNkwwbU85ekFybjJaSXJsN1VqcVlVT3pNM1I5TjJlcE14QlNOZE1tSTJXNG56ODUzR2pVeXNNUGJjWlVwUkk?oc=5"
-          }
-        }
+        "b": "American politicians watched developments as artificial intelligence stocks rallied. Stock futures responded to diplomatic efforts regarding Iran. Markets reacted to shifting corporate profits and commodity prices.",
+        "i": "Policymakers monitored market reactions to shifting commodity prices and geopolitical developments in the Middle East. Equity futures responded to diplomatic talks involving Iran. Corporate earnings reports continued to shape market sentiment.",
+        "a": "Federal officials observed cross-asset volatility driven by energy price fluctuations and diplomatic signaling regarding Iran. Equity markets priced in persistent artificial intelligence sector momentum against shifting macroeconomic indicators. Earnings trajectories outpaced index appreciation across major benchmarks."
       },
       "timeline": [
         [
           "23 Sep",
-          "Nasdaq hits record high as lower oil and yields lift technology stocks"
+          "Nasdaq hits a record high driven by memory stocks and tech rallies"
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Sterling falls on rising UK borrowing and US rate bets",
+      "sub": "Tax options for the upcoming Budget",
       "ind": [],
       "stories": [
         {
-          "t": "Pound Falls as Public Borrowing Rises",
-          "src": "vtmarkets.com",
-          "b": "The British currency is the pound, also called sterling. It lost value against other currencies because government borrowing jumped higher. When a government borrows more money, investors worry about the health of the economy.",
-          "i": "Sterling slipped in foreign exchange markets as a jump in UK borrowing pressured the currency. Higher <span class='term' data-t='gilt'>gilts</span> supply concerns often weigh on investor sentiment toward domestic assets. The pound remained constrained below 1.34 against the US dollar.",
-          "a": "Sterling declined as fiscal expansion via increased UK borrowing exerted downward pressure on valuations. The resulting supply dynamics in sovereign debt instruments shifted rate expectations relative to the greenback. Continued downward momentum kept the GBP/USD exchange rate capped below 1.34.",
-          "gloss": "gilt",
+          "t": "Tax Policy Choices for the Upcoming Budget",
+          "src": "Financial Times",
+          "b": "John Healey evaluates different ways to increase tax revenue in the upcoming Budget. A budget is a plan for government spending and collecting money. Taxes are compulsory payments made by citizens to fund public services like schools and hospitals. Ministers examine various sectors to find extra money. Officials prepare policy documents for the fiscal announcement.",
+          "i": "John Healey considers potential tax adjustments ahead of the fiscal statement. The Treasury models revenue implications across different asset classes and income brackets. Policymakers evaluate fiscal headroom against existing spending commitments. Cabinet ministers review possible adjustments to public levies.",
+          "a": "John Healey weighs revenue-raising levers ahead of the fiscal event. The Treasury evaluates distributional impacts and elasticities across potential tax bases. Officials assess fiscal constraints against medium-term expenditure paths. The administration models second-order behavioral responses to prospective rate adjustments.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlNPMVNpdE5ETU9RVmhYLUpHMmJUZV9rWG90UVVpTkpGcjF4MGNKdmRfM2w3UGZyMW1VN3VqNTA2cUhXRkprMW1hSm50YUJVZ1RNWTRHd0tWX0w4ZzEtUzBaWUU0WnBSalNNQm5VN0pVTWxVSWx0UFhLTTZHWEo4c1ROMDhsN3kta0lKVXA0bUxxcDRtTU51VXVJUkdWVTdRWVJ5ZWgzUjlhOFRrclIweUJSeGNncFhLUGxWcF9aU3FSTklNQTdTREptN1JBdC1rUDBB?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRFZKbm9oUDdrVmxZZjFXT1BTZW05YnhRWXF2VUh0ZmFIV1FmNlhqWUtELUhROU10ZUkwQWFnWW1KWlBuUlQ3eEdUSFVmb3BTWmZJRk9aenRzMWMxV3ZHMTJPbUFtb0RzUnNienFwR0otTEdGbnRTbWNMenZxbllUeDYtZEFKanpWdUdsSXpGWk1mLVRFVk9YVjMzYkt2QWpnN0ZqYmExQi00bUhxcmFhdmtCR1g0bEZhZVVwbllEeVh0b0daUklDWHhGSFhpTmEy?oc=5"
-          ]
-        },
-        {
-          "t": "US Federal Reserve Rate Expectations Lift the Dollar",
-          "src": "vtmarkets.com",
-          "b": "The US dollar is the currency of the United States. Expectations that American interest rates might rise make the dollar stronger. Traders bought dollars instead of pounds.",
-          "i": "Federal Reserve rate hike bets strengthened the US dollar and weighed on the pound. Expectations of tighter US monetary policy draw capital into American assets. Hopes of a reopening in Hormuz also provided lift to the greenback.",
-          "a": "Federal Reserve tightening bets amplified dollar strength via interest rate differentials. Hormuz reopening optimism further catalyzed demand for USD-denominated assets at the expense of high-beta peers. Yield expectations anchored in US macro data dictated cross-asset capital flows.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlNPMVNpdE5ETU9RVmhYLUpHMmJUZV9rWG90UVVpTkpGcjF4MGNKdmRfM2w3UGZyMW1VN3VqNTA2cUhXRkprMW1hSm50YUJVZ1RNWTRHd0tWX0w4ZzEtUzBaWUU0WnBSalNNQm5VN0pVTWxVSWx0UFhLTTZHWEo4c1ROMDhsN3kta0lKVXA0bUxxcDRtTU51VXVJUkdWVTdRWVJ5ZWgzUjlhOFRrclIweUJSeGNncFhLUGxWcF9aU3FSTklNQTdTREptN1JBdC1rUDBB?oc=5"
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFpMWldTZ2JaMVVzOUhnYjNQb0lEdG5hQTlpMjhkSDF3VzYxWW5aN0NQM2VsNGl0dkZMVjV2LWoxcDlPYjNoUWxQZWoxREc3RUsyeEVZYW9JeDhndlRSOXpmR2VxbTlMZHljbE5URkQ3UnNlNVhVN1pfSkRzZE81eDM2QWo?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "UK government borrowing figures increased. This put pressure on the British pound in currency markets.",
-        "i": "Rising public sector borrowing increased supply pressures on UK debt. Sterling reacted negatively to the fiscal update against a surging dollar.",
-        "a": "Fiscal metrics deteriorated via higher public borrowing prints. Foreign exchange desks priced in the resulting gilt issuance implications alongside shifting Fed trajectories."
+        "b": "Politicians debate how to manage public money. Ministers look at raising taxes to pay for services. Members of parliament discuss economic choices.",
+        "i": "The government faces fiscal choices regarding revenue generation. Ministers debate options for closing funding gaps. Policymakers prepare legislative arguments ahead of the budget.",
+        "a": "The administration navigates parliamentary party management ahead of the fiscal statement. Ministers balance competing departmental demands against fiscal rules. Lawmakers debate revenue-raising trade-offs."
       },
       "timeline": [
         [
-          "22 Sep",
-          "UK borrowing data release prompts a slide in sterling"
-        ],
-        [
-          "23 Sep",
-          "GBP/USD exchange rate remains capped below 1.34"
+          "23 Sep 2026",
+          "John Healey evaluates tax-raising options for the Budget."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "DAX finishes flat as oil and rates stay in focus",
+      "sub": "Oil costs drive ECB focus as DAX swings",
       "ind": [],
       "stories": [
         {
-          "t": "German Equities Close Flat Following Volatile Trading Session",
-          "src": "BBN Times · Investing.com · TradingView",
-          "b": "The DAX 40 index tracks the forty biggest companies whose shares trade on the stock exchange in Germany. Shares are little units of ownership in a business. This index finished barely higher at 25,600.01 points. Trading saw a 360-point intraday swing before closing on a cautious note up 0.10%.",
-          "i": "The DAX 40 finished barely higher at 25,600.01. Equities experienced a 360-point intraday swing before closing on a cautious note up 0.10%.",
-          "a": "The DAX 40 closed virtually unchanged at 25,600.01. Price action featured a 360-point intraday swing before the index settled up 0.10% amid cautious positioning.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbi1IbGxYRVVIMkVBYl9zQWVybHhON1U5WHhqYnpkS0dHS2g3TjZBTlRxNUFpV01vV2JVNTdNUXBnQkRkcUdMbW1JVjNmdXgxMGxUWGhYeGt2WTJqWnhGYUZ1TUJFZ19aLWpSajZZUU4tXzZVZUU5Qm1heklKRGxvX2xLTkR5Zzk4eWItTW1lNVNsOG9YelY4ZnhQc2Rkd1NXSnRyRjlPdUNOdG13WnBDTw?oc=5",
-            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V4WTJuQzFRYzhfLXBuVGd3bkgxWENfRDhvb0FvNWlFLWlaS2JialJuYkJFanNFVTVQWWJWRmo5dV9VMzBfbUo1aWxhelBNWEdUUW0wbks1RjJ0ejdmYXlKOGpXbWt5dUtCbk9VeG9fSjFzdU1MRURTTlJ6bW5XYjFIdHMySGQtamlJd183SnZWdGNqX2E2cFBxdlRRZTJhcjQxTGtadDJfRDQ?oc=5",
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1FDLVcxVWZSdkdjTktzNGRlY3FNRFdmVHhqcE9hSkZuMmtXRGlocUg4VUZjUTRZa0JuenlkR3ZYUzM5Qkw5WDd6UTI2ZkNyQ1N5VnJMZnBsMEVoYkhZbVhCaHN0UklCRjVqb09ySGxhSkhZNDJTRTEwdm5UR2NaeXF5aM0?oc=5"
-          ]
-        },
-        {
-          "t": "Central Bank Official Highlights Crude Costs and Borrowing Costs",
-          "src": "Reuters · Traders Union",
-          "b": "The Bundesbank chief leads Germany's central bank, which is the official institution that manages money and interest rates. Energy costs are becoming increasingly important for monetary authorities. Officials watch crude oil figures closely because price shifts affect the outlook for official interest rates, which are the fees charged for borrowing money.",
-          "i": "The Bundesbank chief stated that crude prices are becoming increasingly important for the central bank. Officials keep oil figures in focus due to their direct transmission to the rate outlook.",
-          "a": "The Bundesbank president emphasised the growing salience of energy inputs for monetary policy reaction functions. The trajectory of crude quotes remains a primary variable shaping the governing council's rate path expectations.",
+          "t": "Oil Prices Move to Center Stage for Central Bankers",
+          "src": "Reuters · Traders Union · Finimize",
+          "b": "The central bank that sets money rules for Europe watches the cost of oil closely now. The head of the German central bank explains that energy costs matter a lot for <span class='term' data-t='inflation'>inflation</span>, which is the speed at which prices rise for everyday goods. Traders look at these oil costs when they guess what interest rates will do next. Energy markets react heavily to talks about the Strait of Hormuz.",
+          "i": "The <span class='term' data-t='inflation'>inflation</span> outlook ties European monetary policy directly to energy expenses. The Bundesbank president states that crude costs grow increasingly critical for the ECB policy path. Traders adjust rate expectations as oil fluctuations threaten price stability targets. Discussion surrounding the Strait of Hormuz eases immediate supply worries.",
+          "a": "Energy cost trajectories complicate the ECB reaction function as headline <span class='term' data-t='inflation'>inflation</span> dynamics remain sensitive to commodity shocks. The Bundesbank chief highlights crude prices as a dominant variable in policy transmission. Markets price interest rate paths against potential supply disruptions in the Strait of Hormuz. Geopolitical de-escalation talk alters risk premiums embedded in near-term crude futures.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOck1SdTh3YUxsOGpaMkYyaFpsS2FvYm1OV2JSSk1LVjlsZUdMd2tkT0hUamNZWE5Wak8xNG9MOXJwaEw1Qy1ZSmxKaGVrOEVELTlfWm1TUU1XUERsak9STy1IWHhhRV83N0cxOFJqQUlVeHNQZUdtUFBaa2ptUlEwRkdLOGhicGFjOWJtZnpYbFV1UDVoUmU0SnZodXJBUURtazZOUG1zc2VLTmJPc0FBUEpZbG9SRWZDQndZ?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXpfXzk3anJrMFVRRVhvRW5ILVVXV0RZV2VwTFlsUlpnd2ZsWFNpbjNkRVZIWE9oTEVtSWZtd3V0WjJMc3pHaWNlSU1qczdFSFY3aWVkS2dkVU5FSWFlMmFyVDdfSmVjUXg5OVp2enN3bGZtMHdMTklWQ1RkWFBocTA0RDZmVGRjcUU3SUNMRVhJdDQ?oc=5"
+            "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMXpfXzk3anJrMFVRRVhvRW5ILVVXV0RZV2VwTFlsUlpnd2ZsWFNpbjNkRVZIWE9oTEVtSWZtd3V0WjJMc3pHaWNlSU1qczdFSFY3aWVkS2dkVU5FSWFlMmFyVDdfSmVjUXg5OVp2enN3bGZtMHdMTklWQ1RkWFBocTA0RDZmVGRjcUU3SUNMRVhJdDQ?oc=5",
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXpmSkFJd1FkWTNzbmUtRWxzY1JGdlRfNlYwcjY0YTRuMmxFaXd2akVBaHYyQUp5SG9KeEFKY0Q4YUQwR0JybmxFeVBXMEZlS2FrRGQ4eEpRQnVUcEVWbEJLS3psS0p0ckZNSEtLdm5OT0JnODJncUtvSVAydjg0a0ZZRVVrcHBYd3VINzBPQ1dWRTdEOXhhTA?oc=5"
+          ]
+        },
+        {
+          "t": "DAX Index Posts Volatile Session Before Closing Higher",
+          "src": "BBN Times · Reuters · Investing.com",
+          "b": "The main German stock market index, called the DAX 40, finishes the day barely higher at 25,600.01 points. Stocks experience a 360-point swing during the session before stabilizing. European shares climb overall as investors feel optimistic about possible talks between the United States and Iran.",
+          "i": "The DAX 40 index registers a gain of 0.10% to close at 25,600.01 after covering a 360-point intraday range. Equities across Europe advance as sentiment improves on potential diplomatic discussions involving the United States and Iran. Trading desks navigate choppy conditions before the market settles.",
+          "a": "The DAX 40 closes up 0.10% at 25,600.01 following a volatile 360-point intraday range. Regional European equities absorb macro catalysts as US-Iran diplomatic overtures improve risk appetite. Order books reflect compressed liquidity during the intraday swings before the final auction.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbi1IbGxYRVVIMkVBYl9zQWVybHhON1U5WHhqYnpkS0dHS2g3TjZBTlRxNUFpV01vV2JVNTdNUXBnQkRkcUdMbW1JVjNmdXgxMGxUWGhYeGt2WTJqWnhGYUZ1TUJFZ19aLWpSajZZUU4tXzZVZUU5Qm1heklKRGxvX2xLTkR5Zzk4eWItTW1lNVNsOG9YelY4ZnhQc2Rkd1NXSnRyRjlPdUNOdG13WnBDTw?oc=5",
+            "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFAzLVM5aHFtVFpBc2gtdldmRDBFeHZka0VHZVVNUWx3U0RPLTVYR0JvdTZ3NnNVd1lPLXlXbUIzSUhMb1IyTE9iR2hxNk9KVjlMbHZaUzhxaGpBYlRIN2o5OGVXaGdwNWllRzBIczZSTzJhRGkxYnc5dENPQm9mWHhjWVZzR2R0MVNyM2ZsekI4YlVGUEdSLURTSzBSeE9sc1E?oc=5",
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2V4WTJuQzFRYzhfLXBuVGd3bkgxWENfRDhvb0FvNWlFLWlaS2JialJuYkJFanNFVTVQWWJWRmo5dV9VMzBfbUo1aWxhelBNWEdUUW0wbks1RjJ0ejdmYXlKOGpXbWt5dUtCbk9VeG9fSjFzdU1MRURTTlJ6bW5XYjFIdHMySGQtamlJd183SnZWdGNqX2E2cFBxdlRRZTJhcjQxTGtadDJfRDQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Markets reacted to potential talks between the United States and Iran. European stocks gained ground as investors grew more upbeat about diplomatic discussions.",
-        "i": "European equities advanced as market participants turned upbeat on potential talks between the United States and Iran.",
-        "a": "European indices posted gains as sentiment found support from potential diplomatic engagement between Washington and Tehran."
+        "b": "German officials focus on energy prices and foreign talks.",
+        "i": "Bundesbank leadership addresses monetary transmission risks tied to energy markets while diplomats monitor US-Iran discussions.",
+        "a": "Policymakers balance domestic price stability mandates against external geopolitical supply shocks."
       },
       "timeline": [
         [
           "22 Sep",
-          "DAX closes flat following a 360-point intraday swing"
+          "Bundesbank chief links oil prices to ECB policy outlook"
         ],
         [
           "22 Sep",
-          "Bundesbank chief highlights growing importance of oil prices for monetary policy"
+          "DAX 40 registers a 360-point intraday swing"
+        ],
+        [
+          "22 Sep",
+          "European equities rise on potential US-Iran talks"
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Yen moves and retail changes in Japan",
+      "sub": "Yen softens on monetary policy path and dollar strength",
       "ind": [],
       "stories": [
         {
-          "t": "Japanese Yen Shifts on Policy Path and Iran News",
-          "src": "FXStreet · VT Markets",
-          "b": "The Japanese yen is the money used in Japan. The Bank of Japan is the country's central bank, which is like the main bank that controls the money supply and sets interest rates. The currency moved up and down as traders reacted to the bank's lack of strong guidance on raising rates. It also spiked briefly when Iran offered to reopen the Hormuz channel. The dollar and yen pair stayed near the upper 157 range.",
-          "i": "The Japanese <span class='term' data-t='inflation'>yen</span> softened because the central bank offered no hawkish guidance on future interest rates. Currency traders also reacted briefly to news that Iran offered to reopen Hormuz, causing the exchange rate to spike and unwind. Meanwhile, the USD/JPY pair held firm in the upper 157 range as rising U.S. yields supported buying.",
-          "a": "The USD/JPY spot rate maintained proximity to 157.50 as the Bank of Japan omitted hawkish guidance from its communications, keeping <span class='term' data-t='carry'>carry</span> trade dynamics intact. Intraday volatility spiked following headlines regarding Iran and the Hormuz transit route before mean-reverting. Higher U.S. sovereign yields continued to underpin the pair despite potential currency intervention risks.",
+          "t": "Yen Swings as Bank of Japan Holds Rate Guidance",
+          "src": "FXStreet · WSJ · finance.biggo.com",
+          "b": "The Japanese currency weakened because the central bank, which is the big institution that manages a country's money supply and interest rates, did not give strong hints about raising borrowing costs soon. Traders call a central bank hawkish when it wants to raise interest rates to cool down the economy. The Japanese Yen traded around the upper 157 range against the dollar. Officials eyed potential intervention to support the currency.",
+          "i": "The Japanese Yen softened as the Bank of Japan omitted hawkish guidance from its communications, leaving investors uncertain about future policy tightening. The USD/JPY pair hovered near the 157.50 level as rising US <span class='term' data-t='inflation'>inflation</span> expectations bolstered the dollar. Market participants monitored the currency closely for potential official intervention.",
+          "a": "Spot USD/JPY traded in the upper 157 range as the central bank's perceived dovish hold disappointed rate-hike speculators. The carry trade dynamics remain sensitive to the widening rate differential between US Treasuries and Japanese debt instruments. Implied volatility spiked briefly following geopolitical headlines before mean-reverting toward the established range.",
           "gloss": "inflation",
           "links": [
             "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzRFc3Y0aThLc0N6Mjhvc3VUUkdjQmZuWXVrd2I5bENDQ0tfOE9JaVJTb2VKNmdkNUZoNVVZZW9jR0tBakdrUzdRMkxfcGRYZHdjMER0RnhCOE40S3pyVFR6NzJEZ0tyYS1OdnNZbzBkQjh5Mk9FNHhycXF0Y2VwUHFZai1Pd2lHZ1Q4dHJkWG0zYVlkZnV1MDFXZVJuYnhzZkFqQnJXNkJQU1oxUzF6Y2JPRFdwWGMzSUtEbF9GeEUwQQ?oc=5",
-            "https://press.google.com",
-            "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcTBwM1k4TXltTjUyNWd6TFBsRUdqZkZBd1dUaG1nWmhLUW5LVHZ6Y3JTSGRzaEZRenVDVVVQMlFMZ3djZkFoVXRta0pJcjBTamRacFduODFIWDRZNkVhQnp5QUhiSzRGVmFhS051b3hEek1xMWh6WldpbmJfUEVQRXliNDBmNmxsRzVDMFU3VE9IY1p0enBOMjJDczB0YjFwQk1ybG9jd2g4RjJRYkstbmQxZ2RQU29Jd0ZnUXFYSDBneUE?oc=5"
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJMQTlUdklLNlVnQWxVN0RNb1YyVWtPcG5pY19oUnhfbzVUWEVFc1NxQi1PRDAyVkNjdDBTOHZLU1A1ZGxyUFhOY3cxblBmX1l2aDc3RDZfUmp4cXpTNHI0X1FzZ2VoSXVRalAxTGYxR0UxZHdoTU9PS1VjaW1RWUt5eC05emI0VXAyV2s5ZkRDTks0aVROMWlnODN0a210bmpnOWgwZHFzNHlzSno0RVZPeUFzdw?oc=5",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VdXdiZV9uV0ZQUlhWdm1Nc2hUN1N5X19YSGFzWnhHWkxYQWI2T0M2WUJ6d1FMRjhxcDJvNnFoOWNyY3cwb3dZLThaTmFIcjEwUEg2UkJEdzJLSVkzT3BhQzdkV2tzdnlZQkVIM1pnVzc2d3lDdHc?oc=5"
           ]
         },
         {
-          "t": "Aeon Releases Budget Jeans During Consumer Squeeze",
+          "t": "Japanese Retailer Launches Budget Line Amid Consumer Pressure",
           "src": "Japan Wire by Kyodo News",
-          "b": "Aeon is a big store company in Japan. It started selling new jeans that cost 1,000 yen each. This happened because shoppers are dealing with a consumer crunch, which means people have less money to spend on things they want. Retailers are trying to find ways to attract buyers who are watching their budgets closely. The new jeans went on sale in September 2026.",
-          "i": "Japanese retailer Aeon launched a line of 1,000 yen jeans to address ongoing consumer financial strain. The product introduction targets shoppers who are cutting back on discretionary purchases amid persistent cost pressures. This pricing strategy reflects broader efforts by domestic merchants to capture cautious household spending.",
-          "a": "Aeon introduced a 1,000 yen denim product line to mitigate margin compression risks tied to weak domestic consumer sentiment. The retail offering directly targets price-sensitive cohorts grappling with compressed real disposable incomes. The commercial pivot illustrates how mass-market vendors are altering inventory pricing to preserve volume.",
+          "b": "A major Japanese store chain named Aeon started selling new jeans priced at 1,000 yen. Ordinary shoppers face a severe crunch in their household budgets. Families try to spend less money on everyday clothing items. Retail companies respond by offering cheaper products.",
+          "i": "Japanese retailer Aeon introduced 1,000 yen jeans to target cost-conscious shoppers experiencing a spending squeeze. Consumer price pressures have forced domestic buyers to seek lower-cost apparel options. Major retailers continue adjusting inventory pricing to match constrained household purchasing power.",
+          "a": "Aeon deployed low-cost pricing strategies via 1,000 yen denim lines to capture margin from compressed retail discretionary segments. Real wage stagnation and persistent cost-of-living pressures dictate domestic consumption patterns across the mass-market retail sector. Margin compression forces operators to test lower price elasticity limits.",
           "links": [
             "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUjlscWxBbkl5eFBwMEdzNElyaHRoc05aUy1adFA2dGg3M2NOVjRYYlQteFkwUTFSYTE5dU1OYzV4bFJ1OTNBaHUwSXU5WFdGNm55V0xxN0Ztdw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Japan's leader spoke at the United Nations in September 2026. The Prime Minister said the country supports the International Criminal Court. This court deals with serious international crimes.",
-        "i": "Japan's Prime Minister voiced formal support for the International Criminal Court during an address at the United Nations in September 2026. The remarks marked a clear diplomatic stance on global judicial bodies. Tokyo continues to align its foreign policy with international legal frameworks.",
-        "a": "Japan's Prime Minister articulated explicit support for the International Criminal Court during a United Nations address in September 2026. The diplomatic intervention signals a steadfast commitment to multilateral judicial institutions. This posture reinforces Tokyo's alignment with established international humanitarian law standards."
+        "b": "The Prime Minister of Japan spoke at the United Nations to declare full support for the International Criminal Court. World leaders gathered to discuss global laws and justice systems. Japan wants to show commitment to international rules.",
+        "i": "The Japanese Prime Minister used a United Nations address to voice official support for the International Criminal Court. The diplomatic statement aligns Tokyo with multilateral legal bodies during ongoing global assemblies. Officials emphasized adherence to international accountability standards.",
+        "a": "Japan's Prime Minister articulated formal backing for the International Criminal Court during a General Assembly address. The diplomatic maneuver underscores Tokyo's multilateral alignment on international jurisprudence. Observers note the timing reinforces broader foreign policy messaging regarding global legal norms."
       },
       "timeline": [
         [
-          "22 Sep 2026",
-          "USD/JPY traded near 157.50 as the currency held firm against the dollar."
+          "22 Sep",
+          "The Japanese Yen spiked and subsequently unwound following reports regarding the Strait of Hormuz."
         ],
         [
-          "23 Sep 2026",
-          "Aeon launched 1,000 yen jeans for budget-conscious shoppers."
+          "23 Sep",
+          "Asian stock markets rose while the dollar hovered near a two-month high against the yen."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Corporate bond issues and currency moves in China",
+      "sub": "Yuan eases and raw material spot prices shift in China",
       "ind": [],
       "stories": [
         {
-          "t": "Chinese Banks and CATL Launch Multi-Billion Yuan Debt Sales",
-          "src": "The Standard (HK) · marketscreener.com",
-          "b": "Big companies borrow money by selling investments called bonds, which are like formal IOUs where the buyer gets paid back later with extra money. CATL issued 4 billion yuan of green bonds, which are special loans used to fund eco-friendly projects. China CITIC Bank also raised 5 billion yuan by selling bonds that last for 3 years. Meanwhile, BOCOM International is planning to issue 1.1 billion yuan and $134 million of perpetual securities, which are unique investments that never have to be paid back.",
-          "i": "Major corporations and lenders continue tapping domestic debt markets to secure fresh capital. CATL finalized a 4 billion yuan green bond offering to fund sustainable operations. China CITIC Bank raised 5 billion yuan through a 3-year <span class='term' data-t='gilt'>bond</span> issue. Meanwhile, BOCOM International prepared to issue 1.1 billion yuan alongside $134 million in subordinated perpetual securities.",
-          "a": "Domestic issuers expanded their yield-curve footprints via diverse debt instruments. CATL priced a 4 billion yuan green issuance, matching corporate environmental mandates with institutional liquidity. China CITIC Bank captured 5 billion yuan through a 3-year paper, while BOCOM International structured a dual-tranche offering comprising 1.1 billion yuan and $134 million in subordinated perpetual securities to manage capital adequacy.",
-          "gloss": "gilt",
+          "t": "Chinese Industrial Metals and Commodities Shift",
+          "src": "Shanghai Metals Market",
+          "b": "Crude oil prices drop for six days in a row. Lithium carbonate drops by over 3%. Coking coal drops by over 1%. SHFE nickel rises by more than 1%.",
+          "i": "Crude oil declines for the sixth consecutive session. Lithium carbonate falls over 3%, while <span class='term' data-t='inflation'>inflation</span>-sensitive coking coal drops over 1%. SHFE nickel bucks the trend by rising more than 1%.",
+          "a": "Crude oil extends its downswing to six consecutive days across broader commodity liquidations. Lithium carbonate drops over 3% and coking coal falls over 1%, while SHFE nickel diverges with a gain exceeding 1%.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLURfR2k4SGlxUjVGekZBZTJzeFlaM2JtZXhXY296ZGNWbE9VTkI0UzdtTXgzUlduQ1gxaDdOUmRKR2w2cnRjTEdsTmRLRmRCdkZRVkIxS1BZeUNJa3dVZEEzaDk0MzFVQUdtNnY3XzJGWl9TTFJWWExJX1o3eTlTQnRhTHRXOFVkN3lpTjUtV0Ntd0ItX0hQZUNjc3pwR1RrOWZuTWMtX1doRG5kNGRwbzRfaHNsc3hYVi1Ua240WnR2REduMDRYOXlNLW1hZXNaUEE?oc=5",
-            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkpLWkNBSFNDUi02UWs4UHVTRzhNTW5aU29iSERmV21KYlp4TU1uakRpMXJxaUFzNmRwZFFoQVAtVzVRaHFxc2t6OWNKUFhnMFoyS1pxVE5zb2t2dDNyVXgyUG5NRHNsRjIwek04TVhWR0hVM3RZMkkzcE5LV2tUczFRTWlFeEdxM1ZueUpTWGg2SFdoTEpQRkpYOG9tNzV3d28yM3ZVYWJlMlJGejBMNDR5aGdiVWRr?oc=5",
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmNKeXBwcFdwZ2tsSExDdzlHN1o1QWhETG9MWUdDQnY2SFZWdkxaQ3NQaDZMcTlVbnBOQnBLUWRMLXN3bE9GVkM3dDZKT3FsY0YxeE10R3ljWWF4SGl4OGt3OTlOcFkwQll3TWRuSWplblVvUlNCbS1uR25FWXNhak1ZVWNjY3M5UlYtTm5pMGVJYnd4X0E?oc=5"
+            "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb1ZYbmRiYVdOamRkTnBmTUo5bW1YeFNpeVVpNDlUM1pvcDRKQmVwWlpDUzZWRm9DejZFcDJ3MXkxWHRYdEduVEp2Y1N1Y2N6VktlQ01LdG5HWEhET0VlMV9DVjJKRE02c2FSZGRzQXM4NmJkRV9pbzQ4Z3BEQ0FLVl9ENmRSbnRBY3l3Y1g5TWFvYmtLRUlDZlpDekt5YUM1V0FseTlNbjFQcG9BUHNwX1NUV2pHbzBCV1M2MGtlNlREakQ3YkZwMk1BMVpiUlRvVzFaQnJCS1dBdmU4WlhxUGN0SVkzUVdSdElEdktSd3FWVUxyQVpGNzZPQ2FNU3dkSmRVYkxpMVVCRU1saVNUQU1tSlpTRzBvQ1Y0X3dNWml2VTFzcGdMd2c2Z3R3TFFJQ2ZVTy00VQ?oc=5"
           ]
         },
         {
-          "t": "Offshore Yuan Declines as Venture Deals Secure Funding",
-          "src": "TradingView · eu.36kr.com · FXStreet",
-          "b": "The offshore Chinese yuan dropped further in currency trading value. Currency analysts note that future gains for the yuan depend heavily on the official fix set by the central bank. Away from currency markets, smaller firms secured fresh cash injections. Haimian Embodied Intelligence raised 300 million yuan over half a year, and Yipin Pharmaceutical collected tens of millions of yuan for its anaesthetics business.",
-          "i": "The offshore yuan extended its recent downward trend against major peers. Market participants observed that currency recovery relies heavily on the official PBoC daily fixing. On the private equity side, Haimian Embodied Intelligence secured 300 million yuan in financing over a 6-month window, and Yipin Pharmaceutical raised tens of millions of yuan for its anaesthetics portfolio.",
-          "a": "Offshore yuan spot rates drifted lower, keeping traders focused on the PBoC daily fixing mechanism to anchor directional bias. Venture capital activity persisted concurrently, highlighted by Haimian Embodied Intelligence securing 300 million yuan over 6 months from backers including Alibaba and affiliated institutions. Yipin Pharmaceutical closed a funding round yielding tens of millions of yuan to advance its anaesthetics pipeline.",
+          "t": "Yuan Slips Amid Softer Guidance",
+          "src": "marketscreener.com",
+          "b": "The Chinese yuan drops against other money because of a softer guidance rate set by authorities. Tensions between China and Europe also grow.",
+          "i": "The Chinese yuan eases against rival currencies. Authorities set a softer guidance rate for the currency. Growing trade tensions with Europe accompany the move.",
+          "a": "The yuan depreciates following a softer official guidance rate set by policymakers. Geopolitical friction with Europe compounds the downward pressure on the currency.",
           "links": [
-            "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDJmcUx2MVVPbHI0M3NqX3lndFJzbDNfZFRWejdTdlVXX1lEaDZUY2dpUTR3VVZCSFA4VURVVkpLREhMZnJMX0R1Q0ctQjhTa2ZxSUZqZUJGSDRrdFNacFRwLVZZQUFKZ3ZBdUtCdG5yZHdmUS1pSWpiQ2R1OU53RFp2MlRvNGc?oc=5",
-            "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUY3h6NXUxTFNRcFI0akI1SmtDYTY2OGhfLVZQVlh3U0JTbHNyTDJ0S1ZaTzdEdlpDc3Z6MEU1dEFGR3RqVmY2M3Zxa2hiaVJDQWpR?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGRTTThOdHg1OHdyS1M0V1Q0X0ZlWTh1ZVJJcjl5RmU1X1VoajFkM0NQQWU5LWpkcl9kbGtxNHppSU10VXFTZmVYaVA1cGV2aVg5VjJYd0poaEJiNXZsZ3dBekVGalJJMmhSZG1haTFYdERaZEZoVTU1aF9yVWxFeVdZVlpndVdhX01wV0Y1SjZUdw?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXRlN1JQREZ4QW9iaGlzRTZ0Z2g4Tmd4cVhkZk1TRjlzcFlSUzA2SWQ3Uml1bkdHeTdwWkNuSVFLTTNETWQ2Z0xCT00xRXJ5aG5YVG56cjFjck9TNlhsbnY1V3ZjRS1zc19odFJvblkwTlJGSmd1dDFEVUJkOXNidTNQVWtrWjFMTTBxZDB2XzNpQjNENmJSNGtVcnpwRlVRWGRLTDBfclFkTU93TFgzSTVWM0NIM2s?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTlRvdmZIalEwOTQzSHBEb0htTWh0ZkpZZkxaSFk2WXNvWk9hbE5ndFh1V195c0lRVUM5ZE44VVRzNkZ5UTY1ckludnFMVG53M1JqQmpSS0JJdy0wTENkMXQtdU5vdzlGSXo1enNPUk9JOWoyLUxhU0l4cHZmQml4dXhGNmsxSlF1cWpvMVpNVXdIMTBLQ0djYl85eEJJV3BGeks1NGpPZldTdHdBem84a1RiTW1OeUlNNV9HZ0tYRmZkM2wz?oc=5"
+          ]
+        },
+        {
+          "t": "Corporate Debt Issuance Expands",
+          "src": "marketscreener.com · The Standard (HK)",
+          "b": "China CITIC Bank raises 5 billion yuan by selling bonds that last for 3 years. CATL issues 4 billion yuan in green bonds. BOCOM International plans to issue 1.1 billion yuan and $134m in subordinated perpetual securities.",
+          "i": "China CITIC Bank raises 5 billion yuan via a 3-year bond issue. CATL issues 4 billion yuan in green bonds. BOCOM International prepares to issue 1.1 billion yuan alongside $134m in subordinated perpetual securities.",
+          "a": "China CITIC Bank secures 5 billion yuan through a 3-year debt issuance. CATL prices a 4 billion yuan green bond offering. BOCOM International lines up a dual-tranche issue of 1.1 billion yuan and $134m in subordinated perpetual securities.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkpLWkNBSFNDUi02UWs4UHVTRzhNTW5aU29iSERmV21KYlpYTU1uakRpMXJxaUFzNmRwZFFoQVAtVzVRaHFxc2t6OWNKUFhnMFoyS1pxVE5zb2t2dDNyVXgyUG5NRHNsRjIwek04TVhWR0hVM3RZMkkzcE5LV2tUczFRTWlFeEdxM1ZueUpTWGg2SFdoTEpQRkpYOG9tNzV3d28yM3ZVYWJlMlJGejBMNDR5aGdiVWRr?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmNKeXBwcFdwZ2tsSExDdzlHN1o1QWhETG9MWUdDQnY2SFZWdkxaQ3NQaDZMcTlVbnBOQnBLUWRMLXN3bE9GVkM3dDZKT3FsY0YxeE10R3ljWWF4SGl4OGt3OTlOcFkwQll3TWRuSWplblVvUlNCbS1uR25FWXNhak1ZVWNjY3M5UlYtTm5pMGVJYnd4X0E?oc=5",
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLURfR2k4SGlxUjVGekZBZTJzeFlaM2JtZXhXY296ZGNWbE9VTkI0UzdtTXgzUlduQ1gxaDdOUmRKR2w2cnRjTEdsTmRLRmRCdkZRVkIxS1BZeUNJa3dVZEEzaDk0MzFVQUdtNnY3XzJGWl9TTFJWWExJX1o3eTlTQnRhTHRXOFVkN3lpTjUtV0Ntd0ItX0hQZUNjc3pwR1RrOWZuTWMtX1doRG5kNGRwbzRfaHNsc3hYVi1Ua240WnR2REduMDRYOXlNLW1hZXNaUEE?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political leaders and diplomats prepared for upcoming international meetings. Donald Trump and Sanae Takaichi reaffirmed their alliance just days before a major US-China summit took place.",
-        "i": "Geopolitical alignments shifted ahead of high-level diplomatic engagements. Donald Trump and Sanae Takaichi reaffirmed their bilateral alliance days prior to a scheduled US-China summit.",
-        "a": "Bilateral security frameworks adjusted ahead of multilateral engagements. Donald Trump and Sanae Takaichi reaffirmed their strategic alliance days before the commencement of the US-China summit."
+        "b": "China and the United States prepare for a summit meeting. Relations between China and Europe face growing tensions.",
+        "i": "A US-China summit comes into focus for global markets. Geopolitical frictions persist between China and Europe.",
+        "a": "Market participants monitor the US-China Summit against a backdrop of diplomatic friction. Parallel trade tensions with Europe frame the macroeconomic environment.",
+        "sources": {
+          "0": {
+            "outlet": "Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVTc0b3MtYnJYZzgwU3R0ckJhTEc5cWFpazlhSDd4Rm5rVUFuLWpCQVNFV2FRaHRKcXVuV0hrWS1ta0Qtb0dCUVVjcUpTYVd2RjdMTmNzNzNSRlZIZlFiOGpiVEhaWThERUhnTzQ1UnROdlNmVFRIRlRNTUJJb1NZcjRra013RmQtTmVKd3l1djRTNVR6SUJ4cm81Ymk1cDctYi1SXzhPVjRvejhKal9LNXg2T3hlZFR1Ty1lY1ctNmNfN1JOdDRnbWJwanBjb1dmY2Zr0gHYAUFVX3lxTFBSZXhnaTlxV0JVR2ltMDJLQl84VWpPcHp0dHBSSGx6UDNna3pCcmJzYWh6RXdIRko1Z1JFZjhINi1PNURSX0ZPaVF2RXNVSThXeVhZWEcwQnVFblUwR0FRdTFBTXlJeGM2WTJ3NjhmOWJFWlJXWmVjbGdFRElGQTY4TndEZUdFTV92RmZ5OU1vNjRWdUNFV28zQ29ueFNxVjR3ZTRZZS1ScGxTRGVVNmtaZEVZdzdiM0JEUzlVU3lrNm5zbHY1aUVKeDc5WFg2SlpTYU1fVjlTaA?oc=5"
+          }
+        }
       },
       "timeline": [
         [
-          "22 Sep",
-          "Donald Trump and Sanae Takaichi reaffirm their alliance ahead of a US-China summit."
+          "23 Sep 2026",
+          "China CITIC Bank issues 5 billion yuan in bonds"
         ],
         [
-          "23 Sep",
-          "Offshore yuan extends its recent decline in currency markets."
+          "23 Sep 2026",
+          "CATL issues 4 billion yuan in green bonds"
+        ],
+        [
+          "23 Sep 2026",
+          "BOCOM International announces a plan to issue 1.1b yuan and $134m in securities"
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indian markets face flat opening as oil dips below $100",
+      "sub": "Indian markets open higher as oil prices ease",
       "ind": [],
       "stories": [
         {
-          "t": "Asian Shares Rise as Indian Indices Brace for Cautious Open",
-          "src": "Moneycontrol.com · Business Standard · Moneycontrol.com - LinkedIn",
-          "b": "Asian shares went up for a sixth straight day thanks to a rally in artificial intelligence stocks, which are companies that build smart computer systems. Indian stock indexes like the Sensex and the Nifty are expected to open flat, meaning they will start near where they ended yesterday. A futures index called GIFT Nifty pointed to a cautious start for investors. Brent crude oil fell below $100 a barrel.",
-          "i": "Asian shares extended their winning streak to a sixth session driven by an AI-led rally. Indian indices faced a subdued start with the GIFT Nifty signalling a flat opening for the Sensex and Nifty. Brent crude prices slipped below $100 per barrel while regional equities traded in a mixed fashion. Foreign institutional investor selling continued to influence domestic market sentiment.",
-          "a": "Asian equities marked a sixth consecutive session of gains underpinned by technology and artificial intelligence sector momentum. GIFT Nifty futures indicated a flat trajectory for the domestic benchmark indices amid persistent foreign institutional investor capital outflows. Brent crude breached the $100 threshold downward, influencing broader macroeconomic positioning across emerging market assets.",
+          "t": "Indian Shares and Rupee Rise",
+          "src": "ANI News · CNBC TV18 · Upstox",
+          "b": "Stock markets are places where people buy and sell small pieces of companies, called shares. The Sensex and Nifty 50 are two main groups of these shares in India. Both groups rose by more than two hundred points when trading opened. At the same time, the Indian rupee gained value against the US dollar, trading at ninety-five rupees and fifty-seven paise.",
+          "i": "Indian equity benchmarks advanced at the opening bell, with the Sensex rising over two hundred points and the Nifty 50 reclaiming the twenty-three thousand four hundred level. Bajaj Finance and L&T led the gains on the index. Concurrently, the rupee edged higher to ninety-five point five seven against the dollar.",
+          "a": "Domestic indices opened higher, driven by advances in heavyweights like Bajaj Finance and L&T pushing the Nifty 50 past the twenty-three thousand four hundred threshold. The local currency appreciated marginally to ninety-five point five seven per dollar, supported by easing crude prices despite ongoing Middle East concerns.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUV3bkV2blpEV2Y1NEUyc3o4cTNCU3M2UXVrNEdBUGx4eDVDb2pmcUQ2Z3NFM2piZW13TlRaeG9vOU5rbkV3UnVIZUNYdnkwR2s2VnVHRXdxSmpIYVY3TGJhb0JmUjRWaGtDaVRSYnplc09SYTRlMUVoLTE0MS02c1dWV0Q1Z0FoNVI5cmJCLXpBSFN3SXctTjgzN0xiclltRzhfQnFuUHdkbnFlekhlU1AwT29mSGlBeGFGbDEtbWRoSkZ3UlZZMEJGQUlwSDFZX0VSNDc2YWRRc3piemJn0gHkAUFVX3lxTE5fTTUzR3h3X0FiejlhbVd3czg2cnozVXJDY2swYnZ5Y3JzRW5nWEhCXzM5b2l6RTBwVGxPQ05fSFZ3YVhXTGZVM2J0VzZhbEFreHNZU1hLejlUeUhiTlgzN2dDU0UzaXdXb0gzU0pEdTkzd1pNN2duS1NicjIxWWlJeXE4NkdfMkZBV0F3U3FvYnpZeTBZUUxJakR5YWMtRXRCWmUwbXpROEp1Zmx5VWpaSlljcUdvZ1FPbUZ1TnllTG5UMWNwUkpQcDh0UndNZERWXzNjRnRRcW4zbmstSFR3Qkpmeg?oc=5",
-            "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVFlpQTV0SmVQbnFuNTY1T0ZxcmV6YUlNRU01b1FraVlNNkMyVG1lSEU5Nnd5dmNMdURWWnpzLWllTTBPN0VIc2J3LW01bGFjX0Vzc1c0bzFiZmpkc2FEQmRZaUxGb2pWNnl6SXJPWFVTQ29WLUhWWHBUZ1hoREJsOEJkN2NFNmRUNXg4RDVRYVF2NjJpZEl1X1ZDNExPUkM0dVFSOHQyU0Q2bWN6UzRGSk1zTnFPZ3Y1QjBIV3F2eVQ0NElxZ0ZjQ2Y0OExUZm_SAdQBQVVfeXFMT1V1akVZd0ZDRVR6Q0hhQUgxOE03SEZtUXptazJFS294Q2hyTEE3ZExQa2VTdEVuSHplOEZLLXdEVlppcWFrT0JENXRLeEFjX3pCbkt2TG55QTlqLXVRcmFJVU9HaE5xUmJEX1p5MzgybDVMajZWYlcyVTljc3ZIb1VlbGstOEpxc2h4ZGk3UFp5bTN6NVdKVzRCRHk2T3l4SzFjWlBtX29Ob0R6NEJVSkZCSUhlRE9GME1yQW92Q2NNVGVfdzZpME8xNnBqZzV5TTE3UTM?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREh2TmJzSFlFODFVOTB5NTZpdFUwZF8tZGdBSVlHMWl0YzM0LVRzNzQ0QW9wTER4VGNBeFV1Mnk5bnY5R3VEWmZjVXZuTHhBSmFvY2xMNXY1Z0N1dnoxXzh5d1RTTVpHamttWE1PdjI0ZWJ2elJRZ1VuN1BPMi1BUFQ4MTBDYnJGTlgzRjg5Z3E0UTBqVEg3VFZIOUp3TXJSdUZ3cEZ0bjBZUFpYTEZLT0M2ZjBWMm8xYzREak55YXo?oc=5"
+            "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObnRISjlqUnZfaDdCZVp0Zkd5RHYwem9rbkFPWXNIYmpQMFdmNk1hbGNMSm9kbmN2R2tZbE1DY3g4VFNDaUZ4X09LcXpVMmMxQVhrY295X1g1OG5jTTVEdvRWN2FMeU9vTkFTNTVoNVkwNEZCZjZZRUVLTDM5N015Q2xZWm80Z3pIdlBzSE1vTlljSDRheUkycmtWR0ZMOUhxeDNHeDZ0WWR6MnZkQ1JWdUc1dG9abjBxWHFVYWFXa245MVJINVZXbnZXSlhqbVhsdnBYaWk0Yjh4WGdyUTU2OTVR?oc=5",
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmJtR1UzbnBnUWVlZnVNSmxNb1Q5Q24yRldyd25RMVMwb0RyVDF1N0hFSWQtNHFjc1ZYRjdXbVN3NllNSDQ4YUMtNWd6RUdRdjRqTjQ3M0JjNGozQUE5eDVCakJxcXpjVGo4d0FGekNxNkhJdFdkTHAwV014VjNCQWsyak9TTGFfaTZMUkUxN09pZjZVanpTMFROX29BUE5fSnVPNlV2amFTUzYxQkUyTmVoTVZySXfSAbwBQVVfeXFMUHgwWUFKRzJDbjBrWHdtdmhEMU5TbG9lRk5VSmJXZTd4VXRqZktEQ0RhdFIya090bjhWWDBzajFlbjZRUk42cUFxOUQ1TVltemFvREpfWk1WaW5Jb1pSUk0tTzNwMVpOcVB1VW1UZkxDX25zX3JkVEFZdkFVajdVTjExZXNFQ0RUcmYzei1LY3dXcTAwbDFQbWZWbjRvYUlPOS1JbmtjMUt6dHlraU5VajFhWHZaN1JKSHRDeTE?oc=5",
+            "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkU1eGZkQkROOHlHa21ZT1duU20xdXQzNlNlMXFCZ0RQNVpESFdhMzlKQ2ZSV0xqeFRKYW5oMnBvTG4zVTJ4RUVQZHFCMVNrV0ZhVFd4U1dvRndaMmRQQk9uQXM2Q1kwSFJnaDJGSUFCQko1RnhZYi1fZlozdFp2YmtXblZBRGd1N3gyQU1kdVFIaE9vRC1vVHZaVXJKOU9ZZmVSZXc4VmwwSlFRcmJBbC1rS1BRZVU5SDlQRWVKSlhmSktGZi1JSjFmRDEyYnNEQTlHWjJWOHI?oc=5"
           ]
         },
         {
-          "t": "Rupee Trades in Lockstep with Crude as Iran Talks Emerge",
-          "src": "marketscreener.com · Reuters",
-          "b": "The Indian rupee stayed closely linked to crude oil prices as traders watched diplomatic talks involving Iran. Oil prices affect the currency because India imports most of its energy needs. Currency markets reacted to shifting oil valuations on September 23, 2026. Global energy supply hopes drove the currency's latest movements.",
-          "i": "The Indian rupee tracked crude oil fluctuations closely as foreign exchange markets monitored diplomatic developments regarding Iran. Energy import costs dictate the currency's sensitivity to petroleum price shifts. Market participants adjusted positions on September 23, 2026, amid evolving geopolitical sentiment. Petroleum market adjustments directly impacted rupee valuation metrics.",
-          "a": "The Indian rupee maintained high beta correlation to crude oil prices as currency desks priced in Iran diplomatic headlines. Structural current account sensitivity to imported energy commodities governed the spot dynamics. Market participants on September 23, 2026, reassessed foreign exchange exposure against evolving geopolitical risk premiums. The resulting price action underscored the dominance of commodity benchmarks over domestic rate differentials.",
+          "t": "Battery Firms Scale Back",
+          "src": "Nikkei Asia",
+          "b": "Battery cell companies in India are reducing their expansion plans. This happens as partnerships with companies in China have grown sour. The two nations are facing business difficulties together.",
+          "i": "Indian battery cell manufacturers are scaling back their expansion ambitions. This strategic retreat follows the souring of key partnerships with Chinese entities.",
+          "a": "Domestic battery cell developers are curtailing capital expenditure targets. The retrenchment is a direct consequence of deteriorating joint ventures and partnerships with Chinese counterparties.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHZpVDNiQzdseEVMXzJaRHNlRVliWVRnX3RsUnpvZVdNeGtPOTYwRjRkUWlYUE1NSTNZSmllRG1EQjZCWWhWSFNpeDVqWHhnNU5fWDhJY0l1WE5xdmh6U20yamVEVVU4STIyUDVia3ZIMm5KcW90aGJOVGNJU1RYdEt2YUFxX1VXSVJ4eVhkYVRxWkZ0U1RTNW1PcTRRMXBvSGVSbkJoOWNSczdZUktvRFpMdHRhekMtZXJvWV8zOFBIUkV0T3lmeQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNmdlVNbHl0UDFJQll5ckV0NHkzNXZVTmhvdlVPNk1Bci1RSXJRV2RRc3FVRm4zTlNONm15dlNZOFhNTzlOYVFnVWJQUUJmWnMzZnJCdzV6RV9OblJldlBZMExybTBaVDk2X0VVbXVYNHVTNy1wcWF4TzdiVXZNbXBSYnpYZjhsVzNjZTJhWF8zR183OXBCX0lWMm1TamR5WjRJSjhrMWZ2UQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME9EbVFUa3N2REVZZEpBYmtnRkh2bGV6RFpiNzhyOVo5WTQybXRQMXBfZDBOa3haUThKZm1NeTZrQmYzMnVFLVkyV0pPMXBhZlFqUDdFOEJUQWxLWlVEM1Q3M1ZPQWxBaldTdTVYSjFaakNpZzFjRDZjQ3FaTFZQdzB4VUh0QXJzekUzYU8tTDRob1VNUEJ3N2NnbkdjRGppRFhRaDdjTFhsaXhBeEVQdVpJTQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Government officials monitored global energy supplies and oil markets on September 23, 2026. Policymakers assessed how lower crude prices could impact the domestic economy. Authorities kept track of foreign investor stock sales.",
-        "i": "State policymakers evaluated the fiscal implications of crude oil breaking below $100 per barrel on September 23, 2026. Economic ministries tracked foreign portfolio outflows against broader Asian market trends. Regulatory bodies observed currency volatility tied to Middle Eastern diplomatic updates.",
-        "a": "Administration officials tracked the transmission of sub-$100 petroleum prices to domestic inflationary pressures on September 23, 2026. Macroeconomic planners factored foreign institutional capital flight into reserve adequacy assessments. Trade ministries monitored regional equity performance relative to domestic capital market turnover."
+        "b": "Diplomacy between the United States and Iran took centre stage as markets opened. At the same time, the World Economic Forum shared projections for the growth of the Indian economy.",
+        "i": "US-Iran diplomatic efforts took centre stage alongside broader global market cues. Meanwhile, the World Economic Forum released economic projections detailing expectations for the expansion of the Indian economy.",
+        "a": "Bilateral diplomatic initiatives involving the US and Iran dominated geopolitical focus as trading commenced. Concurrently, the World Economic Forum issued medium-term growth projections outlining the trajectory of the Indian macroeconomic expansion.",
+        "sources": {
+          "0": {
+            "outlet": "Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZXhpSHd0MFA3WGx3U0R1SEFoa1dqRHZ4Ml9jRHpsRm5qOWtQRE1VdkwwUnBXMy1qU0FzNjlNd3NoeUgwQXQwTHhDb09reGxHLWE4YjdIN2xmWGYzcE55UkkzWjlvMVdoaUVFVmhPeDBKcXU1cUNybzdGMlMtMWh5YlRYbllTcFVrd2V5RWpScE92RXJZMjFVNVZINjNrVERBODV6Q3ZvVTk0NGhlNG9qcl9TNkgydVlsd3FkTmJQcjJxSmdITkRVMU1oR3h6UGpIaWRxd01MSm51Skl1cU5Bd19nN2V4eV9YRlVTetIB8gFBVV95cUxQU05TS0NZQXYyR0w0UHAwRXlKTVBxMDBEcDJYbjgwV3R1VG5uR2Z0M2I5STBsaU1PYWRMY2UwdHkwckJhSlJiNDBrM05nS0NtQlFRbGZOTXY2MUl4US1ZTHNvaXBOUFBwS0ZpX3RCby15SXpUWVM2LXpNd2NFU2pfdUtiQkFDRnU4UEpORVc5YjJvUEs2Q01TSzg4eG9XQ0o2LVY3c3I0ZFF2d1k2Y2hKVWVoM1FOZi0zZ2g0QVRMbGJsbXpHaWxXTDVRX2U1MzlHdDkwZGI3QU91aVhqUWhZSGNoU0g1VGRFLVA4Z3JZQzZIQQ?oc=5"
+          },
+          "1": {
+            "outlet": "IntelliNews",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGUwR1VSYURrMGVpenUweUpLNVM1SEdTRVBoOUtRYWN1dzVYYlg3Mm51Y1YyeTRnVXRUdkxyWUt5U05GZGVYYmtPbExGUDFrX0VPS2pTR1VjRHA3NDBpSnp6UDlvazVWdVp2VkM5RVltc2RmeFRVa0xIZ3hwOC1HaEhxRVUwSWlOOWsyNXhXR1loOUNfLVNyR3l4OHJLZHdmZ3BFLW1zS3o?oc=5"
+          }
+        }
       },
       "timeline": [
         [
+          "22 Sep 2026",
+          "Reserve Bank of India reports overnight money market operations data"
+        ],
+        [
           "23 Sep 2026",
-          "GIFT Nifty indicates cautious opening for domestic equities amid foreign selling."
+          "Indian stock indices open higher with gains in Sensex and Nifty"
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras project updates and international energy expansion",
+      "sub": "Petrobras expands projects while energy firms eye offshore blocks",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Fleet and Infrastructure Expansion",
-          "src": "CPG Click Oil and Gas",
-          "b": "Petrobras is a big energy company in Brazil. It just launched a new ship that cost 450 million Brazilian reais. A crew of only women runs this ship. It brings fuel and water to eight large platforms in the ocean.",
-          "i": "Petrobras launched a new vessel measuring 92 meters with an investment of R$ 450 million. The ship features a 100% female crew to supply fuel, water, and equipment to eight offshore platforms. These platforms produce 1 million barrels per day.",
-          "a": "Petrobras commissioned a 92-meter supply vessel backed by a R$ 450 million capital expenditure. The ship services eight production units yielding 1 million barrels daily. Concurrently, a separate project contract involves 130 km of pipelines fabricated in Minas Gerais and coated in Espírito Santo for pre-salt operations.",
+          "t": "Petrobras Expands Infrastructure and Regional Operations",
+          "src": "CPG Click Oil and Gas · Cyprus Shipping News · Energy News Network",
+          "b": "Petrobras is a big energy company owned partly by the state. It signed a deal for 130 km of metal tubes to be built in Minas Gerais and coated in Espírito Santo. The company also received approval to join a new state subsidy program. Subsidy means financial help given by the government.",
+          "i": "Petrobras secured a contract spanning 130 km of pipelines fabricated in Minas Gerais and coated in Espírito Santo for pre-salt operations. The state-controlled enterprise also gained approval to enter a new economic subsidy program. These moves run alongside international expansion into eight deepwater blocks in the Ivory Coast.",
+          "a": "Petrobras advanced pre-salt logistics through a fabrication contract for 130 km of pipelines split between Minas Gerais and Espírito Santo. Management secured approval to enter a fresh economic subsidy framework while simultaneously acquiring a 90% operating stake in eight deepwater blocks in the Ivory Coast. The operational footprint broadens as upstream assets scale across domestic and African basins.",
           "links": [
             "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ1JnOGR1Snh0SVBlUFUxeVVrN1htQ2V5UFloUlBpSUU0R2Yzc0ZNeFVHa3l1LUhaaGQ3bFA3QWdEOEtnbmRyUG9VV0pNQXZqZllPOHhSVDM3RFlISWZzTVRzX3c1eDhKTXB3eXdpS1FUbjNva2FidUQ1SjlBMEkxanlNdEtQUE5WWjFOSmZFQXRha3BOYUgwYzV5RmxuOHZsVndxQjdwSldveU5YdFNPMFpNWFVDMmxRcjlkMG1wczdxN1hTdlhFMTRrOTJqV3VCc1FsQVRGVjhpVmhOT1JERGxsRnZ6UW02MDdIMnJFbE1RQWlfU2VmbHhSQklxcTdhZllDRmxnNmZvOVlKaFJfeg?oc=5",
-            "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQREh1bC1CN2k0RXI0T3FoTTE2QmFvelh5Z1FvWkdYN1pUcXpzTU1hS3B2Q29mbWpYdzJSMTIwTE9UWkE1MU04dXpzb3FWRDV2d0JXclFMczlPVFNLRVFzdWMtUTd1Mko1aklqel8zVEVXZ21HZFRKU21DMGRsb0ZYYlRtcGhDVWtXNjFtdVo2eW5lWFJQdU9yQV91MFRyVm41d0IxZ0g3REtaem5IMU5aVVhtUlhTcFBGMEE4QU5yZ01rNmtJUEJPQU9rcEFvbDl6OW04emktYjU5Q1lmUnJRcjB5bUhCM0NqUlBHQ3ZJekhZY1l4cmx3TVhYdVg4Tnk4RXZpWHJyeEVqT2s?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejVJSDVxblh6cS1JRGQ4NEJ0WWFJNmJPV0VYMTQ3SFFZOWh3OExVOTIwS3U2d0NqWm16VDZFUW1GVlVpZ09wLVpHcHQzVTIyV19lVWpOM1FvclRPXzdxZ3pRV291cjM5TmRKdFQ1VzYzUXpkb0tPbFd4MEdxSnBDYVBSMmttc0tobjk3RFdUaElRcFhZTWZvM19naC1PYl83TjRQX3NNRDR3UjlJ?oc=5",
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUlGWWJzeFJoaFRIZGVaUDhjZlhFMEZPZndDVkY4OTBlZURsdXBsM0pOMUVNbmQ4YWpKdWFFMkMwQWlPaGRwdjdPc3dvcWtpcnFsWmZXcGkzREhUeE5IUkRuVWpGSjRCRnlMUDZsRWZmNGwtN2NuejJlcWFNUlBzRFd1LWpYNXpNdHFNYk52dDdMWG5idWhLQWl4N0MwazROelpiS3JYalVHTDRBN2o3YkowV1VMTHluTXg4?oc=5"
           ]
         },
         {
-          "t": "Global Acquisitions and Domestic Exploration in Brazil",
-          "src": "Energy News Network · CPG Click Oil and Gas · TradingView",
-          "b": "Petrobras took a 90 percent operating stake in eight deepwater blocks in the Ivory Coast. Back home, Chevron took nine blocks to search for oil in the Foz do Amazonas region. Exxon also views this same offshore area as a major energy prize.",
-          "i": "Petrobras acquired a 90% operating stake in eight deepwater blocks located in the Ivory Coast. Meanwhile, Chevron secured nine blocks in the Foz do Amazonas region to begin search operations near Petrobras' Morpho discovery. Exxon also targeted this northern offshore basin as a primary South American energy target.",
-          "a": "Petrobras assumed a 90% operating interest across eight deepwater blocks in the Ivory Coast. Domestic activity intensified as Chevron acquired nine blocks in the Foz do Amazonas basin, initiating exploratory drilling roughly 130 km from the Morpho discovery. Exxon concurrently positioned the same frontier basin as a key regional asset.",
+          "t": "Energy Majors Target Foz do Amazonas Offshore Region",
+          "src": "CPG Click Oil and Gas · AD HOC NEWS · tradingview.com",
+          "b": "Chevron and Exxon are looking at the Foz do Amazonas area for oil. Chevron took nine blocks to search for oil about 130 km from a discovery by Petrobras called Morpho. Exxon also views this zone as a top energy prize in South America.",
+          "i": "Chevron entered the Foz do Amazonas race by acquiring nine blocks to search for oil roughly 130 km from the Petrobras Morpho discovery. Exxon views the same offshore zone as the next major energy prize in South America. Meanwhile, Sempra stock gained 1.2 percent following a liquefied natural gas deal with Petrobras.",
+          "a": "Chevron established a position in the Foz do Amazonas basin by acquiring nine blocks located approximately 130 km from the Petrobras Morpho discovery. Exxon characterized the offshore frontier as South American energy's next primary prize. Downstream, Sempra shares advanced 1.2 percent on a finalized liquefied natural gas agreement involving Petrobras.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUlGWWJzeFJoaFRIZGVaUDhjZlhFMEZPZndDVkY4OTBlZURsdXBsM0pOMUVNbmQ4YWpKdWFFMkMwQWlPaGRwdjdPc3dvcWtpcnFsWmZXcGkzREhUeE5IUkRuVWpGSjRCRnlMUDZsRWZmNGwtN2NuejJlcWFNUlBzRFd1LWpYNXpNdHFNYk52dDdMWG5idWhLQWl4N0MwazROelpiS3JYalVHTDRBN2o3YkowV1VMTHluTXg4?oc=5",
             "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWRjOENoWGs1amdmUEMxVUs0TTBiME5XUzk3Q0dQVzhoUUZ2TXVVb1ZKc1VrZ08xdkNURkNxaWVKWXVrRWhqck03dzdCbW9USDczTGdXZDVXQUVLVXFJUmpDbW9xWmNfMDNUWEJ5a0dxOGdGVEFscFlnQzNGYVFVc0I4RWxZQWVnR2xtNWFHSk4zWWtteDlZdnFGRjYzanhwLXEyaWNrZ0w0UlI2bWRCZGNSTERwZ29EdnRzbVZTM240NTJPTlVZYndPOTJZNzJldnVvRGVKbWhwS2NUSEJhNEVLWmZ3dDZFTWtpd01NNA?oc=5",
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHppY0VRbnI0MThCa19hSkRlY0hwV3k1SWZZSlhqa1ZsU21RM2JueTZ0eXBZQ2c3QXR4U243elJBZHRXaFJYVWYzOU9zYUg0ZkFOZUlTRWluMlctM09rUWI0V0xLbFdZRFVtYmxWOTNGcmNvc3JaeVJEeUg4a3NnQnNaZ3FnYjlmaDZqX3BrZGpZa055RG10WDQyN01nQ1JOSGRsOHBLMml4NURpekI4LQ?oc=5",
             "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZDhMZzltWjhxSkRWRFN0TzEwNUdaeVpMNGRoTlVaR09nZlJvemtwUmtuN3YxbDdncjIzemk3UkJoQVFjeTRQTTl0UEhIN05mS2xwTjVFNDFaSGlpWVNMZFdqS0ZtMUlKU1Y2MHZTcXd4TnVPNWFIMVhWc2w5cjBpTUxQeUMxaWs2TjZxNEZKUzhWdVZ2MnRjR29sTFZ3NXBLNXBmbThDakJ2OXVDUTNnd3NwMEZFV3MyWVdZeDZDU2xPNHA1c2F2UGQydC1ra0JJUXptMFp3Tmhtbmc?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Petrobras joined a new economic subsidy program. The company also produced 95,000 tons of asphalt mixed with corn oil at its Revap refinery. Sempra stock rose by 1.2 percent following a deal with Petrobras involving liquefied natural gas.",
-        "i": "Petrobras gained approval to join a new economic subsidy program. The company utilized corn oil at the Revap refinery to manufacture 95,000 tons of renewable asphalt content. Sempra shares increased by 1.2 percent following a liquefied natural gas agreement with Petrobras.",
-        "a": "Petrobras secured official approval to participate in a novel economic subsidy framework. Operational adjustments at the Revap facility enabled the production of 95,000 metric tons of asphalt incorporating renewable corn oil feedstock. Sempra equity advanced by 1.2% in response to a commercial liquefied natural gas transaction tied to Petrobras.",
+        "b": "The stock market index called Ibovespa went up because people hoped for talks between the United States and Iran. At the same time, analysts discussed the strength of the Brazilian currency, the real.",
+        "i": "The Ibovespa index climbed on market optimism surrounding potential United States-Iran talks. Currency analysts examined the degree of weakness in the Brazilian real. Sorghum production also expanded as export demand from China grew alongside higher domestic ethanol requirements.",
+        "a": "The Ibovespa index advanced on sentiment tied to potential United States-Iran diplomatic talks while foreign exchange participants assessed structural weakness in the Brazilian real. Agricultural output mirrored external demand shifts as domestic sorghum production surged alongside rising Chinese export orders and domestic ethanol consumption.",
         "gloss": null
       },
       "timeline": [
         [
-          "22 Sep 2026",
-          "Petrobras produces 95,000 tons of renewable asphalt at Revap"
+          "22 Sep",
+          "Petrobras produces 95,000 tons of renewable asphalt incorporating corn oil at Revap."
         ],
         [
-          "22 Sep 2026",
-          "Chevron acquires nine blocks in the Foz do Amazonas basin"
-        ],
-        [
-          "23 Sep 2026",
-          "Petrobras launches a new ship with a 100 percent female crew"
+          "23 Sep",
+          "Petrobras launches its first ship with a 100 percent female crew, built with a R$ 450 million investment."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco pipeline restart, output plans and supply agreements",
+      "sub": "Aramco plans a gas division, pipeline restarts, and OPEC+ pact",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco Restarts Strategic Pipeline and Secures Agreements",
-          "src": "The Maritime Executive · EnergyNow.com · scanx.trade",
-          "b": "Saudi Aramco is the big oil company owned by the country of Saudi Arabia. This company just got a major oil pipeline on the Red Sea working again after a partial restart. At the same time, the firm signed a deal to supply liquefied natural gas to Caturus. The company also announced an agreement with Epic for steel pipes worth ₹2,000 crore.",
-          "i": "Saudi Aramco achieved a partial restart on its strategic Red Sea pipeline. The energy giant simultaneously signed a liquefied natural gas supply deal with Caturus. In separate procurement activity, partner Epic secured a ₹2,000 crore steel pipe order from Aramco.",
-          "a": "Saudi Aramco implemented a partial operational restart on its strategic Red Sea pipeline alongside execution of a liquefied natural gas supply agreement with Caturus. Supply chain integration advanced concurrently as partner Epic secured a ₹2,000 crore tubular procurement contract from Aramco. These operational updates preceded a 5.40% post-close appreciation in Aramco equity valuations.",
+          "t": "Aramco Targets New Gas Division and Pipeline Restart",
+          "src": "marketscreener.com · The Maritime Executive",
+          "b": "Saudi Aramco is the state-owned oil company of Saudi Arabia, which is a giant business selling energy around the world. Saudi Aramco plans to build a new gas division and might sell a minority share of it. A minority share means selling a slice of the company while keeping most of it. Saudi Aramco also achieved a partial restart on its strategic Red Sea pipeline. A pipeline is a long tube that carries oil across the land.",
+          "i": "Saudi Aramco plans a new gas division and eyes a potential minority listing for the unit. Saudi Aramco also achieved a partial restart on its strategic Red Sea pipeline. Saudi Aramco stock gained 5.40% after the close following these developments.",
+          "a": "Saudi Aramco is structuring a new gas division with a potential minority listing. Saudi Aramco executed a partial restart on the strategic Red Sea pipeline, facilitating the resumption of oil exports via Yanbu. Saudi Aramco stock climbed 5.40% in after-hours trading.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3U4a0swS0FxNFN4R3BmVTR4MXdLVk9IVHpURDV6VmgxZzdOeFVGTDV4VkNFMnpSUjNmb1lGVmQ2cHZIN0JGeVJKMkt5VXRfS3JxVU8yaTZsRV9LRE54dlhPM29NdkwtdG5taXN3bWQyRm9vRmhua0xWaENVUW1tZGpDZHhwbTNQNGRCTUM0U0Z2cjR0YUZGMzYxOUhGRmExQ0l4SVNvalBLSENaVmZzWENjUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0o0S3ZzemxJRkRaZE0zTlN1c2o2OFpDX0F1MWg2UHRUeXdSR2xvX1ZLRE1IMkE3RzNzNHhyYzVUZ2FNanhHd0J0ZFBEVlVYTEkwbU9pcFlTWjhVd2RwY0xiUGVCbVRQZ1lYX04zclVFZlNwS2p0ekJsRThlWExESXBWaDE?oc=5",
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNW9jN2RCV3pDQXdqNEQzaFlWcVJfNk5IaVlBSU5RRHJ2bmlHOEQ5Wld3cUJ5blFMNjZOYzNxMEJBbkYxaGIyb1VSZWxtNUc1Wno5YjA5QS1oT05ienVIMWR0MFM1V0pTS2FWa2NlczI5N3UzdTlCdGtzcHRIb2tORlRMeUxrVWYybzVUOGNGN2NWc185T3pxQllHTDVYSHV1azhRMXF6RlJxcU5UdlU5ckQyd0MzeUxMMEJZUmw2bHB1QQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjVqblRjSHhseEx3VC1yMXdIZnRwLVhUTUx5OVpSd0RKOHZNSUdNN3RPOXQxcnFvUUxVeFEwdU1oY1h0WmIxa1c2YmtQaEllQS16VFk2TWdieS1LcG1uVC10UnVjVE96YkUxZXZLTlVrSW43TDQyQTdYSWNITmdzRzlJMlVGNUc0WGMtNFBsRlloT0prYTAzOXI0QV8zT21ha3Q3M2p1cTg2Z2NaZ2tmRjJDSFZkeF9nXzNtVjI0cF95WV90VUdmdEhkQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3U4a0swS0FxNFN4R3BmVTR4MXdLVk9IVHpURDV6VmgxZzdOeFVGTDV4VkNFMnpSUjNmb1lGVmQ2cHZIN0JGeVJKMkt5VXRfS3JxVU8yaTZsRV9LRE54dlhPM29NdkwtdG5taXN3bWQyRm9vRmhua0xWaENVUW1tZGpDZHhwbTNQNGRCTUM0U0Z2cjR0YUZGMzYxOUhGRmExQ0l4SVNvalBLSENaVmZzWENjUQ?oc=5"
           ]
         },
         {
-          "t": "OPEC+ Output Policy and Global Refining Updates",
-          "src": "EnergyNow.com · Moneycontrol.com - LinkedIn",
-          "b": "OPEC+ is a big group of countries that work together to control how much oil they pump out. This group agreed to boost oil output once the Strait of Hormuz reopens. Meanwhile, Saudi Aramco stated that the entire oil refining industry has suffered from underinvestment. Brent crude oil fell below $100 per barrel during these market updates.",
-          "i": "OPEC+ agreed to boost oil output once the Strait of Hormuz reopens. Saudi Aramco asserted that oil refining has faced persistent underinvestment globally. Brent crude traded below $100 while these production frameworks were discussed.",
-          "a": "OPEC+ formalized conditional supply adjustments, agreeing to escalate output quotas upon the reopening of the Strait of Hormuz. Saudi Aramco executives highlighted structural underinvestment across global refining capacity. Brent crude benchmarks subsequently drifted below $100 per barrel against this supply backdrop.",
+          "t": "OPEC+ Agrees Output Plan as Alliance Eyes Al-Nassr",
+          "src": "EnergyNow.com · Goal.com",
+          "b": "OPEC+ is a group of countries that work together to control how much oil they pump into the world. OPEC+ agreed to boost oil output when the Strait of Hormuz reopens. The Strait of Hormuz is a narrow stretch of water where ships carry oil. Meanwhile, an American-Saudi alliance is negotiating with the Public Investment Fund to buy the football club Al-Nassr.",
+          "i": "OPEC+ agreed to boost oil output when the Strait of Hormuz reopens. An American-Saudi alliance is negotiating with the Public Investment Fund to buy Al-Nassr. The negotiations put Cristiano Ronaldo on the table during the talks.",
+          "a": "OPEC+ agreed to boost oil output upon the reopening of the Strait of Hormuz. An American-Saudi alliance is negotiating with the Public Investment Fund to acquire Al-Nassr, with Ronaldo included in the discussions.",
           "links": [
             "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHJPcmIwM1FXUFAzM0hWdlZyb2xhb0VsN3g2dGJxdFRGakxQU1VrTEMyS2NpQTV6NVpLM09Ma09UOF9PWnVQSmd6bG9JcThtUGRCeDgzaDVXY1AxUGo3NUcwNkhtMUlULUgwZWxSbnNaaTRRM2Q0T1pTUFlWQWg1b1NfTHJXTmhUUnYxQzZiWDU4NzctVlpz?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjNXek5NcE9IU0RFMzRjcFJnTjNjVnBibWpEMGpiTnFyUGhScVh5bTBJbjZVUmFHaUhDNTJfRFFjQTJxVTVrSnpzMWpCc2xxS25YaWVKNFE4eGFVZFlFd0c2dVhoR05WVW9KNGoxRFFhLWptWFBtbUNhMUgzZ2Rfb2FxVXlsME5GTGlzTw?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREh2TmJzSFlFODFVOTB5NTZpdFUwZF8tZGdBSVlHMWl0YzM0LVRzNzQ0QW9wTER4VGNBeFV1Mnk5bnY5R3VEWmZjVXZuTHhBSmFvY2xMNXY1Z0N1dnoxXzh5d1RTTVpHamttWE1PdjI0ZWJ2elJRZ1VuN1BPMi1BUFQ4MTBDYnJGTlgzRjg5Z3E0UTBqVEg3VFZIOUp3TXJSdUZ3cEZ0bjBZUFpYTEZLT0M2ZjBWMm8xYzREak55YXo?oc=5"
+            "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbE14MmdqUUd2ajE3bjR6RDVYMlk1Mnk3clVubzZyZ2NNLWJjWTJYRWFoc296M2lnak1tWEpwRGZaLWJmZHZ1ZEpNRkpfQjA2dlVXMU54QWk5Ul9kRGstalJQQjltLUU5b0wwWEc5di1JN1l4OGE4cE5heUdLQWlKRVR4dDJhamIzQkNNZ29PbFdQd0NGU3BsazEwaTBkNkwwbU85ekFybjJaSXJsN1VqcVlVT3pNM1I5TjJlcE14QlNOZE1tSTJXNG56ODUzR2pVeXNNUGJjWlVwUkk?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "An American-Saudi alliance is currently negotiating with the Public Investment Fund to buy the Al-Nassr football club, with Cristiano Ronaldo involved in the talks.",
-        "i": "An American-Saudi alliance initiated negotiations with the Public Investment Fund regarding the acquisition of Al-Nassr, with Ronaldo central to the discussions.",
-        "a": "An American-Saudi consortium entered structured acquisition talks with the Public Investment Fund for control of Al-Nassr, featuring active commercial integration of Ronaldo.",
-        "sources": {
-          "0": {
-            "outlet": "Goal.com",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbE14MmdqUUd2ajE3bjR6RDVYMlk1Mnk3clVubzZyZ2NNLWJjWTJYRWFoc296M2lnak1tWEpwRGZaLWJmZHZ1ZEpNRkpfQjA2dlVXMU54QWk5Ul9kRGstalJQQjltLUU5b0wwWEc5di1JN1l4OGE4cE5heUdLQWlKRVR4dDJhamIzQkNNZ29PbFdQd0NGU3BsazEwaTBkNkwwbU85ekFybjJaSXJsN1VqcVlVT3pNM1I5TjJlcE14QlNOZE1tSTJXNG56ODUzR2pVeXNNUGJjWlVwUkk?oc=5"
-          }
-        }
+        "b": "State investment funds and international groups negotiate major corporate and sports deals.",
+        "i": "State-backed entities engage in asset negotiations alongside international supply pacts.",
+        "a": "The Public Investment Fund advances negotiations for sports club acquisitions while state energy entities adjust production and division frameworks.",
+        "sources": {}
       },
       "timeline": [
         [
-          "22 Sep",
-          "Saudi Aramco achieves partial restart on strategic Red Sea pipeline."
+          "22 Sep 2026",
+          "Saudi Aramco prepares to resume oil exports via Yanbu."
         ],
         [
-          "22 Sep",
+          "22 Sep 2026",
           "OPEC+ agrees to boost oil output when the Strait of Hormuz reopens."
         ],
         [
-          "23 Sp",
-          "Welspun Corp partner Epic wins ₹2,000 crore steel pipe order from Aramco."
+          "23 Sep 2026",
+          "Saudi Aramco plans a new gas division and eyes a potential minority listing."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "CBN rate cuts, foreign reserves and currency policy",
+      "sub": "Interest rate cuts and rising foreign reserves",
       "ind": [],
       "stories": [
         {
-          "t": "CBN Cuts Benchmark Rate and Rejects Fixed Currency Targets",
-          "src": "Punch Newspapers · TVC News",
-          "b": "The Central Bank of Nigeria lowered its interest rate to 23%. Interest is the cost of borrowing money. The bank also said it will not use a fixed target for the naira. The naira is the currency used in Nigeria. Market forces will decide the value of the currency instead.",
-          "i": "The Central Bank of Nigeria reduced its benchmark interest rate to 23%. The central bank aims to manage election <span class='term' data-t='inflation'>liquidity</span> through this adjustment. Bank officials also rejected a fixed target for the naira. Market forces will now dictate exchange values directly.",
-          "a": "The Central Bank of Nigeria lowered its policy rate to 23%, concurrently pledging to contain election-related liquidity expansion. Governor Cardoso reiterated that market forces must determine the value of the naira, explicitly rejecting any fixed currency target. This stance implies foreign exchange intervention will focus on volatility mitigation rather than defending a specific peg.",
+          "t": "Central Bank Cuts Rates to 23 Percent",
+          "src": "Punch Newspapers",
+          "b": "The Central Bank of Nigeria lowered its main interest rate to 23%. An interest rate is the cost of borrowing money. The bank also wants to control extra money during the election period. Lower rates make loans cheaper for people and businesses.",
+          "i": "The Central Bank of Nigeria reduced its monetary policy rate to 23%. Policymakers simultaneously vowed to contain election liquidity as campaign spending surges. Lowering borrowing costs typically stimulates commercial activity while shifting <span class='term' data-t='inflation'>inflation</span> dynamics across domestic credit markets.",
+          "a": "The Central Bank of Nigeria trimmed its benchmark rate to 23% alongside explicit commitments to sterilise election-driven liquidity surges. Real yield compression resulting from this loosening cycle challenges domestic debt holders. Transmission mechanisms will depend on whether commercial banks immediately reprice credit portfolios or hoard liquidity ahead of the ballot.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFYnFZYVg3VUhrV2xscVRQM3FHYW1TUWxzZHpTN0JoU0J2eVlRQklOdGRIY1QxZWpCYUlTeWN3UXJ5LXVCa2ZQeUhZUXhfMUxUazlPazBjLUp3dWhfYXpfMkwzbkJJMnZsSVFLY3VhNGVmRVdTUERiWXZjaDdTZw",
-            "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV19teEJJWFhwUzNDZUVLUTdEb0xzWS1IRXdUcEhrMXJxMTM5NDd1cVdSLWxHSmZLX3NFUWp6TmNGdTM5T05tODJnNmxpNnMzTzBxdzNIOFpvQTN2U1pETXdacnlyVlcyQnhfd0lMVmpFVGhpTFpRZHpaWmUyN2kteWRhY2t6XzdLZlI1TGNwS2VLZHQ5RWFBMDNn"
+            "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFYnFZYVg3VUhrV2xscVRQM3FHYW1TUWxzZHpTN0JoU0J2eVlRQklOdGRIY1QxZWpCYUlTeWN3UXJ5LXVCa2ZQeUhZUXhfMUxUazlPazBjLUp3dWhfYXpfMkwzbkJJMnZsSVFLY3VhNGVmRVdTUERiWXZjaDdTZw?oc=5"
           ]
         },
         {
-          "t": "Foreign Reserves Reach Eighteen-Year High Above Fifty-Five Billion Dollars",
-          "src": "Nairametrics · Daily Post Nigeria",
-          "b": "Governor Cardoso announced that Nigeria's foreign reserves crossed $55 billion. This is the highest level in over 18 years. Foreign reserves are pools of foreign money held by a country. The naira also extended its appreciation against the United States dollar.",
-          "i": "Governor Cardoso reported that foreign reserves surpassed $55 billion. This milestone marks the highest level recorded in over 18 years. Meanwhile, the naira extended its appreciation against the US dollar in currency markets.",
-          "a": "Governor Cardoso confirmed foreign reserves crossed the $55 billion threshold, marking an 18-year peak. This reserve accumulation coincides with the naira extending its recent appreciation against the USD. The conjunction of reserve growth and currency appreciation alters the external balances outlook.",
+          "t": "Foreign Reserves Cross 55 Billion Dollars",
+          "src": "Nairametrics · TVC News",
+          "b": "Nigeria's foreign currency reserves passed $55bn. This is the highest level in more than 18 years. Central Bank officials confirmed this milestone on September 22, 2026. These reserves help back the country's international trade.",
+          "i": "Nigeria's foreign exchange reserves surpassed $55bn, reaching an 18-year high. Governor Cardoso confirmed the milestone on September 22, 2026. Accumulating external buffers enhances the central bank's capacity to defend the currency during external shocks.",
+          "a": "Nigeria's gross external reserves breached the $55bn threshold, marking an 18-year peak per disclosures by Governor Cardoso on September 22, 2026. This liquidity buffer expands the apex bank's intervention capacity in the foreign exchange market. Sustaining this reserve accumulation trajectory requires continued foreign portfolio inflows and robust hydrocarbon export receipts.",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEQ4QngtZDByczNMRTFBcWpsekpYZV9OdzZTb0tLeHZ1WnRONTZIQjJxSGVKcGxjeDRZdG1ILUpCcWNldlV6VkVHdjAxalI0Um9vRUFkRFZhVmwyWnFndUJMSjgwZHJJbnp4VEhvZUZxVWNiSHRPeDR5YkxUa1BRNlVvendYdlBVYW1mR0Y1WDJpbjZmTXM5eFAyODBTeVFnNlh4WkI0VWRHYm10OWJHMGVB",
-            "https://news.google.com/rss/articles/CBMiswFBVV95cUxQend3SlhHR0JHV3FXNVVLZ3dzMXMxWmtvSzdfUGx4S3NhVUxaTTR2TmdHeldFNDhUb3JNRWRxVGpnb3BESDNNYms0TDdmbEdyYVJ0N2xiM3dYZU1IZFpVbFcxUG93c3E3Vk1DdllNZTViX2paTDRaOUJPMmh3aFNPR01sb1c0a01YRFFrc0E1Q2o2NWhBb2JKVml6RU9id09CQUpjc29icjJuNE9xaFhvTG9xaw"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEQ4QngtZDByczNMRTFBcWpsekpYZV9OdzZTb0tLeHZ1WnRONTZIQjJxSGVKcGxjeDRZdG1ILUpCcWNldlV6VkVHdjAxalI0Um9vRUFkRFZhVmwyWnFndUJMSjgwZHJJbnp4VEhvZUZxVWNiSHRPeDR5YkxUa1BRNlVvendYdlBVYW1mR0Y1WDJpbjZmTXM5eFAyODBTeVFnNlh4WkI0VWRHYm10OWJHMGVB?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV19teEJJWFhwUzNDZUVLUTdEb0xzWS1IRXdUcEhrMXJxMTM5NDd1cVdSLWxHSmZLX3NFUWp6TmNGdTM5T05tODJnNmxpNnMzTzBxdzNIOFpvQTN2U1pETXdacnlyVlcyQnhfd0lMVmpFVGhpTFpRZHpaWmUyN2kteWRhY2t6XzdLZlI1TGNwS2VLZHQ5RWFBMDNn?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Makinde denied getting 50 billion naira from Tinubu for an airport.",
-        "i": "Makinde denied receiving 50 billion naira from Tinubu for airport funding.",
-        "a": "Governor Makinde refuted claims regarding the receipt of 50 billion naira from Tinubu for airport development."
+        "b": "politicians faced billboard restrictions and funding denials. Makinde denied receiving 50 billion naira from Tinubu for an airport. ARCON rejected expensive political billboard charges.",
+        "i": "Political disputes emerged around campaign infrastructure and funding claims. Makinde denied accepting 50bn naira from Tinubu for airport development. Meanwhile, ARCON rejected multi-million naira political billboard charges.",
+        "a": "Electoral friction intensified around administrative controls and fiscal allocations. Makinde publicly refuted claims of receiving a 50bn naira subvention from Tinubu for airport construction. Concurrently, ARCON rejected multi-million naira political billboard charges as political stakeholders prepared for upcoming electoral contests."
       },
       "timeline": [
         [
           "22 Sep 2026",
-          "CBN cuts interest rate to 23%"
-        ],
-        [
-          "22 Sep 2026",
-          "Foreign reserves cross $55 billion"
+          "CBN cuts interest rate to 23% and foreign reserves cross $55bn."
         ],
         [
           "23 Sep 2026",
-          "Naira exchange rate updates released"
+          "ARCON rejects multi-million naira political billboard charges."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Central Bank Flags Governance Shortfalls At Exchange Operator",
+      "sub": "Central bank flags ongoing shortcomings in clearing systems",
       "ind": [],
       "stories": [
         {
-          "t": "Central Bank Criticises Operator Standards",
-          "src": "Capital Brief",
-          "b": "The Reserve Bank of Australia is the country's central bank, which manages monetary policy and oversees financial stability. This institution states that ASX Limited fails to meet expectations in several critical areas. These shortcomings include governance, operational resilience, and risk management. The exchange operator continues to fall short despite ongoing fixes.",
-          "i": "The Reserve Bank of Australia reports that ASX Limited still misses key benchmarks across operational resilience, governance, and risk management. Australia's central bank evaluated the exchange operator and found ongoing deficiencies in its proposed fixes. These persistent gaps highlight continued vulnerabilities in core financial market infrastructure.",
-          "a": "The Reserve Bank of Australia maintains pressure on ASX Limited after finding persistent failures in governance, operational resilience, and risk management. Market infrastructure oversight demands robust remediation, yet the exchange operator's fixes remain inadequate. This assessment implies prolonged regulatory scrutiny for the primary listing venue.",
+          "t": "Central bank finds clearing facilities fall short",
+          "src": "Reuters · Finimize",
+          "b": "The Reserve Bank of Australia keeps pressure on the stock exchange operator. The central bank is the main group that looks after the nation's money and banks. It states that the exchange's clearing facilities still fall short in key areas. Clearing is the process of making sure trades finish properly and both sides get what they bought. The operator shows progress, but the financial authority wants more work done.",
+          "i": "The Reserve Bank of Australia maintains pressure on ASX Limited. The central bank notes that clearing facilities still fall short in key areas despite recent progress. Market participants monitor the infrastructure risks closely. The regulatory scrutiny persists as the operator attempts to upgrade its core systems.",
+          "a": "The Reserve Bank of Australia sustains pressure on ASX Limited regarding operational resilience. The central bank highlights that clearing facilities still fall short in key areas despite incremental progress. Systemic risk concerns remain prominent as market infrastructure upgrades continue under regulatory oversight.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV09jY2F2Z1RaeUU5RmlhV1Vmb1RWQUtPbVo0NENaUFdzX216c2dUdGU1ZXVkTHZkRFExZHNqZzItQU5jVnNJYVNFdGJEbkNFTXNVVTVXazd6b3FEZDIxc0pTWDBUM21hZU02X1pXbHJ5UURiOEtYMXJFYXN5S2I3RElQMHgtOV9QV29mS3lOdVdJMXNsSzZnSVNGdmw0YjZ0am9Yc1VsYkdxMG9IUXd2aXJTZDJTaGYwdlgtdExWQ0I?oc=5"
+            "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3lJN2E2dmdpcllpNTluc1JsV3MtUG1UVGlWeW5raVdRVFVyV3JZWGtlTHpmenliRHBobG5oeV9ELTNsd3NKeGtVdEpIOEM5RnJOSVl0ZWR5S0lDdU5kX3FfWXJnTENVeExrcmE2dVZJeVM2cFBtcWszcWFYdXQ3Rko3V0dXdjZ0VEZjX0ZGdlk1LTJCcFJqNm54TFB6OFFQT1FsdU1jSTRPbkdRQTdVc0VtU3JWMmpvQV92MXdfVWdfZW1SeERodkJPQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEc2NXVOREMtZTlmQmU0elN4VXZXRGg3RkpvejhtQUJLalRiNG5KYklubW4taHpsSl9jeXNzZE9BT0NwaXVaTG9tNkVGd0pPQU9ZbGlhcWtvZmV3NXRMZWFMaHlvWTVZa2taMlRBbVRhTXg4QXNHZU1QSU9RYnBSM0VqU3F1cTUxYkw2NkVhOWl5X0U2ZWc?oc=5"
+          ]
+        },
+        {
+          "t": "Materials rally pushes metal stocks higher",
+          "src": "Mining.com.au · Stockhead",
+          "b": "Mining companies join a materials rally on the share market. Anax Metals sees a big spike in its share price. The stock jumps by 24% during the trading session. Other metal commodities like copper also fire up on the boards.",
+          "i": "Materials companies join a broader market rally during the session. Anax Metals leads the sector with a 24% price spike on the ASX. Copper prices also rise alongside the strong mining performance. Investors rotate capital into basic resources and mining equities.",
+          "a": "Basic materials equities participate in a robust sector rally. Anax Metals surges 24% on the ASX amid heightened demand for mining assets. Copper spot strength underpins broader index sentiment across resource counters. Capital flows concentrate heavily in domestic materials firms.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVFtaE00VnNLMWFfSUdsdElVbjVaSkZFVHBYVlAwcVk3enQ0NFE3cmZlbmo4YUcybkR6NXBPWi1FNTVhZ05aQVl3Y08zcTdEeVN4N2lSWVR2V3ZRUG92Qlp4VzBfX2NaemdhNFlVeVNucjRSYjU5NURnTENCTXRPM01IRQ?oc=5",
+            "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTN0RmpXeGRVZy1jS2NRWlBqWDJhUUFqU0stU3luZWlfTVVicUNvc0o3ZW9yTHBQN0ZDb1dyVmNWaGYwNFIwb1ZmdlU1elUwbUJja1FXR0JHSU1ET21ZbDRQOUcxb2NPTV9Gb2ozalAycG11TVRFdGhtVkZvWmRvRnJETVU3SmZtRzZ0Yk1tbVFxdw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The central bank oversees the financial system to protect the economy. Leaders monitor major companies to ensure they operate safely. Regular assessments check if firms follow proper rules.",
-        "i": "Regulatory oversight bodies monitor systemic risk across core financial institutions. The central bank evaluates market operators against strict operational standards. Public assessments maintain pressure on corporate governance.",
-        "a": "State-backed prudential supervision targets systemic nodes within domestic market infrastructure. Central bank assessments enforce operational compliance through public disclosures. Supervisory frameworks leverage reputational costs to compel internal reform."
+        "b": "No political updates are available in today's market reports.",
+        "i": "No political updates are available in today's market reports.",
+        "a": "No political updates are available in today's market reports."
       },
       "timeline": [
         [
           "23 Sep 2026",
-          "The Reserve Bank of Australia reports that ASX Limited falls short of expectations in governance and risk management."
+          "The Reserve Bank of Australia reports ongoing shortcomings in ASX clearing facilities."
+        ],
+        [
+          "23 Sep 2026",
+          "Anax Metals shares spike 24% during the materials sector rally."
         ]
       ]
     }
