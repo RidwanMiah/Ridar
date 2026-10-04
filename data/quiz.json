@@ -1,707 +1,707 @@
 {
-  "generated": "2026-10-04T13:11:26.108Z",
+  "generated": "2026-10-04T17:37:58.367Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Labor market",
-      "q": "How many jobs did the United States economy add in September?",
+      "tag": "United States of America · Equities",
+      "q": "What company announced a name change from SpaceXAI to SpaceXSI?",
       "o": [
-        "29,000 jobs",
-        "290,000 jobs",
-        "2,900 jobs",
-        "29,000,000 jobs"
+        "SpaceX",
+        "Nvidia",
+        "Nasdaq",
+        "Fioneer"
       ],
       "a": 0,
-      "e": "The United States economy added 29,000 jobs in September, establishing the primary employment print for the monthly cycle. A larger number like 290,000 is incorrect and not supported by the sources."
+      "e": "The briefings state that Musk announced a name change for SpaceXAI to SpaceXSI ahead of an initial public offering."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Fixed income",
+      "q": "What milestone did US Treasury yields reach during the technology rally?",
+      "o": [
+        "A 24-year high",
+        "A 10-year low",
+        "A multi-decade zero bound",
+        "A historic crash"
+      ],
+      "a": 0,
+      "e": "US Treasury yields touched a 24-year high while artificial intelligence equities advanced."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Equities",
-      "q": "What percentage decline did the FTSE 100 index record?",
+      "q": "What percentage rally is projected for a forgotten equity listed on the FTSE 100 over the next year?",
       "o": [
-        "4.5%",
+        "53%",
+        "33%",
         "1.03%",
-        "9.3%",
-        "33%"
+        "11%"
       ],
       "a": 0,
-      "e": "The FTSE 100 index declined by 4.5%, prompting discussions about potential entry points for passive income. The 1.03% figure refers to a different index in another country."
-    },
-    {
-      "lvl": "b",
-      "tag": "United Kingdom · Equities",
-      "q": "What dividend yield did a specific FTSE 250 constituent exhibit?",
-      "o": [
-        "9.3%",
-        "4.5%",
-        "37%",
-        "3.1%"
-      ],
-      "a": 0,
-      "e": "An individual FTSE 250 constituent exhibits a 9.3% dividend yield, which spurs debate over capital allocation. The 4.5% figure belongs to the FTSE 100 decline."
+      "e": "Forecasters projected that a forgotten equity listed on the FTSE 100 will rally 53% over the next year."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "What level did the DAX 40 index fall below after dropping by 1.03%?",
+      "q": "What key psychological level did the DAX 40 index fall below after dropping 1.03%?",
       "o": [
-        "25,000",
-        "73,895",
-        "24,939",
-        "54,920"
+        "The 25,000 mark",
+        "The 20,000 mark",
+        "The 30,000 mark",
+        "The 15,000 mark"
       ],
       "a": 0,
-      "e": "Rising bond yields and strong US data drove the DAX 40 index below the 25,000 threshold, resting at 24,939.35. The number 73,895 relates to an Indian index."
+      "e": "The DAX 40 dropped 1.03% to close at 24,939.35, which broke the key psychological level of the 25,000 mark."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Corporate",
-      "q": "Which Bundesbank mandate did SAP secure through its Fioneer unit?",
+      "tag": "Germany · Technology",
+      "q": "Which central bank awarded a mandate to SAP's Fioneer unit?",
       "o": [
-        "A Bundesbank mandate",
-        "An OPEC+ production quota",
-        "A Petrobras refining plan",
-        "A regional airline project"
-      ],
-      "a": 0,
-      "e": "SAP's Fioneer unit secured a Bundesbank mandate while corporate buybacks continued. The other options refer to completely different sectors and countries."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Taxation",
-      "q": "How much unreported income was identified by Japanese tax authorities?",
-      "o": [
-        "500 million yen",
-        "3.1 billion yuan",
-        "10.8 billion naira",
-        "0.26 US dollars"
-      ],
-      "a": 0,
-      "e": "Japanese tax authorities identified 500 million yen in unreported income linked to a structured tax-saving scheme. The 3.1 billion figure relates to Xiaomi's electric vehicle spending."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Economy",
-      "q": "What did Japan's food self-sufficiency ratio drop down to?",
-      "o": [
-        "37%",
-        "29%",
-        "4.5%",
-        "9.3%"
-      ],
-      "a": 0,
-      "e": "A weak currency pushed Japan's food self-sufficiency down to a record-low 37% as import costs for essential foodstuffs rose sharply. The 29% figure is unrelated to food self-sufficiency."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Currency",
-      "q": "Which country did Japan's finance minister coordinate with regarding currency stability?",
-      "o": [
-        "The United States",
-        "Germany",
-        "China",
-        "Brazil"
-      ],
-      "a": 0,
-      "e": "Japan's finance minister reaffirmed bilateral coordination with the United States regarding currency stability to address excessive volatility. Other countries mentioned in the text are not part of this specific bilateral coordination."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Automotive",
-      "q": "How much capital did Xiaomi's electric vehicle division absorb in R&D expenditure?",
-      "o": [
-        "3.1 billion yuan",
-        "500 million yen",
-        "10.8 billion naira",
-        "$54.92bn"
-      ],
-      "a": 0,
-      "e": "The electric vehicle division accounted for 3.1 billion yuan of Xiaomi's R&D expenditure. The 500 million figure represents unreported tax income in Japan, not automotive research."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Fiscal policy",
-      "q": "What caused severe fiscal vulnerabilities and structural deficits for sub-national Chinese jurisdictions?",
-      "o": [
-        "Falling land sales",
-        "Rising oil production quotas",
-        "Higher regional airline costs",
-        "Stronger foreign exchange reserves"
-      ],
-      "a": 0,
-      "e": "The property sector contraction precipitated systemic fiscal distress through collapsed land conveyance fees and falling land sales. Oil quotas and airline projects are from entirely different regional briefings."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Investment",
-      "q": "Which sector did sixty-two private funds target during their September research sweeps?",
-      "o": [
-        "Electronics",
-        "Property",
-        "Aviation",
-        "Agriculture"
-      ],
-      "a": 0,
-      "e": "Sixty-two private funds conducted research blitzes on electronics stocks, indicating concentrated institutional appetite. The property sector experienced a slump rather than targeted fund research."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Indices",
-      "q": "How many consecutive weekly losses did the Nifty index log?",
-      "o": [
-        "Seven",
-        "Two",
-        "Three",
-        "Forty-five"
-      ],
-      "a": 0,
-      "e": "The Nifty index logged its seventh straight weekly loss while the BSE Sensex rebounded by 315 points. Choosing two or three would contradict the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Central Bank",
-      "q": "Which institution's Monetary Policy Committee meeting stands as a primary focal point for market participants?",
-      "o": [
-        "The Reserve Bank of India",
         "The Bundesbank",
         "The Federal Reserve",
-        "OPEC+"
+        "The European Central Bank",
+        "The Bank of England"
       ],
       "a": 0,
-      "e": "The Reserve Bank of India Monetary Policy Committee meeting anchors market attention alongside corporate earnings releases. The Bundesbank and OPEC+ are a central bank subsidiary and an oil cartel, respectively."
+      "e": "SAP's Fioneer unit secured a mandate from the Bundesbank during its quiet period."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Currencies",
+      "q": "What record-low percentage did Japan's domestic food self-sufficiency fall to amid yen weakness?",
+      "o": [
+        "37%",
+        "53%",
+        "24%",
+        "11%"
+      ],
+      "a": 0,
+      "e": "Domestic food self-sufficiency fell to a record-low 37% as the yen remained weak and import costs rose."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Labor",
+      "q": "What factor is primarily driving solid gains in upcoming Japanese wage data?",
+      "o": [
+        "Ongoing labor shortages across the economy",
+        "Stormy weather conditions",
+        "Increased household spending",
+        "Higher food import costs"
+      ],
+      "a": 0,
+      "e": "Upcoming wage data is anticipated to post solid gains stemming primarily from ongoing labor shortages across the economy."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Technology",
+      "q": "How much did Xiaomi increase its research and development spending by?",
+      "o": [
+        "33%",
+        "53%",
+        "1.03%",
+        "3.1%"
+      ],
+      "a": 0,
+      "e": "Xiaomi increased its research and development spending by 33%, driven by its electric vehicle unit."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Trade",
+      "q": "What is Brussels focusing on to justify new trade measures against Chinese exports?",
+      "o": [
+        "Job losses",
+        "Interest rates",
+        "Currency depreciation",
+        "Oil prices"
+      ],
+      "a": 0,
+      "e": "Brussels is focusing on job losses to justify new trade measures that are set to hit Chinese exports."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Currencies",
+      "q": "Which currency did the Indian rupee depreciate against?",
+      "o": [
+        "The US dollar",
+        "The Japanese yen",
+        "The Brazilian real",
+        "The Nigerian naira"
+      ],
+      "a": 0,
+      "e": "The Indian rupee depreciated against the US dollar due to oil prices, capital outflows, and the trade deficit."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Equities",
+      "q": "Why did the Nifty index underperform broader earnings growth?",
+      "o": [
+        "Its market capitalisation composition created a structural lag",
+        "Foreign exchange controls reduced its trading volume",
+        "Rising oil prices depressed all index constituents",
+        "Central bank interest rate hikes lowered valuations"
+      ],
+      "a": 0,
+      "e": "The Nifty index underperformed wider corporate earnings expansion because its market capitalisation composition created a structural lag."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Commodities",
+      "q": "How many offshore blocks did Petrobras sign agreements for in Côte d'Ivoire?",
+      "o": [
+        "8",
+        "33",
+        "25",
+        "40"
+      ],
+      "a": 0,
+      "e": "Petrobras signed agreements for 8 offshore blocks in Côte d'Ivoire and completed a new oil discovery in the Morpho well."
     },
     {
       "lvl": "b",
       "tag": "Brazil · Cryptocurrencies",
-      "q": "Below which price threshold did Cardano remain despite a Petrobras pilot project?",
+      "q": "What benchmark rate did Featherlend bring on-chain through BRZ Morpho Markets?",
       "o": [
-        "$0.26",
-        "$25,000",
-        "$54.92bn",
-        "$73,895"
+        "Brazil's Selic rate",
+        "The US Federal Funds rate",
+        "The European Central Bank refinancing rate",
+        "The Bank of England base rate"
       ],
       "a": 0,
-      "e": "Cardano holds below $0.26 as the market absorbs the Petrobras pilot without generating upside momentum. The larger dollar figures refer to foreign reserves or stock index levels."
+      "e": "Featherlend deployed BRZ Morpho Markets, which brings Brazil's Selic rate on-chain."
     },
     {
       "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "For how many consecutive months did OPEC+ agree to keep oil output unchanged?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What action did OPEC and Iraq take regarding their current oil production targets?",
       "o": [
-        "Two",
-        "Seven",
-        "Five",
-        "Twelve"
+        "Maintained them without changes",
+        "Increased output quotas",
+        "Reduced supply levels",
+        "Suspended all exports"
       ],
       "a": 0,
-      "e": "OPEC+ members agreed to keep oil output unchanged for November, marking the second consecutive month of steady production targets. Seven is the number of consecutive weekly losses for the Indian Nifty index."
+      "e": "OPEC and member countries such as Iraq agreed to maintain their current oil production targets without changes."
     },
     {
       "lvl": "b",
-      "tag": "Nigeria · Reserves",
-      "q": "What level did gross foreign reserves reach as the Nigerian currency declined?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "Where was the Aramco facility located that was targeted by Houthi forces?",
       "o": [
-        "$54.92bn",
-        "10.8 billion naira",
-        "29,000 dollars",
-        "500 million yen"
+        "In Riyadh",
+        "In Côte d'Ivoire",
+        "In Amapá",
+        "In New York City"
       ],
       "a": 0,
-      "e": "Gross foreign reserves climbed to $54.92bn against a backdrop of ongoing currency weakness. The 10.8 billion naira figure was allocated by Northeast governors for an airline."
+      "e": "Houthi forces claimed a strike on an Aramco facility inside Riyadh that sparked fires and triggered a security response."
     },
     {
       "lvl": "b",
-      "tag": "Australia · Mining",
-      "q": "Which company expanded its El Seguro copper asset footprint in Argentina?",
+      "tag": "Nigeria · Banking",
+      "q": "What credit rating did Fitch reaffirm for Stanbic IBTC?",
       "o": [
-        "BHP Group",
+        "AAA",
+        "BBB",
+        "AA",
+        "CCC"
+      ],
+      "a": 0,
+      "e": "Fitch reaffirmed the AAA rating for Stanbic IBTC despite currency devaluation and recapitalisation tests."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equities",
+      "q": "Who did Endeavour Group add to its board, drawing attention to its digital ambitions?",
+      "o": [
+        "Owen Wilson",
+        "Trump",
+        "Al Alimi",
+        "Musk"
+      ],
+      "a": 0,
+      "e": "Endeavour Group added Owen Wilson to its board, drawing attention to its digital ambitions and trading under the ticker EDV."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Fixed income",
+      "q": "What institution brought a new debt issuance to market against a backdrop of shifting interest rate expectations?",
+      "o": [
         "Commonwealth Bank of Australia",
-        "Suncorp Group",
-        "Petrobras"
+        "Stanbic IBTC",
+        "Petrobras",
+        "Endeavour Group"
       ],
       "a": 0,
-      "e": "BHP Group scaled up its El Seguro copper footprint in Argentina, prompting portfolio managers to recalibrate capital expenditure. Commonwealth Bank and Suncorp operate in banking and insurance."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Corporate",
-      "q": "What financial actions did Suncorp Group pair with its fiscal 2026 financial results?",
-      "o": [
-        "A special dividend and share repurchase authorization",
-        "A regional airline financing project",
-        "An electric vehicle research budget expansion",
-        "A tax-saving compliance audit"
-      ],
-      "a": 0,
-      "e": "Suncorp Group reported its fiscal 2026 financials, pairing the figures with a special dividend and share repurchase authorization. Airline projects and EV budgets belong to Nigerian and Chinese entities."
+      "e": "Commonwealth Bank of Australia brought a new debt issuance to market against a backdrop of shifting interest rate expectations."
     },
     {
       "lvl": "i",
-      "tag": "United States · Labor Market",
-      "q": "How do market analysts typically interpret the monthly nonfarm payroll additions reported for September?",
+      "tag": "United States of America · Equities",
+      "q": "Why did market participants evaluate SpaceX's upcoming initial public offering alongside Nvidia?",
       "o": [
-        "They parse the figures to evaluate wage pressures and aggregate demand.",
-        "They use the data exclusively to set corporate quarterly tax rates.",
-        "They rely on the print to determine sovereign debt issuance volumes.",
-        "They view the metric as a direct measure of foreign exchange reserves."
+        "Because equity participants weighed the upcoming float against existing mega-cap technology exposure.",
+        "Because both companies operate in the same electric vehicle market segment.",
+        "Because Nvidia is underwriting the initial public offering at the Nasdaq MarketSite.",
+        "Because the Securities and Exchange Commission mandated a joint valuation filing."
       ],
       "a": 0,
-      "e": "Analysts parse employment figures like the September nonfarm payroll additions to evaluate wage pressures and aggregate demand. The wrong options introduce regulatory or fiscal metrics unrelated to the primary purpose of labor market prints."
+      "e": "Equity participants evaluated the upcoming float against existing mega-cap technology exposure in Nvidia. This reflects how investors benchmark new tech listings against established sector leaders."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Equity Markets",
-      "q": "What specific market dynamic did the 4.5% downward movement in the FTSE 100 initiate among participants?",
+      "tag": "United States of America · Fixed income",
+      "q": "How did artificial intelligence equities perform during the period when US Treasury yields touched a 24-year high?",
       "o": [
-        "Re-evaluations of dividend yields across large-cap UK equities for income strategies.",
-        "Immediate liquidation of all mid-cap holdings to eliminate currency exposure.",
-        "Mandatory interest rate cuts by domestic central bank authorities.",
-        "Automatic suspension of corporate share buyback authorizations."
+        "They advanced despite the restrictive fixed-income environment.",
+        "They suffered severe liquidations due to adverse duration pricing.",
+        "They remained completely flat as investors awaited macroeconomic data.",
+        "They outperformed the broader market by exactly 24 percentage points."
       ],
       "a": 0,
-      "e": "The 4.5% contraction prompted market participants to re-evaluate dividend yields and assess whether the drop offered a favorable entry for income strategies. Central bank rate cuts and buyback suspensions were not mentioned as direct results of this index drop."
+      "e": "Artificial intelligence equities advanced despite the restrictive fixed-income environment and adverse duration pricing. Higher bond yields normally challenge equity valuations, but the tech rally persisted."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Mid-Cap Equities",
-      "q": "Why do high dividend yields, such as the 9.3% yield observed in a FTSE 250 constituent, require careful analysis?",
+      "tag": "United Kingdom · Equities",
+      "q": "What does the 53% appreciation projection for a forgotten FTSE 100 constituent imply over the 12-month period?",
       "o": [
-        "Analysts must scrutinize underlying cash flows to discount potential value traps and ensure payout sustainability.",
-        "High yields legally obligate firms to double their research and development budgets annually.",
-        "Such yields guarantee that the issuing firm will be acquired by a foreign competitor.",
-        "They indicate that the company has ceased all debt-servicing operations."
+        "A significant rerating based on sell-side consensus valuation models.",
+        "An immediate delisting from the London Stock Exchange due to insolvency.",
+        "A mandatory capital injection from benchmark heavyweights like Rolls-Royce.",
+        "A complete restructuring of the index composition by market regulators."
       ],
       "a": 0,
-      "e": "Yields of that magnitude require scrutiny of underlying cash flows to discount value traps, as total return assumptions depend on payout sustainability. High yields do not provide legal guarantees of acquisition or force specific R&D expenditures."
+      "e": "A neglected FTSE 100 constituent carries a sell-side consensus projection of a 53% appreciation over the next year, implying a significant rerating over the 12-month period. Analysts positioned this upside relative to benchmark heavyweights like Rolls-Royce and SpaceX."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Equity and Bond Dynamics",
-      "q": "What external factors exerted downward pressure on the DAX 40 index, pushing it below the 25,000 threshold?",
+      "tag": "Germany · Equities",
+      "q": "Why did the DAX 40 breach the 25,000 threshold and drop 1.03%?",
       "o": [
-        "Rising bond yields and robust US data transmission channels.",
-        "A sudden collapse in domestic energy consumption across all industrial sectors.",
-        "Mandatory capital controls imposed by the European Central Bank.",
-        "Unprecedented defaults on municipal debt obligations in regional states."
+        "Higher sovereign bond yields and robust US macroeconomic prints drove discount rate pressures.",
+        "The European Central Bank unexpectedly doubled its benchmark interest rate.",
+        "SAP announced a sudden suspension of its ongoing share buyback program.",
+        "German domestic retail sales collapsed due to severe winter weather."
       ],
       "a": 0,
-      "e": "Yield dynamics and robust US data transmission channels exerted downward pressure on German valuations, causing the index drop. Domestic energy collapses and ECB capital controls do not appear in the source text."
+      "e": "Higher sovereign bond yields and robust US macroeconomic prints drove the risk-off move across European equities, increasing discount rate pressures that compressed valuations as fixed-income competition intensified."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Corporate Actions",
-      "q": "During what corporate operational phase did SAP's Fioneer unit secure its mandate from the Bundesbank?",
+      "tag": "Germany · Corporate finance",
+      "q": "During what corporate window did SAP's Fioneer unit secure its mandate from the Bundesbank?",
       "o": [
-        "During the designated quiet period, while buybacks and artificial intelligence strategies proceeded.",
-        "Immediately after filing for bankruptcy protection due to rising compliance costs.",
-        "While the firm was liquidating its primary software assets.",
-        "Right before executing an emergency debt restructuring program."
+        "The pre-earnings quiet period.",
+        "The annual general shareholder meeting.",
+        "The fiscal year-end audit verification window.",
+        "The regulatory approval phase for the share buyback."
       ],
       "a": 0,
-      "e": "The mandate was secured while corporate execution on buybacks and AI strategies proceeded unabated through the designated quiet period. Bankruptcy and liquidation are incorrect descriptions of the firm's operational state."
+      "e": "Management executed these operational updates, including the Fioneer mandate and equity buyback, during the designated pre-earnings quiet period. This central bank win expands Fioneer's public sector footprint."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Tax Compliance",
-      "q": "How did Japanese tax authorities respond after identifying 500 million yen in unreported income?",
+      "tag": "Japan · Currencies",
+      "q": "What domestic vulnerability accompanied the persistent currency depreciation of the yen?",
       "o": [
-        "They required immediate balance sheet remediation and the payment of back taxes.",
-        "They seized all physical inventory and nationalized the corporate entity.",
-        "They suspended all international trade licenses for domestic firms.",
-        "They lowered corporate tax rates to encourage voluntary disclosure."
+        "Food self-sufficiency touched a record-low 37% amid exchange rate dynamics.",
+        "Household savings rates dropped to zero due to negative interest rates.",
+        "Agricultural exports surged past manufactured goods for the first time.",
+        "The central bank intervened directly to nationalise the domestic food supply."
       ],
       "a": 0,
-      "e": "The enforcement action against the aggressive tax-saving scheme requires immediate balance sheet remediation and the payment of back taxes. Nationalisation and trade suspensions are outside the scope of the text."
+      "e": "Domestic food self-sufficiency fell to a record-low 37% as persistent currency depreciation pressured domestic purchasing power and amplified import cost pass-through."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Currency and Trade",
-      "q": "What mechanism drove Japan's food self-sufficiency ratio down to a record-low 37%?",
+      "tag": "Japan · Macroeconomics",
+      "q": "What opposing forces are currently shaping Japanese household spending and wage data?",
       "o": [
-        "Depreciated inflation-linked import dynamics that squeezed domestic margins through higher landed commodity costs.",
-        "A government ban on the domestic production of essential agricultural commodities.",
-        "Excessive domestic harvests that overwhelmed storage facilities and spoiled crops.",
-        "Severe labor shortages caused by new immigration quotas in rural prefectures."
+        "Adverse weather disruptions contract spending, while labor shortages drive wage gains.",
+        "Falling import costs boost spending, while corporate buybacks suppress wages.",
+        "Higher interest rates restrict spending, while government subsidies eliminate wage growth.",
+        "Stormy weather increases retail spending, while foreign exchange interventions lower wages."
       ],
       "a": 0,
-      "e": "Higher landed costs for raw agricultural commodities squeezed domestic margins due to a depreciated inflation-linked import dynamic. Government production bans and localized labor quotas are not mentioned in the sources."
+      "e": "August household spending figures are forecasted to contract further due to adverse weather disruptions, while tight labor market conditions are expected to drive solid gains in upcoming wage data releases."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Foreign Exchange",
-      "q": "What is the primary diplomatic goal of the bilateral coordination between Japan's finance minister and the United States?",
+      "tag": "China · Corporates",
+      "q": "What drove the 33% increase in Xiaomi's research and development expenditure?",
       "o": [
-        "To anchor market expectations against one-sided depreciation and deter speculative attacks.",
-        "To establish a single unified currency for both nations.",
-        "To eliminate all tariffs on agricultural imports permanently.",
-        "To transfer foreign exchange reserves between central bank vaults."
+        "Its electric vehicle division absorbing 3.1 billion yuan.",
+        "The acquisition of several European semiconductor manufacturing plants.",
+        "Regulatory penalties imposed by Brussels trade enforcement bodies.",
+        "A sudden currency devaluation affecting overseas supply chain payments."
       ],
       "a": 0,
-      "e": "The diplomatic alignment seeks to anchor market expectations against one-sided depreciation and deter speculative attacks through potential joint market interventions. Creating a unified currency or transferring reserves are factually incorrect."
+      "e": "Xiaomi posted a 33% increase in research and development expenditure as its electric vehicle division absorbed 3.1 billion yuan, highlighting the high cost of scaling hardware manufacturing in a competitive domestic market."
     },
     {
       "lvl": "i",
-      "tag": "China · Corporate Expenditure",
-      "q": "What financial implication accompanied Xiaomi's 33% expansion in research and development expenditure?",
+      "tag": "China · Trade",
+      "q": "What justification is Brussels using to prepare upcoming trade measures against Chinese exports?",
       "o": [
-        "Prolonged margin compression as the electric vehicle division absorbs heavy capital burn to scale infrastructure.",
-        "Immediate profitability gains from the commercial sale of autonomous vehicles.",
-        "An automatic reduction in overall corporate debt levels.",
-        "Complete elimination of outlays dedicated to hardware manufacturing."
+        "Domestic job losses.",
+        "Excessive carbon emissions from shipping.",
+        "Monetary policy divergence.",
+        "Intellectual property theft in software."
       ],
       "a": 0,
-      "e": "The capital burn in the electric vehicle division implies prolonged margin compression as the firm scales its automotive infrastructure. Immediate profitability contradicts the reported capital burn."
+      "e": "Brussels is targeting domestic job losses to deploy a trade bazooka, a European Union mechanism designed to penalise foreign shipments and protect local industries."
     },
     {
       "lvl": "i",
-      "tag": "China · Fiscal Pressures",
-      "q": "What structural deficit source precipitated systemic fiscal distress for sub-national Chinese jurisdictions?",
+      "tag": "India · Currencies",
+      "q": "Which fundamental headwinds contributed to the depreciation of the Indian rupee against the US dollar?",
       "o": [
-        "Collapsed land conveyance fees stemming from the ongoing property sector contraction.",
-        "Unfunded federal mandates requiring increased spending on public healthcare.",
-        "Massive defaults on international sovereign bond issuances.",
-        "A sudden spike in import tariffs levied on electronic components."
+        "Widening trade deficits, capital outflows, and persistent oil price pressures.",
+        "Unexpected interest rate cuts by the Reserve Bank of India.",
+        "Massive foreign direct investment inflows into Nifty constituent firms.",
+        "A sudden surge in domestic agricultural self-sufficiency."
       ],
       "a": 0,
-      "e": "Structural deficits stemming from collapsed land conveyance fees caused systemic fiscal distress amid the property sector contraction. Federal health mandates and international bond defaults do not appear in the sources."
+      "e": "The Indian rupee declined against the US dollar on the back of widening trade deficits and capital outflows, while persistent oil price pressures exacerbated the external vulnerability of the currency."
     },
     {
       "lvl": "i",
-      "tag": "India · Monetary Policy",
-      "q": "Which variables anchor market attention alongside Q2 corporate earnings releases ahead of the Reserve Bank of India policy meeting?",
+      "tag": "India · Equities",
+      "q": "Why did the Nifty index underperform broader corporate earnings growth?",
       "o": [
-        "Foreign portfolio investor flows, sovereign bond yields, and commodity price prints like crude oil valuations.",
-        "National housing starts and commercial real estate vacancy rates.",
-        "Federal tax receipts and municipal infrastructure bond yields.",
-        "Bilateral currency swap agreements with neighboring central banks."
+        "Market capitalisation weightings skewed the headline gauge away from wider profit expansion.",
+        "Technology stocks within the index experienced a massive regulatory sell-off.",
+        "Foreign institutional investors withdrew all capital from India-listed equities.",
+        "The central bank imposed strict dividend payout caps on index constituents."
       ],
       "a": 0,
-      "e": "Market attention focuses on foreign portfolio investor flows, sovereign bond yields, commodity price prints, and crude oil valuations alongside Q2 earnings. Housing starts and municipal bonds are not referenced in the Indian context."
+      "e": "The Nifty underperformed broader earnings growth due to structural index construction effects where market capitalisation weightings skewed the headline gauge away from the profit expansion seen in the wider universe."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Energy and Politics",
-      "q": "Why has the Petrobras refining plan elevated in profile despite mixed performance in related digital assets?",
+      "tag": "Brazil · Commodities",
+      "q": "How did Petrobras equities react to the agreements for 8 offshore blocks in Côte d'Ivoire and the Morpho well discovery?",
       "o": [
-        "A global diesel crisis has placed the self-sufficiency push under intense scrutiny ahead of the electoral outcome.",
-        "The firm has successfully eliminated all foreign debt obligations through the plan.",
-        "International trade partners mandated the immediate privatization of all refineries.",
-        "Domestic consumers voted to dissolve the corporate entity entirely."
+        "They rallied 3.19% on the back of the hydrocarbon find.",
+        "They dropped 3.19% due to concerns over capital expenditure burn rates.",
+        "They remained unchanged as markets had already fully priced in the reserves.",
+        "They experienced high volatility before closing flat for the session."
       ],
       "a": 0,
-      "e": "A global diesel crisis elevates the profile of the refining plan, the execution of which depends entirely on the electoral outcome. Privatisation mandates and corporate dissolutions are not supported by the text."
+      "e": "Petrobras executed deals for 8 offshore blocks in Côte d'Ivoire and identified a fresh oil discovery in the Morpho well off Amapá, causing Petrobras equities to rally 3.19% on the back of the hydrocarbon find."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Energy Production",
-      "q": "How did OPEC+ respond to escalating regional friction regarding its production targets for November?",
+      "tag": "Brazil · Decentralised finance",
+      "q": "What benchmark interest rate did Featherlend integrate into on-chain liquidity pools via BRZ Morpho Markets?",
       "o": [
-        "Members agreed to preserve existing output quotas through November, marking the second consecutive month of unchanged ceilings.",
-        "Delegates voted to double daily output to compensate for potential supply disruptions.",
-        "The group announced an immediate embargo on all oil exports to Western nations.",
-        "Production was completely halted until regional hostilities ceased."
+        "Brazil's benchmark Selic rate.",
+        "The US Federal Funds Rate.",
+        "The European Central Bank deposit facility rate.",
+        "The Bank of England base rate."
       ],
       "a": 0,
-      "e": "OPEC+ delegates agreed to preserve existing output quotas through November despite escalating regional friction. Doubling output or imposing embargoes contradicts the steady production policy."
+      "e": "Featherlend introduced BRZ Morpho Markets, integrating Brazil's benchmark Selic rate into on-chain liquidity pools."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Foreign Reserves",
-      "q": "What structural trend accompanied the widening spread between the official and parallel foreign exchange markets in Nigeria?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What policy decision did OPEC and participating states like Iraq ratify regarding crude oil production?",
       "o": [
-        "Gross foreign reserves climbed to $54.92bn amidst ongoing currency depreciation and structural demand pressures.",
-        "The central bank abolished all foreign exchange controls to achieve parity.",
-        "Total foreign debt was completely forgiven by international creditors.",
-        "Export revenues dropped to zero due to regional transport bottlenecks."
+        "To leave crude output quotas unchanged, keeping physical barrel availability locked.",
+        "To increase daily production targets by 2 million barrels to lower global prices.",
+        "To phase out fossil fuel extraction entirely over a 12-month transition window.",
+        "To suspend oil shipments through the Riyadh installation indefinitely."
       ],
       "a": 0,
-      "e": "Gross foreign reserves climbed to $54.92bn against a backdrop of ongoing currency weakness and a widening exchange spread, implying persistent demand pressures. Abolishing controls or zero export revenues are incorrect."
+      "e": "OPEC and participating states like Iraq ratified a decision to leave crude output quotas unchanged, keeping physical barrel availability locked at current volumes despite shifting geopolitical risks."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Corporate Finance",
-      "q": "What primary factor dictated the secondary market response to Commonwealth Bank of Australia's recent debt issuance?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "What impact did the Houthi strike have on the Aramco facility in Riyadh?",
       "o": [
-        "Spread duration sensitivity as institutional accounts absorbed the paper against a shifting rate outlook.",
-        "Retail investor sentiment driven entirely by residential mortgage defaults.",
-        "Mandatory regulatory penalties imposed for excessive leverage ratios.",
-        "Sudden changes in international shipping tariffs."
+        "It generated substantial fires and operational alarms, highlighting infrastructure vulnerability.",
+        "It caused a complete cessation of diplomatic relations between Yemen and Saudi Arabia.",
+        "It forced the immediate nationalisation of all regional oil refining assets.",
+        "It triggered an emergency release of strategic petroleum reserves by OPEC."
       ],
       "a": 0,
-      "e": "Spread duration sensitivity dictated the secondary market response as institutional accounts absorbed the paper against a shifting rate outlook. Retail mortgage defaults and shipping tariffs are unrelated to the debt issuance."
+      "e": "Houthi militants claimed responsibility for a strike targeting an Aramco installation in Riyadh, generating substantial fires and operational alarms, demonstrating that infrastructure vulnerability remains a central pricing metric for regional asset valuations."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Capital Returns",
-      "q": "How did equity valuations react to Suncorp Group's fiscal 2026 financial report?",
+      "tag": "Nigeria · Credit rating",
+      "q": "How did Stanbic IBTC's credit profile perform despite ongoing currency devaluation and structural recapitalisation mandates?",
       "o": [
-        "Valuations adjusted upward as payout ratios exceeded consensus, driven by special dividend and share repurchase authorizations.",
-        "Share prices collapsed as the firm announced a suspension of all capital returns.",
-        "Equities traded flat because the reported earnings matched analyst projections exactly.",
-        "The stock was delisted following an unexpected hostile takeover attempt."
+        "Fitch affirmed Stanbic IBTC at AAA, proving the profile's resilience.",
+        "The institution was downgraded to speculative grade by international rating agencies.",
+        "The central bank intervened to inject emergency liquidity into its balance sheet.",
+        "Management suspended all commercial lending operations to preserve capital."
       ],
       "a": 0,
-      "e": "Equity valuations adjusted upward as payout ratios exceeded consensus, driven by the special dividend and share repurchase authorization. Suspensions and delistings contradict the reported upward share movement."
+      "e": "Fitch affirmed Stanbic IBTC at AAA, showing that the credit profile proved resilient through ongoing currency devaluation and structural recapitalisation mandates."
     },
     {
       "lvl": "i",
-      "tag": "China · Investment Flows",
-      "q": "What precedes the potential reweighting toward technology hardware by private investment vehicles in China?",
+      "tag": "Australia · Equities",
+      "q": "What market reaction followed Endeavour Group's appointment of Owen Wilson to its board?",
       "o": [
-        "Intensive research sweeps and coordinated diligence sweeps across electronics equities conducted by funds managing over a billion yuan.",
-        "A government decree forcing all institutional portfolios to hold specific technology shares.",
-        "The complete liquidation of all real estate holdings by regional authorities.",
-        "An unexpected spike in international semiconductor prices."
+        "It prompted market debate over its digital execution risks while consensus models implied an 11% discount to fair value.",
+        "It triggered an immediate hostile takeover bid from rival retail conglomerates.",
+        "It caused shares to surge past the consensus price target on the ASX.",
+        "It resulted in the resignation of the chief executive officer and a trading halt."
       ],
       "a": 0,
-      "e": "Sixty-2 private funds managing upwards of one billion yuan initiated intensive research sweeps across electronics equities, a diligence cycle preceding potential reweighting toward technology hardware. Government decrees and semiconductor price spikes are not mentioned."
+      "e": "Endeavour Group expanded its board with the appointment of Owen Wilson, prompting market debate over its digital execution risks while consensus valuation models currently imply a discount of roughly 11% relative to fair value on the ASX."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Infrastructure",
-      "q": "What specific objective motivated northeast state governors to allocate 10.8 billion naira for a regional carrier?",
+      "tag": "Australia · Fixed income",
+      "q": "What market backdrop accompanied Commonwealth Bank of Australia's fresh debt issuance?",
       "o": [
-        "To target regional logistics deficits by establishing operational air transport infrastructure across northern states.",
-        "To bail out failing commercial banks headquartered in the southern region.",
-        "To finance the construction of deep-sea container ports on the Atlantic coast.",
-        "To subsidize agricultural fertilizer imports for rural farming communities."
+        "Investors re-priced rate path assumptions, reflecting sensitivity to the macroeconomic rate outlook.",
+        "The central bank lowered its benchmark cash rate to zero to absorb the new supply.",
+        "Foreign exchange reserves plummeted due to simultaneous capital account outflows.",
+        "Equity markets experienced a broad-based rally driven by the banking sector."
       ],
       "a": 0,
-      "e": "Sub-national fiscal pooling of 10.8 billion naira targeted regional logistics deficits by creating a regional carrier and operational air transport infrastructure. Bank bailouts, ports, and fertilizer subsidies are factually incorrect."
+      "e": "Commonwealth Bank of Australia priced a fresh debt issuance while investors re-priced rate path assumptions, reflecting sensitivity to the broader macroeconomic rate outlook."
     },
     {
       "lvl": "a",
-      "tag": "United States · Labor Market",
-      "q": "What do the September nonfarm payroll additions of 29,000 jobs primarily establish for macroeconomic forecasters?",
+      "tag": "United States of America · Equities",
+      "q": "What structural market dynamic challenges AI equity valuations alongside SpaceX's upcoming Nasdaq listing?",
       "o": [
-        "The baseline monthly labor market print used to evaluate wage pressures and aggregate demand.",
-        "The definitive annual employment growth rate across domestic industries.",
-        "The final quarterly adjustment for corporate earnings evaluations.",
-        "The structural indicator for long-term productivity trends."
+        "Adverse duration pricing driven by 24-year high US Treasury yields creates restrictive financial conditions.",
+        "Regulatory crackdowns on mega-cap technology exposure directly compress equity multiples.",
+        "Foreign capital flight from US exchanges depresses initial public offering valuations.",
+        "Stagnant research and development expenditure limits technological growth assumptions."
       ],
       "a": 0,
-      "e": "The September release establishes the baseline monthly print that analysts parse to assess wage pressures and aggregate demand. It does not represent an annual rate or a structural productivity metric."
+      "e": "US Treasury yields printing a 24-year high introduce adverse duration pricing that challenges AI valuations alongside the Nasdaq listing. Regulatory crackdowns are not mentioned in the source material. The correct option identifies the specific macro headstock from the text."
     },
     {
       "lvl": "a",
       "tag": "United Kingdom · Equities",
-      "q": "Why did the 4.5% downward move in the FTSE 100 prompt re-evaluations among market participants?",
+      "q": "What core assumption underpins the sell-side consensus projection of a 53% appreciation for the neglected FTSE 100 constituent over the next year?",
       "o": [
-        "It initiated assessments regarding whether the contraction offers a favorable entry for dividend and income strategies in large-cap UK equities.",
-        "It triggered mandatory corporate liquidations across all constituent firms.",
-        "It signaled an immediate shift from equity holdings into sovereign gilts.",
-        "It established a definitive floor for annual corporate earnings growth."
+        "Current macroeconomic forecasts for the index remain uninterrupted throughout the 12-month period.",
+        "The Bank of England cuts interest rates to stimulate domestic index constituents.",
+        "Rolls-Royce divests its non-core assets to fund sector-wide mergers.",
+        "Global energy demand accelerates faster than current supply quotas permit."
       ],
       "a": 0,
-      "e": "The contraction forced participants to reassess dividend yields and determine if the drop created a favorable entry point for income strategies. It did not trigger mandatory liquidations or establish an earnings floor."
-    },
-    {
-      "lvl": "a",
-      "tag": "United Kingdom · Equities",
-      "q": "What specific fundamental factor requires careful scrutiny when evaluating a FTSE 250 constituent exhibiting a 9.3% dividend yield?",
-      "o": [
-        "The underlying cash flows to discount potential value traps and ensure payout sustainability.",
-        "The exact date of the next corporate buyback authorization.",
-        "The historical correlation between mid-cap yields and foreign exchange reserves.",
-        "The sub-national fiscal deficits impacting regional infrastructure."
-      ],
-      "a": 0,
-      "e": "High headline yields require rigorous scrutiny of underlying cash flows to avoid value traps, as total return assumptions depend entirely on payout sustainability. Factors like buyback dates or regional fiscal deficits do not dictate dividend payout safety."
+      "e": "The valuation model explicitly assumes that current macroeconomic forecasts for the index remain uninterrupted. Interest rate cuts by the Bank of England are not mentioned anywhere in the briefing. The correct option relies directly on the stated model parameters."
     },
     {
       "lvl": "a",
       "tag": "Germany · Equities",
-      "q": "What primary external transmission channels drove the DAX 40 index below the 25,000 threshold?",
+      "q": "Why did the DAX 40 breach the 25,000 threshold despite SAP's pre-earnings quiet period developments?",
       "o": [
-        "Rising bond yields and robust US macroeconomic data.",
-        "Unexpected domestic central bank rate cuts.",
-        "A sudden collapse in regional automotive manufacturing output.",
-        "Severe corporate defaults within the quiet period."
+        "Higher sovereign bond yields and robust US macroeconomic prints drove discount rate pressures across European equities.",
+        "European Union trade measures heavily penalised German industrial exporters.",
+        "Domestic retail sales collapsed due to severe weather disruptions across the region.",
+        "The Bundesbank cancelled all commercial software contracts amid capital constraints."
       ],
       "a": 0,
-      "e": "Rising bond yields and strong US data acted as external pressures that drove German equities lower. Domestic rate cuts or automotive manufacturing collapses are not cited as the catalyst for breaching the 25,000 mark."
+      "e": "Higher sovereign bond yields and robust US macroeconomic prints generated discount rate pressures that compressed German equity valuations. Trade measures are directed at Chinese exports rather than German industrials in these texts. The correct choice maps US data spillovers to European risk assets."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Corporate Activity",
-      "q": "How did SAP's Fioneer unit operate regarding its recent Bundesbank mandate acquisition?",
+      "tag": "Germany · Corporate Finance",
+      "q": "How does SAP's Fioneer unit winning a Bundesbank mandate interact with its parent company's capital allocation?",
       "o": [
-        "It secured the mandate while corporate buybacks, AI initiatives, and general operations proceeded through the quiet period.",
-        "It halted all artificial intelligence strategies to comply with central bank restrictions.",
-        "It delayed the announcement until the quiet period officially expired.",
-        "It reallocated its entire research budget to fund the mandate."
+        "It expands Fioneer's public sector footprint concurrently with an ongoing equity buyback and artificial intelligence capital expenditure cycle.",
+        "It offsets losses incurred by the electric vehicle division through central bank fee generation.",
+        "It triggers regulatory restrictions that immediately halt all internal research and development spending.",
+        "It replaces the need for external debt issuance during the designated quiet period."
       ],
       "a": 0,
-      "e": "Operations and strategic executions, including buybacks and AI initiatives, proceeded unabated through the designated quiet period when the mandate was secured. The firm did not halt strategies or delay the announcement."
+      "e": "The Fioneer subsidiary secured the contract amid an ongoing equity buyback and AI capital expenditure cycle, expanding its public sector footprint. Electric vehicles belong to Xiaomi, not SAP. The correct option captures the exact corporate actions reported during the quiet period."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Taxation",
-      "q": "What structural issue did Japanese tax authorities target when identifying 500 million yen in unreported income?",
+      "tag": "Japan · Currencies",
+      "q": "What structural economic vulnerability accompanies the persistent yen depreciation reported by the Japanese finance minister?",
       "o": [
-        "Aggressive corporate structuring designed to shelter earnings and defer standard liabilities.",
-        "An accidental clerical error in monthly value-added tax filings.",
-        "Unreported foreign exchange gains from currency intervention.",
-        "A failure to pay import tariffs on raw agricultural commodities."
+        "Amplified import cost pass-through pushes domestic food self-sufficiency down to a record-low 37%.",
+        "Massive capital outflows force the central bank to abandon its benchmark interest rate target.",
+        "Surging household savings offset the deflationary impact of lower export revenues.",
+        "Aggressive trade barriers imposed by Brussels penalise Japanese technology shipments."
       ],
       "a": 0,
-      "e": "The enforcement action targeted structured tax-saving schemes designed to shelter earnings from standard corporate obligations, requiring immediate balance sheet remediation. It was not a clerical error or an import tariff violation."
+      "e": "Persistent currency depreciation amplifies import cost pass-through and coincides with a record-low food self-sufficiency rate of 37%. Brussels targets Chinese exports rather than Japanese shipments. The correct option links exchange rate dynamics directly to domestic food security metrics."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Currency & Trade",
-      "q": "How did currency weakness transmit directly into Japanese consumer staples pricing according to the reports?",
+      "tag": "Japan · Labor Markets",
+      "q": "What offsetting macroeconomic forces influence upcoming Japanese economic indicators according to recent forecasts?",
       "o": [
-        "Through higher landed costs for raw agricultural commodities that squeezed domestic margins and diminished real purchasing power.",
-        "By increasing domestic food production to cover structural demand shortages.",
-        "Through mandatory government subsidies offsetting imported food inflation.",
-        "By eliminating foreign exchange volatility in bilateral trade channels."
+        "Adverse weather disruptions contract August household spending further while tight labor market conditions drive solid wage gains.",
+        "Central bank monetary tightening reduces household consumption while lowering structural unemployment.",
+        "Surging import costs depress wage growth despite robust expansion in retail sales data.",
+        "Strong export performance completely offsets the contraction in domestic demand indices."
       ],
       "a": 0,
-      "e": "Depreciated exchange rates increased landed costs for raw agricultural commodities, squeezing domestic margins and forcing households to absorb costs through lower real purchasing power. Domestic production actually failed to cover demand."
+      "e": "August household spending faces contraction from adverse weather disruptions, while tight labor markets drive solid gains in upcoming wage data. The text explicitly cites labor shortages rather than monetary tightening as the driver of wages. The correct choice juxtaposes both forecasted indicators correctly."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Monetary Policy",
-      "q": "What is the primary objective of the diplomatic alignment and U.S. coordination reaffirmed by Japan's finance minister?",
+      "tag": "China · Corporate Finance",
+      "q": "What operational dynamic is highlighted by Xiaomi's recent expenditure figures?",
       "o": [
-        "To anchor market expectations against one-sided depreciation and deter speculative attacks.",
-        "To establish a fixed exchange rate peg between the yen and the dollar.",
-        "To coordinate domestic interest rate hikes across both nations simultaneously.",
-        "To eliminate bilateral trade deficits in agricultural sectors."
+        "The high cost of scaling hardware manufacturing in a competitive domestic market via heavy electric vehicle R&D cash burn.",
+        "The immediate profitability of software divisions compensating for slowing consumer electronics demand.",
+        "The successful avoidance of European Union regulatory barriers through supply chain diversification.",
+        "The reduction of fixed capital outlays following an initial public offering on the Nasdaq."
       ],
       "a": 0,
-      "e": "The bilateral coordination seeks to anchor market expectations against one-sided depreciation and deter speculative attacks, maintaining readiness for potential joint interventions. It does not establish a fixed currency peg."
+      "e": "Xiaomi posted a 33% increase in R&D expenditure as its electric vehicle division absorbed 3.1 billion yuan, highlighting the high cost of scaling hardware manufacturing in a competitive domestic market. Nasdaq listings apply to US-based firms in the text. The correct option isolates the electric vehicle burn rate."
     },
     {
       "lvl": "a",
-      "tag": "China · Corporate R&D",
-      "q": "What financial trajectory does Xiaomi's 3.3 billion yuan electric vehicle R&D expenditure imply for the firm?",
+      "tag": "China · Trade",
+      "q": "How does the European Union justify its upcoming trade measures targeting Chinese exports?",
       "o": [
-        "Prolonged margin compression as the firm scales its automotive infrastructure.",
-        "Immediate profitability across all hardware divisions.",
-        "A permanent reduction in overall corporate capital expenditure.",
-        "An immediate exit from the consumer electronics market."
+        "Brussels targets domestic job losses to deploy a trade bazooka designed to penalise foreign shipments.",
+        "The bloc aims to offset domestic energy deficits caused by Middle Eastern geopolitical instability.",
+        "Member states seek to protect their domestic central bank software mandates from foreign competition.",
+        "Regulators respond to severe capital outflows and widening trade deficits in European markets."
       ],
       "a": 0,
-      "e": "Heavy capital commitment and capital burn in the electric vehicle division imply prolonged margin compression as the firm scales manufacturing infrastructure. It does not signal immediate profitability or an exit from electronics."
+      "e": "Brussels targets domestic job losses to deploy a trade bazooka designed to penalise foreign shipments and disrupt Chinese exports. Energy deficits and central bank software are not mentioned in relation to EU trade policy. The correct option matches the stated EU regulatory justification."
     },
     {
       "lvl": "a",
-      "tag": "China · Fiscal Policy",
-      "q": "What structural deficit driver precipitated systemic fiscal distress for sub-national Chinese jurisdictions?",
+      "tag": "India · Currencies",
+      "q": "What fundamental headwinds drive the Indian rupee's depreciation against the US dollar?",
       "o": [
-        "Collapsed land conveyance fees stemming from the ongoing property sector contraction.",
-        "Excessive expenditures on private fund research sweeps in electronics.",
-        "Federal mandates to increase electric vehicle research subsidies.",
-        "Rapid appreciation of the national currency impacting export revenues."
+        "Widening trade deficits, capital outflows, and persistent oil price pressures.",
+        "Stricter capital controls implemented by domestic monetary authorities.",
+        "Aggressive equity buybacks executed by Nifty index constituents.",
+        "A sudden contraction in foreign direct investment driven by adverse weather."
       ],
       "a": 0,
-      "e": "The property sector contraction caused falling land sales and collapsed land conveyance fees, creating structural deficits that constrain local fiscal capacity. Falling land sales, not currency appreciation or electronics research, caused the distress."
+      "e": "The Indian rupee declined due to widening trade deficits, capital outflows, and persistent oil price pressures exacerbating external vulnerability. Capital controls are not cited in the sources. The correct choice enumerates the exact macroeconomic headwinds listed."
     },
     {
       "lvl": "a",
-      "tag": "India · Monetary Policy",
-      "q": "Which collection of macroeconomic variables anchors market attention alongside corporate earnings ahead of the RBI meeting?",
+      "tag": "India · Equities",
+      "q": "Why did the Nifty index underperform broader corporate earnings growth?",
       "o": [
-        "Foreign portfolio investor flows, sovereign bond yields, and commodity price prints including crude oil.",
-        "Commercial real estate valuations and sub-national aviation funding.",
-        "Retail food self-sufficiency ratios and corporate buyback authorizations.",
-        "Bilateral currency intervention thresholds and foreign reserve totals."
+        "Structural index construction effects and market capitalisation weightings skewed the headline gauge away from the wider profit expansion.",
+        "Heavy R&D spending by electric vehicle manufacturers depressed index-wide valuations.",
+        "Foreign institutional investors rotated capital out of domestic equities into sovereign debt.",
+        "Regulatory quiet periods restricted corporate disclosures across major index constituents."
       ],
       "a": 0,
-      "e": "The Reserve Bank of India meeting and corporate earnings are accompanied by monitoring of foreign portfolio investor flows, bond yields, and commodity prices like crude oil. Sub-national aviation funding and food ratios are not primary RBI policy drivers here."
+      "e": "The Nifty underperformed broader earnings growth because structural index construction effects and market capitalisation weightings skewed the headline gauge away from wider profit expansion. Electric vehicle spending applies to Xiaomi. The correct option references index construction mechanics."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Energy",
-      "q": "Why has the Petrobras refining plan elevated in profile despite previous pilot integration challenges?",
+      "tag": "Brazil · Commodities",
+      "q": "What market reaction followed Petrobras's operational updates in Côte d'Ivoire and Amapá?",
       "o": [
-        "A global diesel crisis and a domestic diesel squeeze have placed the corporate self-sufficiency push under intense scrutiny.",
-        "Cardano token prices successfully broke out above the $0.26 threshold.",
-        "Foreign exchange reserves reached record highs across the region.",
-        "International trade authorities mandated immediate structural reforms."
+        "Petrobras equities rallied 3.19% on the back of the hydrocarbon find in the Morpho well.",
+        "Equity valuations compressed due to rising capital expenditure requirements for offshore blocks.",
+        "Credit rating agencies upgraded the corporate debt profile following successful exploration.",
+        "Trading was temporarily suspended pending regulatory approval of the international agreements."
       ],
       "a": 0,
-      "e": "A global diesel crisis and domestic supply squeeze increased the political and economic profile of the refining plan, tying its execution to electoral outcomes. Cardano pricing has no causal link to Petrobras refining policy."
+      "e": "Petrobras equities rallied 3.19% on the back of the hydrocarbon find in the Morpho well off Amapá. Credit upgrades and trading suspensions are not reported in the text. The correct option tracks the exact equity price response to the oil discovery."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Decentralised Finance",
+      "q": "What is the primary function of the Featherlend protocol deployment mentioned in the Brazil briefing?",
+      "o": [
+        "It introduces BRZ Morpho Markets, integrating Brazil's benchmark Selic rate into on-chain liquidity pools.",
+        "It executes offshore block exploration agreements for international energy conglomerates.",
+        "It manages sovereign debt issuances to counter domestic currency depreciation.",
+        "It automates foreign exchange spot pricing for parallel market desks."
+      ],
+      "a": 0,
+      "e": "Featherlend introduced BRZ Morpho Markets, integrating Brazil's benchmark Selic rate into on-chain liquidity pools. Offshore exploration is handled by Petrobras. The correct option describes the on-chain integration of the Selic rate."
     },
     {
       "lvl": "a",
       "tag": "Saudi Arabia · Commodities",
-      "q": "How did OPEC+ respond to escalating regional friction regarding its production volumes for November?",
+      "q": "How do physical crude markets react to OPEC and Iraq maintaining their current production targets?",
       "o": [
-        "By preserving existing output quotas through November, marking the second consecutive month of unchanged production ceilings.",
-        "By implementing emergency production cuts to stabilize oil prices.",
-        "By increasing output targets to offset infrastructure disruptions in the capital.",
-        "By suspending all crude exports until regional hostilities ceased."
+        "Physical barrel availability remains locked at current volumes, leading markets to price flat supply trajectories into near-term futures curves.",
+        "Supply constraints trigger immediate military intervention and refinery shutdowns in Riyadh.",
+        "Member states increase spare capacity buffers to insulate against regional geopolitical escalation.",
+        "Crude pricing collapses as excess supply floods global export terminals."
       ],
       "a": 0,
-      "e": "OPEC+ delegates agreed to preserve existing output quotas through November, keeping production steady for the second consecutive month despite regional friction. They did not implement emergency cuts or suspend exports."
+      "e": "Leaving crude output quotas unchanged keeps physical barrel availability locked at current volumes, allowing markets to price flat supply trajectories into near-term futures curves. Military strikes do not cause supply increases in the text. The correct choice explains the pricing of flat supply curves."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Foreign Reserves",
-      "q": "What macroeconomic condition accompanied the rise in Nigeria's gross foreign reserves to $54.92bn?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "What role does infrastructure vulnerability play in regional asset valuations following the Riyadh Aramco incident?",
       "o": [
-        "Currency depreciation and a widening official-to-parallel market foreign exchange spread.",
-        "A complete elimination of import cost pressures across all sectors.",
-        "Sub-national fiscal surpluses generated by regional airline operations.",
-        "Fixed exchange rate parity enforced by central bank intervention."
+        "It remains a central pricing metric as physical installations face fresh threats from Houthi strikes and operational alarms.",
+        "It forces international ratings agencies to downgrade sovereign debt across the entire Gulf region.",
+        "It prompts the immediate suspension of all debt issuances by national energy corporations.",
+        "It triggers mandatory trade embargoes imposed by Western regulatory bodies."
       ],
       "a": 0,
-      "e": "Gross foreign reserves climbed to $54.92bn against a backdrop of currency depreciation and a widening foreign exchange spread, implying persistent structural demand pressures. Import costs and currency weakness actually worsened."
+      "e": "Infrastructure vulnerability remains a central pricing metric for regional asset valuations following Houthi strikes generating substantial fires and operational alarms at the Aramco installation. Credit downgrades and trade embargoes are absent from the source data. The correct option highlights infrastructure risk as a valuation metric."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Debt Markets",
-      "q": "What dictated the secondary market response following Commonwealth Bank of Australia's new debt issuance?",
+      "tag": "Nigeria · Credit Ratings",
+      "q": "How did Stanbic IBTC maintain its Fitch credit rating despite macroeconomic pressures?",
       "o": [
-        "Spread duration sensitivity as institutional accounts absorbed the paper against a shifting rate outlook.",
-        "Retail consumer demand driven by special dividend announcements.",
-        "Direct foreign exchange interventions by the central bank.",
-        "Mandatory equity rebalancing across copper asset footprints."
+        "The credit profile proved resilient through ongoing currency devaluation and structural recapitalisation mandates.",
+        "Central bank liquidity injections fully absorbed parallel market exchange rate divergences.",
+        "Aggressive equity buybacks boosted Tier-1 capital ratios above statutory thresholds.",
+        "International oil price windfalls neutralized domestic inflationary headwinds."
       ],
       "a": 0,
-      "e": "Institutional accounts priced the issuance against a shifting rate outlook, where spread duration sensitivity dictated the secondary market response. Retail demand and copper footprints did not drive this debt market reaction."
+      "e": "Fitch affirmed Stanbic IBTC at AAA because the credit profile proved resilient through ongoing currency devaluation and structural recapitalisation mandates. Central bank liquidity injections are not cited in the text. The correct option points to resilience against currency devaluation and recapitalisation."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Corporate Actions",
-      "q": "What drove the upward valuation adjustment in Suncorp Group shares following its fiscal 2026 financial report?",
+      "tag": "Nigeria · Currencies",
+      "q": "What disparity characterises the foreign exchange market segmentation in Nigeria according to recent pricing data?",
       "o": [
-        "Payout ratios exceeding consensus driven by a special dividend and share repurchase authorization.",
-        "A sudden expansion of copper asset footprints in Argentina.",
-        "Increased sub-national fiscal pooling by regional airline ventures.",
-        "Higher landed costs for imported agricultural commodities."
+        "Spot pricing settles at an official rate of ₦1,330 per dollar while parallel market desks quote ₦1,390 per dollar.",
+        "Official channels trade at a premium over street markets due to strict capital controls.",
+        "Central bank intervention eliminates any divergence between official and parallel exchange rates.",
+        "Commercial banks price foreign exchange using the benchmark Selic interest rate."
       ],
       "a": 0,
-      "e": "Equity valuations adjusted upward because payout ratios exceeded consensus, paired with a special dividend and share repurchase authorization. Copper assets and agricultural import costs are unrelated to Suncorp's financials."
+      "e": "Spot pricing for the currency settled at ₦1,330 against the dollar in official segments, while parallel market desks quoted the rate at ₦1,390 per dollar. Official channels do not trade at a premium in the figures given. The correct choice accurately contrasts official and street quotes."
     },
     {
       "lvl": "a",
-      "tag": "China · Institutional Investment",
-      "q": "What did the intensive research sweeps conducted by sixty-2 private funds in September indicate for electronics equities?",
+      "tag": "Australia · Equities",
+      "q": "What valuation dynamic is implied for Endeavour Group following the appointment of Owen Wilson to its board?",
       "o": [
-        "A potential reweighting toward technology hardware, highlighting concentrated institutional appetite for cyclical growth plays.",
-        "An immediate sector-wide liquidation driven by local government property slumps.",
-        "A permanent reallocation of capital away from electric vehicle manufacturing.",
-        "Mandatory compliance audits by national tax authorities."
+        "Consensus valuation models imply a discount of roughly 11% relative to fair value amid debates over digital execution risks.",
+        "The equity trades at a significant premium due to forecasted earnings growth exceeding index averages.",
+        "Consensus models project a 53% rally over the next year based on central bank mandates.",
+        "The stock price surges past its ASX ticker valuation following heavy share buybacks."
       ],
       "a": 0,
-      "e": "The coordinated diligence cycle by funds managing over a billion yuan each preceded potential reweighting toward technology hardware, showing appetite for cyclical growth. It did not signal liquidation or tax audits."
+      "e": "Endeavour Group's consensus valuation models currently imply a discount of roughly 11% relative to fair value, with the board appointment prompting debate over digital execution risks. The 53% figure belongs to the UK FTSE 100 briefing. The correct option reflects the stated ASX valuation discount."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Cryptocurrency",
-      "q": "What describes Cardano's market behavior following the Petrobras pilot project and Japan expansion push?",
+      "tag": "Australia · Fixed Income",
+      "q": "How did market participants respond to Commonwealth Bank of Australia's recent debt issuance?",
       "o": [
-        "The token price remained subdued, confining trading action below the $0.26 threshold without generating upside momentum.",
-        "The asset broke out to record highs driven by corporate integration trials.",
-        "Trading volume surged past regional sovereign debt issuance levels.",
-        "The token decoupled entirely from broader cryptocurrency market trends."
+        "Investors re-priced rate path assumptions and adjusted portfolios to reflect sensitivity to the broader macroeconomic rate outlook.",
+        "Bond yields fell to a 24-year low as institutional demand outstripped available supply.",
+        "The central bank intervened to purchase the entire debt tranche and stabilise domestic liquidity.",
+        "Equity researchers downgraded the security due to rising digital execution risks."
       ],
       "a": 0,
-      "e": "Cardano held below $0.26 as the market absorbed the Petrobras pilot and Japan push without generating upside momentum or breaking out. It did not reach record highs or decouple into a massive surge."
+      "e": "Commonwealth Bank of Australia priced a fresh debt issuance while investors re-priced rate path assumptions, reflecting sensitivity to the broader macroeconomic rate outlook. Bond yields hitting a 24-year low occurred in the US market briefing. The correct choice captures the market's re-pricing of rate path assumptions."
     }
   ]
 }
