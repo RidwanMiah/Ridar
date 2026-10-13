@@ -1,707 +1,707 @@
 {
-  "generated": "2026-10-13T00:36:43.461Z",
+  "generated": "2026-10-13T07:42:04.656Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "Why did the Nasdaq slip 0.2% during the trading session?",
+      "tag": "United States of America · Fixed income",
+      "q": "What happens to the value of future earnings for technology companies when bond yields rise?",
       "o": [
-        "Oil prices surged 2% following strikes in Ukraine, compressing technology stock valuations.",
-        "Corporate earnings reports missed all analyst expectations across the technology sector.",
-        "The Federal Reserve unexpectedly raised baseline interest rates during a surprise meeting.",
-        "Major technology companies announced massive share buyback programs totalling billions."
+        "Their present value drops because a higher discount rate is applied to them.",
+        "Their present value increases because higher yields attract more investors.",
+        "Their value remains completely unchanged because bond markets and stock markets do not interact.",
+        "Their value rises because companies earn more interest on their cash."
       ],
       "a": 0,
-      "e": "The text states that the Nasdaq slipped 0.2% as oil prices surged 2% following strikes in Ukraine, which compressed tech valuations. The other options describe events not mentioned in the briefing."
+      "e": "When bond yields go up, the discount rate used to calculate what future cash is worth today also goes up. This reduces the present value of distant earnings, hurting growth shares like technology stocks. The other options describe incorrect relationships between bond yields and equity valuations."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Currencies",
+      "q": "Where did the dollar-yen currency pair trade during Tokyo trading sessions?",
+      "o": [
+        "In the low one hundred fifty-eight range.",
+        "Around fifty-two thousand two hundred.",
+        "Near N1,333 per dollar.",
+        "At EUR 22.75."
+      ],
+      "a": 0,
+      "e": "The dollar-yen pair topped out in the low one hundred fifty-eight range during Tokyo trading. The other figures represent stock index levels, euro prices, or Nigerian naira exchange rates."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Macroeconomics",
+      "q": "Why does an IMF upgrade to the UK growth forecast complicate the macroeconomic backdrop?",
+      "o": [
+        "Because it coincides with warnings that consumer price pressures will intensify.",
+        "Because it forces the government to ban all initial public offerings.",
+        "Because it guarantees that interest rates will immediately fall to zero.",
+        "Because it eliminates all trade with the United States."
+      ],
+      "a": 0,
+      "e": "The IMF predicts faster economic expansion while simultaneously warning that consumer price inflation will accelerate. This creates a difficult trade-off for policymakers trying to support economic activity while keeping costs under control. The other options are fictional consequences not supported by the text."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Central banking",
+      "q": "Why does Bank of England policymaker Megan Greene argue for interest rates to rise above 4%?",
+      "o": [
+        "She believes domestic economic resilience and strong demand justify further tightening.",
+        "She wants to punish technology companies for falling share prices.",
+        "She needs to lower the value of the FTSE 100 index.",
+        "She wants to match the exact inflation rate of Germany."
+      ],
+      "a": 0,
+      "e": "Megan Greene points to unexpected domestic economic resilience and ongoing demand strength as reasons to raise official borrowing costs. She does not target stock indices or foreign inflation rates. Her focus is purely on managing domestic demand."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Equities",
-      "q": "What drove the FTSE 100 index to gain 0.99% and close at its session high?",
+      "q": "What supported the FTSE 100 index so that it outperformed international peers?",
       "o": [
-        "Financial shares drove the advance alongside rising energy prices as Brent surpassed $106.",
-        "The central bank lowered cash reserve requirements for all major commercial lenders.",
-        "A surprise technological breakthrough in the domestic semiconductor industry boosted software firms.",
-        "Retail sales figures exceeded forecasts due to an unexpected decline in consumer prices."
+        "A broader rally in commodity markets, particularly energy and basic resources.",
+        "A massive surge in technology shares and artificial intelligence developers.",
+        "A sudden drop in interest rates set by the central bank.",
+        "An emergency rescue package funded by the International Monetary Fund."
       ],
       "a": 0,
-      "e": "Financial shares and rising energy prices, with Brent surpassing $106, drove the FTSE 100 advance. The other options describe market catalysts from completely different regions."
+      "e": "Natural resource producers and a broader rally in raw materials lifted the FTSE 100 headline figure. Technology shares actually fell during the session, so they did not cause the outperformance. Central bank rate cuts and IMF rescues are not mentioned as drivers for the index."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Inflation",
+      "q": "What milestone did the German inflation rate reach in September?",
+      "o": [
+        "It reached 3.3%, marking a near 3-year high for the index.",
+        "It dropped to zero, entering a period of severe deflation.",
+        "It matched the exact growth rate of the UK economy.",
+        "It surpassed 15%, causing widespread currency failure."
+      ],
+      "a": 0,
+      "e": "German inflation printed at 3.3% for September, representing a peak not seen in nearly three years. The other options describe economic scenarios that did not occur in Germany according to the text."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "Which company spearheaded the DAX 40 defence rally with a 2.9% advance?",
+      "q": "How did Deutsche Telekom shares react to news of a SpaceX mobile push?",
       "o": [
-        "Rheinmetall spearheaded the defence rally with a 2.9% advance.",
-        "Deutsche Telekom drove the defence sector higher before its mobile push.",
-        "Porsche AG led the index after its after-hours trading session.",
-        "Salzgitter anchored the session alongside software firm SAP."
+        "They plunged nearly 8%.",
+        "They gained 0.76% to lead the DAX index.",
+        "They rose to a 52-week high.",
+        "They remained completely flat."
       ],
       "a": 0,
-      "e": "Rheinmetall is explicitly named as the company that spearheaded the defence rally with a 2.9% advance. Deutsche Telekom actually dropped during the session due to competitive pressures."
+      "e": "Deutsche Telekom shares tumbled nearly 8% following the news regarding SpaceX. Rheinmetall led the defense sector rally, while the DAX index as a whole gained 0.76%."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Telecommunications",
-      "q": "Why did Deutsche Telekom shares drop nearly 8% during the trading session?",
+      "tag": "Japan · Equities",
+      "q": "What sector was primarily responsible for dragging down Japan's Nikkei Stock Average?",
       "o": [
-        "A mobile push by SpaceX created competitive pressures that drove down the share price.",
-        "Policymakers issued a diesel waiver that disrupted the company's core logistics operations.",
-        "An unexpected rise in oil prices increased energy input costs for telecommunications towers.",
-        "The firm executed a massive share buyback that reduced its overall equity capitalization."
+        "Semiconductors and chip-related equities.",
+        "Commercial banking and financial institutions.",
+        "Crude oil producers and shipping companies.",
+        "State-backed defense contractors."
       ],
       "a": 0,
-      "e": "Deutsche Telekom shares suffered a nearly 8% drawdown driven by competitive pressures from a SpaceX mobile push. The diesel waiver actually helped ease broader index sentiment rather than hurting telecom operations."
+      "e": "A broad semiconductor selloff drove the losses across the Nikkei index, with chip-related equities and Kioxia suffering heavy drops. Financials and oil companies were strong elsewhere, not the cause of this specific selloff."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Foreign Exchange",
-      "q": "How did the Japanese yen behave during the Tokyo holiday session?",
+      "tag": "Japan · Currencies",
+      "q": "What event were market participants awaiting while dollar-yen traded tightly in the lower 158 range?",
       "o": [
-        "The yen slipped against the dollar while trading in the upper 158 range.",
-        "The yen appreciated by 1.0% following a targeted central bank interest rate hike.",
-        "The yen surged to a multi-year high as import costs climbed by 24.5%.",
-        "The yen remained completely static alongside the corporate goods price index."
+        "US consumer price index data.",
+        "A permanent ban on cryptocurrency trading.",
+        "The complete dissolution of the International Monetary Fund.",
+        "An emergency bond buyback by the Bank of England."
       ],
       "a": 0,
-      "e": "The yen slipped against the dollar during the Tokyo holiday session, with the dollar-yen rate anchored in the upper 158 range. The 1.0% gain occurred in India, not Japan."
+      "e": "Traders were waiting for the upcoming US consumer price index data to gauge currency direction. None of the other listed events appear in the source text."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Commodities",
-      "q": "Why did Japan's corporate goods price index ease unexpectedly in September?",
+      "tag": "China · Corporate finance",
+      "q": "What does Tencent intend to do with the proceeds from its debt offering exceeding $4.5bn?",
       "o": [
-        "Cooling oil prices and a stronger currency drove the unexpected deceleration.",
-        "A massive drop in domestic consumer demand reduced manufacturing output across all sectors.",
-        "The central bank lowered reserve requirements for commercial banks holding import contracts.",
-        "Supply chain disruptions caused a 78% collapse in interbank foreign exchange turnover."
+        "Deploy them into artificial intelligence capital expenditure.",
+        "Buy out international banking competitors in Tokyo.",
+        "Pay off all sovereign debt owed by the government.",
+        "Fund retail property developments across Europe."
       ],
       "a": 0,
-      "e": "Japan's corporate goods price index eased unexpectedly due to cooling oil prices and a stronger currency. The import cost increase and foreign exchange turnover collapse belong to different stories."
+      "e": "Tencent structures its debt package specifically to fund artificial intelligence capital expenditure and high-performance computing investments. The other options are incorrect uses of the funds."
     },
     {
       "lvl": "b",
-      "tag": "China · Corporate Actions",
-      "q": "Why did GigaDevice Semiconductor execute a share repurchase program valued at 1.03 billion yuan?",
+      "tag": "China · Venture capital",
+      "q": "What milestone did humanoid robot developer Astribot achieve within a six-month period?",
       "o": [
-        "Management utilized buybacks to return capital to equity holders and alter the float.",
-        "The company needed to defend its share price following a memory-chip market rout.",
-        "Regulators mandated the open-market acquisition to curb speculative foreign exchange derivatives.",
-        "The firm sought to finance a foreign acquisition in the physical artificial intelligence sector."
+        "It closed its fourth funding round, lifting its valuation to 15 billion yuan.",
+        "It defaulted on its bond payments due to falling oil prices.",
+        "It acquired a majority stake in Deutsche Telekom.",
+        "It launched a competing currency to rival the US dollar."
       ],
       "a": 0,
-      "e": "Corporate management utilized buybacks to return capital to equity holders and alter the float. The other options confuse the share buyback with unrelated semiconductor breakthroughs or regulatory interventions."
+      "e": "Astribot finalized its fourth consecutive funding round in six months, reaching a valuation of 15 billion yuan. The other options are entirely unrelated business events."
     },
     {
       "lvl": "b",
-      "tag": "China · Equities",
-      "q": "What triggered the Nasdaq sell-off that brought the index down to 27,245.90?",
-      "o": [
-        "A technological breakthrough in memory chips achieved by CXMT in China.",
-        "A surprise interest rate increase announced by the central bank to cool inflation.",
-        "An unexpected surge in oil prices driven by kinetic strikes in Eastern Europe.",
-        "A massive interbank foreign exchange turnover collapse affecting major technology firms."
-      ],
-      "a": 0,
-      "e": "The Nasdaq declined to 27,245.90 as a domestic breakthrough by China's CXMT in the semiconductor space impacted memory chips like Micron and AMD. Oil strikes affected a different Nasdaq decline mentioned in the US briefing."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Central Banking",
-      "q": "How did the Reserve Bank of India intervene to support the slumping rupee?",
-      "o": [
-        "It tightened rules on non-deliverable contracts and widened a 20.0% cash reserve requirement.",
-        "It purchased billions of dollars worth of sovereign debt to lower local bond yields.",
-        "It lowered interest rates to encourage domestic borrowing and boost corporate equity valuations.",
-        "It launched a massive share buyback program to reduce outstanding foreign exchange derivatives."
-      ],
-      "a": 0,
-      "e": "The Reserve Bank of India tightened rules on rupee non-deliverable contracts and widened a 20.0% cash reserve requirement to throttle offshore speculative channels. It did not lower interest rates or buy sovereign debt."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Equities",
-      "q": "What caused the BSE SENSEX index to fall by 548 points to 71,924.68?",
-      "o": [
-        "An oil price spike driven by overlapping conflicts involving Russia, Ukraine, the US, and Iran.",
-        "A sudden 78% drop in interbank foreign exchange turnover across domestic commercial banks.",
-        "Regulatory penalties imposed on corporations for alleged money laundering offences.",
-        "A severe memory-chip market rout led by technological breakthroughs in neighboring countries."
-      ],
-      "a": 0,
-      "e": "External supply risks from overlapping conflicts drove an oil spike that weighed on equities and caused the SENSEX to shed 548 points. The foreign exchange turnover collapse occurred in Nigeria, not India."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Equities",
-      "q": "What milestone did Petrobras common stock reach on equity markets?",
-      "o": [
-        "The stock hit a fresh fifty-two-week high of $22.62 per share.",
-        "The equity valuation dropped by 8% following competitive pressures from SpaceX.",
-        "The company completed a share repurchase program valued at 1.03 billion yuan.",
-        "The firm secured a four-year pump services contract worth $630m."
-      ],
-      "a": 0,
-      "e": "Petrobras shares hit a fresh fifty-two-week high of $22.62. The $630m figure belongs to Omron's acquisition of OnLogic, and the other options mix up unrelated corporate actions."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Commodities",
-      "q": "What agreement did Framo secure during the ROG.e 2026 conference?",
-      "o": [
-        "A four-year pump services contract for floating production storage and offloading vessels awarded by Petrobras.",
-        "An exclusive export route agreement to bypass disruptions in the Hormuz Strait.",
-        "A joint venture to develop physical artificial intelligence applications for energy infrastructure.",
-        "A regulatory waiver allowing increased diesel shipping despite maritime security risks."
-      ],
-      "a": 0,
-      "e": "Framo captured a four-year FPSO pump services contract awarded by Petrobras at the ROG.e 2026 event. The other options incorrectly link the pump contract to Hormuz shipping routes or AI technology."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "Why is Saudi Aramco exploring new oil export routes?",
-      "o": [
-        "To strengthen supply security as Hormuz disruption persists and an oil supply squeeze worsens.",
-        "To bypass domestic antitrust regulations regarding foreign exchange derivatives and cash reserves.",
-        "To deliver memory chips and software products to international technology markets more efficiently.",
-        "To comply with new regulatory rules on non-deliverable contracts set by central banks."
-      ],
-      "a": 0,
-      "e": "Saudi Aramco explores new oil export routes to strengthen supply security because the company chief executive officer warns that an oil supply squeeze could worsen as Hormuz disruption persists. The other options introduce completely unrelated regulatory concepts."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Shipping",
-      "q": "What did OPEC and non-OPEC ministers stress during their meeting in Riyadh?",
-      "o": [
-        "The critical importance of safeguarding international maritime routes as shipping and insurance costs surge.",
-        "The urgent need to ban all corporate share buybacks to stabilize global equity valuations.",
-        "The necessity of raising cash reserve requirements to counteract surging consumer price inflation.",
-        "The advantages of adopting physical artificial intelligence strategies across the refining sector."
-      ],
-      "a": 0,
-      "e": "Ministers stressed the critical importance of safeguarding international maritime routes as shipping and insurance costs for energy flows surge. The other options combine unrelated financial terms from different briefings."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Foreign Exchange",
-      "q": "What accompanied the depreciation of the Nigerian naira in the interbank market?",
-      "o": [
-        "A 78% slump in interbank foreign exchange turnover reflecting severe liquidity constraints.",
-        "A 1.0% spot appreciation driven by a targeted central bank intervention package.",
-        "A record-breaking surge in sovereign debt yields hitting their highest level since March 2023.",
-        "An unexpected easing of the corporate goods price index due to a stronger currency."
-      ],
-      "a": 0,
-      "e": "The Nigerian naira weakened alongside a 78% collapse in interbank FX turnover reflecting liquidity constraints. The 1.0% appreciation occurred in India, and the sovereign yield spike also happened in India."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Regulation",
-      "q": "What formal action did the Economic and Financial Crimes Commission take regarding ALSCON?",
-      "o": [
-        "It charged ALSCON and one of its directors with laundering 582 million naira.",
-        "It fined the company for failing to maintain a 20.0% cash reserve requirement.",
-        "It seized all export routes operated by the firm in the official currency window.",
-        "It forced the corporation to execute a mandatory share repurchase program."
-      ],
-      "a": 0,
-      "e": "The Economic and Financial Crimes Commission prosecuted ALSCON and its director on charges involving the laundering of 582 million naira. The other options incorrectly apply central banking rules or share buybacks to a criminal indictment."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Equities",
-      "q": "How did the Australian stock market perform following the slow session on Wall Street?",
-      "o": [
-        "The Australian benchmark drifted lower as information technology equities faced downward pressure.",
-        "The local index surged by 0.99% driven by a broad commercial banking sector rally.",
-        "The market rallied sharply as defense stocks spearheaded gains across all regional indices.",
-        "The stock exchange closed early due to a national holiday observance and thin liquidity."
-      ],
-      "a": 0,
-      "e": "The Australian benchmark drifted lower in the wake of subdued activity on Wall Street, with information technology equities facing downward pressure while energy gained. The 0.99% gain describes the FTSE 100 in the UK."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Corporate Actions",
-      "q": "What is the purpose of Omron's acquisition of United States-based OnLogic for $630m?",
-      "o": [
-        "It executes a corporate expansion strategy targeting physical artificial intelligence applications.",
-        "It provides new export routes to bypass ongoing supply chain disruptions in the Hormuz Strait.",
-        "It establishes a new benchmark for corporate goods prices following an upward revision.",
-        "It returns surplus capital to equity holders by altering the firm's outstanding float."
-      ],
-      "a": 0,
-      "e": "Omron agreed to purchase OnLogic for $630m to execute a corporate expansion strategy targeting physical artificial intelligence applications. The other options incorrectly link the acquisition to oil export routes or share buybacks."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "Why did the Nasdaq decline while energy shares advanced during the trading session?",
-      "o": [
-        "Strikes in Ukraine triggered a supply-side shock in crude markets, causing oil prices to surge 2% and compressing technology valuations.",
-        "The Federal Reserve announced an unexpected interest rate hike that directly targeted technology sector borrowing costs.",
-        "A major domestic memory-chip breakthrough by domestic competitors created an immediate oversupply in the technology sector.",
-        "Incoming macroeconomic inflation prints came in significantly above consensus expectations, forcing a broad equity sell-off."
-      ],
-      "a": 0,
-      "e": "Kinetic strikes in Ukraine drove a 2% rally in oil benchmarks, which penalized technology valuations while boosting the energy sector. The other options involve events from different countries or markets mentioned in the briefings."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Equities",
-      "q": "What drove the FTSE 100 index to settle at its session high of 10,656.28?",
-      "o": [
-        "A broad bank sector rally provided strong momentum, with secondary support from rising energy prices as Brent surpassed $106 per barrel.",
-        "An unexpected corporate share buyback program reduced the total equity float and forced institutional short covering.",
-        "Policymakers issued an emergency diesel waiver that successfully neutralized ongoing Hormuz Strait disruptions.",
-        "The central bank lowered the cash reserve requirement, releasing institutional liquidity into the domestic equity market."
-      ],
-      "a": 0,
-      "e": "The FTSE 100 gained 0.99% driven by a broad bank sector rally and secondary support from higher commodity valuations. The diesel waiver and reserve requirement changes occurred in different European and emerging markets."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "What caused Deutsche Telekom shares to experience an 8% drawdown while the broader DAX index maintained upward momentum?",
-      "o": [
-        "Competitive pressures from a mobile push by SpaceX drove the decline in Deutsche Telekom, while a diesel waiver helped ease broader oil price fears.",
-        "Rheinmetall's defense sector rally drew capital away from telecommunications equities into industrial manufacturers.",
-        "Porsche AG's after-hours trading surge drained institutional liquidity away from other index constituents.",
-        "Unanticipated supply chain disruptions in the semiconductor space forced a sector-wide revaluation of software and tech assets."
-      ],
-      "a": 0,
-      "e": "Deutsche Telekom suffered a nearly 8% drop due to a SpaceX mobile push, whereas index resilience was sustained by a diesel waiver neutralizing oil price fears. Sector rallies in defense and software contributed to the DAX but did not cause the telecommunications decline."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Foreign Exchange",
-      "q": "Why did the Japanese yen slip against the dollar during the Tokyo holiday session?",
-      "o": [
-        "Thin liquidity conditions during the Tokyo holiday observance left the dollar-yen pair confined to the upper 158 range.",
-        "The corporate goods price index fell unexpectedly because of descending oil prices and currency dynamics.",
-        "The import price index advanced by 24.5% year-on-year, triggering aggressive capital flight into foreign assets.",
-        "The central bank intervened directly in the foreign exchange derivatives market to suppress domestic borrowing costs."
-      ],
-      "a": 0,
-      "e": "The Japanese yen depreciated specifically due to thin liquidity conditions during the Tokyo holiday observance. Price figures and import price acceleration reflect separate macroeconomic reports."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Equities",
-      "q": "What triggered the Nasdaq index to retreat to 27,245.90 and impact firms like Micron and AMD?",
-      "o": [
-        "A technological breakthrough by China's CXMT in the memory-chip space sparked a severe drawdown and competitive repricing.",
-        "GigaDevice Semiconductor executed a massive share buyback that altered domestic market float dynamics.",
-        "Goldman Sachs revised its currency outlook, projecting significant appreciation headroom for the yuan.",
-        "Interbank foreign exchange turnover slumped by 78%, reducing cross-border liquidity for multinational technology firms."
-      ],
-      "a": 0,
-      "e": "The Nasdaq fell as a memory-chip rout affected Micron and AMD following CXMT's technological breakthrough in China. Share buybacks and currency forecasts from Goldman Sachs did not cause this technology sell-off."
-    },
-    {
-      "lvl": "i",
       "tag": "India · Central banking",
-      "q": "How did the Reserve Bank of India successfully catalyze a 1.0% spot appreciation in the rupee?",
+      "q": "How did the Reserve Bank of India manage liquidity during its overnight variable rate reverse repo auction?",
       "o": [
-        "By tightening rules on non-deliverable forwards and widening the cash reserve requirement to throttle offshore speculative channels and reduce onshore dollar demand from refiners.",
-        "By purchasing sovereign bonds directly to lower sovereign debt yields from their highest levels since March 2023.",
-        "By raising benchmark interest rates to offset overlapping conflicts in the Middle East and Eastern Europe.",
-        "By imposing direct price controls on imported oil to eliminate trade deficit pressures."
+        "It absorbed 71,580 crore rupees at a weighted average rate of 5.49 per cent.",
+        "It printed 71,580 crore new bank notes to flood the market with cash.",
+        "It lowered interest rates to zero to encourage consumer spending.",
+        "It purchased foreign technology shares to support the Nasdaq."
       ],
       "a": 0,
-      "e": "The central bank intervened by tightening rules on non-deliverable forwards and widening the cash reserve requirement, which squeezed FX derivatives oversight and curtailed onshore dollar demand. Bond yields and international conflicts were contextual economic pressures, not the intervention mechanism."
+      "e": "The Reserve Bank of India absorbed 71,580 crore rupees via its overnight variable rate reverse repo auction at a cut-off rate of 5.49 per cent. It did not print bank notes or buy foreign technology shares."
     },
     {
-      "lvl": "i",
+      "lvl": "b",
       "tag": "Brazil · Energy",
-      "q": "What corporate milestone coincided with Petrobras common stock printing a new fifty-two-week high of $22.62?",
+      "q": "What agreement did Petrobras sign with Framo?",
       "o": [
-        "Framo captured a four-year FPSO pump services contract awarded by Petrobras at the ROG.e 2026 event.",
-        "Saudi Aramco explored new export routes to mitigate ongoing supply squeezes in the Hormuz Strait.",
-        "OPEC and non-OPEC ministers agreed to safeguard international maritime routes to lower shipping costs.",
-        "The Economic and Financial Crimes Commission dropped legacy industrial asset investigations."
+        "A four-year vendor pact for pump services on floating production storage and offloading units.",
+        "An agreement to stop all deepwater drilling off the Amapá coast.",
+        "A contract to supply natural gas directly to German households.",
+        "A merger to combine both companies into a single exchange-listed entity."
       ],
       "a": 0,
-      "e": "Petrobras reached its equity milestone alongside awarding the Framo pump services contract at the ROG.e 2026 conference. Aramco and OPEC actions relate to Middle Eastern energy supply security rather than Brazilian equity milestones."
+      "e": "Petrobras signed a four-year agreement with Framo regarding pump maintenance on floating production storage and offloading units. The other choices misrepresent the business relationship."
     },
     {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "Why did energy and oil ministers from Declaration of Cooperation countries meet in Riyadh?",
+      "lvl": "b",
+      "tag": "Saudi Arabia · Energy",
+      "q": "Why did OPEC reduce its global oil demand growth forecast for 2026?",
       "o": [
-        "To stress the critical importance of safeguarding international maritime routes as shipping and insurance costs for energy flows surge amid Hormuz disruptions.",
-        "To establish a new corporate subsidiary focused on expanding domestic refining capacity and underinvested oil infrastructure.",
-        "To coordinate emergency share buybacks for state-backed energy enterprises facing valuation pressures.",
-        "To negotiate direct currency peg adjustments in response to falling interbank turnover."
+        "The organization cut its outlook repeatedly, delaying market recovery to 2027 amidst rising shipping and insurance costs.",
+        "Because all member nations ran out of oil reserves entirely.",
+        "Because the International Monetary Fund banned the production of crude oil.",
+        "Because artificial intelligence robots replaced the need for petroleum."
       ],
       "a": 0,
-      "e": "Ministers met in Riyadh to address maritime security and surging shipping costs driven by Hormuz disruptions. Refining underinvestment and corporate buybacks were separate developments not tied to this specific ministerial agenda."
+      "e": "OPEC downgraded its forecast for the fifth consecutive time, delaying recovery to 2027 while noting record energy shipping and insurance costs. The other options are fictional claims."
     },
     {
-      "lvl": "i",
-      "tag": "Nigeria · Foreign Exchange",
-      "q": "What structural issue accompanied the Nigerian naira's depreciation and a 78% collapse in interbank FX turnover?",
+      "lvl": "b",
+      "tag": "Nigeria · Currencies",
+      "q": "What factor contributed to downward pressure on the interbank foreign exchange market for the Nigerian naira?",
       "o": [
-        "A severe drying up of institutional liquidity in the official window that exacerbated exchange-rate pass-through to consumer prices.",
-        "An aggressive monetary tightening campaign by the central bank to offset money laundering charges brought against ALSCON.",
-        "A sudden decline in import price indices caused by descending global oil benchmarks.",
-        "A mandatory corporate restructuring program targeting legacy industrial assets."
+        "A 78% slump in interbank turnover and missing export earnings.",
+        "An unexpected surge in gold prices in Tokyo.",
+        "A massive interest rate cut by the Bank of England.",
+        "The complete privatization of Saudi Aramco."
       ],
       "a": 0,
-      "e": "The collapse in interbank turnover highlighted a drying up of institutional liquidity that worsened exchange-rate pass-through to domestic prices. Money laundering charges and import price indices are unrelated factors from other market reports."
+      "e": "The naira traded near N1,333 per dollar while interbank foreign exchange turnover slumped by 78% and export earnings fell short. UK interest rates and Tokyo gold prices do not drive Nigerian interbank liquidity."
     },
     {
-      "lvl": "i",
+      "lvl": "b",
       "tag": "Australia · Equities",
-      "q": "Why did the Australian benchmark stock market drift lower during the session?",
+      "q": "Which sector acted as the primary ballast against broad-based selling to help the S&P/ASX 200 recover to a flat finish?",
       "o": [
-        "Subdued activity and falling information technology equities on Wall Street exerted downward pressure on the market.",
-        "An unexpected surge in local sovereign debt yields forced institutional investors out of equities.",
-        "Stricter regulatory rules on foreign exchange derivatives curtailed capital inflows.",
-        "A sharp contraction in interbank foreign exchange turnover reduced domestic liquidity."
+        "Major bank and financial shares.",
+        "Lithium mining exploration companies.",
+        "Artificial intelligence software developers.",
+        "Semiconductor manufacturing firms."
       ],
       "a": 0,
-      "e": "The Australian benchmark drifted lower in the wake of subdued activity and falling IT stocks on Wall Street. Local sovereign bond yields and foreign exchange rule changes occurred in India and other emerging economies."
+      "e": "Financials acted as the primary ballast against broad-based selling to help the index recover, whereas technology, lithium, and AI equities suffered heavy losses."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Mining",
+      "q": "Why did Ballard Mining initiate a capital raising proposal?",
+      "o": [
+        "Following a mineral resource upgrade at its Mt Ida project.",
+        "To pay off debts incurred by Deutsche Telekom.",
+        "To purchase floating production storage vessels from Framo.",
+        "To fund the construction of a new smartphone network."
+      ],
+      "a": 0,
+      "e": "Ballard Mining proposed a capital raising following a resource increase at Mt Ida, as exploration companies routinely leverage improved resource metrics to secure equity financing. None of the other businesses are connected to Ballard Mining."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Contracts",
+      "q": "What contract did Saudi Steel Pipe secure from Aramco?",
+      "o": [
+        "A SAR 177m procurement contract to provide specialized pipe supplies for operational needs.",
+        "A SAR 177m agreement to build floating production platforms off the Brazilian coast.",
+        "A contract to supply artificial intelligence hardware to Tencent.",
+        "An exclusive license to drill for oil in the Amapá maritime boundary."
+      ],
+      "a": 0,
+      "e": "Saudi Steel Pipe captured a SAR 177m procurement contract from Aramco to provide specialized pipe supplies. The other choices involve entirely different companies and regions."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Macroeconomics",
-      "q": "Why are market participants pricing duration risk around upcoming inflation metrics in the United States?",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did rising Treasury returns put downward pressure on technology shares such as the Nasdaq?",
       "o": [
-        "Because these critical data releases serve as the primary catalyst for the domestic interest rate trajectory ahead of midterm elections.",
-        "Because unexpected supply-side shocks in crude markets have permanently altered corporate earnings guidance.",
-        "Because technology valuations are tightly bound to the daily spot price of Brent and WTI crude benchmarks.",
-        "Because central bank interventions in foreign exchange derivatives have compressed domestic bond yields."
+        "Higher sovereign debt returns increase the discount rate applied to future earnings, eroding the present value of distant cash flows.",
+        "Higher Treasury returns force technology companies to pay higher taxes on their short-term cash holdings.",
+        "Rising bond yields automatically cancel all upcoming initial public offerings in the technology sector.",
+        "Investors are legally required by federal regulators to keep a fixed percentage of their wealth in government bonds."
       ],
       "a": 0,
-      "e": "Inflation metrics act as the primary catalyst for the domestic rate trajectory ahead of midterms, causing market participants to price duration risk. Crude shocks and foreign exchange interventions describe separate markets."
+      "e": "When sovereign debt returns rise, the discount rate used in financial models to value future corporate earnings also rises. This math reduces the present value of distant cash flows, making tech shares less attractive relative to fixed income. The other options are factually incorrect or misrepresent how equity valuation works."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Macroeconomics",
-      "q": "How did policymakers prevent immediate energy price panic following Hormuz Strait disruptions?",
+      "tag": "United Kingdom · Macroeconomics",
+      "q": "How does an upward revision to the UK growth forecast alongside rising consumer price pressures complicate matters for policymakers?",
       "o": [
-        "By issuing a diesel waiver that neutralized immediate oil price fears and supported index resilience.",
-        "By executing a large-scale software sector equity buyback program to stabilize corporate valuations.",
-        "By raising cash reserve requirements on commercial banks to restrict speculative commodity trading.",
-        "By securing alternative export pipeline routes through Eastern Europe."
+        "It creates a sharper trade-off between supporting economic activity and containing rising costs, narrowing room for policy easing.",
+        "It forces the central bank to automatically lower interest rates to offset the higher cost of living for households.",
+        "It requires the government to ban all imports of basic commodities to protect domestic profit margins.",
+        "It guarantees that commercial banks will stop lending money to small businesses immediately."
       ],
       "a": 0,
-      "e": "Policymakers issued a diesel waiver to neutralize immediate oil price fears stemming from Hormuz Strait disruptions. Software buybacks, reserve requirements, and pipeline routes were not part of this German policy intervention."
+      "e": "When the economy grows while <span class='term' data-t='inflation'>inflation</span> accelerates, monetary authorities face conflicting mandates: supporting activity often requires lower rates, while containing cost pressures demands tighter policy. This tension reduces the perceived room for policy easing. The other options are incorrect interpretations of central bank mandates."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Corporate activity",
-      "q": "What motivated Omron to reach an agreement to acquire United States-based OnLogic for $630m?",
+      "tag": "United Kingdom · Monetary policy",
+      "q": "Why does Megan Greene's call for Bank Rate to exceed 4% challenge existing market pricing?",
       "o": [
-        "The transaction executes a corporate expansion strategy targeting physical artificial intelligence applications.",
-        "The depreciation of the yen created excess corporate cash reserves that required immediate deployment.",
-        "A sharp decline in domestic corporate goods prices forced cross-border M&A activity.",
-        "New import price index revisions necessitated international supply chain integration."
+        "Her assessment of unexpected economic resilience challenges market pricing that previously anticipated earlier rate cuts.",
+        "Her preference for lower borrowing costs contradicts the central bank's official goal of hiking rates.",
+        "Her focus on the technology sector overrides the central bank's mandate to watch housing prices.",
+        "Her desire to freeze all commercial bank lending forces traders to buy equities instead of gilts."
       ],
       "a": 0,
-      "e": "Nikkei reports indicate the acquisition executes Omron's corporate expansion strategy targeting physical artificial intelligence. Currency depreciation and domestic price indices did not drive this specific M&A transaction."
+      "e": "A hawkish stance from a policymaker who cites robust demand and unexpected macroeconomic resilience signals that rates may stay higher for longer. This directly challenges market pricing that had anticipated earlier monetary easing. The other choices rely on false premises about her stated positions."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Equities",
+      "q": "What structural feature of the FTSE 100 helped it outperform international peers during the session?",
+      "o": [
+        "Its heavy weighting toward cyclical commodities and energy groups insulated it from technology weakness.",
+        "Its strict ban on foreign multinational companies trading on the London exchange.",
+        "Its complete reliance on the domestic software and semiconductor industries for revenue.",
+        "Its automatic government guarantee against any losses in the banking sector."
+      ],
+      "a": 0,
+      "e": "The FTSE 100 features a heavy structural weighting toward basic resources and energy complexes. When raw material valuations rise, this commodity focus insulates the index from technology sector weaknesses seen elsewhere. The other choices describe features that do not apply to the UK index."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Equities",
+      "q": "What drove the cross-currents observed in the DAX 40 index during the session?",
+      "o": [
+        "A defense sector rally led by Rheinmetall contrasted with a steep fall in Deutsche Telekom shares following a SpaceX mobile push.",
+        "An unexpected jump in retail sales clashed with a complete shutdown of the German banking system.",
+        "A massive wave of initial public offerings in the biotechnology sector offset losses in automobile manufacturing.",
+        "A sudden change in the national currency valuation wiped out all profits in the energy sector."
+      ],
+      "a": 0,
+      "e": "The DAX 40 faced mixed pressures because a strong defense rally driven by Rheinmetall was counterbalanced by Deutsche Telekom tumbling nearly 8% on news of a SpaceX mobile push. The other options involve events not supported by the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Equities",
+      "q": "Why did semiconductor equities act as the primary drag on the Nikkei Stock Average?",
+      "o": [
+        "Chip-related stocks suffered heavy losses following an AI-related stock tumble and wider <span class='term' data-t='inflation'>inflation</span> concerns.",
+        "The Japanese government banned the export of all silicon wafers to foreign buyers.",
+        "Semiconductor firms were forced by law to buy government bonds instead of building manufacturing plants.",
+        "Foreign investors sold their entire holdings of Japanese banks to buy US technology shares."
+      ],
+      "a": 0,
+      "e": "Semiconductor equities declined sharply as part of a broad selloff driven by an AI-related stock tumble and wider price pressures. The other options are fabricated regulatory or market events."
     },
     {
       "lvl": "i",
       "tag": "China · Corporate finance",
-      "q": "Why did GigaDevice Semiconductor deploy 1.03 billion yuan into an open-market share repurchase program?",
+      "q": "What is Tencent's primary intended use for the proceeds of its dual-currency debt package exceeding $4.5bn?",
       "o": [
-        "To alter the firm's capital structure, reduce outstanding equity, and return capital to equity holders.",
-        "To offset competitive pressures arising from memory-chip breakthroughs by domestic rivals.",
-        "To capitalize on further appreciation headroom for the yuan projected by Goldman Sachs.",
-        "To neutralize foreign exchange derivatives exposure caused by declining interbank turnover."
+        "Artificial intelligence capital expenditure and high-performance computing investments.",
+        "Bailing out failing real estate developers in the domestic property market.",
+        "Purchasing large quantities of foreign sovereign debt to defend the yuan exchange rate.",
+        "Financing a nationwide rollout of traditional manufacturing equipment."
       ],
       "a": 0,
-      "e": "Corporate management utilizes buybacks to return capital to equity holders and alter the capital structure by reducing outstanding equity. Semiconductor breakthroughs and yuan currency projections are distinct market events."
+      "e": "Tencent explicitly targets artificial intelligence capital expenditure with its debt proceeds, reflecting a prolonged infrastructure buildout for high-performance computing. The other choices are unrelated to the stated use of funds."
     },
     {
       "lvl": "i",
-      "tag": "India · Fixed income",
-      "q": "What macroeconomic condition coincided with the BSE SENSEX shedding 548 points?",
+      "tag": "India · Monetary policy",
+      "q": "How did the Reserve Bank of India's liquidity operations affect domestic short-term financial conditions?",
       "o": [
-        "Sovereign debt yields hovered near 7.4%, registering their highest levels since March 2023 amid external supply-side energy shocks.",
-        "Interbank foreign exchange turnover dropped by 78%, causing severe institutional liquidity constraints.",
-        "Corporate goods prices decelerated unexpectedly due to descending global oil benchmarks.",
-        "Local refiners increased onshore dollar demand to offset regulatory tightening on non-deliverable forwards."
+        "The central bank absorbed 71,580 crore rupees via a reverse repo auction while foreign exchange restrictions catalyzed a short-term rupee squeeze.",
+        "The central bank injected massive amounts of cash to drive interest rates down to zero.",
+        "The Reserve Bank sold all of its foreign reserves to purchase domestic technology stocks.",
+        "Commercial banks were ordered to stop all lending operations until <span class='term' data-t='inflation'>inflation</span> fell below 2%."
       ],
       "a": 0,
-      "e": "The equity drop coincided with sovereign debt yields hovering near 7.4% (their highest since March 2023) driven by energy-driven macro shocks. FX turnover drops and corporate goods prices occurred in Nigeria and Japan."
+      "e": "The Reserve Bank of India absorbed liquidity through an overnight variable rate reverse repo auction at a 5.49% cut-off rate, which coincided with tightened foreign exchange restrictions that squeezed the currency higher. The other choices contradict the described central bank actions."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What underlying structural vulnerability did Saudi Aramco's chief executive officer highlight alongside exploring new export routes?",
+      "tag": "Brazil · Commodities",
+      "q": "What significance do appraisal activities and drilling results hold for deepwater basins like the Amapá coast?",
       "o": [
-        "Persistent underinvestment in oil refining capacity that threatens to worsen an ongoing supply squeeze.",
-        "Excessive reliance on domestic equity buybacks rather than capital expenditure in offshore production infrastructure.",
-        "Surging shipping and insurance costs caused by regulatory crackdowns on maritime derivatives.",
-        "Severe macroeconomic inflation driven by exchange-rate pass-through in international shipping lanes."
+        "They confirm additional pay zones and resource additions in offshore hydrocarbon plays.",
+        "They guarantee that oil prices will remain above $100 per barrel globally.",
+        "They allow energy companies to avoid paying corporate taxes to the Brazilian government.",
+        "They eliminate all environmental compliance requirements for offshore drilling rigs."
       ],
       "a": 0,
-      "e": "The CEO warned that an oil supply squeeze could worsen because oil refining has been underinvested. Corporate buybacks and inflation pass-through are unrelated operational or regional issues."
+      "e": "Drilling operations at wells such as Morpho confirm secondary hydrocarbon discoveries and add to the active resource base through ongoing appraisal of pay zones. The other options introduce external assumptions not found in the text."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Regulatory enforcement",
-      "q": "Why did the Economic and Financial Crimes Commission prosecute ALSCON and its director?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "How do rising shipping and insurance costs interact with OPEC's demand forecasts?",
       "o": [
-        "On formal charges involving the laundering of 582 million naira, escalating regulatory scrutiny on entities tied to legacy industrial assets.",
-        "For failing to maintain minimum cash reserve requirements during periods of interbank foreign exchange illiquidity.",
-        "For executing unauthorized cross-border share repurchases that distorted domestic equity valuations.",
-        "For breaching international maritime shipping security protocols during OPEC ministerial meetings."
+        "They compound a bearish consumption trajectory characterized by successive downward revisions to global oil demand growth.",
+        "They force OPEC to increase oil production quotas to offset higher transportation expenses.",
+        "They eliminate the need for state-backed companies like Aramco to sign procurement contracts.",
+        "They cause global economic growth to accelerate past 8% annually."
       ],
       "a": 0,
-      "e": "The anti-graft agency brought formal indictments involving the laundering of 582 million naira against ALSCON and its director. Cash reserve rules, share buybacks, and maritime protocols apply to entirely different entities and jurisdictions."
+      "e": "Record energy shipping and insurance costs accompany repeated downward revisions to consumption growth, compounding the bearish trajectory of demand. The other choices describe illogical or contradictory market responses."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Commodities",
-      "q": "How did the Australian energy segment behave while information technology equities faced downward pressure?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What primary factor added downward pressure to the interbank foreign exchange market and the euro-naira rate?",
       "o": [
-        "Energy shares countered the broader market trend by posting gains following subdued Wall Street activity.",
-        "Energy equities suffered sharp drawdowns due to supply-side shocks originating in Eastern Europe.",
-        "Energy producers executed multi-year pump services agreements to capitalize on rising Brent crude valuations.",
-        "Energy sector valuations compressed rapidly as local sovereign debt yields drifted toward 7.4%."
+        "A 78% contraction in interbank foreign exchange volume alongside missing export earnings.",
+        "A massive influx of foreign portfolio investment into local technology startups.",
+        "An unexpected decision by the central bank to peg the naira to the Japanese yen.",
+        "A sudden surge in domestic agricultural exports that strengthened local currency reserves."
       ],
       "a": 0,
-      "e": "Energy shares countered the falling tech trend by posting gains following a slow session on Wall Street. Pump service contracts and bond yield movements belong to Brazil and India respectively."
+      "e": "The naira traded near N1,333 per dollar amid a 78% slump in interbank foreign exchange turnover and constrained export earnings. The other options describe conditions opposite to the reported slumping turnover and missing earnings."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Equities",
+      "q": "What prevented the S&P/ASX 200 index from sustaining its earlier losses during the session?",
+      "o": [
+        "Major bank shares climbed to act as a primary ballast against broad-based selling in technology and mining.",
+        "The central bank intervened by purchasing all available shares in lithium exploration companies.",
+        "Foreign investors launched a coordinated bailout of artificial intelligence startups.",
+        "The government suspended trading in all resource stocks until prices recovered."
+      ],
+      "a": 0,
+      "e": "Despite downward pressure from technology and mining components, financial sector shares climbed to act as a ballast, allowing the index to recover to a flat finish. The other choices involve intervention methods not mentioned in the sources."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Foreign exchange",
+      "q": "Why did traders square their positions in the dollar-yen currency pair in Tokyo trading?",
+      "o": [
+        "Participants awaited upcoming US consumer price index metrics while Treasury yields and the dollar eased.",
+        "The Bank of Japan ordered all commercial banks to close their foreign exchange desks.",
+        "A sudden change in Japanese tax law penalized foreign currency holders.",
+        "The International Monetary Fund banned trading between the dollar and the yen."
+      ],
+      "a": 0,
+      "e": "Traders squared their positions in the dollar-yen spot market as they positioned themselves ahead of crucial US consumer price index data releases. The other options invent regulatory bans not present in the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Macroeconomics",
+      "q": "What does a confirmed German <span class='term' data-t='inflation'>inflation</span> print of 3.3% for September signify for the economy?",
+      "o": [
+        "It marks a near three-year peak for the metric, demonstrating elevated price growth dynamics.",
+        "It indicates that the country has entered a severe period of economic <span class='term' data-t='deflation'>deflation</span>.",
+        "It guarantees that the European Central Bank will dissolve within the month.",
+        "It proves that consumer prices have remained completely stable since the previous decade."
+      ],
+      "a": 0,
+      "e": "The confirmed reading underscores a near three-year high for the index, showing that price growth dynamics remain elevated. The other choices misinterpret the direction of the price metric."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Venture capital",
+      "q": "What do Astribot's successive capital injections and valuation milestones reflect about the domestic humanoid robotics sector?",
+      "o": [
+        "Aggressive venture backing and the pricing of rapid commercialisation milestones into early-stage hardware developers.",
+        "A complete lack of investor interest in hardware manufacturing.",
+        "Mandatory government subsidies that replace private equity funding entirely.",
+        "A shift away from artificial intelligence toward traditional agricultural machinery."
+      ],
+      "a": 0,
+      "e": "Astribot closing multiple funding rounds to reach a 15 billion yuan valuation demonstrates aggressive venture backing and shows that investors are pricing rapid commercialisation milestones into early-stage hardware. The other choices contradict the text's description of rapid sector growth."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Equities",
+      "q": "How did equity markets respond to the International Monetary Fund's upgrade of India's growth forecast?",
+      "o": [
+        "Equity flows intensified as small and mid-cap rallies broadened risk appetite, lifting large caps like HCLTech.",
+        "Investors panicked and withdrew all capital from secondary markets to buy foreign bonds.",
+        "The stock exchange suspended all initial public offerings to cool down valuations.",
+        "Traders shifted all their capital out of equities and into overnight reverse repo auctions."
+      ],
+      "a": 0,
+      "e": "Following the IMF upgrade, equity flows intensified and small and mid-cap rallies broadened risk appetite across initial public offerings and secondary venues, lifting specific large caps. The other options describe market panics not supported by the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Corporate finance",
+      "q": "What does Saudi Steel Pipe's procurement contract with Aramco represent for the manufacturer?",
+      "o": [
+        "A secured SAR 177m award to provide specialized pipe supplies for operational needs.",
+        "A mandate to manage all state-backed oil exploration projects in the region.",
+        "An agreement to take over Aramco's financial shipping operations.",
+        "A penalty for failing to meet international steel production quotas."
+      ],
+      "a": 0,
+      "e": "Saudi Steel Pipe captured a SAR 177m procurement contract covering specialized pipe supply for Aramco's operational needs. The other choices exaggerate the scope of a standard procurement award."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Mining",
+      "q": "Why do exploration companies like Ballard Mining routinely initiate capital raisings following mineral resource upgrades?",
+      "o": [
+        "Expanded resource estimates at projects like Mt Ida provide the metrics needed to secure equity financing for asset advancement.",
+        "Mining regulators require companies to pay a cash fine whenever they discover new minerals.",
+        "Banks refuse to lend money unless the company's stock price drops by a specific percentage.",
+        "Increased resource sizes automatically eliminate all exploration costs."
+      ],
+      "a": 0,
+      "e": "Exploration companies routinely leverage increased resource metrics from projects like Mt Ida to secure equity financing from markets to advance their mining assets. The other choices rely on fictional regulatory rules."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Technology",
-      "q": "Why did the Nasdaq decline to 27,245.90 despite strong performance in other global sectors?",
+      "tag": "United States of America · Equities",
+      "q": "How do rising Treasury yields alter equity valuations for the technology sector according to the text?",
       "o": [
-        "A technological breakthrough by CXMT in China triggered a semiconductor rout that pressured stocks like Micron and AMD.",
-        "An unexpected spike in US corporate goods price inflation forced the Federal Reserve to implement emergency rate hikes.",
-        "Supply chain disruptions in the Hormuz Strait halted all domestic software exports and crushed tech valuations.",
-        "A massive share repurchase program by GigaDevice altered the global float and drained liquidity from US exchanges."
+        "They increase the discount rate applied to future earnings, compressing present values and triggering a reallocation to fixed income.",
+        "They reduce borrowing costs for growth companies, accelerating artificial intelligence capital expenditure across the Nasdaq.",
+        "They cause Dow futures to drop below fifty thousand two hundred as duration risk impacts industrial components.",
+        "They compel the Federal Reserve to implement immediate monetary easing to protect technology shares from duration risk."
       ],
       "a": 0,
-      "e": "The sources explicitly link the Nasdaq decline to a domestic memory-chip breakthrough by China's CXMT, which directly impacted firms like Micron and AMD. The other options involve events in different geographies or sectors that do not explain the US tech sell-off."
+      "e": "Higher sovereign debt returns increase the discount rate applied to distant cash flows, reducing present values. This transmission channel drives a sector rotation away from tech and into fixed income. The alternative choices misstate the direction of borrowing costs or the asset class impacted."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Commodities",
-      "q": "What mechanism drove the 0.2% slip in the Nasdaq during the slow trading session?",
+      "tag": "United States of America · Foreign Exchange",
+      "q": "What market positioning accompanied the dollar-yen pair trading in the lower one hundred fifty-eight range?",
       "o": [
-        "Kinetic strikes in Ukraine created a supply-side shock in crude markets, lifting oil benchmarks by 2% and compressing tech valuations.",
-        "The Reserve Bank of India raised cash reserve requirements, forcing international investors to liquidate US equities for cash.",
-        "OPEC ministers announced a complete halt to maritime shipping through the Hormuz Strait, crashing US energy indices.",
-        "A 78% collapse in interbank foreign exchange turnover restricted liquidity transmission to domestic technology firms."
+        "Participants squared positions in Tokyo trading ahead of upcoming US consumer price index data.",
+        "Traders initiated aggressive carry trades to capture the spread between Tokyo and New York rates.",
+        "Central bank intervention forced foreign exchange turnover to slump by 78% across interbank venues.",
+        "Investors reallocated capital from the greenback into bitcoin following an unexpected IMF rate hike."
       ],
       "a": 0,
-      "e": "The text notes that a supply-side shock from strikes in Ukraine rallied Brent and WTI benchmarks by 2%, which compressed tech valuations while energising energy shares. The other choices misattribute unrelated international interventions to the US tech move."
+      "e": "Spot dollar-yen stalled in the low one hundred fifty-eight bracket as participants squared positions before the US inflation data release. The other options introduce external facts or incorrect mechanisms regarding the currency pair's behavior."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Macroeconomics",
+      "q": "Why does the IMF's upward revision to UK growth forecasts complicate the macroeconomic backdrop for monetary authorities?",
+      "o": [
+        "Simultaneous warnings of accelerated inflation narrow the perceived room for policy easing and challenge terminal rate assumptions.",
+        "Faster economic expansion forces the central bank to intervene directly in commodity markets to control FTSE 100 dividend yields.",
+        "Stronger consumer demand immediately neutralizes domestic price pressures, allowing policymakers to cut rates below 4%.",
+        "Higher domestic output projections force commercial banks to write off debt servicing expenses across all corporate sectors."
+      ],
+      "a": 0,
+      "e": "The IMF projects faster expansion while simultaneously warning households to expect a more pronounced acceleration in inflation. This divergence narrows the perceived room for policy easing. The wrong answers misrepresent the central bank's operational response or assume demand neutralises inflation."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Central Banking",
+      "q": "What underlies Bank of England policymaker Megan Greene's argument for lifting Bank Rate above 4%?",
+      "o": [
+        "Unexpected domestic economic resilience and robust activity indicators threaten to entrench price pressures.",
+        "A 78% contraction in interbank foreign exchange turnover requires an immediate restrictive policy response.",
+        "Downward revisions to global oil demand forecasts necessitate higher domestic borrowing costs to protect sterling.",
+        "Persistent technology sector weakness on the FTSE 100 demands a higher terminal rate to support equity valuations."
+      ],
+      "a": 0,
+      "e": "Megan Greene's hawkish stance rests on observed domestic economic resilience that could entrench price pressures, challenging market pricing for early rate cuts. The other options incorrectly link the argument to foreign exchange turnover or global oil demand."
     },
     {
       "lvl": "a",
       "tag": "United Kingdom · Equities",
-      "q": "How did the FTSE 100 manage a 0.99% advance to close at its session high of 10,656.28?",
+      "q": "What drove the FTSE 100 to outperform regional counterparts during the trading session?",
       "o": [
-        "A broad bank sector rally provided primary momentum, backed by secondary support from Brent crude breaching $106 per barrel.",
-        "The central bank intervened in foreign exchange derivatives, lowering sovereign debt yields and boosting retail equity demand.",
-        "SpaceX launched a mobile push that spurred massive capital inflows into London-listed telecommunications providers.",
-        "The Economic and Financial Crimes Commission dropped pending money laundering charges against major index constituents."
+        "Concentrated strength and raw material appreciation within basic resource and energy complexes.",
+        "A sudden surge in technology sector valuations that offset declines in traditional industrial components.",
+        "Aggressive capital raising by junior mining explorers following resource upgrades at Mt Ida.",
+        "Emergency liquidity operations conducted by the Bank of England to lower corporate debt servicing costs."
       ],
       "a": 0,
-      "e": "The briefing states that the FTSE 100 gained due to strong momentum from a broad bank sector rally alongside secondary support from higher commodity valuations as Brent breached $106. The other options refer to events in Germany, Nigeria, or regulatory actions unrelated to UK banking."
+      "e": "The index's structural heavy weighting toward cyclical commodities insulated it from broader tech sector weakness as raw material valuations rose. The other options incorrectly cite tech rallies or central bank liquidity injections."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Inflation",
+      "q": "What does the September German inflation print of 3.3% signify for the broader macroeconomic context?",
+      "o": [
+        "It marks a near three-year peak for the index, reflecting elevated price growth dynamics as of October 13.",
+        "It prompts the European Central Bank to lower terminal rate assumptions in response to falling corporate debt yields.",
+        "It neutralizes the 8% plunge in Deutsche Telekom shares caused by the SpaceX mobile push.",
+        "It aligns precisely with the IMF's downward revisions to global oil demand forecasts for 2026."
+      ],
+      "a": 0,
+      "e": "The confirmed reading underscores a near three-year high for the inflation metric. The other options introduce unrelated corporate events or incorrect central bank policy responses."
     },
     {
       "lvl": "a",
       "tag": "Germany · Equities",
-      "q": "What insulated the DAX 40 index from broader energy supply concerns following the Hormuz Strait disruptions?",
+      "q": "How did cross-currents impact the DAX 40 index during the session where it advanced to 25,277.68 points?",
       "o": [
-        "Policymakers issued a diesel waiver that neutralized immediate oil price fears, offsetting a nearly 8% drop in Deutsche Telekom.",
-        "Rheinmetall executed a massive share buyback valued at 1.03 billion yuan to stabilise industrial equity valuations.",
-        "Omron acquired OnLogic for $630m, injecting vital liquidity into the German software and defence sectors.",
-        "Goldman Sachs revised its growth forecast for the eurozone, causing the regional currency to appreciate past the upper 158 range."
+        "A defense sector rally led by Rheinmetall propelled the index upward despite Deutsche Telekom tumbling nearly 8%.",
+        "Record energy shipping costs drove a heavy selloff in basic resource equities that was offset by Telekom gains.",
+        "Rising US Treasury yields compressed valuation multiples across all DAX constituents simultaneously.",
+        "An unexpected interest rate hike by the European Central Bank caused a broad-based market correction."
       ],
       "a": 0,
-      "e": "The text highlights that index resilience persisted because policymakers issued a diesel waiver which neutralised immediate oil price fears from Hormuz Strait disruptions, despite Deutsche Telekom dropping nearly 8%. The other options cite unrelated corporate acquisitions or currency moves."
+      "e": "The DAX advanced, propelled by a defense rally led by Rheinmetall, even as equities faced cross-currents from Deutsche Telekom tumbling nearly 8% on a SpaceX mobile push. The alternative answers misstate the drivers of the index movement."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Technology",
-      "q": "Why did Deutsche Telekom shares suffer a nearly 8% drawdown while the broader DAX index maintained upward momentum?",
+      "tag": "Japan · Equities",
+      "q": "What was the primary driver behind the Nikkei Stock Average dropping 1,253 yen?",
       "o": [
-        "Competitive pressures from a SpaceX mobile push weighed on the stock while a diesel waiver eased broader oil price fears.",
-        "An unexpected rise in domestic corporate goods prices compressed profit margins across the telecommunications sector.",
-        "The firm failed to secure a four-year pump services contract during the ROG.e 2026 conference.",
-        "Regulatory authorities in the US tightened cash reserve requirements on non-deliverable forward contracts."
+        "A broad semiconductor selloff and an artificial intelligence stock tumble, led by a 13% plunge in Kioxia shares.",
+        "Tight trading ranges in the dollar-yen currency pair ahead of the US consumer price index release.",
+        "An unexpected monetary tightening announcement by the Bank of Japan following IMF commentary.",
+        "A 78% collapse in interbank turnover that restricted liquidity for technology manufacturers."
       ],
       "a": 0,
-      "e": "The briefing directly attributes the drop in Deutsche Telekom to competitive pressures from a SpaceX mobile push, while index resilience was maintained due to a diesel waiver easing oil fears. The other distractors mix up unrelated corporate or macroeconomic events."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Foreign Exchange",
-      "q": "Why did the Japanese yen depreciate against the dollar during the Tokyo holiday session?",
-      "o": [
-        "Thin liquidity conditions during the Sports Day observance left the dollar-yen pair confined to the upper 158 range despite a static Nikkei 225.",
-        "The Bank of Japan unexpectedly widened its cash reserve requirement to throttle offshore speculative channels.",
-        "A 24.5% year-on-year surge in the import price index forced the central bank to intervene directly in the spot market.",
-        "Omron announced a $630m cross-border acquisition that triggered massive capital outflows from domestic currency accounts."
-      ],
-      "a": 0,
-      "e": "The text notes that the yen depreciated within thin liquidity conditions during the Tokyo holiday observance, keeping the pair in the upper 158 range. The other options describe separate monetary policies or corporate transactions not tied to the holiday FX dynamic."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Commodities",
-      "q": "What drove the unexpected easing in Japan's corporate goods price index in September despite rising import costs?",
-      "o": [
-        "Descending oil prices and currency dynamics offset a 24.5% year-on-year increase in the yen-denominated import price index.",
-        "A sharp decline in interbank foreign exchange turnover reduced institutional liquidity and lowered domestic consumer prices.",
-        "The government issued an emergency diesel waiver that capped energy costs for manufacturing conglomerates.",
-        "GigaDevice executed a large equity buyback that altered the domestic capital structure and suppressed input costs."
-      ],
-      "a": 0,
-      "e": "The briefing explains that the corporate goods price index decelerated due to descending oil prices and currency dynamics, even as the import index climbed by 24.5% year-on-year for its tenth consecutive monthly increase. The other choices invent mechanisms not present in the Japanese data."
+      "e": "Semiconductor equities acted as the primary drag on the benchmark following an AI-related stock tumble, with Kioxia underperforming severely. The other choices reference currency ranges or monetary policy actions not cited as the cause of the stock drop."
     },
     {
       "lvl": "a",
       "tag": "China · Corporate Finance",
-      "q": "What was the purpose of GigaDevice Semiconductor's open-market transaction valued at 1.03 billion yuan?",
+      "q": "What is Tencent's primary financial objective regarding its dual-currency debt package exceeding $4.5bn?",
       "o": [
-        "Management deployed capital to execute a share repurchase program that altered the firm's capital structure and reduced outstanding equity.",
-        "The corporation acquired United States-based OnLogic to expand its physical artificial intelligence footprint.",
-        "Analysts at Goldman Sachs funded the open-market acquisition to generate further room for yuan appreciation.",
-        "Management secured a four-year pump services contract for floating production storage and offloading vessels."
+        "To deploy the proceeds directly into artificial intelligence capital expenditure for high-performance computing.",
+        "To finance a fourth consecutive funding round for humanoid robotics developer Astribot.",
+        "To offset the downward pressure on foreign exchange turnover caused by missing export earnings.",
+        "To fund the acquisition of basic resource assets to hedge against rising oil shipping costs."
       ],
       "a": 0,
-      "e": "The sources state that GigaDevice executed a share repurchase program to alter its capital structure and reduce outstanding equity. The other options attribute this Chinese corporate buyback to US acquisitions, currency speculation, or offshore oil services."
+      "e": "Tencent structures its debt package to deploy proceeds into artificial intelligence capital expenditure, reflecting prolonged infrastructure buildout. The incorrect options confuse Tencent's debt issuance with robotics funding or foreign exchange dynamics."
     },
     {
       "lvl": "a",
-      "tag": "China · Foreign Exchange",
-      "q": "Why did Goldman Sachs argue that market participants are mispricing the yuan?",
+      "tag": "China · Venture Capital",
+      "q": "What market behavior is demonstrated by Astribot closing its fourth funding round in six months at a valuation of 15 billion yuan?",
       "o": [
-        "Analysts project further appreciation headroom for the currency, indicating that markets are underestimating how far it can strengthen.",
-        "The People's Bank of China widened its cash reserve requirement to 20.0%, creating an artificial squeeze on offshore dollar demand.",
-        "A memory-chip breakthrough by CXMT triggered a massive capital inflow that permanently revalued domestic equity floats.",
-        "Interbank FX turnover collapsed by 78%, forcing institutional investors to reallocate capital into onshore renminbi assets."
+        "Aggressive venture backing inside the domestic humanoid robotics vertical as investors price in rapid commercialisation milestones.",
+        "Desperate liquidity management by hardware developers struggling with high-performance computing debt obligations.",
+        "A broad reallocation of capital away from technology sectors and into sovereign fixed-income instruments.",
+        "Direct central bank intervention to stabilise cross-border liquidity conditions for onshore technology firms."
       ],
       "a": 0,
-      "e": "The briefing notes that Goldman Sachs argued participants misprice the yuan's potential trajectory because the currency retains room to strengthen further. The other choices wrongly link the FX outlook to RBI rules, tech breakthroughs, or Nigerian liquidity collapses."
+      "e": "The successive capital injections demonstrate aggressive venture backing inside the domestic humanoid robotics vertical, with investors pricing in rapid commercialisation milestones. The alternative explanations contradict the text's description of brisk fundraising."
     },
     {
       "lvl": "a",
       "tag": "India · Monetary Policy",
-      "q": "How did the Reserve Bank of India successfully catalyse a 1.0% spot appreciation in the rupee?",
+      "q": "How did the Reserve Bank of India's liquidity operations interact with foreign exchange curbs during the session?",
       "o": [
-        "It tightened rules on rupee non-deliverable forwards and widened the cash reserve requirement to throttle offshore speculative channels and onshore refiner dollar demand.",
-        "It lowered domestic sovereign debt yields from their 7.4% peak, encouraging foreign institutional investors to buy local sovereign bonds.",
-        "It injected 1.03 billion yuan into open-market acquisitions to alter the domestic capital structure and reduce outstanding currency float.",
-        "It issued an emergency diesel waiver that neutralized oil price shocks stemming from Middle Eastern conflicts."
+        "The absorption of 71,580 crore rupees via a reverse repo auction coincided with tightened restrictions that drove the rupee up by 177 paise.",
+        "An overnight variable rate reverse repo auction caused interbank turnover to slump by 78%, weakening the rupee.",
+        "Tightened foreign exchange restrictions forced the central bank to lower the weighted average rate on reverse repos to 4%.",
+        "The central bank injected liquidity to offset the small and mid-cap equity rally triggered by the IMF forecast upgrade."
       ],
       "a": 0,
-      "e": "The text states that the RBI deployed an intervention package targeting non-deliverable forwards and widening the cash reserve requirement to squeeze FX derivatives and curb onshore dollar demand, yielding a 1.0% appreciation. The other options mention bond yields, Chinese buybacks, or German diesel waivers."
+      "e": "The RBI absorbed 71,580 crore rupees via the overnight variable rate reverse repo auction at 5.49%, while tightened foreign exchange restrictions catalyzed a short-term squeeze driving the rupee up. The other options misstate the direction of the currency or the nature of the auction."
     },
     {
       "lvl": "a",
-      "tag": "India · Fixed Income",
-      "q": "What macroeconomic condition accompanied the BSE SENSEX shedding 548 points during volatile trade?",
+      "tag": "India · Macroeconomics",
+      "q": "What market reaction followed the IMF's upward revision of India's fiscal year 2027 GDP growth forecast to 7%?",
       "o": [
-        "Sovereign debt yields hovered near 7.4%, registering their highest levels since March 2023 amid energy-driven input cost pressures.",
-        "Interbank foreign exchange turnover collapsed by 78% due to severe inflation pressures and liquidity constraints.",
-        "Brent crude fell below $106 per barrel, triggering a broad sell-off across domestic financial institutions.",
-        "The local currency depreciated by 1.0% following unexpected upward revisions to import price indices."
+        "Equity flows intensified as small and mid-cap rallies broadened risk appetite across initial public offerings and secondary venues.",
+        "Foreign exchange reserves plummeted, forcing the Reserve Bank of India to widen its currency curbs.",
+        "HCLTech shares plunged due to rising borrowing costs and increased discount rates on future earnings.",
+        "Fixed-income investors reallocated capital away from equities into overnight variable rate reverse repos."
       ],
       "a": 0,
-      "e": "The briefing reports that alongside the SENSEX drop from energy shocks, sovereign debt yields hovered near 7.4%, marking the highest level since March 2023. The other options incorrectly cite Nigerian FX turnovers, falling oil prices, or minor currency changes."
+      "e": "Equity flows intensified as small and mid-cap rallies broadened risk appetite across IPOs and secondary venues, lifting large caps like HCLTech. The alternative answers incorrectly suggest negative equity impacts or currency collapses."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Equities",
-      "q": "What drove Petrobras common stock to print a new fifty-two-week high of $22.62 per share?",
+      "tag": "Brazil · Corporate Actions",
+      "q": "What operational and market milestones did Petrobras achieve concurrently?",
       "o": [
-        "Sustained buy-side demand matched corporate operational milestones, such as securing a four-year FPSO pump services agreement at ROG.e 2026.",
-        "The central bank widened its cash reserve requirement to 20.0%, forcing domestic refiners to liquidate dollar-denominated assets.",
-        "Saudi Aramco explored new export routes that temporarily lowered shipping and insurance costs for offshore energy producers.",
-        "An unexpected memory-chip breakthrough in domestic markets boosted institutional liquidity across all industrial equities."
+        "Finalising a four-year pump maintenance agreement with Framo while its equity printed a fresh 52-week high at $22.62.",
+        "Discovering a secondary hydrocarbon reserve off the Amapá coast while issuing $4.5bn in dollar-denominated debt.",
+        "Securing a procurement contract from Aramco while floating production storage units traded at EUR 22.75.",
+        "Increasing index weighting on the Australian Securities Exchange following an appraisal drilling program."
       ],
       "a": 0,
-      "e": "The sources connect the equity appreciation to sustained buy-side demand matching corporate operational milestones, including capturing the Framo FPSO pump services contract at ROG.e 2026. The other options invent unrelated regulatory or regional market events."
+      "e": "Petrobras finalized a four-year vendor pact with Framo for pump maintenance while the equity printed $22.62 to establish a fresh 52-week high. The wrong options mix up Petrobras with other companies like Aramco or Ballard Mining."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "Why did Saudi Aramco's chief executive warn that an oil supply squeeze could worsen?",
+      "tag": "Saudi Arabia · Energy Markets",
+      "q": "Why has OPEC's downward revision of its 2026 global oil demand growth forecast created challenges for countries like Nigeria?",
       "o": [
-        "Hormuz Strait disruptions persist while oil refining has been underinvested, prompting the firm to explore new export routes.",
-        "Interbank FX turnover collapsed by 78%, restricting the capital required to maintain offshore drilling infrastructure.",
-        "OPEC ministers voted to lower insurance costs for international maritime routes despite ongoing conflicts in Eastern Europe.",
-        "A 24.5% year-on-year surge in import price indices made domestic extraction equipment prohibitively expensive."
+        "It amplifies fiscal vulnerability by threatening petrodollar inflows and sovereign budget assumptions alongside record shipping costs.",
+        "It forces state-backed companies like Aramco to cancel specialized procurement contracts for steel pipes.",
+        "It triggers an immediate central bank rate hike to counteract soaring inflation in emerging economies.",
+        "It reduces the terminal rate assumptions used by international financial institutions to project 2027 GDP growth."
       ],
       "a": 0,
-      "e": "The briefing notes that the CEO warned the squeeze could worsen as Hormuz disruption persists and oil refining remains underinvested, leading Aramco to explore new export routes. The other distractors refer to FX turnover, OPEC shipping votes, or Japanese import metrics."
+      "e": "OPEC's downward revision amplifies fiscal vulnerability in Nigeria, as lower expected consumption threatens petrodollar inflows and sovereign budget assumptions. The alternative choices incorrectly attribute domestic fiscal risks to Aramco contract cancellations or central bank rate hikes."
     },
     {
       "lvl": "a",
       "tag": "Nigeria · Foreign Exchange",
-      "q": "What underlying market condition accompanied the 78% collapse in Nigerian interbank FX turnover?",
+      "q": "What market conditions coincided with the Nigerian naira printing near N1,333 per dollar?",
       "o": [
-        "A severe drying up of institutional liquidity in the official window exacerbated exchange-rate pass-through to domestic consumer prices.",
-        "The central bank tightened rules on non-deliverable forward contracts to throttle offshore speculative channels.",
-        "Cryptocurrency market interventions by the Economic and Financial Crimes Commission froze corporate bank accounts.",
-        "A technological breakthrough by domestic competitors rendered legacy industrial assets obsolete."
+        "A 78% contraction in interbank foreign exchange volume and constrained export earnings.",
+        "An upward revision of the nation's GDP growth forecast by the International Monetary Fund.",
+        "An overnight variable rate reverse repo auction conducted by the central bank at 5.49%.",
+        "A massive influx of petrodollar revenues resulting from record global oil demand growth."
       ],
       "a": 0,
-      "e": "The text states that the naira weakened alongside a 78% collapse in interbank FX turnover due to a severe drying up of institutional liquidity that exacerbated price pass-through. The other options refer to RBI rules in India or anti-graft asset charges in Nigeria."
+      "e": "The naira traded near N1,333 alongside a 78% contraction in interbank foreign exchange volume and constrained export earnings leaving the exchange rate range-bound. The other options contradict the facts in the text regarding export earnings and central bank auctions."
     },
     {
       "lvl": "a",
       "tag": "Australia · Equities",
-      "q": "How did the Australian benchmark index react to the subdued activity observed on Wall Street?",
+      "q": "How did the S&P/ASX 200 index achieve a flat finish of 0.01% despite earlier intraday declines?",
       "o": [
-        "Information technology equities faced downward pressure while the energy segment registered counterbalancing advances.",
-        "Local sovereign debt yields drifted toward 7.4%, touching their highest level since March 2023.",
-        "The Australian dollar depreciated as interbank foreign exchange turnover slumped by 78%.",
-        "Policymakers issued an emergency diesel waiver to neutralize energy supply concerns across the mining sector."
+        "Major bank shares climbed to act as the primary ballast against broad-based selling in technology and mining components.",
+        "Glencore joined the exchange, instantly boosting market capitalization to offset the Kioxia semiconductor selloff.",
+        "Ballard Mining initiated a capital raising that injected fresh equity liquidity into the resources sector.",
+        "The Reserve Bank of India intervened with overnight reverse repos to stabilise regional equity flows."
       ],
       "a": 0,
-      "e": "The sources report that the Australian benchmark drifted lower as tech equities faced downward pressure and the energy segment registered advances. The other choices wrongly apply Indian bond yields, Nigerian FX metrics, or German diesel waivers to the Australian market."
+      "e": "Financials acted as the primary ballast against broad-based selling driven by technology and mining components, enabling the index to recover to a flat finish. The incorrect choices cite corporate listings or foreign central bank interventions."
     },
     {
       "lvl": "a",
-      "tag": "Global · Commodities",
-      "q": "What primary operational challenge did OPEC and non-OPEC ministers address during their Riyadh meeting?",
+      "tag": "Australia · Mining",
+      "q": "Why did Ballard Mining initiate a capital raising following activities at Mt Ida?",
       "o": [
-        "Surging shipping and insurance costs for energy flows underscored the critical importance of safeguarding international maritime routes.",
-        "Underinvestment in global oil refining capacity forced state energy firms to halt all maritime export routes permanently.",
-        "A 78% collapse in interbank foreign exchange liquidity threatened the financing of offshore floating production storage vessels.",
-        "Persistent deflationary pressures across major manufacturing economies reduced global demand for crude oil benchmarks."
+        "Exploration companies routinely leverage expanded mineral resource estimates to secure equity financing for their assets.",
+        "The inclusion of dual-listed resource groups on the Australian Securities Exchange forced junior explorers to raise cash.",
+        "Record energy shipping and insurance costs made it impossible to fund operations through cash flow.",
+        "An upgrade to global oil demand forecasts by OPEC increased the cost of deepwater appraisal drilling."
       ],
       "a": 0,
-      "e": "The briefing states that ministers meeting in Riyadh stressed safeguarding maritime routes because shipping and insurance costs for energy flows surged. The other options cite refinery shutdowns, FX liquidity, or deflation, none of which appear in the OPEC meeting context."
+      "e": "Ballard Mining initiated a capital raising following a resource upgrade at Mt Ida, as exploration companies routinely leverage increased resource metrics to secure equity financing. The alternative options incorrectly tie the fundraising to exchange listings or shipping costs."
     },
     {
       "lvl": "a",
-      "tag": "China · Technology",
-      "q": "What specific corporate event precipitated the memory-chip rout affecting Micron and AMD?",
+      "tag": "Saudi Arabia · Macroeconomics",
+      "q": "What does the IMF's projection of 7.9% real GDP growth for Saudi Arabia in 2027 underline?",
       "o": [
-        "CXMT achieved a technological breakthrough in the domestic semiconductor space that forced market participants to reprice competitive risks.",
-        "GigaDevice executed a 1.03 billion yuan share repurchase program that choked off venture capital funding for foreign chipmakers.",
-        "Omron acquired United States-based OnLogic to monopolize physical artificial intelligence hardware manufacturing.",
-        "Goldman Sachs downgraded the sector outlook after forecasting further appreciation headroom for the yuan."
+        "Anticipated non-oil sector momentum and fiscal targets that place the kingdom among faster-growing emerging economies.",
+        "The immediate impact of the SAR 177m procurement contract awarded to Saudi Steel Pipe by Aramco.",
+        "A recovery from the fifth consecutive downgrade to global oil demand forecasts issued by OPEC.",
+        "An aggressive venture backing cycle inside the domestic humanoid robotics vertical."
       ],
       "a": 0,
-      "e": "The sources explicitly state that the memory-chip sell-off affecting Micron and AMD followed a domestic semiconductor breakthrough by China's CXMT. The other choices incorrectly assign the tech rout to buybacks, corporate acquisitions, or currency forecasts."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Corporate Activity",
-      "q": "What strategic objective motivated Omron to reach a $630m acquisition agreement for OnLogic?",
-      "o": [
-        "The transaction executes a corporate expansion strategy targeting physical artificial intelligence applications.",
-        "The firm sought to bypass surging import costs driven by a 24.5% year-on-year increase in yen-denominated indices.",
-        "Management aimed to restructure its capital float by deploying excess liquidity into US-based equity buybacks.",
-        "The company needed to secure exclusive four-year pump services contracts for offshore production infrastructure."
-      ],
-      "a": 0,
-      "e": "The briefing notes that Omron's purchase of OnLogic for $630m executes a corporate expansion strategy targeting physical artificial intelligence applications. The other choices involve import price indices, share buybacks, or oil pump maintenance contracts."
+      "e": "The IMF projection underscores anticipated non-oil sector momentum and fiscal targets, placing the kingdom among faster-growing emerging economies. The wrong options link the macro projection to specific pipe contracts or robotics funding."
     }
   ]
 }
