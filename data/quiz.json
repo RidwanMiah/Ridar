@@ -1,668 +1,707 @@
 {
-  "generated": "2026-11-01T01:07:20.012Z",
+  "generated": "2026-11-01T07:31:02.480Z",
   "questions": [
     {
       "lvl": "b",
       "tag": "United States of America · Equities",
-      "q": "What event contributed to portfolio adjustments and a breach of technical support in the S&P 500?",
+      "q": "What happened to the Nasdaq over the 3-session trading sequence mentioned in the text?",
       "o": [
-        "Anthropic's public listing on the Nasdaq under the ticker ANT",
-        "An unexpected interest rate cut by the Federal Reserve",
-        "A sudden collapse in ten-year Treasury bond yields below 2%",
-        "The mass liquidation of all major retail banking shares"
+        "It fell nearly 8% amidst AI financing and midterm concerns.",
+        "It rose by 8% due to strong tech earnings.",
+        "It remained completely flat despite market volatility.",
+        "It gained support from a surge in French bond prices."
       ],
       "a": 0,
-      "e": "Anthropic's public listing on the Nasdaq under the ticker ANT catalysed a reallocation across tech-heavy indices, contributing to the S&P 500 breaching technical support. An interest rate cut is incorrect because the Federal Reserve actually maintained its benchmark interest rate."
+      "e": "The text explicitly states that the Nasdaq fell nearly 8% across 3 straight trading sessions due to AI financing worries and upcoming midterms. The other options contradict these specific downside figures and drivers."
     },
     {
       "lvl": "b",
       "tag": "United States of America · Fixed income",
-      "q": "Why did the 10-year Treasury yield climb above 5%?",
+      "q": "How did US Treasury yields respond to the heavy sell-off in domestic equities?",
       "o": [
-        "Robust economic growth prints and sticky price pressures alongside a Federal Reserve rate hold",
-        "A complete cessation of all corporate bond issuance across domestic markets",
-        "Mandatory government targets forcing commercial banks to buy sovereign debt",
-        "An emergency bailout of the technology sector funded by Treasury bills"
+        "They finished little changed despite the equity sell-off.",
+        "They dropped sharply as investors fled to safe assets.",
+        "They surged by 8% alongside the Nasdaq index.",
+        "They closed higher to match French bond returns."
       ],
       "a": 0,
-      "e": "The 10-year Treasury yield surpassed 5% driven by robust economic growth prints and sticky price pressures while the Federal Reserve held its policy rate steady. A complete cessation of bond issuance is false because borrowing and issuance continued."
+      "e": "The text notes that Treasury yields finished little changed despite the heavy sell-off in domestic equities. A flight to safety did not occur, making the sharp drop answer incorrect."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Equities",
-      "q": "What drove the FTSE 100 index to 10,729.78 points?",
+      "q": "What drove the FTSE 100 index to climb to 10,729.78?",
       "o": [
-        "Strong upward price action in AstraZeneca and BT offsetting weakness in NatWest shares",
-        "Emergency fiscal stimulus packages deployed directly into retail banking stocks",
-        "A sudden legislative ban on short-selling across all primary market indices",
-        "Massive foreign acquisitions of every utility firm listed in London"
+        "Gains in AstraZeneca and BT offset a slump in NatWest shares.",
+        "An unexpected interest rate cut by the Bank of England.",
+        "A massive influx of US Treasury bond investments.",
+        "Record gross domestic product growth in Kunshan."
       ],
       "a": 0,
-      "e": "Strong upward price action in AstraZeneca and BT offset weakness in NatWest to drive the FTSE 100 index higher to 10,729.78. Emergency fiscal stimulus is wrong because the text only cites corporate gains and losses among specific named firms."
+      "e": "The text explains that individual equity movements dictated the index direction, specifically noting that gains in AstraZeneca and BT offset a slump in NatWest shares. The other choices involve events from different regions or altogether unrelated factors."
     },
     {
       "lvl": "b",
       "tag": "Germany · Exchanges",
       "q": "Why did Deutsche Borse shares advance following its operational update?",
       "o": [
-        "The expansion of around-the-clock DAX trading increased market liquidity capture",
-        "The exchange operator acquired its main European rival in a hostile takeover",
-        "Regulators permanently exempted the firm from all corporate tax liabilities",
-        "Trading volumes dropped to zero, eliminating operational overhead costs"
+        "It expanded around-the-clock DAX trading, supporting revenues.",
+        "It acquired a 49% stake in an artificial intelligence firm.",
+        "It discovered new oil off the coast of Amapa.",
+        "It secured 30m dollars for solar and agricultural projects."
       ],
       "a": 0,
-      "e": "Deutsche Borse equity appreciated as continuous index access increased market liquidity capture and expanded trading hours. Tax exemptions and hostile takeovers are not mentioned in the source texts."
+      "e": "Deutsche Borse shares advanced because it expanded around-the-clock DAX trading, which broadens participation and supports revenues. Acquiring AI stakes or finding oil are business activities belonging to other companies mentioned in the text."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Fixed income",
-      "q": "What primary factor drove yen-denominated debt issuance to a record $16bn?",
+      "tag": "Japan · Central bank",
+      "q": "What did the Bank of Japan declare for the first time in 14.5 years on 1 November 2026?",
       "o": [
-        "The artificial intelligence capital expenditure expanding domestically",
-        "A government decree ordering all citizens to purchase corporate bonds",
-        "The complete abolition of interest rates by the central bank",
-        "Foreign governments borrowing yen to fund domestic infrastructure projects"
+        "That inflation was entrenched, paving the way for a December rate hike.",
+        "That industrial output and retail sales had reached record highs.",
+        "That the Nikkei 225 had fallen due to soft economic data.",
+        "That the official naira exchange rate was pegged to the yen."
       ],
       "a": 0,
-      "e": "Yen-denominated debt issuance hit a record $16bn as artificial intelligence capital expenditure expanded domestically. Government decrees and zero interest rates are not supported by the text."
+      "e": "The text records that the Bank of Japan declared inflation entrenched for the first time in 14.5 years, pivoting toward a December rate hike. Economic data actually contracted rather than reaching record highs."
     },
     {
       "lvl": "b",
-      "tag": "China · Equities",
-      "q": "What was the combined net profit recorded by the 2,904 listed firms on the Shenzhen Stock Exchange for the third quarter?",
+      "tag": "Japan · Equities",
+      "q": "Why did the Nikkei 225 retreat on 1 November 2026?",
       "o": [
-        "1.08 trillion yuan",
-        "75.156 billion yuan",
-        "550 yuan per gram",
-        "$16bn"
+        "Industrial output and retail sales slowed across Japan.",
+        "Aramco announced a drone interception near its oilfields.",
+        "The Reserve Bank of Australia raised interest rates.",
+        "Gold prices dropped beneath $3,900 per ounce."
       ],
       "a": 0,
-      "e": "A total of 2,904 companies recorded a combined net profit of 1.08 trillion yuan for the third quarter. The 75.156 billion yuan figure belongs to GAC Group's revenue."
+      "e": "The Nikkei 225 declined because industrial output and retail sales contracted in Japan. The other events occurred in different countries or markets entirely."
     },
     {
       "lvl": "b",
-      "tag": "China · Corporate results",
-      "q": "What drove GAC Group's 12.29% top-line increase across the first three quarters?",
+      "tag": "China · Earnings",
+      "q": "What financial results did Seres report for the third quarter?",
       "o": [
-        "The performance of its proprietary brands and export volumes",
-        "A massive government subsidy given exclusively to electric vehicle makers",
-        "The acquisition of Kweichow Moutai's beverage distribution network",
-        "A sharp international spike in retail gold and jewelry prices"
+        "A paper profit of 1.42 billion yuan and an adjusted loss of 1.37 billion yuan.",
+        "A gross domestic product expansion rate of 5.8% across the country.",
+        "A drop in international gold prices beneath $3,900.",
+        "A reduction in Chinese jewelry prices by nearly 550 yuan per gram."
       ],
       "a": 0,
-      "e": "GAC Group's top-line increase stemmed from the performance of its proprietary brands and export volumes. Government subsidies and the acquisition of a beverage producer are not mentioned."
+      "e": "Seres posted a paper profit of 1.42 billion yuan and an adjusted loss of 1.37 billion yuan in the third quarter. The 5.8% figure belongs to Kunshan's gross domestic product growth."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Regional economics",
+      "q": "What growth rate did Kunshan register across the first three quarters of the year?",
+      "o": [
+        "A gross domestic product growth rate of 5.8%.",
+        "An equity market surge of over 20%.",
+        "An expansion in trading hours of around-the-clock DAX access.",
+        "A decrease in gold prices of nearly 550 yuan per gram."
+      ],
+      "a": 0,
+      "e": "Kunshan expanded its gross domestic product by 5.8% in the first three quarters. The 20% surge applies to specific Indian equities, making that option wrong."
     },
     {
       "lvl": "b",
       "tag": "China · Commodities",
-      "q": "How did Chinese retail jewelry prices respond to international spot gold prices slipping below $3,900?",
+      "q": "What happened to the international gold price according to the text?",
       "o": [
-        "Domestic Chinese jewelry retail prices pulled back by nearly 550 yuan per gram across the year",
-        "Local retailers increased physical gold prices to offset international losses",
-        "The government imposed price controls that fixed gold at historical highs",
-        "Domestic jewelry trading was suspended entirely due to excessive volatility"
+        "It dropped beneath $3,900.",
+        "It rose above $12 million per barrel.",
+        "It matched the official naira exchange rate.",
+        "It held steady at 1,346 per dollar."
       ],
       "a": 0,
-      "e": "Domestic Chinese jewelry retail prices pulled back by nearly 550 yuan per gram across the year, mirroring the broader downward movement in international bullion benchmarks. Price controls and trading suspensions do not appear in the sources."
+      "e": "The text notes that the international gold price slipped below $3,900. The other options mix up completely unrelated units of measurement and currency types."
     },
     {
       "lvl": "b",
       "tag": "India · Equities",
-      "q": "What market dynamics drove the Nifty and Sensex indexes to gain nearly 2%?",
+      "q": "What supported the Sensex and Nifty to advance up to 2% over the past week?",
       "o": [
-        "Foreign institutional investor inflows and falling bond yields",
-        "A sudden collapse in international crude oil prices to zero",
-        "Mandatory superannuation fund allocations into domestic technology stocks",
-        "The complete elimination of all import tariffs on foreign goods"
+        "Foreign institutional investor inflows and easing bond yields.",
+        "A massive drone interception near the Shaybah oilfield.",
+        "The expansion of continuous access trading on the exchange.",
+        "A sudden drop in international oil prices and currency stability."
       ],
       "a": 0,
-      "e": "The Nifty and Sensex gained nearly 2% driven by foreign institutional investor inflows and falling bond yields. A collapse in oil prices is false because persistent headwinds from crude prices remained a concern."
+      "e": "Domestic benchmarks were catalysed by foreign institutional inflows and a compression in sovereign yields. Oil prices actually spiked rather than dropped, creating currency pressures for the rupee."
     },
     {
       "lvl": "b",
-      "tag": "India · Currencies",
-      "q": "What macroeconomic factors structurally challenge the valuation of the rupee?",
+      "tag": "India · Currency",
+      "q": "Why did the Reserve Bank of India face acute pressure regarding the rupee?",
       "o": [
-        "Expansionary import trends combined with elevated energy import bills",
-        "A complete lack of foreign institutional investors in local markets",
-        "Strict government limits on domestic capital expenditure by banks",
-        "Excessive downward pressure caused by declining sovereign bond yields"
+        "A sharp spike in oil prices coincided with downward momentum in the currency.",
+        "Foreign investors withdrew all their holdings from the Nifty 50 index.",
+        "Sterling Bank secured 30 million dollars for agricultural projects.",
+        "Kunshan expanded its gross domestic product by 5.8%."
       ],
       "a": 0,
-      "e": "Higher import bills and expansionary import trends widen the trade deficit, exerting depreciation pressure on the local currency. Falling bond yields actually supported equities rather than challenging the currency directly in this context."
+      "e": "The Reserve Bank of India faced pressure because a sharp spike in oil prices compounded monetary tightening concerns and weighed on the rupee. The Kunshan and Sterling Bank facts are correct statements from elsewhere, but do not explain the RBI's currency pressures."
     },
     {
       "lvl": "b",
       "tag": "Brazil · Commodities",
-      "q": "What operational milestone did Petrobras achieve in the Amapá block?",
+      "q": "What discovery did Petrobras log off the coast of Amapa?",
       "o": [
-        "It finalized drilling operations at the Morpho well, confirming its third hydrocarbon discovery",
-        "It sold its entire upstream portfolio to Wall Street Zen analysts",
-        "It discovered a massive lithium deposit intended for electric vehicle batteries",
-        "It successfully completed the privatization of its domestic retail network"
+        "A fresh hydrocarbon discovery, reported as new oil.",
+        "A major gold deposit worth $2.6bn.",
+        "A large solar and agricultural project for green transition.",
+        "A secure drone interception site near its headquarters."
       ],
       "a": 0,
-      "e": "Petrobras recorded its third oil discovery in the Amapá block following the conclusion of drilling at the Morpho location. Lithium and privatization are not mentioned in the briefing."
+      "e": "Petrobras discovered new oil off the coast of Amapa, logging a fresh hydrocarbon find. The solar projects belong to Nigeria, and the $2.6bn figure belongs to Aramco's acquisition."
     },
     {
       "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What production capacity did Aramco executives report they can make available within days?",
+      "tag": "Saudi Arabia · Corporate actions",
+      "q": "What transaction did Aramco execute involving artificial intelligence firm Humain?",
       "o": [
-        "12 million barrels per day",
-        "1 billion barrels total",
-        "48 inches of pipeline capacity",
-        "5.9% to 6.8% of global supply"
+        "Acquired a 49% equity interest for $2.6bn alongside PIF.",
+        "Partnered with Evercore to restructure its gas unit.",
+        "Increased its oil output capacity to 12 million barrels per day.",
+        "Intercepted a drone near the Shaybah oilfield."
       ],
       "a": 0,
-      "e": "Aramco executives reported that the company can make 12 million barrels per day available within days. The 1 billion figure refers to lost barrels warned by the CEO."
+      "e": "Aramco finalized the acquisition of a 49% equity interest in Humain for $2.6bn with PIF. Evercore was engaged for the gas division, not the AI firm purchase."
     },
     {
       "lvl": "b",
       "tag": "Saudi Arabia · Commodities",
-      "q": "How did Saudi Aramco adjust its official LPG prices?",
+      "q": "What did OPEC+ agree regarding December oil output targets?",
       "o": [
-        "Raised them by 5.9% to 6.8%",
-        "Cut them by 12.29%",
-        "Fixed them permanently at $3,900 per barrel",
-        "Reduced them in line with falling gold bullion benchmarks"
+        "To keep December oil output targets unchanged.",
+        "To cut production to raise international gold prices.",
+        "To increase global output to 12 million barrels per day immediately.",
+        "To transfer management of the Shaybah oilfield to Evercore."
       ],
       "a": 0,
-      "e": "Saudi Aramco raised official inflation-linked LPG prices by 5.9% to 6.8%. Price cuts or gold linkages are completely incorrect based on the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What was the stance of OPEC and OPEC+ regarding oil output targets?",
-      "o": [
-        "OPEC+ agreed in principle to keep oil output targets steady in December",
-        "OPEC+ voted to slash production by half to combat falling oil prices",
-        "OPEC disbanded after concluding that peak oil demand had arrived",
-        "OPEC transferred all Saudi export quotas to Pakistan's new oil hub"
-      ],
-      "a": 0,
-      "e": "OPEC+ agreed in principle to keep oil output targets steady in December, and OPEC sees no peak oil demand. Disbanding or slashing production by half contradicts the sources."
+      "e": "OPEC+ settled on maintaining December oil output targets without changes. The 12 million barrels figure refers to Aramco's operational capacity, not an OPEC+ output quota change."
     },
     {
       "lvl": "b",
       "tag": "Nigeria · Banking",
-      "q": "What was the purpose of the $30m facility provided by Proparco to Sterling Bank?",
+      "q": "What is the purpose of the 30m dollar funding provided by Proparco to Sterling Bank?",
       "o": [
-        "To finance Nigerian solar and agricultural initiatives",
-        "To purchase foreign exchange reserves to defend the official N1,346 exchange rate",
-        "To fund an expansion of offshore oil drilling rigs in the Amapá block",
-        "To bail out commercial retail banks facing runs on deposits"
+        "Deployment into domestic agricultural and solar assets.",
+        "Defending the naira exchange rate against official market gaps.",
+        "Expanding around-the-clock DAX trading infrastructure.",
+        "Financing artificial intelligence development for Humain."
       ],
       "a": 0,
-      "e": "Proparco provided Sterling Bank with $30m to finance Nigerian solar and agricultural initiatives, expanding private credit availability in domestic transition sectors. Foreign exchange defense or oil drilling are incorrect."
+      "e": "Proparco commits 30m dollars to Sterling Bank for deployment into domestic agricultural and solar assets to support green transition infrastructure. The other choices misattribute the funds to foreign exchange defense, stock exchanges, or AI deals."
     },
     {
       "lvl": "b",
-      "tag": "Nigeria · Currencies",
-      "q": "At what level did the official FX rate print in Nigeria?",
+      "tag": "Nigeria · Currency",
+      "q": "What valuation gap exists in the Nigerian foreign exchange market at the start of the month?",
       "o": [
-        "N1,346 per dollar",
-        "1.08 trillion naira per dollar",
-        "30 million naira per dollar",
-        "10,729.78 naira per dollar"
+        "The official rate prints at 1,346 per dollar while parallel street traders clear at 1,385.",
+        "The official rate sits at 1,385 per dollar while street traders price it at 1,346.",
+        "The official rate matches the international gold price of $3,900.",
+        "The official rate is fixed at 5.8% to match Kunshan's gross domestic product."
       ],
       "a": 0,
-      "e": "The official FX rate prints at N1,346 per dollar. The other figures represent unrelated statistics from different stories in the briefings."
+      "e": "The official exchange rate prints at 1,346 per dollar while parallel market participants clear transactions at 1,385 per dollar. Reversing these numbers creates the plausible wrong option."
     },
     {
       "lvl": "b",
-      "tag": "Australia · Equities",
-      "q": "What sector rotation occurred on the Australian exchange (ASX 200)?",
+      "tag": "Australia · Central bank",
+      "q": "Why are Australian equities consolidating near current levels?",
       "o": [
-        "Capital moved away from consumer discretionary equities and back into resource companies",
-        "Investors sold all mining shares to buy imported retail consumer goods",
-        "Traders liquidated domestic equities entirely to purchase US Treasury bonds",
-        "Sovereign wealth funds shifted capital out of banking into property development"
+        "The market discounts a forthcoming policy tightening cycle by the Reserve Bank of Australia.",
+        "Labor representatives confirmed structural expenditure reductions.",
+        "Aramco acquired a 49% stake in domestic renewable assets.",
+        "Industrial output and retail sales surged across the country."
       ],
       "a": 0,
-      "e": "Sector rotations drove capital away from consumer discretionary equities and back into resource companies as mining shares rebounded while consumer equities contracted. US Treasuries and property development are not mentioned."
+      "e": "Equities consolidate because the market discounts a forthcoming fifth inflation-driven rate rise from the Reserve Bank of Australia. Fiscal authorities actually withheld confirmation on expenditure reductions, making that choice incorrect."
     },
     {
       "lvl": "b",
-      "tag": "China · Commodities",
-      "q": "What happened to international spot gold prices according to the global benchmarks?",
+      "tag": "Australia · Fiscal policy",
+      "q": "What remains a key variable for markets as the central bank prepares to lift borrowing costs in Australia?",
       "o": [
-        "Spot gold prices breached the $3,900 per ounce level on international exchanges",
-        "Gold quotes surged past $10,729 per ounce driven by retail jewelry demand",
-        "International bullion exchanges halted trading due to excess supply",
-        "Spot gold prices fell to parity with domestic Chinese crude oil contracts"
+        "Government expenditure and fiscal-monetary coordination.",
+        "The official street-level parallel exchange rate of the naira.",
+        "The third-quarter adjusted loss reported by Seres.",
+        "The around-the-clock trading hours of the DAX index."
       ],
       "a": 0,
-      "e": "Spot gold prices breached the $3,900 per ounce level on international exchanges. Surging past $10,729 or halting trading are fabrications not found in the source text."
+      "e": "Government expenditure remains a key variable as markets track fiscal-monetary coordination closely. The other options refer to completely unrelated metrics from Nigeria, China, and Germany."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Equities",
+      "q": "Why did the S&P 500 break through its technical support level during the recent market session?",
+      "o": [
+        "Wobbling tech trades and mounting anxiety over artificial intelligence capital expenditure sustainability dragged down broader markets.",
+        "A sudden flight to safety forced institutional investors to reallocate capital entirely out of equities and into French sovereign bonds.",
+        "The Federal Reserve announced an unexpected emergency interest rate hike to counter surging domestic price pressures.",
+        "Commercial banks restricted corporate lending channels, causing an immediate liquidity freeze across all major stock indices."
+      ],
+      "a": 0,
+      "e": "The briefings state that the S&P 500 breached its support level as wobbling tech trades weighed on broader markets, driven by concerns over artificial intelligence capital expenditure. While a flight to safety is mentioned elsewhere regarding bond yields, it did not occur here as Treasury yields remained stable."
     },
     {
       "lvl": "i",
       "tag": "United States of America · Fixed income",
-      "q": "Why did the 10-year Treasury yield climb above 5% while the Federal Reserve held its policy rate steady?",
+      "q": "How did US Treasury yields respond to the heavy sell-off in domestic equities?",
       "o": [
-        "Robust economic output and rising price pressures caused duration risk to reprice.",
-        "The Federal Reserve cut emergency lending rates to force commercial banks into sovereign debt.",
-        "Foreign institutional investors dumped long-term bonds to buy technology stocks.",
-        "Anthropic's public listing on the Nasdaq drained liquidity from short-term money markets."
+        "They finished little changed as cross-asset volatility failed to trigger a flight to safety in sovereign debt.",
+        "They dropped sharply as investors aggressively bought duration holdings to escape the falling stock market.",
+        "They surged to record highs because corporations scrambled to secure short-term liquidity through government bonds.",
+        "They fell alongside the S&P 500 due to synchronized selling across all domestic asset classes."
       ],
       "a": 0,
-      "e": "Stronger-than-expected economic growth and sticky price pressures cause duration risk to reprice as yields climb. The Federal Reserve maintained its rate, meaning the yield move reflected broader growth and price data rather than a direct policy rate hike. The wrong options invoke unrelated equity events or non-existent central bank interventions."
-    },
-    {
-      "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "What mechanism linked Anthropic's public listing on the Nasdaq to broader equity liquidations in the S&P 500?",
-      "o": [
-        "Concentration risk in artificial intelligence exposures triggered a portfolio reallocation and momentum unwind.",
-        "The Securities and Exchange Commission forced index funds to sell legacy manufacturing shares to buy ticker ANT.",
-        "Commercial banks restricted margin lending across all sectors to fund the initial public offering.",
-        "Retail investors withdrew all bank deposits simultaneously to participate in the stock launch."
-      ],
-      "a": 0,
-      "e": "High concentration in artificial intelligence exposures made the broader index vulnerable, causing a momentum unwind when the new listing shifted market sentiment. This portfolio adjustment forced liquidations across tech-heavy indices. The incorrect choices describe regulatory mandates or banking panics that did not occur."
+      "e": "Treasury yields closed little changed because duration holdings absorbed minimal shocks, meaning the equity sell-off did not prompt the usual rush into sovereign safety. Yields falling would imply a massive surge in bond prices, which did not happen."
     },
     {
       "lvl": "i",
       "tag": "United Kingdom · Equities",
-      "q": "How did individual corporate performances affect the FTSE 100 index level?",
+      "q": "What drove the FTSE 100 index higher to 10,729.78 despite downside pressures?",
       "o": [
-        "Gains in AstraZeneca and BT offset weakness in NatWest to push the index to 10,729.78 points.",
-        "NatWest shares surged high enough to cancel out losses across all mining and consumer goods issues.",
-        "The London Stock Exchange suspended trading in BT to prevent a wider market crash.",
-        "AstraZeneca lowered its dividend payout, forcing passive index funds to liquidate their holdings."
+        "Gains in specific equities like AstraZeneca and BT offset the sharp decline seen in NatWest shares.",
+        "A broad-based macroeconomic stimulus package announced by the central bank boosted all listed companies equally.",
+        "Foreign institutional inflows caused a massive compression in sovereign yields that lifted every sector.",
+        "An unexpected surge in international gold prices drove mining and industrial conglomerates to record valuations."
       ],
       "a": 0,
-      "e": "Market indices aggregate multiple constituents, so upward price action in specific heavyweights like AstraZeneca and BT can offset downward moves in others like NatWest. This net balance drove the index to 10,729.78. The alternative options invent market suspensions or broad index liquidations not present in the text."
+      "e": "Index performance was dictated by sector-specific dispersion, where gains in AstraZeneca and BT provided the positive weight needed to counter NatWest's sharp drop. Broad macroeconomic stimulus or gold prices are not mentioned in the text as drivers for this index."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Exchanges",
-      "q": "Why did Deutsche Borse shares appreciate following the expansion of continuous index trading?",
+      "tag": "Germany · Market infrastructure",
+      "q": "Why did Deutsche Borse shares advance following its recent operational update?",
       "o": [
-        "Extended operating hours captured greater market liquidity and drove order flow acquisition.",
-        "The German government guaranteed a fixed dividend yield for all exchange-listed shares.",
-        "Competitor exchanges in Frankfurt were ordered to shut down by financial regulators.",
-        "Trading fees were abolished entirely, causing a massive surge in retail share turnover."
+        "The expansion of continuous index access increased market liquidity capture and order flow acquisition.",
+        "The exchange operator announced a complete shutdown of trading during volatile overnight sessions to protect valuations.",
+        "A strategic acquisition of an artificial intelligence enterprise boosted its future revenue projections.",
+        "New regulatory caps on trading fees attracted a massive wave of retail investors to the venue."
       ],
       "a": 0,
-      "e": "Continuous index access leverages infrastructure scalability to capture more liquidity and drive order flow, which directly supports exchange operator revenues. Higher operational activity translates into equity appreciation. The other choices involve fictitious regulatory closures, government guarantees, or zero-fee models."
+      "e": "Deutsche Borse equity appreciated because expanded trading hours leverage infrastructure scalability to increase market liquidity capture and order flow acquisition. Fee caps and exchange shutdowns are fictitious alternatives not found in the source text."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Fixed income",
-      "q": "What drove corporations to issue a record $16bn in yen-denominated debt instruments?",
+      "tag": "Japan · Central banking",
+      "q": "What prompted the Bank of Japan to signal a potential December rate hike?",
       "o": [
-        "The domestic expansion of artificial intelligence capital expenditure and shifting liquidity conditions.",
-        "A central bank decree forcing all manufacturing firms to hold foreign currency reserves.",
-        "The complete abolition of corporate bond yields across Japanese financial markets.",
-        "A hostile takeover wave requiring firms to buy back their own shares using foreign loans."
+        "Officials declared <span class='term' data-t='inflation'>inflation</span> entrenched for the first time in 14.5 years, pivoting the policy framework toward price stability.",
+        "Industrial output figures rose sharply above expectations, forcing the central bank to cool down an overheating economy.",
+        "Retail sales contracted severely, prompting monetary authorities to stimulate domestic demand through higher borrowing costs.",
+        "Foreign exchange reserves were completely depleted by efforts to defend the sliding currency against oil shocks."
       ],
       "a": 0,
-      "e": "Domestic artificial intelligence capital expenditure expanded, prompting corporations to lock in funding through fixed-income markets amid shifting liquidity conditions. This demand resulted in a record $16bn issuance volume. The wrong options rely on forced government decrees or hostile takeover waves unsupported by the text."
+      "e": "The central bank declared <span class='term' data-t='inflation'>inflation</span> entrenched for the first time in 14.5 years, paving the way for a December rate hike as its policy pivoted toward price pressures. Industrial output actually slowed rather than rising sharply."
     },
     {
       "lvl": "i",
-      "tag": "China · Equities",
-      "q": "How did Kweichow Moutai and GAC Group contribute differently to domestic industrial performance metrics?",
+      "tag": "Japan · Equities",
+      "q": "Why did the Nikkei 225 equity benchmark retreat on 1 November 2026?",
       "o": [
-        "Kweichow Moutai returned to quarterly revenue expansion while GAC Group grew its top line via proprietary brands and exports.",
-        "Kweichow Moutai declared bankruptcy while GAC Group bailed out the entire Shenzhen exchange cohort.",
-        "Both companies reported identical net profits of exactly 1.08 trillion yuan for the period.",
-        "GAC Group halted all vehicle exports to focus exclusively on domestic retail beverage distribution."
+        "Weaker domestic data releases showed that industrial output and retail sales contracted across the country.",
+        "The central bank announced an unexpected interest rate increase that immediately shocked stock markets.",
+        "Major manufacturing firms reported massive paper profits that failed to offset their adjusted operating losses.",
+        "International gold prices fell below $3,900, triggering a widespread sell-off in Japanese export companies."
       ],
       "a": 0,
-      "e": "Kweichow Moutai broke its prior lull with a 3.08% quarterly revenue rise, while GAC Group expanded its top line by 12.29% through proprietary marques and export channels, highlighting a specific industrial bifurcation. The incorrect choices fabricate bankruptcies, identical profit figures, or swapped business lines."
+      "e": "The Nikkei 225 declined because industrial output and retail sales slowed and contracted. An unexpected interest rate increase is a misattribution of the Bank of Japan's future policy plans mentioned in a separate briefing."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Corporate earnings",
+      "q": "How did Seres report its financial performance for the third quarter?",
+      "o": [
+        "It posted a paper profit of 1.42 billion yuan alongside an adjusted loss of 1.37 billion yuan.",
+        "It recorded a net operational profit of 2.79 billion yuan driven by strong gross domestic product growth.",
+        "It suffered a total loss of 1.42 billion yuan while maintaining steady retail sales across all regions.",
+        "It achieved record revenues that completely offset the decline in international jewelry prices."
+      ],
+      "a": 0,
+      "e": "Seres specifically posted a paper profit of 1.42 billion yuan alongside an adjusted loss of 1.37 billion yuan. The other options combine unrelated figures or fabricate net totals not present in the text."
     },
     {
       "lvl": "i",
       "tag": "China · Commodities",
-      "q": "Why did Chinese retail jewelry prices decline alongside international bullion benchmarks?",
+      "q": "What trend was observed in Chinese jewelry prices alongside the drop in international gold below $3,900?",
       "o": [
-        "Global commodity repricing transmitted directly into consumer goods markets as spot gold dropped.",
-        "The Chinese central bank banned individuals from holding physical gold ornaments.",
-        "Retailers intentionally inflated their profit margins to offset losses in the Shenzhen stock exchange.",
-        "Domestic gold mines flooded the local market with excess supply to artificially depress world prices."
+        "Chinese jewelry prices retreated by nearly 550 yuan per gram year-to-date.",
+        "Local jewelry manufacturing costs surged due to a sharp spike in regional oil prices.",
+        "Domestic retail sales expanded rapidly, causing jewelry prices to decouple from international gold benchmarks.",
+        "State interventions successfully stabilized jewelry valuations despite the broader sell-off in precious metals."
       ],
       "a": 0,
-      "e": "International spot gold prices breached the $3,900 threshold, transmitting global commodity repricing directly into consumer distribution networks and lowering retail quotes. The alternative answers mention fictitious central bank bans, intentional margin padding, or domestic mine dumping."
+      "e": "The international gold price slipped below $3,900 while Chinese jewelry prices declined by nearly 550 yuan per gram year-to-date. The other choices invent external economic pressures not supported by the sources."
     },
     {
       "lvl": "i",
       "tag": "India · Equities",
-      "q": "Why did a compression in sovereign bond yields support multiple expansion across major Indian stock indexes?",
+      "q": "What catalysed the Sensex and Nifty to extend their gains by up to 2% over the week?",
       "o": [
-        "Lower bond yields reduced the discount rate applied to future cash flows, boosting equity valuations.",
-        "Commercial banks were legally required to sell all government bonds and buy domestic shares.",
-        "Foreign institutional investors abandoned the bond market because sovereign debt paid zero interest.",
-        "Retail savers redirected their fixed deposits into gold jewelry instead of mutual funds."
+        "Foreign institutional inflows and a compression in sovereign <span class='term' data-t='gilt'>bond yields</span>.",
+        "An aggressive central bank intervention that successfully stabilized the sliding domestic currency.",
+        "A massive surge in domestic agricultural and solar assets financed by international development banks.",
+        "The announcement of higher oil output targets by international energy cartels."
       ],
       "a": 0,
-      "e": "Sovereign bond yield compression lowers the discount rate applied to future cash flows, which supports multiple expansion and drives up equity valuations. The wrong choices point to legal mandates, zero interest on sovereign debt, or retail shifts into gold."
+      "e": "Domestic benchmarks extended gains because of foreign institutional inflows and a compression in sovereign <span class='term' data-t='gilt'>bond yields</span>. Currency intervention and oil output targets are discussed in separate contexts without driving this specific equity gain."
     },
     {
       "lvl": "i",
-      "tag": "India · Macroeconomics",
-      "q": "What structural factor exerts depreciation pressure on the Indian rupee?",
+      "tag": "India · Foreign exchange",
+      "q": "Why did the Reserve Bank of India face acute pressure regarding the domestic currency?",
       "o": [
-        "Expansionary import trends and elevated energy import bills that widen the trade deficit.",
-        "A massive surplus in foreign exchange reserves caused by excessive software exports.",
-        "The complete cessation of foreign institutional investor capital allocations into domestic firms.",
-        "A government policy setting the exchange rate at a fixed parity against the US dollar."
+        "A sharp spike in oil prices coincided with downward momentum in the rupee, raising monetary tightening concerns.",
+        "Foreign institutional investors withdrew all capital from smaller-cap segments, causing an immediate liquidity crunch.",
+        "Commercial banks depleted their foreign exchange reserves by funding renewable infrastructure projects.",
+        "Official exchange rates diverged sharply from parallel street trading values across all major financial hubs."
       ],
       "a": 0,
-      "e": "Higher import bills and expansionary import trends widen the trade deficit and net current account impact, challenging the domestic currency. The incorrect answers describe trade surpluses, complete capital halts, or fixed exchange rate regimes."
+      "e": "The Reserve Bank of India faced pressure as a sharp spike in oil prices coincided with downward momentum in the rupee amid escalating monetary tightening concerns. Diverging street rates and renewable funding are associated with Nigeria, not India."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Equities",
-      "q": "What operational milestone preceded Wall Street Zen upgrading Petroleo Brasileiro S.A. - Petrobras to a strong-buy?",
+      "tag": "Brazil · Energy",
+      "q": "What development did Petrobras log off the Amapa coastline according to EnergyNow reporting?",
       "o": [
-        "The finalisation of drilling operations at the Morpho well, confirming a third hydrocarbon discovery.",
-        "The complete privatization of the company and transfer of its assets to foreign energy firms.",
-        "A government decree forgiving all corporate debt held by the national oil producer.",
-        "The discovery of a massive lithium deposit in the Amazon basin near existing pipelines."
+        "A fresh hydrocarbon discovery.",
+        "A successful interception of regional drone attacks.",
+        "An expansion of its daily oil output capacity to 12 million barrels.",
+        "A strategic restructuring of its gas division with advisory help from Evercore."
       ],
       "a": 0,
-      "e": "Petrobras concluded drilling at the Morpho location within the Amapá block, confirming its third hydrocarbon find, which directly triggered the equity upgrade. The other options involve full privatization, debt forgiveness, or lithium discoveries."
+      "e": "Petrobras logged a fresh hydrocarbon discovery off the Amapa coastline per EnergyNow reporting. The other options refer to Saudi Aramco's operational events."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Corporate finance",
+      "q": "What was the nature and purpose of Aramco's transaction involving Humain?",
+      "o": [
+        "Aramco acquired a 49% equity interest in the artificial intelligence enterprise for $2.6bn to accelerate its international scaling.",
+        "Aramco sold its entire gas division to Humain for $2.6bn to offset losses from security incidents at Shaybah.",
+        "Humain provided a $2.6bn capital injection to help Aramco reach a daily production capacity of 12 million barrels.",
+        "Aramco partnered with PIF to take a 49% stake in Humain exclusively to manage domestic solar infrastructure."
+      ],
+      "a": 0,
+      "e": "Aramco finalized the acquisition of a 49% equity interest in artificial intelligence enterprise Humain for $2.6bn, partnering with PIF to target accelerated international scaling. The other choices mix up companies and deal structures."
     },
     {
       "lvl": "i",
       "tag": "Saudi Arabia · Commodities",
-      "q": "How did market participants react to Aramco's operational and pricing announcements regarding its Zuluf field and LPG output?",
+      "q": "What did OPEC+ decide regarding December oil output targets while attention shifted toward 2027?",
       "o": [
-        "Suppliers secured major contracts like the AMPO Poyam Valves order while official inflation-linked prices rose.",
-        "Management cut crude production capacity to 12 million barrels per day to force global prices higher.",
-        "Aramco canceled all offshore trunkline projects due to falling global demand expectations.",
-        "The company lowered its official LPG prices to zero to compete with Pakistani oil hubs."
+        "They settled on maintaining the targets without changes.",
+        "They agreed to cut production quotas immediately following security incidents near Shaybah.",
+        "They authorized Aramco to increase its output capacity to 12 million barrels per day within days.",
+        "They postponed all quota negotiations until foreign exchange reserves could be stabilized."
       ],
       "a": 0,
-      "e": "Lamprell awarded valve orders for the Zuluf offshore trunkline to AMPO Poyam Valves, while Saudi Aramco simultaneously raised official inflation-linked LPG prices by 5.9% to 6.8%. The incorrect choices claim capacity cuts, project cancellations, or zero-priced LPG."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Energy",
-      "q": "What factor underpinned OPEC+'s agreement in principle to keep oil output targets steady in December?",
-      "o": [
-        "Energy security priorities outweighed climate considerations as the group saw no peak oil demand.",
-        "Global crude exports collapsed to zero, forcing member nations to freeze all production quotas.",
-        "A binding United Nations treaty capped daily oil extraction worldwide to combat inflation.",
-        "Saudi Arabia depleted all of its proven oil reserves during the month of February."
-      ],
-      "a": 0,
-      "e": "OPEC sees no peak oil demand because energy security beats climate priorities, supporting the decision to keep output targets steady in December. The wrong options suggest global export collapses, binding UN extraction caps, or total reserve depletion."
+      "e": "OPEC+ settled on maintaining December oil output targets without changes while attention pivoted toward 2027 quota negotiations. The other options introduce unrelated operational events or policy confusions."
     },
     {
       "lvl": "i",
       "tag": "Nigeria · Banking",
-      "q": "What was the economic purpose of Proparco extending a $30m facility to Sterling Bank?",
+      "q": "How does Proparco's 30m dollar commitment function within the Nigerian financial system?",
       "o": [
-        "To finance Nigerian solar and agricultural initiatives, expanding private credit in transition sectors.",
-        "To bail out commercial banks facing a sudden collapse of the official foreign exchange rate.",
-        "To purchase sovereign debt instruments issued by the central bank to fund public infrastructure.",
-        "To subsidize oil imports and artificially lower domestic fuel prices at retail stations."
+        "It targets domestic agricultural and solar assets, expanding private credit access for green transition infrastructure through Sterling Bank.",
+        "It narrows the valuation gap between official fixing rates and parallel market street transactions.",
+        "It provides emergency foreign exchange liquidity to defend the official exchange rate of the naira against dollar pressures.",
+        "It finances commercial bank interventions to stabilize currency volatility caused by global oil price spikes."
       ],
       "a": 0,
-      "e": "Proparco provided the capital specifically to finance solar and agricultural initiatives, expanding private credit availability in domestic transition sectors. The alternative choices invent banking bailouts, central bank debt purchases, or retail fuel subsidies."
+      "e": "Proparco commits 30m dollars to Sterling Bank for deployment into domestic agricultural and solar assets, expanding private credit access for green transition infrastructure. The other options confuse this development with foreign exchange market mechanics."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Macroeconomics",
-      "q": "To what do pro-reform factions attribute the second-quarter stability of the Nigerian currency at N1,346 per dollar?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What does the valuation gap between the official exchange rate and parallel market rates for the naira reflect?",
       "o": [
-        "Specific policy implementation and adjustments rather than random market fluctuations.",
-        "A massive influx of foreign aid donated directly by international petroleum cartels.",
-        "The complete replacement of the naira with a digital currency pegged to gold.",
-        "A government ban on all foreign travel and international wire transfers."
+        "Ongoing dual-market mechanics in foreign exchange access.",
+        "A complete depletion of commercial bank reserves due to green energy project financing.",
+        "An official monetary tightening cycle intended to cool domestic price <span class='term' data-t='inflation'>inflation</span>.",
+        "The direct impact of international gold price fluctuations on street trading values."
       ],
       "a": 0,
-      "e": "Pro-reform groups explicitly cite policy implementation and adjustments for second-quarter currency strength and stability at the official rate. The incorrect options describe foreign aid donations, digital currency replacements, or wire transfer bans."
+      "e": "The valuation gap between the official fixing at 1,346 per dollar and the parallel market rate at 1,385 reflects ongoing dual-market mechanics in foreign exchange access. The other choices attribute the spread to entirely unrelated economic phenomena."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Equities",
-      "q": "What drove the divergence between mining and consumer equities on the ASX 200?",
+      "tag": "Australia · Monetary policy",
+      "q": "Why are Australian equities consolidating near current levels while duration risk remains elevated?",
       "o": [
-        "Sector-specific capital reallocation as traders reassessed commodity demand against domestic retail risks.",
-        "A regulatory order forbidding retail investors from trading in resource companies.",
-        "An unexpected collapse in global iron ore prices that forced mining firms into bankruptcy.",
-        "The central bank raising consumer interest rates while abolishing taxes on mining corporations."
+        "The market discounts a forthcoming policy tightening cycle and terminal rate re-pricing by the Reserve Bank of Australia.",
+        "Fiscal authorities confirmed structural expenditure reductions that immediately neutralized central bank tightening.",
+        "Foreign institutional investors withdrew capital to chase higher sovereign yields in European debt markets.",
+        "A sharp contraction in industrial output forced the central bank to pause its interest rate hikes."
       ],
       "a": 0,
-      "e": "Sector rotations drove capital away from consumer discretionary equities and back into resource companies as factor exposures shifted. Traders reassessed commodity demand against domestic retail risks, causing the divergence. The wrong choices involve trading bans, bankruptcies, or selective tax abolitions."
+      "e": "Equities consolidate as the market discounts a forthcoming policy tightening cycle by the Reserve Bank of Australia, driven by <span class='term' data-t='inflation'>inflation</span> prints and terminal rate re-pricing. Fiscal authorities actually withheld confirmation on expenditure reductions."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Fiscal policy",
+      "q": "How does government spending complicate the domestic demand outlook ahead of expected monetary tightening in Australia?",
+      "o": [
+        "Fiscal authorities withhold confirmation on structural expenditure reductions, leaving public outlays as a key variable interacting with central bank tightening.",
+        "The government announced massive spending cuts that instantly solved all central bank <span class='term' data-t='inflation'>inflation</span> pressures.",
+        "Public outlays are directly tied to the pricing of sovereign bond issuance trajectories by commercial banks.",
+        "Government expenditure funds direct foreign exchange interventions to protect the exchange rate."
+      ],
+      "a": 0,
+      "e": "Fiscal authorities withhold confirmation on structural expenditure reductions ahead of anticipated monetary adjustment, and the interaction between public outlays and central bank tightening complicates domestic demand. The other options contradict the cautious wording of the sources."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Infrastructure",
+      "q": "Which advisory firm did Saudi Aramco engage following security incidents and structural damage to its headquarters?",
+      "o": [
+        "Evercore, to advise on strategic plans for its gas division.",
+        "Proparco, to secure private credit for domestic renewable infrastructure.",
+        "Equiti, to monitor continuous trading volume distributions.",
+        "PIF, to acquire a 49% equity interest in Humain."
+      ],
+      "a": 0,
+      "e": "Aramco engaged Evercore to advise on strategic plans for its gas division following structural damage to its headquarters from a Houthi attack. The other entities mentioned are involved in entirely different transactions across the briefings."
     },
     {
       "lvl": "a",
       "tag": "United States of America · Equities",
-      "q": "What mechanism drove the S&P 500 through technical support levels?",
+      "q": "Why did the S&P 500 breach its technical support level during the recent tech-heavy market correction?",
       "o": [
-        "Concentration risk in artificial intelligence exposures triggered broad equity liquidations and momentum strategy unwinds.",
-        "The Federal Reserve unexpectedly raised benchmark interest rates to combat rising consumer prices.",
-        "Anthropic's Nasdaq debut triggered massive capital inflows into traditional banking stocks.",
-        "Global supply chain disruptions forced technology firms to write down their quarterly inventories."
+        "Wobbling tech valuations, mounting AI capital expenditure sustainability concerns, and forthcoming midterm elections drove widespread panic selling.",
+        "An aggressive rate hike by the Federal Reserve triggered an immediate flight from equities into sovereign debt.",
+        "A surprise contraction in the consumer price index forced institutional investors to de-gross their portfolios across all sectors.",
+        "Massive liquidations in French sovereign paper spilled over into US equity benchmarks."
       ],
       "a": 0,
-      "e": "The text states that concentration risk in artificial intelligence exposures triggered broader equity liquidations and momentum strategy unwinds. The other options either misattribute the catalyst or involve events not mentioned in the source."
+      "e": "The sources explicitly link the equity drawdown and technical support breach to a repricing of tech-heavy allocations due to AI capital expenditure sustainability worries and midterm anxiety. Treasury yields remained stable rather than seeing a classic flight to safety, ruling out rate-driven equity outflows."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Fixed Income",
-      "q": "How did the 10-year Treasury yield surpass 5% following the Federal Reserve policy meeting?",
+      "tag": "United States of America · Fixed income",
+      "q": "What does the stability of US Treasury yields during a severe domestic equity sell-off imply about cross-asset market plumbing?",
       "o": [
-        "Robust economic growth prints and sticky price pressures caused duration risk to reprice.",
-        "A massive wave of foreign exchange interventions forced domestic yields higher.",
-        "Commercial banks dumped sovereign debt to fund record corporate bond issuances.",
-        "The central bank lowered its policy rate to stimulate lagging employment sectors."
+        "Cross-asset volatility failed to trigger a broader flight to safety in sovereign debt, leaving duration holdings to absorb minimal shocks.",
+        "Fixed-income investors aggressively reallocated capital from equities into long-duration Treasuries to capture falling yields.",
+        "The Federal Reserve intervened directly in the secondary market to anchor sovereign paper against equity contagion.",
+        "Foreign institutional inflows completely offset domestic equity liquidations within the Treasury market."
       ],
       "a": 0,
-      "e": "Duration risk repriced as incoming data showed economic output expanding faster than consensus expectations alongside rising inflation, while the Fed held its rate steady. Yields did not rise due to foreign exchange interventions or central bank rate cuts."
+      "e": "The text notes that US Treasury yields closed little changed and duration holdings absorbed minimal shocks because volatility failed to trigger a broader flight to safety. This disconnect demonstrates that equity drawdowns do not automatically force a systemic rally in sovereign bonds."
     },
     {
       "lvl": "a",
       "tag": "United Kingdom · Equities",
-      "q": "What drove the FTSE 100 to 10,729.78 points?",
+      "q": "How did individual equity movements dictate the broader FTSE 100 direction during the trading session?",
       "o": [
-        "Strong upward price action in AstraZeneca and BT offset weakness in NatWest.",
-        "An emergency liquidity injection from the central bank boosted all listed financial institutions.",
-        "A sudden collapse in corporate tax rates drove broad multiple expansion across all sectors.",
-        "Massive foreign direct investment inflows targeted exclusively at retail banking stocks."
+        "Sector-specific dispersion caused gains in AstraZeneca and BT to offset downside pressure from NatWest's sharp decline.",
+        "A synchronized rally across all banking equities pushed the index past the 10,729.78 threshold.",
+        "Heavy foreign institutional inflows into defensive utility stocks completely overwhelmed technology sector losses.",
+        "Corporate earnings beats across the entire index membership outweighed weaker macroeconomic data releases."
       ],
       "a": 0,
-      "e": "The index advanced because strong upward price action in AstraZeneca and BT offset weakness in NatWest. Central bank interventions and tax rate changes are not supported by the source text."
+      "e": "The briefing specifies that sector-specific dispersion drove index performance, where positive weights from AstraZeneca and BT countered the downside pressure from NatWest. The index move was a function of idiosyncratic offsetting movements rather than a uniform market trend."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Exchange Operations",
-      "q": "What operational mechanism drove Deutsche Borse equity appreciation?",
+      "tag": "Germany · Market infrastructure",
+      "q": "How does expanding continuous DAX trading hours affect Deutsche Borse's operational metrics?",
       "o": [
-        "Continuous index access increased market liquidity capture and order flow acquisition.",
-        "A reduction in compliance overhead lowered operating costs across all trading desks.",
-        "The acquisition of a rival European exchange expanded its total addressable market.",
-        "A regulatory mandate forced domestic pension funds to execute all trades through its venue."
+        "It leverages infrastructure scalability to increase market liquidity capture and drive order flow acquisition.",
+        "It eliminates overnight risk for retail participants, reducing systemic volatility across global indices.",
+        "It forces automated market makers to narrow their bid-ask spreads during low-liquidity Asian trading hours.",
+        "It lowers exchange operating costs by consolidating daily volume distributions into a single continuous session."
       ],
       "a": 0,
-      "e": "Continuous index access increased market liquidity capture, leveraging infrastructure scalability to drive order flow acquisition. The other options rely on corporate actions or regulatory mandates not present in the text."
+      "e": "The text explains that continuous index access increases market liquidity capture by leveraging infrastructure scalability to drive order flow acquisition, altering daily volume distributions. It is an operational scale play rather than a risk-reduction mechanism."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Fixed Income",
-      "q": "What primary factor drove corporate yen-denominated debt issuance to a record $16bn?",
+      "tag": "Japan · Central banking",
+      "q": "What structural milestone preceded the Bank of Japan's pivot toward a December rate hike?",
       "o": [
-        "Domestic artificial intelligence capital expenditure expanded, prompting firms to lock in funding.",
-        "Government guarantees on technology debt eliminated all default risk for institutional buyers.",
-        "A sharp depreciation of the yen made foreign debt servicing prohibitively expensive.",
-        "Foreign central banks aggressively accumulated Japanese corporate bonds to diversify reserves."
+        "The central bank declared inflation entrenched for the first time in 14.5 years.",
+        "Industrial output and retail sales contracted sharply across the domestic economy.",
+        "Foreign exchange reserves reached a critical depletion threshold following aggressive currency defense.",
+        "Wage growth negotiations exceeded long-term historical averages for the first time in a decade."
       ],
       "a": 0,
-      "e": "The issuance reflects corporate attempts to lock in funding as artificial intelligence capital expenditure expands domestically. Government guarantees and foreign reserve accumulation are absent from the source."
+      "e": "The Bank of Japan justified its policy pivot and impending December rate hike by declaring inflation entrenched for the first time in 14.5 years. Weak industrial output and retail sales were separate economic data points rather than the explicit trigger for the monetary policy framework shift."
     },
     {
       "lvl": "a",
-      "tag": "China · Corporate Earnings",
-      "q": "How did the Shenzhen Stock Exchange reporting sequence conclude for the period?",
+      "tag": "Japan · Equities",
+      "q": "Why did the Nikkei 225 retreat on 1 November 2026?",
       "o": [
-        "A cohort of 2,904 reporting constituents recorded an aggregate net profit of 1.08 trillion yuan.",
-        "Total exchange capitalization surpassed all international peers following a wave of initial public offerings.",
-        "Strict regulatory interventions forced hundreds of non-compliant firms to delist before reporting.",
-        "An unexpected surge in manufacturing subsidies doubled the aggregate revenue of state-owned enterprises."
+        "Weaker domestic data releases, specifically contracting industrial output and retail sales, weighed on the equity benchmark.",
+        "The central bank's unexpected rate hike announcement triggered an immediate sell-off in growth stocks.",
+        "A sharp drop in international precious metal prices reduced valuations of major trading conglomerates.",
+        "Foreign institutional investors withdrew capital to fund margin calls in Western equity markets."
       ],
       "a": 0,
-      "e": "The disclosures cover 2,904 reporting constituents reaching an aggregate net profit of 1.08 trillion yuan. The other options introduce market capitalization claims and regulatory delistings not found in the briefings."
+      "e": "The Nikkei 225 fell following soft economic data where industrial output and retail sales contracted. The central bank's rate hike announcement occurred around the same time but the equity retreat specifically followed the weak domestic data releases."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Corporate earnings",
+      "q": "How can Seres report a third-quarter paper profit alongside an adjusted loss?",
+      "o": [
+        "Accounting distinctions between statutory paper profits (1.42 billion yuan) and operational adjusted metrics (1.37 billion yuan loss) created a dual result.",
+        "Foreign exchange fluctuations completely erased domestic operating gains when converted to US dollars.",
+        "Tax rebates artificially inflated net income while core manufacturing divisions suffered severe structural impairments.",
+        "Higher inventory valuations offset declining retail sales figures in the jewelry segment."
+      ],
+      "a": 0,
+      "e": "Seres posted a paper profit of 1.42 billion yuan alongside an adjusted loss of 1.37 billion yuan. This reflects standard reporting discrepancies where paper valuations diverge from underlying adjusted operating results."
     },
     {
       "lvl": "a",
       "tag": "China · Commodities",
-      "q": "What structural relationship connected international gold quotes and domestic Chinese retail jewelry prices?",
+      "q": "What broader price trend accompanied the retreat in Chinese jewelry prices to nearly 550 yuan per gram?",
       "o": [
-        "International spot gold prices breaching $3,900 transmitted global commodity repricing into local consumer goods markets.",
-        "Chinese retail import quotas dictated the clearing price on international bullion exchanges.",
-        "Domestic central bank gold purchases completely decoupled local retail prices from global benchmarks.",
-        "A surge in domestic jewelry demand forced international bullion exchanges to adjust their spot quotes."
+        "The international gold price dropped beneath $3,900.",
+        "Kunshan registered a gross domestic product growth slowdown across the first three quarters.",
+        "Domestic silver production surged, flooding the physical bullion market with excess supply.",
+        "Central bank monetary tightening forced domestic retail buyers to liquidate physical gold holdings."
       ],
       "a": 0,
-      "e": "The adjustment transmits global commodity repricing directly into consumer goods markets as spot gold prices breach $3,900. Local demand did not dictate global quotes according to the source."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate Updates",
-      "q": "What primary factors drove GAC Group's top-line revenue expansion during the first three quarters?",
-      "o": [
-        "Proprietary marques and export channels served as the primary growth drivers.",
-        "A government-backed vehicle replacement subsidy program boosted domestic passenger car sales.",
-        "Aggressive price discounting wiped out domestic competitors and expanded market share.",
-        "The acquisition of foreign manufacturing plants immediately added to consolidated earnings."
-      ],
-      "a": 0,
-      "e": "Proprietary marques and export channels served as the primary drivers for the automaker's expansion. Government replacement subsidies and foreign acquisitions are not mentioned in the source material."
+      "e": "The briefing notes that Chinese jewelry prices declined year-to-date alongside the international gold price dropping beneath $3,900. There is no mention of silver production or central bank bullion liquidation in the source text."
     },
     {
       "lvl": "a",
       "tag": "India · Equities",
-      "q": "What transmission channel supported multiple expansion across major Indian equity indices?",
+      "q": "What primary catalysts drove the Sensex and Nifty to advance up to 2% over the past week?",
       "o": [
-        "Foreign institutional investor accumulation and sovereign bond yield compression lowered the discount rate applied to future cash flows.",
-        "Corporate tax cuts directly increased net profit margins across all heavy industry sectors.",
-        "Central bank intervention capped commercial lending rates and boosted retail consumption.",
-        "A sudden collapse in global crude prices eliminated all domestic inflationary pressures."
+        "Foreign institutional inflows and a compression in sovereign yields.",
+        "Aggressive intervention by the Reserve Bank of India to defend the sliding rupee.",
+        "A sudden surge in global oil prices boosting domestic energy sector revenues.",
+        "Regulatory changes that expanded retail access to smaller-cap equity segments."
       ],
       "a": 0,
-      "e": "Foreign institutional investor accumulation and a compression in sovereign bond yields lowered the discount rate applied to future cash flows. Tax cuts and central bank lending caps are outside the provided text."
+      "e": "Domestic benchmarks extended gains because of foreign institutional inflows and a compression in sovereign yields. While oil prices spiked and the rupee slid, those created currency concerns rather than driving the equity advance."
     },
     {
       "lvl": "a",
-      "tag": "India · Currency",
-      "q": "What structural factor exerted depreciation pressure on the Indian rupee?",
+      "tag": "India · Foreign exchange",
+      "q": "What dilemma faces the Reserve Bank of India regarding its currency intervention strategy?",
       "o": [
-        "Expansionary import trends combined with elevated energy import bills widened the trade deficit.",
-        "Massive capital flight triggered by unexpected central bank interest rate hikes.",
-        "A sharp decline in foreign exchange reserves caused by heavy interventions in the forward market.",
-        "Strict capital controls that prevented foreign institutional investors from repatriating dividends."
+        "Blunt intervention mechanisms risk depleting foreign exchange reserves while attempting to stabilise the rupee amid surging oil prices.",
+        "Aggressive interest rate hikes to defend the currency would destroy the outperformance of smaller-cap equities like Ather Energy.",
+        "Capital controls would halt foreign institutional inflows and trigger an immediate compression in sovereign bond yields.",
+        "Direct dollar sales would conflict with the central bank's domestic credit expansion targets."
       ],
       "a": 0,
-      "e": "Expansionary import trends combined with elevated energy import bills structurally challenge the domestic currency by widening the trade deficit. Capital flight and forward market interventions are not cited in the briefings."
+      "e": "The Reserve Bank of India faced acute pressure as an oil price spike coincided with a sliding rupee, forcing policymakers to weigh blunt interventions while commentary highlighted the risk of depleting foreign exchange reserves."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Equities",
-      "q": "What operational milestone preceded Wall Street Zen upgrading Petroleo Brasileiro S.A. to a strong-buy?",
+      "tag": "Brazil · Commodities",
+      "q": "What recent operational development did Petrobras log off the Amapa coastline per EnergyNow reporting?",
       "o": [
-        "The finalization of drilling operations at the Morpho well confirmed a third hydrocarbon discovery in the Amapá block.",
-        "The successful renegotiation of foreign debt obligations eased medium-term refinancing risks.",
-        "The approval of a major environmental license cleared the path for deep-water production scaling.",
-        "A binding agreement to sell non-core downstream assets streamlined the company balance sheet."
+        "A fresh hydrocarbon discovery.",
+        "The completion of a deepwater gas processing terminal.",
+        "A strategic partnership with international oil majors for offshore exploration.",
+        "The suspension of drilling operations due to environmental security concerns."
       ],
       "a": 0,
-      "e": "Petrobras finalized drilling operations at the Morpho well, confirming its third hydrocarbon discovery within the Amapá block, which preceded the rating upgrade. Debt renegotiations and asset sales are not in the text."
+      "e": "Petrobras logged a fresh hydrocarbon discovery off the Amapa coastline, as reported by EnergyNow on November 1st, 2026."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Corporate finance",
+      "q": "What structural action accompanied Aramco's acquisition of a 49% stake in Humain?",
+      "o": [
+        "A $2.6bn capital injection executed in partnership with PIF to accelerate international scaling.",
+        "A strategic restructuring of its internal gas division advised by Evercore.",
+        "The issuance of long-term sovereign debt to finance artificial intelligence infrastructure expansion.",
+        "An agreement with OPEC+ to reallocate production quotas to fund tech investments."
+      ],
+      "a": 0,
+      "e": "Aramco finalized the acquisition of a 49% equity interest in Humain for $2.6bn in partnership with PIF, targeting accelerated international scaling. Evercore was engaged for the gas division restructuring, not the Humain deal."
     },
     {
       "lvl": "a",
       "tag": "Saudi Arabia · Energy",
-      "q": "What specific procurement activity accompanied Aramco's statements regarding its 12 million barrels per day availability?",
+      "q": "How does Aramco's operational capacity interact with current OPEC+ output targets?",
       "o": [
-        "Lamprell awarded an AMPO Poyam Valves order for the Zuluf offshore trunkline and field development.",
-        "A consortium of regional contractors secured long-term pipeline maintenance agreements.",
-        "Domestic steel manufacturers signed exclusive supply contracts for new refining infrastructure.",
-        "International engineering firms finalized front-end engineering designs for expansion projects."
+        "Aramco can deliver 12 million barrels per day within days, even as OPEC+ maintains unchanged December output quotas and pivots toward 2027.",
+        "Aramco must restrict its daily output to comply with strict OPEC+ quota cuts agreed upon for December.",
+        "Security incidents near the Shaybah oilfield forced Aramco to revise its maximum daily production capacity downward.",
+        "The Chief Executive's planned gas unit restructuring aims to permanently separate oil extraction capacity from export targets."
       ],
       "a": 0,
-      "e": "Lamprell awarded an AMPO Poyam Valves order for the Zuluf offshore trunkline and field development. The other procurement activities are fabrications not found in the source text."
+      "e": "OPEC+ maintained December output targets without changes while attention shifted to 2027 quotas, and Aramco's chief executive simultaneously reported that operational capacity can deliver 12 million barrels per day within days."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Pricing",
-      "q": "How did Saudi Aramco adjust its official pricing framework alongside its evaluation of Pakistan's mega oil hub?",
+      "tag": "Nigeria · Sustainable finance",
+      "q": "Through what structural channel does Proparco's 30m dollar funding to Sterling Bank operate?",
       "o": [
-        "It increased official LPG prices by 5.9% to 6.8%.",
-        "It slashed crude export prices to defend market share against non-OPEC producers.",
-        "It introduced dynamic pricing models pegged to daily spot market volatility.",
-        "It decoupled its regional crude supply contracts from global benchmark indices."
+        "Deployment into domestic agricultural and solar assets to expand private credit access for green transition infrastructure.",
+        "Direct sovereign lending aimed at stabilizing the official foreign exchange rate.",
+        "Subsidized retail loans designed to eliminate the valuation gap between official and parallel naira exchange rates.",
+        "Direct equity purchases in Nigerian state-owned oil refining enterprises."
       ],
       "a": 0,
-      "e": "Saudi Aramco increased official LPG prices by 5.9% to 6.8%. Slashing prices or adopting dynamic spot models are not supported by the source."
+      "e": "Proparco commits 30m dollars to Sterling Bank for deployment into domestic agricultural and solar assets, expanding private credit access for green transition infrastructure. It targets green assets rather than foreign exchange stabilization."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · OPEC",
-      "q": "What stance did OPEC take regarding oil output targets and demand fundamentals?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What economic phenomenon is illustrated by the naira quoting at 1,346 per dollar officially and 1,385 on the street?",
       "o": [
-        "OPEC agreed in principle to keep oil output targets steady in December, seeing no peak demand as energy security beat climate priorities.",
-        "OPEC members voted to slash production quotas to offset weakening global economic growth.",
-        "OPEC announced a gradual phase-out of production caps in response to accelerating renewable energy adoption.",
-        "OPEC suspended all quota allocations while awaiting clarity on international trade negotiations."
+        "Ongoing dual-market mechanics in foreign exchange access creating a persistent valuation gap.",
+        "Central bank intervention successfully eliminating parallel market arbitrage opportunities.",
+        "A structural shift in trade balances driven by solar and agricultural project financing.",
+        "Strict capital controls preventing commercial banks from clearing international trade transactions."
       ],
       "a": 0,
-      "e": "OPEC sees no peak oil demand as energy security beats climate priorities, and OPEC+ agreed in principle to keep output targets steady in December. Quota phase-outs and suspensions are incorrect."
+      "e": "The valuation gap between the official rate of 1,346 and the parallel rate of 1,385 reflects ongoing dual-market mechanics in foreign exchange access."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Banking",
-      "q": "What was the economic purpose of the $30m facility extended by Proparco to Sterling Bank?",
+      "tag": "Australia · Central banking",
+      "q": "How are Australian equities and duration risk responding to anticipated actions by the Reserve Bank of Australia?",
       "o": [
-        "To finance Nigerian solar and agricultural initiatives, expanding private credit availability in domestic transition sectors.",
-        "To restructure short-term foreign currency liabilities and prevent a technical default.",
-        "To fund an aggressive cross-border retail banking acquisition strategy across West Africa.",
-        "To build digital payment infrastructure for urban consumer markets."
+        "Equities consolidate near current levels as the market discounts a terminal rate hike cycle, keeping duration risk elevated across the curve.",
+        "Equities rally sharply as fiscal authorities confirm structural expenditure reductions to support monetary tightening.",
+        "Duration risk drops significantly because price action reflects an imminent easing cycle by the central bank.",
+        "Broader market indices surge as institutional participants price out all future inflation-driven rate rises."
       ],
       "a": 0,
-      "e": "Proparco extended the facility to finance Nigerian solar and agricultural initiatives, expanding private credit availability in domestic transition sectors. The other choices involve debt restructuring or retail acquisitions not mentioned."
+      "e": "Equities consolidate as the market discounts a policy tightening cycle by the Reserve Bank of Australia, forcing a defensive posture while duration risk remains elevated across the curve as policy transmission expectations adjust."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Currency",
-      "q": "How did pro-reform factions explain the official exchange rate settling at N1,346 per dollar?",
+      "tag": "Australia · Fiscal policy",
+      "q": "Why does the interaction between fiscal authorities and the Reserve Bank of Australia complicate the domestic demand outlook?",
       "o": [
-        "They attributed second-quarter currency strength to policy implementations.",
-        "They pointed to massive central bank gold sales that accumulated foreign exchange reserves.",
-        "They cited an unexpected collapse in domestic import demand that eliminated the trade deficit.",
-        "They credited strict foreign exchange rationing that forced exporters to surrender revenues."
+        "Labor representatives withhold confirmation on structural expenditure reductions ahead of anticipated monetary tightening.",
+        "Government outlays are expanding at a record pace, forcing the central bank to abandon its terminal rate targets.",
+        "Fiscal authorities have announced immediate spending cuts that directly counteract central bank rate hikes.",
+        "Bond market participants refuse to absorb sovereign debt issuance due to falling inflation prints."
       ],
       "a": 0,
-      "e": "Pro-reform factions cite policy implementation for Q2 currency stability. Gold sales, import demand collapse, and export rationing are not in the text."
+      "e": "The interaction complicates the outlook because fiscal authorities withhold confirmation on structural expenditure reductions ahead of the anticipated monetary adjustment, leaving government outlays as an unquantified variable."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Equities",
-      "q": "What drove the divergence between mining and consumer equities on the ASX 200?",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "What operational disruption occurred alongside the strategic restructuring of Saudi Aramco's gas division?",
       "o": [
-        "Sector-specific capital reallocation occurred as traders reassessed commodity demand against domestic retail risks.",
-        "A surprise interest rate cut disproportionately lowered borrowing costs for heavy industrial firms.",
-        "Regulatory crackdowns on consumer lending forced institutional investors to liquidate retail holdings.",
-        "A massive influx of foreign venture capital targeted exclusively at resource extraction startups."
+        "A drone interception near the Shaybah oilfield resulted in two fatalities, and headquarters sustained extensive damage from a Houthi attack.",
+        "A 49% equity sale in Humain was abruptly canceled due to sudden security threats at export terminals.",
+        "OPEC+ mandated an emergency reduction in production capacity following security breaches.",
+        "Foreign exchange outflows spiked as international investors panicked over sovereign credit default risks."
       ],
       "a": 0,
-      "e": "Sector-specific capital reallocation drove the divergence as traders reassessed commodity demand against domestic retail risks. Interest rate cuts and regulatory crackdowns are not supported by the source."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate Earnings",
-      "q": "What specific operational milestone did beverage producer Kweichow Moutai achieve in its latest update?",
-      "o": [
-        "It returned to quarterly expansion with third-order revenue rising 3.08%.",
-        "It completed the full acquisition of its domestic distribution network to cut intermediary costs.",
-        "It settled all outstanding foreign currency debt obligations ahead of schedule.",
-        "It launched a direct-to-consumer digital e-commerce platform that doubled online sales."
-      ],
-      "a": 0,
-      "e": "Kweichow Moutai broke its prior lull with third-order revenue expanding 3.08%. The distribution acquisition, debt settlement, and e-commerce platform options are fabrications."
+      "e": "The briefing notes that a drone interception near Shaybah caused two fatalities, Aramco's headquarters sustained extensive damage from a Houthi attack, and concurrently Aramco engaged Evercore for its gas division restructuring."
     }
   ]
 }
