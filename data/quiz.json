@@ -1,239 +1,707 @@
 {
-  "generated": "2026-11-05T06:42:16.848Z",
+  "generated": "2026-11-06T02:24:39.550Z",
   "questions": [
     {
-      "lvl": "i",
-      "tag": "United States of America · Fixed income",
-      "q": "Why did gold prices surge past $4,130 following the US election results?",
+      "lvl": "b",
+      "tag": "United States of America · Equity markets",
+      "q": "Why did the Nasdaq composite experience a record single-session point loss?",
       "o": [
-        "Falling Treasury yields reduced the opportunity cost of holding non-yielding bullion.",
-        "Central banks aggressively purchased gold to back newly issued sovereign debt.",
-        "Supply shortages in the physical bullion market coincided with surging retail demand.",
-        "Inflation expectations jumped dramatically following announcements of new fiscal stimulus."
+        "Artificial intelligence growth fears and US midterm political risks drove a sharp market sell-off.",
+        "The Federal Reserve announced an unexpected emergency interest rate hike.",
+        "Major technology firms announced simultaneous bankruptcies.",
+        "Foreign central banks dumped all of their US Treasury holdings."
       ],
       "a": 0,
-      "e": "The texts indicate that the election outcome drove down Treasury yields and the dollar, which reduces the opportunity cost of holding non-yielding bullion. This compression in yields lowers the hurdle rate for hard assets, prompting heavy inflows. The other options involve factors not present in the source texts."
+      "e": "The text states that the Nasdaq suffered a record point loss during a tech-led correction driven by artificial intelligence concerns and US midterm anxieties. The other options are not mentioned in the source."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Monetary policy",
+      "q": "What action did the Bank of England take regarding its benchmark interest rate?",
+      "o": [
+        "It raised interest rates to 4%.",
+        "It lowered interest rates to 0% to stimulate consumer spending.",
+        "It kept the interest rate unchanged at 5.5%.",
+        "It abolished the official benchmark rate entirely."
+      ],
+      "a": 0,
+      "e": "The briefing explicitly notes that the Bank of England lifted interest rates to 4% to cool domestic demand and inflation pressures."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Equity markets",
+      "q": "How did the FTSE 100 index react to the tighter monetary policy stance?",
+      "o": [
+        "It dropped, closing at 10,782.66 as higher borrowing costs dimmed corporate earnings outlooks.",
+        "It rose to a record high because higher rates boost corporate profitability.",
+        "It remained completely flat throughout the trading session.",
+        "It surged past 15,000 points following massive retail investor buying."
+      ],
+      "a": 0,
+      "e": "The briefing explains that the FTSE 100 equity index dropped and settled at 10,782.66 because tighter monetary policy and higher borrowing costs dimmed corporate earnings outlooks."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Equity markets",
+      "q": "What happened to Germany's DAX 40 index during the trading session?",
+      "o": [
+        "It touched a record high before selling pressure pushed it down 0.43% to 26,325.01.",
+        "It crashed by 15% at the opening bell and never recovered.",
+        "It remained closed due to regional technical failures.",
+        "It gained 10% following a surprise tax cut for manufacturers."
+      ],
+      "a": 0,
+      "e": "The source states that the DAX 40 index touched a record high before selling pressure pushed the benchmark into negative territory, closing down 0.43% at 26,325.01."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Corporate news",
+      "q": "Why did Rheinmetall shares tumble during the European trading session?",
+      "o": [
+        "Management downgraded its fiscal year 2026 outlook.",
+        "The company announced a complete halt to all manufacturing operations.",
+        "Regulators fined the company for environmental violations.",
+        "A major competitor launched a hostile takeover bid."
+      ],
+      "a": 0,
+      "e": "The text notes that Rheinmetall shares tumbled following a downward revision to its fiscal year 2026 outlook."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Equity markets",
+      "q": "What caused Japan's Nikkei 225 index to tumble more than 7%?",
+      "o": [
+        "Technology valuations suffered following sharp AI-related declines on Wall Street.",
+        "The Bank of Japan banned all stock market trading for domestic citizens.",
+        "A massive earthquake destroyed the Tokyo Stock Exchange building.",
+        "The government nationalised all major technology companies."
+      ],
+      "a": 0,
+      "e": "The briefing attributes the Nikkei's drop to technology valuations suffering following sharp artificial intelligence-related declines on Wall Street."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Fiscal policy",
+      "q": "How does Prime Minister Takaichi plan to use gains from Bank of Japan exchange-traded fund sales?",
+      "o": [
+        "To finance a new economic security special account.",
+        "To distribute cash directly to every household in the country.",
+        "To pay off the entire national debt immediately.",
+        "To subsidize the struggling agricultural export sector."
+      ],
+      "a": 0,
+      "e": "The source states that Prime Minister Takaichi declared that gains from Bank of Japan exchange-traded fund sales will finance a new economic security special account."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Retail policy",
+      "q": "What milestone did Hainan achieve under its offshore duty-free policy?",
+      "o": [
+        "Total sales reached $5bn in the first year of operation under the new rules.",
+        "It became the largest retail market in the entire world.",
+        "Tax collections exceeded the national GDP of neighboring provinces.",
+        "Foreign visitors spent more than $50bn in a single month."
+      ],
+      "a": 0,
+      "e": "The text specifies that total sales reached $5bn in the first year of operation under the new offshore duty-free rules."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Currency management",
+      "q": "How do Chinese authorities manage the valuation of the yuan?",
+      "o": [
+        "They maintain a split valuation framework and moderate the pace of currency appreciation.",
+        "They allow the yuan to float entirely freely based on global supply and demand.",
+        "They peg the yuan strictly to the value of physical gold.",
+        "They intentionally devalue the currency by 50% every quarter."
+      ],
+      "a": 0,
+      "e": "The briefing states that the Chinese yuan navigates a split valuation framework while authorities moderate the pace of currency appreciation."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Equity markets",
+      "q": "What milestone did the Sensex and Nifty achieve during their recent rally?",
+      "o": [
+        "They recorded their biggest single-day gains in seven months.",
+        "They suffered their worst weekly collapse in recorded financial history.",
+        "They were suspended from trading due to excessive upward volatility.",
+        "They fell below their historical launch prices."
+      ],
+      "a": 0,
+      "e": "The source states that the Sensex and the Nifty recorded their biggest single-day gains in seven months."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Capital flows",
+      "q": "How much capital did overseas funds pour into domestic Indian equities during the rally?",
+      "o": [
+        "Rs 14,975 crore.",
+        "Rs 500 crore.",
+        "Rs 100,000 crore.",
+        "Rs 50 crore."
+      ],
+      "a": 0,
+      "e": "The briefing explicitly notes that overseas funds pumped Rs 14,975 crore into domestic equities during the rally."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Commodities",
+      "q": "What operational update did Petrobras announce regarding the Campos Basin?",
+      "o": [
+        "It is drilling a second well in the Norte de Brava block within the pre-salt region.",
+        "It has completely shut down all oil extraction in the basin due to safety hazards.",
+        "It sold its entire stake in the Campos Basin to a foreign competitor.",
+        "It discovered a new natural gas reserve larger than the rest of the country combined."
+      ],
+      "a": 0,
+      "e": "The text states that Petrobras advances its offshore development by drilling a second well in the Norte de Brava block within the Campos Basin pre-salt region."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Monetary policy",
+      "q": "What decision did the Central Bank of Brazil make regarding the Selic rate?",
+      "o": [
+        "It maintained the Selic rate at 13.75%.",
+        "It slashed the Selic rate to zero to support industrial growth.",
+        "It raised the Selic rate to a record-breaking 25.50%.",
+        "It indexed the Selic rate directly to the US Federal Reserve rate."
+      ],
+      "a": 0,
+      "e": "The briefing states that the Central Bank of Brazil maintains the Selic rate at 13.75% to anchor domestic price stability."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Energy sector",
+      "q": "What warning did Saudi Aramco's chief executive officer issue regarding the Strait of Hormuz?",
+      "o": [
+        "A disruption there could push oil market recovery into 2027.",
+        "The strait would be permanently closed to international shipping tankers.",
+        "Piracy in the region had completely ceased operations.",
+        "A new pipeline would bypass the strait entirely by next month."
+      ],
+      "a": 0,
+      "e": "The source notes that the chief executive officer warns that a Strait of Hormuz disruption could push oil market recovery into 2027."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Corporate earnings",
+      "q": "How did Luberef perform financially despite shipping bottlenecks?",
+      "o": [
+        "It posted record earnings on historic base oil margins.",
+        "It declared bankruptcy due to delayed sales.",
+        "Its profits fell by 80% compared to the previous fiscal year.",
+        "It reported zero revenue for the entire quarter."
+      ],
+      "a": 0,
+      "e": "The briefing states that Saudi Aramco Base Oil Company, known as Luberef, posts record earnings on historic base oil margins despite shipping bottlenecks and delayed sales."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Currency and banking",
+      "q": "What happened to interbank foreign exchange turnover in Nigeria?",
+      "o": [
+        "It moderated by 19% as the naira extended its depreciation against the USD.",
+        "It surged by 200% following a massive influx of foreign direct investment.",
+        "It remained completely unchanged throughout the quarter.",
+        "It was suspended by the central bank to halt inflation."
+      ],
+      "a": 0,
+      "e": "The text states that the naira extended its depreciation against the USD as interbank foreign exchange turnover moderated by 19%."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Fiscal policy",
+      "q": "According to a Central Bank of Nigeria report, what effect do persistent fiscal deficits have on the economy?",
+      "o": [
+        "They hurt the naira and spike interest rates.",
+        "They strengthen the local currency and lower borrowing costs.",
+        "They have zero impact on commercial banking operations.",
+        "They completely eliminate public sector debt within one year."
+      ],
+      "a": 0,
+      "e": "The briefing notes that a Central Bank of Nigeria report showed persistent fiscal deficits continue to hurt the naira and spike interest rates."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equity markets",
+      "q": "Which sector helped insulate the Australian securities exchange from negative Wall Street pressure?",
+      "o": [
+        "The banking sector.",
+        "The mining sector.",
+        "The real estate sector.",
+        "The technology manufacturing sector."
+      ],
+      "a": 0,
+      "e": "The source states that the Australian securities exchange withstands negative pressure from Wall Street, supported by gains in the banking sector."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Fixed income",
-      "q": "How do expectations of the Bank of England lifting borrowing costs to 4% affect short-dated instruments?",
+      "tag": "United States of America · Equities",
+      "q": "Why did United States government bond yields decline during the Nasdaq sell-off?",
       "o": [
-        "Any divergence from the consensus rate path triggers immediate repricing across short-dated instruments.",
-        "Short-dated instruments automatically yield exactly 4% regardless of central bank announcements.",
-        "The central bank purchases short-dated instruments to prevent yields from rising above target.",
-        "Commercial banks stop issuing short-dated debt to avoid paying higher interest rates."
+        "Investors rotated capital away from risk assets into safe havens",
+        "The Federal Reserve slashed benchmark rates to counter artificial intelligence losses",
+        "Commercial lenders increased their borrowing costs to match technology volatility",
+        "Foreign central banks liquidated equities to purchase domestic debt instruments"
       ],
       "a": 0,
-      "e": "The briefing notes that the anticipated benchmark rate hike prices in a three-year peak, and any divergence from this path triggers immediate repricing across short-dated instruments. This demonstrates how market pricing shifts dynamically when consensus assumptions are challenged."
+      "e": "During equity market corrections driven by artificial intelligence concerns, investors typically rotate capital out of risk assets and into safe-haven instruments such as government bonds, which pushes yields lower. The text notes that US Treasury yields compressed as capital rotated away from risk assets into safe havens. The Fed cutting rates or commercial lenders changing borrowing costs is not mentioned in the source."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Fixed income",
-      "q": "Why could a terminal inflation peak of 4.4% in early 2027 challenge long-term sovereign yield curves?",
+      "tag": "United Kingdom · Monetary policy",
+      "q": "How does the Bank of England's decision to raise interest rates to 4% transmit to commercial borrowing?",
       "o": [
-        "It challenges the yield curve if price growth proves stickier than current models suggest.",
-        "It forces the central bank to immediately abolish all long-term sovereign debt auctions.",
-        "It guarantees that short-term interest rates will remain permanently lower than long-term rates.",
-        "It causes commercial banks to permanently lock in fixed interest rates for all mortgages."
+        "Commercial lenders quickly reprice their lending products to reflect the new benchmark",
+        "Corporate earnings instantly improve because higher borrowing costs expand margins",
+        "Institutional investors immediately increase duration risk to capture lower yields",
+        "The FTSE 100 index rises because higher hurdle rates attract retail savers"
       ],
       "a": 0,
-      "e": "Consensus projections place the terminal inflation peak at 4.4% in early 2027, which challenges long-term sovereign yield curves if price growth proves stickier than current models suggest. This directly tests valuation models used by fixed income investors."
+      "e": "Central bank rate increases raise the cost of capital throughout the financial system, leading commercial lenders to quickly reprice their lending products to reflect the new benchmark. Corporate earnings actually face downward pressure as borrowing costs climb, making the second option incorrect."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Equities",
+      "q": "Why did the FTSE 100 equity index decline to 10,782.66 following the monetary policy adjustment?",
+      "o": [
+        "Higher borrowing costs dimmed corporate earnings outlooks and triggered portfolio rebalancing",
+        "The Bank of England directly sold blue-chip equities to reduce its balance sheet",
+        "Overseas institutional investors withdrew capital to fund the purchase of gold",
+        "Commercial banks restricted interbank lending turnover to match currency shifts"
+      ],
+      "a": 0,
+      "e": "When monetary policy tightens, large-cap equities face selling pressure because higher borrowing costs dim corporate earnings outlooks, prompting market participants to rebalance portfolios away from risk-sensitive shares. The sources attribute the drop directly to tighter monetary policy rather than direct equity sales by the central bank."
     },
     {
       "lvl": "i",
       "tag": "Germany · Equities",
-      "q": "What primarily drove the DAX to settle 2.22% higher at 26,437.67 points?",
+      "q": "What primarily compounded the downward pressure on Frankfurt equities alongside the technology selloff?",
       "o": [
-        "US midterm election outcomes synchronized with corporate earnings, supported by lower bond yields and easing oil prices.",
-        "The European Central Bank unexpectedly announced a complete elimination of corporate borrowing rates.",
-        "German manufacturing firms reported a 50% increase in export volumes to Asian markets.",
-        "The national government injected €100bn directly into the accounts of retail equity traders."
+        "Defense sector weakness, including a fiscal year 2026 outlook downgrade from Rheinmetall",
+        "An unexpected interest rate hike by the European Central Bank to 13.75%",
+        "Massive capital outflows directed toward Chinese offshore duty-free retail funds",
+        "A complete operational halt in the Campos Basin pre-salt petroleum region"
       ],
       "a": 0,
-      "e": "The DAX rally was driven by US midterm election outcomes synchronizing with corporate earnings, alongside lower bond yields and easing oil prices supporting risk-on sentiment. The other choices invent external monetary or fiscal policy actions not mentioned in the source."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "Why did Hensoldt nudge up its corporate outlook while peer Rheinmetall faced downward pressure?",
-      "o": [
-        "Hensoldt expanded profit margins on increased radar deliveries, while Rheinmetall faced separate downward pressure.",
-        "Hensoldt acquired its main competitor, whereas Rheinmetall announced a reduction in dividend payouts.",
-        "Hensoldt secured an exclusive government defense contract that excluded all other domestic suppliers.",
-        "Hensoldt relocated its headquarters to a lower-tax jurisdiction to reduce operating expenses."
-      ],
-      "a": 0,
-      "e": "Hensoldt upgraded its guidance because it expanded margins on increased radar deliveries, whereas Rheinmetall faced separate downward pressure during the session. Performance divergence within the same sector is driven by individual operational results."
+      "e": "German and European equities faced downward pressure from a technology selloff combined with sector-wide defense weakness, which was specifically exacerbated by Rheinmetall lowering its fiscal year 2026 outlook. The other options refer to events in entirely different countries or are factually incorrect based on the text."
     },
     {
       "lvl": "i",
       "tag": "Japan · Equities",
-      "q": "How did Toyota manage to report a 34% surge in profit despite a slump in the Chinese market?",
+      "q": "What drove the Nikkei 225 index below the 60,000 threshold?",
       "o": [
-        "Robust hybrid sales and currency tailwinds from a weak yen offset headwinds from China.",
-        "The Japanese government subsidized domestic automotive manufacturing to cover overseas losses.",
-        "Toyota drastically cut its research and development budget for electric vehicles.",
-        "Domestic vehicle prices were doubled to compensate for lower unit sales volumes."
+        "Contagion from artificial intelligence equity declines on Wall Street",
+        "Prime Minister Takaichi's liquidation of exchange-traded funds to buy gold",
+        "A sudden depreciation of the United States dollar against the Japanese yen",
+        "Severe shipping bottlenecks disrupting domestic manufacturing supply chains"
       ],
       "a": 0,
-      "e": "Toyota defied the slump in China due to robust hybrid sales and currency tailwinds from a weak yen boosting earnings. These positive drivers compensated for regional headwinds."
+      "e": "The Nikkei tumbled more than 7% as technology valuations suffered following sharp AI-related declines on Wall Street, accelerating domestic liquidations. While the text mentions Takaichi earmarking ETF gains for a special account, that was not the driver of the equity selloff."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Equities",
-      "q": "What corporate action did Soda Nikka Co Ltd and Inabata & Co Ltd undertake alongside Nippon Yusen?",
+      "tag": "China · Currency",
+      "q": "How do authorities in China manage the valuation of the yuan?",
       "o": [
-        "They announced share repurchase programs to buy back portions of their own stock.",
-        "They issued new corporate bonds denominated in US dollars to fund international expansion.",
-        "They merged their core operating divisions to reduce administrative overhead costs.",
-        "They slashed their dividend payouts to preserve cash for upcoming debt maturities."
+        "They maintain resistance that caps currency appreciation while moderating the speed of gains",
+        "They float the currency entirely free of intervention to match interbank turnover",
+        "They peg the exchange rate directly to the price of gold and offshore duty-free sales",
+        "They raise local borrowing costs to mirror the central bank discount rate"
       ],
       "a": 0,
-      "e": "Soda Nikka and Inabata announced share buyback programs for their stock, while Nippon Yusen doubled its earnings and lifted its dividend payout. Share repurchases represent capital return mechanisms."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Central bank",
-      "q": "How does the People's Bank of China's re-lending facility support corporate equity valuations?",
-      "o": [
-        "It lowers the cost of capital for equity accumulation and functions as a direct backstop for asset prices.",
-        "It forces institutional investment funds to purchase domestic shares regardless of market conditions.",
-        "It guarantees a minimum annual return of 10% for any retail investor buying local stocks.",
-        "It prohibits foreign short-sellers from trading shares on domestic stock exchanges."
-      ],
-      "a": 0,
-      "e": "The re-lending architecture functions as a direct backstop for asset prices by encouraging corporate treasury participation, relying on central bank credit provision to lower the cost of capital for equity accumulation."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Fixed income",
-      "q": "Why do Chinese fiscal authorities weigh sovereign bond offerings denominated in US dollars and offshore renminbi?",
-      "o": [
-        "Such cross-border issuances calibrate the sovereign yield curve in international markets and manage external funding pressures.",
-        "Domestic commercial banks are legally prohibited from purchasing bonds denominated in the local currency.",
-        "Foreign governments require payment of bilateral trade deficits exclusively through offshore sovereign notes.",
-        "Local currency interest rates have risen so high that domestic borrowing is completely impossible."
-      ],
-      "a": 0,
-      "e": "Cross-border issuances calibrate the sovereign yield curve in international markets and manage external funding pressures, with pricing providing a key reference for offshore corporate debt issuance."
+      "e": "The People's Bank of China maintains resistance that caps currency appreciation, with authorities moderating the pace of gains while managing external pressures. The currency does not float entirely free of intervention, nor is it pegged to gold according to the sources."
     },
     {
       "lvl": "i",
       "tag": "India · Equities",
-      "q": "What combination of factors supported Indian equities and the rupee during their recent winning streak?",
+      "q": "What accompanied the strong equity rally that pushed the Sensex up by 6,064 points over six days?",
       "o": [
-        "Crude oil falling below $100 per barrel and US midterm results showing a Democratic sweep.",
-        "An emergency interest rate cut by the Reserve Bank of India and a surge in technology exports.",
-        "The complete elimination of sovereign debt obligations and a record trade surplus.",
-        "A bilateral trade agreement with European nations that boosted manufacturing output."
+        "A surge of Rs 14,975 crore in overseas fund inflows and a 16-paise appreciation in the rupee",
+        "A sharp contraction in interbank foreign exchange turnover and rising fiscal deficits",
+        "An aggressive tightening of monetary policy by the Central Bank of Brazil",
+        "A major production downgrade from Saudi Aramco regarding Strait of Hormuz oil shipments"
       ],
       "a": 0,
-      "e": "The briefings state that crude oil breaching below $100 provided tailwinds for the rupee, while US midterm election outcomes featuring a Democratic sweep reinforced broader risk-on sentiment supporting equities."
+      "e": "Institutional flows surged as overseas funds injected Rs 14,975 crore into Indian equities, coinciding with a 16-paise appreciation in the rupee during the six-session expansion. Fiscal deficits and interbank turnover contractions belong to Nigeria's economic briefing, making those options wrong."
     },
     {
       "lvl": "i",
-      "tag": "India · Central bank",
-      "q": "What is the purpose of the Reserve Bank of India's scheduled overnight Variable Rate Reverse Repo auction?",
+      "tag": "Brazil · Monetary policy",
+      "q": "Why did the Central Bank of Brazil maintain the Selic rate at 13.75% despite industrial sector pressure?",
       "o": [
-        "To absorb a notified amount of ₹75,000 crore and target liquidity conditions under the liquidity adjustment facility.",
-        "To inject long-term capital into failing commercial banks facing severe deposit outflows.",
-        "To finance government infrastructure projects through the direct issuance of foreign currency debt.",
-        "To lower the benchmark lending rate for agricultural loans across rural districts."
+        "To anchor domestic price stability and preserve the country's monetary stance",
+        "To finance a new economic security special account using exchange-traded fund sales",
+        "To offset the downward pressure from falling diesel imports and refinery outages",
+        "To support a rapid expansion of offshore drilling wells in the Campos Basin"
       ],
       "a": 0,
-      "e": "The Reserve Bank of India scheduled the auction under the liquidity adjustment facility to target liquidity conditions by absorbing a notified amount of ₹75,000 crore with a one-day tenor."
+      "e": "Policymakers held borrowing costs steady at 13.75% to anchor domestic price stability, even though the industrial sector complained about economic growth constraints. Funding a special account via ETF sales describes a policy action in Japan, not Brazil."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Equities",
-      "q": "How did Petrobras shares perform relative to the broader market advance following its third-quarter production figures?",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What did Saudi Aramco's chief executive officer warn could delay the oil market recovery into 2027?",
       "o": [
-        "The share price dipped despite record third-quarter production reaching 3.51 million barrels of oil equivalent per day.",
-        "The share price doubled as institutional investors rushed to buy shares ahead of the results webcast.",
-        "Trading in Petrobras shares was suspended by antitrust authorities investigating the Saipem-Subsea7 merger.",
-        "The share price rose by 1.23%, perfectly matching the gains of the Ibovespa index."
+        "A disruption in the Strait of Hormuz",
+        "Historic base oil margin compression across shipping channels",
+        "Persistent fiscal deficits in developing export economies",
+        "Aggressive interest rate hikes by central banks"
       ],
       "a": 0,
-      "e": "Petrobras underperformed the broader equity advance, with its share price dipping despite operational tailwinds from record third-quarter output printing at 3.51 million barrels of oil equivalent per day."
+      "e": "The chief executive officer of Saudi Aramco explicitly warned that a Strait of Hormuz disruption could push oil market recovery into 2027. Shipping bottlenecks affected Luberef's delayed sales, but the Hormuz warning specifically targeted the broader oil market recovery timeline."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What drove Saudi Aramco's net profit to jump 34.5% to $36.25bn in the third quarter?",
+      "tag": "Nigeria · Currency",
+      "q": "What primary macroeconomic factor drives naira weakness and higher local interest rate yields in Nigeria?",
       "o": [
-        "Higher crude prices propelled the revenue expansion alongside the commissioning of the Zuluf oil project.",
-        "A drastic reduction in global shipping and insurance costs for crude oil transport.",
-        "The successful acquisition of several major European downstream refining companies.",
-        "A government mandate requiring domestic manufacturers to purchase all energy from Aramco."
+        "Persistent sovereign fiscal deficits that crowd out private credit demand",
+        "A steep drop in interbank foreign exchange turnover caused by duty-free policy changes",
+        "Massive capital outflows directed toward foreign real estate investment trusts",
+        "Strict regulatory compliance checks initiated by anti-corruption authorities"
       ],
       "a": 0,
-      "e": "Saudi Aramco reported a third-quarter net income increase propelled by higher crude prices, even as global shipping and insurance costs for crude oil increased significantly."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Public finance",
-      "q": "Why did President Bola Tinubu submit a revised external borrowing requisition of $7.7 billion?",
-      "o": [
-        "The downscaled debt issuance superseded an earlier $20.5 billion framework, altering the sovereign liability trajectory.",
-        "The legislature rejected all forms of external borrowing until foreign exchange reserves doubled.",
-        "The International Monetary Fund required the country to reduce its debt ceiling as a loan condition.",
-        "Domestic tax revenues suddenly surged enough to eliminate the need for any sovereign borrowing."
-      ],
-      "a": 0,
-      "e": "President Tinubu transmitted a revised external borrowing requisition of $7.7 billion, superseding the previous $20.5 billion framework to alter the sovereign liability trajectory and refinancing schedules."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Foreign exchange",
-      "q": "What caused the naira to weaken toward N1,348 against the greenback at the NAFEM trading window?",
-      "o": [
-        "Persistent structural imbalances between foreign exchange demand and supply exerted downward pressure while reserves contracted.",
-        "The central bank intentionally devalued the currency to boost exports of manufactured goods.",
-        "Commercial banks refused to trade foreign currencies due to new international banking regulations.",
-        "Foreign investors pulled all capital out of the country in response to a change in tax laws."
-      ],
-      "a": 0,
-      "e": "Persistent structural imbalances between foreign exchange demand and supply continue to exert downward pressure on the currency, while contracting external reserves constrain the central bank's capacity to intervene."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Banking",
-      "q": "What financial trends did National Australia Bank log for its fiscal 2026 earnings report?",
-      "o": [
-        "Net operating income growth alongside a contraction in cash earnings and nearly doubled impairment charges.",
-        "A sharp decline in revenue offset by a complete elimination of provisions for bad debts.",
-        "Record cash earnings driven entirely by a surge in international investment banking fees.",
-        "A massive expansion in net operating income accompanied by lower impairment charges."
-      ],
-      "a": 0,
-      "e": "National Australia Bank posted fiscal 2026 net operating income growth alongside a contraction in cash earnings, while impairment charges nearly double over the corresponding period."
+      "e": "Central Bank of Nigeria disclosures indicate that sovereign fiscal deficits are the primary transmission channel driving naira weakness and higher local interest rate yields by crowding out private credit demand. Anti-corruption probes into bank managers deal with internal control vulnerabilities rather than macro fiscal deficits."
     },
     {
       "lvl": "i",
       "tag": "Australia · Equities",
-      "q": "Why did ASX 200 futures indicate a 2% surge following US market rallies?",
+      "q": "How did domestic financials impact the Australian securities exchange during overnight offshore volatility?",
       "o": [
-        "US election outcomes triggered Wall Street rallies, while Brent crude futures tumbled on hopes an Iran conflict will end.",
-        "The Reserve Bank of Australia announced an unexpected reduction in the cash rate.",
-        "Domestic mining companies discovered vast new reserves of high-grade iron ore.",
-        "Asian stock markets closed for a holiday, forcing international capital into Australian equities."
+        "They insulated the local benchmark from negative pressure coming from Wall Street",
+        "They triggered widespread liquidations across consumer staples and transport equities",
+        "They matched DroneShield's statutory net losses by cutting artificial intelligence spending",
+        "They forced mining operators to absorb higher input cost pressures"
       ],
       "a": 0,
-      "e": "The ASX 200 futures indicated a 2% surge following US market rallies triggered by US election outcomes, while Brent crude futures tumbled on geopolitical expectations regarding the Iran conflict."
+      "e": "Domestic financials insulated the local benchmark from overnight offshore volatility, allowing the Australian securities exchange to withstand negative pressure from Wall Street. Mining operators faced downward revisions independently, rather than being driven by the banking sector's insulation effect."
     },
     {
       "lvl": "i",
-      "tag": "China · Sovereign debt",
-      "q": "What is the broader market significance of Chinese sovereign bonds issued in foreign and offshore currencies?",
+      "tag": "United States of America · Commodities",
+      "q": "How did the broader market sell-off impact gold markets?",
       "o": [
-        "They calibrate the sovereign yield curve in international markets and help manage external funding pressures.",
-        "They eliminate the need for the central bank to maintain foreign currency reserves.",
-        "They replace domestic tax collection as the primary source of government revenue.",
-        "They guarantee fixed returns for retail investors participating in local stock exchanges."
+        "Gold headed for its largest weekly gain since August amid equity liquidations",
+        "Gold prices plummeted alongside technology shares due to artificial intelligence fears",
+        "Government bond yields rose as investors rotated capital out of gold into fixed income",
+        "Gold turnover dropped by 19% as central banks restricted official trading volumes"
       ],
       "a": 0,
-      "e": "Sovereign bond offerings denominated in US dollars and offshore renminbi calibrate the sovereign yield curve in international markets and manage external funding pressures, providing a key reference for offshore corporate debt issuance."
+      "e": "Gold headed for its largest weekly gain since August as investors sought safety and duration demand increased amidst equity liquidations. Gold did not fall with tech shares, and bond yields fell rather than rose as investors sought fixed income."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Fixed income",
+      "q": "What immediate effect did the Bank of England's rate hike have on the broader financial system?",
+      "o": [
+        "It raised the cost of capital throughout the financial system",
+        "It permanently eliminated inflation pressures across all retail sectors",
+        "It compressed short-term swap curves by lowering the risk-free rate",
+        "It triggered an immediate expansion in corporate equity valuations"
+      ],
+      "a": 0,
+      "e": "Raising interest rates to 4% directly raises the cost of capital throughout the financial system. While central banks use this tool to cool inflation pressures, it does not instantly eliminate them, and the risk-free rate shifted upward rather than downward."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Equities",
+      "q": "What happened to the DAX 40 index during the trading session before it closed down 0.43%?",
+      "o": [
+        "It touched a record high before selling pressure pushed it into negative territory",
+        "It surged past 60,000 points following a record pre-Diwali retail rally",
+        "It dropped sharply due to Contagion from Hainan's offshore duty-free policy",
+        "It benefited from a massive capital injection by overseas institutional funds"
+      ],
+      "a": 0,
+      "e": "Germany's DAX 40 index touched a record high during the session before selling pressure pushed the benchmark into negative territory to close down 0.43%. The 60,000 threshold and Diwali rallies belong to Japan and India respectively."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Public finance",
+      "q": "How does Prime Minister Takaichi plan to fund the newly established economic security special account?",
+      "o": [
+        "Using gains from Bank of Japan exchange-traded fund sales",
+        "By securing an additional $7.7bn in external debt financing",
+        "Through revenues generated by the Hainan offshore duty-free framework",
+        "By capturing the proceeds of interbank foreign exchange turnover"
+      ],
+      "a": 0,
+      "e": "Prime Minister Takaichi stated that gains from Bank of Japan exchange-traded fund sales will finance the new economic security special account. The $7.7bn external debt figure is tied to Nigeria's fiscal deficit debates."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Retail",
+      "q": "What retail milestone did Hainan achieve under its offshore duty-free policy?",
+      "o": [
+        "Total sales reached $5bn in the first year of operation",
+        "Transactions surged past Rs 14,975 crore during a pre-Diwali rally",
+        "Export turnover compensated for a 19% drop in interbank liquidity",
+        "Base oil margins reached record highs despite shipping bottlenecks"
+      ],
+      "a": 0,
+      "e": "Hainan implemented an offshore duty-free policy that generated total sales of $5bn in its first year of operation. The rupee figures and base oil margins belong to India and Saudi Arabia respectively."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Operations",
+      "q": "What operational step did Petrobras take in the Campos Basin pre-salt region ahead of its third-quarter earnings?",
+      "o": [
+        "It drilled a second well in the Norte de Brava block",
+        "It liquidated exchange-traded funds to stabilize the Selic rate",
+        "It increased domestic borrowing costs to crowd out private credit",
+        "It settled trade disputes related to the Strait of Hormuz"
+      ],
+      "a": 0,
+      "e": "Petrobras advanced its offshore development by drilling a second well in the Norte de Brava block within the Campos Basin pre-salt region. The other actions describe monetary policy or unrelated geopolitical events."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Banking",
+      "q": "What prompted anti-corruption authorities to open a formal investigation into a former bank manager in Nigeria?",
+      "o": [
+        "Allegations that the suspect diverted N515m from a client account",
+        "A 19% drop in interbank foreign exchange turnover across commercial depositories",
+        "Persistent fiscal deficits that forced the central bank to spike interest rates",
+        "Delays in securing a $7.7bn external debt package from parliament"
+      ],
+      "a": 0,
+      "e": "The Economic and Financial Crimes Commission investigated an ex-bank manager because the individual allegedly diverted N515m from a customer account. The interbank turnover drop and fiscal deficits relate to broader market liquidity and sovereign borrowing rather than individual account diversion."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Equities",
+      "q": "What implied market dynamic was reflected in the simultaneous compression of US Treasury yields during the record point loss on the Nasdaq composite?",
+      "o": [
+        "A flight-to-safety rotation out of risk assets and into fixed-income duration",
+        "A monetary tightening cycle initiated by the central bank to curb credit growth",
+        "An aggressive expansion of equity risk premia driven by structural inflation shocks",
+        "A systemic liquidity squeeze caused by heavy foreign currency interventions"
+      ],
+      "a": 0,
+      "e": "The data notes that investors sought safety in fixed income and capital rotated away from risk assets into safe havens, pushing yields lower. The misconception is that rising yields caused the tech sell-off, whereas yields fell as capital sought defensive duration."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Monetary Policy",
+      "q": "How does the Bank of England's rate hike to 4% transmit through sterling swap curves to affect corporate equity valuations?",
+      "o": [
+        "It shifts the risk-free rate and hurdle rate upward, expanding the equity risk premium and compressing valuations",
+        "It directly reduces short-term corporate revenues by capping commercial lending volumes across the financial system",
+        "It triggers immediate deflationary pressures that automatically boost corporate profit margins across all sectors",
+        "It forces institutional investors to abandon duration matching in favour of speculative equity positioning"
+      ],
+      "a": 0,
+      "e": "The text explains that the policy rate increase shifts the hurdle rate for capital upward and alters short-term interest rate expectations embedded across sterling swap curves, reducing corporate valuations. The common error is assuming rate hikes directly reduce sales rather than altering the discount rate applied to future cash flows."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Equities",
+      "q": "What primarily drove the reversal of the DAX 40 index after it touched its record intraday high?",
+      "o": [
+        "Sector-wide weakness in defence equities and regional technology stocks, compounded by negative cross-border headwinds from Wall Street",
+        "An unexpected interest rate hike by the European Central Bank that instantly choked off industrial borrowing",
+        "A massive liquidation of exchange-traded funds mandated by the federal government to fund special accounts",
+        "A sudden collapse in domestic diesel inventories that halted manufacturing operations across Frankfurt"
+      ],
+      "a": 0,
+      "e": "The briefings state that regional technology and defence equities lagged, exacerbated by a downward revision at Rheinmetall and Wall Street losses adding cross-border headwinds. The wrong assumption would be that a broad macroeconomic policy shift triggered the intraday turn."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Currency & Fiscal Policy",
+      "q": "What macro positioning dynamic coincided with the Japanese yen retracing from its weekly highs against the US dollar?",
+      "o": [
+        "Market participants consolidating positions ahead of the United States non-farm payrolls report",
+        "The Bank of Japan liquidating its entire exchange-traded fund portfolio to finance private corporate debt",
+        "Domestic institutional investors aggressively selling foreign bonds to repatriate capital ahead of tax deadlines",
+        "An emergency monetary policy meeting that lowered domestic benchmark yields below zero"
+      ],
+      "a": 0,
+      "e": "The text connects the US dollar holding firm and consolidating gains to macro participants awaiting United States non-farm payrolls data while the yen retreated. The wrong choice confuses fiscal announcements regarding exchange-traded fund sales with short-term currency positioning flows."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Foreign Exchange",
+      "q": "How do authorities manage the valuation pressures confronting the Chinese yuan under its split framework?",
+      "o": [
+        "The central bank maintains institutional resistance that caps the pace of currency appreciation",
+        "The monetary authority allows the exchange rate to float completely freely based on offshore interbank turnover",
+        "Regulators completely eliminate all offshore duty-free policies to preserve foreign exchange reserves",
+        "Commercial banks systematically peg the currency directly to the price of gold and regional equities"
+      ],
+      "a": 0,
+      "e": "The briefings note that the People's Bank of China maintains resistance that caps currency appreciation while moderating the speed of gains. The incorrect assumption is that authorities let the currency float freely without intervention."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Equity Markets",
+      "q": "What institutional activity accompanied the record pre-Diwali rally and strong single-day percentage gains in Indian equities?",
+      "o": [
+        "Overseas funds injected Rs 14,975 crore into domestic equities alongside a 16-paise appreciation of the rupee",
+        "Foreign institutional investors heavily shorted listed real estate investment trusts to hedge against inflation",
+        "The central bank aggressively cut the reserve requirement ratio to fund a massive infrastructure buildout",
+        "Commercial lenders recalled all retail loans to offset impending losses from agricultural sector defaults"
+      ],
+      "a": 0,
+      "e": "The source explicitly pairs overseas funds pumping Rs 14,975 crore into domestic equities with the rupee advancing by 16 paise. The wrong options invent policy interventions or market behaviors not supported by the regional text."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Monetary Policy",
+      "q": "Why did the Central Bank of Brazil maintain the Selic rate at 13.75% despite intense pressure from industrial constituents?",
+      "o": [
+        "To preserve price stability and anchor domestic <span class='term' data-t='inflation'>inflation</span> expectations, maintaining the country's position at the top of real interest rate tables",
+        "To directly subsidize diesel imports and replenish low inventories at state-run oil refineries",
+        "To weaken the domestic currency and force overseas institutional funds to liquidate local real estate assets",
+        "To offset the statutory losses generated by offshore exploration projects in the Campos Basin"
+      ],
+      "a": 0,
+      "e": "The briefings emphasize that maintaining the Selic rate at 13.75% reflects ongoing efforts to anchor domestic price stability despite industrial pressure. The misconception is that rate holds are used for direct commodity market intervention."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Energy & Markets",
+      "q": "What structural risk did Saudi Aramco's chief executive officer warn could delay the broader oil market recovery until 2027?",
+      "o": [
+        "A potential disruption within the Strait of Hormuz",
+        "Severe shipping bottlenecks and delayed sales of base oil margins",
+        "A permanent collapse in global demand driven by artificial intelligence advancements",
+        "Mandatory reductions in daily extraction quotas imposed by regional regulators"
+      ],
+      "a": 0,
+      "e": "The text states directly that a Strait of Hormuz disruption could push oil market recovery into 2027, according to the chief executive officer. The wrong option mixes up base oil shipping bottlenecks with the specific Hormuz warning."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · Macroeconomics",
+      "q": "What primary transmission channel links sovereign fiscal deficits to exchange rate volatility and rising borrowing costs in Nigeria?",
+      "o": [
+        "Public sector borrowing requirements crowd out private credit demand and elevate default risks, weakening the naira",
+        "Anti-corruption investigations into former bank managers instantly drain interbank liquidity across commercial depositories",
+        "External debt additions of $7.7bn force the central bank to abandon its fixed currency peg entirely",
+        "Constrained foreign exchange turnover automatically expands retail credit supply at subsidized interest rates"
+      ],
+      "a": 0,
+      "e": "The briefings state that persistent fiscal deficits drive naira weakness and higher local interest rate yields because public sector borrowing requirements crowd out private credit and elevate default risks. The wrong choice attributes macroeconomic transmission to micro-level fraud investigations."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Equities",
+      "q": "How did domestic financials impact the Australian securities exchange during periods of overnight offshore volatility?",
+      "o": [
+        "They insulated the local benchmark from external shocks, offsetting downward revisions in mining operators",
+        "They triggered widespread liquidity contractions that forced structural losses across consumer staples",
+        "They engaged in aggressive cross-border share buybacks to artificially inflate artificial intelligence valuations",
+        "They absorbed all foreign exchange turnover losses generated by travel sector liquidations"
+      ],
+      "a": 0,
+      "e": "The source notes that domestic financials insulate the local benchmark from overnight offshore volatility while sector dispersion splits consumer staples and mining operators. The misconception is that banks amplified offshore contagion rather than shielding the index."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Fixed Income",
+      "q": "What underlying factor drove institutional duration demand during the severe technology correction on the Nasdaq?",
+      "o": [
+        "Equity liquidations and risk-off asset reallocation into government bond yields",
+        "Aggressive central bank rate hikes designed to curb artificial intelligence expansion",
+        "A sudden spike in consumer price index prints that increased immediate short-term borrowing costs",
+        "Massive foreign exchange interventions by international central banks to stabilize currency pegs"
+      ],
+      "a": 0,
+      "e": "The text explains that duration demand reflected broad equity liquidations as capital rotated into safe havens. The wrong alternative attributes the shift to monetary tightening rather than risk-off portfolio rebalancing."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Equities",
+      "q": "Why did the FTSE 100 contract to 10,782.66 following the Bank of England's monetary policy adjustment?",
+      "o": [
+        "Higher borrowing costs expanded equity risk premium requirements and dimmed corporate earnings outlooks for rate-sensitive sectors",
+        "Commercial lenders abruptly called in all commercial debt to meet newly imposed central bank reserve ratios",
+        "Institutional investors completely reallocated capital out of domestic equities and into foreign real estate trusts",
+        "A sudden surge in interbank foreign exchange turnover drained cash reserves from large-cap corporations"
+      ],
+      "a": 0,
+      "e": "The briefings state that equity risk premium requirements expanded as the risk-free rate shifted upward, causing broad selling in rate-sensitive sectors. The wrong option assumes banks recalled corporate loans rather than markets repricing future cash flows against a higher risk-free rate."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Corporate Outperformance",
+      "q": "What specific corporate event catalyzed the downward pressure on Frankfurt equities alongside broader regional technology weakness?",
+      "o": [
+        "Rheinmetall shares tumbling following a downward revision to its fiscal year 2026 outlook",
+        "The German central bank raising reserve requirements for all commercial banking institutions",
+        "A catastrophic supply chain failure that halted all offshore crude oil processing in the North Sea",
+        "The unexpected resignation of senior leadership at the exchange operator following a trading outage"
+      ],
+      "a": 0,
+      "e": "The text highlights that Rheinmetall shares fell sharply after management downgraded its fiscal year 2026 outlook, compounding sector-wide defence and technology weakness. The wrong choices introduce macroeconomic or regulatory events not found in the source text."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Equity Markets",
+      "q": "What structural factor accelerated the Nikkei 225 index's descent toward bear market territory below the 60,000 threshold?",
+      "o": [
+        "Contagion from artificial intelligence equity declines on Wall Street that compressed domestic tech valuations",
+        "A sudden legislative ban on exchange-traded fund sales implemented by Prime Minister Takaichi",
+        "Massive retail withdrawals from domestic money market funds to purchase foreign sovereign debt",
+        "An acute shortage of diesel fuel that paralyzed manufacturing output across Japanese export hubs"
+      ],
+      "a": 0,
+      "e": "The briefings state that contagion from Wall Street artificial intelligence equity declines accelerated domestic liquidations and compressed tech valuations. The incorrect answer relies on a misinterpretation of Prime Minister Takaichi's asset sale plans."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Retail Policy",
+      "q": "How was the early performance of Hainan's fresh offshore duty-free policy officially quantified?",
+      "o": [
+        "Through retail capture metrics reaching $5bn in transactions during the initial twelve months",
+        "By measuring the direct appreciation of the yuan against the US dollar in interbank trading",
+        "Through the elimination of all regulatory resistance maintained by the People's Bank of China",
+        "By tracking the volume of sovereign debt issued to finance regional logistics hubs"
+      ],
+      "a": 0,
+      "e": "The source notes that total sales reached $5bn in the first year of operation, quantifying retail capture in the region under the new framework. The wrong choices link retail turnover metrics to currency or debt management."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Alternative Assets",
+      "q": "What comparative yield evaluation emerged regarding alternative investment vehicles in India during the recent market rally?",
+      "o": [
+        "Listed real estate investment trusts outperformed the Nifty benchmark over a two-year horizon",
+        "Overseas funds systematically avoided listed property trusts in favor of short-duration government paper",
+        "Private equity funds experienced massive statutory net losses despite record revenue growth",
+        "Drone manufacturers captured all institutional capital inflows at the expense of commercial lenders"
+      ],
+      "a": 0,
+      "e": "The briefings note that comparative yield evaluations show listed real estate investment trusts outperforming the Nifty over a two-year timeframe. The wrong options invent negative metrics for alternative assets that contradict the provided text."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Production & Earnings",
+      "q": "How did Petrobras manage operational logistics ahead of its third-quarter financial results disclosure?",
+      "o": [
+        "By drilling a secondary well in the Norte de Brava pre-salt structure and elevating November diesel imports to replenish inventories",
+        "By liquidating its entire foreign exchange reserve portfolio to offset domestic industrial borrowing costs",
+        "By freezing all capital expenditure on offshore assets in response to central bank interest rate hikes",
+        "By shifting its primary refining operations entirely to international joint ventures in West Africa"
+      ],
+      "a": 0,
+      "e": "The text explains that Petrobras drove offshore production momentum with the spudding of a secondary well in the Norte de Brava pre-salt structure and scaled up November diesel imports following refining outages. The wrong answer claims the company froze capital expenditure."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Corporate Guidance",
+      "q": "What operational divergence was explicitly detailed in DroneShield's financial filings during the reporting period?",
+      "o": [
+        "The pairing of record half-year top-line revenue with a statutory net loss",
+        "The complete transition of corporate capital expenditure away from defense toward consumer staples",
+        "A massive surge in international travel demand offsetting domestic manufacturing closures",
+        "The successful restructuring of short-term debt obligations to match long-term gilt yields"
+      ],
+      "a": 0,
+      "e": "The briefings state that DroneShield reconciled record half-year revenue with a statutory loss in its financial filings, illustrating operational divergence. The incorrect options attribute entirely different business models or macroeconomic metrics to the firm."
     }
   ]
 }
