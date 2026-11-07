@@ -1,471 +1,513 @@
 {
-  "generated": "2026-11-07T10:00:34.448Z",
+  "generated": "2026-11-07T16:25:12.058Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "7 November 2026",
-    "headline": "The Bank of Japan warned on price pressures as the DAX dropped 1.92% following a global technology sell-off.",
+    "headline": "The Frankfurt DAX dropped 1.92% in a technology sell-off while the Bank of Japan reported overseas investment growth.",
     "lede": {
-      "b": "Bank of Japan Governor Ueda warned that prices might rise further. A price rise means things cost more over time, which economists call <span class='term' data-t='inflation'>inflation</span>. Meanwhile, the German DAX index fell 1.92% to 25,820.36 points because technology shares dropped globally. An index is a group of company shares tracked together to show how a market performs. Frankfurt shares fell as chip and tech stocks suffered wider losses.",
-      "i": "Bank of Japan Governor Ueda warned of upside risks to <span class='term' data-t='inflation'>inflation</span> after achieving the 2.0% target. Overseas investment income drove the current account surplus while labor shortages spurred domestic investment. In Europe, the Frankfurt DAX closed 1.92% lower at 25,820.36 points. A global tech sell-off dragged down local equities, driving Rheinmetall shares lower while ASML gained 2.4%.",
-      "a": "Bank of Japan Governor Ueda flagged upside risks to <span class='term' data-t='inflation'>inflation</span> post-target achievement, attributing the current account surplus primarily to overseas investment income. Domestic investment accelerated amid structural labor shortages, while unprotected deposits reached $890bn. In Frankfurt, the DAX dropped 1.92% to 25,820.36 points, driven by the global technology sell-off and Rheinmetall losses, though ASML bucked the trend with a 2.4% gain."
+      "b": "Stock markets in Frankfurt fell 1.92% to 25,820.36 points because artificial intelligence shares dropped. An index is a group of stocks traded together to track market health. A semiconductor is a material used to make computer chips. ASML defied the drop by rising 2.4%.",
+      "i": "The Frankfurt DAX dropped 1.92% to settle at 25,820.36 points as a broad-based artificial intelligence sell-off pressured equities. European semiconductor firms displayed resilience despite the equity downturn. ASML bucked the trend to finish the session up 2.4%.",
+      "a": "The Frankfurt DAX shed 1.92% to close at 25,820.36 points amid an artificial intelligence sectoral rotation. European semiconductor equities showed idiosyncratic resilience, with ASML gaining 2.4% against a broader regional <span class='term' data-t='deflation'>deflation</span> of tech valuations. Four out of five major European chip stocks recorded gains overall."
     },
     "items": [
       {
+        "c": "United States of America",
+        "b": "Eighty-nine percent of consumer discretionary companies beat profit forecasts.",
+        "i": "S&P 500 Consumer Discretionary firms posted an 89% earnings per share beat rate.",
+        "a": "S&P 500 Consumer Discretionary equities achieved an 89% EPS beat rate on weekly financial results."
+      },
+      {
+        "c": "United Kingdom",
+        "b": "An investor calculated a £1,254 annual passive income target from a FTSE 250 share.",
+        "i": "Income investors evaluated FTSE 250 and FTSE 100 dividend yields for cash flow generation.",
+        "a": "FTSE 100 and FTSE 250 dividend distributions drew analytical scrutiny regarding long-term income generation."
+      },
+      {
         "c": "Germany",
-        "b": "The DAX index fell 1.92% to 25,820.36 points due to global tech losses.",
-        "i": "The DAX closed 1.92% lower at 25,820.36 points amid a global tech sell-off.",
-        "a": "The DAX declined 1.92% to 25,820.36 points, weighed down by the global technology sell-off."
+        "b": "Rheinmetall shares slid and pulled the benchmark lower.",
+        "i": "Rheinmetall shares recorded a notable slide that weighed on the broader benchmark.",
+        "a": "Rheinmetall equity underperformance exerted downward pressure on the benchmark index."
       },
       {
         "c": "Japan",
-        "b": "Governor Ueda warned about prices and noted that Japan has $890bn in unprotected deposits.",
-        "i": "Governor Ueda highlighted price pressures and noted that unprotected deposits reached $890bn.",
-        "a": "Governor Ueda flagged upside price pressures as unprotected deposits reached $890bn."
-      },
-      {
-        "c": "India",
-        "b": "The Sensex jumped 8.82% in its strongest weekly performance since 2021.",
-        "i": "The Sensex surged 8.82% and the Nifty 50 rallied 8.58% in their strongest week since 2021.",
-        "a": "The Sensex surged 8.82% and the Nifty 50 rallied 8.58%, marking their strongest weekly gains since 2021."
-      },
-      {
-        "c": "China",
-        "b": "The central bank added 830,000 ounces of gold to its reserves in October.",
-        "i": "The People's Bank of China increased its gold reserves by 830,000 ounces in October.",
-        "a": "The People's Bank of China expanded gold reserves by 830,000 ounces in October."
+        "b": "Governor Ueda said overseas investment income drives Japan's external surplus.",
+        "i": "Bank of Japan Governor Ueda cited overseas investment income as the primary surplus engine.",
+        "a": "Bank of Japan Governor Ueda identified overseas investment income as the principal driver of the external surplus."
       }
     ],
     "thread": {
-      "b": "Central banks and stock markets moved across multiple countries today. Japan warned about future prices. Germany saw its stock index fall. India recorded strong stock market gains.",
-      "i": "Central bank statements and equity market movements drove international sessions. Japan warned of upside risks to prices while European and Asian equity indices diverged. India posted its strongest weekly gains since 2021.",
-      "a": "Central bank commentary on price pressures intersected with diverging regional equity performances. Tokyo flagged upside risks, while Frankfurt suffered technology-led declines and Indian benchmarks posted multi-year weekly gains."
+      "b": "Central banks and earnings reports shaped market moves globally. Goldman Sachs cut its gold forecasts because of Federal Reserve policy. The People's Bank of China bought gold for the twenty-fourth consecutive month.",
+      "i": "Central bank policy updates intersected with corporate earnings reports across multiple jurisdictions. Goldman Sachs cut gold forecasts in response to a hawkish Federal Reserve. The People's Bank of China extended gold purchases for the 24th consecutive month.",
+      "a": "Global cross-currents featured central bank policy adjustments intersecting with equity metrics. Goldman Sachs lowered gold price forecasts against a hawkish Federal Reserve backdrop. The People's Bank of China extended consecutive gold bullion accumulation to 24 months."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US markets digest index records and growth stocks",
+      "sub": "US corporate earnings beats and Federal Reserve policy updates",
       "ind": [],
       "stories": [
         {
-          "t": "Stock Index Moves and Chip Stocks",
-          "src": "Trefis · FXEmpire",
-          "b": "The S&P 500 is a list of 500 big companies. It went up by 75% in 3 years. But if you measure it in gold, it fell by 14%. Chip stocks also bounced back after a sell-off following the US midterm elections.",
-          "i": "The S&P 500 index climbed 75% over 3 years, yet dropped 14% when valued in gold. Meanwhile, chip stocks staged a rebound following a recent US midterm sell-off.",
-          "a": "Equity gains measured 75% over 3 years in nominal terms, contrasting with a 14% contraction when priced in gold. Semiconductor equities concurrently recovered losses stemming from the post-midterm sell-off.",
+          "t": "Consumer Discretionary Earnings Surpass Expectations",
+          "src": "Seeking Alpha",
+          "b": "Companies in the S&P 500 Consumer Discretionary sector report their financial results for the week. Exactly 89% of these businesses beat their earnings per share estimates. Earnings per share measures a company's profit divided by its outstanding shares.",
+          "i": "The S&P 500 Consumer Discretionary sector posts strong weekly financial results. A notable 89% of companies within this group beat their EPS estimates. This metric tracks corporate profitability on a per-share basis.",
+          "a": "The S&P 500 Consumer Discretionary sector delivers an 89% EPS beat rate for the week. Analysts parse these results to gauge consumer resilience amid shifting macroeconomic conditions. Valuation multiples across the basket reflect these elevated earnings prints.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZJY3dkOGJ6M3lFWnhEZGR6Q3NwWGgxQmJsOEJPaEZWM1l5R2htQ3Z3c0tNT2poWUNPWFFQa0FmMzZJMk1KSDB4WjVLQ2U4VDJKRE9vZGJrdFdtUEF0SGRfUWJZdDRXajF6THRJTnpPS01EZGNaMmJoQk0xUWFBVVItaG9xQnYzZjRhejdHR0Q3S0cxXzNFQnBtQ2lJUEM3Z0ZWd1MzUVFqbVZDOElabURqODR2RzR0Y2I4LWZsUmNIOVpWYWJlZ0owZHRQVFZz?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1FyZEhPMFljVWZzSlJydkJkN3hhVUxOeVpmbTZKRlZ2NzdBWFJVZnRFaGhyUkdSTTllLUVpUHY0bkZnNGlEQmJFZVB4dEdkMUJEOVRCVzZVSnF2V3FNR1B2UnU1bWR5dG5vdFBEZTZaMjl6YjY2eVdPTWdQaU9iamIzY2ZERDZ2Y1RZNWRsZGRhRUZkVHBDd1JiSFE5TzFvOWY2Yko0U0VXLWxzS2ZLSGl6Q2I5WW8?oc=5"
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2UtUTRnbTdvSDd3STdrUUk2UnlEOE9TV1NHVDFVb3ZfM1JFdE9ubTlfRTIzaXhMblJGUVI3ZlEzZzlWV3ZQR2JIYWRfYnlCejNydHJvVVdiUk9wel9hSmNiTi05T0dKNVU2aEU4NjFVT0N4YkNfZGxXcWgtRURrb083a0hzSlNoeVFmSGIzaVBXdGxpU1FkX0llY0VsYnJkVE5rclFYR2Y5Q2xF?oc=5"
           ]
         },
         {
-          "t": "Federal Reserve And Price Views",
-          "src": "The Motley Fool",
-          "b": "President Donald Trump stated that inflation — which means things getting more expensive over time — is way down. Federal Reserve economists have a different view on this. The Fed is the group that manages the country's money.",
-          "i": "President Donald Trump declared that <span class='term' data-t='inflation'>inflation</span> is way down. Federal Reserve economists hold a different perspective on the data.",
-          "a": "Executive assertions regarding decelerating <span class='term' data-t='inflation'>inflation</span> diverged from internal Federal Reserve analytical assessments.",
-          "gloss": "inflation",
+          "t": "Goldman Sachs Lowers Precious Metal Projections",
+          "src": "Yahoo Finance",
+          "b": "Goldman Sachs changes its outlook for precious metals by cutting gold price forecasts. The firm points to a hawkish Federal Reserve as the main reason for lower demand. A hawkish central bank is one that favors higher interest rates to fight rising prices.",
+          "i": "Goldman Sachs cuts its gold price forecasts in response to central bank policy. A hawkish Federal Reserve weighs on broader demand for the precious metal. Higher borrowing costs typically reduce the appeal of non-yielding assets.",
+          "a": "Goldman Sachs reduces its gold price forecasts as a hawkish Federal Reserve weighs on demand. The institution adjusts its models to account for sustained policy restraint by the central bank. Real yield pressures continue to dictate bullion positioning.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5"
+            "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "President Donald Trump spoke about the economy and prices. Leaders and central bank experts disagreed on how fast costs are changing. Experts also warned that stopping international students from coming could hurt the US economy.",
-        "i": "President Donald Trump asserted that inflation has dropped significantly, though Federal Reserve economists disagreed. Commentary also emerged warning that discouraging international students harms the broader US economy.",
-        "a": "Political statements concerning inflation trajectories contrasted with central bank evaluations. Concurrently, analysts argued that policies restricting international student enrollment create structural headwinds for the US economy."
+        "b": "Federal Reserve officials continue to discuss monetary policy choices. Central bank decisions affect borrowing costs across the entire American economy.",
+        "i": "The Federal Reserve maintains its policy stance as market participants monitor monetary levers. Central bank rhetoric shapes expectations for future interest rate paths.",
+        "a": "Federal Reserve communications dictate market pricing of terminal rates. Traders recalibrate duration risk as monetary authorities signal persistent policy vigilance.",
+        "sources": {
+          "0": {
+            "outlet": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
+          }
+        }
       },
       "timeline": [
         [
           "07 Nov 2026",
-          "S&P 500 stocks record new highs and lows while chip stocks bounce back."
+          "Goldman Sachs cuts gold price forecasts due to a hawkish Federal Reserve."
+        ],
+        [
+          "07 Nov 2026",
+          "S&P 500 Consumer Discretionary firms report an 89% EPS beat rate for the week."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "FTSE 100 rallies as oil and bond yields ease",
+      "sub": "FTSE stock targets and dividend income updates",
       "ind": [],
       "stories": [
         {
-          "t": "FTSE 100 Rallies",
-          "src": "BBN Times",
-          "b": "The FTSE 100 stock index is a list of the one hundred biggest companies listed on the London Stock Exchange. This index went up in value. Oil prices and bond yields went down at the same time. A bond is like an IO u from a government or company that pays regular interest. The yield is the return you get on that bond.",
-          "i": "The FTSE 100 index advanced alongside European markets. Oil prices and bond <span class='term' data-t='gilt'>yields</span> declined simultaneously, creating favourable conditions for equities. Lower borrowing costs typically reduce expenses for major listed corporations.",
-          "a": "The FTSE 100 participated in the broader European equity rally. Lower crude prices and compressed sovereign yields drove multiple expansion across the index. This macroeconomic combination reduced discount rates applied to future corporate cash flows.",
-          "gloss": "gilt",
+          "t": "FTSE 250 Share Dividend Target",
+          "src": "Yahoo Finance UK",
+          "b": "An investment writer shows how to target a £1,254 annual second income from a FTSE 250 share. The FTSE 250 is a list of medium-sized companies traded on the London stock exchange. This income comes from company payouts called dividends. Dividends are a share of company profits given to investors. The article calculates this passive income potential.",
+          "i": "An investor details a strategy to target a £1,254 annual second income from a FTSE 250 share. Equities in this index offer yields that appeal to income-focused portfolios. Dividend distributions provide regular cash flow for market participants. The published calculation outlines the required share acquisition size.",
+          "a": "Commentary outlines a methodology for capturing a £1,254 annual yield from a specific FTSE 250 constituent. The total return profile relies on sustained dividend payout ratios within the mid-cap index. Market participants evaluate the underlying cash generation supporting the distribution. The valuation depends on maintaining current payout trajectories.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTlc4WG9HYVc4OEktUURpU1E0akdyMjZaY0pkSzBrS0lBdmtfUU1ZNmQ3ZnlaaUhEV3dwT0NsWlFZZk9NalpyVGdmaXY3QTUzY2s3QkZXTHlXOTBTbnBPZnA5cVVvVHVHeEdlSlVDNEVpOWNNSi1OU0FiLUVBcnY0T3VEdkdOaS00UzlQNWhtMkpIckNrNDdmajBRRTFpNXFTcU9fNjlsY1pTX282U2RiMlJmTDlhM2NkOWJfRFZlam1kOWxOOE85ei1FODJQNV9YQTdrZW5Pd1BLOXZOSGJtNg?oc=5"
+            "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVBPb3VjMFBnN28zOWxyemJFaTBGc09IS1JTRUZkVnhiVHhWQUt1bXYtNUN1d09lSXhqX0Nob3pBb0NvaE9UUnZhNkoyWm5LVjhLUXBkNEc2d3prd3I2RzczejM2REVOcXVpaFg4UFJQOWl2dkRWVE1UMmFZZFBGWXl3?oc=5"
+          ]
+        },
+        {
+          "t": "FTSE 100 Dividend Stocks Review",
+          "src": "Yahoo Finance UK",
+          "b": "Writers examine different FTSE 100 stocks for passive income. The FTSE 100 tracks the one hundred biggest companies on the London stock market. One stock offers a £4,106 passive income goal from a boring dividend stock. Another stock shows 22 years of dividend growth. These payouts reward shareholders with regular cash.",
+          "i": "Analysts evaluate FTSE 100 equities for long-term income generation. One featured dividend stock aims for a £4,106 passive income return. Another featured enterprise demonstrates 22 years of consecutive dividend growth. These metrics highlight consistent capital distribution among major exchange-listed firms.",
+          "a": "Evaluations focus on mature FTSE 100 dividend instruments offering £4,106 in projected passive returns. Separate analyses highlight firms achieving 22 years of uninterrupted dividend growth. Such payout histories reflect robust balance sheet management and reliable cash distribution models. Market participants scrutinize these yields against alternative fixed-income assets.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcktBVVNLYnVCakNyVWpHODVHcHhpT1BHc0wzSWpaWTZ5NkpyaFppbGtiM3pVYldBejFMdDY4YUdacHZSc1oteFlCTGlpaTBMZ3ZfSVdyYURZWWdzbEIxZ2sxV18yNEJpSlVQa0Jqa0dJVzNpU1dYZWgxdw?oc=5",
+            "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFpGY1NGbm9PbHBnU092WWI5Z3BQeGl6ZnR6bGRXNnQ0QWhyak9LNVlWYzdYVnRTdThFOUFHaUEwbXBfTjVTZU01T1V6Yk1aUndWNnZ0RDBrbktLa3ZvRGlleUFtaTYwYlFaWkRuN1RLZWZtV2t5S0F1Q0JoeTZHVWxBeTRsb0dkM0E?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political news was reported for the United Kingdom today.",
-        "i": "No political updates were released for the United Kingdom.",
-        "a": "No political developments were reported in the sources."
+        "b": "No political updates are provided in today's market sources.",
+        "i": "No political updates are provided in today's market sources.",
+        "a": "No political updates are provided in today's market sources."
       },
       "timeline": [
         [
-          "7 Nov 2026",
-          "The FTSE 100 rallied as oil and bond yields eased."
+          "7 Nov",
+          "Yahoo Finance publishes an income target analysis for a FTSE 100 stock."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "DAX drops following global technology sell-off",
+      "sub": "DAX slips as artificial intelligence stocks face a sell-off",
       "ind": [],
       "stories": [
         {
-          "t": "Frankfurt Equities Decline",
+          "t": "Frankfurt Index Drops During Technology Rout",
           "src": "BBN Times · ad-hoc-news.de",
-          "b": "The DAX index dropped by 1.92% to close at 25,820.36 points. An index is a group of company shares measured together to show how a market is doing. This fall happened because of a big sell-off in artificial intelligence shares around the world. A sell-off means many people are selling their investments at the same time. Frankfurt is the city where Germany's main stock exchange is located.",
-          "i": "The DAX closed 1.92% lower at 25,820.36. A broader global sell-off in technology shares drove the decline in Frankfurt. Rheinmetall shares slid during the trading session, contributing to the losses. Meanwhile, ASML shares gained 2.4% despite the wider market downturn.",
-          "a": "The DAX fell 1.92% to 25,820.36 amid a broader global artificial intelligence sector rout. Rheinmetall shares experienced significant downward pressure, dragging down the benchmark. Conversely, ASML outperformed the local trend by finishing 2.4% higher.",
+          "b": "The DAX index tracks the biggest companies in Germany. It fell by 1.92% to close at 25,820.36 points. A big drop in artificial intelligence shares caused the decline. Rheinmetall shares also fell and dragged the market down.",
+          "i": "The DAX index dropped 1.92% to settle at 25,820.36 points. A broad-based artificial intelligence sell-off pressured Frankfurt equities lower. Rheinmetall shares recorded a notable slide that weighed on the broader benchmark.",
+          "a": "The DAX retreated 1.92% to finish at 25,820.36 points amid a global technology correction. Artificial intelligence sector liquidations drove the sell-off, compounded by idiosyncratic weakness in Rheinmetall shares.",
           "links": [
             "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUpzUm13UkZvdGF6a0VjSVRLMTY4WjJHekF6WkNVTUN0RjkyRTFQbHFSRGdYeFVRa0NYZS1iSzhOS0otZXN4ZWZSN25mbXZ3N3h5MlhRd1BpcUpFSUdDRUtCRUhPbmJacDRicG96WGtmdzhyQkRKcDdjNmM5bTVoQVhUX3RIUmoxWWJsdTRKUG5tR014OWJ5aU1MN2Fpb1hnU1dKZkljNVotX2wyb2E2QjRFZ3JfR1FGTl96QmVueUI2OG83OEE?oc=5",
             "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHh4bnI2Z295VXN4M3dzLUJnRUxETFpZZG12TTBBMTJZa21BWThVQzNXTTMxYVlRRG1pWk0zWUNjLVZtcGZIUlpRNnNwMm9yeDAwcUtIVUdjOFY5RkhiUThCZC1Eb1RoeGlpVkVpZGxnS0tRQXFTU3dGcE5DbjBPZkdCU2ZmYnh0T1JDTzNVR0FwUFFqQ2Y2QWVnUVliRW9HSHBIMi1JMzdtV2gwWTBVOXpLbmE?oc=5"
           ]
+        },
+        {
+          "t": "Chip Stocks Diverge While Broader Market Falls",
+          "src": "FourWeekMBA",
+          "b": "European chip stocks moved in different directions during the market drop. ASML defied the negative trend by ending the day up 2.4%. Four out of five European chip stocks still managed to gain overall.",
+          "i": "European semiconductor equities displayed resilience despite the broader equity downturn. ASML bucked the trend to finish the session up 2.4%. Four out of five major European chip stocks recorded gains overall.",
+          "a": "Semiconductor names diverged from the wider market rout as ASML gained 2.4%. Broad sector resilience was evident with four of five regional chip equities closing in positive territory.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjNDbV96Y1JmMk1ubThCVkYtNnA3WTVPTVJ5QlJvNGw0ZVhKUXhELVBHY29XWTl6TXlSWXhiVWlUUTQxdWl6REZ2ZXBoMVBXQ0Q5a2FxTDVMc2c3ZFdTWjVzQWRqd3VOZlF4SHNqMTBVVm9UU0RFb0FfNk9BNzhrYmpGaEt0SzZGZFM1bQ?oc=5"
+          ]
         }
       ],
       "politics": {
-        "b": "The Deutsche Bundesbank was created to be independent of political control. This means the government cannot easily tell the central bank what to do. A central bank manages a country's money and interest rates.",
-        "i": "The Deutsche Bundesbank operates with specific independence from political control. Institutional design protects monetary policy decisions from direct government interference.",
-        "a": "The institutional framework of the Deutsche Bundesbank isolates monetary policymaking from political control. Structural autonomy prevents direct executive or legislative intervention in central bank operations."
+        "b": "The Bundesbank was created to operate free from political interference. Officials discussed monetary policy topics on November 7, 2026.",
+        "i": "The Deutsche Bundesbank maintains structural independence from political control. Christine Lagarde discussed policy matters in an interview on November 7, 2026.",
+        "a": "Institutional design safeguards the operational independence of the Deutsche Bundesbank from political interference. Christine Lagarde addressed policy frameworks in media remarks on November 7, 2026."
       },
       "timeline": [
         [
-          "6 Nov",
-          "DAX closes 1.92% lower at 25,820.36 following an artificial intelligence sell-off."
+          "06 Nov 2026",
+          "The DAX closed 1.92% lower at 25,820.36 points."
+        ],
+        [
+          "07 Nov 2026",
+          "Christine Lagarde gave an interview to Yomiuri Shimbun."
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Bank of Japan warns on prices as unprotected deposits climb",
+      "sub": "Japan bank earnings, deposits, and overseas income",
       "ind": [],
       "stories": [
         {
-          "t": "Bank of Japan Flags Price Pressures",
-          "src": "毎日新聞 · BigGo Finance · StoneX",
-          "b": "The head of Japan's central bank, the Bank of Japan, warns that prices face upward risks now that a 2.0% inflation target has been reached. Inflation is the rate at which the general level of prices for goods and services rises. Bank of Japan Governor Ueda speaks at the International Monetary Fund about the current account surplus. Overseas investment income is now the main driver of that surplus.",
-          "i": "Bank of Japan Governor Ueda flags upside risks to <span class='term' data-t='inflation'>inflation</span> following the achievement of the 2.0% target. Speaking at the International Monetary Fund, the central bank head highlights overseas investment income as the star of the current account surplus. Labor shortages simultaneously reignite domestic investment across the country.",
-          "a": "Bank of Japan Governor Ueda underscores upside <span class='term' data-t='inflation'>inflation</span> risks at the International Monetary Fund after meeting the 2.0% target. Overseas investment income drives the current account surplus while labor shortages spur domestic capital expenditure. The remarks precede a seven-week resistance standoff for USD/JPY facing the Federal Reserve and the Bank of Japan.",
-          "gloss": "inflation",
+          "t": "Bank of Japan Notes Overseas Investment Growth",
+          "src": "BigGo Finance",
+          "b": "Bank of Japan Governor Ueda spoke at the IMF. He said money made from overseas investments is now the main driver of Japan's current account surplus. A current account surplus means a country earns more from abroad than it spends. Domestic investment is also picking up because businesses face labor shortages.",
+          "i": "Bank of Japan Governor Ueda spoke at the IMF regarding current account dynamics. Overseas investment income now acts as the primary engine for Japan's external surplus. Domestic investment is concurrently picking up as labour shortages incentivize capital expenditure.",
+          "a": "Bank of Japan Governor Ueda framed overseas investment income as the dominant driver of the current account surplus during his IMF remarks. Domestic capex is accelerating in parallel, structurally underpinned by severe labour shortages. This dual dynamic redefines the transmission channels for domestic asset allocation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zcmR5T3JYVUtDeUZTem1LbWdncG53b3owOFBxd01OTE50MUxaWjh2aDNkOUlheGtZZEFrMi1IeTV0R2RldG9kX1lNeE40Nks3UXRKbEdMOTl6M0RoV2RzOXpUa002X2xlVlNMR2NjZ19uaFU?oc=5",
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTENLSFF0WkFXZ1NqV3B4cmRCTEVUcDRMMlRFTFM2X3RUbU5CR1BNVW5LS292Sy1lVzUxMkZvUDJNakk0NVRMajI4WktnMUhIYzdoYXBYLUZoMkRub0tlcy1YWHBEbzZmdnVLRU9SYjVNVHVpbVVxUEE?oc=5",
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0V3MEhXNVc3anJ0N000bTJ5blFkM253VHpfcXNGWUlWY013emU0d0hxVTh5T1dJNG56aTRCQll4ekJxSzRHY2lsWklpTkVmX3hSQ3pjcDUzR3lsN3c2aEpOd1FtQi1RNUJxbVBaZlJ6bnY0b3JBNnYxSFNSR2k3VFhRTXZqVV85T1Vza0prMC12eEliU25xS2pkaHpFdE9uVV83eUJnNGhSam9ORkY5WWhtU09qenROVTRhRUtCcw?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LSFF0WkFXZ1NqV3B4cmRCTEVUcDRMMlRFTFM2X3RUbU5CR1BNVW5LS292Sy1lVzUxMkZvUDJNakk0NVRMajI4WktnMUhIYzdoYXBYLUZoMkRub0tlcy1YWHBEbzZmdnVLRU9SYjVNVHVpbVVxUEE?oc=5"
           ]
         },
         {
-          "t": "Japan Deposits and Currency Standoff",
-          "src": "Nikkei Asia · StoneX",
-          "b": "Japan's unprotected bank deposits reach $890bn. Inheritances help push these accounts higher. The Japanese yen faces a seven-week resistance standoff against the US dollar. Currency markets prepare for moves by both the Federal Reserve and the Bank of Japan.",
-          "i": "Japan records $890bn in unprotected deposits as inheritances inflate account balances. The USD/JPY currency pair approaches a seven-week resistance standoff. Market participants monitor upcoming policy stances from both the Federal Reserve and the Bank of Japan.",
-          "a": "Unprotected deposits in Japan expand to $890bn driven by generational inheritances swelling household accounts. The USD/JPY exchange rate tests a seven-week resistance level ahead of policy signals from the Federal Reserve and the Bank of Japan.",
+          "t": "Unprotected Japanese Deposits Reach High Levels",
+          "src": "Nikkei Asia",
+          "b": "Unprotected bank deposits in Japan reached $890bn. Inheritance money is pushing these bank accounts higher. Unprotected deposits are bank balances that do not have government insurance if a bank fails. People are passing down wealth, which swells these totals.",
+          "i": "Unprotected deposits in Japan touched $890bn as demographic wealth transfers inflate account balances. These balances lack state backstops. Inheritances drive the accumulation of uninsured cash across the banking system.",
+          "a": "Uninsured deposits scaled $890bn amid generational wealth transfers. Intergenerational asset flows are pooling in unprotected bank accounts. This concentration amplifies liability-side risks for retail financial institutions.",
           "links": [
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25xYTlCNjVIRjA1alIzTDFROHBUNEYxMWprSWotZXhnR2p4RHpUWHU0STN1NmhKeFpZRmRIYlg1N18wanFyaDdjVU16WEZVRklaSkRsUEc1RHV0WEFzbzA5ZzFkTnFiV0UyOVVUdVNNZVo2Tm9HZExkQURYY2txZ21nMGNRNTRTc2ZJUHQ1aUwtdWdRdEtKbzdrZnhheWpEZVJ2YkdEM29NbDZnWnVpWXhB?oc=5",
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0V3MEhXNVc3anJ0N000bTJ5blFkM253VHpfcXNGWUlWY013emU0d0hxVTh5T1dJNG56aTRCQll4ekJxSzRHY2lsWklpTkVmX3hSQ3pjcDUzR3lsN3c2aEpOd1FtQi1RNUJxbVBaZlJ6bnY0b3JBNnYxSFNSR2k3VFhRTXZqVV85T1Vza0prMC12eEliU25xS2pkaHpFdE9uVV83eUJnNGhSam9ORkY5WWhtU09qenROVTRhRUtCcw?oc=5"
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25xYTlCNjVIRjA1alIzTDFROHBUNEYxMWprSWotZXhnR2p4RHpUWHU0STN1NmhKeFpZRmRIYlg1N18wanFyaDdjVU16WEZVRklaSkRsUEc1RHV0WEFzbzA5ZzFkTnFiV0UyOVVUdVNNZVo2Tm9HZExkQURYY2txZ21nMGNRNTRTc2ZJUHQ1aUwtdWdRdEtKbzdrZnhheWpEZVJ2YkdEM29NbDZnWnVpWXhB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Chinese students use prep schools to enter top Japanese universities. The prospect of a modern Yalta agreement shakes the postwar order in Asia. Regional diplomatic tensions influence economic expectations across the area.",
-        "i": "Prep schools facilitate entry for Chinese students into elite Japanese universities. Broader geopolitical shifts emerge as the prospect of a modern Yalta shakes Asia's postwar order. These structural changes intersect with shifting capital flows.",
-        "a": "Educational pipelines channel Chinese students into Japan's top universities via specialized prep academies. Meanwhile, the prospect of a modern-day Yalta disrupts Asia's established postwar diplomatic and security architecture."
+        "b": "Putin ordered the seizure of more assets belonging to Japan Tobacco in Russia.",
+        "i": "Russian President Putin ordered the seizure of additional assets belonging to Japan Tobacco within Russia.",
+        "a": "President Putin executed orders to seize additional assets belonging to Japan Tobacco within Russian jurisdiction."
       },
       "timeline": [
         [
-          "7 Nov 2026",
-          "Bank of Japan Governor Ueda speaks at the International Monetary Fund regarding the current account surplus."
+          "07 Nov 2026",
+          "Bank of Japan Governor Ueda speaks at the IMF about current account surpluses."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Central bank gold reserves, tech contracts, and liquidity",
+      "sub": "Corporate earnings drops, retail warehousing bets, and bullion purchases",
       "ind": [],
       "stories": [
         {
-          "t": "People's Bank of China Extends Gold Purchases",
-          "src": "news.sbs.co.kr · BigGo Finance",
-          "b": "The People's Bank of China bought more gold in October. This metal is a precious resource often used by countries to back their money. The central bank added 830,000 ounces to its reserves. This marks the 24th month in a row that the bank has bought gold.",
-          "i": "The People's Bank of China increased its gold reserves by 830,000 ounces in October. This addition marks the 24th consecutive month of bullion acquisitions by the central institution. The pace of accumulation accelerated notably during this monthly period.",
-          "a": "The People's Bank of China expanded its bullion reserves by 830,000 ounces in October, marking the 24th consecutive month of central bank accumulation. This persistent sovereign acquisition program represents an accelerated pace of reserve diversification. Observers monitor such official sector purchases for shifts in central bank reserve composition away from fiat assets.",
+          "t": "Pien Tze Huang Posts Profit Drop",
+          "src": "BigGo Finance",
+          "b": "Pien Tze Huang is a company in China. It just reported a profit drop of nearly 40% for the first three quarters. Its total market value is now down over 200 billion yuan from its peak.",
+          "i": "Pien Tze Huang reported a nearly 40% profit drop in the first three quarters. The company's market value stands down over 200 billion yuan from its peak.",
+          "a": "Pien Tze Huang recorded a nearly 40% profit contraction across the first three quarters. Its equity capitalization has declined by over 200 billion yuan from its peak valuation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rMzJDOG81UEwya0xwWFBKNTZBalk3Tkx1blBvRUdQRUwxcWpmTnVieEZXSU41emJRdnlaZTN1M0lSeHpDU0VGSFY2OURfY0lXNUZiWHliMzE3aG5NYVdOZ0cwMlN1UQ?oc=5",
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMW9SeUR3cUMza3dIY1RqZTVDakhoYTZteHFCU3hGMVIxUXZleERCUDcyWnNIR2VCaTdlSi1OVV9QLXlrM245NUo1TkRNM0dtZW1iZjRyVElTSXBkOG95a1dwLW12Y2NwaVBId09NME04aUx4amc?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESHp3TzY3V1l0X0hJUk5uek1IS2w2Y3Zmc3dBVTN2RzItTE1MWnZYZ3ZyeUZGRTdmMi1OX29Da3ZURkluVFR5cmVXREJfUVFHNkVoOTlFVlNXaTVZZ1hJbkFJZXpvMkhrQWtsWUZZWlNQZktGbVE?oc=5"
           ]
         },
         {
-          "t": "Jiechuang Intelligent Signs Computing Contract",
+          "t": "East Buy Invests in Tangerine Peel Storage",
           "src": "BigGo Finance",
-          "b": "China's Jiechuang Intelligent signed a large computing-power services contract. The deal is worth 4.915 billion yuan. A mysterious client named H1 received an exemption from normal disclosure rules for this agreement.",
-          "i": "China's Jiechuang Intelligent secured a computing-power services contract valued at 4.915 billion yuan. The agreement involves a client designated as H1. This client received a special exemption from standard disclosure requirements.",
-          "a": "China's Jiechuang Intelligent executed a 4.915 billion yuan computing-power services agreement. The counterparty, designated confidentially as client H1, secured a regulatory exemption from standard disclosure obligations. Such exemptions obscure the underlying demand drivers for domestic high-performance computing infrastructure.",
+          "b": "East Buy is a Chinese enterprise. It spent over 100 million yuan to build its own warehouse for Xinhui aged tangerine peel. It is using a three-year presale model to fix fake age claims in the industry.",
+          "i": "East Buy spent over 100 million yuan to build its own Xinhui aged tangerine peel warehouse. The firm is employing a three-year presale model to address the industry's age-faking problem.",
+          "a": "East Buy deployed over 100 million yuan in constructing a proprietary Xinhui aged tangerine peel warehouse. The entity is utilizing a three-year presale structure to mitigate structural age-faking in the supply chain.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tbUgwNHNQLUQ5R0VsbUMtMVN4Wnc0WENlRUxpd19zWGd2MFVPMi1VbTIzd3BCYlgxR3RpVVM0RHlDbWMwMnpqMTRoQzhwQzFCSUNtTThGQ1VCTmF6QkhWZXRNNDRlUjBtME1RZVlTeHp2ajllRnc?oc=5"
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hZ21EeElDN2RsZzM3YVhvM29FNTlNeWNaOUdjelBwbGZSVVFRWF9ULWY0NUVwVHZqbHJYaHVYMEp6RWFDUTRKcG9HWXB5Mjlib0FmY1VQcmRlWUtSdVJCNFpUV093VTUwaVdCYUpucnBfQmFOemc?oc=5"
+          ]
+        },
+        {
+          "t": "People's Bank of China Extends Gold Buying",
+          "src": "news.sbs.co.kr",
+          "b": "The People's Bank of China is the central bank of the country, which is like the main bank that runs the money system for the government. It just bought more gold for the 24th month in a row.",
+          "i": "The People's Bank of China extended its gold purchases for the 24th consecutive month. Central bank reserves grew further as official buying continued.",
+          "a": "The People's Bank of China prolonged its bullion accumulation cycle. Official reserves expanded as the central bank extended its gold purchases for the 24th straight month.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OZzR6NE1QelRsY1NxM2NXcWh2NHRnZ290dFgweXRFbWlYZnFHR3BnMU5jZ2dtWHNTVUs0VVdnTG92d2pheXdDMVJISjJFNGxFaGktS0E0bVZlc3Nobk42b1BhcjdiM1lsNHRoOV9n?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "China promised to boost liquidity for its money, known as the yuan. Officials also stated they will back markets in Hong Kong.",
-        "i": "Chinese authorities vowed to boost yuan liquidity and provide support for financial markets in Hong Kong.",
-        "a": "State officials committed to increasing yuan liquidity provisions while reinforcing institutional backing for Hong Kong financial markets.",
-        "sources": {
-          "0": {
-            "outlet": "The Edge Malaysia",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iRmtKbHFOemZiYWtXdWhyNERNN3YzSUhmTmVKQnpGWm1JN2hfWnFiU18wZkMyYm56U0gzV3NNd3Y5alFXeEEtcUQ0MTlMQXBP?oc=5"
-          }
-        }
+        "b": "An employee working for Astellas in China was jailed on a spy charge. This worker is set for release in December.",
+        "i": "An Astellas employee jailed in China on a spy charge faces a scheduled release in December.",
+        "a": "An imprisoned Astellas employee detained in China on espionage charges is scheduled for release in December.",
+        "g": null
       },
       "timeline": [
         [
           "07 Nov 2026",
-          "The People's Bank of China extended its gold buying streak to 24 months."
+          "East Buy announced a 100 million yuan warehouse investment."
+        ],
+        [
+          "07 Nov 2026",
+          "Pien Tze Huang reported a 40% profit drop for the first three quarters."
+        ],
+        [
+          "07 Nov 2026",
+          "Reports confirmed the People's Bank of China extended gold purchases to 24 months."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Indian markets post strongest weekly gains in years",
+      "sub": "Diwali rally drives strong weekly gains for Indian indices",
       "ind": [],
       "stories": [
         {
-          "t": "Indices Rally in Strongest Week Since 2021",
-          "src": "Hindustan Times · Upstox · BW Businessworld",
-          "b": "The Sensex index jumped 8.82% and the Nifty index gained 8.58% over the week. An index is a group of company shares tracked together to show how the market is doing. This marks the strongest weekly performance for these indices since 2021. Foreign institutional investors returned to the market to drive the surge. The Sensex climbed 6,568 points.",
-          "i": "The Sensex surged 8.82% and the Nifty 50 rallied 8.58% in their strongest weekly performance since 2021. Foreign institutional investors returned to domestic equities, lifting the benchmark indices. The Sensex recorded a gain of 6,568 points over the week. The Nifty 50 posted its best weekly gain in 5 years.",
-          "a": "Benchmark indices registered their strongest weekly gains since 2021, driven by foreign institutional investor inflows. The Sensex advanced 8.82% while the Nifty 50 climbed 8.58%, adding 6,568 points on the broader index. The Nifty 50 maintained its bullish structure through the five-day period, defying global tech volatility.",
+          "t": "Diwali Rally Delivers Strong Weekly Gains",
+          "src": "TradingView · The Economic Times",
+          "b": "A holiday celebration called Diwali inspired a big bounce in stock markets. The Sensex jumped 8.82% and the Nifty climbed 8.58%. This marks the best weekly gain for the Nifty since the year 2021. Meanwhile, sectors focused on pharma and metals performed well.",
+          "i": "A festive Diwali rally lifted the Sensex by 8.82% and the Nifty by 8.58% in the best weekly gain since 2021. Sector performance varied as pharma and metals sectors finished higher during the period. Traders monitored the Nifty as it approached the 25,000 to 25,200 resistance zone.",
+          "a": "A Diwali-driven surge propelled the Sensex up 8.82% and the Nifty up 8.58%, marking the strongest weekly performance since 2021. Sector rotation favored pharma and metals while the broader Nifty faced an upcoming technical test in the 25,000 to 25,200 range.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFZ1bmRFRzM3RUkwcWxGbHRMak9BTmRHNjJWRVY1SHpLaXQtaTNuQU9XQnhJVVUzYTdGVlE3V2VWR2xMZXl3UGNqR0VzZ19kVkk5SFBzbTJZM0VxM1h1azY1dmI0QWdUaXJlX1d0WmkwNlhraTdOV0UxMW54dHVyY21ZQWFsLWRIMkxiOHFMTmQ4bTIzeUFlYk1RYml0a0Z6bjNpRUFhVEZWN1RHT3pobjhPNGJsZHJQOVBzV3gxSdIBxAFBVV95cUxNeHF1aWg5cDF2RGgxWTRRN0tmMUVVSm1ydzR2Rk9MSUNrLWN1ZDZ4SG1VUnp3emJTVURCTG02NFEtbWJwWS12TmFXU3BYcDdBV3RQdXllaWZEdkJscVJKU1Y1bnpUMXQyTzBhUVNfRndDSnZiZW1EbXJZU0d5dWIwNTBkRGJmMkp5eEZvQ1NMQW5oeXpReWJlcDlBVmdveFd6aTJTWm1DdUo2MjJFdk5tZC00dlpldld6aFBiRDY3SnVwMGRx?oc=5",
-            "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmhSWUxsZmJ6Y19vbDNFdHRadjAxcWdrYU9iMTRWTnBDR0FTR21tdVJXcTBFQ1JYWmpMTHY3VmdkVGNGVU1uMmFXbnkwT3FDMjN5TU1DODg4RHhWTER0bWVPOFB5eE1uSUZ2aVNzZXZqQ3p0Sk5TMWgxSFo3SnlEZFEtWEtkLUZ2bURLdGRkc29XWk5GSU5lTEsySTJHMENGdzFRZEZwRlc3ZkJqQkJSMDF4aXMtODZXV3F4Qm1tY2dhSmpXTGVXdHhOOTRWNDhWSFJQa05FbktvMUVyVUhONWt4VE1fR093cElSMHNB?oc=5",
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUM3UTM1NXlvU3BSOTNYUFlSLTI0cXhZNGJVZVpkaEZVbksyZG96YVc2dFEweWltaDRnTy04MHFBel9ybVdTY0pCM1VvT214R1BnZERPWjAwTWJqNUg5TUF0SmlkMGdLMVBRYWs5T1NCeE5TdGdpTi1YWXR3VFBZV09zQlRTVW55UDVMVVFnUHRZeloyb28tTzk3VUplSV90Q2ZORWM2YWtCR20xd1hrVVJRSFpaa28?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXRQc1I2QkZiR1VBcTlSNVZmV0ZzdG11cGM3dGZPS1FXWUczb0NneDlpU0MxaVNwcFF1Q00zdnlFbHJHblB4cG03OUE2MGd0cTU0YklwQkMyQktiTjBIRjBPNkZHOE1iTDZTQTkteDJLbkp1ZEw4em5fdEFyV2JxdENHeHkwQmFsbFpWZUJYa2IzVUxldjFBeDFxYWdDd1RGSlFKRmo3Nm9PTHdpUFQ4UXNEVGI0RTBPR1FvUUlPRnRaZ0VwWDlZSg?oc=5",
+            "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOG5tY3AzRDlDdGxlTWMzSmw5UUZqQmFYUVJwWVJjM3NETjBmQzNMbE5iZlhpdXFlTllZUmdtMTVnRkRDRWJ4QVkyOW04YVJuWFdEd1JnVXhvNVZrd0NYTW5uX0t2U1V4ZE0xWHdhTGkycjAwcXZPTThxZG9HNS00eVlMUkV6eGZReWx0ZWtwM1N4YXpVVkNRdjdnejN0VWdDWGdoeVNEZzJWODR6b3FHZmp5OV9zR3FsVzZFSFhvMktEcHJMVHV4R3BCRFByUDgyX0RxRWJYREU1dmt3cmpWQjM3a2czWkZPZ2o4T0xyMXFzSWtkcXfSAfsBQVVfeXFMUHhacFBxRWtGUVp6dll1R1UwQndpTmY2VXRrekthS3A1MmNQdDc0Wm5qUnlKcjlRM1oyT3BBS1UwZVBZSkFvU01vWnRlcHNySFVKazFOd1BFb2QyT1N5U2lBSkJtN29JSC1xN2FIVTF5ZTNCQnF4U2M0X1VONGxNWVZfOVNIRERtR1dOU3JpSE9kZjZLcmVuNDRoOTdRLXpjam1EYUVnRm96cmxKNzczOWVZVFM2b0lZdE5xVm9sa01QMmE4ZU91VTFUaFNKeEhlLWFKMFU2emZvY2pUVTRfOG5DeUlNZmRzYzFiNVNhSDhzbWo5bllHOTZrbUk?oc=5"
           ]
         },
         {
-          "t": "Microcaps Drop as Investors Weigh Asset Shifts",
-          "src": "Business Today · Fortune India",
-          "b": "Microcap stocks crashed nearly 9% during October. The Nifty 50 index gained 1.91% over the same month. Investors are now discussing whether to move their regular investment plans from smaller companies into large companies. Meanwhile, Sensex and Nifty fell nearly 4% over the broader Samvat 2082 period.",
-          "i": "Microcap shares suffered a sharp correction, crashing nearly 9% in October while the Nifty 50 managed a 1.91% gain. The divergence prompted discussions on shifting systematic investment plans toward large-cap equities. For the Samvat 2082 tracking period, both the Sensex and Nifty declined by nearly 4%.",
-          "a": "Microcap equities experienced a severe drawdown, plunging nearly 9% in October despite a 1.91% advance in the Nifty 50. This dispersion has focused capital allocation debates on whether systematic flows should rotate into large-cap alternatives. Over the entirety of Samvat 2082, the Sensex and Nifty posted contractions of nearly 4%.",
+          "t": "Index Growth Concerns and Market Leaders",
+          "src": "CNBC TV18 · Kalkine",
+          "b": "An expert named Sunil Singhania pointed out that half of the companies inside the Nifty index grow slower than the national GDP. Because of this, the Nifty might lag behind the broader market. Meanwhile, a company named BTC Health added India to its cardiac device distribution rights.",
+          "i": "Analyst Sunil Singhania noted that half of the Nifty constituents lag behind national GDP growth, potentially causing the index to underperform the broader market. In corporate developments, BTC Health expanded its exclusive cardiac device distribution rights into India.",
+          "a": "Sunil Singhania highlighted that approximately half of Nifty constituents trail broader GDP growth, establishing structural headwinds for the index relative to the wider market. Concurrently, BTC Health secured exclusive cardiac device distribution rights for the Indian territory.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSmZsVWoycDBSSlVUQkdScVpnYnQ1aXc5cGtoNGNuWTlXWmhqR1FYN194Wk9YRGZ2VWRvZmdNTFkwMFBOQ1dVakdnak0yNDN6dms5alY3ZnMtSHdnSkxDc1lTWTE5b3VkOWMydG5XMmk1S1pld2UwS3VhTFY0Yi16RUNMS2JxUmF5MmNCbWd4NkR4N3V3N2VNTUlqd0hrZFE4ZDhFZGlMZG9SM2psbmpwQVltS0ZBanF2T3dRUWYycC1yLXV1ODVMTTlEM0NwRUdTUE1VSDZxbHBTQklPMVRlelZmeGw3Rlo1YzNHNGxKM3FaUUUwMUHSAfsBQVVfeXFMTzc4RHFlb1hRZDhVRlZtV0piN0tXWTBDNHVLRkNod2RHY0psSkowYWdEQnFMdFZkUS0tQU1uXy1oQ0pjTzMzWWY1U2plU3laUzZuNC1ET2Rtc2ZZTWo5TzBBZjl2Q0Fzd2NXRlp6cUFyc0ZsazN4Mmg5djlwOXhMNTJIVHhHbWE4FjR6cnZCR0EtYWhNNl9IY0RXWXZWbWtrNmo0dW5LVVVCQ3dva3V3MUtXZ0Y0dkhDSVg0eUJOSy1GZXVOVjJhcGpXQkh4VEprb3ZDd19ONDhIcGhmMURUUTFEYWxMV3ZoQldnc0lnVURrdU81UUxkdkZVbWM?oc=5",
-            "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWtjenJ3YWhxdk1LYWFwMm9EMlVkZ2huQ2VGOFYyRVhCM3NqZnhNRmIwVGZDNEJ5UGtvV21reTlNVk55MzVKSUhJVzFuQklsbkFWMW1KcmdKRGlHaDFWZ18wV2NmRjhNRTRaTXVWUHdpaW0yQkh4WV9YelVrcFBoUUI2cXZjMkh6ZW1DV1RPeEEtMVI3ejN4VkNFUEwxLWFLV0dGSEFSRFE2bzY5TzUyZU5QSmhHWmF3Vk9ONWRPa2xDUVVGaUdCZGV3WUpFUVB3U1hGc09hMFBuelHSAegBQVVfeXFMT0lmT1U0SmpaNnBLWmtfd0dMZmR2TkRtaDh4N1N1YjhTNGsydWlUcjdmMlozS3BnajlfNVpGdWxLNEdqM1pNQjF2aEFaUDF3c2tYREZ6dk5lUGM1VWFTMTBpN3k2TXhzbC01aFZJMEVBMmViWmlIOFNlX3hKMVhaRE80by1EQ0p3LXUzemNNZExzZmZ3cDJLWWZYVEV4LVp6bVhiYzBva0gzMlFpMk9xVWZLcjFfQVdqc0ZHaGhNWHZtTEYxRTluZXlDRDd5TWNGdzJoVERHZkxwMVF2MUlmRGVDcFpHaVRJcw?oc=5"
-          ]
-        },
-        {
-          "t": "Enforcement Directorate Probes Suspicious Transfers",
-          "src": "The 420.in",
-          "b": "The Enforcement Directorate tracked suspicious transfers worth 13.5 crore rupees. These financial movements crossed six different countries. Investigators are following the trail of these transactions.",
-          "i": "The Enforcement Directorate tracked suspicious transfers totaling 13.5 crore rupees. These cross-border transactions moved across six separate countries. Investigators are actively monitoring the routing of these funds.",
-          "a": "The Enforcement Directorate identified suspicious cross-border transfers amounting to 13.5 crore rupees routed across six jurisdictions. Regulatory scrutiny is focused on tracing the intermediaries involved in these transactions.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTRjVUkxc19TNkVZaUdtaDQxSGg0ODBUVWhhcGZGT3Vic0pydEpXNUtaYjNVQzIyMXBTRXZtTG9Fam1CbVpZY2NiYl9DVldyNTB4eFd2ZE1uazdzN2gzMHFvYld1QnJ3MWhveFN1TDJZQkI4MHhrRThlcXpVVEZxUWM0ZUtTSmhfT0taZ2tuNFNrNlZ1dmRFaklNClNnUG1vdDdyYkdrelJFeEZfeWRP?oc=5"
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTy1aVmRyakY4UlNQTHlETGY4RGNvYTVBbkhyakk3cVR5aW5peEZYbGxkcHFzOVhoN3pDUkhLM2ZORFJKekJMeXBRcWFWOU5sYTB6NjUwNXJVclNFcmtiZXZYbWdZN0ViTTJTZ3lEQmEzLXdXRG51Z3RNZkc0ak9MVG5jTE9laDUtQzBWVUFQOWVuU2k0WERLZ1RIV2cxeE9MU0I5OV9ndEhKUGhCLURyVDlaa2doZ3Iy0gG-AUFVX3lxTE96ZW1MVGVnSEpfNTJDM2RiMXZHWGMyUUxtemZ2eDlHZ2hUOTNZZlpHbjJrTXRLOEpvUjNROXhYbFltbUFfenRvTmlZY2hMY2hkMHNvSUdIelMyaGFjYVk0WDFoRFlraU84TjJab0JCUktmWl8tNlUtSE9LNnhlcVd4TWZKR2RZVS1mOXBINFBMazZxWTZzOHEwNGlSTEVjT3ZXRGs2cV9ncWhqREhZellKWDRSMG8yelV2M29oV3c?oc=5",
+            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTm5IWDMwN1VvS1UzQUZ4a3dKT0lZNHdscnl3djRVcml1QmFoSjcyWXFTajVVOEVHcUozcE9PYkstZFJSUHNERmJYOUVDX0o2aUpBZF9zQm9GU1l1MDhyNHRCNlc0eExHSHlRcXFHTWRoaVNHMDFfanJ2RlJiRnRmaldYb29pcWlMWV9BeEpzR0FkSFEtZVozUi1CQVJaSEJpWVlWYUxqdjIwcGRsVTAtUlpDbDk4UQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Market participants prepared for the special Diwali Muhurat trading session held on Sunday. Investors evaluated whether stocks or gold would generate more wealth in the upcoming Samvat 2083 period.",
-        "i": "Market participants turned their focus to the upcoming Sunday Diwali Muhurat trading session. Analysts released trading guides and strategy notes evaluating whether equities or gold would generate superior returns in Samvat 2083.",
-        "a": "Market participants positioned books ahead of the Sunday Diwali Muhurat trading session. Strategists issued asset allocation frameworks comparing the wealth-generation potential of equities versus gold for Samvat 2083."
+        "b": "No political updates are available in the current reports.",
+        "i": "No political developments are detailed in the current market sources.",
+        "a": "No political data points are provided in the source material.",
+        "sources": {}
       },
       "timeline": [
         [
           "07 Nov 2026",
-          "Enforcement Directorate tracks 13.5 crore rupee transfers across six countries"
-        ],
-        [
-          "07 Nov 2026",
-          "Sensex and Nifty record best weekly gain since 2021 with rallies near 9%"
-        ],
-        [
-          "08 Nov 2026",
-          "Special Diwali Muhurat trading session opens on Sunday"
+          "Nifty and Sensex record their best weekly gain since 2021 during Diwali trading."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras output milestones and stock market rebounds",
+      "sub": "Ibovespa gains, Petrobras production targets and diesel imports",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Production and Contracts",
-          "src": "ad-hoc-news.de · Inspenet",
-          "b": "Petrobras is a big Brazilian oil company. It crossed 3.5 million barrels of oil per day. The P-78 vessel reached its full nameplate capacity. RINA won a 12.3 million dollar subsea contract involving Petrobras stock. LR also approved an FPSO floating production unit for the Tupi field.",
-          "i": "Petrobras surpassed 3.5 million barrels per day of output as the P-78 unit hit nameplate capacity. The state-controlled producer also awarded a 12.3 million dollar subsea contract to RINA. Concurrently, LR approved an FPSO vessel for the Tupi development.",
-          "a": "Petrobras scaled production past 3.5 million barrels per day alongside the P-78 reaching nameplate capacity. RINA secured a 12.3 million dollar subsea contract linked to the operator's assets. LR clearance for the Tupi FPSO advanced operational deployment pipelines.",
+          "t": "Ibovespa Rises on Corporate Earnings and Market Sentiment",
+          "src": "ad-hoc-news.de · Traders Union",
+          "b": "The Ibovespa is a major stock index, which is a basket of shares representing the biggest companies on a country's stock market. This main stock market measure climbed 1.39% to reach 168,498.45 points. Strong corporate earnings reports supported this market rebound. Traders also digested international sentiment alongside a central bank decision during the session.",
+          "i": "The Ibovespa rose 1.39% to 168,498.45 points as positive corporate earnings supported a market rebound. Traders processed a central bank decision alongside mixed international sentiment during mid-session trade. The primary stock index gained 1.55% to reach 168,764 points earlier in the session.",
+          "a": "The Ibovespa advanced 1.39% to close at 168,498.45 points, extending earlier mid-session gains of 1.55% at 168,764 points. Corporate earnings releases provided the fundamental support for the equity rebound against a backdrop of mixed international sentiment. Market participants priced in domestic monetary policy signals following the latest central bank decision.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbU5rUFk0T3l1TGhzblVQQmR2SmlBenVSc2V2SVEzRlI2S0lOTEFCcGtvT0FocHBfNXhMZG5mWkhpY2RzN2hDRTZpYXZiV21hWHd5VXNHYk1OUWxMblE3MmM5ckZmaXF4eHpaN2EzZGZLU3dLaWwwRHhNOXBDVmFpVEVqMXZrd0xtUWpxTDBIcmNtMDZWRGpCVkZDR2tDWngxWXJKamcwU2dGZ3prdWNiSVR0MXpGTUtZWnd2VGlGajR5QnNJY2Q5T0tvRkRxY3d5dDFlWHVHVkxuSXk5UGI2bkh4a3Y4cGFWLUlCekhocmczZnM?oc=5",
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWs3MUFXTTFTdHB4ZDFEenVaTmZlM29WUlltSWt3aG40S184ODhlcVZlQU9wVENQVEtVTm4wZWlSRXBrMEJ6RFNMUG9JRi1sY3p2NE16OHRwdXZTcDJpemN4V3NsejlYc2hKTGFsdVM0WTdUdWhsLVEtYjRVa2NOSUNncnFyTWkxUWZFMTdnbkJTV0FBUTg0SDdsZHF4eTF2RmtiUWtEVlVXSGJfQ2hmTFNIR0dfSHVvSU82ajB3?oc=5",
-            "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uUEwwZkZ0X2ktMGxzcVNyM0FIVEJGQ1BOOS1QZ0JPcFNVS09HUl9KNTNBTTlGSVBwQTVLNG5DYzNTUTFKZEdyN2dSbFJCX21lUDRyb0U2U0YteHNBMnJiVFM2S0VvWUY1bnlhVUFRZnZnNGxzcWpwZXZUQW4?oc=5"
+            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPam1pVUROalA0T1lBU25JVGpKNG1LYnNhWHNvemdxeTRFU3JGZ2ppcXhBVUpJZTR0b2tUUjM0TDVtbU1FRGlwMkk1cmdWQ1FaSEhZeFowOElrS0pZbko2LUhCY1JaSkdEQ2JGZm5EYzZuTF93M0xrSW14TzhLUk5EWldkM29tZmRRSjJqZTVsQVgzUktrM2ltSVVzM1dtdEFnNWF0amZfWk9WUDRNSEJJOVNpMDF4SjdWeUhtOGJzOVhrR0ZkZjNscE1R?oc=5",
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR09hWVlGdW1VenYwckdud3ctaTZiQVVPUUZ0WHQ5THJfakdOTWhWUlVkYlVnckdXZVFCNHotSUViN0F0elRxd09tUlV2bjFhUDc1U3Z4aWlYWVA5di1qWVFhcmZrbElSZHV0dGFlUmxSbmxTM1ZxMmdnSmlsWFhvNE5aVXI4U1RVQnFXYzRSYVhjdUs2ODFsaERnSEEyTkRvckhCQzdlQVg2S0VQbnBiLWZkQkRrYXhKZ0lBdw?oc=5",
+            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXM2akJ3Q3o1Yk1CQjd2ZmNqdmFHdFdxVTcyVzlIczM2c0F5ZzVnRFpJV3F0bEdKOUVqNmU2TFRoRHh5d2NTbzFSM3owZGhYakRNcHlEcFQ0VWlMZ0FVSmNGbi1ZaV9zRElXZlJRYVd2eExZblNOX2x5dHhhWWNmMTZyZDRCUTVTeENn?oc=5"
           ]
         },
         {
-          "t": "Ibovespa Stock Index Gains",
-          "src": "ad-hoc-news.de · Traders Union",
-          "b": "The Ibovespa is a stock index, which is a group of major shares tracked together to measure the market. It rose 1.39% to 168,498.45 points. Strong corporate earnings reports supported this market rebound. Buyers also controlled short-term trading momentum.",
-          "i": "The Ibovespa rose 1.39% to reach 168,498.45 points. Corporate earnings reports supported the broader market rebound. Buyers successfully controlled short-term momentum during the session.",
-          "a": "The Ibovespa advanced 1.39% to 168,498.45 points as corporate earnings reports reinforced the ongoing equity rebound. Short-term momentum remained firm under buyer control.",
+          "t": "Petrobras Output Reaches Milestone as Refineries Plan Diesel Imports",
+          "src": "ad-hoc-news.de · Energy Intelligence",
+          "b": "Petrobras is a major Brazilian energy company that produces oil and fuel. Its oil production topped 3.5 million barrels a day as the P-78 unit hit its target capacity. Refineries ran near full capacity, which forced the company to plan diesel imports for November. President Lula was reelected and plans to keep the dual strategy for the firm.",
+          "i": "Petrobras surpassed 3.5 million barrels per day of output as the P-78 production unit hit its nameplate capacity. Refineries operated near capacity, prompting plans for November diesel imports. Petrobras is set to retain its dual operational strategy under the reelected administration of Lula.",
+          "a": "Petrobras crossed 3.5 million barrels per day in production volume following nameplate capacity attainment at the P-78 installation. High refinery utilization rates near operational capacity necessitated scheduled November diesel imports to balance domestic product supply. Corporate strategy documents confirm the retention of the dual operational framework under reelected president Lula.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiygFBVV95cUxPam1pVUROalA0T1lBU25JVGpKNG1LYnNhWHNvemdxeTRFU3JGZ2ppcXhBVUpJZTR0b2tUUjM0TDVtbU1FRGlwMkk1cmdWQ1FaSEhZeFowOElrS0pZbko2LUhCY1JaSkdEQ2JGZm5EYzZuTF93M0xrSW14TzhLUk5EWldkM29tZmRRSjJqZTVsQVgzUktrM2ltSVVzM1dtdEFnNWF0amZfWk9WUDRNSEJJOVNpMDF4SjdWeUhtOGJzOVhrR0ZkZjNscE1R?oc=5",
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0Q4ZWVETjlWRkxSU0FqMnprV0JUaWkybUk3Q0lBeFZ6NGlxSWF2U056bWlZb3FjX0dVRThuS0dzNU1qcHFLc2JiXzduTGlxMXBuX3JRaTJiMllHLUdQMDJSZlUtYnk5NFExcHZCTzVJc0RKbXdHdVI0bWRsenRORmVJaDM2bjVDemtnTzBIM0E?oc=5"
+            "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGNWT2I3TDk5Rk5qbE5jdi1oUkQ5U3B6c3FJVkZYWUZlNEdrcmkxbUFIZGVoVEczRE1jQTNDU1pTVDhRejRaNFVrRmZpbXVCNG5mLTJlNzVVdFUtY1ZyWDh0OTNJa2d3a1hHN3A1SlBUaWZMcVNSdjFQRWNTbXpsSHpEcXJrUmk3RGRLcGIyVjBDMHFCeUZ0Q1BnNEdzdFVES1FyYUNCUzN4SGVDUXRmUktEbmdUVk1OR3FKbFhwN2F0b0pxZTRtS3RncGZrUU1RMmhua0x3cUUzazg?oc=5",
+            "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbU5rUFk0T3l1TGhzblVQQmR2SmlBenVSc2V2SVEzRlI2S0lOTEFCcGtvT0FocHBfNXhMZG5mWkhpY2RzN2hDRTZpYXZiV21hWHd5VXNHYk1OUWxMblE3MmM5ckZmaXF4eHpaN2EzZGZLU3dLaWwwRHhNOXBDVmFpVEVqMXZrd0xtUWpxTDBIcmNtMDZWRGpCVkZDR2tDWngxWXJKamcwU2dGZ3prdWNiSVR0MXpGTUtZWnd2VGlGajR5QnNJY2Q5T0tvRkRxY3d5dDFlWHVHVkxuSXk5UGI2bkh4a3Y4cGFWLUlCekhocmczZnM?oc=5",
+            "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZkdseDh1R1c0cmpJbTZ4N0FMU0ZaYXFPUnlKb2VRalVxNWZyNDBkSU1Ka2NLeGFJUWFJbTB1Z3Fic2VIWjVTSHFTZXdzQnVYQ1RnWjQ2a2dWd2R2bENxVVZ3alRfSTI5aEhFSXNhaWRsZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Lula was reelected as president. Petrobras is set to keep its dual strategy under him. The company plans November diesel imports because its refineries run near capacity.",
-        "i": "Petrobras will maintain its dual strategy under reelected President Lula. The state oil producer plans November diesel imports as its domestic refineries operate near full capacity.",
-        "a": "Petrobras is slated to retain its dual strategy under reelected President Lula. Refinery utilisation near capacity necessitates planned November diesel imports.",
-        "sources": {
-          "0": {
-            "outlet": "Energy Intelligence",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZkdseDh1R1c0cmpJbTZ4N0FMU0ZaYXFPUnlKb2VRalVxNWZyNDBkSU1Ka2NLeGFJUWFJbTB1Z3Fic2VIWjVTSHFTZXdzQnVYQ1RnWjQ2a2dWd2R2bENxVVZ3alRfSTI5aEhFSXNhaWRsZw?oc=5"
-          },
-          "1": {
-            "outlet": "ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUGNWT2I3TDk5Rk5qbE5jdi1oUkQ5U3B6c3FJVkZYWUZlNEdrcmkxbUFIZGVoVEczRE1jQTNDU1pTVDhRejRaNFVrRmZpbXVCNG5mLTJlNzVVdFUtY1ZyWDh0OTNJa2d3a1hHN3A1SlBUaWZMcVNSdjFQRWNTbXpsSHpEcXJrUmk3RGRLcGIyVjBDMHFCeUZ0Q1BnNEdzdFVES1FyYUNCUzN4SGVDUXRmUktEbmdUVk1OR3FKbFhwN2F0b0pxZTRtS3RncGZrUU1RMmhua0x3cUUzazg?oc=5"
-          }
-        }
+        "b": "Brazil hosted the climate summit negotiations in the Amazonian port city of Belém. The Brazilian hosts removed concrete national emissions plans from the official table ahead of the meeting. This gathering followed the Paris climate treaty signed ten years prior.",
+        "i": "Brazilian hosts prepared for climate talks in the Amazonian port of Belém by removing concrete national emissions plans from the agenda ahead of the summit. The ten-year anniversary of the Paris treaty formed the backdrop for these discussions. Experts assessed the ongoing moral significance of the agreement despite missed temperature targets.",
+        "a": "Brazilian organizers of the Belém climate summit stripped individual country emissions plans from the formal negotiating agenda ahead of the event. The summit marked a decade since the adoption of the Paris treaty framework. Observers noted that the core temperature target remains unachieved while the pact functions as a moral compass.",
+        "string": null
       },
       "timeline": [
         [
-          "6 Nov",
-          "Ibovespa rises around 1.5% as traders digest central bank decision"
+          "November 2025",
+          "Brazilian hosts prepared for climate summit talks in the Amazonian port of Belém."
         ],
         [
-          "6 Nov",
-          "RINA wins a 12.3 million dollar subsea contract with Petrobras"
-        ],
-        [
-          "7 Nov",
-          "Petrobras plans November diesel imports as refineries run near capacity"
+          "6 November 2026",
+          "The Ibovespa gained 1.55% to reach 168,764 points during mid-session trade."
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco profits, OPEC forecasts, and stadium announcements",
+      "sub": "Security incidents strike infrastructure as regional oil talks proceed",
       "ind": [],
       "stories": [
         {
-          "t": "Saudi Aramco Profits and Oil Market Disruptions",
-          "src": "Manager Magazin · EnergyNow.com",
-          "b": "High oil prices protect the profits of Saudi Aramco, which is the national oil company of Saudi Arabia. The CEO of Aramco stated that disruptions in the Strait of Hormuz could push any market recovery into 2027. OPEC also lowered its global oil demand growth forecast for 2026.",
-          "i": "High oil prices protect Saudi Aramco profits amid conflict in Iran. The CEO warned that Strait of Hormuz disruptions risk delaying market recovery until 2027. Meanwhile, OPEC further reduced its global oil demand growth forecast for 2026.",
-          "a": "Elevated crude pricing sustains Saudi Aramco margins during ongoing regional hostilities. Management highlights that Strait of Hormuz chokepoints could defer market normalization into 2027. Concurrently, OPEC revised its 2026 global demand growth trajectory downward.",
+          "t": "Security Incidents Reported Across Sites",
+          "src": "The Times of Israel · Hindustan Times",
+          "b": "Yemeni Houthis say they attacked Riyadh airport, Aramco oil sites, Saudi troops, and a Saudi National Guard camp in Najran.",
+          "i": "Yemeni Houthis report carrying out attacks against Riyadh airport, Aramco oil installations, Saudi military personnel, and a Saudi National Guard camp in Najran.",
+          "a": "Yemeni Houthis claim coordinated strikes targeting Riyadh airport, Aramco facilities, Saudi armed forces, and the Saudi National Guard installation in Najran.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajdrNWl3Vk1GaDZteFdRWUg4bFQ2eGxPbEppMDRjTUhqNW5EaTc4RVVFRXZ6U0NRd1QyQ2RkZlRNd2FwbFplRW9vbHZPY01sT1phaEpURE5nNHl6OS0yWEVlVWtGVDk1VllJdWNRb0RaMnprSi1kalpzdXlZWmdoWDRvNUJqajdsRVZLcmFvRFhlY2dPM3dRa0hOQWdxQTl0MXBtd3pDUzZjYlVNcWtCLWJSMHNLU0VsZ3ZLTUwzLUtBUHM2VndiTGF4QWVFZXJiWlNCYWJBYURPSEt2V3VvQg?oc=5",
-            "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGF4eTctTUVhdU5hYTlzcU1DWDdzWVZVXzl2ZDl1ai1PT2wxbTR0XzJtNGdKYnJrMVZRZFZXc1FoaG9IVTg3ZlRMUllWYnZzZ0NaeVVfU0FtZ1laOUhxRTZ0ZlZzNHVLR3hjNWRfLU1qZndQR1BEbmtjOU9YTXN1eEliN2NkWXI3M1VsS0RxOVVCR2Yy?oc=5",
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjZCVHU0cUs2NktNWlZBYnNrcVZlbXh4c2ZWYzFOTXltbGtXeVBGblNIR2RsLW9EeENoV1hZM1RUek1fUEpacEFFSndqbFpuUWhlTGs3QnNfcVhEYm9lTTlqejd1UV9EWFI1QmtfaXQ0WFZHX2hKaGh1UnNKUTRDV1ZkMkcwOElHOTNpRTAwZkl0UDFETkF3UUNWbVlkeUNiUlNMV2Ywd2dWVWE0VHowSmx2RGxzQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnl3NjY1NnltbnhjYlZTT2w0TUw1S2YtQkE3V2hIUWxlVGdobVlMYl9CVzZFZU1yYkF1RnF3ejNNZGYzVlN5T3RNTWc2VGRRZ09WZ09qdWpFV0tBOWFnbE1ReFdjenRnYzAtNXNvNDAtWG9GaWd1WXh4aWkzUC13T3IxZWlxb3FlS25uNnlWenkyNmIzc0sxS2FNUU56eHNXQWZSUG15UHFmWjA4VjBFYWRJWm1fVC00S0ZoQzNMLW1LY3FnSlE?oc=5",
+            "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaU9McDk3d1hQR0YxeXd4X3hsUmlEU2VWWkQ4UUR5QXBQamlBR3pNU3lCZV92dWh0T0hOYXdQNzdDcWlITkZuTHZUMkE5UjlCdFVQUTVZUGN5VElnTU04YTA5YXRjbm1IV3M0dVF4cWE3bmJtRUgtVGJKcW9aUl9SR3ZOZnNxY0tobVplVWJKX29PWTBaZGE1RTRfWm80aFNvT1ZsVUxnM1BSYUNPbHZCd0VmOVA1TzduRUVhcEJBOGViRmhwdXZadUE5NkFyRHFxdkJ1eVF5a29RVndnTmljc1dZV0oxWXNVdE43anhSdFDSAfYBQVVfeXFMUHFWeVlJMGZIUW8tSnJxd0lGLU9mYWVwQXlmd1dmWURPZUluNG9iQWdxc2lOUS10NWZNT0h1ZVlOUWZlNklRUjV0dmhob0F2dWF0aHBLaG9odWs0UWxCempBVDhyLWtVeDJ3QU1kWVdCc3FrY1l6SXM2MncxMFVnWkRQWlpHMWcyR25WNFpqYU5IalJ1NEUzTi1lRzRRN3R1QTFFZE1xbkQ5bUZVclI0elVFR3IzTUg4MmJvNjN6M05Tc2VHc01hQ2YwS0djZWJzVWlSVFFFNTVFeGtTQ01MODY1TFhkRWZwa2Y3VTB1VzV5VTVQbVln?oc=5"
           ]
         },
         {
-          "t": "Luberef Earnings and Infrastructure Developments",
-          "src": "Yahoo Finance · INDiplomacy",
-          "b": "Saudi Aramco Base Oil Co, known as Luberef, reported its Q3 2026 earnings. The Aramco Stadium in Al-Khobar was designated to host the FIFA World Cup 2034 alongside other major international events.",
-          "i": "Saudi Aramco Base Oil Co (Luberef) released its Q3 2026 earnings results. Officials confirmed that the newly highlighted Aramco Stadium in Al-Khobar will host the FIFA World Cup 2034.",
-          "a": "Luberef disclosed its Q3 2026 financial metrics during its earnings call. The Aramco Stadium in Al-Khobar secured official status to host fixtures for the FIFA World Cup 2034.",
+          "t": "Production Discussions and Quota Talks",
+          "src": "Iraqi News Agency",
+          "b": "Iraq says its oil production reached 5 million barrels per day and holds talks with OPEC to increase its export quota for 2027.",
+          "i": "Iraq reports total output hitting 5 million barrels per day while pursuing discussions with OPEC regarding higher export quotas for 2027.",
+          "a": "Iraq discloses production volumes reaching 5 million barrels per day alongside ongoing negotiations with OPEC aimed at securing a higher export quota for 2027.",
           "links": [
-            "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0lkWHpFYjVwNl94R3pIdkJReWdndm5PNzI4Z2V6a2FnNzVOaWJVR2lHRjhjSzZSS2lVMEdySE4wc3U3QW9lSndVMllFYkduRU8xQ1NQOUt1THhlNHJRODVpb2ZkVmJOSlVwczdjYWhRR05udlVMRk54MklPVUVnRklrMEhTQWZ5ZElPVnhMZENQblpfWU40?oc=5",
-            "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWRBZWw4X24xMnllZXpFcUV3dXotTHUtbDZYeDQ3b2VzMWZkU01LMExSZmpQczJibW1KWVhTcWFTUGRybWRlUUdpc19nLWQ1QzNuemFudWRfcTFldjhiM1JTVnNfVDRDSDViSFEwaXlaS1Z6R0xNVzhqbURaWE9UVjNGRmRHTkM3OHU4emp2elJUOGo1N3J2MmJUeWFlNURJOXFaaG40R09XTDc5WlYtVUhCR2trYmh6U0xjQWpQSFdQTV9n?oc=5"
+            "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZUdCa1B0aU8wYldEMzFBcC12RjlBNzdEY19zc0pRbkl3R0FyTUhQOHl1STlTQVZnb2FWSlBFWEFVcTE5bnhBNk4wN2htZk5DNkYyZjB4UVJKTUZ1a1kyMVNMeWdScm1aNHVjTUM2dksxc25zTW1oaE5XVThjRVVPTzl5Q3lqaXpUZDlEWTl3Z044T09MTzhBalIwamJ2aVAwVElCenp6U2hJaUZDS2VPd0ZGVERvbmV6VEpMZHAxdzl5RVpGTzYzUWVFVW5tSGJJZFFycWEzQW92U244TDhzRGZhdU5QUENXdEZj?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "OPEC continues to adjust global demand forecasts while facing external pressures. The United Arab Emirates made an exit from OPEC, which drew a welcome from Donald Trump. Iraq also pushed for a larger quota within the group.",
-        "i": "OPEC faced shifts as the United Arab Emirates completed an exit from the group. Donald Trump welcomed the departure of the United Arab Emirates. Meanwhile, Iraq pursued a bigger OPEC quota due to revenue pressures.",
-        "a": "OPEC structural integrity faced headwinds following the United Arab Emirates exit, an event welcomed by Donald Trump. Concurrently, Iraq stepped up demands for an increased quota driven by domestic revenue pressures and investment needs.",
-        "link": ""
+        "b": "Yemeni Houthis claim attacks on airports and oil sites, while Iraq discusses oil production numbers with OPEC.",
+        "i": "Houthi forces report strikes on Saudi infrastructure targets, and Iraq engages OPEC in talks over export quotas.",
+        "a": "Houthi operational claims target domestic Saudi infrastructure while Iraqi ministerial statements confirm bilateral quota discussions with OPEC."
       },
       "timeline": [
         [
-          "06 Nov 2026",
-          "OPEC further lowers its 2026 global oil demand growth forecast."
+          "7 Nov",
+          "Iraq announces production volume of 5 million barrels per day"
         ],
         [
-          "07 Nov 2026",
-          "Luberef reports Q3 2026 earnings highlights."
+          "7 Nov",
+          "Houthis claim strikes on Riyadh airport and Aramco facilities"
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Tinubu defends reforms as naira movements and cloud services make news",
+      "sub": "Tinubu defends currency reforms as the naira trades at N1,346",
       "ind": [],
-      "stories": [],
+      "stories": [
+        {
+          "t": "President Defends Currency Changes",
+          "src": "Vanguard News · Business Post Nigeria",
+          "b": "President Bola Tinubu said that his currency reforms stopped the local currency from losing all value. He stated that citizens would need wheelbarrows just to buy tomatoes without these policy shifts. He also argued that an exchange rate of N1,300 per dollar still holds worth. The official market later recorded the naira trading at N1,346 per dollar.",
+          "i": "President Bola Tinubu defended his administration's currency overhaul by claiming it rescued the naira from hyper-<span class='term' data-t='inflation'>inflation</span>. He asserted that without these interventions, everyday purchases would require wheelbarrows of cash. The official market exchange rate recently settled at N1,346 per dollar.",
+          "a": "President Bola Tinubu credited the administration's foreign exchange overhaul with averting extreme currency devaluation, arguing that pricing pressures would otherwise necessitate physical cash transport in wheelbarrows for basic goods. Meanwhile, the official market print placed the naira at N1,346 against the dollar. The intervention's long-term efficacy remains tethered to reserve accumulation and structural deficit containment.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRG1sRzJTZ0x3dWRra0ZfVkN2S0ZSbjNmanp4aG1BWTViTE9wTmJtbUVKc3ZEazVsMVR2NmFhMXBsRFVQeUlybzlvY2JwVzJMa3pXd1pQaF9yMVFoQUVuRk9vb3c0SHlRWDlubEU2VTR3Yk1nTGY5SlRRUnpyQ0RqeERVTmp2M0tFd1FSOWNTbHJXUVQyRmZ2dVpvVVFKWU1CTFZjaGZwQlU5akJtOWppM9IBtgFBVV95cUxOZmxSZEkyczdTM3FSTUwxTGJINGw2QVViUi1jMG9jZFFidzJIckcwRERlUWhHMWo3NkhEWjRZcVRPclYxLUhBUm9qV3otVVYtMUtrazgwOVhacnJtYUVsdzQ5dXRrUmJPTEJ4WDRCd1RtcFFESG1jcGREemNVdERQWk1IUXdiRkF4Mld6Y01yUmxqNUtuXzhJWmgxd3ViQkNWNDQ3ZGFrd2VRQ1lvb3NFUnM0S1JQQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGZOS1dodXNoWER5a2pDTnRibUtPWThKWE9nbnFBTDlzaVNqMXg0dTV0Z1Zfall6Z1ItRFJOd3ZmaDU2Nnkxd3hSMWRrdmdtSXlSM0NKbmc5YW5uUnBGMEZxd1NlS3ZKY09vSmVKVXJSVlBxTUs2MU9yaUFmVTBQSTJxWFNnUjQ?oc=5"
+          ]
+        },
+        {
+          "t": "Obi Questions Trillions in Savings",
+          "src": "Head Topics · Nairametrics",
+          "b": "Politician Peter Obi asked President Bola Tinubu to account for N15.8 trillion in savings. Reports also highlighted central bank research pointing to deficit problems alongside bigger reserves and a weaker naira. These economic figures sparked widespread debate about government revenue windfalls.",
+          "i": "Peter Obi demanded accountability from President Bola Tinubu regarding N15.8 trillion in reported savings. Concurrently, central bank research highlighted a paradox of rising reserves existing alongside persistent deficits and a weaker currency. Public scrutiny continues to track these fiscal windfalls.",
+          "a": "Peter Obi publicly requested a detailed accounting of N15.8 trillion in purported fiscal savings under President Bola Tinubu. Separate central bank findings detailed a macro paradox characterized by expanding foreign reserves, ongoing fiscal deficits, and currency depreciation. Observers continue to contrast these large cash windfalls against broader economic distress.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXh6VjBLNklKLXR0aGNzVGF0UmYxVHBkRXVVVzc2SnF4OFlJOVVTMDBNeHFwNzFrSFhsMk54TU96c2DwaWlNeURoZjR2LXVvQ042a3VDZER3aEZOSUQ3Z3VIQ0Q1MC1pdWg5b25XOGVnRmZJOVpNVFR0eU5jcGJDU0d4UHhDTnRIMDlTMnltU3ZzVXhpZlJEakZJbWQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkh0dDNZbHVDUGFQR01FVVc2TjNxRWNFallUZlVVU19Zei1rak9IU3BJTGM4UlAwRVJnNU9Ec19hVzI0X2lHZTJ0T1ZlQ1FUc29BYzNXUExTUW9sTnNiTTVfM0lyRy1aX3p6dE1xNnMySzNpYnFUN1BDdjBPcEFnY0ZRTDVZd24wb1FINVlUd1RHTG9fTW5sc3VhbTMydkJBVTVWT242djhRTzBlY1o1SDdGbw?oc=5"
+          ]
+        }
+      ],
       "politics": {
-        "b": "President Bola Tinubu spoke about the country's money. He said past changes saved the currency from losing all its value. Without those steps, people would need wheelbarrows just to carry cash.",
-        "i": "President Bola Tinubu defended his administration's economic policies. He argued that the unification of the currency prevented it from becoming entirely worthless.",
-        "a": "President Bola Tinubu asserted that the foreign exchange unification policies averted a collapse in currency value. He framed the reforms as vital interventions against severe depreciation."
+        "b": "President Bola Tinubu defended his financial policies against critics like Peter Obi. Peter Obi asked the government to explain where N15.8 trillion in savings went. Officials argued that radical actions prevented total economic collapse.",
+        "i": "President Bola Tinubu defended his administration's policy trajectory against mounting opposition scrutiny. Peter Obi challenged the executive branch to account for N15.8 trillion in accumulated savings. The political debate centered on the trade-offs between macroeconomic reforms and citizen living standards.",
+        "a": "President Bola Tinubu robustly defended his reform agenda against political pushback from figures such as Peter Obi, who demanded transparency regarding N15.8 trillion in alleged savings. The political discourse exposed deep divisions over whether recent revenue windfalls compensate for ongoing structural deficits and currency weakness."
       },
       "timeline": [
         [
           "7 Nov 2026",
-          "Tinubu states that the naira would have become worthless without reforms."
+          "President Tinubu defends economic reforms and currency changes"
         ],
         [
           "7 Nov 2026",
-          "FX turnover slows to $1.45bn during the first week of November."
+          "Peter Obi demands account for N15.8 trillion in savings"
+        ],
+        [
+          "7 Nov 2026",
+          "Naira trades at N1,346 per dollar at the official market"
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Corporate pay revolts and currency shifts in Australia",
+      "sub": "Australian corporate updates and currency technical levels",
       "ind": [],
       "stories": [
         {
-          "t": "Executive Pay Rebuffed at Annual General Meetings",
-          "src": "Independent Australia",
-          "b": "Companies in Australia hold annual meetings where owners vote on pay. Some company boards face angry shareholders who reject executive salaries. This vote count follows a specific rule about consecutive objections. The process creates tension between corporate leaders and investors.",
-          "i": "Listed groups on the ASX face renewed shareholder pushback over executive remuneration. Annual general meetings trigger the two-strikes rule as investors register discontent with board pay policies. Institutional holders use this mechanism to challenge corporate governance standards. Discontent over board decisions spills into open votes.",
-          "a": "AGM season activates the legislative two-strikes mechanism across ASX entities, pressuring board remuneration reports. Institutional asset owners leverage voting rights to penalize misalignment between executive incentives and performance. Escalating dissent exposes vulnerabilities in governance structures as boards confront binding spill resolutions.",
+          "t": "Mining and Engineering Corporate Updates",
+          "src": "Kalkine Media",
+          "b": "Nuix rolled out a new artificial intelligence framework. Austin Engineering built up momentum after holding its annual general meeting. Worley saw its stock sink close to its yearly low.",
+          "i": "Nuix deployed a governed generative artificial intelligence framework. Austin Engineering sustained operational momentum post-AGM. Worley shares dropped toward yearly lows.",
+          "a": "Nuix introduced a governed generative AI framework. Austin Engineering leveraged post-AGM momentum. Worley equities compressed near annual trough valuations.",
           "links": [
-            "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHVlVGtldzd4WmM3NjlRRDJ6ejl0ZWtJNS1vM0pfanpaY2gxdnJNZjRNUk5HUmdlU3FLRlEwUnRnaDFKQkREaWRNeUUxZy1FaGlmWDJtQXNLN1pFX1JoZlY4VldQcDdRalR4WVk3OGdsR2RGaERFa0VDTzE3Zmh2T1JyN1lfMFAtQWgtbXlVV2lwYzJnV0E2aUgwTGtqX0Vsa2lyNUdNakNzbnF3eFhwRDZPLVRNYkxtMXlsNGN1VEVxT1BSbTJxdzNpS2N5QQ?oc=5"
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDBDY3NBU1V4ZXAxY0xfSDVycW5zOWJzSnhPMHdrMExZVkdPTnFhc2pDSjhxZ0ZmZG1udlp3ajZVR2hOZ2dZRTBiU051ZEN5dUpMNHNTMXFlVTZScWlpMUpPcjJ6SlpGM3YxUFRNa1FiczRLcURVbXVRTWNPdy1jWElxZ0hvYWpRRC10M2hYSlNrRHdVeEpnbHNNaw?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2FDT0g0cDV0bG9FU1FoV2wzSHZ0SWhtZ0tMUENFMjZvbHlQcG5TbkNJeXpCRk9DQVJDcFlvbjNtNVlLX0pLSm5JTkVZSEgyX0habUs1UFFyWDFIZTJhaVNBc1dKYmFDRjQtOEl3ZFdabUl1X0pvbmx5Vzc4R0x4WWNUV0M0bU1fVXNrM25RTEhWQXZOTUNuMGZET0xsU0RFaUdkdGhJOXJqRUpQc0E?oc=5",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYThIb2tWdGtRWERweFRuajZHQlRRaFBHS0JOZVdXMzlVTDJoQTBpd3RqQk85UkZwV283WlphYVhYdWdSN0tscmN2TmJORHVKNE1BNE5wdHJMc1dvNkFpbE5hMGNhWFZTSjVLT01Jck5uRWY5UUdPTngtQkZsY3lWOW1raFM3b25JOW5sZkJNZWMzUDNNd2VGMkVRZEVHVGM?oc=5"
           ]
         },
         {
-          "t": "Australian Dollar Reverses Against the US Dollar",
+          "t": "Resource Explorers Release Studies and Grade Updates",
+          "src": "Kalkine Media",
+          "b": "FireFly unveiled its first study for Green Bay. OD6 reported that high grades boosted its fluorspar project in Nevada. Australian Mines rebranded its focus toward scandium.",
+          "i": "FireFly released an initial Green Bay study detailing a long-life mine. OD6 benefited from high Big Jim grades at its Nevada fluorspar project. Australian Mines executed a corporate rebrand centred on scandium.",
+          "a": "FireFly published its inaugural Green Bay scoping metrics. OD6 leveraged elevated Big Jim assay grades across its Nevada fluorspar assets. Australian Mines pivoted corporate identity via a scandium-focused rebrand.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVJQOGRVRTQ5d0lXWHgyZTBQRXhsV1NtcWhsaHNyMlczeURXYngzTF9hb2V1NmQ5bVNfaW5BTURlc1FNY0JZSjJfZ3pEYVJ2d1lKeXNVRUFSdHNvcDFTc05UbFdEaDNzQUpPbEhZOHY5bkp0bmROYXhaTlJreFRaX2FwcVBaSWRRQzFuQVFNVTJrUFFnNnZoVngwOXdDenhSYmZadkE4MGxoLUxTSzMzWUw2aw?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHpDUGZlNUtrTDdzSkpOTnZocHdMblE3OHpuQnNoN2dNSWNiVDgzMk9yZFNycVExdHEtOG9kSTgzZTJOWkQ1eDZVUW9Zbk5LOENoUFlhVVVheFp3ODdKVzh0bDVuUURKYnNSTWUtQ2lNTVJKMmVMSlI5dXFwUE9qa29NOVNJZVUzRFRMRjQxVVYtdVE0S3dZbFp3?oc=5",
+            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzlsVFdISzF1cmI2R2RHTkJkaGVjbU50MXZnMkd3QkFZaTRWSFlWZ2pYZVRFYlJKcFVyRnpvMzY4MlRVOExrZzZDeTN1ZVJOclU3UmxhSnVaenBQekVfYVBKVW15cFZOakY3TURtRncyM3RHa05FQkRBQndZQU1PUUVOMk9taFVQZGl6UWM2QmM4Z1FPZUE?oc=5"
+          ]
+        },
+        {
+          "t": "Australian Dollar Reverses October Breakout",
           "src": "StoneX",
-          "b": "The money of Australia changes in value compared to American money. A previous price increase in October now goes backward. The currency moves down toward a very important support line. Traders watch these changes to see where values might settle.",
-          "i": "The AUD/USD exchange rate retraces its October breakout trajectory. Technical momentum shifts downward as the currency pair approaches critical support levels. Market participants reevaluate positioning following the sudden reversal. Macro traders monitor the price action for further downside continuation.",
-          "a": "AUD/USD spot dynamics unwind the aggressive October upside extension as price action tests pivotal structural support. Order flow implies a liquidation of leveraged long positions following the failed breakout attempt. Macro models must now account for shifting yield differentials and weakening domestic fundamentals to gauge the sustainability of current support levels.",
+          "b": "The Australian dollar versus the US dollar saw its October breakout reverse. The currency pair moved back toward critical support levels. Technical analysis tracked this shift.",
+          "i": "The AUD/USD currency pair reversed its October breakout. Prices drifted back toward critical support levels according to technical analysis. Traders monitored these technical thresholds closely.",
+          "a": "The AUD/USD spot rate retraced its October upside breakout. Price action pressured key technical support zones. Technical models highlighted this structural exhaustion.",
           "links": [
             "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWElDSUVFZWl0WGZkbDNqWWlCcEd2dzBLeENnb0JUMEhiN2NlUkJSdGgxa2FPQU93R3l5ZWNiVTgyanp3T01rQkdyM3Nzc21MR1F3bmxRdWg0OXkycHZaclBKZGVUWTBQSk43Mnd6NzBRMHZ4bG9WMjRqbVdZY25fUl9TX3hKNThUV2V4TFMzUGg5X1h3VVBjdmpTZ3N2c183WU9oQ1lLcjI2cHB3T3A2bUdHU1AzR0RlODB3dHBhR3lLbWIxNVVkVlZzY2pwQmR5a1o5cnFJZHQ?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Australian banks show little worry despite a weak economy.",
-        "i": "Domestic lenders maintain calm outlooks despite broader macroeconomic weakness across Australia.",
-        "a": "Major banking institutions exhibit muted concern regarding macroeconomic softening within the Australian economy."
+        "b": "There are no political events listed in the sources today.",
+        "i": "No political developments or government policy announcements were reported in the sources.",
+        "a": "The provided data contains no explicit geopolitical or domestic political telemetry.",
+        "sources": {}
       },
       "timeline": [
         [
           "7 Nov 2026",
-          "TalonX seeks ASX quotation for 133 million shares"
-        ],
-        [
-          "7 Nov 2026",
-          "AGM season tests the two-strikes rule across ASX boards"
-        ],
-        [
-          "7 Nov 2026",
-          "AUD/USD October breakout reverses toward critical support"
+          "Companies across the ASX released operational updates, earnings previews, and structural rebrand plans."
         ]
       ]
     }
