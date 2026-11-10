@@ -1,473 +1,707 @@
 {
-  "generated": "2026-11-10T17:50:32.477Z",
+  "generated": "2026-11-10T23:17:24.528Z",
   "questions": [
     {
       "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "What happened to the S&P 500 when higher consumer costs were reported?",
-      "o": [
-        "It dropped nearly 1% as sticky consumer costs altered rate expectations.",
-        "It surged 3% to reclaim the 60,000 threshold.",
-        "It rose 31 points as mining stocks rallied.",
-        "It gained 1.10% by the close of trade."
-      ],
-      "a": 0,
-      "e": "The text states that the S&P 500 dropped nearly 1% when a hot inflation print crossed screens and sticky consumer costs altered rate expectations. The other options describe market movements from different countries."
-    },
-    {
-      "lvl": "b",
       "tag": "United States of America · Fixed income",
-      "q": "Which direction did US Treasury yields move following the inflation surprise?",
+      "q": "Why did US Treasury yields climb above 5.0% following the release of the Consumer Price Index data in October?",
       "o": [
-        "They moved toward 5%.",
-        "They fell below 1.34.",
-        "They dropped to a three-month low.",
-        "They remained completely unchanged."
+        "Because consumer prices exceeded forecasts and sparked discussions of a rate hike.",
+        "Because the Federal Reserve officially lowered benchmark borrowing costs.",
+        "Because foreign central banks sold their holdings of US government debt.",
+        "Because commercial banks lowered their profit margins on loans."
       ],
       "a": 0,
-      "e": "Higher price pressures pushed Treasury yields toward 5% after the inflation print crossed screens. Yields rise when price pressures increase and rate expectations shift."
+      "e": "When inflation is higher than expected, investors often demand higher yields on government debt to protect their returns against rising prices. The text notes that consumer prices exceeded forecasts and sparked discussions of a big step rate hike, pushing yields past the 5.0% threshold. Lowering rates or foreign selling are not mentioned as the cause of this yield spike."
     },
     {
       "lvl": "b",
-      "tag": "United States of America · Commodities",
-      "q": "How did Bitcoin and gold react to the Federal Reserve rate hike fears?",
+      "tag": "United States of America · Equities",
+      "q": "How did financial sector stocks react when US Treasury yields rebounded?",
       "o": [
-        "Bitcoin tumbled to a nearly three-month low and gold slid alongside it.",
-        "Bitcoin rose to a record high while gold dropped.",
-        "Both assets surged 35% as the trade surplus grew.",
-        "Both assets were unaffected by the central bank data."
+        "They advanced across the board as higher yields generally increase profit margins for lenders.",
+        "They fell sharply because banks struggle to make money when interest rates rise.",
+        "They remained completely unchanged while stock futures dropped.",
+        "They suffered heavy losses due to a major decline led by Nvidia."
       ],
       "a": 0,
-      "e": "Bitcoin tumbled to a nearly three-month low and gold prices slid alongside digital assets as strong price pressures diminished risk appetite."
-    },
-    {
-      "lvl": "b",
-      "tag": "United States of America · Credit markets",
-      "q": "What did the New York Federal Reserve report about troubled US debt levels?",
-      "o": [
-        "They ticked upward during the third quarter.",
-        "They fell to zero as consumer stress disappeared.",
-        "They remained completely flat throughout the year.",
-        "They were replaced entirely by sovereign bond issues."
-      ],
-      "a": 0,
-      "e": "The New York Fed report detailed that troubled American debt levels ticked upward during the third quarter, confirming mounting arrears."
+      "e": "Financial stocks often benefit when debt yields rise because higher yields can expand the profit margins of lenders. The text explicitly states that financial sector stocks advanced across the board as the debt market recovered because higher yields generally increase profit margins for lenders. The Nvidia-led decline affected stock futures prior to this recovery, not the banking sector's response to yields."
     },
     {
       "lvl": "b",
       "tag": "United Kingdom · Equities",
-      "q": "Why did the FTSE 100 index close lower during the session?",
+      "q": "What drove the London FTSE 100 index to lose 31 points and close lower?",
       "o": [
-        "A drag from mining shares, specifically gold miners, drove the decline.",
-        "Artificial intelligence shares caused a broad-based market collapse.",
-        "Higher crude oil prices forced mining companies out of business.",
-        "Commercial lenders recalled their loans to industrial firms."
+        "A drag from mining shares, specifically gold miners.",
+        "A sudden collapse in British retail bank share prices.",
+        "An unexpected announcement of higher interest rates by the Bank of England.",
+        "A sharp drop in the value of the US dollar against the pound."
       ],
       "a": 0,
-      "e": "London's FTSE 100 index lost 31 points because a drag from mining shares, specifically gold miners, pressured the broader index downwards."
+      "e": "Stock market indices are pulled down or up by the performance of the companies inside them. The briefing notes that a drag from mining shares drove the decline, with gold miners specifically pressuring the broader index downwards. There is no mention of British retail banks, Bank of England rate changes, or the dollar causing this specific 31-point drop."
     },
     {
       "lvl": "b",
-      "tag": "United Kingdom · Currencies",
-      "q": "Why did sterling initially drop below 1.34 against the US dollar?",
+      "tag": "United Kingdom · Foreign Exchange",
+      "q": "Why did sterling initially drop below 1.34 against the US dollar before later recovering?",
       "o": [
         "Hot US inflation figures increased the likelihood of a Federal Reserve rate hike.",
-        "The Bank of England cut its main interest rate to zero.",
-        "UK mining stocks suffered heavy losses on the London exchange.",
-        "British external reserves paused their growth."
+        "The UK government announced a massive reduction in public spending.",
+        "British manufacturing output fell short of analyst projections.",
+        "The Bank of England cut its benchmark interest rate to zero."
       ],
       "a": 0,
-      "e": "Hot US inflation figures increased the likelihood of a Federal Reserve rate hike, which pushed sterling below 1.34 against the US dollar before a later recovery."
+      "e": "Exchange rates move when economic data changes expectations for interest rates in different countries. The text explains that hot US inflation figures increased expectations for Federal Reserve tightening, pushing the pound down until a warning of a dollar correction allowed sterling to recover. UK spending cuts or Bank of England rate cuts do not appear in the source text."
     },
     {
       "lvl": "b",
       "tag": "Germany · Equities",
-      "q": "What is the status of the DAX index in Frankfurt?",
+      "q": "What path did the German DAX equity index take to reach its closing price?",
       "o": [
-        "It nears record levels as European equities advance.",
-        "It dropped 31 points alongside mining stocks.",
-        "It fell nearly 3% following artificial intelligence losses.",
-        "It closed down 1% due to surging consumer inflation."
+        "It surrendered earlier intraday gains before finishing 0.31% higher.",
+        "It opened sharply lower and stayed down for the entire trading session.",
+        "It crashed by 5% following unexpected domestic inflation data.",
+        "It rose steadily from the morning bell without any pullback."
       ],
       "a": 0,
-      "e": "The DAX index in Frankfurt nears record levels as European equities advance in morning trade."
+      "e": "The DAX experienced intraday volatility before settling into positive territory. The text states that the index surrendered earlier intraday gains before finishing 0.31% higher. It did not stay down, crash, or rise without a pullback."
     },
     {
       "lvl": "b",
-      "tag": "Germany · Trade",
-      "q": "What happened to the German trade surplus despite export growth?",
+      "tag": "Germany · Foreign Exchange",
+      "q": "Where did foreign exchange markets pivot their attention ahead of upcoming data releases in Germany?",
       "o": [
-        "The trade surplus narrowed.",
-        "The trade surplus reached $1.04 trillion.",
-        "The trade surplus disappeared completely.",
-        "The trade surplus doubled in size."
+        "Toward European Central Bank commentary and domestic inflation data.",
+        "Toward the US Federal Reserve's emergency employment meeting.",
+        "Toward the Bank of Japan's government debt reduction plans.",
+        "Toward Chinese electric vehicle export growth figures."
       ],
       "a": 0,
-      "e": "German exports increased, but the trade surplus narrowed despite the rising export figures due to offsetting import dynamics."
-    },
-    {
-      "lvl": "b",
-      "tag": "Germany · Corporate",
-      "q": "What long-term financial target did Hensoldt set?",
-      "o": [
-        "€10bn in annual revenue by 2035.",
-        "€500m in dividend payments by the end of the year.",
-        "10 million to 20 million yuan in share purchases.",
-        "$1.75bn in sovereign wealth funding."
-      ],
-      "a": 0,
-      "e": "Hensoldt aims for €10bn in annual revenue by 2035, outlining its long-term top-line expansion trajectory."
+      "e": "Traders often shift their focus to upcoming macroeconomic indicators and central bank statements to re-evaluate policy rate expectations. The briefing notes that foreign exchange flows turned toward ECB-speak and upcoming German inflation data. The other options involve central banks or data from completely different regions."
     },
     {
       "lvl": "b",
       "tag": "Japan · Equities",
-      "q": "What drove the Nikkei index to gain 1,684 points and reclaim the 60,000 threshold?",
+      "q": "Why did Japan Tobacco shares tumble significantly?",
       "o": [
-        "Artificial intelligence-related shares drove the advance across the Tokyo exchange.",
-        "Mining stocks on the London exchange expanded their operations.",
-        "Lower crude oil prices reduced import bills for local firms.",
-        "Tokenised government bonds migrated to the Canton Network."
+        "Due to market fears surrounding a potential $8bn loss linked to Russia.",
+        "Because the company announced a sudden halt to all domestic tobacco sales.",
+        "Because Japanese government debt decreased by 23 trillion yen.",
+        "Because electricity futures reached a four-year high in Europe."
       ],
       "a": 0,
-      "e": "Artificial intelligence-related shares drove the advance across the Tokyo exchange, pushing the Nikkei index up nearly 3% to reclaim the 60,000 threshold."
+      "e": "Company share prices fall when investors worry about large asset write-downs or geopolitical risks. The briefing states that Japan Tobacco shares tumbled following market fears surrounding an $8bn loss linked to Russia. Halting sales or government debt figures are unrelated to this specific equity decline."
     },
     {
       "lvl": "b",
-      "tag": "Japan · Digital assets",
-      "q": "What technology is Progmat using to issue tokenised Japanese Government Bonds?",
+      "tag": "Japan · Fixed Income",
+      "q": "Why does Berkshire Hathaway issue yen-denominated bonds to fund its activities in Japan?",
       "o": [
-        "Distributed ledger technology on the Canton Network.",
-        "Traditional paper-based banking ledgers in New York.",
-        "Central bank research databases in Washington.",
-        "Offshore oil production floating platforms."
+        "To leverage low domestic borrowing costs and hedge currency exposure.",
+        "To take advantage of high interest rates offered by Japanese commercial banks.",
+        "To offset the heavy losses incurred by Japanese tobacco manufacturers.",
+        "To speculate on rising electricity futures contracts."
       ],
       "a": 0,
-      "e": "Progmat signed an agreement to issue tokenised Japanese Government Bonds using distributed ledger technology to handle digital assets on the Canton Network."
+      "e": "Foreign entities often issue debt in a local currency to finance regional operations while avoiding currency mismatch risks. The text explains that issuing local currency debt allows foreign entities to hedge currency exposure while utilising low domestic borrowing costs. Japanese banks offering high interest rates contradicts the low borrowing cost environment mentioned."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Commodities",
+      "q": "What propelled electricity futures in Japan and Europe to a four-year high?",
+      "o": [
+        "Elevated fuel costs driving up input prices across industrial supply chains.",
+        "A massive drop in government debt across Asian markets.",
+        "An increase in foreign direct investment from North American conglomerates.",
+        "A sudden shortage of available tobacco products in retail stores."
+      ],
+      "a": 0,
+      "e": "Commodity prices and utility contracts are directly influenced by the cost of the inputs required to generate power. The text links the four-year high in electricity futures directly to elevated fuel and commodity costs. Government debt reductions or tobacco shortages did not cause this rise in power contracts."
     },
     {
       "lvl": "b",
       "tag": "China · Trade",
-      "q": "How much did China's exports surge, and what did its trade surplus reach?",
+      "q": "What caused profitability headwinds and margin compression for Chinese electric vehicle manufacturers?",
       "o": [
-        "Exports surged 35% as the trade surplus reached $1.04 trillion.",
-        "Exports surged 57.7% as the trade surplus reached €10bn.",
-        "Exports surged 13.4% as the trade surplus reached N1,383.",
-        "Exports surged 47.1% as the trade surplus reached 809 yuan."
+        "Yuan strength eroding overseas earnings and softening export growth.",
+        "A dramatic spike in the price of Japanese government bonds.",
+        "New tariffs imposed by European central banks on imported fuel.",
+        "A complete collapse in domestic demand for passenger vehicles."
       ],
       "a": 0,
-      "e": "China's exports surged 35% as the trade surplus reached $1.04 trillion, with foreign trade expanding 20% across the first 10 months."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Corporate actions",
-      "q": "What dividend did Eray Energy declare despite posting a financial loss?",
-      "o": [
-        "A 500 million yuan dividend despite a 60 million yuan loss.",
-        "A 10 million yuan dividend despite a 1.04 trillion dollar loss.",
-        "An 809 yuan dividend despite a 31 point loss.",
-        "A 1.75 billion dollar dividend despite a 47% loss."
-      ],
-      "a": 0,
-      "e": "Eray Energy declared a 500 million yuan dividend despite posting a 60 million yuan loss in the first three quarters."
+      "e": "When a domestic currency strengthens against trading partners, goods sold abroad become more expensive for foreign buyers, reducing overseas earnings. The briefing states that Chinese electric vehicle producers faced margin compression as yuan strength eroded overseas earnings and export growth eased. Tariffs and European fuel prices are not mentioned in relation to this."
     },
     {
       "lvl": "b",
       "tag": "India · Equities",
-      "q": "Why did Citi raise its Nifty index target to 28,000 for December 2027?",
+      "q": "What helped sustain the Nifty 500 index and drive banking indices toward record territory?",
       "o": [
-        "Rising earnings optimism and stronger corporate profitability expectations.",
-        "A massive surge in artificial intelligence chip sales in Tokyo.",
-        "Lower import tariffs on global gold and bullion.",
-        "Higher crude oil prices increasing import bills."
+        "Continuous buying sprees and inflows from foreign institutional investors.",
+        "An emergency bailout package funded by the International Monetary Fund.",
+        "A sharp devaluation of the Indian rupee against the US dollar.",
+        "Massive retail investor selling following a regional debt crisis."
       ],
       "a": 0,
-      "e": "Citi raised its Nifty index target to 28,000 for December 2027, driven by rising earnings optimism and stronger corporate profitability expectations."
+      "e": "Stock markets often find strong support when large external investors pump money into local equities. The text notes that foreign institutional investors maintained a continuous buying spree, sustaining a buy-on-dips posture and driving banking indices toward record territory. IMF bailouts and rupee devaluations are not mentioned."
     },
     {
       "lvl": "b",
-      "tag": "India · Currencies",
-      "q": "Why did the Indian rupee appreciate against other currencies?",
+      "tag": "Brazil · Equities",
+      "q": "Why did the Ibovespa index drop on November 10, prompting traders to purchase heavy put option volume on Petrobras?",
       "o": [
-        "Lower crude prices and strong equity inflows provided fundamental support.",
-        "Global gold prices jumped 21.4% above their peak levels.",
-        "The Federal Reserve cut US interest rates by 50 basis points.",
-        "Official exchange rates dropped to N1,349 per dollar."
+        "Revived monetary tightening concerns and dovish central bank minutes.",
+        "A complete shutdown of coffee export supplies across South America.",
+        "An unexpected announcement of higher tax rates by foreign investors.",
+        "A major production failure at all domestic energy extraction sites."
       ],
       "a": 0,
-      "e": "The Indian currency appreciated as lower crude prices and strong equity inflows provided fundamental support, reducing pressure on the external account."
+      "e": "Equity markets frequently retreat when traders fear higher interest rates, and they use options like puts to protect against falling prices. The briefing points to revived monetary tightening concerns and dovish central bank minutes increasing currency pressure and weighing on equities. Coffee supply increases and production failures are separate details."
     },
     {
       "lvl": "b",
-      "tag": "Brazil · Energy",
-      "q": "What agreement did Petrobras make regarding the Jade vessel?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "Why did Saudi Aramco reduce its November Arab Light official selling prices to Asian destinations by $3?",
       "o": [
-        "It accepted an offer from Seagems for the vessel, scheduled for operations starting in 2028.",
-        "It sold the vessel to Stand.earth to reduce Amazon drilling risks.",
-        "It converted the vessel into a tokenised digital bond on the Canton Network.",
-        "It deployed the vessel to transport 500 million yuan in dividends."
+        "To adjust to regional prompt structures and shifting Asian refining margins.",
+        "To punish regional airlines for disruptions at Riyadh airport.",
+        "Because the Public Investment Fund required extra cash to fund Lucid.",
+        "Because coffee and agricultural commodity prices collapsed globally."
       ],
       "a": 0,
-      "e": "Petrobras accepted an offer from Seagems for the Jade vessel via Paratus Energy, positioning a pipelay support vessel for operations starting in 2028."
+      "e": "State oil producers adjust their official selling prices based on market conditions and customer profitability. The text states that the downward adjustment reflects regional prompt structure adjustments and shifting Asian refining margins. It is not connected to airport disruptions, EV funding, or coffee prices."
     },
     {
       "lvl": "b",
-      "tag": "Saudi Arabia · Infrastructure",
-      "q": "Who provided $1.75 billion in additional funding to electric vehicle manufacturer Lucid?",
+      "tag": "Saudi Arabia · Equities",
+      "q": "How did the Public Investment Fund support the electric vehicle maker Lucid?",
       "o": [
-        "The Public Investment Fund.",
-        "The New York Federal Reserve.",
-        "Citigroup analysts.",
-        "Stand.earth researchers."
+        "By providing a $1.75bn capital injection that extended sovereign backing.",
+        "By purchasing all outstanding shares of the company in the open market.",
+        "By granting exclusive tax exemptions for vehicles exported to Asia.",
+        "By building a new manufacturing plant inside Riyadh airport."
       ],
       "a": 0,
-      "e": "Lucid secured $1.75bn in additional funding from the Public Investment Fund, which continues to inject capital into the electric vehicle manufacturer."
+      "e": "Sovereign wealth funds often inject capital directly into target companies to shore up their balance sheets. The text specifies that the Public Investment Fund provided a $1.75bn capital injection, extending sovereign backing and shoring up the manufacturer's balance sheet. Open market buyouts and local assembly plants are not mentioned."
     },
     {
       "lvl": "b",
-      "tag": "Nigeria · Currencies",
-      "q": "How did the naira trade on the parallel market compared to the official window?",
+      "tag": "Nigeria · Foreign Exchange",
+      "q": "What does the divergence between official market rates and parallel market rates for the Nigerian naira reflect?",
       "o": [
-        "It traded at N1,383 per dollar on the parallel market, while official rates recorded it at N1,349 per dollar.",
-        "It traded at 60,000 per dollar on the parallel market, while official rates recorded it at 1.34.",
-        "It traded at $1.04 trillion on the parallel market, while official rates recorded it at zero.",
-        "It traded at NT$88,615 per dollar on the parallel market, while official rates recorded it at 809 yuan."
+        "Persistent structural imbalances in foreign exchange supply.",
+        "An official decision by the central bank to peg the currency to gold.",
+        "A massive influx of foreign portfolio investment into local banks.",
+        "A sudden surplus of US dollars circulating in retail black markets."
       ],
       "a": 0,
-      "e": "The naira traded at N1,383 per dollar on the parallel market on November 10, 2026, while official exchange rates recorded the currency at N1,349 per dollar due to seasonal forex demand pressure."
+      "e": "When official and parallel exchange rates diverge and depreciate, it typically points to underlying economic pressures. The text states that price action reflects persistent structural imbalances in foreign exchange supply. Gold pegs and massive capital inflows contradict the ongoing currency depreciation."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equities",
+      "q": "Why were Australian shares on the ASX 200 expected to fall following US consumer price data?",
+      "o": [
+        "Because hot US inflation cemented expectations for Federal Reserve tightening.",
+        "Because Commonwealth Bank reported a lower cash net profit for Q1.",
+        "Because domestic electricity futures reached a four-year high in Sydney.",
+        "Because the Reserve Bank of Australia announced an immediate rate cut."
+      ],
+      "a": 0,
+      "e": "Global equity markets often move together based on monetary policy shifts in major economies like the United States. The text explains that hot US inflation cemented expectations for Federal Reserve tightening, demonstrating cross-border rate sensitivity that pressured Australian equities. Commonwealth Bank actually reported a higher profit, not a lower one."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Commodities",
+      "q": "What happened to coffee prices alongside the falling Brazilian real?",
+      "o": [
+        "They fell further due to expanding export supplies.",
+        "They surged to record highs because of a severe regional drought.",
+        "They remained completely fixed due to government price controls.",
+        "They doubled as coffee producers shifted into oil extraction."
+      ],
+      "a": 0,
+      "e": "Agricultural commodities can be impacted by currency values and supply dynamics. The briefing notes that coffee prices fell further due to rising export supplies, tracking the Brazilian real lower. Droughts and price controls do not appear in the sources."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Geopolitics",
+      "q": "What risk does Japan Tobacco's exposure to Russia highlight for multinational firms based in Tokyo?",
+      "o": [
+        "Structural write-down risk and mounting geopolitical exposure.",
+        "Immediate risks of bankruptcy driven by domestic electricity futures.",
+        "Heavy reliance on government bond buybacks by the central bank.",
+        "Severe losses caused by fluctuations in Australian banking profits."
+      ],
+      "a": 0,
+      "e": "Geopolitical conflicts and cross-border sanctions can create severe financial hazards for companies operating across borders. The briefing notes that the potential asset impairments isolate firms with heavy geographic concentration vulnerabilities amid shifting cross-border sanctions, representing structural write-down risk. Domestic electricity futures and Australian banking profits are unrelated."
     },
     {
       "lvl": "i",
       "tag": "United States of America · Fixed income",
-      "q": "Why did the S&P 500 drop nearly 1% when higher inflation data crossed screens?",
+      "q": "Why did US Treasury yields climb above 5.0% following the release of the Consumer Price Index data?",
       "o": [
-        "Sticky consumer costs altered rate expectations and pushed Treasury yields toward 5%.",
-        "Corporate earnings across all S&P 500 companies declined simultaneously in the third quarter.",
-        "The New York Federal Reserve reported a sudden decrease in total troubled household debt.",
-        "Federal Reserve researchers lowered their terminal rate assumptions following the data release."
+        "Hotter-than-expected inflation prints triggered pricing adjustments for steeper monetary tightening.",
+        "The Federal Reserve announced an emergency rate hike directly following the data release.",
+        "Commercial lenders increased bond issuance to fund expanding profit margins in the financial sector.",
+        "Foreign investors dumped US debt to purchase higher-yielding Japanese government bonds."
       ],
       "a": 0,
-      "e": "Hot inflation prints drive up bond yields as markets price in tighter monetary policy, which increases borrowing costs and compresses equity valuations. Option A correctly links the consumer costs to the yield move and rate expectations, whereas the other options cite events that either did not happen or would have different effects."
+      "e": "The resilient consumer price data overshot consensus expectations, immediately sparking discussions and pricing adjustments for a potential big step rate hike. This expected monetary tightening pushed longer-duration yields back above the 5.0% threshold. The other options involve events or policies not mentioned in the source texts."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Central banking",
-      "q": "What drove the heavy liquidations in Bitcoin and gold alongside Federal Reserve research releases?",
+      "tag": "United States of America · Equities",
+      "q": "What market dynamic linked the rebound in Treasury yields to the advance in financial sector stocks?",
       "o": [
-        "Proprietary central bank research outlined structural pricing threats that invalidated dovish terminal rate assumptions.",
-        "The Federal Reserve announced an immediate interest rate cut to support troubled consumer debt balances.",
-        "Commercial banks restricted crypto lending after the New York Fed reported a fall in credit performance.",
-        "Global bullion demand collapsed entirely because foreign trade surpluses reached $1.04 trillion."
+        "Higher yields generally increase profit margins for lenders, lifting banks as debt markets recovered.",
+        "Banks were forced to sell Nvidia shares to buy government bonds, stabilizing equity futures.",
+        "Commercial lenders lowered their borrowing costs to offset the broader Nvidia-led drawdown.",
+        "The steepening yield curve forced financial institutions to issue more put options on Petrobras."
       ],
       "a": 0,
-      "e": "The source explicitly states that central bank research outlined structural pricing threats that invalidate dovish rate expectations, removing support for non-yielding assets like gold and bitcoin. The other choices misstate the direction of Fed research or attribute the liquidations to unrelated trade data."
+      "e": "Higher yields generally increase profit margins for lenders, allowing banks and financial institutions to benefit directly from the steepening yield curve dynamics as debt pricing recovered. This explains why financial sector stocks advanced across the board. The other options misstate the direction of the relationship or introduce unrelated entities."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Equities",
+      "q": "What drove the FTSE 100 index down by 31 points on the session?",
+      "o": [
+        "Sector-specific selling led by precious metal mining shares pressured the benchmark index downwards.",
+        "A sharp depreciation of sterling below the 1.34 threshold forced automated equity liquidations.",
+        "Disappointing third-quarter earnings reports from British retail banks reduced the index level.",
+        "An unexpected interest rate hike by the Bank of England triggered a broader stock market selloff."
+      ],
+      "a": 0,
+      "e": "Sector-specific selling led by mining shares, and specifically gold miners, acted as a drag that drove the FTSE 100 index down by 31 points. Sterling movements and central bank rate hikes are not cited as the cause of the equity decline in the provided text. The other choices invent external economic triggers."
     },
     {
       "lvl": "i",
       "tag": "United Kingdom · Foreign exchange",
       "q": "Why did sterling initially drop below 1.34 against the US dollar before staging a recovery?",
       "o": [
-        "Hot US consumer price index prints priced in aggressive Federal Reserve tightening before ING flagged risks of an imminent dollar correction.",
-        "The FTSE 100 lost 31 points due to mining share weakness, which forced the Bank of England to intervene in currency markets.",
-        "UK inflation data surprised to the downside, causing British gilt yields to fall below German bund equivalents.",
-        "Global bullion prices retreated 21.4% from cyclical highs, dragging down the exchange rate via commodity terms of trade."
+        "Hot US CPI prints priced in aggressive Federal Reserve tightening, which ING later countered with dollar correction risks.",
+        "Weaker-than-expected British retail sales forced the Bank of England to signal emergency rate cuts.",
+        "Gold miners pulled capital out of London markets to cover asset impairments in Russia.",
+        "The FTSE 100 drop triggered safe-haven flows out of British pounds and into European equities."
       ],
       "a": 0,
-      "e": "Hot US CPI prints strengthen the dollar by pricing in Fed rate hikes, while subsequent warnings of a dollar correction allow currencies like sterling to recover. The other options introduce UK-specific or commodity factors that do not match the text's explanation of the GBP/USD move."
+      "e": "GBP/USD breached the 1.34 threshold to the downside following hot US CPI prints that priced in aggressive Federal Reserve tightening. Sterling subsequently recovered losses as ING flagged risks of an imminent dollar correction. The other options rely on events not supported by the briefing texts."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Trade",
-      "q": "Why did Germany's broader trade surplus narrow despite rising export volumes?",
+      "tag": "Germany · Equities",
+      "q": "How did the DAX equity index behave during the session before closing 0.31% higher?",
       "o": [
-        "Simultaneous offsetting import dynamics reduced the net trade balance despite export growth.",
-        "Hensoldt failed to reach its long-term top-line revenue expansion trajectory for the quarter.",
-        "The DAX index approached historical highs, causing capital outflows that impacted the external accounts.",
-        "European regional equities extended gains, forcing domestic producers to cut export prices."
+        "It surrendered earlier intraday gains in a distinct retracement before settling in positive territory.",
+        "It suffered a severe Nvidia-led drawdown before foreign exchange flows triggered a sharp rebound.",
+        "It plunged alongside mining shares following weak German inflation expectations.",
+        "It dropped sharply after European electricity futures hit a four-year high."
       ],
       "a": 0,
-      "e": "The source notes that the trade surplus narrowed due to offsetting import dynamics occurring simultaneously with export growth. The alternative options focus on unrelated corporate targets or equity market milestones."
+      "e": "Price action on the DAX showed a distinct retracement where the equity index surrendered earlier intraday gains before ultimately finishing up 0.31%. The other options introduce external market shocks or incorrect regional linkages."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Technology",
-      "q": "What catalyzed the Nikkei benchmark's 1,684-point surge to reclaim the 60,000 handle?",
+      "tag": "Germany · Foreign exchange",
+      "q": "What prompted foreign exchange flows to pivot toward ECB commentary and domestic data in Germany?",
       "o": [
-        "Artificial intelligence equities drove a broad-based market rally reflecting heightened duration risk appetite.",
-        "Progmat successfully migrated tokenised gilts to the Canton Network using distributed ledger frameworks.",
-        "ASE Technology reported a 47.1% year-on-year revenue expansion in its assembly and testing segments.",
-        "The Japanese central bank lowered interest rates to support digital asset secondary market liquidity."
+        "Macro accounts re-evaluated policy rate expectations as upcoming domestic inflation prints approached.",
+        "Foreign institutional investors shifted capital away from Asian markets following a 36% contraction.",
+        "Currency traders executed heavy put options to hedge against a potential drop in the Brazilian real.",
+        "A decline in German government debt forced currency desks to reprice cross-border lending rates."
       ],
       "a": 0,
-      "e": "The Nikkei rally was explicitly catalyzed by artificial intelligence equities reflecting higher duration risk appetite. While ASE Technology and Progmat are Japanese stories, they represent separate corporate and infrastructure developments rather than the index-wide driver."
+      "e": "Foreign exchange flows pivoted toward ECB-speak and upcoming domestic inflation prints as macro accounts re-evaluated policy rate expectations based on the incoming rhetoric. The other options incorrectly link foreign exchange positioning to unrelated geographic regions or market instruments."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Equities",
+      "q": "Why did Japan Tobacco shares suffer a sharp tumble following reports of potential losses?",
+      "o": [
+        "Investors aggressively marked down valuations to price in an $8bn Russian asset exposure and write-down risk.",
+        "Surging electricity futures drove up manufacturing overheads across local tobacco production plants.",
+        "Berkshire Hathaway expanded its yen bond issuance, crowding out domestic equity investors.",
+        "Foreign exchange gains by Chinese electric vehicle makers compressed export margins across Tokyo."
+      ],
+      "a": 0,
+      "e": "Japan Tobacco equities slumped on concerns over an $8bn Russian asset exposure, leading market participants to aggressively mark down valuations to price in the structural write-down risk. The other options incorrectly attribute the equity slump to utility costs, debt issuances, or foreign currency effects."
     },
     {
       "lvl": "i",
       "tag": "Japan · Fixed income",
-      "q": "What factor determines secondary market liquidity for tokenised gilts on the Canton Network?",
+      "q": "What is the primary strategy behind Berkshire Hathaway issuing yen-denominated debt in Japan?",
       "o": [
-        "Interoperability across institutional nodes and regulatory clarity regarding on-chain collateral management.",
-        "The willingness of the Bank of England to purchase digital sovereign debt directly from retail investors.",
-        "Sustained earnings delivery from technology components listed on the Tokyo exchange.",
-        "The maintenance of a $1.04 trillion trade surplus by regional export economies."
+        "The strategy leverages low domestic borrowing costs to fund asset accumulation without taking on unhedged foreign exchange risk.",
+        "It forces the Japanese government to reduce aggregate government debt through structural fiscal adjustments.",
+        "It artificially pushes electricity futures to four-year highs by driving up industrial supply chain overheads.",
+        "It capitalizes on the widening interest rate differential caused by hot US consumer price data."
       ],
       "a": 0,
-      "e": "The sources state that secondary market liquidity and adoption for tokenised sovereign debt depend on interoperability across institutional nodes and regulatory clarity for on-chain collateral. The other options confuse this blockchain infrastructure with equity earnings or macro trade balances."
+      "e": "Berkshire Hathaway leverages low domestic borrowing costs to fund asset accumulation without taking on unhedged foreign exchange risk by issuing local currency debt. This structure reinforces domestic yield curve dynamics favoured by institutional allocators. The other options attribute incorrect macroeconomic consequences to the debt issuance."
     },
     {
       "lvl": "i",
       "tag": "China · Trade",
-      "q": "How did China's foreign trade metrics perform across the first 10 months and in October?",
+      "q": "Why did Chinese electric vehicle manufacturers experience profit margin compression in October?",
       "o": [
-        "Aggregate foreign trade rose 20% while the year-on-year CNY export metric moderated from 29.6% to 28.7% in October.",
-        "Exports surged 35% to eliminate the trade surplus entirely and push foreign exchange reserves downward.",
-        "Unitree stock touched 809 yuan as import volumes exceeded the total export value for the period.",
-        "Union Precision chairman open-market purchases caused aggregate trade growth to slow to 20%."
+        "Yuan appreciation against trading partners eroded overseas earnings, slowing yuan-denominated export growth.",
+        "A sharp decline in sovereign backing from the Public Investment Fund reduced foreign capital inflows.",
+        "Surging fuel commodity costs forced utility providers to raise electricity futures to four-year highs.",
+        "Foreign institutional investors launched a massive selling spree on domestic manufacturing equities."
       ],
       "a": 0,
-      "e": "Aggregate foreign trade rose 20% over 10 months while the specific October CNY year-on-year metric moderated to 28.7% from 29.6%. The other answers incorrectly mix stock prices or corporate transactions with macroeconomic trade figures."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Equities",
-      "q": "Why did Eray Energy's dividend proposal stand out despite its financial results?",
-      "o": [
-        "The firm advanced a 500 million yuan dividend proposal despite reporting a 60 million yuan loss through the first three quarters.",
-        "Chairman Yang Hu scheduled open-market purchases of 10 million to 20 million yuan to cover the loss.",
-        "Unitree stock extended its rebound to 809 yuan, generating enough liquidity to fund the payout.",
-        "The company secured $1.75bn in fresh capital commitments from a sovereign wealth vehicle."
-      ],
-      "a": 0,
-      "e": "Eray Energy advanced a 500 million yuan dividend proposal despite posting a 60 million yuan loss in the first three quarters. The other choices either misattribute actions to different companies or reference overseas funding deals."
+      "e": "Chinese electric vehicle manufacturers absorbed profitability headwinds driven by yuan appreciation against trading partners, which eroded overseas earnings and softened year-over-year yuan-denominated export growth to 28.7%. The other options cite funding or commodity events that are not the direct cause of this specific margin compression."
     },
     {
       "lvl": "i",
       "tag": "India · Equities",
-      "q": "On what foundation did Citi anchor its upgrade of the Nifty terminal target to 28,000?",
+      "q": "What market dynamic sustained the buy-on-dips posture on the Nifty index amid broader regional weakness?",
       "o": [
-        "A more constructive earnings revision breadth implying sustained multiple expansion and margin resilience.",
-        "Lower import bills for crude oil reducing pressure on the central bank's foreign exchange reserves.",
-        "Rupee depreciation and upward revisions to import tariffs insulating domestic valuations from global dips.",
-        "Robust portfolio inflows compensating for current account pressures through local currency demand."
+        "Persistent foreign institutional investor inflows drove banking indices toward record territory.",
+        "The central bank lowered policy rates to counter a 36% contraction across Asian equities.",
+        "Surging energy output and record production metrics at Petrobras spilled over into domestic indices.",
+        "An unexpected decline in US Treasury yields prompted massive capital flight from Wall Street into India."
       ],
       "a": 0,
-      "e": "Citi anchored its index target upgrade in a more constructive earnings revision breadth predicting margin resilience and multiple expansion. The remaining options describe currency and commodity factors that support the rupee rather than corporate earnings revisions."
+      "e": "Persistent foreign institutional investor inflows drove banking indices toward record territory, helping the Nifty 500 demonstrate relative outperformance and establish firm support at the 24,800 handle. The other choices point to central bank cuts, energy spillovers, or US yield declines which are not present in the text."
     },
     {
       "lvl": "i",
-      "tag": "India · Commodities",
-      "q": "Why was the domestic transmission of the global gold pullback truncated in India?",
+      "tag": "Brazil · Equities",
+      "q": "How did derivative markets reflect revived monetary tightening concerns on the Ibovespa index?",
       "o": [
-        "Rupee depreciation and upward revisions to import tariffs insulated local bullion valuations.",
-        "Lower crude oil prices provided fundamental support that directly boosted domestic gold demand.",
-        "Citi raised its Nifty index target to 28,000, shifting investor capital away from bullion.",
-        "Strong portfolio inflows increased local currency demand and lowered domestic inflation rates."
+        "Traders executed heavy put option volume on Petrobras equity as defensive positioning.",
+        "Energy producers requested a transition window to evaluate recent tax reforms.",
+        "Agricultural commodity exporters flooded the foreign exchange market with the Brazilian real.",
+        "Investors bought large volumes of coffee futures to hedge against central bank interest rate cuts."
       ],
       "a": 0,
-      "e": "Global bullion fell 21.4%, but rupee depreciation and higher import tariffs cushioned the local drop. The other choices reference oil prices or equity targets which do not explain the insulation of domestic bullion valuations."
+      "e": "Derivative markets reflected defensive positioning as equity traders responded to revived rate concerns by executing a large volume of put options on Petrobras shares. The other choices mix up operational tax requests with trading activity or confuse coffee supplies with derivative positioning."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Energy",
-      "q": "How did Petrobras advance its offshore service commitments regarding the Jade vessel?",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "Why did Saudi Aramco trim November Arab Light crude pricing for Asian destinations by $3?",
       "o": [
-        "It accepted Seagems' commercial offer via Paratus Energy to schedule a pipelay support vessel starting in 2028.",
-        "It secured $61.5bn in cumulative commercial backing despite controversies over Amazon basin exposure.",
-        "It reported a 13.4% expansion in third-quarter earnings before interest, taxes, depreciation, and amortisation.",
-        "Engineering firms LR and RINA finished subsea systems studies to replace the floating production assets."
+        "The downward adjustment reflects regional prompt structure adjustments and shifting Asian refining margins.",
+        "Attacks by Ansarallah on Riyadh airport and Aramco infrastructure forced emergency price discounting.",
+        "The Public Investment Fund required capital injections to fund its electric vehicle investments in Lucid.",
+        " Soaring domestic government debt in Japan compelled refiners to curtail foreign crude imports."
       ],
       "a": 0,
-      "e": "Petrobras accepted Seagems' commercial offer for the Jade vessel via Paratus Energy to deploy a support vessel starting in 2028. The other options describe financing figures, subsidiary earnings, or engineering studies rather than the Jade vessel contract acceptance."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Corporate finance",
-      "q": "What financial milestone accompanied Motiva equity price advances in the third quarter?",
-      "o": [
-        "A 13.4% expansion in earnings before interest, taxes, depreciation, and amortisation.",
-        "The allocation of $61.5bn in cumulative commercial banking backing for regional operations.",
-        "The completion of floating production storage and offloading studies by engineering firm LR.",
-        "An increase in seasonal foreign exchange demand pressure across official banking windows."
-      ],
-      "a": 0,
-      "e": "Motiva equity prices advanced following a 13.4% expansion in third-quarter earnings before interest, taxes, depreciation, and amortisation. The other options refer to Petrobras financing or engineering studies rather than Motiva's earnings growth."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Infrastructure",
-      "q": "What motivated the Houthi forces to execute coordinated strikes against Riyadh airport and Aramco facilities?",
-      "o": [
-        "The operation was explicitly framed as retaliation for prior Saudi military airstrikes in Taiz.",
-        "A senior Saudi official inspected the impacted Aramco office in Riyadh following financial reforms.",
-        "The Public Investment Fund injected $1.75bn of fresh capital into electric vehicle production.",
-        "Commercial lenders allocated cumulative financial backing despite regional operational risks."
-      ],
-      "a": 0,
-      "e": "The Houthi strikes were explicitly framed as retaliation for prior Saudi airstrikes in Taiz. The other choices mix up sovereign wealth investments, commercial lending, or government inspections with the military attack."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Corporate finance",
-      "q": "Why did Lucid's recent $1.75bn funding round from the Public Investment Fund benefit the company's capital structure?",
-      "o": [
-        "It sustained the target company's operational runway without requiring it to tap public debt markets.",
-        "It forced Aramco facilities in Riyadh to redirect capital expenditures toward electric vehicle manufacturing.",
-        "It increased domestic inflation-linked dynamics and insulated local vehicle valuations from global dips.",
-        "It resolved regional controversies regarding Amazon basin resource extraction and commercial lending."
-      ],
-      "a": 0,
-      "e": "Sovereign funding injections sustain an operational runway without the firm needing to tap public debt markets. The other options falsely link the Lucid transaction to Aramco, inflation, or unrelated industrial controversies."
+      "e": "Saudi Aramco trimmed its official selling prices to Asia to reach a 6-year low, reflecting regional prompt structure adjustments and shifting Asian refining margins. The other options wrongly attribute the price cut to geopolitical attacks, EV funding, or Japanese government debt."
     },
     {
       "lvl": "i",
       "tag": "Nigeria · Foreign exchange",
-      "q": "What exerted downward pressure on the Nigerian naira between the official and parallel markets?",
+      "q": "What do divergent parallel market prints and ongoing selloffs in the Nigerian naira reflect?",
       "o": [
-        "Seasonal foreign exchange demand pressure weakened the local unit alongside a pause in external reserve accumulation.",
-        "Higher import duties cushioned a domestic bullion drawdown while official windows registered N1,349 per dollar.",
-        "Hot US consumer price index prints forced the central bank to reprice terminal rate expectations.",
-        "Commercial lenders allocated cumulative backing to regional oil projects despite drilling risks."
+        "Persistent structural imbalances in foreign exchange supply are weighing heavily on market liquidity.",
+        "An aggressive interest rate hike by the Federal Reserve has triggered capital flight from African debt.",
+        "Surging electricity futures and industrial supply chain overheads have depleted foreign reserves.",
+        "Oil production cuts by Petrobras have reduced export earnings across developing economies."
       ],
       "a": 0,
-      "e": "The naira weakened due to seasonal foreign exchange demand pressure alongside a pause in external reserve accumulation. The alternative answers cite US inflation, import duties, or commercial lending which do not drive Nigerian foreign exchange rates."
+      "e": "The ongoing depreciation of the naira toward N1,351 in official segments and N1,383 in parallel markets reflects persistent structural imbalances in foreign exchange supply alongside ongoing selloffs weighing on liquidity. The other options invent external policy or commodity drivers not mentioned in the sources."
     },
     {
       "lvl": "i",
       "tag": "Australia · Equities",
-      "q": "How did the S&P/ASX 200 benchmark finish the trading session despite currency headwinds?",
+      "q": "Why did Australian equities face downward pressure and an expected decline on the ASX 200?",
       "o": [
-        "It closed 1.10% higher in domestic equities even as the Australian dollar breached 0.6900 downward.",
-        "It dropped 31 points as sector-specific selling by precious metal miners weighted down the index.",
-        "It gained nearly 3% following artificial intelligence demand across the domestic technology sector.",
-        "It recorded a 47.1% year-on-year revenue expansion driven by assembly and testing segments."
+        "Hot US inflation data cemented expectations for Federal Reserve tightening, demonstrating cross-border rate sensitivity.",
+        "Commonwealth Bank reported lower fiscal Q1 cash net profits due to rising domestic borrowing costs.",
+        "Ansarallah strikes on Saudi Aramco infrastructure disrupted global energy supply chains and local banking margins.",
+        "The Reserve Bank of Australia implemented a surprise rate hike to match Chinese export growth."
       ],
       "a": 0,
-      "e": "The S&P/ASX 200 closed 1.10% higher in domestic equities despite the Australian dollar slipping below 0.6900 from US rate pressures. The other options describe FTSE mining drops, Nikkei tech rallies, or ASE revenue prints rather than the ASX close."
+      "e": "Australian equities faced downward pressure because hot US inflation data cemented expectations for Federal Reserve tightening, demonstrating heightened cross-border rate sensitivity as local futures tracked overnight losses in Wall Street indices. The other choices rely on incorrect earnings results, geopolitical misattributions, or unmentioned central bank actions."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Technology",
-      "q": "What drove ASE Technology Holding's October net revenue expansion of 47.1% year on year?",
+      "tag": "Brazil · Foreign exchange",
+      "q": "What caused the Brazilian real to drift toward post-vote lows?",
       "o": [
-        "Assembly, testing, and material segments drove top-line growth with a 57.7% increase.",
-        "Heightened duration risk appetite and artificial intelligence portfolio exposure across Tokyo.",
-        "Foreign exchange demand pressure and a pause in external reserve accumulation.",
-        "Sovereign wealth capital commitments that sustained the firm's operational runway."
+        "Dovish policy minutes from the central bank compressed interest rate expectations.",
+        "Surging export supplies in the coffee market drove agricultural commodities higher.",
+        "Petrobras announced $2.7 billion in shareholder remuneration funded through foreign debt.",
+        "Investors aggressively bought put options on the Ibovespa index to hedge against inflation."
       ],
       "a": 0,
-      "e": "ASE Technology's top-line growth was specifically driven by its assembly, testing, and material segments expanding by 57.7%. The remaining choices confuse this Taiwanese/Australian semiconductor reporting with Japanese AI trends, Nigerian reserves, or Saudi sovereign funding."
+      "e": "Dovish central bank minutes increased currency pressure by compressing rate expectations, causing the Brazilian real to approach post-vote lows alongside declining agricultural commodities. The other options misstate the direction of commodity supplies, corporate payouts, or option trading impacts."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Credit markets",
-      "q": "What did the New York Federal Reserve report regarding third-quarter American debt levels?",
+      "tag": "Saudi Arabia · Equities",
+      "q": "What was the purpose of the $1.75bn capital injection provided by the Public Investment Fund?",
       "o": [
-        "Troubled household debt balances ticked higher, manifesting as deteriorating credit performance metrics across consumer balance sheets.",
-        "Commercial lenders increased cumulative backing for regional energy infrastructure despite drilling controversies.",
-        "Federal Reserve researchers released new data highlighting persistent price threats that invalidated terminal rate assumptions.",
-        "S&P 500 equities absorbed severe multiple compression as rate-hike tail risks entered consensus pricing."
+        "It shored up the electric vehicle manufacturer Lucid's balance sheet via its controlling sovereign shareholder.",
+        "It financed the repair of infrastructure at Riyadh airport following strikes claimed by Ansarallah.",
+        "It compensated Saudi Aramco for reducing Arab Light official selling prices to Asian refiners.",
+        "It provided a regulatory transition window for Lupatech to evaluate recent tax reforms."
       ],
       "a": 0,
-      "e": "The New York Fed report detailed that troubled household debt balances ticked higher with deteriorating credit performance metrics across consumer balance sheets. The other choices refer to corporate financing, Fed inflation research, or equity market multiple compression."
+      "e": "The capital injection of $1.75bn from the Public Investment Fund extended sovereign backing and shored up the balance sheet of the electric vehicle manufacturer Lucid. The other options link the funding to unrelated infrastructure repairs, pricing adjustments, or valve contracts."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Commodities",
+      "q": "What drove electricity futures in Japan and Europe to four-year highs?",
+      "o": [
+        "High commodity fuel prices propelled utility contracts and transmitted directly into manufacturing overheads.",
+        "A 23 trillion yen reduction in aggregate government debt restricted capital availability for power plants.",
+        "Geopolitical exposure risks forced Japan Tobacco to reprice its industrial energy consumption.",
+        "Strong foreign exchange inflows into Japanese yen bonds inflated local energy grid maintenance costs."
+      ],
+      "a": 0,
+      "e": "High commodity fuel prices propelled electricity futures in Japan and Europe to four-year peaks, creating cost pressures that transmitted directly into utility pricing structures and manufacturing overheads. The other options incorrectly link the rise in electricity futures to government debt reductions or currency bond issuances."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Banking",
+      "q": "What did the fiscal Q1 cash net profit reported by Commonwealth Bank of Australia measure?",
+      "o": [
+        "It isolated the core operating performance of the lender from non-recurring items.",
+        "It reflected the total foreign exchange losses stemming from US monetary policy tightening.",
+        "It accounted for the cross-border rate sensitivity transmitted from Wall Street indices.",
+        "It measured the quarterly adjustment in Australian government debt holdings."
+      ],
+      "a": 0,
+      "e": "The cash net profit metric reported by Commonwealth Bank of Australia specifically isolates core operating performance from non-recurring items. The other choices confuse this operational banking metric with macroeconomic rate transmissions, foreign exchange exposures, or sovereign debt figures."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Fixed income",
+      "q": "Why did US Treasury yields cross the 5.0% threshold following the October consumer price release?",
+      "o": [
+        "Hotter-than-expected price prints forced markets to price in steeper monetary tightening and potential large-increment rate hikes.",
+        "The Federal Reserve announced an emergency quantitative tightening program to reduce its balance sheet size.",
+        "Commercial banks dumped sovereign debt holdings simultaneously to cover heavy losses in the equity sector.",
+        "Foreign central banks aggressively liquidated US debt instruments in response to escalating geopolitical tensions."
+      ],
+      "a": 0,
+      "e": "The October Consumer Price Index exceeded forecasts, causing immediate adjustments for aggressive Federal Reserve action and pushing longer-duration yields past 5.0%. Option b is wrong because the text mentions no such Fed announcement, only rate hike discussions."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Equities",
+      "q": "How did the broader financials sector respond when Treasury yields rebounded?",
+      "o": [
+        "Financial sector stocks advanced across the board as steeper yield curves expanded profit margins for lenders.",
+        "Bank equities suffered sharp selloffs as higher debt pricing increased their wholesale borrowing costs above asset yields.",
+        "Financial institutions reduced their quarterly dividend payouts to preserve capital amid rising debt volatility.",
+        "Commercial lenders experienced widespread deposit outflows as retail clients chased higher yields in money market funds."
+      ],
+      "a": 0,
+      "e": "Higher yields generally increase lender profit margins, allowing financial stocks to advance as debt markets recovered. Option b is incorrect because higher yields improve net interest margins for traditional lenders rather than penalising them."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Equities",
+      "q": "What drove the FTSE 100 index down by 31 points during the session?",
+      "o": [
+        "Sector-specific selling led by precious metal and gold mining shares dragged the benchmark index lower.",
+        "The Bank of England implemented an unexpected inter-meeting interest rate hike that shocked equity investors.",
+        "Major commercial banks reported catastrophic credit default losses in their domestic retail lending divisions.",
+        "A sudden plunge in North Sea crude oil futures crippled the market capitalisation of integrated energy majors."
+      ],
+      "a": 0,
+      "e": "The FTSE 100 loss was driven specifically by a drag from mining shares, particularly gold miners. Option c is incorrect because the briefing highlights mining, not bank defaults."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "Why did sterling initially breach the 1.34 level to the downside before staging a recovery?",
+      "o": [
+        "Hot US consumer price prints priced in aggressive Federal Reserve tightening, which ING warned would face an imminent dollar correction.",
+        "The Bank of England intervened directly in the foreign exchange market to devalue the currency against the euro.",
+        "UK retail sales figures collapsed far below consensus estimates, triggering widespread economic stagnation fears.",
+        "A sudden political crisis in Westminster forced international investors to liquidate UK gilt holdings rapidly."
+      ],
+      "a": 0,
+      "e": "Hot US CPI prints drove the initial GBP/USD drop below 1.34 by pricing in Fed hikes, but sterling recovered after ING flagged dollar correction risks. Option d is incorrect because gilts are not mentioned in relation to this move."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Equities",
+      "q": "How did the DAX index complete its trading session despite surrendering earlier gains?",
+      "o": [
+        "The equity index closed up 0.31% after a distinct intraday retracement found buying support.",
+        "The index collapsed into negative territory as domestic manufacturing orders missed expectations.",
+        "Persistent selling by foreign institutional accounts wiped out all early gains, forcing a flat close.",
+        "An emergency statement from the European Central Bank triggered a sharp afternoon selloff across all German equities."
+      ],
+      "a": 0,
+      "e": "The DAX closed 0.31% higher despite surrendering earlier intraday gains. Option b is incorrect because the index finished in positive territory, not negative."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Foreign exchange",
+      "q": "What prompted foreign exchange accounts to re-evaluate their policy rate expectations for the eurozone?",
+      "o": [
+        "Incoming domestic inflation prints and European Central Bank commentary shifted currency trader positioning.",
+        "The German federal government announced a massive fiscal stimulus package funded by new bond issuance.",
+        "The Bundesbank reported a severe contraction in cross-border trade flows with Asian partner economies.",
+        "Commercial lenders across the eurozone tightened credit standards due to surging corporate default rates."
+      ],
+      "a": 0,
+      "e": "FX flows pivoted toward ECB commentary and upcoming domestic inflation prints, causing macro accounts to re-evaluate rate expectations. Option c is incorrect because trade flows are not cited as the driver."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Equities",
+      "q": "Why did Japan Tobacco equities experience a sharp slump in their valuations?",
+      "o": [
+        "Market participants aggressively marked down equity values to price in an $8bn asset write-down risk linked to Russia.",
+        "Domestic tobacco consumption dropped sharply following the implementation of higher health levies by the Diet.",
+        "The firm announced a sudden cancellation of its annual shareholder dividend payout to preserve working capital.",
+        "Stiff competition from low-cost Chinese e-cigarette manufacturers decimated the firm's export market share."
+      ],
+      "a": 0,
+      "e": "Japan Tobacco shares fell because investors repriced the equity to account for potential asset impairments and structural write-down risks in Russia. Option d is wrong because the risk stems from geographic exposure and geopolitical factors, not e-competition."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Fixed income",
+      "q": "What structural advantage does Berkshire Hathaway gain by issuing yen-denominated debt in Japan?",
+      "o": [
+        "The strategy leverages low domestic borrowing costs to fund local asset accumulation without incurring unhedged foreign exchange risk.",
+        "It forces the Bank of Japan to purchase the corporate notes under its yield curve control framework.",
+        "The issuance guarantees immunity from domestic consumption tax reforms enacted by the Ministry of Finance.",
+        "It allows the conglomerate to bypass withholding taxes on cross-border dividend repatriations to the United States."
+      ],
+      "a": 0,
+      "e": "Issuing local currency debt leverages low domestic borrowing costs to fund activities while hedging currency exposure. Option b is incorrect because the central bank does not buy these corporate notes under yield curve control."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Economy",
+      "q": "What simultaneous macroeconomic developments occurred regarding Japanese government debt and energy markets?",
+      "o": [
+        "Japan registered a 23 trillion yen reduction in aggregate government debt while elevated fuel costs pushed electricity futures to four-year highs.",
+        "Government debt surged by 23 trillion yen while electricity futures plummeted due to oversupply in regional grids.",
+        "Public debt remained flat while power utility contracts slumped to multi-year lows on plunging global coal prices.",
+        "The Ministry of Finance defaulted on short-term treasury bills as electricity futures spiked across industrial supply chains."
+      ],
+      "a": 0,
+      "e": "Japan registered a 23 trillion yen reduction in aggregate government debt through Q3 2026 while high fuel prices drove electricity futures to four-year peaks. Option b is wrong because debt decreased, not surged."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Trade",
+      "q": "Why did Chinese electric vehicle manufacturers experience margin compression despite recording positive export growth?",
+      "o": [
+        "Yuan appreciation against trading partners eroded overseas earnings, softening year-over-year yuan-denominated export growth to 28.7%.",
+        "Foreign governments imposed punitive tariffs that completely halted all outbound shipments of passenger electric vehicles.",
+        "Domestic raw material shortages forced factories to procure costly battery components from Western suppliers.",
+        "Transportation bottlenecks at major export hubs doubled freight rates across international maritime routes."
+      ],
+      "a": 0,
+      "e": "EV makers absorbed profitability headwinds because yuan strength eroded overseas earnings, slowing export growth to 28.7%. Option b is incorrect because exports continued to grow at 28.7%, not halt."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Equities",
+      "q": "How did foreign institutional investor activity influence the Nifty index amid broader Asian market contractions?",
+      "o": [
+        "Persistent buying inflows drove banking indices toward record territory and established firm support at the 24,800 handle.",
+        "Heavy institutional liquidations forced the index to breach crucial technical support levels to the downside.",
+        "Foreign funds reallocated capital exclusively into defensive sovereign debt instruments, abandoning domestic equities.",
+        "Collapsing liquidity forced exchange operators to suspend trading sessions across major regional bourses."
+      ],
+      "a": 0,
+      "e": "Persistent FII inflows drove banking indices toward record territory, establishing firm support at 24,800 while broader Asian equities contracted. Option b is incorrect because FIIs were buying, not liquidating."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Commodities",
+      "q": "What fundamental factor exacerbated the decline in coffee futures alongside the Brazilian real?",
+      "o": [
+        "Expanding export supplies compounded losses for coffee prices as soft commodities tracked the currency lower.",
+        "Severe drought conditions destroyed primary crop yields across the key agricultural producing states.",
+        "Global shipping cartels imposed emergency surcharges on all outbound agricultural container traffic.",
+        "Major consuming nations announced strategic reserve releases that flooded international spot markets."
+      ],
+      "a": 0,
+      "e": "Coffee prices fell further due to rising export supplies, which compounded losses alongside the falling real. Option b is wrong because expanding supplies, not drought, drove the price pressure in the text."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Equities",
+      "q": "How did equity traders position themselves in derivative markets following revived monetary tightening concerns on November 10?",
+      "o": [
+        "Traders executed heavy put option volume on Petrobras shares as part of a defensive response.",
+        "Market participants aggressively bought leveraged call options on small-cap banking stocks.",
+        "Institutional accounts terminated all existing derivative hedges to increase their unhedged equity exposure.",
+        "Foreign investors purchased index futures contracts to front-run an anticipated central bank rate cut."
+      ],
+      "a": 0,
+      "e": "Traders responded to rate concerns by purchasing a large volume of put options on Petrobras shares for defensive positioning. Option c is wrong because participants added hedges rather than terminating them."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Energy",
+      "q": "Why did Saudi Aramco adjust its November Arab Light official selling prices to Asian destinations by $3?",
+      "o": [
+        "The reduction to a six-year low reflected regional prompt structure adjustments and shifting Asian refining margins.",
+        "OPEC+ mandated flat pricing across all member states to eliminate price wars in key consumer markets.",
+        "Surging domestic consumption forced the state oil company to curtail export volumes destined for Asia.",
+        "Bilateral trade agreements required a mandatory price discount in exchange for infrastructure investments."
+      ],
+      "a": 0,
+      "e": "Aramco trimmed Arab Light pricing by $3 to a six-year low to reflect regional prompt structure adjustments and shifting refining margins. Option b is incorrect because the adjustment targeted specific Asian differentials rather than an OPEC+ flat mandate."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Corporates",
+      "q": "What role does the Public Investment Fund play regarding the electric vehicle maker Lucid?",
+      "o": [
+        "The sovereign shareholder provides balance sheet support through capital injections, including an additional $1.75bn funding round.",
+        "The fund acts as an independent commercial auditor overseeing the firm's manufacturing plants in North America.",
+        "It manages the distribution logistics of finished vehicles across Middle Eastern retail markets.",
+        "The institution enforces strict regulatory compliance standards regarding cross-border supply chain emissions."
+      ],
+      "a": 0,
+      "e": "The Public Investment Fund shores up Lucid's balance sheet as a controlling sovereign shareholder via capital injections like the $1.75bn funding. Option c is incorrect because the fund provides capital rather than logistics management."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What do the diverging naira exchange rates between official markets and parallel markets indicate about the domestic economy?",
+      "o": [
+        "Persistent structural imbalances in foreign exchange supply drive ongoing selloffs and widen the gap to parallel prints.",
+        "Aggressive central bank intervention has successfully eliminated all arbitrage opportunities across currency segments.",
+        "Surging oil export revenues have strengthened local liquidity, pushing parallel market rates above official parity.",
+        "Commercial banks have hoarded foreign currency to comply with stringent new international capital adequacy ratios."
+      ],
+      "a": 0,
+      "e": "Price action reflects persistent structural imbalances in foreign exchange supply as parallel rates diverge further to N1,383. Option b is wrong because divergence proves arbitrage opportunities and imbalances persist, not elimination."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Banking",
+      "q": "What specific financial metric did the Commonwealth Bank of Australia disclose for fiscal Q1 2026?",
+      "o": [
+        "The institution reported a higher cash net profit, which isolates core operating performance from non-recurring items.",
+        "Management announced a comprehensive write-down of its entire commercial real estate loan portfolio.",
+        "The bank disclosed a sharp contraction in its net interest margin due to aggressive deposit rate competition.",
+        "Core tier 1 capital ratios fell below regulatory minimums following heavy corporate loan defaults."
+      ],
+      "a": 0,
+      "e": "Commonwealth Bank posted a higher fiscal Q1 cash net profit, a metric that isolates core operating performance from non-recurring items. Option c is incorrect because cash profit rose, not contracted."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Equities",
+      "q": "Why were Australian equities expected to decline on November 11, 2026?",
+      "o": [
+        "Hot US inflation data cemented Federal Reserve tightening expectations, creating negative cross-border spillover sentiment from Wall Street.",
+        "The Reserve Bank of Australia announced an emergency inter-meeting rate hike to combat domestic wage pressures.",
+        "A sudden crash in global iron ore spot prices decimated the valuations of major Australian mining houses.",
+        "New capital controls restricted foreign institutional investors from repatriating dividends out of the country."
+      ],
+      "a": 0,
+      "e": "Australian equities faced pressure as hot US inflation cemented Fed tightening expectations, demonstrating cross-border rate sensitivity following Wall Street losses. Option b is incorrect because the trigger was US inflation, not an RBA emergency hike."
     }
   ]
 }
