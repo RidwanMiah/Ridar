@@ -1,707 +1,473 @@
 {
-  "generated": "2026-11-10T01:30:13.570Z",
+  "generated": "2026-11-10T09:44:41.889Z",
   "questions": [
     {
-      "lvl": "b",
+      "lvl": "i",
+      "tag": "United States of America · Monetary policy",
+      "q": "Why did the anticipated tightening path force a repricing across short-end duration instruments?",
+      "o": [
+        "Christopher Waller signaled support for a quarter-point rate hike in December.",
+        "Global equities strengthened concurrently as oil prices dipped below $90.",
+        "Dollar sellers paused activity as markets awaited critical inflation data.",
+        "Treasury yields sought direction ahead of upcoming data releases."
+      ],
+      "a": 0,
+      "e": "Federal Reserve official Christopher Waller signaled support for a quarter-point rate hike in December, which sets up the largest rate increase since 2022 and directly alters short-end pricing expectations. While yields sought direction and traders watched data, the specific catalyst for the tightening path repricing was Waller's rate hike signal."
+    },
+    {
+      "lvl": "i",
       "tag": "United States of America · Foreign exchange",
-      "q": "Why did foreign exchange traders pause their US dollar short positions?",
+      "q": "What caused dollar sellers to pause their activity in the foreign exchange market?",
       "o": [
-        "They held back ahead of upcoming inflation figures that guide currency valuations.",
-        "They were forced to close accounts by the Federal Reserve.",
-        "The US stock market fell by 2.35% and closed all trading desks.",
-        "Gold prices dropped globally and halted currency conversions."
+        "Macro accounts flattened books ahead of the upcoming consumer price index release.",
+        "Crude oil prices dipped below $90 a barrel on 10 November 2026.",
+        "European bond yields slid while US Treasury yields hunted for a catalyst.",
+        "Federal Reserve officials weighed monetary policy adjustments."
       ],
       "a": 0,
-      "e": "Traders paused short positions to await incoming price metrics that dictate macroeconomic expectations. The other options are incorrect because the Fed did not force closures, equities rose instead of falling, and gold drops did not halt conversions."
+      "e": "Dollar sellers paused activity as macro accounts flattened books specifically ahead of the consumer price index release. Oil dipping below $90 and European bond yields sliding describe concurrent cross-asset conditions rather than the direct reason for the pause in dollar selling."
     },
     {
-      "lvl": "b",
-      "tag": "United States of America · Equities",
-      "q": "What drove the Nikkei 225 past 60,000?",
-      "o": [
-        "A 2.35% advance on Wall Street that triggered semiconductor and artificial intelligence buybacks.",
-        "A direct corporate merger between SoftBank and Kioxia.",
-        "An emergency rate cut by the Bank of Japan.",
-        "A massive drop in spot gold prices across Asian exchanges."
-      ],
-      "a": 0,
-      "e": "US equity gains transmitted directly across the Pacific to drive inflows into tech names. The other choices involve events or corporate actions not supported by the text."
-    },
-    {
-      "lvl": "b",
+      "lvl": "i",
       "tag": "United Kingdom · Equities",
-      "q": "Why did the FTSE 100 rise over 1.0%?",
+      "q": "Why did Shell and BP underperform the broader FTSE 100 index?",
       "o": [
-        "Firmer gold prices drove gains for mining companies on the exchange.",
-        "The Bank of England lowered interest rates to zero.",
-        "Domestic UK macroeconomic fundamentals showed record growth.",
-        "The government reformed the central bank mandate."
+        "Lower crude prices compressed valuations for top-tier energy constituents.",
+        "Cheaper inputs generally benefit other sectors through a sector rotation.",
+        "Market participants monitored technical resistance levels approaching 11,000.",
+        "Equity indices across London tracked higher as commodity moves rippled through desks."
       ],
       "a": 0,
-      "e": "The benchmark index reacted directly to stronger commodity valuations lifting resource heavyweights. The other choices mention domestic growth or rate cuts which are not cited as the cause."
+      "e": "Shell and BP shares slipped because lower crude prices compressed valuations for top-tier energy constituents. Although cheaper inputs benefited non-energy verticals, the direct reason for the energy majors lagging was the lower crude benchmark."
     },
     {
-      "lvl": "b",
-      "tag": "United Kingdom · Central banking",
-      "q": "What is the core debate surrounding the Bank of England mandate?",
+      "lvl": "i",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "What macroeconomic factor propelled GBP/JPY towards the mid-212.00s handle?",
       "o": [
-        "Critics argue the current rules restrict long-term infrastructure and regional development goals.",
-        "Observers claim the bank sets interest rates too high for mining firms.",
-        "Analysts believe the 10-year regional vision causes high inflation.",
-        "Lawmakers want to abolish the central bank entirely."
+        "A yield differential created by a hawkish Bank of England stance relative to softening Japanese economic prints.",
+        "Foreign exchange traders balancing divergent central bank policies across global desks.",
+        "Persistent deflation pressures or weak domestic prints in the United Kingdom relative to Tokyo.",
+        "Sterling facing downward pressure against the greenback as inflation expectations anchored US rates."
       ],
       "a": 0,
-      "e": "The debate focuses on whether the institutional framework conflicts with long-term regional development plans. The other options introduce claims about interest rates or abolishing the bank which do not appear in the text."
+      "e": "The currency pair climbed because a hawkish Bank of England stance created a yield differential against softening Japanese economic prints and <span class='term' data-t='inflation'>deflation</span> pressures. Sterling facing pressure against the dollar explains a separate currency dynamic rather than the cross-rate move against the yen."
     },
     {
-      "lvl": "b",
-      "tag": "Germany · Equities",
-      "q": "How much did the DAX 40 index jump in Frankfurt?",
+      "lvl": "i",
+      "tag": "Germany · Trade",
+      "q": "Why did the German trade surplus narrow despite an increase in export volumes?",
       "o": [
-        "1.73%",
-        "2.35%",
-        "3.00%",
-        "1.00%"
+        "Simultaneous offsetting import dynamics reduced the net trade balance.",
+        "Regional European equities extended gains as the DAX neared record valuations.",
+        "Hensoldt targeted €10bn in annual revenue by 2035.",
+        "Frankfurt stocks approached historical highs in morning trade."
       ],
       "a": 0,
-      "e": "The DAX 40 index jumped by 1.73% to close at 26,267.19. The other percentages belong to different market movements mentioned in other countries."
+      "e": "The trade surplus narrowed because of offsetting import dynamics that countered the growth in German exports. Equity index movements and Hensoldt's revenue targets are unrelated corporate and regional equity developments."
     },
     {
-      "lvl": "b",
+      "lvl": "i",
       "tag": "Japan · Equities",
-      "q": "Which Japanese companies saw major share price surges following the Wall Street rally?",
+      "q": "What catalyzed the Nikkei 225 index to extend its gains and clear the 60,000 threshold?",
       "o": [
-        "SoftBank and Kioxia",
-        "Mitsui Chemicals and JSR",
-        "Infineon and DAX",
-        "Tongwei Group and Tech-Bank Food"
+        "Structural inflows into artificial intelligence and chip equities alongside lower crude prices.",
+        "SoftBank booking a quarterly loss of $7 billion due to valuation hits on US data centre assets.",
+        "The firm partnering with Grab to deploy $1.85bn into artificial intelligence infrastructure.",
+        "Diverging central bank reaction functions between the Bank of England and Japan."
       ],
       "a": 0,
-      "e": "SoftBank shares surged 11% and Kioxia shares jumped 8% due to spillover buying in artificial intelligence and semiconductors. Mitsui Chemicals and JSR are a separate acquisition story, while Infineon is German."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Central banking",
-      "q": "What prompted Bank of Japan board members to discuss rate hikes to a neutral level?",
-      "o": [
-        "Underlying inflation hitting the 2% target.",
-        "A sudden collapse in the 1.84 trillion yen acquisition of JSR.",
-        "An 11% surge in SoftBank share prices.",
-        "Pressure from international currency traders shorting the dollar."
-      ],
-      "a": 0,
-      "e": "Reaching the 2% inflation target provoked a hawkish pivot and calls for rate normalization. The corporate acquisition and stock surges did not drive this central bank discussion."
-    },
-    {
-      "lvl": "b",
-      "tag": "Japan · Corporate",
-      "q": "Why is Mitsui Chemicals acquiring JSR for 1.84 trillion yen?",
-      "o": [
-        "To consolidate supply chains within the domestic semiconductor materials sector.",
-        "To rescue a debt-laden agricultural business.",
-        "To expand its fleet of very large crude carriers.",
-        "To secure a five-year sales agreement for mineral output."
-      ],
-      "a": 0,
-      "e": "JSR operates as a manufacturer of semiconductor materials, making the deal a consolidation of the domestic chip sector. The other options describe agricultural restructurings, shipping fleets, or mining offtakes."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Corporate",
-      "q": "What did Tongwei Group achieve through its 1.441 billion yuan restructuring?",
-      "o": [
-        "It secured a controlling stake and absorbed Tech-Bank Food.",
-        "It purchased 10 very large crude carriers.",
-        "It acquired semiconductor manufacturer JSR.",
-        "It signed a five-year sales agreement for mineral output."
-      ],
-      "a": 0,
-      "e": "Tongwei Group assumed control of the debt-laden enterprise Tech-Bank Food via a restructuring. The other options refer to shipping, chip materials, or mining contracts."
-    },
-    {
-      "lvl": "b",
-      "tag": "China · Shipping",
-      "q": "How did COSCO Shipping Energy expand its operational capacity?",
-      "o": [
-        "By ordering 10 very large crude carriers and securing 14 vessels via bareboat charter.",
-        "By acquiring Tech-Bank Food for 216 million dollars.",
-        "By placing orders for semiconductor manufacturing equipment.",
-        "By restructuring its debt through government interventions."
-      ],
-      "a": 0,
-      "e": "The company combined direct procurement of 10 carriers with 14 bareboat charter arrangements. The other options mix up corporate acquisitions from entirely different sectors."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Equities",
-      "q": "Which sectors led gains on the Sensex and Nifty?",
-      "o": [
-        "Public sector banks and pharmaceutical stocks.",
-        "Semiconductor manufacturers and AI tech firms.",
-        "Oil exploration and pipeline infrastructure.",
-        "Soft commodities and agricultural exporters."
-      ],
-      "a": 0,
-      "e": "Public sector banks and pharma stocks led the gains and helped the Nifty reclaim the 25,000 level. Tech, oil, and soft commodities are covered in other regional reports."
-    },
-    {
-      "lvl": "b",
-      "tag": "India · Volatility",
-      "q": "What happened to the India VIX despite a 7% market rally?",
-      "o": [
-        "It surged 68%, indicating heightened options-implied volatility.",
-        "It dropped 21% alongside global gold prices.",
-        "It matched the local gold loss of exactly 15%.",
-        "It fell to zero as the rupee provided a protective buffer."
-      ],
-      "a": 0,
-      "e": "The India VIX spiked by 68% despite the broader equity rally. The other options confuse volatility measurements with gold price changes or currency buffers."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Corporate",
-      "q": "What operational step did Petrobras take regarding the Jade vessel?",
-      "o": [
-        "It accepted an offer from Seagems, facilitated by Paratus Energy.",
-        "It sold the vessel to COSCO Shipping Energy to fund crude carriers.",
-        "It canceled engineering studies with LR and RINA.",
-        "It moved its corporate headquarters following a pipeline attack."
-      ],
-      "a": 0,
-      "e": "Petrobras accepted an offer from Seagems for the Jade vessel via Paratus Energy while preparing for earnings. The other options combine unrelated shipping or security events."
-    },
-    {
-      "lvl": "b",
-      "tag": "Brazil · Commodities",
-      "q": "Why did New York sugar prices decline?",
-      "o": [
-        "Persistent softness in the Brazilian real altered export pricing dynamics.",
-        "A surge in the India VIX reduced global demand for soft commodities.",
-        "The central bank lowered the projected 2026 Selic rate.",
-        "Petrobras increased production output of floating systems."
-      ],
-      "a": 0,
-      "e": "Currency weakness in the Brazilian real directly transmits foreign exchange headwinds into soft commodity valuations. The other options involve volatility indices, interest rates, or energy production."
-    },
-    {
-      "lvl": "b",
-      "tag": "Saudi Arabia · Geopolitics",
-      "q": "What was the physical impact of the Houthi strike on the East-West pipeline in the Madinah region?",
-      "o": [
-        "Operations continued uninterrupted and throughput remained unconstrained.",
-        "Windows were blown out at the corporate headquarters.",
-        "Crude oil risk premiums fell due to excess supply.",
-        "The Saudi Energy Ministry halted all pipeline activities permanently."
-      ],
-      "a": 0,
-      "e": "Despite the sabotage attempt, the infrastructure stayed operational and throughput unconstrained. The other options mix up the pipeline incident with the separate Aramco skyscraper attack."
-    },
-    {
-      "lvl": "b",
-      "tag": "Nigeria · Foreign exchange",
-      "q": "What happened to spot foreign exchange liquidity in Nigeria?",
-      "o": [
-        "Total dollar trading turnover plummeted 51% to $1.81bn.",
-        "Parallel market rates strengthened to N1,349 per US dollar.",
-        "The central bank abolished bureau de change outlets entirely.",
-        "Foreign payment demand fell to zero as inflation hit 13%."
-      ],
-      "a": 0,
-      "e": "Dollar trading turnover contracted severely, dropping by 51% to $1.81bn. The other answers state incorrect rate movements or regulatory actions not found in the text."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Corporate",
-      "q": "Why did HyTerra exit its Nebraska joint development agreement?",
-      "o": [
-        "To shift its attention and capital allocation entirely toward its Kansas focus.",
-        "To merge with Syntara in a clinical trial for skin scarring.",
-        "To secure a five-year sales offtake contract for the Donald project.",
-        "To purchase 10 very large crude carriers."
-      ],
-      "a": 0,
-      "e": "The Nebraska exit shifted the firm's focus exclusively toward its Kansas project pipeline. The other options mix up the company with clinical trials, mining assets, or shipping."
-    },
-    {
-      "lvl": "b",
-      "tag": "Australia · Mining",
-      "q": "What did Astron secure for its Donald project?",
-      "o": [
-        "A five-year offtake agreement locking in multi-year purchase terms for mineral output.",
-        "A joint development agreement in Nebraska.",
-        "Patient recruitment approval for clinical trials.",
-        "A controlling stake in Tech-Bank Food."
-      ],
-      "a": 0,
-      "e": "Astron signed a five-year sales agreement that increases revenue visibility for the Donald project. The other options refer to different companies and activities."
+      "e": "The Nikkei rally was driven by structural inflows into AI and chip equities, amplified by macro tailwinds from a pullback in crude prices. SoftBank's quarterly loss reflects company-specific impairments rather than the index-wide momentum drivers."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Foreign exchange",
-      "q": "Why did foreign exchange traders pause their US dollar short positions?",
+      "tag": "Japan · Corporate finance",
+      "q": "What drove SoftBank's $7 billion quarterly deficit despite its capital redeployment strategy?",
       "o": [
-        "Market participants held back ahead of upcoming inflation figures.",
-        "The Federal Reserve announced an unexpected emergency interest rate cut.",
-        "Foreign central banks intervened directly to strengthen the local currency.",
-        "Trading systems experienced a complete operational outage during the session."
+        "Valuation hits and impairments on United States data centre assets.",
+        "A joint investment with Grab targeting Malaysian artificial intelligence infrastructure.",
+        "Diverging central bank reaction functions between domestic authorities and the Bank of England.",
+        "Persistence of <span class='term' data-t='inflation'>deflation</span> pressures across the regional economic curve."
       ],
       "a": 0,
-      "e": "Traders flattened books and paused short positions ahead of tier-one inflation prints because these price metrics guide currency valuations and rate expectations. The sources do not mention emergency rate cuts, central bank interventions, or technical outages."
+      "e": "SoftBank absorbed its quarterly deficit specifically due to valuation impairments in US data centre exposure. The joint investment with Grab represents a concurrent capital deployment rather than the cause of the earnings drag."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Equities",
-      "q": "What drove the Nikkei 225 past the 60,000 threshold?",
+      "tag": "China · Debt markets",
+      "q": "Why did Shangri-La issue a dim sum bond structure worth 1.02 billion yuan?",
       "o": [
-        "Spillover buying and concentrated technology sector inflows from a Wall Street rally.",
-        "A sudden emergency liquidity injection by the Bank of Japan.",
-        "Massive domestic retail participation following tax exemptions on dividends.",
-        "An unexpected surge in local automotive export volumes."
+        "To tap into foreign pools of Chinese currency and demonstrate corporate access outside mainland jurisdiction.",
+        "To establish its daily midpoint fix as the operational anchor for the currency within trading bands.",
+        "To secure access to advanced Nvidia hardware through rental agreements for machine learning.",
+        "To grant overseas clearing banks direct access to the onshore foreign exchange market."
       ],
       "a": 0,
-      "e": "The Nikkei 225 surged past 60,000 as a 2.35% jump in US benchmarks transmitted directly across Pacific sessions via semiconductor and artificial intelligence buybacks. The text attributes the move to North American tech valuations rather than Bank of Japan liquidity or automotive exports."
+      "e": "A dim sum bond allows companies to tap into foreign pools of Chinese currency outside mainland jurisdiction, demonstrating offshore liquidity access. The daily midpoint fix is set by the central bank rather than a corporate bond issuer."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Commodities",
-      "q": "What caused the FTSE 100 index to rise over 1.0%?",
+      "tag": "China · Foreign exchange",
+      "q": "What was the administrative purpose of the daily midpoint fix established at 6.7167 by the People's Bank of China?",
       "o": [
-        "Firmer gold prices triggered upward momentum in resource heavyweights.",
-        "A sharp unexpected drop in domestic retail energy tariffs.",
-        "The central bank lowered its benchmark interest rate by 0.5 points.",
-        "A sweeping corporate tax cut boosted domestic retail margins."
+        "It acts as the operational anchor for the currency within its permitted daily trading band.",
+        "It allows corporate issuers to tap into foreign pools of Chinese currency via dim sum bonds.",
+        "It prices the rental agreements for advanced Nvidia hardware used in foundational model training.",
+        "It establishes overseas clearing bank integration for offshore renminbi debt instruments."
       ],
       "a": 0,
-      "e": "Firmer gold prices drove gains for mining companies on the exchange, lifting the benchmark index through commodity beta exposure. The briefing explicitly ties the move to materials sector repricing rather than UK macro fundamentals like interest rates or taxes."
-    },
-    {
-      "lvl": "i",
-      "tag": "United Kingdom · Central banking",
-      "q": "Why does the Bank of England face structural criticism regarding its mandate?",
-      "o": [
-        "Critics claim its statutory objectives conflict with achieving a 10-year regional vision.",
-        "The institution failed to prevent a major banking sector collapse last quarter.",
-        "Its foreign exchange reserves dropped below internationally mandated safety thresholds.",
-        "The bank refused to implement negative interest rates requested by parliament."
-      ],
-      "a": 0,
-      "e": "Analysts debate whether the central bank's statutory objectives conflict with ambitious regional development plans, making a 10-year regional vision impossible without reform. The sources do not mention bank failures, reserve levels, or negative interest rates."
-    },
-    {
-      "lvl": "i",
-      "tag": "Germany · Equities",
-      "q": "Which specific sectors led Frankfurt's DAX 40 index to jump 1.73%?",
-      "o": [
-        "Infineon and defence equities.",
-        "Commercial banks and commercial real estate developers.",
-        "Automotive manufacturers and luxury goods retailers.",
-        "Renewable energy utilities and chemical producers."
-      ],
-      "a": 0,
-      "e": "Frankfurt's DAX 40 advanced 1.73% to print at 26,267.19, driven by outperformance in Infineon and defence equities. The other listed sectors are not mentioned as market leaders in the briefing."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Central banking",
-      "q": "What provoked a hawkish pivot among multiple Bank of Japan board members?",
-      "o": [
-        "Underlying inflation prints reaching the 2% target.",
-        "A sharp depreciation of the yen past historical intervention levels.",
-        "An overheating housing market driven by speculative leverage.",
-        "Rapid wage growth exceeding corporate productivity gains."
-      ],
-      "a": 0,
-      "e": "Underlying inflation hitting the 2% target prompted action from monetary policymakers, leading multiple board members to argue that a rate hike to a neutral level is needed soon. The text does not cite exchange rate interventions, housing bubbles, or wage data."
-    },
-    {
-      "lvl": "i",
-      "tag": "Japan · Corporate action",
-      "q": "Why did Mitsui Chemicals agree to acquire JSR for 1.84 trillion yen?",
-      "o": [
-        "To consolidate supply chains within the domestic advanced manufacturing chip sector.",
-        "To rescue a failing competitor from immediate bankruptcy proceedings.",
-        "To divest its non-core chemical assets and focus entirely on agriculture.",
-        "To secure exclusive global distribution rights for medical pharmaceuticals."
-      ],
-      "a": 0,
-      "e": "The multi-trillion-yen transaction represents a major corporate consolidation within the domestic advanced manufacturing supply chain, as JSR operates as a manufacturer of semiconductor materials. The acquisition is not described as a bankruptcy rescue or a pharmaceutical deal."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Corporate restructuring",
-      "q": "How did Tech-Bank Food shares react immediately ahead of its restructuring announcement?",
-      "o": [
-        "They reached limit-up prior to the formal public disclosure.",
-        "Trading was suspended indefinitely by exchange regulators.",
-        "They plummeted 20% following news of corporate insolvency.",
-        "They traded sideways with zero volume change."
-      ],
-      "a": 0,
-      "e": "Equity momentum pushed Tech-Bank Food shares to limit-up prior to the formal public announcement of the restructuring by Tongwei Group. The briefing does not mention regulatory trading suspensions or price plunges."
-    },
-    {
-      "lvl": "i",
-      "tag": "China · Shipping",
-      "q": "How did COSCO Shipping Energy expand its operational capacity alongside direct vessel orders?",
-      "o": [
-        "By securing an additional 14 vessels via bareboat charter arrangements.",
-        "By purchasing a rival shipping conglomerate in a hostile takeover.",
-        "By retrofitting existing container ships into crude carriers.",
-        "By leasing port facilities across international maritime hubs."
-      ],
-      "a": 0,
-      "e": "COSCO Shipping Energy scaled its tonnage deployment via dual direct procurement and charter channels, securing 10 very large crude carriers alongside an additional 14 hulls through bareboat charter structures. The sources do not mention hostile takeovers, ship retrofitting, or port leasing."
+      "e": "The daily reference rate functions as the operational anchor for the currency within its permitted daily trading band following the opening of the onshore forex market. It does not dictate corporate bond pricing or hardware rental agreements."
     },
     {
       "lvl": "i",
       "tag": "India · Equities",
-      "q": "What drove the Sensex and Nifty indices to multi-month highs?",
+      "q": "What underpinned Citi's decision to lift its Nifty terminal target to 28,000 by December 2027?",
       "o": [
-        "Sector rotation into PSU banks and pharmaceutical stocks.",
-        "An emergency stimulus package announced by the national treasury.",
-        "A sudden surge in foreign direct investment into retail real estate.",
-        "Unprecedented quarterly earnings beats from technology heavyweights."
+        "A more constructive earnings revision breadth and forward corporate margin resilience.",
+        "Favorable terms-of-trade shifts from lower crude prices and robust portfolio inflows.",
+        "Rupee depreciation and higher import tariffs insulating local bullion valuations.",
+        "Global gold prices pulling back 21.4% from their peak cyclical highs."
       ],
       "a": 0,
-      "e": "The Sensex and Nifty extended gains driven by sector rotation into PSU banks and pharma, with bank equities bridging their relative performance lag. The text attributes the move to sector rotation rather than treasury stimulus, real estate investment, or tech earnings."
+      "e": "Citi anchored its upgrade in a more constructive earnings revision breadth implying sustained multiple expansion and margin resilience. Terms-of-trade shifts and rupee appreciation explain the currency and current account movements rather than equity target revisions."
     },
     {
       "lvl": "i",
-      "tag": "India · Foreign exchange",
-      "q": "Why did local gold prices in India fall by only 15% when global gold prices dropped 21%?",
-      "o": [
-        "Currency dynamics involving the rupee provided a protective buffer.",
-        "The central bank imposed strict price controls on retail bullion sales.",
-        "Domestic jewelry demand surged to offset international sell-offs.",
-        "Import tariffs on precious metals were abruptly suspended."
-      ],
-      "a": 0,
-      "e": "Currency dynamics mitigated domestic bullion drawdowns, restricting local gold losses because the rupee provided a protective buffer for domestic investors. The sources do not mention retail price controls, jewelry demand shifts, or tariff suspensions."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Commodities",
-      "q": "Why did New York sugar futures decline during the session?",
-      "o": [
-        "Persistent softness in the Brazilian real altered export pricing dynamics.",
-        "A severe drought damaged domestic sugarcane crop yields across the region.",
-        "Global consumers substituted sugar with alternative sweeteners en masse.",
-        "Shipping bottlenecks trapped record inventories at domestic ports."
-      ],
-      "a": 0,
-      "e": "New York sugar futures retraced as persistent softness in the Brazilian real altered export pricing dynamics. The text specifically highlights foreign exchange headwinds transmitting into soft commodity valuations rather than crop weather, consumer substitution, or port bottlenecks."
-    },
-    {
-      "lvl": "i",
-      "tag": "Brazil · Monetary policy",
-      "q": "What caused yield curve adjustments and a higher consensus terminal rate expectation in Brazil?",
-      "o": [
-        "Persistent domestic price pressures leading analysts to project a 2026 Selic rate of 13.75%.",
-        "A mandate from the international monetary fund to raise capital reserves.",
-        "An unexpected spike in unemployment rates requiring monetary easing.",
-        "Direct intervention by the national legislature to cap borrowing costs."
-      ],
-      "a": 0,
-      "e": "The consensus terminal rate expectation repriced higher as the projected 2026 Selic rate climbed to 13.75%, driven by yield curve adjustments reflecting persistent domestic price pressures. The sources do not mention the IMF, unemployment spikes, or legislative borrowing caps."
-    },
-    {
-      "lvl": "i",
-      "tag": "Saudi Arabia · Infrastructure",
-      "q": "How did physical throughput respond after a strike targeted the East-West pipeline?",
-      "o": [
-        "Throughput remained unconstrained as infrastructure stayed operational.",
-        "Operations were halted completely for three days for emergency repairs.",
-        "Flows were permanently rerouted through maritime shipping tankers.",
-        "Capacity was restricted by 50% while security teams cleared the area."
-      ],
-      "a": 0,
-      "e": "Throughput remained unconstrained as the infrastructure stayed operational following the sabotage attempt, though the security event drove an expansion in the crude oil risk premium. The text explicitly states operations continued uninterrupted across the network."
-    },
-    {
-      "lvl": "i",
-      "tag": "Nigeria · Foreign exchange",
-      "q": "What drove the official naira rate to depreciate to N1,349 per US dollar?",
-      "o": [
-        "Rising demand for foreign payments amid contracting spot foreign exchange liquidity.",
-        "A coordinated decision by commercial banks to peg the currency lower.",
-        "Massive capital flight triggered by the collapse of domestic equity markets.",
-        "A decree from the central bank abolishing the official exchange rate window."
-      ],
-      "a": 0,
-      "e": "The official naira rate depreciated under the weight of foreign payment demand as total dollar trading turnover plummeted 51% to $1.81bn, indicating severely contracted spot foreign exchange liquidity. The text does not mention bank pegging agreements, equity market collapses, or rate window abolitions."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Corporate strategy",
-      "q": "Why did HyTerra decide to exit its Nebraska joint development agreement?",
-      "o": [
-        "To concentrate capital allocation exclusively on its Kansas project pipeline.",
-        "To merge its operations with a larger international energy corporation.",
-        "Because local regulatory authorities revoked its drilling permits.",
-        "To liquidate all assets and return capital to shareholders."
-      ],
-      "a": 0,
-      "e": "HyTerra formally exited the Nebraska agreement to concentrate capital allocation exclusively on the Kansas project pipeline, removing partner obligations from the Nebraska asset. The briefing does not mention corporate mergers, revoked permits, or complete liquidation."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Clinical trials",
-      "q": "What action did Syntara take regarding its clinical development pipeline for SNT-9465?",
-      "o": [
-        "It paused participant recruitment within the skin scarring trial.",
-        "It terminated the drug development program following severe patient adverse events.",
-        "It accelerated phase three trials after securing fast-track regulatory approval.",
-        "It expanded the trial scope to include autoimmune disease indications."
-      ],
-      "a": 0,
-      "e": "Syntara halted participant recruitment within the SNT-9465 skin scarring trial, pausing incoming patient streams and delaying clinical milestones for the compound. The text makes no mention of adverse events, fast-track approvals, or expanded indications."
-    },
-    {
-      "lvl": "i",
-      "tag": "Australia · Offtake agreements",
-      "q": "What commercial benefit did Astron secure through its binding agreement for the Donald project?",
-      "o": [
-        "Multi-year purchase terms that increase revenue visibility for the development phase.",
-        "Guaranteed government subsidies to cover initial construction expenditures.",
-        "Expropriation protection insurance against foreign sovereign risks.",
-        "Zero-interest debt financing to complete infrastructure installation."
-      ],
-      "a": 0,
-      "e": "Astron locked in multi-year purchase terms for mineral output via a five-year offtake commitment, which increases revenue visibility for the development phase. The briefing does not mention government subsidies, political risk insurance, or zero-interest debt."
-    },
-    {
-      "lvl": "a",
-      "tag": "United States of America · Foreign exchange",
-      "q": "Why did foreign exchange traders pause their US dollar short positions ahead of the CPI print?",
-      "o": [
-        "To mitigate downside exposure to incoming data prints that could shift Federal Reserve rate expectations.",
-        "To lock in capital gains ahead of scheduled Treasury debt auctions.",
-        "To comply with new Federal Reserve regulations restricting speculative leverage.",
-        "To fund physical gold purchases following the drop in spot bullion."
-      ],
-      "a": 0,
-      "e": "Traders flatten books because upcoming consumer price data carries the potential to alter Federal Reserve rate pricing, making short-term direction uncertain. The other options introduce mechanisms not supported by the text."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Equities",
-      "q": "What drove the Nikkei 225 past the 60,000 threshold?",
-      "o": [
-        "Spillover buying and concentrated technology sector inflows following a 2.35% jump in US benchmarks.",
-        "An emergency quantitative easing announcement by the Bank of Japan.",
-        "A domestic corporate tax cut announced by the Ministry of Finance.",
-        "A massive influx of foreign direct investment into Japanese banking shares."
-      ],
-      "a": 0,
-      "e": "The equity repricing reflects renewed risk appetite flowing outward from North American technology valuations, specifically lifting semiconductor and AI stocks. The alternatives are unsupported policy or structural factors."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Monetary policy",
-      "q": "What provoked the hawkish pivot among multiple Bank of Japan board members during the October meeting?",
-      "o": [
-        "Underlying inflation prints reaching the 2% target.",
-        "A sharp depreciation of the yen past historical intervention thresholds.",
-        "Pressure from domestic manufacturing lobbies to lower borrowing costs.",
-        "Unexpected contraction in quarterly gross domestic product."
-      ],
-      "a": 0,
-      "e": "Reaching the 2% inflation milestone prompted officials to argue for rate hikes to a neutral level. The text does not mention intervention levels, GDP contraction, or lobby pressure."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Fixed income",
-      "q": "What drove the consensus terminal rate expectation for the 2026 Selic rate to climb to 13.75%?",
-      "o": [
-        "Persistent domestic price pressures leading analysts to adjust monetary tightening expectations.",
-        "Mandated capital reserve requirement increases enforced by the central bank.",
-        "A sudden widening of the fiscal deficit reported by the treasury.",
-        "Capital outflows triggered by declining New York sugar futures."
-      ],
-      "a": 0,
-      "e": "Yield curve adjustments reflect persistent domestic price pressures driving the terminal rate higher. The alternative choices invent fiscal, reserve, or commodity-driven channels not present in the sources."
-    },
-    {
-      "lvl": "a",
-      "tag": "India · Volatility",
-      "q": "Why did the India VIX spike 68% alongside a broader 7% equity rally?",
-      "o": [
-        "Options-implied volatility rose amidst upward price action and broader market momentum.",
-        "Foreign institutional investors executed a massive short squeeze on index derivatives.",
-        "The central bank intervened in the spot currency market to stabilize the rupee.",
-        "A sudden regulatory clampdown on domestic brokerage firms restricted trading."
-      ],
-      "a": 0,
-      "e": "The text explicitly links the VIX spike to heightened options-implied volatility during upward price action. The remaining choices rely on unmentioned institutional actions."
-    },
-    {
-      "lvl": "a",
-      "tag": "Saudi Arabia · Energy infrastructure",
-      "q": "How did the attack on the East-West pipeline in the Madinah region affect petroleum markets?",
-      "o": [
-        "It drove an expansion in the crude oil risk premium despite operations remaining unconstrained.",
-        "It forced a complete shutdown of regional refining capacity, sending Brent prices higher.",
-        "It disrupted export schedules, causing immediate force majeure declarations.",
-        "It triggered an emergency release of strategic petroleum reserves by the ministry."
-      ],
-      "a": 0,
-      "e": "Throughput stayed operational and unconstrained, but the security event immediately expanded the crude oil risk premium. The wrong choices falsely claim operational stoppages."
-    },
-    {
-      "lvl": "a",
-      "tag": "Nigeria · Foreign exchange",
-      "q": "What caused the spot foreign exchange liquidity to contract severely, pushing the official naira rate to N1,349?",
-      "o": [
-        "Rising demand for foreign payments against a backdrop of declining dollar trading turnover.",
-        "An immediate ban on bureau de change operations enacted by the central bank.",
-        "A massive repatriation of capital by foreign portfolio investors exiting the NGXASI.",
-        "A collapse in global crude oil prices reducing foreign exchange earnings."
-      ],
-      "a": 0,
-      "e": "Foreign payment demand weighed on the official rate while total dollar trading turnover plummeted by 51%. The alternative options introduce unstated regulatory bans or portfolio movements."
-    },
-    {
-      "lvl": "a",
-      "tag": "United Kingdom · Commodities",
-      "q": "What mechanism drove the FTSE 100 index higher by over 1.0%?",
-      "o": [
-        "Firmer gold bullion prices triggered upward momentum in resource heavyweights via commodity beta exposure.",
-        "An unexpected expansion in domestic retail sales boosted consumer discretionary stocks.",
-        "Stronger corporate earnings reports from major financial sector constituents.",
-        "A sharp depreciation of the pound improving overseas revenue translations."
-      ],
-      "a": 0,
-      "e": "Mining equities drove the primary index higher through commodity beta exposure rather than domestic UK macro fundamentals. The wrong options incorrectly attribute the move to retail, financials, or currency translations."
-    },
-    {
-      "lvl": "a",
-      "tag": "Brazil · Foreign exchange",
-      "q": "How did the persistent softness in the Brazilian real affect New York sugar futures?",
-      "o": [
-        "It altered export pricing dynamics, causing sugar futures to retrace.",
-        "It increased domestic production costs, restricting supply and lifting global prices.",
-        "It triggered currency hedging programs that locked in record export volumes.",
-        "It had no transmission effect due to pre-hedged multi-year supply contracts."
-      ],
-      "a": 0,
-      "e": "Currency weakness directly transmits into soft commodity valuations by altering export pricing dynamics. The other choices contradict the downward pressure described in the text."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Corporate restructuring",
-      "q": "Why did equity prices for Tech-Bank Food reach limit-up ahead of the public disclosure of Tongwei Group's restructuring?",
-      "o": [
-        "The market reacted to the impending corporate rescue and absorption of liabilities by Tongwei.",
-        "The firm announced a surprise quarterly dividend distribution exceeding expectations.",
-        "A speculative short squeeze occurred in response to regulatory filing delays.",
-        "The government announced direct subsidies for agricultural enterprises."
-      ],
-      "a": 0,
-      "e": "Equity momentum pushed shares to limit-up prior to the formal announcement as Tongwei secured a controlling stake to rescue the debt-laden enterprise. The wrong answers invent dividends, subsidies, or short squeezes."
-    },
-    {
-      "lvl": "a",
       "tag": "India · Commodities",
-      "q": "Why did local gold prices in India fall by only 15% while global gold prices dropped 21%?",
+      "q": "Why was the domestic transmission of the global gold price pullback truncated in India?",
       "o": [
-        "Currency dynamics mitigated domestic bullion drawdowns by providing a protective buffer.",
-        "The Reserve Bank of India purchased physical bullion to support domestic retail demand.",
-        "Local jewellers imposed price controls that decoupled domestic rates from London fixings.",
-        "Import tariffs were temporarily suspended to encourage local retail buying."
+        "Rupee depreciation alongside upward revisions to import tariffs insulated local valuations.",
+        "Lower crude import bills reduced immediate pressure on the external account balances.",
+        "Robust portfolio inflows provided fundamental support to the local currency demand.",
+        "Citi lifted its Nifty terminal target based on forward corporate margin resilience."
       ],
       "a": 0,
-      "e": "The rupee provided a protective buffer for domestic investors, mitigating the drawdown. The alternatives involve unmentioned interventions, tariffs, or price controls."
+      "e": "Domestic gold valuations were insulated from the global 21.4% drawdown because of rupee depreciation and higher import tariffs. Crude import bill reductions describe external account mechanics rather than bullion transmission factors."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Energy",
+      "q": "Why did commercial lenders allocate $61.5bn in cumulative backing to Petrobras despite regional controversies?",
+      "o": [
+        "The sources state the lending total without attributing it to a specific approval rationale beyond stand.earth research detailing Amazon basin risks.",
+        "Strong production metrics and expanding third-quarter earnings before interest, taxes, depreciation, and amortisation.",
+        "Commercial offers accepted for the Jade pipelay support vessel starting operations in 2028.",
+        "Engineering studies advanced by firms LR and RINA for floating production storage and offloading assets."
+      ],
+      "a": 0,
+      "e": "The briefing reports the $61.5bn figure from Stand.earth research detailing financing risks without citing a bank lending rationale, while robust production and earnings growth describe separate operational updates. Selecting operational metrics as the bank approval reason assumes a causal link not present in the text."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What accompanied the recovery of OPEC oil output to 90% of pre-war levels?",
+      "o": [
+        "Continued downward pressure on international oil prices.",
+        "The Riyadh Deputy Governor inspecting a damaged Saudi Aramco administrative building.",
+        "ASMO managing over 470 active Aramco agreements across regional operations.",
+        "Awarded Saudi infrastructure projects tripling in October."
+      ],
+      "a": 0,
+      "e": "The briefing explicitly notes that oil prices continue to fall as OPEC production rises toward pre-war levels. The Houthi attack inspection and project awards are separate events occurring in the kingdom."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What drove the spot rate to print at ₦1,346.51 officially after testing ₦1,349?",
+      "o": [
+        "Seasonal forex demand pressure that temporarily weakened the local currency.",
+        "Nigerian Treasury bills yields compressing to 17.85% on strong local asset demand.",
+        "Stanbic IBTC deploying a dedicated Naira-RMB settlement mechanism for bilateral trade.",
+        "Sterling Bank marketing urban and regional initiatives to institutional climate allocators at COP31."
+      ],
+      "a": 0,
+      "e": "Seasonal forex demand pressure was the specific driver that tested the weaker ₦1,349 exchange rate before official rates settled at ₦1,346.51. Treasury yields compressing reflect local liquidity conditions rather than the cause of seasonal forex demand."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Mining",
+      "q": "Why did Deep Yellow defer its Tumas decision while other firms progressed their schedules?",
+      "o": [
+        "The sources note the deferral as a fact without providing an underlying causal explanation for the decision.",
+        "Boss Energy handled its Honeymoon uranium output alongside a 2026 feasibility reset.",
+        "Cauldron Energy shaped its 2026 exploration agenda around Yanrey uranium resources.",
+        "Alligator Energy pursued Samphire uranium resource growth and feasibility work."
+      ],
+      "a": 0,
+      "e": "The briefing states that Deep Yellow deferred its Tumas decision while advancing project work, but provides no explanatory mechanism for why the deferral occurred. Assuming operational reasons not given in the text violates the strict source-based rules."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Bilateral trade",
+      "q": "What was the operational purpose of Stanbic IBTC introducing the Naira-RMB payment platform on November 10, 2026?",
+      "o": [
+        "To reduce transaction friction and accelerate bilateral trade flows between Nigeria and China.",
+        "To fund urban and regional infrastructure projects in Lagos and Ondo via COP31 allocators.",
+        "To compress Nigerian Treasury bills yields down to 17.85% through local liquidity management.",
+        "To offset seasonal forex demand pressure that weakened the spot rate to ₦1,349."
+      ],
+      "a": 0,
+      "e": "The Naira-RMB settlement mechanism was deployed specifically to reduce transaction friction in bilateral trade flows with China. Climate project funding at COP31 and Treasury yield compression are separate financial developments."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Artificial intelligence",
+      "q": "Why did Moonshot AI commit 432 million yuan to rental agreements for advanced Nvidia hardware?",
+      "o": [
+        "To acquire high-performance accelerators that underpin the firm's large-scale machine learning and foundational model training operations.",
+        "To establish overseas clearing bank access to the onshore foreign exchange market regulated by the central bank.",
+        "To price its debut offshore renminbi dim sum bond issuance targeting international institutional demand.",
+        "To fix the daily reference midpoint rate at 6.7167 within its permitted daily trading band."
+      ],
+      "a": 0,
+      "e": "The rental agreements secure high-performance processors required for large-scale machine learning and domestic foundational model training. Forex market access and dim sum bond issuance are unrelated financial and corporate transactions."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Corporate earnings",
+      "q": "Which operational segment reported positive growth alongside Petrobras heading into its third-quarter earnings release?",
+      "o": [
+        "Motiva equity prices advancing following a 13.4% expansion in earnings before interest, taxes, depreciation, and amortisation.",
+        "Stand.earth publishing a dedicated risk briefing detailing regional financing channels in the Amazon basin.",
+        "Engineering firms LR and RINA completing subsea systems studies for offshore platforms.",
+        "Seagems scheduling a pipelay support vessel for deployment starting in 2028."
+      ],
+      "a": 0,
+      "e": "Motiva reported a 13.4% expansion in earnings before interest, taxes, depreciation, and amortisation alongside its equity gains. Stand.earth details financial risks rather than earnings growth, while Seagems vessel deployment is scheduled for 2028."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Corporate strategy",
-      "q": "What strategic implication followed HyTerra's exit from the Nebraska joint development agreement?",
+      "tag": "United States of America · Fixed income",
+      "q": "What implied assumption regarding Federal Reserve policy is being priced into short-end duration instruments following Christopher Waller's remarks?",
       "o": [
-        "It removed partner obligations and allowed the firm to concentrate capital allocation exclusively on its Kansas project pipeline.",
-        "It freed up operational cash flow to fund new clinical trials for skin scarring treatments.",
-        "It triggered a mandatory de-listing from the ASX pending a strategic review.",
-        "It resulted in an immediate write-down of its Australian mineral exploration assets."
+        "A terminal rate trajectory consistent with a quarter-point increase in December, marking the largest upward adjustment since 2022.",
+        "An immediate pause in quantitative tightening coupled with an emergency inter-meeting rate cut to preempt macroeconomic softness.",
+        "A complete decoupling of short-end yields from the consumer price index releases due to structural changes in liquidity.",
+        "A neutral policy stance that completely discounts any probability of further rate increases through the end of the fiscal year."
       ],
       "a": 0,
-      "e": "Discontinuing the Nebraska venture removed partner obligations and shifted attention entirely toward the Kansas focus. The wrong choices mix up distinct companies or invent regulatory penalties."
+      "e": "Christopher Waller signaled support for at least a quarter-point rate hike in December, setting up the largest rate increase since 2022 and forcing a repricing across short-end duration instruments. This falsifies assumptions of a neutral or pausing Fed stance. Wrong options assume unannounced emergency cuts or total decoupling from incoming prints."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Equities",
-      "q": "What drove Frankfurt's DAX 40 index up 1.73% to close at 26,267.19?",
+      "tag": "United Kingdom · Fixed income",
+      "q": "How do macro accounts evaluate gilts relative to Japanese government bonds within the context of prevailing foreign exchange dynamics?",
       "o": [
-        "Outperformance in Infineon and defence equities leading a market rebound.",
-        "A coordinated interest rate cut by the European Central Bank.",
-        "Stronger-than-expected export data from the German automotive sector.",
-        "A surge in European banking shares following stress test results."
+        "Through yield differentials driven by a hawkish Bank of England stance compared to softening Japanese economic prints, propelling GBP/JPY higher.",
+        "By matching duration risk identically across both sovereign curves regardless of central bank reaction functions or domestic inflation prints.",
+        "Through an assumption that Bank of England rate cuts will precede any monetary tightening by Japanese authorities, narrowing the spread.",
+        "By liquidating all sovereign holdings to fund direct equity purchases in response to falling crude oil prices."
       ],
       "a": 0,
-      "e": "The text explicitly states that Infineon and defence shares led the market rebound driving the index advance. The remaining options introduce macroeconomic catalysts not found in the briefing."
+      "e": "The divergence exploits the yield differential created by a hawkish Bank of England stance relative to softening Japanese economic prints, pushing GBP/JPY towards the mid-212.00s. Assuming identical duration risk or rate cuts by the Bank of England contradicts the hawkish stance reported."
     },
     {
       "lvl": "a",
-      "tag": "China · Maritime logistics",
-      "q": "How did COSCO Shipping Energy expand its operational capacity alongside its direct procurement of 10 very large crude carriers?",
+      "tag": "China · Foreign exchange",
+      "q": "What operational significance does the People's Bank of China establishing its daily midpoint fix at 6.7167 have for the onshore foreign exchange market?",
       "o": [
-        "By securing an additional 14 vessels via bareboat charter arrangements.",
-        "By acquiring a rival domestic shipping conglomerate through a share swap.",
-        "By leasing mothballed container ships from European operators.",
-        "By converting bulk carrier hulls into crude oil tankers."
+        "It serves as the operational anchor for the currency within its permitted daily trading band following the admission of overseas clearing banks.",
+        "It marks a complete floating of the renminbi with the removal of all daily trading bands and administrative intervention limits.",
+        "It dictates the exact closing price of dim sum bonds issued in offshore financial centers like Hong Kong.",
+        "It enforces mandatory parity between the onshore yuan and the Nigerian naira via bilateral payment platforms."
       ],
       "a": 0,
-      "e": "The firm scaled tonnage deployment via dual direct procurement and bareboat charter structures. The other choices involve acquisitions, leasing container ships, or vessel conversions."
+      "e": "The People's Bank of China established its daily midpoint fix at 6.7167 to act as the operational anchor for the currency within its permitted daily trading band. A complete float contradicts the use of a midpoint fix and trading band, while dim sum bonds and naira parity are unrelated."
     },
     {
       "lvl": "a",
-      "tag": "Japan · M&A",
-      "q": "What characterizes the industrial consolidation resulting from Mitsui Chemicals' acquisition of JSR for 1.84 trillion yen?",
+      "tag": "India · Equities",
+      "q": "What mechanism underpins Citi's decision to lift its Nifty terminal target to 28,000 by December 2027?",
       "o": [
-        "It consolidates supply chains within the domestic advanced manufacturing chip sector.",
-        "It integrates upstream petroleum refining directly with downstream chemical retail.",
-        "It creates a monopolistic entity controlling global semiconductor photolithography.",
-        "It nationalizes critical mineral processing infrastructure under state oversight."
+        "A more constructive earnings revision breadth implying sustained multiple expansion predicated on forward corporate margin resilience.",
+        "A sudden contraction in global gold prices driving domestic retail investors entirely out of equities into bullion.",
+        "An increase in import tariffs on crude oil that completely eliminates external account pressures on corporate balance sheets.",
+        "Mandatory capital allocations from foreign central banks into state-owned oil exploration ventures."
       ],
       "a": 0,
-      "e": "JSR operates as a manufacturer of semiconductor materials, making the transaction a major consolidation within the domestic advanced manufacturing supply chain. The wrong options exaggerate the scope or change the industry."
+      "e": "Citi anchored its upgrade in a more constructive earnings revision breadth implying sustained multiple expansion predicated on forward corporate margin resilience. Gold drawdowns and tariff changes do not serve as the valuation mechanism for the Nifty index target upgrade."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Regulatory policy",
-      "q": "What action did the Central Bank of Nigeria take alongside the NGXASI index rebound?",
+      "tag": "Nigeria · Fixed income",
+      "q": "What drove the compression of Nigerian Treasury bills yields to 17.85% alongside official spot rates printing at ₦1,346.51?",
       "o": [
-        "It initiated steps to regulate stablecoin issuers and peer-to-peer crypto exchanges.",
-        "It raised its benchmark interest rate to defend the parallel market exchange rate.",
-        "It imposed strict capital controls on foreign portfolio investors liquidating shares.",
-        "It launched a digital currency pilot restricted to commercial banking transactions."
+        "Strong local asset demand reflecting domestic liquidity conditions and shifting duration preference across short-term sovereign paper.",
+        "An emergency intervention by the central bank to fix all parallel market rates at parity with official spot quotations.",
+        "The complete cessation of seasonal forex demand pressure following the conclusion of COP31 infrastructure pitches.",
+        "A massive influx of foreign capital directly into dim sum bond equivalents issued within Lagos banking networks."
       ],
       "a": 0,
-      "e": "The Central Bank of Nigeria expanded its regulatory perimeter to encompass stablecoin issuers and peer-to-peer venues. The other options describe monetary policy or capital control measures not mentioned."
+      "e": "Nigerian Treasury bills yields compressed to 17.85% on strong local asset demand, reflecting domestic liquidity conditions and shifting duration preference. The other options introduce unverified central bank interventions or misattribute dim sum bonds to Nigeria."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Corporate operations",
-      "q": "How does Petrobras approach its third-quarter earnings release regarding vessel deployment?",
+      "tag": "Brazil · Corporate finance",
+      "q": "How do third-party risk assessments interact with Petrobras financing figures despite controversies over Amazon basin exposure?",
       "o": [
-        "Management evaluates operational efficiency while accepting Seagems' offer for the Jade vessel via Paratus Energy.",
-        "The firm decommissions ageing floating production units to reduce operating expenses.",
-        "It cancels all engineering studies conducted by LR and RINA to preserve cash.",
-        "It transfers ownership of its subsea systems to private equity partners."
+        "Commercial lenders have allocated $61.5bn in cumulative backing, even as groups like Stand.earth detail regional financing risks in dedicated briefings.",
+        "Financial institutions have frozen all capital deployment globally until environmental engineering firms complete subsea systems studies.",
+        "Petrobras has cancelled all vessel contracts with Seagems to comply with mandatory lending restrictions set by commercial banks.",
+        "Motiva's earnings growth completely offsets any capital constraints faced by Petrobras in obtaining commercial bank loans."
       ],
       "a": 0,
-      "e": "Management evaluates operational efficiency as the firm accepts the offer for the Jade vessel via Paratus Energy, alongside engineering studies by LR and RINA. The other choices contradict the active developments in the text."
+      "e": "Commercial lenders allocate $61.5bn in cumulative backing to Petrobras despite controversies over Amazon basin exposure detailed by Stand.earth. Lending has not frozen, and contract cancellations did not occur based on the source text."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Institutional framework",
-      "q": "What is the core structural criticism directed at the Bank of England's institutional framework?",
+      "tag": "Australia · Commodities",
+      "q": "How are Australian uranium developers balancing project timelines and exploration agendas across different firms?",
       "o": [
-        "Critics claim its statutory objectives conflict with ambitious regional development plans and a 10-year regional vision.",
-        "Analysts argue its inflation targeting model is too rigid to accommodate quantitative tightening.",
-        "Reformers contend that its monetary policy committee lacks independence from treasury directives.",
-        "Observers state its operational independence restricts commercial bank lending margins."
+        "Cauldron Energy shapes its exploration around Yanrey, Boss Energy handles Honeymoon output with a 2026 reset, while Deep Yellow defers Tumas.",
+        "All exploration across all firms has been permanently halted due to falling crude oil prices weighing on energy majors.",
+        "Every uranium firm has synchronized its final investment decision to coincide with the opening of onshore forex clearing banks.",
+        "Uranium output has completely ceased to allow companies to redirect all capital into Mongolian gas drilling operations."
       ],
       "a": 0,
-      "e": "Analysts debate whether the central bank's statutory objectives conflict with ambitious regional development plans and a 10-year regional vision. The wrong options point to independence, lending margins, or quantitative tightening."
+      "e": "Cauldron Energy shapes its 2026 exploration agenda around Yanrey uranium resources, Boss Energy handles Honeymoon output alongside a 2026 feasibility reset, and Deep Yellow defers its Tumas decision while advancing project work. Total halts or synchronized decisions are contradicted by the varied project updates."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Corporate finance",
+      "q": "What does Hensoldt's long-term financial target of €10bn in annual revenue by 2035 signify for the firm?",
+      "o": [
+        "An explicit top-line expansion trajectory outlining the scale of future operational growth over the long term.",
+        "A guaranteed government subsidy program designed to insulate the defense sector from broader European equity corrections.",
+        "An immediate quarterly loss resulting from valuation impairments on United States data centre assets.",
+        "A binding agreement to merge operations with German export companies to narrow the national trade surplus."
+      ],
+      "a": 0,
+      "e": "Hensoldt targets €10bn in annual revenue by 2035, outlining its long-term top-line expansion trajectory. This is an internal corporate revenue target, not a government subsidy, data center impairment, or forced merger."
+    },
+    {
+      "lvl": "a",
+      "tag": "Japan · Equities",
+      "q": "What catalyzed the Nikkei 225 index to clear the 60,000 threshold by close over its two-day advance?",
+      "o": [
+        "Structural inflows into AI and chip equities, amplified by macro tailwinds from a pullback in crude prices and domestic dip-buying.",
+        "A sharp depreciation of the British pound against the yen driven by diverging central bank reaction functions.",
+        "Emergency capital allocations from SoftBank's Malaysian artificial intelligence infrastructure joint venture.",
+        "The abolition of the People's Bank of China's daily midpoint fix affecting regional Asian trading desks."
+      ],
+      "a": 0,
+      "e": "The Nikkei 225 extended gains catalyzed by structural inflows into AI and chip equities, macro tailwinds from a pullback in crude prices, and domestic dip-buying. GBP/JPY movements and PBOC fixes are unrelated to the domestic drivers of the Nikkei."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Technology",
+      "q": "What operational risk highlights the capital intensity of domestic artificial intelligence development for Moonshot AI?",
+      "o": [
+        "Counterparty execution risk hinging on ongoing hardware availability under existing trade restrictions for rented Nvidia accelerators.",
+        "Foreign exchange exposure resulting from issuing offshore renminbi dim sum bonds to finance domestic chip purchases.",
+        "Valuation hits on United States data centre assets mirroring SoftBank's quarterly loss profile.",
+        "Mandatory integration with the onshore foreign exchange market newly opened to overseas clearing banks."
+      ],
+      "a": 0,
+      "e": "Counterparty execution risk hinges on ongoing hardware availability under existing trade restrictions for Moonshot AI's rental agreements for advanced Nvidia hardware. The other distractors mix unrelated entities like SoftBank's data centers or dim sum bonds."
+    },
+    {
+      "lvl": "a",
+      "tag": "United Kingdom · Equities",
+      "q": "Why did Shell and BP underperform the broader FTSE 100 index during the market advance?",
+      "o": [
+        "Lower crude prices compressed valuations for top-tier energy constituents, prompting a sector rotation into wider cyclical equities.",
+        "Foreign exchange traders reallocated capital from sterling into the Japanese yen following Bank of England hawkish signals.",
+        "Higher input costs across non-energy verticals forced energy majors to absorb heavy losses on international bond portfolios.",
+        "Technical resistance levels approaching the 11,000 threshold triggered automatic short-selling specifically targeting energy stocks."
+      ],
+      "a": 0,
+      "e": "Lower crude prices compressed valuations for top-tier energy constituents, generating a sector rotation away from commodities into wider cyclical equities where participants priced in lower input costs. GBP/JPY rates and technical short-selling are not the cited drivers for energy underperformance."
+    },
+    {
+      "lvl": "a",
+      "tag": "United States of America · Commodities",
+      "q": "How did cross-asset flows reflect defensive positioning ahead of the United States consumer price index release?",
+      "o": [
+        "Dollar selling pressure paused as macro accounts flattened books, with eurozone bond yields sliding while US Treasury yields hunted for a directional catalyst.",
+        "Global equities experienced severe capital flight as investors liquidated all holdings to purchase physical crude oil below $90 a barrel.",
+        "Central banks executed coordinated interest rate hikes to counteract the sharp appreciation of the Nigerian naira.",
+        "Institutional investors shifted all short-end duration instruments entirely into offshore renminbi dim sum bonds."
+      ],
+      "a": 0,
+      "e": "Dollar selling pressure paused as macro accounts flattened books ahead of the CPI release, with eurozone bond yields sliding and US Treasury yields hunting for direction while global stocks strengthened alongside oil dipping below $90. The other options describe extreme, unmentioned liquidations."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What fundamental trend accompanied the recovery of OPEC oil output to 90% of pre-war levels?",
+      "o": [
+        "Oil prices continued to fall as the increase in OPEC production expanded global supply.",
+        "A massive surge in project awards across Riyadh offset the decline in domestic petroleum revenues.",
+        "A complete halt to Houthi attacks on Saudi Aramco administrative buildings in the capital.",
+        "A sharp depreciation of global currencies against the dollar driven by Federal Reserve tightening expectations."
+      ],
+      "a": 0,
+      "e": "OPEC oil output reached 90% of pre-war levels, and oil prices continued to fall as OPEC production rose. Project awards surged separately, and Houthi attacks or Fed tightening are not the direct economic consequence cited for falling oil prices in this context."
+    },
+    {
+      "lvl": "a",
+      "tag": "Germany · Trade",
+      "q": "What structural dynamic characterized Germany's international trade figures despite an increase in export volumes?",
+      "o": [
+        "The broader trade surplus narrowed simultaneously due to offsetting import dynamics.",
+        "Frankfurt stock indices reached record valuations driven entirely by the appreciation of the DAX.",
+        "Hensoldt's long-term revenue targets induced a massive spike in cross-border defense equipment shipments.",
+        "The European Central Bank lowered interest rates to counteract the contraction in export growth."
+      ],
+      "a": 0,
+      "e": "German export volumes grew, but the broader trade surplus narrowed simultaneously due to offsetting import dynamics. Stock indices and ECB rate changes do not explain the mechanics of the narrowing trade surplus."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Corporate earnings",
+      "q": "What financial metric expansion accompanied Motiva equity price advances following third-party operational updates?",
+      "o": [
+        "A 13.4% expansion in third-quarter earnings before interest, taxes, depreciation, and amortisation.",
+        "A complete elimination of all commercial debt obligations backed by international banking syndicates.",
+        "A massive valuation impairment on Amazon basin infrastructure mirroring Petrobras asset adjustments.",
+        "A permanent reduction in pipelay support vessel commitments scheduled for deployment in 2028."
+      ],
+      "a": 0,
+      "e": "Motiva equity prices advanced following a 13.4% expansion in third-quarter earnings before interest, taxes, depreciation, and amortisation. The other choices contradict the positive earnings growth reported or confuse it with Petrobras's distinct exposures."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Corporate updates",
+      "q": "Which corporate reporting pattern emerged across Australian resources and equity markets alongside project schedule adjustments?",
+      "o": [
+        "New Hope Corporation reported FY26 coal volume growth alongside lower earnings, while various equities like Life360 and Nuix traded lower.",
+        "All domestic resource firms reported record-breaking quarterly net incomes driven by surging global gold valuations.",
+        "Every listed entity on the Australian exchange suspended trading to await the outcome of the Honeymoon uranium feasibility reset.",
+        "Uranium explorers transitioned entirely into commercial banking to capitalize on high sovereign treasury yields."
+      ],
+      "a": 0,
+      "e": "New Hope Corporation reported FY26 coal volume growth alongside lower earnings, while equities like Life360, Nuix, NextEd Group, and Global Health traded lower. Universal record net incomes or trading suspensions are false."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · International trade",
+      "q": "What purpose did the deployment of a dedicated Naira-RMB settlement mechanism by Stanbic IBTC serve on November 10, 2026?",
+      "o": [
+        "To reduce transaction friction in bilateral trade flows between Nigeria and China.",
+        "To replace the official spot exchange rate with fixed parallel market valuations at ₦1,430.",
+        "To fund infrastructure projects in Lagos and Ondo via institutional climate allocators at COP31.",
+        "To provide direct access for Nigerian commercial banks to the People's Bank of China's daily midpoint fix."
+      ],
+      "a": 0,
+      "e": "Stanbic IBTC deployed a dedicated Naira-RMB settlement mechanism to reduce transaction friction in bilateral trade with China. COP31 infrastructure pitches and PBOC fix access are separate institutional developments."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Debt markets",
+      "q": "What is the primary function of a dim sum bond structure such as the one issued by Shangri-La?",
+      "o": [
+        "It allows companies to tap into foreign pools of Chinese currency outside the mainland by raising offshore yuan debt.",
+        "It grants overseas clearing banks direct operational access to the onshore foreign exchange market regulated by the PBOC.",
+        "It finances advanced Nvidia hardware rentals through collateralized artificial intelligence compute contracts.",
+        "It hedges against fluctuations in the daily midpoint fix established for the domestic trading band."
+      ],
+      "a": 0,
+      "e": "A dim sum bond allows companies to tap into foreign pools of Chinese currency outside the mainland, expanding corporate funding options in the offshore renminbi market. Onshore forex access and Nvidia rentals are separate commercial activities."
     }
   ]
 }

@@ -1,540 +1,568 @@
 {
-  "generated": "2026-11-10T01:30:13.570Z",
+  "generated": "2026-11-10T09:44:41.889Z",
   "provider": "gemini",
   "model": "gemini-flash-lite-latest",
   "digest": {
     "date": "10 November 2026",
-    "headline": "Wall Street gains lifted global equities and the Nikkei reclaimed the 60,000 level as markets paused ahead of US inflation data.",
+    "headline": "The Nikkei index crossed 60,000 points on 10 November 2026 as Federal Reserve officials signalled a potential December rate increase.",
     "lede": {
-      "b": "Global stock markets went up by 2.35% on Wall Street, which is the main American stock market. This made investors around the world feel confident enough to buy more shares. In Japan, the Nikkei index, which tracks major company stocks, went past 60,000. People are waiting to see the new consumer price index numbers, which measure inflation, meaning the rising cost of everyday goods. Foreign exchange traders who bet that currencies will fall paused their trades while they wait for these official figures.",
-      "i": "US equities advanced by 2.35%, sparking a positive risk appetite across international exchanges. Japan's Nikkei index surged past the 60,000 mark driven by semiconductor and artificial intelligence buybacks. Foreign exchange traders paused their short positions while awaiting incoming <span class='term' data-t='inflation'>inflation</span> metrics. These price figures guide currency valuations and broader macroeconomic expectations before portfolio adjustments occur.",
-      "a": "US equity advances of 2.35% transmitted a strong risk-on impulse across international markets, pushing the Nikkei 225 past the 60,000 threshold via artificial intelligence and semiconductor concentration. Foreign exchange market participants flatlined dollar short exposures ahead of incoming <span class='term' data-t='inflation'>inflation</span> prints. Macroeconomic expectations remain anchored to these price metrics for imminent portfolio rebalancing."
+      "b": "Federal Reserve official Christopher Waller stated on 10 November 2026 that he intends to support a rate increase. A rate increase is when a central bank—which is the main bank that manages a country's money—raises the cost of borrowing money. This aims to slow down price increases, which is known as <span class='term' data-t='inflation'>inflation</span>. US Treasury yields, which are the returns governments pay people who lend them money by buying their bonds, sought direction ahead of new data. Dollar sellers paused their activity while waiting for these consumer price figures.",
+      "i": "Federal Reserve official Christopher Waller indicated support for at least a quarter-point rate increase on 10 November 2026, marking the largest potential monetary tightening since 2022. Traders paused <span class='term' data-t='inflation'>inflation</span> sensitive positions in the dollar while awaiting upcoming consumer price index figures. US Treasury yields sought clear direction as market participants weighed policy adjustments.",
+      "a": "Federal Reserve official Christopher Waller signalled support for a quarter-point rate hike on 10 November 2026, setting up the largest potential <span class='term' data-t='inflation'>interest</span> rate move since 2022. Dollar traders paused short positions ahead of crucial consumer price index prints. US Treasury yields drifted without directional conviction as desks digested monetary policy pricing adjustments."
     },
     "items": [
       {
         "c": "United States of America",
-        "b": "Foreign exchange traders paused their short positions while waiting for upcoming inflation figures.",
-        "i": "Foreign exchange traders paused US dollar short positions ahead of upcoming inflation figures.",
-        "a": "Foreign exchange desks flatlined US dollar short exposure ahead of incoming inflation prints."
+        "b": "Federal Reserve official Christopher Waller supported a rate hike for December.",
+        "i": "Federal Reserve official Christopher Waller signalled support for a quarter-point December rate hike.",
+        "a": "Federal Reserve official Christopher Waller indicated backing for a quarter-point December rate hike."
       },
       {
         "c": "Japan",
-        "b": "The Nikkei index jumped past 60,000 as chip and artificial intelligence stocks went up.",
-        "i": "The Nikkei 225 surged past 60,000 on semiconductor and artificial intelligence buybacks.",
-        "a": "The Nikkei 225 breached the 60,000 level fueled by semiconductor and artificial intelligence equity demand."
+        "b": "The Nikkei 225 index finished above 60,000 points after tech buying.",
+        "i": "The Nikkei 225 index closed above 60,000 points driven by tech and AI buying.",
+        "a": "The Nikkei 225 benchmark closed above 60,000 points amid sustained semiconductor and artificial intelligence buying."
       },
       {
         "c": "United Kingdom",
-        "b": "The FTSE 100 index rose by more than 1% because gold prices became stronger.",
-        "i": "The FTSE 100 index rose over 1.0% as firmer gold prices lifted mining companies.",
-        "a": "The FTSE 100 advanced over 1.0% supported by higher gold valuations boosting mining equities."
+        "b": "The FTSE index rose as lower oil prices weighed on energy shares.",
+        "i": "The FTSE index advanced as falling crude oil prices weighed on Shell and BP.",
+        "a": "The FTSE index climbed as lower crude oil prices dragged on energy majors Shell and BP."
       },
       {
-        "c": "Germany",
-        "b": "The DAX 40 index in Frankfurt jumped by 1.73% to close at 26,267.19.",
-        "i": "The DAX 40 index jumped 1.73% to close at 26,267.19 in Frankfurt.",
-        "a": "The DAX 40 closed up 1.73% at 26,267.19 led by Infineon and defence shares."
+        "c": "Nigeria",
+        "b": "The official naira exchange rate settled at ₦1,346.51 on 10 November 2026.",
+        "i": "The official naira exchange rate settled at ₦1,346.51 alongside a parallel market rate of ₦1,430.",
+        "a": "The official naira exchange rate settled at ₦1,346.51 with the parallel rate reaching ₦1,430."
       }
     ],
     "thread": {
-      "b": "Stock markets in different countries moved higher following the positive trend on Wall Street. At the same time, gold prices shifted as investors prepared for new economic data from the United States.",
-      "i": "Global equity markets tracked the positive momentum from Wall Street's 2.35% advance. Commodity prices reacted concurrently, with gold trading lower globally ahead of US price metrics.",
-      "a": "International equity valuations tracked Wall Street's expansionary impulse. Precious metals simultaneously repriced as participants adjusted risk parameters ahead of key US macroeconomic releases."
+      "b": "Falling oil prices affected markets across multiple countries on 10 November 2026. Central bank policies also influenced currency trading desks.",
+      "i": "Falling crude oil prices rippled through global equity desks on 10 November 2026. Divergent central bank policies simultaneously drove foreign exchange movements.",
+      "a": "Crude oil declines exerted sector-specific drags on equity indices on 10 November 2026. Cross-border monetary policy divergence continued to dictate foreign exchange spreads."
     }
   },
   "countries": {
     "United States of America": {
       "iso3": "USA",
       "label": "United States",
-      "sub": "US markets pause for inflation data and Wall Street rallies",
+      "sub": "Federal Reserve rate plans and inflation data focus",
       "ind": [],
       "stories": [
         {
-          "t": "Currency Traders Pause Ahead of US Inflation Data",
-          "src": "CNA · Reuters",
-          "b": "Traders who sell the US dollar paused their selling activity. They are waiting for new US inflation data, which measures how fast prices rise. This data helps people understand the health of the economy. Currency markets often wait for these reports before making big moves.",
-          "i": "Foreign exchange traders paused their US dollar short positions. Market participants held back ahead of upcoming <span class='term' data-t='inflation'>inflation</span> figures. These price metrics guide currency valuations and broader macroeconomic expectations. Traders await the official release before adjusting their portfolio exposures.",
-          "a": "Speculative short positions in the US dollar faced a temporary de-risking event. Macro traders flattened books ahead of the tier-one CPI print. Price action reflects heightened sensitivity to incoming US data prints that could shift Federal Reserve rate expectations.",
+          "t": "Federal Reserve Official Signals December Rate Increase",
+          "src": "Reuters · Financial Times",
+          "b": "Federal Reserve official Christopher Waller plans to support a quarter-point rate hike in December. A rate hike means the central bank makes borrowing money more expensive. This is the largest potential rate rise since 2022. Officials are looking at economic data before making decisions. Christopher Waller shared these plans on 10 November 2026.",
+          "i": "Federal Reserve official Christopher Waller intends to support at least a quarter-point rate hike in December. This move marks the largest potential <span class='term' data-t='inflation'>interest</span> rate rise since 2022. Treasury yields sought direction ahead of upcoming data releases. Markets are positioning themselves as officials weigh monetary policy adjustments on 10 November 2026.",
+          "a": "Federal Reserve official Christopher Waller signaled support for at least a quarter-point rate hike in December, setting up the largest rate increase since 2022. Treasury yields hovered for direction as traders balanced policy expectations against incoming macroeconomic prints. The anticipated tightening path forces a repricing across short-end duration instruments as market participants evaluate the terminal rate trajectory on 10 November 2026.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjVHX2VpMGpwTXFIVmJDcmVqSWMzcGtUOTNIS2tFdUhBZEppOU5HM3BadlNKSDhlMGg0UlpEMXlYWjRlQzBudXBzWTdmUEpuU1BzSy0xUWlKMzltUFN1Ujczbm5QN0ZPM2hYd1lHV1FULW5XakVadVdpUHczbzl2dmBBSGt6MWd5bzZtM2J4NUdIN0pYV1E?oc=5",
-            "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JzaUt6cC05eXdxeTNvcFBPX2JGZmFka29UbGZvQzQyTFVTc2dUM3dyX0FUVkk5SngyWGs1SW80ckQ1Qk5Pb0laLU11MDM1MUtsOEptTmJiSERHdEdsR2tVanR1em5scXpGb1NuQzg2NmU3V0tXWm82aWlkeXpDQmZaMkQzQnl0eHc3ZlFMZGNWdlZwblp0V0drdG9xQQ?oc=5"
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVdGWm1aRjFjWGRlRFRoTFhlbFMwQ1NjbTZMd2x0cnlHR0F4d2JNV3dKcHFOOE5TRFVsSlc5ekxoQ0E?oc=5",
+            "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0lSR0FINzZ0S3ZhdnRQcDh4ZkRBVnZUY05NMHFhZ0JsdmNQaE02NEY2M2l0WXM4RHVBbXBCRWdXM21ndjlRLW9jWVFXQWxoVzMtcjhwMU80dE56dlVERFVwZ0NiblNPM0Q3cGx3SDFBc0NFcGNvNHlsR1lGQVFoQzJVUWs?oc=5"
           ]
         },
         {
-          "t": "Wall Street Gains Lift Global Equities and Gold Dips",
-          "src": "JournalArta · marketscreener.com",
-          "b": "Wall Street shares jumped by 2.35% previously. This strong US rally helped push stock markets in Asia higher. Japan's Nikkei index jumped by over 3% and crossed the 60,000 mark. Meanwhile, the price of gold dipped as investors awaited fresh price data.",
-          "i": "US equities advanced by 2.35% on Wall Street, triggering broader risk appetite globally. Asian indices reacted positively, with Japan's Nikkei 225 surging past 60,000 on semiconductor and artificial intelligence buybacks. Simultaneously, spot gold prices edged lower as participants positioned themselves ahead of the US inflation figures.",
-          "a": "US equity momentum transmitted directly across Pacific sessions, driving the Nikkei 225 through the 60,000 handle via concentrated technology sector inflows. Cross-asset correlations remained pronounced as bullion dipped ahead of the macroeconomic print. Risk assets continue to price in robust earnings and cyclical recoveries.",
+          "t": "Dollar Traders Pause Ahead of Consumer Price Index Figures",
+          "src": "marketscreener.com · صحيفة مال",
+          "b": "Dollar sellers stopped selling ahead of United States consumer price index data. The consumer price index measures the change in prices for everyday goods, also known as inflation. Global stocks strengthened while oil dipped below $90 a barrel. Traders are waiting for the official numbers to see how the economy is moving on 10 November 2026.",
+          "i": "Dollar sellers paused activity as markets awaited critical US <span class='term' data-t='inflation'>inflation</span> data. Treasury yields sought clear direction while European bond yields slid. Global equities strengthened concurrently as oil prices dipped below $90 a barrel on 10 November 2026.",
+          "a": "Dollar selling pressure paused as macro accounts flattened books ahead of the upcoming consumer price index release. Cross-asset flows reflected defensive positioning in fixed income, with eurozone bond yields sliding while US Treasury yields hunted for a directional catalyst. Meanwhile, global stocks strengthened alongside a dip in oil below $90 a barrel on 10 November 2026.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3ZwME5pdFNfSzNfd2V4R0NWZFIxXzZ2TEtRQms2dEZKODduLTJMMEJSUmtsOW42NGZaQnZQd09GbFZNdWhlSmxrMHVvT3pZRUtvOGlXQlZ1ZUtNblJqdFpnOWd1a3Itc0E4NjUxSG94YmZjV21rNEU3bExtZDRPRUdyRVNIRE83bkI1UzZXZHE5UUlBNkdkV3gzVXl1cVJvZkNOeDRpd0J5QU1zeWhwZm5pSV9ZaGNRNEZzeWRvRzQ?oc=5",
-            "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdEZJNTljLVdNNGVVRmh3ajBoWXNIYVc3ZlI2VTJ1dnVVTDcxa05fYXpJNDh0Q3FQdlhlY0x5c3U0VzlOY196MFZRWFFWaG55a3lzSWVENTV1SVhSTF9XZG4tYTNiclZyZXRPSjkxd25jMlR5dXgwOHVrQkpZel96bEE0YXdJb1VDcjJNZndWYXE5RDA?oc=5"
+            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDl2T3oxY2FBOVdzSnVIS2JJd284cnNONmxOYjltMjViSkdMTFhJYkZRSHZoLXB1QVRVMExFaGVUZ1hyR1c4TzlYMDVnWDcyMlFBSmpqR3ZIemZadXZ1M2VkeFBFX1BKMHhBTDJCWVJxTXFZX2VfS3dBNEF6TDFjQkJXLXBMenBTckhqSFZ6eXh0bHpPS3NianFuWkVQRjFiZTJYTWFRNEtrS0NBZWQySnllbU1FZWhzaGhGZHJXcmtqSmx1S0hHYXlvbGUtMUFn?oc=5",
+            "https://news.google.com/rss/articles/CBMia0FVX3lxTE82eUIyYjlRUzYyajFqVDU3eS1yNzNxT21lOEYwTFRaRERRTWxXSmRtVmM2UkwxMllUcXhLcjNyRDlVS3RFN3BtUmlqaWRqQl9YSWZFaS1SQW1sN3RkN05xTWhhaG0zZm5CMVBB?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "US political leaders monitored the financial markets and economic data releases.",
-        "i": "Federal policymakers and administrative officials observed upcoming economic indicators.",
-        "a": "Washington officials tracked macroeconomic indicators ahead of scheduled fiscal releases."
+        "b": "No political updates are available in the current market reports for the United States on 10 November 2026.",
+        "i": "No political developments were reported across the United States markets on 10 November 2026.",
+        "a": "No sovereign or legislative updates were documented in the session data for the United States on 10 November 2026."
       },
       "timeline": [
         [
-          "6 Nov 2026",
-          "Treasury yields snapshot published for US debt markets."
+          "10 Nov 2026",
+          "Federal Reserve official Christopher Waller outlined plans to support a December rate hike."
         ],
         [
           "10 Nov 2026",
-          "Currency sellers pause positions ahead of US inflation data."
+          "Dollar sellers paused activity and Treasury yields sought direction ahead of inflation figures."
         ]
       ]
     },
     "United Kingdom": {
       "iso3": "GBR",
       "label": "United Kingdom",
-      "sub": "Stock index rises and Bank of England mandate faces debate",
+      "sub": "FTSE climbs as crude oil falls",
       "ind": [],
       "stories": [
         {
-          "t": "FTSE 100 Climbs on Firmer Gold Prices",
-          "src": "Business Recorder",
-          "b": "The FTSE 100 is a big list that tracks the share prices of the one hundred biggest companies listed on the London Stock Exchange. The FTSE 100 index rose by more than 1.0%. Higher gold prices helped boost mining companies on the exchange. The index closed with these gains following the rise in commodity prices.",
-          "i": "The FTSE 100 index rose over 1.0%. Firmer gold prices drove gains for mining companies on the exchange. The benchmark index reacted directly to the stronger commodity valuations.",
-          "a": "The FTSE 100 advanced over 1.0% as firmer gold bullion prices triggered upward momentum in resource heavyweights. Mining equities drove the primary index higher through commodity beta exposure. The index reflects broader materials sector repricing rather than domestic UK macro fundamentals.",
+          "t": "FTSE Rises on Falling Crude Oil",
+          "src": "AskTraders.com · Yahoo Finance · IG",
+          "b": "The FTSE index tracks the value of the one hundred biggest companies listed on the London stock exchange. This index climbed as the price of crude oil fell. Cheaper oil helps many different companies lower their operating costs. Lower costs can push share prices higher. Energy majors like Shell and BP saw their shares slip as crude prices dropped.",
+          "i": "The FTSE index advanced as falling crude oil prices weighed on energy majors. Shell and BP shares slipped in response to the lower energy costs. The broader market absorbed this drag as cheaper inputs generally benefit other sectors. Equity indices across London tracked higher as the commodity move rippled through trading desks.",
+          "a": "The FTSE 100 gained ground as lower crude prices compressed valuations for top-tier energy constituents. Shell and BP underperformed the broader index as petroleum benchmarks drifted lower. This dynamic generated a sector rotation away from commodities into wider cyclical equities. Market participants priced in lower input costs across non-energy verticals while monitoring technical resistance levels approaching the 11,000 threshold.",
           "links": [
-            "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjY3dXlLZTBmRk5rYkl0Zkd6aFpFLVV0cEZRWEpWcWcyM0JyQTdCaFBBZ0pvTXJFeU5hNHlBVC16bFJsRFRERElmUFpobEVVamN0VHdvQ05TT1kzdGFJNkZPMlBHV0pLc1F6N0Mxb2puRVZWa0hjNHhLdXdVT3YyOG8wbmRKR3dQeTdjSWtXdFRCcTFVaVRXOTdhU2EzcjhY0gFWQVVfeXFMTnowR05DN1Y2ZmtHMGM4SE1ieG1IaVZSV3VCWXZLNktDLUE0SmFZTGJwYnpJNXc4alJXT1NIY0JhNDhnWHdJU29FT2Z3REtRN1BOLW9MLXc?oc=5"
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFhGc2hkZ0ZXYksxd09wbUlfTmEtaFh0SWJIcFR5aXd4WjFoQkdfT2EwOEJoTW5KbUx6T1dyUVM5Y0lVMjFnTFRuRS1hUTNDdTM3dTNiMFlwbHJTR0ZRR2c5bnlnYjVncGtCWjlBU0tWOS1wZUNFclEwZDNqLVFSX3NkNnV3aGg0aUdHUUFuWGFneGhtOW5QVEZLQ25LTzdlWGFrN0N0SUpPelBPYVYw?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1GR1BTR2pYR0tHRG90eklYdHNyeTNjVjdDN1Rab3NudnBaQnQ1djlDRmNzRFBJVmlKbWVsT1RnRE9uMm02dXF5S2RuOHRVTDBEVkNCTWxzbTJ6WTdKRmRRZGY1djNtZW9GT0FxTGxTQ250VjRmTjBrQUFVMnJvcDFGVnFMMTluNGpNa01RdkRCWjJhM3lYaXlrenJEVnRmQVJZ?oc=5",
+            "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGZEekVzektFZm9pTDlCT0ZfRi1Ddm5URFk4QUJweFZhZ21tWnpVaE5Ja2xSTEpsOGlIQjVkVmh6eUNfT3RuSVQ3cE5rU1pCVVZaeFB5NXVEVUJadEY1Ull0aldJYzYwMThGV3otRXhxSmJGRXRDaXJHLXBFaU40QVEzMk9TMkRpbTJqSENjVENMV0g5cXh6VFJoaWcyQkVoR0U0TUo1YUhjVWFmVHMwSFJWZlc?oc=5"
           ]
         },
         {
-          "t": "Debate Over Bank of England Mandate",
-          "src": "LabourList",
-          "b": "The Bank of England is the central bank for the United Kingdom, which means it sets monetary policy and interest rates for the country. Critics argue that a certain 10-year vision cannot happen without reforming the rules that govern the Bank of England. The mandate sets the official instructions and targets that the central bank must follow. Observers state that changing these institutional rules is necessary for regional growth plans.",
-          "i": "The Bank of England operates under a specific mandate that critics argue requires legislative reform. Observers claim that achieving a 10-year regional vision is impossible without altering these central bank rules. The debate centers on whether the current institutional framework restricts long-term infrastructure and economic goals.",
-          "a": "The Bank of England mandate faces structural criticism from proponents of a 10-year regional vision. Analysts debate whether the central bank's statutory objectives conflict with ambitious regional development plans. Institutional reform of monetary policy frameworks remains a central point of contention for structural reformers.",
+          "t": "Sterling Moves Against Dollar and Yen",
+          "src": "Investing.com UK · Pound Sterling Live · FXStreet",
+          "b": "The British pound is the official currency used in the United Kingdom. This currency slipped against the dollar as traders expected tighter monetary policy in America. Monetary policy involves a central bank setting interest rates to manage the economy. Against the Japanese yen, the pound advanced into the mid-212.00s range. Hawkish stances from the Bank of England met weak Japanese economic data to drive this move.",
+          "i": "The pound slipped against the dollar as the Federal Reserve maintained tightening expectations. Sterling found firmer footing elsewhere, advancing to the mid-212.00s against the yen. A hawkish Bank of England stance intersected with weak Japanese data to widen this currency gap. Foreign exchange traders balanced these central bank divergences across global desks.",
+          "a": "Sterling faced downward pressure against the greenback as <span class='term' data-t='inflation'>inflation</span> expectations anchored US rate trajectories. Cross-asset flows propelled GBP/JPY towards the mid-212.00s handle. This divergence exploited the yield differential created by a hawkish Bank of England stance relative to softening Japanese economic prints. Macro accounts continued to evaluate <span class='term' data-t='gilt'>gilts</span> against alternative sovereign debt products like Japanese government bonds.",
+          "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxORnlkZmZtV3ZiM0J4c0pac09JbWtfZWZucVpmX3R2R2dfVk5TNTNVRXF2aDlqbm5DWERSSkJyYnFNU3pHeUhnTzlXZjFoXzFsbkNYYTd2Z2Utb2ZFcjJsbWx3c29ReGVnVmUyQllHN2VwWGpSZDdWM3U2aXd4MllSVmtNVVNhY19oTU9BU29SX0o2bVVlWWJwenNwdXN5S1dYbldEUGVpOW0ycWZjNHlCVUJ4UlVGSWs?oc=5"
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFo2REN0X0hDSkZDTGkyMElPYVE1YmcwY1pGSU5GbkNUYTVSd2tra1hCaEV0WGhYWmo2NmZnTWtYcGh5TGlFbUVidW05bHpDcThDai1VVFk0XzJ4ZXBvdi0wNUkzaEpOYk9OUG5GVXFiMmRHSlA4WFhmQUJTcGVMWmNNbndXUWJoV3Nad2dUc0YwcUNuUnQxNXNaLWsxSkVMWDRQRzhMRTNMWGx2ZFJKOU9IYU14aVVH?oc=5",
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmtZb3AzbmU2MUhEaVhFMXRhanFjM0hWQ25ieFZHMkM0ZU9kQ3VlOGRlVnoyOEZSRnNvaE91Um04QUc0UDYyaC11dlRGQ3hTN19Hdk9FMkhncXdneTg4Tmd6bUh6TnBGbG14dnFHRUIzUkVSTFR1Rk8ycV9uS3RUNjZJLVdXdXVHSGlSaTFnT1A4VXBQR3k2Zw?oc=5",
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazlVbDk0ZnFlVmY0RDFndTFvbFNEcUJFSFoyTEQxNFBOemQtQkhkblFsMkhHbmc1UlpuM0tDTnd3ZDBOQ3JnY2VsM3NFcW90UHhHQmV2YzVUY1dBd1pGbE5qTjRld0U0a1JPbHpmcUlwTnQyTHR1elZRWnBEdmlvcjdOVGpROHZzT3VhUEQ1Z3pLZEZPVUxSRzNSQzU2XzRMNkZlSlc3LUY5bk1EUU5ZaWh1VEZYVU1IaXY5ck80Q2tiTmhR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Political discussions focus on regional economic strategies and whether national institutions need rule changes to deliver them. Leaders debate how government plans fit alongside central bank operations. Ministers face scrutiny over their economic proposals.",
-        "i": "Political debate centers on regional development goals and institutional alignment. Critics target the statutory framework of the central bank as a barrier to long-term planning. Policymakers face pressure to reconcile local growth strategies with national monetary frameworks.",
-        "a": "Political discourse scrutinizes the friction between decentralized regional planning and centralized monetary governance. Challengers argue that statutory constraints limit the execution of long-term industrial strategies. Policymakers navigate demands for institutional overhaul against established central bank independence norms."
+        "b": "Sterling Bank met global climate investors at COP31. The bank discussed funding projects in Lagos and Ondo. Officials also held press conferences regarding monetary policy reports.",
+        "i": "Sterling Bank engaged global climate investors regarding regional infrastructure projects in Lagos and Ondo at COP31. Bank officials concurrently hosted monetary policy report press conferences to address broader economic conditions. These engagements spanned international climate finance and domestic central bank communications.",
+        "a": "Sterling Bank targeted international climate financiers for municipal projects across Lagos and Ondo during sessions at COP31. Parallel proceedings featured monetary policy report press briefings from central bank officials. These dual tracks intersected sovereign economic signaling with private green capital allocation initiatives."
       },
       "timeline": [
         [
-          "9 Nov",
-          "The FTSE 100 climbs over 1.0% driven by firmer gold prices and mining gains."
+          "10 Nov 2026",
+          "Sterling Bank courts global climate investors for Lagos and Ondo projects at COP31."
         ],
         [
-          "10 Nov",
-          "Critics argue that regional growth visions require reforming the Bank of England mandate."
+          "10 Nov 2026",
+          "Bank of England holds monetary policy report press conference."
+        ],
+        [
+          "10 Nov 2026",
+          "FTSE 100 extends gains as crude oil prices decline."
         ]
       ]
     },
     "Germany": {
       "iso3": "DEU",
       "label": "Germany",
-      "sub": "Frankfurt jumps as Infineon and defence stocks lead rebound",
+      "sub": "German equities approach records alongside narrower trade surplus",
       "ind": [],
       "stories": [
         {
-          "t": "Infineon and Defence Stocks Push Frankfurt Higher",
-          "src": "BBN Times",
-          "b": "The DAX index, which is a list of big German companies whose shares are traded on the stock market, went up by 1.73%. It reached a level of 26,267.19. Defence companies and Infineon helped push this rebound. These gains happen on the Frankfurt exchange.",
-          "i": "The DAX 40 index jumped 1.73% to close at 26,267.19 in Frankfurt. Infineon and defence shares led the market rebound.",
-          "a": "Frankfurt's DAX 40 advanced 1.73% to print at 26,267.19, driven by outperformance in Infineon and defence equities.",
+          "t": "Frankfurt Stocks Approach Record Levels",
+          "src": "Seeking Alpha · marketscreener.com",
+          "b": "Frankfurt stocks move higher in early trading. The main share price index approaches record levels. Markets in Europe also advance.",
+          "i": "European equities advance in morning trade. The DAX index in Frankfurt nears record levels.",
+          "a": "German share indices approach historical highs. Regional European equities extend gains as the DAX nears record valuations.",
           "links": [
-            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaWdSemJxQVc5bGJ5Z2Zfa1JFb2NRM3NpM2RhMHByNGNad0NmUzdTOHNtZkJKeE1CNFVpd19tRkdPMWFVa1ViT2pMQkdSU3RGSWNlV2swU1N2VTNjdFU0cmR0RWJnaHNWS0FwNVJmUlRLZkpEWUt3dFZSbUZ0MjJ0RGJVdWd2ZThyZ0Izc3A3bUxKdnVTYjZ6R0xnczcwSlZya2w0NUV6bHZrWGZ0UXREOEZGMlFQZHUxQlVwMk1XZmRxWmxMcVB4RmxPdWFVNGNwSmJzZTBrOA?oc=5"
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWlOZzA4dFV0ajRiamdXR3FSRGF5U183eTRLdkVmUmVWTkUwbnZKUDNKdDJFM2JIOTF5QnA0anF5ejBQOXVNdHZ4akRfZVBrZzVMOWs4RFJ3LW1kOF9kYnhscDV1MUp2dTBEQ1c4Y3F2VGRJRGxPYzY2aS1laGQ2ZUh4NmdQdGN3VFNTNW1UZW5vUDFubmJrc0xqdExlLWg1dUFiOA?oc=5",
+            "https://news.google.com/rss/articles/CBMipAFBVV95cUxOci1oMWplVGxMRmlib2tIZmVsa1BVZmZnbHFSS0N6VkRxTnpwd1JQVXQ0UFBkN0lkOUptTmtBdkFzeTM5OTlFU081SzczYkh6ZG1kTXN0bkR4aGhyMmJ6MGNoaWNuSmxWc0xtNUh5ZkVqM2hYeFU0QjQ5SmlXMHozM2t5LWFQVENaLUNCWVdPU29zMFdWV3VTeFBCdDVLeEdyTWxtcA?oc=5"
+          ]
+        },
+        {
+          "t": "German Trade Surplus Contracts Despite Export Growth",
+          "src": "WSJ",
+          "b": "German exports rise. The national trade surplus narrows at the same time. This means the gap between exports and imports shrinks.",
+          "i": "German exports increase. The trade surplus narrows despite the rising export figures.",
+          "a": "German export volumes grow. The broader trade surplus narrows simultaneously due to offsetting import dynamics.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3Rsa3pSWmM2UjBGWmpZMHNPcGxLS2J3c3JXTUNqSmNaNnBIbkk5ZkxuNjFuVXN5Tl81dXVVVl9KOGRCUm9PMnljaEw0QnBMMldfRGQybmJfX2lpTnlBUURqUVd6aGVMU0FZYlNEb0xHN3g4ZXB3ajdpcUpkaG9aWVBQLVJFXzI1UlRGS0VHdTZReTVaelNyT0x3?oc=5"
+          ]
+        },
+        {
+          "t": "Hensoldt Sets Long-Term Revenue Target",
+          "src": "Reuters",
+          "b": "Hensoldt targets annual revenue of €10bn. The company aims to reach this goal by 2035.",
+          "i": "Hensoldt sets a long-term financial target. The firm aims for €10bn in annual revenue by 2035.",
+          "a": "Hensoldt targets €10bn in annual revenue by 2035. The firm outlines its long-term top-line expansion trajectory.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjR3c3IzOXdzRFY2aDFaUHpUWkd1SmNtVkMtUldLTXNZR2NvQ0RiSFdjQ3FldXBtbWI4Ri1QdW1ybEpzUU85cWwteHpNamM5dmVYbDJjYzRxYnkzMm1JSGdreC1KUzJyVkpGLUlPaUR2VDVLRE54ZEZLSGZSSjM4X2NyTnZsUWxaVmVyUWRsRWJIRFRSeTdwZFdEZHhIQV90a3BmcVlCMXhnUlJvOXhJU1FEZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "No political news is available in today's market reports.",
-        "i": "No political updates were reported in the current session.",
-        "a": "No political developments are contained in the source material."
+        "b": "No political updates are available in the news today.",
+        "i": "No political updates are available in the news today.",
+        "a": "No political updates are available in the news today."
       },
       "timeline": [
         [
-          "9 Nov 2026",
-          "Frankfurt jumps 1.73% to 26,267.19 as Infineon and defence stocks lead rebound."
+          "10 Nov",
+          "Hensoldt targets €10bn annual revenue by 2035"
+        ],
+        [
+          "10 Nov",
+          "German trade surplus narrows despite rising exports"
+        ],
+        [
+          "10 Nov",
+          "Frankfurt stocks open near record highs"
         ]
       ]
     },
     "Japan": {
       "iso3": "JPN",
       "label": "Japan",
-      "sub": "Nikkei reclaims 60,000, BoJ signals hikes, and Mitsui buys JSR",
+      "sub": "Nikkei crosses 60,000, SoftBank logs loss, Pound climbs",
       "ind": [],
       "stories": [
         {
-          "t": "Nikkei Reclaims 60,000 Level Following Wall Street Rally",
-          "src": "BigGo Finance · TradingKey · 毎日新聞",
-          "b": "The Nikkei Stock Average is a group of important company shares traded in Japan. This index gained 3% and crossed back over 60,000. Higher share prices in America pushed investors to buy back artificial intelligence and semiconductor shares. Semiconductor shares are tiny computer chips used in phones and cars. SoftBank shares went up by 11%.",
-          "i": "The Nikkei 225 jumped over 3% to briefly reclaim the 60,000 mark. A strong advance on Wall Street drove a buyback in artificial intelligence and semiconductor equities. SoftBank shares surged 11% during the session. Kioxia shares also jumped 8% alongside regional peers.",
-          "a": "The Nikkei Stock Average reclaimed the 60,000 threshold following a 2.35% jump in U.S. benchmarks. Spillover buying concentrated heavily in artificial intelligence and semiconductor names, lifting SoftBank by 11% and Kioxia by 8%. This equity repricing reflects renewed risk appetite flowing outward from North American tech valuations.",
+          "t": "Nikkei Index Climbs as Tech and AI Buying Boosts Shares",
+          "src": "NHKニュース · 毎日新聞",
+          "b": "The Nikkei 225 stock index went up for the second day in a row. A stock index is a group of company shares tracked together to show how the market is doing. Strong buying in artificial intelligence and computer chips drove the gains. The index closed above 60,000 points thanks to falling oil prices and investors buying shares after earlier price drops.",
+          "i": "The Nikkei 225 index advanced for a second consecutive session. Semiconductor and artificial intelligence sectors generated the underlying momentum. Lower oil prices and sustained dip-buying reinforced the rally. The benchmark index ultimately finished the trading day above 60,000 points.",
+          "a": "The Nikkei 225 extended its gains for a second day, catalyzed by structural inflows into AI and chip equities. Macro tailwinds from a pullback in crude prices amplified domestic dip-buying. The benchmark cleared the 60,000 threshold by close.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wMFU0N2VYcjJ2dnlOS3NnTzkzRlQ4OFdydTRTYVFzczZybDJXNzFGOTZPbnoxWGI1YVRhYk05TngyU2tJVndsRXZ5bUQwNEZOU3NzNE0yZkxJNVBUT0hxYk9MNVQwbHJJN01GYmhxVF9VTF9NNnc?oc=5",
-            "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaVhGT2txbGVPVXNrM0FxdS0wYXRqM01wa2g5bi1nX3pWZ2N3cmpaWHdHQmhsd3ktZnBWRnRTR0JnSElpNUpXZ3kwa1J6d2NQdWo0RVk0RHRiNmxFN0l2SWpLbGtiQWRFcTRkX01FMFY0aXZMUDhfUDhqZk4tbGhNRHhucnR5bmZVYkdLelJndkNjelpGaTU1YUJJc24yZFJKR04xN2pyVHBEUTM3TzQtNG5ZWldwMFNjQ25RZ2hTcEFNWVdUd1BsUEdQOHJwZFg3UHRFTFdudm1fX0oxNzY0WTFqNlhJWVl1QjlpYjY3aw?oc=5",
-            "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zU3JZd2FzRnJLaWoxN21tZTlhN0ZtSm01UC1DRGx0NVVPcDZCOWt0T0diVUJMR1pndm5LWWxYLVRrclptb2FTVGllMndydUNvRmJqZWJzcGVzbm81cjZ5NlU1a2dIQnJRZGx1S3FzNHRVWTA?oc=5"
+            "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40MXBGV0M3b3BDNmE2SXN3MTRQaWozM3VpX0tON2JkM2tFNjJodS1SZng4dGcxWGk4NU1IZlpETzE3Ynp5NkRkek5KQklJd1YwMlZJSERWTFFaYnlSVHdzYzhzYw?oc=5",
+            "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zZ3ZKOEVTR3ROclktV3RsWXRhOFJpcDhRQTRTanYwekI3MHNjZE0tNjFvX2tabnIxZVRBUHdseHAyajl2SUZTbS1WczBINlpyTWMwSlozMFYtZGRWZU1kMGYxVHoxTlF0QTJ0U0Q0MVIzejQ?oc=5"
           ]
         },
         {
-          "t": "Bank of Japan Officials Discuss Neutral Rate Hikes After Inflation Milestone",
-          "src": "BigGo Finance · The State",
-          "b": "The Bank of Japan is the country's central bank, which is like the main bank that controls money for the whole nation. Underlying <span class='term' data-t='inflation'>inflation</span> reached 2%. This is the speed at which prices for everyday goods go up. Multiple board members said at the October meeting that the central bank must raise interest rates to a neutral level soon. Some officials even called for faster rate hikes.",
-          "i": "Underlying <span class='term' data-t='inflation'>inflation</span> hit the 2% target, prompting action from monetary policymakers. Multiple Bank of Japan board members stated during the October meeting that a rate hike to a neutral level is needed soon. Some officials explicitly called for faster rate increases in the summary report.",
-          "a": "Underlying <span class='term' data-t='inflation'>inflation</span> prints reaching 2% provoked a hawkish pivot within the central bank. Multiple board members argued in the October meeting summary that a rate hike to a neutral level is needed soon. Certain policymakers even advocated for an accelerated tightening trajectory.",
+          "t": "SoftBank Records Quarterly Loss While Partnering on AI Infrastructure",
+          "src": "Sacramento Bee · Nikkei Asia",
+          "b": "SoftBank reported a quarterly loss of $7 billion. A loss means a company spent more money than it made. The loss came from a hit to its United States data centre investments. At the same time, SoftBank and Grab planned to invest $1.85 billion in artificial intelligence infrastructure in Malaysia.",
+          "i": "SoftBank booked a quarterly loss of $7 billion due to valuation hits on United States data centre assets. Simultaneously, the firm partnered with Grab to deploy $1.85bn into artificial intelligence infrastructure in Malaysia. The capital allocation targets regional technological expansion despite the domestic earnings drag.",
+          "a": "SoftBank absorbed a $7 billion quarterly deficit driven by impairments in US data centre exposure. Concurrently, the conglomerate committed to a $1.85bn joint investment with Grab targeting Malaysian artificial intelligence infrastructure. This dual print underscores a aggressive capital redeployment strategy into regional compute capacity alongside domestic balance sheet repair.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE5INlA0REtJWmszYUFGaWpXSTItdmNNWVZmcENqYko1QUtHbS05ZE1DTnRSNkxhWG1Qa1ZtekRKc3lzTkhFMW9qSE9EUlJab3pTZTZDS0VyVmpna1FLZDQ3NGxXLXJrZ3dqNnc?oc=5",
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkZWcVBvRWdqck5PWVFQYzg4TmFzeDhRN3JlQlRLMXNaODR6TUt1eVRYeUJfOTNIZXlFTFVlWGQ3VkJXWTEzNU40VVlJbGxFNFlmc2g1clJQbndTaFprWVFLOUFWU0pibDg2bTZTQjJzT2kzbk1Ra01yZ0pXLWZzbnVsNWdJd0Y1Sko0WXZWemo5aXBaYldYVzk3ZVJybVJzdlotbHdORnFxdXFvSVpfTHJaRnNLTVVabURuemhsb3J0Rk9fWHZZ?oc=5"
+          ]
+        },
+        {
+          "t": "British Pound Rises Against Yen Amid Diverging Central Bank Policies",
+          "src": "TradingPedia · FXStreet",
+          "b": "The British Pound climbed against the Japanese Yen. A currency rate is the price of one money in terms of another. The Pound advanced into the mid-212.00s against the Yen. Diverging central bank policies caused the move, as the Bank of England took a hawkish stance while Japanese economic data remained weak. A hawkish central bank is one that tends to favor higher interest rates to fight price increases.",
+          "i": "The British Pound advanced into the mid-212.00 range against the Yen. Divergent monetary policy trajectories between the Bank of England and <span class='term' data-t='inflation'>Japan</span> drove the currency pair higher. Hawkish signals from British authorities contrasted against softer domestic indicators from Tokyo.",
+          "a": "Sterling appreciated toward the mid-212.00s against the Yen, reflecting diverging central bank reaction functions. The persistence of <span class='term' data-t='inflation'>deflation</span> pressures or weak domestic prints in Japan contrasts with the Bank of England's policy stance. This macroeconomic asymmetry widens yield differentials across the sovereign curve.",
           "gloss": "inflation",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWU0xibXJQemZpaEJTZFJOOTRkV2EyMi1hbGI2bE1zQndvUlZlUnVGbmotMjFKVFhIa3ZHOW05czFJZ19sTGI4dVpEVGlLeS1tZGZkVFJRTGdzRlBrbUV2cUVybjQzNGhfVFBkaFdabDBKZlQ3WlE?oc=5",
-            "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zUUJsLUwzZDFnM1locWVJRTR1aFFVTldhckMyVkdrZW93SV9NTEhoWm02aGl3VC1tYUpWd1pXLUZYamZnZjdqbVZiSjlrb3k2WUthcC1OZmxESnM5TGNjemhtNFUta2pHeVFWdlN1OXBzdFFpeG1HZnFDaEpHdw?oc=5"
-          ]
-        },
-        {
-          "t": "Mitsui Chemicals Agrees to Acquire JSR for 1.84 Trillion Yen",
-          "src": "www.marketscreener.com",
-          "b": "Mitsui Chemicals is a large manufacturing company. It agreed to buy JSR, which makes materials used to build computer chips. The total purchase price is 1.84 trillion yen. Yen is the official money used in Japan.",
-          "i": "Mitsui Chemicals will acquire JSR for 1.84 trillion yen. JSR operates as a manufacturer of semiconductor materials. This multi-trillion-yen deal consolidates supply chains within the domestic chip sector.",
-          "a": "Mitsui Chemicals reached an agreement to buy semiconductor material manufacturer JSR for 1.84 trillion yen. This transaction represents a major corporate consolidation within the domestic advanced manufacturing supply chain. Equity valuations for supply-chain participants continue reacting to heavy capital deployment in the sector.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmFXTG8xOXA5UHhoYjhkXzAyVGZ2dElnV1VOaU5tTzFzbllzc2NqSE1DSnY2em84Y3hpcy14UUZTbV9NSFBtcGh3Yk5rN2VvRG0wc3g5cVhhQVI2NDFETTRZcUU3MU1yWmJDSjkySE9Nc2gybVhsdk9CZzJHVm5jS1FIbkZOaHRsM0Mtc3pGalRDWGdaR3M3Qm5mUFQ2cmg5Rm5GdHB1ZnJ0UmR5LUVlUnVnd3hFR0NqVlJnd1FrTTF3N1BzMUtBaUJteWprWlFtV2c5Uw?oc=5"
+            "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXE2aTdfZFBfdERQUzFKOC1wMHRxcHplTjdWZGJjVXBQTGJWS05hT01vTEVUTVJ3ajBjT1VLcndDc1h4MHBGTG9pbXVPZVk3NlF3aXE2N1A0T2dyMWhSWjZna1JRNEdRWUppWnJCazJWTklfM29fZlIzSXlzWGFWV214THhzSFMzR0V3bGMxZ3U2UTltQnFMaVJLbHRDdw?oc=5",
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPazlVbDk0ZnFlVmY0RDFndTFvbFNEcUJFSFoyTEQxNFBOemQtQkhkblFsMkhHbmc1UlpuM0tDTnd3ZDBOQ3JnY2VsM3NFcW90UHhHQmV2YzVUY1dBd1pGbE5qTjRld0U0a1JPbHpmcUlwTnQyTHR1elZRWnBEdmlvcjdOVGpROHZzT3VhUEQ1Z3pLZEZPVUxSRzNSQzU2XzRMNkZlSlc3LUY5bk1EUU5ZaWh1VEZYVU1IaXY5ck80Q2tiTmhR?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Japan recorded a weak month for household spending in September because of a rainy day streak. The government also spent 7.98 trillion yen in a single day to defend the national currency. Meanwhile, the Japanese Yen weakened due to disappointing economic data.",
-        "i": "Household spending in Japan slumped during September amid a rainy day streak. Currency authorities previously spent a record 7.98 trillion yen in a single day to defend the yen. The Japanese Yen weakened further following disappointing economic data, though a hawkish central bank limited additional losses.",
-        "a": "September household spending slumped across Japan during a protracted rainy day streak. Authorities previously deployed a record 7.98 trillion yen in a single session to defend the currency against excessive depreciation. The Japanese Yen subsequently weakened on disappointing macroeconomic prints, although hawkish central bank undertones cushioned broader downside FX losses."
+        "b": "United States midterms showed the costs of East Asian diplomacy under Donald Trump. Leaders in the region face new political challenges. Trade discussions and foreign policy decisions are changing.",
+        "i": "United States midterm election results exposed the diplomatic costs associated with East Asian engagements under Donald Trump. Regional capitals adjusted their foreign policy calculations. Trade agreements and security arrangements faced renewed scrutiny.",
+        "a": "US midterm outcomes laid bare the structural costs of East Asia's alignment with Trump-era diplomacy. Bilateral negotiations across the region face increased domestic friction. Policymakers must recalibrate security and trade commitments against shifting legislative realities in Washington."
       },
       "timeline": [
         [
-          "September",
-          "Japan household spending slumps during a rainy day streak."
+          "10 Sep",
+          "Japan posts a current account surplus of ¥2.37 trillion for the month."
         ],
         [
-          "October",
-          "Bank of Japan holds a meeting where multiple board members call for rate hikes."
+          "10 Nov",
+          "Nikkei closes above 60,000 points following chip and AI buying."
         ]
       ]
     },
     "China": {
       "iso3": "CHN",
       "label": "China",
-      "sub": "Corporate restructuring, shipping orders, and green bonds",
+      "sub": "Yuan rates, AI chip deals, and overseas forex access",
       "ind": [],
       "stories": [
         {
-          "t": "Tongwei Acquires Tech-Bank Food",
-          "src": "Dealroom · BigGo Finance",
-          "b": "Tongwei Group takes control of Tech-Bank Food in a restructuring. The deal costs 1.441 billion yuan, or 216 million dollars. Tech-Bank Food carries heavy debt prior to the takeover. Tongwei Group completes the acquisition to rescue the firm. Shares of the target company hit limit-up before the official announcement.",
-          "i": "Tongwei Group assumes control of Tech-Bank Food through a 1.441 billion yuan restructuring. The transaction totals 216 million dollars for the debt-laden enterprise. Equity prices for Tech-Bank Food reach limit-up ahead of the public disclosure. Tongwei Group finalises the corporate rescue to absorb the struggling agricultural business.",
-          "a": "Tongwei Group executes a 1.441 billion yuan restructuring to secure a controlling stake in Tech-Bank Food. The transaction values the distressed target at 216 million dollars. Equity momentum pushes shares to limit-up prior to formal announcement. Tongwei Group absorbs the liabilities of the debt-burdened entity.",
+          "t": "Shangri-La Issues Offshore Yuan Bond",
+          "src": "The Standard (HK)",
+          "b": "Shangri-La sold a special kind of corporate debt known as a dim sum bond. This is a debt instrument issued outside mainland China that pays out in Chinese yuan. The company raised 1.02 billion yuan through this sale. This marks the group's first venture into this specific offshore market.",
+          "i": "Shangri-La raised 1.02 billion yuan by issuing its first offshore <span class='term' data-t='gilt'>yuan</span> bond, commonly known as a dim sum bond. This debt instrument allows companies to tap into foreign pools of Chinese currency outside the mainland. The issuance expands corporate funding options in the offshore renminbi market.",
+          "a": "Shangri-La priced its debut offshore renminbi issuance at 1.02 billion yuan via a dim sum bond structure. This transaction demonstrates corporate access to liquidity pools outside mainland jurisdiction. The pricing reflects offshore yield curves and institutional demand for foreign-denominated Chinese debt instruments.",
+          "gloss": "gilt",
           "links": [
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWt6bWV5VlpKcElyeUx5a04wMEpoUWRYLVFHb3FiNFZDVUEzVmNjUElEa1VPN05kQUl4ckswVzJ4RzdZM2sydVpMTy1DU3U0VXhaVUF4cnVjMUd2dFZBMWVBZ2Fwb3A2X0lMLTBJUy10UEpra241MkxlRVRRMXhQT0NYeldZR2N6d0hkdXJHVE01U2MyV2hTbGJwQ3hsU0JiSmd4WXdoUVZqcWdD?oc=5",
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FOXFfYV9NYnlONkF4R2NZR1FDZVh1R2R3Qmcwbkk3SzRadHh1c1NFem5ockkyODJWMTI2bU9Zc3BoN2UzdVY1X3ZobWZLSDAyUWlFa1F2VjNSMHduZVc5a3ZsZktWT2pwWTNBZEdUc0dVbGZVTmc?oc=5"
+            "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1VRd0FfWW5rSURFN3VsSzRXT1QyYklRQ3BMdUg2YVhHM2pCTk1hLXRUY0FuODhhdEtpU1BqQ09hTVkzMUpqVkd0LThzVjc5V2Mwc2NkeDVHU0FDd3VkdEI0REFmdWJlZDRWZnpDT3E4OTNoNm5weU5qSkFiWGNZbUZidXBFakM0cGwzRXVFNnFNTC1FcVpHbUs4dXFHVEpvUUpLMkVOZXFTRkFjQi1rT0EyTzZtSzhnNG05M0pyOWRKUk1iRUpIMA?oc=5"
           ]
         },
         {
-          "t": "COSCO Shipping Energy Expands Fleet",
-          "src": "BigGo Finance",
-          "b": "COSCO Shipping Energy orders 10 very large crude carriers. The new ships cost 9.572 billion yuan in total. The company also adds 14 new vessels through bareboat charter agreements. The massive shipping investment expands the existing fleet capacity.",
-          "i": "COSCO Shipping Energy places an order for 10 very large crude carriers valued at 9.572 billion yuan. The firm secures an additional 14 vessels via bareboat charter arrangements. COSCO Shipping Energy expands its operational capacity through these vessel acquisitions.",
-          "a": "COSCO Shipping Energy contracts 10 very large crude carriers totalling 9.572 billion yuan in capital expenditure. The fleet expansion incorporates an additional 14 hulls secured through bareboat charter structures. COSCO Shipping Energy scales its tonnage deployment via dual direct procurement and charter channels.",
+          "t": "Moonshot AI Secures Nvidia Chip Rentals",
+          "src": "The Standard (HK)",
+          "b": "Moonshot AI signed rental agreements for advanced computer chips made by Nvidia. The total cost of these contracts reaches 432 million yuan. These specialized microchips help companies build and run artificial intelligence systems.",
+          "i": "Moonshot AI secured access to advanced Nvidia hardware through rental agreements valued at 432 million yuan. The high-performance processors underpin the firm's large-scale machine learning operations. These compute contracts highlight the capital intensity of domestic artificial intelligence development.",
+          "a": "Moonshot AI committed 432 million yuan to rental agreements for advanced Nvidia hardware. The procurement underscores compute scarcity and the valuation of high-performance accelerators within domestic foundational model training. Counterparty execution risk hinges on ongoing hardware availability under existing trade restrictions.",
           "links": [
-            "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNNm1aWDVEakRuZ0U0MHhMZFRyN09mRjZuMlJ2RVRaVDRjbTJrZmJNSkRwR3Riaml3S0NGT1JRWDdFLUI4RUpIQ3JoQXpwSl9WbkIwYnUyc0IwSXhKWUpMLXpDbFpCZm90c3JaOVlhWlMtN01ydmc?oc=5"
+            "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORGdORnF5YVR2UXd0OG9qUGd5VlBYMUhwMXBNd3RrMU1MbGxpa1lVMjM1OTJRZk1qQzk5Ykw5VTR3TmhPTmdEczlMQzVfb21BSlZMdkY2T3RNR1NXSENmcnBCbEw4U0I1Nzl5UzY4bjMyMjh6dTRPWlc4YlhkR3BnR2tTbHp1U1psN0V4a0RsNnRpaF81cUVOby1qVFdqdVB5Ym9OS2FvMm1VVDJ3TlN6cW05T2Y1bWswWGJSeFlnZ1RiSkE4VjFEM3JNSUNHVWpSZnc?oc=5"
+          ]
+        },
+        {
+          "t": "China Opens Forex Market to Overseas Clearing Banks",
+          "src": "Caixin Global · TradingPedia",
+          "b": "China opened its domestic foreign exchange market to overseas institutions. Specifically, foreign yuan clearing banks can now participate directly on the onshore market. Meanwhile, the central bank set its daily currency reference rate at 6.7167 against the dollar.",
+          "i": "The People's Bank of China opened the onshore forex market to overseas <span class='term' data-t='carry'>yuan</span> clearing banks. This structural change broadens institutional participation in domestic currency trading. Concurrently, the central bank set its daily reference rate at 6.7167.",
+          "a": "Regulators granted overseas clearing banks direct access to the onshore foreign exchange market, deepening institutional integration. The People's Bank of China established its daily midpoint fix at 6.7167. This administrative rate acts as the operational anchor for the currency within its permitted daily trading band.",
+          "gloss": "carry",
+          "links": [
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFJsa3VncS1mTkkzWjhBZ2wtRUl1ekxhZHBKT1pjWjBkV1lpQ25HQlprbzRWVFFpRDNSRnEzUUJ2UFU3MWdFNDFFTXFPdzhzWlVwcTloRTY4ZXBqR1pVaHVmVjJHNDREQ09qejFkRDZmOVVXSVQyd2FfTVA4MEs2TkFuWmgzUjhTaVdyUFNIQTdIdmhOMlZNWHpia05rblp1NXEwVUxTdVpGVEVxYkE4LWFVRDBZMHlTcUNJ?oc=5",
+            "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmprSGJzNUFMZC1GZnlzZktaaUVneFV3ek5iOXlrOUJTMVMtbFYyTU9mY0M5LVMyNVZLbGVJTk9JaGRBTGJ3TTZrRmhTN3BhVWt4MDduTzlZQXNsd0RTYW1CMXhEbmVnNWk4Z2tnRy1JRmY2c1dxY2RKRVVPdjBKdy1VVHpvU3ZvTGtXQmVvVVRsMUlFbEZXZEdsNA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Chinese banks offer 4.5% dollar rates while the yuan rallies. China sells yuan green bonds in Canada. Ice-and-snow theme stocks jump in afternoon trading.",
-        "i": "Chinese banks price dollar rates at 4.5% amidst a yuan rally. China issues yuan green bonds in Canada. Ice-and-snow theme stocks surge during afternoon trading sessions.",
-        "a": "Domestic institutions price dollar deposits at 4.5% concurrently with yuan appreciation. Chinese debt issuers price yuan green bonds in Canada. Retail flows concentrate in ice-and-snow theme equities during afternoon sessions.",
-        "sources": {
-          "0": {
-            "outlet": "Briefs Finance",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlRFNnNoekVNRGxORHdIZTVObnI5RXdhRWpBNjlIS3RFYmxDZ2tsZXhRenJtWGtCRjZIX21GeHJ1dExFZ2piZ2Zsb1dkLWdQYXdxZWRpSGJDcVNyNXI4alBybWtRRmJJTVZCXzRsTFBTX0xIWHVjczQzOGtXbWQ3S0h0NHFhVGVn?oc=5"
-          },
-          "1": {
-            "outlet": "BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jOEVEN2xNc3dMSUYwMU5tem00N3FzNGlYRDFCUEVBUVI2QkVUbUlPSWVQdjByekRUWUdzRnRaMkRhb3dkYzZrV0hyQUx5bU5ENnRDSEVKcHdkMjVNQWZjbVhQbXNQbVk0NmdZcXpLeFp6cUFtakE?oc=5"
-          },
-          "2": {
-            "outlet": "IDNFinancials",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2RIZnhjTTRnSjNaLTU4QWZKVXpDc0RVUWQzelpaRFNvbko1SWdINW5NX0pwalJTbEQ1TnFsTk4weGNYNkYtU3lsc0N5TzJQTjk0M1ZZRTVkbk9xNnpuTkM5X1hFVXN4bUtPdThsekZkVkM0aGNFZEVmclpBS09yVjFFOHJiRzluREhhTTRUREtXVTFfODVJbg?oc=5"
-          }
-        }
+        "b": "The Premier warned against misusing legislative majorities to secure votes.",
+        "i": "The Premier issued a warning against leveraging a legislative majority purely for vote acquisition.",
+        "a": "The Premier cautioned against the tactical exploitation of legislative majorities for electoral gains."
       },
       "timeline": [
         [
-          "9 Nov",
-          "Chinese banks offer 4.5% dollar rates amid yuan rally"
-        ],
-        [
-          "9 Nov",
-          "Tongwei Group agrees to take over Tech-Bank Food in a 1.441 billion yuan restructuring"
+          "10 Nov",
+          "Shangri-La issued an offshore dim sum bond raising 1.02 billion yuan."
         ],
         [
           "10 Nov",
-          "China sells yuan green bonds in Canada"
+          "Moonshot AI rented Nvidia chips under contracts totaling 432 million yuan."
+        ],
+        [
+          "10 Nov",
+          "The People's Bank of China set its daily reference rate at 6.7167."
         ]
       ]
     },
     "India": {
       "iso3": "IND",
       "label": "India",
-      "sub": "Sensex and Nifty hit eight-month highs as banking stocks rally",
+      "sub": "Citi sets Nifty target as gold drops and rupee gains",
       "ind": [],
       "stories": [
         {
-          "t": "Sensex and Nifty Climb",
-          "src": "The Shillong Times · The Economic Times · Equitymaster",
-          "b": "The Sensex and Nifty stock indexes, which track the performance of major companies, closed higher after pharmaceutical and public sector bank shares gained value. The Nifty index moved past the twenty-five thousand mark, reaching its highest closing point in over eight months. Data Patterns shares also increased by 9%.",
-          "i": "The Sensex and Nifty closed higher as public sector banks and pharmaceutical stocks led gains. The Nifty index reclaimed the 25,000 level to touch an eight-month high. Bank stocks played catch up during the session.",
-          "a": "The Sensex and Nifty extended gains to multi-month highs driven by sector rotation into PSU banks and pharma. Nifty reclaimed the 25,000 handle as bank equities bridged their relative performance lag. Price action signals strong momentum despite consolidation risks looming near 25,200.",
+          "t": "Citi raises Nifty target to 28,000",
+          "src": "News18 · Inshorts",
+          "b": "Citi set a new goal for the Nifty index, which is a list tracking big companies, aiming for 28,000 by December 2027. This change comes because experts are more optimistic about company earnings.",
+          "i": "Citi raised its Nifty index target to 28,000 for December 2027, driven by rising earnings optimism. Analysts adjusted their models to reflect stronger corporate profitability expectations.",
+          "a": "Citi lifted its Nifty terminal target to 28,000 by December 2027, anchoring the upgrade in a more constructive earnings revision breadth. The adjustment implies sustained multiple expansion predicated on forward corporate margin resilience.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjBJQy12ZXZlYVMxSVplOE9kWkM0UXBySEhacDNRYUF0SkY0VDU0dURubGoycElicWNJaXNqejFHbFJsbkNpWkdKaEdtTjVtYVEzeHhwNFBOWHQwVTBHWUJmMEMwZjNaal9ybDB1Q2pfSXQ5bEc4M2VUdnR4b2ZYTGM1eHo2NVAtSWdFcmk2Yi16N3JadUhGYUlpcTE0akMydXI3bElpVQ?oc=5",
-            "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbG1sNk5yVC1jTXE2S1N1UURkSjJqMTJ5ck9sSDRTcTB1alpNVVdmTHl5eE8xbW1iUGFSdm8zbTNZaHpoV0RyR0Z5NmlQa3pFdUducFkydDR2bXpfaFBtUjJGYVBBaVJsa1REX3BGbFNGeGk5dXRlZDllZUhRX2pCTGREbFY2bmNEMVZRaDhIWlF3dngtWGdlWkJUMkJzQl9aY0ZCak1HcTBVNkMwdFFuUExIdlZVekdGZEZLVjdRQVcyb0REUFpNaTg0QmnSAcYBQVVfeXFMTnpEQjBOQjlrTWhic3A1aGcwd1JBQmx0N2pjM3hFcUx4cXhvLUlGczhWUnEzWDRETzVGU0xGcTdLdDVsU001OGRMWV9oWml0QXEyMzg5VWkxNkNFQmFyN0tNd2ZNS09WWWpzM013VUFaTlFSSzVsTVBBaDRjOFZqRmNoY0lYbnBIS0VJTHVwRFdkUFR1VzZWUWhNa29VS3JZYkhSemxZbnFfWnNIdjE0VkFISF9KMGQzZ2JaT0NoN2Q0Y0ExSEd3?oc=5",
-            "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1BaVnBPalZlRWV1UXhGVXhfbzRtVmRjMFNzUko4RDYyX3JYUEdqeGJETnc1MFc3VXo4VzVyS2M0bDVucjFJUTVCZDAtN0k2VDQ4V1JDTFJERnRzLWotbTEzYWNIYVowS0FHajU1UEZ5VXJOT1ZMbjR3VDdzVHJpUG1iaTJCZFItSEdEdFNDWW9ycDI0ei01QVNLU2RQNHBlcTBoUDVWSWRZMFg5V1JqRUR3RldsSi1JY0l3MlNoVWM2Y0oyd1BWLUtoaW9vcEV5?oc=5"
+            "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMi1jeW1VRHlabHhpbWFDMHk5QUdjcTlTSGdMMm9iRTg2WmRpZURKcXM5Yl9jSnlIUExoVmRMTFhYWmZNQXNlRWtsZG5LV2Q0dTV0WEdXdnVSRTZIZ1F3WS1odlVyRVJ4TmdLS0hCNkhiT05BQm15MDVLaVNFNVoyMnBvOXBoZjUwZXl4bHlRelhmb1FiNVVwWVRFbFBPeFlNU3FnZVdfSklvZ1ExTUNPTmpvdGdmUGhJOTZ4bllvREI0RW5PWFBkNThxdG9SQXA4eEh30gHYAUFVX3lxTE1xamd4UUFmRHJha1laNzNRWlVZU0xWMGJXcWUxblNqTVZEVU12N2szRnp0VG0wamI3LWpMTUhEb3RFT09wZkg2dm1ueTRmWGF4VDh4Z18zbjJZVnA0dzAyQXFsRkNCYXAxNnJHbVZjUmpBR1h3MG9JS09OTFJXT3VpcEhBcmxjbzJHV1hXbDlLZFlIWW5kZ3hrX1FXVXlONDNRaUFBZ1lmcTJGaGc4M1NfLWhva2dDVEJPUldGeG56YU83VHJkVWFyLTVzZ2NVTV9RM1lLcXFRdQ?oc=5",
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkpSckc3YmNZLXdWTm15cGhreE9YU0w3Rkc0bXBJSFNrTnp1SHZuOHoxLU85VU4tN25iZVBpRUV3d21JbHhzYUttakdsdDhTTEN6TjVZOW1HaVJLWUhsdkQzOHg3VUF2TE53UUJtNjJmN1hSV3p5bDRrSm00RHU4LXRXclZ3aTNWYm9MbHcwSzc0Q0xZQ2RNTkhn0gGfAUFVX3lxTE1XWXJxNF9hMXBDd01veFZYWDdGTG1XeHFRVURmT2V1SEhKYTktc0lpNmRrLXZ2bEtxU2p2TU9FS0dMLWxZc0hVa0RaaTFuZmw5UmRudmZBc3FZc204RUxCckRsVXN0SzhhS3JfZjFMMG9KbXgxdFJ2LVA4ckpFdzlFajJMeFItWjg2NlJHOEgycnc3RXNhd3A2bFRYeU9DMA?oc=5"
           ]
         },
         {
-          "t": "India VIX and Currency Protection",
-          "src": "The Economic Times · Business Today",
-          "b": "The India VIX, a measure of expected stock market volatility or dramatic price swings, jumped by 68%. Meanwhile, the Indian rupee currency protected local investors by limiting the drop in domestic gold prices to 15%, whereas global gold prices fell by 21%.",
-          "i": "The India VIX surged 68% alongside a 7% market rally. Global gold prices dropped 21%, but local gold prices fell only 15% as the rupee provided a protective buffer for domestic investors.",
-          "a": "India VIX spiked 68% despite a broader 7% equity rally, indicating heightened options-implied volatility amidst upward price action. Concurrently, currency dynamics mitigated domestic bullion drawdowns, restricting local gold losses to 15% compared to a 21% collapse globally.",
+          "t": "Rupee rises on oil relief and equity inflows",
+          "src": "TradingPedia · FXStreet",
+          "b": "The Indian rupee strengthened because oil prices fell and foreign money poured into local stocks. A lower oil price helps the country because it spends less money buying fuel from abroad.",
+          "i": "The Indian currency appreciated as lower crude prices and strong equity inflows provided fundamental support. Lower import bills for oil reduce pressure on the external account.",
+          "a": "The Indian rupee gained upward momentum on the back of favorable terms-of-trade shifts from lower crude prices and robust portfolio inflows. These concurrent tailwinds mitigated current account pressures and bolstered local currency demand.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
-            "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0FVcGtDaDZZT1BCWElBUVJYM2JFT21RRmVyQnBxVGNGb1F2RHNRS19MYU56VzdlWTJia1JaWGhZUTdmVkJCQnVFdmJMT3dOM1N2eW5JRmFSRUVUSDhEX2dwaXdHT2lzQ2tCNFdsVGpWQ2lYaS1VTFMwODRFd25NR01BUVFPbnVoS0tBVlo1Xzc4WTl4bTA5MmRkUkZoWUExZXdYWk9weE9VdEtyZ2VtSFFFb3p2eHRPRFlSaS1mMDQyQmpKRFZoalhsVFhoOEI3aTJhWlRmUDdWUDczaUHSAeMBQVVfeXFMTzhmQUU1TkI5aE5xWkxGeEdaWi16TGhaMzJ2YjdZTjZBWU5tZWtmU0RFU3QzdUI5dTJDb2ZPM0NqY0swUkJkbFI1Nnp6YlJDY2F0SUdKaTZ5MldVQ2ljU0Q2NHQtUGRCeU5rOWZNVklXbnZwS2FJRE1aY2lTRS1aZ01zS042ZWx0S1llenNKU2ROdGJScHZYamg1M183Q3B3ZUQ3Q3FQdzg4QV9iMGo2b0xFeFlCWlVMQ2Nvc01IQmFhM1JYVTRUclZXamZJRE94WDVyQ0pXeVNjY0oyci1JQ19qS00?oc=5"
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUk5cDdHdTBMWU05VlB1U3NlNU1RMEhRMXUtV3BuTHFVTVRxWkVyTTE0NEtUX2Q2WHhMalFWTDgwUXQteTBZWl91R2U3OE1mNTlURTZGZC1DUVo1QjBmVGpURVpQSjhrOHhvbHlnbEVaRVpJV1NHM0loaWc5amtXa2x3MmFWZUo1ZmV2X2JfSFF0ZlpOX2k0OHRn?oc=5",
+            "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUstTVJBalZ1SVFnRVFfSXZIMnFGb2RQcTZqTnhybVAxMEpnMUU3SXBUMWdvNkMxcHRkZnFHenpyTWVTZW9WekU3WjFEQ1A3d0d2NnN4S1cyenJwSzhpamZvY3lfX0Z2bnRjQ2IwNGNwRFFpTnlPNFdEM3BFMUZjZDQ0bUpNOURSeW04SFU4R08yLWxrbzZWTF9SNEdiY2tTXzZr?oc=5"
+          ]
+        },
+        {
+          "t": "Gold dips globally as local factors cushion Indian prices",
+          "src": "Moneycontrol.com",
+          "b": "Gold prices dropped globally by 21.4% from their highest point. Inside India, a weaker local currency and higher import taxes kept retail prices from falling by that much.",
+          "i": "Global gold prices pulled back 21.4% from their peak levels. Domestic <span class='term' data-t='inflation'>inflation</span>-linked dynamics were muted as rupee depreciation and higher import duties cushioned the local drop.",
+          "a": "Global bullion retreated 21.4% from cyclical highs, though domestic transmission was truncated. Rupee depreciation alongside upward revisions to import tariffs insulated local bullion valuations from the broader international drawdown.",
+          "gloss": "inflation",
+          "links": [
+            "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV05iWXNFZXhkaVRPOEFibE8wcDNOX3JWemJtM1VXdVVOWEJwQ19xaHRDUXJJLTRiRGQyQjlISkRyTU8wMExtWC1UQ2ZidlY3Q25qbmRYdFZBa19uUmp4bzRGWHI1MjQtYlFaWkZzTVp1RXZ4eE9zTGxZVndVQTNOX3drdFUtbnEzZWlNel9hYmRqbkphbTMyWnYxcU5IbkZOMWJ2Ym1jb01qaWRnWTA5bzBacTJOWk5VWTYycERuZzJiQUZRQ2NJNUFYbGRrSmMzU3dDeTNfZ2kzX2xNOVItRy00UGVOU2_SAewBQVVfeXFMT1p4VmVwOW91aDlZMENCdTk4Qi1KSXZGU3RRcmQyRlpTeW01VUlvZmlUR0ROUGIzb1pkeEtxSy1Wd2VZRDZnN1BZX1VodTFnN2VveXZqNGE4NEQxQ0t5RjlUdF9aU01sS2NrVlg2SVJuMnN0QmRoOUJMYk9objE1bTd6ek1EV01VWlBWSlhySl9seHdVRm1OM0JuaU5ENENZZ1RBbGJMMG9YMmJ1Uk10R0RMQi1ITnpVNmpQcEM2YUhvTlFyM3Z3VE1QMnVMbS14SjNtb3IybTJtV3BfQ2NKXzAtdmo4WjVJcWhfMm8?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Payment rules faced scrutiny as reports highlighted a legal loophole allowing cryptocurrency transactions to be made in rupees via QR codes.",
-        "i": "Regulatory attention turned to a grey zone in payment laws that lets crypto transactions execute in rupees using QR-linked mechanisms.",
-        "a": "Legislative ambiguity surrounding payment frameworks manifested in QR-linked mechanisms enabling rupee-denominated crypto transactions through regulatory grey areas."
+        "b": "The Reserve Bank of India holds a large forward position of $239bn. This massive financial holding might stop the national currency from rising too fast.",
+        "i": "The Reserve Bank of India maintains a $239bn forward position. Market participants note this intervention capacity may cap further appreciation of the rupee.",
+        "a": "The central bank oversees a $239bn forward book footprint. This structural overhang constrains speculative long positioning and acts as a ceiling on currency gains."
       },
       "timeline": [
         [
-          "9 Nov",
-          "Nifty trades near 24,500 before rebounding past 25,000."
+          "10 Nov 2026",
+          "Citi raised its Nifty index target to 28,000 for December 2027."
         ],
         [
-          "10 Nov",
-          "Sensex and Nifty close at eight-month highs with an India VIX spike."
+          "10 Nov 2026",
+          "Gold fell 21.4% globally while local import duties and currency moves cushioned Indian rates."
         ]
       ]
     },
     "Brazil": {
       "iso3": "BRA",
       "label": "Brazil",
-      "sub": "Petrobras earnings and vessel contracts, sugar price drops, and Selic forecast",
+      "sub": "Petrobras vessel deals and earnings updates",
       "ind": [],
       "stories": [
         {
-          "t": "Petrobras Prepares for Earnings as Vessel Deals Advance",
-          "src": "Offshore Magazine · GuruFocus · energynews.pro",
-          "b": "Petrobras is a big oil company in Brazil. It gets ready to share its third-quarter financial results. The company also accepts an offer from Seagems for the Jade vessel. LR and RINA support Petrobras with new studies for a floating production storage and offloading unit. This unit helps with offshore oil work.",
-          "i": "Petrobras approaches its third-quarter earnings release amid strong production growth. The state-controlled energy producer accepts an offer from Seagems for the Jade vessel, facilitated by Paratus Energy. Meanwhile, LR and RINA provide support for FPSO and subsea systems studies.",
-          "a": "Petrobras faces its earnings test against the backdrop of robust production output. Management evaluates operational efficiency as the firm accepts Seagems' offer for the Jade vessel via Paratus Energy. Engineering firms LR and RINA concurrently advance technical studies for the company's floating production storage and offloading deployment.",
+          "t": "Petrobras vessel contracts and earnings preparations",
+          "src": "Splash247 · Offshore Magazine · energynews.pro",
+          "b": "Petrobras accepts an offer from Seagems for the Jade vessel, according to Paratus Energy. Seagems lines up a pipelay support vessel for Petrobras work starting in 2028. Petrobras also receives support from LR and RINA for floating production storage and offloading and subsea systems studies. Petrobras prepares to report third-quarter earnings amid strong production growth.",
+          "i": "Petrobras accepts an offer from Seagems for the Jade vessel, according to Paratus Energy. Seagems positions a pipelay support vessel for Petrobras operations starting in 2028. LR and RINA support Petrobras with floating production storage and offloading and subsea systems studies. Petrobras prepares to report third-quarter earnings alongside strong production growth.",
+          "a": "Petrobras accepts Seagems' commercial offer for the Jade vessel via Paratus Energy, extending offshore service commitments. Seagems schedules a pipelay support vessel for deployment starting in 2028. Engineering firms LR and RINA advance floating production storage and offloading and subsea systems studies for Petrobras assets. Petrobras heads into its third-quarter earnings release against a backdrop of robust production metrics.",
           "links": [
+            "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mVWpLdF96MWdVYnQ4bERtRDlOcE45bl9KSG9TUFFYUEtrMlBMSEw5MWc0TDlKSkQxVUZCM2Q5SUJvY2RBcFd6X1IxTi03SkZnUlpxRVZMRExvWXI2dXFNWG9jWXdlNE9pR2d1N2oza2pfd2o5SmtYdTkyUTFFUQ?oc=5",
             "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXUydXd6MTk2amxFQzJGVExqZ29DQ0hoVkhBY3F5dnZNNXE4dGRWaHBrbHJqMDlWVE0yVE9TUm45SXU1UFFMemsycFVkdDl0LUFaOHk1Ri11R1NrU0o3MTBOMkJkWU1kbFBlWTRyNGZwRXZJSjFSSW85S2drTW91X0x0clJyR2JaYkU2c3BEckRvZERSdF80ZzhmelNFMWhiLWJHVTJ0UElMRzZjTWE4Zkh3Z2xYY21sVE1GTXVpX19NQ09odTBzb08wZ3FuU3NEeWc?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm5lenB3dDJfRG1laDVtLTNsRWhhdGhpOU9EU2VqenRaSERSaG5zQkxVT0lrNzhLMUR3TEFoang0NjRibUdwOEluVElxeWFFX0ppekRUdFctektkek5KRWRvcU1BNlZtSjQ0M2NuY2ZqLWttRzhYYTRzZzM3cXctTFV6dHRYWExTOHN6Uml0cDN3RElKelF0LVNEdU8wb29oNU91bU1KaFhTTTJQZWdmRHo1RnYyd3RkYXY4Ny1HdUQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3ZteHNTdEVES1lhR2NYZlU2bVpKMk1pOWNyaDlEZHNzUW1NREFKX1k2eDAxeUtaOTkyblBpbjVjRUlTeElOeUN5cE9TNURxdHJMeWltNkhfSFRCbUFOZ1dLQmlyYzBCUW5UTGlPS0t6TUxVTU44Z3FWckJzcnhJOWpoWXNTQnQwTWIzQmJrRmVRd3JaNU4tYnFMWDFGTUEtckV2ZVdFRGk?oc=5"
+            "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3ZteHNTdEVES1lhR2NYZlU2bVpKMk1pOWNyaDlEZHNzUW1NREFKX1k2eDAxeUtaOTkyblBpbjVjRUlTeElOeUN5cE9TNURxdHJMeWltNkhfSFRCbUFOZ1dLQmlyYzBCUW5UTGlPS0t6TUxVTU44Z3FWckJzcnhJOWpoWXNTQnQwTWIzQmJrRmVRd3JaNU4tYnFMWDFGTUEtckV2ZVdFRGk?oc=5",
+            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdm5lenB3dDJfRG1laDVtLTNsRWhhdGhpOU9EU2VqenRaSERSaG5zQkxVT0lrNzhLMUR3TEFoang0NjRibUdwOEluVElxeWFFX0ppekRUdFctektkek5KRWRvcU1BNlZtJjQ0M2NuY2ZqLWttRzhYYTRzZzM3cXctTFV6dHRYWExTOHN6Uml0cDN3RElKelF0LVNEdU8wb29oNU91bU1KaFhTTTJQZWdmRHo1RnYyd3RkYXY4Ny1HdUQ?oc=5"
           ]
         },
         {
-          "t": "Sugar Prices Slip Alongside Brazilian Currency Weakness",
-          "src": "Barchart.com · ad-hoc-news.de",
-          "b": "Sugar prices in New York drop down. This happens because the Brazilian real loses value. The Ibovespa stock index goes up by 0.54% to reach 169,405.74 points during mid-session trade. Currency changes affect global commodity markets.",
-          "i": "Sugar prices in New York decline following weakness in the Brazilian real. The Ibovespa gains 0.54% to reach 169,405.74 points during mid-session trade. Currency movements continue to influence agricultural commodities.",
-          "a": "New York sugar futures retrace as persistent softness in the Brazilian real alters export pricing dynamics. Domestic equities show resilience, with the Ibovespa advancing 0.54% to 169,405.74 points during mid-session trade. Foreign exchange headwinds directly transmit into soft commodity valuations.",
+          "t": "Financing figures and Motiva earnings growth",
+          "src": "Stand.earth · ad-hoc-news.de",
+          "b": "Banks pour $61.5bn into Petrobras amid Amazon oil risks, according to Stand.earth. Stand.earth also releases a briefing on the risks of financing Petrobras in the Amazon. Motiva stock gains as third-quarter earnings before interest, taxes, depreciation, and amortisation rise 13.4%.",
+          "i": "Banks channel $61.5bn into Petrobras amid Amazon oil drilling risks, according to Stand.earth. Stand.earth publishes a briefing detailing the financial risks of supporting Petrobras operations in the Amazon. Motiva stock records gains after reporting a 13.4% rise in third-quarter earnings before interest, taxes, depreciation, and amortisation.",
+          "a": "Commercial lenders allocate $61.5bn in cumulative backing to Petrobras despite controversies over Amazon basin exposure, per Stand.earth research. Stand.earth details these exposures in a dedicated risk briefing on regional financing channels. Motiva equity prices advance following a 13.4% expansion in third-quarter earnings before interest, taxes, depreciation, and amortisation.",
           "links": [
-            "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNE5USmpGZXZEYVRwaEtXQmFQLXpLa0FKc1lwNl82MzRvM2dFcGxRbEVxbndWbUs0aGJmQThmZmthVXdEbDZRSElaajJsOFoxYi1sS3RwcWNOem5RT2o3dkxNQlluVkhCU1ZESVVWbkk1VWFIaUowR1dPMDdsRi1OMTA3ZHFoWGFPbW1fZjM4UTZ4RmJXcEE?oc=5",
-            "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakN0c1pzRlFmV2ltMS1fT0V3TnVZcTNsMVZ4OGEtZVpmWXlVR1A5MVhQeUZkdmVHUW15blNkTmRiT1RfbDdqRzA5NmxxWHVGaFBhVms5RGZzdF9FblJ6ZnpSbUF1VTV0VU0tbm1ia0xLYnNQVmVtOUhsbGx4T3JQdk96XzBqMHFUQ0lSemVIQW9uNUxvaXR0V2hxcnJRMWhBZkwwXzZoZnA1WlNhLWVTcU5OSUFWZEVNYUp5d2lzcEI?oc=5"
-          ]
-        },
-        {
-          "t": "Forecast for 2026 Selic Rate Climbs to 13.75%",
-          "src": "Traders Union · Briefs Finance",
-          "b": "Economists change their expectations for a key interest rate in Brazil. The forecast for the 2026 Selic rate rises to 13.75%. The Selic is the main interest rate set by the central bank. Exchange rates between the pound sterling, the euro, and the Brazilian real remain steady or move based on these broader macroeconomic views.",
-          "i": "Analysts adjust expectations for monetary policy tightening in Brazil. The projected 2026 Selic rate climbs to 13.75%. Currency pairs involving the Brazilian real react to these shifting interest rate paths alongside comparative Bank of England outlooks.",
-          "a": "The consensus terminal rate expectation reprices higher as the projected 2026 Selic rate climbs to 13.75%. Yield curve adjustments reflect persistent domestic price pressures. Cross-rate dynamics with sterling and the euro align with broader monetary policy divergences.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFVOYmVKMFhUTkxjMmZfc1liTEJTMjMwVWdBVDY1MldmSFZwY3hxeW5iMW05UFRaeVZLQlhQY3hKeWZKODhyTEo3ZTVoeG9LX3o0UmVEM0tkczJHSnM3Sl9ZYnVWNlRwYlBLZDlXdlJ1bEJmWGw3elZRTGFJM3RZckZteTFFTUdUNkt2cG5WMVM?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2Y0b1VjcDJYLU5tVi1idlhSWDk5SjcxTk5TNnk4VHJSTmluSXN6MnJ0UUZGX0RvVS1LNm53bGNTdjJTbWlobGY3VU5EUE1BeXNTQWVWMUlEX1NqZXNZWnIyZEJ4T3gxVlBiYl93WS0tc1Z1OU9vRVJaa2g3czQwU29DYm93S2tVLUFGWXpJdXdTdw?oc=5",
-            "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGR5QjhJVmxGWmo1d2hTVk9aZ0YzaUdTM0EwU0YzdGJVMmFuNTZfTEI3eG5ubExIWldLajhfSnhadWJlaUZDNFJmNDJRSGxNem5pNDFtOGxJYTBTQkhDRVVLdnRiS0haUy1mZ1FfTzNINENialc0Q3pLZS13NVU3d2hkYmZxN05HT3lr?oc=5"
+            "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbE1pUTFBcFdyV0FGSkpnUHFkN0kwLV9BZU13OTRtSlZIZDdYMFloVV9mTGRSckdsUVYxb21YMHVVSWN0LVJMSndzVGRvaXJMbWljTk96U0hsUWYzeE5FeWJjUQ?oc=5",
+            "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWZ3WENwWWhNQ2JWTWJ0SVhXa21aTUFvcWtBR3dBQzd6SkJMYmdrUC1La0p0dW9tME1YX1ljQ0UzaUNMc2hVZWR5TjBjMy1odmllVHNWaU5vMjdNZUdOUWtibHNQNkNBSkR6U3REanpZSWtKX2EzVC1lUGRtYlZIeVBnY1VGS3dX?oc=5",
+            "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHlGeVZsUHlwdlFXUW5jN285dUVFbWxEdHlqaDQzTHRqb1V6ZXhFRnJneFp4YWVZVzE5UFdKbkNpSngwbG1OLUttc25kdGpTbXkxM0Z0Q0xlY1pDeHJTWnFPV3o0b3JpdFdLaUFHOUNyQ1pUTHgxbkZ4TEJsUXhrSjR6MVk0UlNzNDNVMUw2WTRnMzE4UnFHTW5ScE9wWWJFZEc1anJGYnFPbVFWM3VaVU9n?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "The sources do not share any political news about Brazil today. Only market prices, exchange rates, and company earnings are mentioned.",
-        "i": "The provided reports contain no details regarding government policy, elections, or legislative updates in Brazil. Coverage focuses strictly on corporate developments and macroeconomic forecasts.",
-        "a": "No political or legislative developments are referenced in the source material. The dataset is exclusively constrained to corporate earnings, vessel charters, commodity prices, and interest rate forecasts."
+        "b": "Campaign groups target bank funding for state-backed energy projects in sensitive ecological zones. Environmental organizations publish reports examining corporate relationships in the Amazon. Financial institutions face scrutiny over capital allocation policies.",
+        "i": "Environmental organizations scrutinize institutional capital flows into state-backed energy expansion in ecological zones. Research publications highlight commercial lender exposures to controversial extraction infrastructure. Advocacy groups document the financing channels supporting regional exploration.",
+        "a": "Non-governmental organizations target syndicated lending books to expose capital allocation to high-risk basin projects. Research notes map institutional exposure limits and portfolio concentrations in state-backed energy majors. Civil society groups pressure financiers regarding environmental risk mandates."
       },
       "timeline": [
         [
-          "9 Nov 2026",
-          "Petrobras accepts Seagems' offer for the Jade vessel via Paratus Energy."
+          "9 Nov",
+          "Paratus Energy reports Petrobras accepts Seagems Jade vessel offer"
         ],
         [
-          "9 Nov 2026",
-          "The forecast for Brazil's 2026 Selic rate rises to 13.75%."
-        ],
-        [
-          "9 Nov 2026",
-          "The Ibovespa gains 0.54% to reach 169,405.74 points in mid-session trade."
+          "10 Nov",
+          "Stand.earth publishes briefing on $61.5bn bank financing for Petrobras"
         ]
       ]
     },
     "Saudi Arabia": {
       "iso3": "SAU",
       "label": "Saudi Arabia",
-      "sub": "Aramco headquarters and pipeline targeted by Houthi attacks",
+      "sub": "OPEC oil output levels, Aramco building attack, and project awards",
       "ind": [],
       "stories": [
         {
-          "t": "Aramco Headquarters Damaged in Riyadh Attack",
-          "src": "The Times of Israel · ANC 24/7 · The Australian",
-          "b": "Yemeni Houthis targeted the financial district of Riyadh. Eyewitnesses saw damage to a skyscraper belonging to the oil giant Aramco, including blown-out windows. A Saudi governor inspected the damaged building following the incident.",
-          "i": "Yemeni Houthis struck the financial district of Riyadh, targeting a skyscraper belonging to the oil giant Aramco. Windows were blown out at the corporate headquarters during the assault. A Saudi official subsequently inspected the damaged facility.",
-          "a": "Yemeni Houthis launched an assault targeting the financial district of Riyadh, inflicting visible structural damage on an Aramco skyscraper. The strike breached the corporate headquarters, blowing out windows at the oil giant's primary facility. A regional governor completed an on-site inspection of the damaged building.",
+          "t": "OPEC Production and Oil Prices",
+          "src": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي · صوت الإمارات",
+          "b": "OPEC oil output climbs back to 90% of pre-war levels according to a report. Oil prices continue to fall as this OPEC production rises.",
+          "i": "OPEC oil output recovers to 90% of pre-war levels. Oil prices continue to fall as OPEC production rises.",
+          "a": "OPEC oil output reaches 90% of pre-war levels. Oil prices continue to fall as OPEC production rises.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalZ4eXZJUXo2UF83X3ZqSXcyTWNXeHFRcnUyWGNtSmVDT29EWkQyWnUzSndVdDN0UU9LS0xPbS00WXl1ZnpZSm5jSFNqMy1jd1dISEZiTUVrNUQwVEFZbjEzcXBwUzdnYTB2YkNZVDFBMTZGdllLRWJKQTFPVVloTkxqVmxESUxqUi1iZ3B5SnlYVjVXdnlvMzhvZjQ2Uk9WNExNS0tqTDlDX002bnhmZzdYMFVDR1pFbkE?oc=5",
-            "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUtUOUJNeDEzMzlJZExodzVMMWRxVzRadFNtOU85Mm5mWC1CRkhDVFJ3R1VjbmhEdnE5NzN0OU8wb1RiTEpyTVZiTnllbG1SWlNneDR0LWZiQm04M2FmWkQ3Ym03Q2tZXzFtOUI1Sl9rQXNSbHByVERHQnFpeUcxckVNMVZFMWFUZlBqNzlMNTNqU2prcXE1SFlxaXN5WmlLTG1veF9TSzVTWnRwMTlxeW85enI0ejduaWNyZEtjdzFDRkY2TmlTcXlBcHZvZFBwTGY5ODhVTQ?oc=5",
-            "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVUVzb2JINjFFRXhwZC04ZmhBV01vSFRSQklYV0xkM3VkWm5zSmNQMEdiWTFRWk9VMnhjbEJiYmktdGJBU2dWcFYwVFFRdXZHU0V2RG1RU2tTSWFxQkUwSzVZNnV1Z3dVTDQzV0R6cm9yanE0SGQtVVNpNnVxTnhUa0pOZWFYOHFON2VuTHpKTzlaNWJ6R3ZMQ01HXzRRdEZlOElNS0VNVVJ4Skt6bkFvdkVtSEtuaDZKTHR3V2pUVi1HcjVjSU1heFE5M3lBY0xRUUxGYnZHRUZwdGYzZmZCQWVGMjVUUQ?oc=5"
+            "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vR0tJME01NjF4eElqalJ5YjlGd1lWZ1h5T3R6Si02TURuRldRV1g5bE15UmxxRUlrSnZYZmJzNDJ4UnNtbW5lR01vT05fcFBZTk9BVHF4a0stN1Nsbi1hZG9hN3FDWDV6YVE?oc=5",
+            "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2VUZUJxR0xmZlg3SjNad21uMkIwcWxrbDhhNWczVzllZ3NUeGNtdmJSSEswSW92U2xTLU5xNjFFbldHeG53MEw1cVRSeDRvLTV3OElWa0d6YnNUVHpmbGN0d3VJSWtnSEJheWtuWWJzb1ZwbXlBUlFKTlZqYW96dEJnTjBJZWZyU0RnMThuOWE5eDFwX2FZRkV0N1p2c3dKR0pWaWgyb2p3X0NE?oc=5"
           ]
         },
         {
-          "t": "East-West Pipeline Targeted in Madinah Region",
-          "src": "CMB News · Rudaw · Eurasia Review",
-          "b": "The Saudi Energy Ministry reported an attack on the East-West oil pipeline in the Madinah region. The pipeline remains operational despite the targeting. The incident lifted the crude oil risk premium.",
-          "i": "The Saudi Energy Ministry confirmed an assault targeting the East-West pipeline in the Madinah region. Operations continued uninterrupted across the network despite the strike. The attack elevated the crude oil risk premium across markets.",
-          "a": "The Saudi Energy Ministry acknowledged a strike targeting the East-West pipeline within the Madinah region. Throughput remained unconstrained as the infrastructure stayed operational following the sabotage attempt. The security event immediately drove an expansion in the crude oil risk premium.",
+          "t": "Riyadh Official Inspects Damaged Aramco Building",
+          "src": "ASHARQ AL-AWSAT English · Gulf News",
+          "b": "The Riyadh Deputy Governor inspects an Aramco administrative building following a Houthi attack. Saudi officials inspect the damaged Saudi Aramco building in Riyadh.",
+          "i": "The Riyadh Deputy Governor inspects the Saudi Aramco administrative building following a Houthi attack. Officials examine the damage at the Riyadh office.",
+          "a": "The Riyadh Deputy Governor inspects the Saudi Aramco administrative building following a Houthi attack. Regional officials assess the structural impact at the site.",
           "links": [
-            "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjY5UmJYcFN3eU1JSld3UU16aDRRZnlVcVVzMzZqYWo2Umk3NGZLQUM2UjBLei05cEJJdFRBbTdIX2ZBd3JPWVppWmF6SjlxUmFJYWYwR0JRNjE5b0p1QjFvMENQMjFHMlpHVk9SdjlPazFpblByS1RrZUtiNkZBMDQwSXNYZ25wN1NDT19reWp1R0JrNXM3VFAzeWJtZUcwRkNGdzJn?oc=5",
-            "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDc1V3YWI2MjZZam0xNEVZazY0NU53VEowWFpmUTVVU2VtZmU1YVBjN0wybnJSdm5zYUNsWkpOU2NkVUtFUjN4dE53VlJ1NlZEOVVpYU9TSkVtTUVPdHpKTXdMQlhXQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTl6aUxCTVVUUXlrazc5clhWaHl0alFFQmE1M2NBTzNTeUNwdTA4QmpabVRVZnVPQlI0b0otZ2lNUFRwMXd0TjdXOTV5MTlhWi1JTHllWnYxQTdzMlYwWFd3clhPbWl0ZmVNZWcwOW9xZmlDY2RYNjdQbjdZRHhyZzQzMEZuQWFrTGFGRkY1X0lUZXl4NWlZQVQ2THBQd1J0NDNYbERvbU1wVEpCUkF4T1Bn?oc=5"
+            "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3ZwNlNDTlc3dWMxaVRBQVRJdGhBNlc4d0dYRE52UFVhc25PakxyX0otc05TT2o3M2dodlJPMWdadno5RURXdk5samxHNHZ2bU94OTVIalBNQ01rTHFYN1EtUHA3THY2YzVCWXZ5cUN1bjhGM01sb3ZEUElMM0lnNmFJMGRzajFveUdEaVJ2TlNwRE1uTVgwWWlIel91UGlQVGlRaHpuZ0RsZkZZSWhQNWstRGk5WHd5eG55SE5xTF9EeVJy?oc=5",
+            "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR1BHRjIteGNhM1hiX2pwczI3bWNFWWVmTnVXMHRlMnhWTFNLb2tFckVvaEhxV25KYTVaWG9ENVluby1JZ0ZjaUlwYkZqdllJRUJ2dk1OLThmTGlmVUlyQ2ExWkNFRmRYNklPMWxTd3Z3dkhhRWlkNVJOYWk2QkFVVkdlU3NnQWhuZF9Rd3FTN19TcWlNeDJVR3JZajFObVRoU0NkbmY4X0RZVXZwSmpLZ1ZSUkJsVUJhejlhTDlGYXgwYXl3b0JF0gHcAUFVX3lxTE0ycC1mNzQ2SDBJN2FBVG5ZcWYxejAwVC1ZWHdkSkxseDE1YkpYWGVpX2Z5Vk9rZk1rVlotNklXWmdISU9Xa2paSHZteGxPU0E4cF9EdmtUTDVFaW1nd1RNVHl3Rkp3YktkWGhSejBkRTJUcFFhT3BpZXp3MVpWZV8tWnN2eHlkNjl0T0dlSVZlckpDZlpFRHNvYXQxVjlDUTQzemk4S05tSzRFZXVlRmdTQlFzRWwyZHpFZG43V1JwSVdLdVRmQjZoQ2RnNlBUcHR3bXBCdFF1TXJGX3U?oc=5"
+          ]
+        },
+        {
+          "t": "Project Awards Surge in October",
+          "src": "TradingView · Oil & Gas Middle East",
+          "b": "Awarded Saudi projects triple in October. ASMO manages over 470 Aramco agreements.",
+          "i": "Awarded Saudi projects triple in October. ASMO manages over 470 Aramco agreements.",
+          "a": "Awarded Saudi projects triple in October. ASMO manages over 470 Aramco agreements.",
+          "links": [
+            "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnRnZy02eHpQNUo2dFA1STZncDVHTnEyU0w0a3lfcE1kZ2Z3OHVwZF9tYXl1ZE5FNFVDTWphWXVnTXI4Yks0WUtJZWFXUVAwZ2JCYlhJTENfV1BsYmlOcml1T2doS2tadTRhSVgycFdqR2xEaF9qSmR2TDlHNWZjMEhBaXpDUm1CWjRORno0amdKRmxERXhLSUdiRE43aXFHR252cXNHZU95eHNnUm12cDFrLXBrSUE?oc=5",
+            "https://news.google.com/rss/articles/CBMifkFVX3lxTE45RzdDSXY1dVg5ajdsV1Rsb2tFMmMwM0Z5N3BKNlJZRmdybVExWDFJOFJPSnpsRDhsUXF0dnRyR2FwVzVMQnJUaE5qdUJTakZLbUROenc3bWZZZzRmellEQk5HcjkxY0ZVcmhVN0l6RTZ2OGhBSE8xWkNxR1FoZw?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Pakistan demanded an immediate and unconditional halt to Houthi attacks on Saudi Arabia. The Prime Minister of Pakistan slammed the strike on the Aramco building.",
-        "i": "Pakistan issued a demand for an immediate, unconditional cessation of Houthi strikes against Saudi Arabia. The Pakistani Prime Minister formally condemned the assault on the Riyadh corporate facility.",
-        "a": "Diplomatic condemnation materialized from Islamabad as Pakistan demanded an immediate and unconditional cessation of Houthi targeting of Saudi territory. The Prime Minister explicitly denounced the strike on the Riyadh corporate asset."
+        "b": "The Riyadh Deputy Governor inspects an Aramco building after a Houthi attack. The UAE walked out of OPEC and asked Washington for a dollar lifeline.",
+        "i": "The Riyadh Deputy Governor inspects the Saudi Aramco building following a Houthi attack. The UAE withdrew from OPEC and sought a dollar lifeline from Washington.",
+        "a": "The Riyadh Deputy Governor inspects the Saudi Aramco facility following a Houthi strike. The UAE exited OPEC and approached Washington for financial backing."
       },
       "timeline": [
         [
-          "9 Nov",
-          "Yemeni Houthis targeted the financial district of Riyadh and the East-West pipeline."
-        ],
-        [
-          "10 Nov",
-          "Saudi officials inspected the damaged Aramco facilities in Riyadh."
+          "10 Nov 2026",
+          "OPEC oil output reaches 90% of pre-war levels according to reports."
         ]
       ]
     },
     "Nigeria": {
       "iso3": "NGA",
       "label": "Nigeria",
-      "sub": "Naira movements, stock market rebounds and central bank rules",
+      "sub": "Naira rates, climate funding, and bilateral trade platforms",
       "ind": [],
       "stories": [
         {
-          "t": "Naira Currency Rates and Dollar Trading Turnover",
-          "src": "Daily Post Nigeria · MarketForces Africa · Business News Nigeria",
-          "b": "The official currency of Nigeria is the naira. The naira dropped to N1,349 against the US dollar because people needed more foreign money for international payments. At bureau de change windows, the parallel market rate fell to N1,420 per US dollar. This created a gap of N69 between the official and parallel rates. Meanwhile, overall dollar trading volume plunged to $1.81bn after turnover declined by 51%.",
-          "i": "The naira weakened to N1,349 per US dollar across official FX markets driven by rising demand for foreign payments. Parallel market rates at bureau de change outlets dropped to N1,420 per US dollar, widening the rate gap to N69. Total dollar trading turnover across the market declined by 51% to settle at $1.81bn.",
-          "a": "Spot foreign exchange liquidity contracted severely as total dollar trading turnover plummeted 51% to $1.81bn. The official naira rate depreciated to N1,349 against the US dollar under weight of foreign payment demand. Parallel market dispersion widened the premium to N69 as bureau de change transactions cleared at N1,420 per US dollar.",
+          "t": "Naira Exchange Rates and Treasury Yields Shift",
+          "src": "Business Post Nigeria · MarketForces Africa · The Trumpet Newspaper Nigeria",
+          "b": "The naira traded at ₦1,346.51 officially and ₦1,430 per dollar on the parallel market on November 10, 2026. Seasonal forex demand pressure pushed the rate down to ₦1,349 per dollar earlier. Treasury bills yields dipped to 17.85% as naira assets rallied.",
+          "i": "The official naira exchange rate settled at ₦1,346.51, while the parallel market rate reached ₦1,430 on November 10, 2026. Seasonal forex demand pressure previously weakened the currency to ₦1,349. Meanwhile, Nigerian Treasury bills yields fell to 17.85% amid a broader rally in naira assets.",
+          "a": "Spot rates printed at ₦1,346.51 officially against ₦1,430 in parallel trading on November 10, 2026, following seasonal forex demand pressure that tested ₦1,349. Concurrently, Nigerian Treasury bills yields compressed to 17.85% on strong local asset demand. This yield trajectory reflects domestic liquidity conditions and shifting duration preference across short-term sovereign paper.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3pER0RQZWQ4Z291TDVpb3BGTlJ3X0psRjkzTUFyM0VDbHFScnp1bDcxR3A1akF5NTFmMzhrTXZDbThJQnVtUGpjSURWTWxRVDJ2LXA3aTR4SU8xWXZHRUh1Q3g0TzFHbVFtWVlFTFBZVFpkU3RDQ1pzbzBHcXZlZkh0YldJTjR4SFZ4UWVuT2RoeVlNbDRxdXk1SXo2REdlbk8zWTNJTjI5NGtrdkxaaEc3MnBpU1k?oc=5",
-            "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2MxRHpranZEMUFJbG02Vk9KRU1TMXN4emRSTGFxam9GQWZJSE5RU2xRQi0yYmpuOHhWVDlHNXFCcHA1LTBIRVYyMmNrcjRDd19zdFcwbzdkWnpPYWVvdjBCZEFWMDhhSUg5YjFIX3RrSURob2NqQ2FEVDMtdGlPcDNhSFc4SVBtNXVtZQ?oc=5",
-            "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2d2a1ctSDE2eUNEZnMzZjlYRnJkOWZTU3A1SWVLaUI0NDBmSzhvWE9PQnJseFd5TTBVdDJ4N3B2VURZWXBiczROM0Nabi1sRnRWeFZseXpudk9jSE9vUGVfN0J0T2k3cTVwbXhIb3BodFN0Tm5DcWp2QWhYOWg2SXJlNVlvMFhaaG9uVTJGWHVzeUJkdkRJRG4tUjVsdUF6U09XWnJ5MF9mcE0zVmRteQ?oc=5",
-            "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV1pkUlRzdzgwUkM1Zk0zM1RNb1lGWDBfOWtrXzhOYkIxRDdLaXlKZlVMRi1Hd0VobTV5T0lEdjhBVU1HMFgwVGUxVjhVbHVMbWFVMTloOV9BWVMxR25mU01KWXJid3BCV1U4cnFqa0VDMXl5U25XalRVTzFqWmZ4UVdFVGp3UmxSMFJyVFM3anRLay1BZ0gwWHExT2N3TXBWZDhRZTJLVGpWZVJzUEwyR2VIeGNwd0h0TE01SmxvcjFSZ01FbGljbnQwaktTY2xmN3dISDRnNzJZa2N2bWpJMzVTQzJYRGE5QVg3cUl0NHg3Q3laZUZzVXY5Wk9OSDJHYjdRRjJGZ2JkQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEFNWE54Q3dSN29rd1ctY0Y2NWEtNTdDU2JvT0JiV2VHZDhMR1NTM1VPTDBHNTg2ZnNZb0pDUlJfbXJrMVg3VlVrU0JSSVZhOEZRX2F5LXNoWWdwZU1ST2NSbk5QeWFzRDNfRGY1cHJyWmc5VnVFSGNuRmlaZHQzTnd4UXk5MGtOWjRlWGRTdG1NMlJxSEZ6aHA0MU1uWVIyaWhYVFE2Y0FfN2E2?oc=5"
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlFiVlZDbmh4bjgzUnBtMF8zUDZhM2FVS2t5VUhDRUF0MWt3XzAyRS1yMGZzYXptd3pFeGZqR2VJVVJyZHNmOXZrTE85emNvMnVVMWtTcTBrVXdIQ3RQczFibkF2eHdRczBXNWFueF9hQ2xEWXRvbjlnVURZUUFCSG1LeE9URjhpTERBZVJOcEQ?oc=5",
+            "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEF4dXRmOUZRcnVXRkJlcVBRaGpGcFc2Q2l3SjZaaUFWa1hWMkkwcXFVaGczTW0yQW15OHNSdHJpVE9sVXFzQzRmTVJ5WE5JQk5PNnVXZlN0LUE1TTQ3dlBSZ1VMZFgwRHNRZEx5aFNMNDIzeEx1dElNNXIzUThIdnhPcjFESmxOd3haRDVmdW1LV3hURjJj?oc=5",
+            "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRE9UTHU0YmlzV0lYRkw3ZEpQaGxZTjFndWVsYkZ4a2dLdzNKbTJXREVjUklfWF9oWFFTamZZa0lYeFp2ek9wQkJsS0MyYUVhX1BUSnZwZlVlcklqWGU3RGFiZHpscTBkbFZHMzFhRWJNaTF4dm5zMzRqd1U1REhSTEF3cUlrRlIwTjJSWXVrSlZVZGFUbFY4OFlOVWU0ODRNeGhuYU52eVZ0TzZJaFRyQ0gwWFFKclJib0hn?oc=5"
           ]
         },
         {
-          "t": "Stock Market Rebound and Central Bank Oversight",
-          "src": "Proshare · Mariblock · CNBC Africa",
-          "b": "The main stock market index, called the NGXASI, bounced back by 1.44%. Large companies like DANGCEM and OANDO drove this share price recovery. Meanwhile, the Central Bank of Nigeria moved to regulate peer-to-peer cryptocurrency exchanges and stablecoin issuers. Separately, financial analysts at SAMTL projected that consumer price <span class='term' data-t='inflation'>inflation</span> would ease to between 13% and 14% by early 2027.",
-          "i": "The NGXASI index rebounded 1.44% led by large-cap gains in DANGCEM and OANDO. The Central Bank of Nigeria initiated steps to regulate stablecoin issuers and peer-to-peer crypto exchanges. SAMTL analysts released a base case scenario seeing <span class='term' data-t='inflation'>inflation</span> land at 13% to 14% by early 2027.",
-          "a": "Equities recovered as the NGXASI bounced 1.44%, supported by large-cap rallies in DANGCEM and OANDO. Regulatory perimeter expansion by the Central Bank of Nigeria now encompasses stablecoin issuers and peer-to-peer venues. SAMTL's base case macroeconomic projections anticipate <span class='term' data-t='inflation'>inflation</span> moderating to 13% and 14% by early 2027.",
-          "gloss": "inflation",
+          "t": "New Bilateral Payment Platform and Climate Projects",
+          "src": "Arise News",
+          "b": "Stanbic IBTC launched a new platform for Naira and RMB payments on November 10, 2026, to speed up trade between Nigeria and China. Sterling Bank also pitched projects in Lagos and Ondo to global climate investors at the COP31 summit.",
+          "i": "Stanbic IBTC introduced a Naira-RMB payment platform on November 10, 2026, aimed at accelerating Nigeria-China trade flows. At the COP31 summit, Sterling Bank engaged global climate investors to fund infrastructure projects in Lagos and Ondo.",
+          "a": "Stanbic IBTC deployed a dedicated Naira-RMB settlement mechanism on November 10, 2026, to reduce transaction friction in bilateral trade with China. Simultaneously, Sterling Bank marketed urban and regional initiatives across Lagos and Ondo to institutional climate allocators at COP31.",
           "links": [
-            "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV1pkUlRzdzgwUkM1Zk0zM1RNb1lGWDBfOWtrXzhOYkIxRDdLaXlKZlVMRi1Hd0VobTV5T0lEdjhBVU1HMFgwVGUxVjhVbHVMbWFVMTloOV9BWVMxR25mU01KWXJid3BCV1U4cnFqa0VDMXl5U25XalRVTzFqWmZ4UVdFVGp3UmxSMFJyVFM3anRLay1BZ0gwWHExT2N3TXBWZDhRZTJLVGpWZVJzUEwyR2VIeGNwd0h0TE01SmxvcjFSZ01FbGljbnQwaktTY2xmN3dISDRnNzJZa2N2bWpJMzVTQzJYRGE5QVg3cUl0NHg3Q3laZUZzVXY5Wk9OSDJHYjdRRjJGZ2JkQQ?oc=5",
-            "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1l6ekl4d0F1Q0RHSGRWRFZFSHAzVzZZVjhnOGFJWVZxdU1wR1pmbkFqczVSWDBVbzdEZmJiaVIzcXlvRnFmeU5yNlpKTXBKRWluQ1VLbDFqZHB6WHZHcjlWdmVjeU9IMEhmYVlBd1pRX2c5bUZIdlhDOEFvMTMtXzNWallNTndvbmE3Z3NfOUh0UQ?oc=5",
-            "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ21ia3R5eGEyWHQtWXRaTF8wRVBJak42R2J2WktQREJMVUN2Rm4wYVNsdDRhX3hHYlk3ZE10NUlFMWpGS2N3VGZjTUJZVnYyUXhjd2YtdlZFaENxMGt6TGtWQ2pZZ0RfR2hDQUsyNGM4Y3BlZTc1YVd6TE5YcWt5TlhYOFZqY3NpS3FtU2dPbzhKTzlqVkVENXBJMHV6TmktTGt6dEJuX0xraENsSHVpSGVHTTRtcjktY1d0emtn?oc=5"
+            "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEpjcW1SUXZDUl9wZkJsWUJGTlVTUUtfd3ZiSXR2MzF3TURXU3hwNmNWQ2NCdS1wZ0Z1X0xCbUNYUXNndlhxSnF1UElGdkxuRXJpZ3Y1TW9wSy1IalRMWXpLUGQyZEpRdHlCU2hmN2pvWDlYU0M4Z3lfc1hnaFk1MjZ4TFhNQ0NXX1o4X2pSTC01dDFxODR0S3R4eG1YZkQ5MWc?oc=5",
+            "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR28zbkEtcVp6UHJGVUtVa2tZdnZhS0xvamc2VTh4YjIwTHRZS256WkpqSWV3TE9LX3F4bm5Uc21QcWNMQXp0Z1hyY3VtOTIxUXhnZlZiMXNKVEUyZW8yVXRnRjNkUDRfeHlkQXY5X2FkWFpvRnBZNE1BTE9DaFYtbEdaUHgtcW5ac2tSVHBaMTN2dWtUYXEyTmVjeWtfZWNUUHlPcl9CNA?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Critics criticized government statements regarding the currency. An anti-corruption agency arraigned a consulting firm executive for visa fraud. Meanwhile, young innovators won cash prizes at an awards ceremony.",
-        "i": "The MDPCO rebuked President Tinubu over official claims surrounding the currency. The EFCC arraigned Joanah Eyere Consulting executive for multimillion-naira visa fraud. Shelta SuperKids distributed million naira prizes to young innovators.",
-        "a": "Political friction intensified as the MDPCO criticized official narratives concerning currency stability. Enforcement actions continued as the EFCC arraigned a Joanah Eyere Consulting executive on multimillion-naira visa fraud charges. Shelta SuperKids awarded million naira prizes to young innovators."
+        "b": "Federal Capital Territory official Wike promised local councillors ₦10m each if they deliver their wards for President Tinubu. This instruction was reported on November 10, 2026.",
+        "i": "Federal Capital Territory Minister Wike offered councillors ₦10m each on November 10, 2026, conditional on delivering their respective wards for President Tinubu.",
+        "a": "Federal Capital Territory authority Wike tied a ₦10m per-councillor disbursement directly to ward-level electoral performance for President Tinubu in announcements tracked on November 10, 2026."
       },
       "timeline": [
         [
-          "9 Nov 2026",
-          "Shelta SuperKids ceremony awards million naira prizes to young innovators."
+          "10 Nov 2026",
+          "Stanbic IBTC launched a Naira-RMB payment platform for trade."
+        ],
+        [
+          "10 Nov 2026",
+          "Sterling Bank courted climate investors for Lagos and Ondo projects at COP31."
+        ],
+        [
+          "10 Nov 2026",
+          "Official naira exchange rate recorded at ₦1,346.51 while parallel market traded at ₦1,430."
         ]
       ]
     },
     "Australia": {
       "iso3": "AUS",
       "label": "Australia",
-      "sub": "Corporate updates and asset developments across Australian markets",
+      "sub": "Resource projects and retail activity updates",
       "ind": [],
       "stories": [
         {
-          "t": "HyTerra Exits Nebraska Joint Development Agreement",
+          "t": "Energy and Resource Updates Across Australian Markets",
           "src": "Kalkine",
-          "b": "HyTerra decided to exit its Nebraska joint development agreement. The company traded under the ticker ASX:HYT. This step shifts attention entirely toward its Kansas focus. The exit marks a change in strategy for the firm.",
-          "i": "HyTerra decided to exit its Nebraska joint development agreement. The company traded under the ticker ASX:HYT. This step shifts attention entirely toward its Kansas focus. The exit marks a change in strategy for the firm.",
-          "a": "HyTerra formally exited the Nebraska joint development agreement, altering its operational footprint. The listed entity, trading as ASX:HYT, concentrated capital allocation exclusively on the Kansas project pipeline. Discontinuing the Nebraska venture removes partner obligations from that asset.",
+          "b": "Cauldron Energy shapes its 2026 exploration agenda around Yanrey uranium resources. Boss Energy handles Honeymoon uranium output alongside a 2026 feasibility reset. Deep Yellow defers its Tumas decision while advancing 2026 project work. Alligator Energy pursues Samphire uranium resource growth and feasibility work. New Hope Corporation reports FY26 coal volume growth alongside lower earnings. Jade Gas Holdings advances Red Lake drilling for Mongolian gas development. Santos shapes 2026 production through Barossa and Pikka projects.",
+          "i": "Cauldron Energy shapes its 2026 exploration agenda around Yanrey uranium resources. Boss Energy handles Honeymoon uranium output alongside a 2026 feasibility reset. Deep Yellow defers its Tumas decision while advancing 2026 project work. Alligator Energy pursues Samphire uranium resource growth and feasibility work. New Hope Corporation reports FY26 coal volume growth alongside lower earnings. Jade Gas Holdings advances Red Lake drilling for Mongolian gas development. Santos shapes 2026 production through Barossa and Pikka projects.",
+          "a": "Cauldron Energy shapes its 2026 exploration agenda around Yanrey uranium resources. Boss Energy handles Honeymoon uranium output alongside a 2026 feasibility reset. Deep Yellow defers its Tumas decision while advancing 2026 project work. Alligator Energy pursues Samphire uranium resource growth and feasibility work. New Hope Corporation reports FY26 coal volume growth alongside lower earnings. Jade Gas Holdings advances Red Lake drilling for Mongolian gas development. Santos shapes 2026 production through Barossa and Pikka projects.",
           "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbWZRVk5SMWVGQTdudTJyUnBsZWhheHhGV3UzYnBibWhFeGY0WVZmNDRnMFc1SWljbW9ZcHZyNUJpMUpXRlFtLWZMaTRoOENYaVE0RkNNblg1Y1N2Y2dLVnFwYmFRUjVpaktkbGVKRDZYdV82YUZYa0RKdi0tZnFQRkhYVDNKcnRTZkoxYTBwcFcxUmpIcUVXWlB5LWpKU0FHaEV1ZUl2ZzRPRkZQaklIa2E5b2NnRUVDbXZORw?oc=5"
+            "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOW9CRDM0R3RWRTMtNk5lcndrTG5COG5sUlE3aWlYNG1Ha29Wc3ZpalJWNnRMUTVvcWFDek5CVFpONDlzUjh2WDBFbno2WFZiWGFkQmtuZFZaREFXUnhIUGJiMmlZQUl3WnVZTlJ3aG5OYlBLQnJheGlHbzJ4NnNseVFrNjNwR0wxdWZYTHNhM0hqTDJ5bmx6UHd2anlOeWdqc21sOGF6TzJsdm5nZDFSMUVsMHo5bU1fcmlxbw?oc=5",
+            "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDM3U2Jxb1lRck81VXlsTGRNdUZkNEFmN0VWQk1WWnI5bVhaSTFqOWExcGZnakkwOUhkY1J2Ny03cnVtNFhLd1NRcENQSmpXTGlGR0tMZmgzb3BiOFhDZU84X3VwOWlPOTBfcEFScFMwaVlwcjJSQ2hwU3JoZ1NRaGhScGgtcVh0ZlVoS2lSNEwzTzQ3OU9wbTNIb0dZTWp0X29nMU5NVjlQd0U?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmFmWHE1Uk90bFNWZlBsT3dqaEZXbmRkRG9XU0I0bEZ2YzExa3pHU3ZJdGhCQWFnaWRFYWRrN2l1MjBCYVhsU29ydjdmLWZMNHhsYTl3OWxUZDh4NW4zSFBmU3JxbDU4c1hUNGY1b2JPcGFjVXBfM0YyZi1ZWU9YY08wemVvWmJpOFZ4a18xcTM0bmYxQ0VvOWV0TlNId3VQVTN5eEF1RVNnUnd6a3c?oc=5"
           ]
         },
         {
-          "t": "Syntara Halts Recruitment for SNT-9465 Trial",
+          "t": "Equities Move Lower Amid Corporate Updates",
           "src": "Kalkine",
-          "b": "Syntara paused patient recruitment in its clinical study. The study tests the treatment named SNT-9465. The trial investigates skin scarring. The company is listed with the stock code ASX:SNT.",
-          "i": "Syntara paused patient recruitment in its clinical study. The study tests the treatment named SNT-9465. The trial investigates skin scarring. The company is listed with the stock code ASX:SNT.",
-          "a": "Syntara halted participant recruitment within the SNT-9465 skin scarring trial. The protocol evaluation for the ASX:SNT-listed firm paused incoming patient streams. Clinical development milestones for the compound face delays.",
+          "b": "Life360 trades lower today. Nuix sees its share price slide. NextEd Group trades lower. Global Health trades lower.",
+          "i": "Life360 trades lower today. Nuix sees its share price slide. NextEd Group trades lower. Global Health trades lower.",
+          "a": "Life360 trades lower today. Nuix sees its share price slide. NextEd Group trades lower. Global Health trades lower.",
           "links": [
-            "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVZveklnNzN4NkhYQ2V6dnlseTlXVk9wWGpwUTJCS2s3SzVHNGhuTTF2b2Rud2RmR1l2bk1hWFdtV3k0TXBTeGxrdTU1U2NjdHVqcHBPNGEtSTQycmJFemJDY2w4b2xIN04yemJIZmxGaVBQak9Namx0ODJGaDJyOFhSUEYxVkQxSTFTRl9aODZRTTBiX1BTRlFpWl8wNHRBTE9yTzU0eWRaZHBLd1JSWkVjR3ptZw?oc=5"
-          ]
-        },
-        {
-          "t": "Astron Secures Five-Year Offtake Agreement for Donald Project",
-          "src": "Kalkine",
-          "b": "Astron signed a five-year sales agreement. The contract supports its Donald project. The company trades under the ticker ASX:ATR. This deal sets commercial terms for a period of five years.",
-          "i": "Astron signed a five-year sales agreement. The contract supports its Donald project. The company trades under the ticker ASX:ATR. This deal sets commercial terms for a period of five years.",
-          "a": "Astron secured a five-year offtake commitment for the Donald project assets. The ASX:ATR-listed entity locked in multi-year purchase terms for mineral output. Revenue visibility for the development phase increases through the binding contract.",
-          "links": [
-            "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWllX0gwVk1ndS16dFRwNjlVQldWUE5RSHdqSmhUcExCOG9lVXNNaHR2a193Unc4bjdKQ29yRFBRTlpiZzZlYVZNVzhNTGRIdzN4S1EwYnlWZ2sxbGxWcGd1aW5IM)}$.oc=5"
+            "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzlyMmhuNW9wZ2h4M1ZkWFF0eEV4RlBzVGpBOHJpNndKeDE0Z2Q1bDdEa0ZUTHdGT1Q3LURCWXZ1ak5LcXJoaExaSG5VanpuemFsenl1TkYxVXNGQVFmd3NJR1FWV0hoV2RwQ1JkUUhGSkJiX3YxYWZteUp3MDNwQkJaaHJ5SGZXNzI1MVdEUDRkZnlDWHl3STN3?oc=5",
+            "https://news.google.com/rss/articles/CBMingFBVV95cUxNVS1ER0hZMmVFU3ZzOWk0UlVBMmxucVFhUHBHbERwMUJPaW9oUWNtZkNYTndlb2xHYS1tRkt3d1BHWWNfMTVCQllqWFBiNXNtUm9PR0czNzhyU2t4bUpTVVBRZFJKMnBIVUY3TjJkaGluaDR0elY1ckk0c1lpQUlKc09TZ2JrdV9wM3B4U3c4RG8wREQ4Z3Rsd1lCdDR6UQ?oc=5",
+            "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR1NQck04ckowelVWdmxqVVBNTnhpaEhWT1MtVWlxZ3Nfc2xma2NfbUxCWUR6LUtSNUY2YTdZUHAzYlpUb1RYWGt0dFgySmpZYVc5TVJaUXFScHd2NlpWbUw1RzNTbDJMRFh6cWE5MTB5VHJ1RkNiZjU4QzYzUk94Z0draTViQVhIZHB4cVJEYXI?oc=5"
           ]
         }
       ],
       "politics": {
-        "b": "Commercial updates dominated Australian market reports. Companies reported on trial pauses, project exits, and sales agreements. Shares traded under standard ASX listings. No government policy updates appeared in the releases.",
-        "i": "Market updates focused entirely on corporate asset transactions and clinical trial disclosures. ASX-listed entities released operational milestones without governmental policy interventions. Regulatory approvals remained confined to corporate schemes.",
-        "a": "Corporate disclosures drove the market flow without fiscal or regulatory policy commentary. ASX entities reported asset restructuring, patient recruitment holds, and long-term offtake pacts. Public sector policy measures went unmentioned."
+        "b": "The Australian economy prepares for a major boost as Black Friday looms.",
+        "i": "The Australian economy prepares for a major boost as Black Friday looms.",
+        "a": "The Australian economy prepares for a major boost as Black Friday looms."
       },
       "timeline": [
         [
           "10 Nov 2026",
-          "HyTerra exited its Nebraska joint development agreement to focus on Kansas."
-        ],
-        [
-          "10 Nov 2026",
-          "Syntara paused patient recruitment for the SNT-9465 skin scarring study."
-        ],
-        [
-          "10 Nov 2026",
-          "Astron secured a five-year offtake deal for the Donald project."
+          "Cauldron Energy releases its 2026 exploration agenda for Yanrey uranium resources."
         ]
       ]
     }
