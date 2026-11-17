@@ -1,239 +1,707 @@
 {
-  "generated": "2026-11-16T20:27:32.956Z",
+  "generated": "2026-11-17T03:49:23.467Z",
   "questions": [
+    {
+      "lvl": "b",
+      "tag": "United States of America · Equities",
+      "q": "What caused the Nasdaq index to fall by 2.5%?",
+      "o": [
+        "Traders sold artificial intelligence equities and capital rotated out of the sector.",
+        "The Federal Reserve unexpectedly raised baseline interest rates by 0.75 points.",
+        "Super Micro Computer announced a sudden and total bankruptcy filing.",
+        "Chris Perruna ordered a complete liquidation of all technology shares."
+      ],
+      "a": 0,
+      "e": "The Nasdaq fell 2.5% because participants sold artificial intelligence equities, causing capital to rotate out of the sector. A central bank rate hike or a bankruptcy filing is not mentioned in the source texts as the cause of this drop."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Equities",
+      "q": "How did Tom Lee describe the state of the artificial intelligence trade following recent market movements?",
+      "o": [
+        "He reported no underlying weaknesses and maintained that the trade remains intact.",
+        "He stated that the sector faces permanent collapse due to vanishing hardware demand.",
+        "He argued that valuation multiples will inevitably shrink to zero over the next quarter.",
+        "He claimed that profitability concerns have completely eliminated all tech investments."
+      ],
+      "a": 0,
+      "e": "Tom Lee reported no underlying weaknesses and maintained that the artificial intelligence trade remains intact despite a 12% drawdown in the Nasdaq. He did not predict a permanent collapse or vanishing demand."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Equities",
+      "q": "Why did the FTSE 100 index close lower during the session?",
+      "o": [
+        "It tracked a broader regional divergence as European markets split at the bell.",
+        "The Bank of England announced an emergency suspension of all equity trading in London.",
+        "A massive cyber attack shut down the primary exchange infrastructure.",
+        "The government imposed a sudden tax on all benchmark index constituents."
+      ],
+      "a": 0,
+      "e": "The FTSE 100 closed lower because it tracked a broader regional divergence as European markets split at the bell. Emergency trading suspensions or government taxes are absent from the text."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Technology",
+      "q": "Which sector served as the primary drag causing the DAX to close 0.57% lower on Monday?",
+      "o": [
+        "Technology stocks",
+        "Commercial real estate",
+        "Automotive manufacturing",
+        "State-owned banking"
+      ],
+      "a": 0,
+      "e": "Technology stocks served as the primary drag driving the DAX 0.57% lower to close at 26,598.64 on Monday. The text does not implicate commercial real estate or automotive manufacturing in this specific drop."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Central Banking",
+      "q": "What did the Deutsche Bundesbank and the Monetary Authority of Singapore test together?",
+      "o": [
+        "A cross-border foreign exchange settlement trial using wholesale central bank digital currencies",
+        "A joint physical gold delivery mechanism between Frankfurt and Singapore",
+        "A shared retail banking platform for cross-border consumer loans",
+        "A unified monetary policy interest rate target for the euro and the Singapore dollar"
+      ],
+      "a": 0,
+      "e": "The Bundesbank and the Monetary Authority of Singapore finalized a cross-border settlement trial utilizing wholesale central bank digital currencies to clear foreign exchange transactions. They did not test physical gold delivery or a shared retail lending platform."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Equities",
+      "q": "Why did the Nikkei 225 tumble over 900 points intraday?",
+      "o": [
+        "Semiconductor shares slumped as investors positioned defensively ahead of Nvidia earnings.",
+        "The Bank of Japan abolished all private equity ownership nationwide.",
+        "Watami's chairman cancelled the management buyout offer entirely.",
+        "Foreign investors withdrew every single yen from domestic bank accounts."
+      ],
+      "a": 0,
+      "e": "The Nikkei 225 tumbled because semiconductor shares slumped and investors positioned defensively ahead of Nvidia earnings. The text does not mention the abolition of private equity or nationwide bank withdrawals."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Currencies",
+      "q": "What caused the Japanese yen to gather strength and appreciate?",
+      "o": [
+        "Growing market sensitivity around official currency intervention thresholds",
+        "An immediate decree by the Bank of Japan to peg the currency to gold",
+        "The complete elimination of United States retail sales data releases",
+        "A massive surge in domestic crude oil production within Tokyo"
+      ],
+      "a": 0,
+      "e": "The Japanese yen appreciated, reviving market sensitivity around official intervention thresholds. A gold peg or domestic crude oil surges are entirely absent from the provided source material."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Corporate",
+      "q": "What transaction did Watami's chairman table during a period of market volatility?",
+      "o": [
+        "A management buyout proposal valued at 32 billion yen to take the firm private",
+        "A hostile takeover bid for the entire semiconductor manufacturing sector",
+        "A plan to issue 32 billion yen in sovereign fixed-income bonds",
+        "A hostile acquisition of the Deutsche Bundesbank's digital currency platform"
+      ],
+      "a": 0,
+      "e": "Watami's chairman tabled a 32-billion-yen management buyout proposal to take the firm private. He did not attempt to acquire a central bank digital currency platform or the semiconductor sector."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Monetary Policy",
+      "q": "Why did the People's Bank of China strengthen its daily currency fixing prior to the APEC gathering?",
+      "o": [
+        "To keep the yuan steady against a firm dollar and counter dollar strength",
+        "To force overseas investors to sell all of their local-currency sovereign debt",
+        "To eliminate inflation completely across the mainland economy",
+        "To align the yuan directly with the Nigerian naira spot valuation"
+      ],
+      "a": 0,
+      "e": "The People's Bank of China strengthened its daily currency fixing to keep the yuan steady and counter dollar strength prior to APEC. It did not attempt to eliminate inflation or link its currency to the naira."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Technology",
+      "q": "What impact did United States regulatory tightening on semiconductor exports have on China?",
+      "o": [
+        "It constrained mainland access to advanced artificial intelligence hardware and caused regional equities to decline.",
+        "It forced Alibaba and Tencent to increase their model pricing by 88%.",
+        "It completely halted all cross-border foreign exchange settlements with Singapore.",
+        "It triggered an immediate 21% rebound in the Nifty IT index."
+      ],
+      "a": 0,
+      "e": "United States regulatory tightening on semiconductor exports constrained mainland access to advanced hardware, causing regional equities to retreat. It did not force software price hikes or halt Singapore settlements."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Currencies",
+      "q": "What drove the Indian rupee to appreciate by twenty paise against the dollar?",
+      "o": [
+        "Lower crude prices and robust equity inflows alongside carry trade adjustments",
+        "An emergency interest rate hike executed by the People's Bank of China",
+        "The complete cessation of all seasonal US dollar demand in Nigeria",
+        "A successful missile interception over the Aramco Tower in Riyadh"
+      ],
+      "a": 0,
+      "e": "The Indian rupee appreciated due to lower crude prices, robust equity inflows, and carry trade adjustments. Saudi missile interceptions and Nigerian seasonal dollar demand have no link to the Indian currency."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Technology",
+      "q": "What performance did the Nifty IT index register over a four-month horizon?",
+      "o": [
+        "A 21% advance that sparked debate over whether it is a trend reversal or a technical bounce",
+        "A total collapse of 900 points bringing valuations to bear market thresholds",
+        "A 58% reduction in single-task execution costs across all software platforms",
+        "A 12% drawdown matching the decline seen in the American Nasdaq"
+      ],
+      "a": 0,
+      "e": "The Nifty IT index advanced 21% over four months, sparking debate over whether it constitutes a durable trend reversal or a transient technical bounce. It did not suffer a 900-point collapse or a 12% drawdown."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Equities",
+      "q": "Why did Petrobras equity close 5.67% lower on November 16?",
+      "o": [
+        "Shifting asset evaluations and multiple corporate updates, including a denied acquisition stake rumor",
+        "An official government mandate to shut down all diesel subsidy mechanisms forever",
+        "A sudden 32-billion-yen management buyout launched by its chairman",
+        "A massive outflow of foreign reserves totaling $391 million over 16 days"
+      ],
+      "a": 0,
+      "e": "Petrobras equity closed lower following shifting asset evaluations, corporate updates, and management denials regarding a Bumerangue stake acquisition. The $391 million reserve contraction belongs to Nigeria, not Brazil."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Macroeconomics",
+      "q": "Why did Brazilian forecasters mark up their terminal rate assumptions and 2027 inflation expectations?",
+      "o": [
+        "Incoming domestic activity data prompted analysts to adjust their medium-term price pressure assumptions.",
+        "Dangote deployed ₦3.3 trillion into road upgrade projects across the country.",
+        "OPEC+ reduced its aggregate output to zero during the October meeting.",
+        "The Deutsche Bundesbank lowered the euro exchange rate to parity with the yen."
+      ],
+      "a": 0,
+      "e": "Brazilian forecasters adjusted their metrics in response to incoming domestic activity data indicating shifting medium-term price pressures. Dangote's road projects and OPEC output cuts are entirely unrelated developments."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Commodities",
+      "q": "What drove the notable rebound in OPEC+ aggregate output in October?",
+      "o": [
+        "Saudi Arabia spearheaded a supply recovery across the group.",
+        "Nigeria abandoned its six-month target streak to flood the market with crude.",
+        "The United States lifted all semiconductor export restrictions on mainland China.",
+        "Petrobras completed its acquisition of a stake in Bumerangue."
+      ],
+      "a": 0,
+      "e": "OPEC+ aggregate output posted a rebound in October driven primarily by Saudi Arabia spearheading the supply recovery. Nigeria actually maintained operational discipline by sustaining its target streak."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Macroeconomics",
+      "q": "What did National Bureau of Statistics data show regarding Nigerian headline inflation for October?",
+      "o": [
+        "Inflation compressed to a range of 14.05% through 14.06% ahead of the monetary policy meeting.",
+        "Inflation surged to an unprecedented ₦1,357 per US dollar across all markets.",
+        "Inflation climbed to 21% over a four-month horizon following a technology rebound.",
+        "Inflation dropped to zero as a direct result of Dangote's road infrastructure spending."
+      ],
+      "a": 0,
+      "e": "Headline inflation compressed to 14.05% through 14.06% for October ahead of the monetary policy committee deliberation. The exchange rate figure of ₦1,357 refers to spot valuations for the naira, not inflation."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Infrastructure",
+      "q": "How did Dangote intervene in national transit networks across Nigeria?",
+      "o": [
+        "By committing ₦3.3 trillion in capital allocation toward road infrastructure upgrades to remediate transport bottlenecks",
+        "By issuing wholesale central bank digital currencies to clear foreign exchange transactions",
+        "By launching a management buyout offer valued at 32 billion yen",
+        "By purchasing the largest volume of sovereign fixed-income bonds since May"
+      ],
+      "a": 0,
+      "e": "Dangote committed ₦3.3 trillion in capital allocation toward national road infrastructure upgrades to remediate arterial transport bottlenecks. He did not issue digital currencies or launch yen-denominated buyouts."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Commodities",
+      "q": "Why did Fortescue equities trade under pressure with prices falling below estimated fair value thresholds?",
+      "o": [
+        "Deteriorating iron ore market dynamics and bearish sentiment compressed producer margins.",
+        "The People's Bank of China strengthened its daily currency fixing ahead of APEC.",
+        "The Saudi-led coalition intercepted incoming missiles directed at Riyadh.",
+        "Analyst Tom Lee reported no underlying weaknesses in the American artificial intelligence trade."
+      ],
+      "a": 0,
+      "e": "Fortescue shares absorbed selling pressure as bearish sentiment intensified across iron ore markets, compressing producer margins. PBOC currency fixings and Riyadh missile interceptions do not drive Australian iron ore extractors."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Equities",
+      "q": "Why did the Nasdaq index fall by 2.5% during the trading session?",
+      "o": [
+        "Participants rotated capital out of artificial intelligence equities.",
+        "Tom Lee announced unexpected underlying weaknesses in the technology trade.",
+        "The Federal Reserve unexpectedly raised baseline interest rates by 0.75 points.",
+        "New regulatory restrictions banned foreign entities from holding US tech stocks."
+      ],
+      "a": 0,
+      "e": "The Nasdaq fell 2.5% as capital rotated out of artificial intelligence equities, dragging the S&P 500 down with it. Tom Lee actually maintained that the AI trade remains intact despite the drawdown."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Technology",
+      "q": "What drove the DAX index 0.57% lower to close at 26,598.64 on Monday?",
+      "o": [
+        "Technology constituents served as the primary drag on the session.",
+        "The Deutsche Bundesbank abruptly tightened wholesale central bank digital currencies.",
+        "Cross-border foreign exchange settlement failures disrupted the euro.",
+        "New export restrictions on semiconductor chips halted automotive manufacturing."
+      ],
+      "a": 0,
+      "e": "Technology stocks drove the downward pressure on the DAX, causing the index to close 0.57% lower at 26,598.64. The Bundesbank test involving wholesale central bank digital currencies was a separate settlement trial."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Currencies",
+      "q": "Why did the Japanese yen gather strength and push the AUD/JPY cross into the lower 107 range?",
+      "o": [
+        "Rising market sensitivity around official intervention thresholds and rate hike expectations.",
+        "A massive influx of foreign reserves from the Bank of England.",
+        "The complete unwinding of all corporate buyouts in the Tokyo market.",
+        "A sharp surge in domestic crude oil prices across retail sectors."
+      ],
+      "a": 0,
+      "e": "The yen appreciated as market sensitivity around official intervention thresholds revived, combined with expectations for Bank of Japan rate hikes and an artificial intelligence stock slump. The AUD/JPY pair retreated into the lower 107 range as a result."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Fixed income",
+      "q": "Why did non-resident capital inflows into Chinese local-currency sovereign debt reach their highest level since May?",
+      "o": [
+        "A distinct safe-haven bid for domestic fixed income prompted overseas investors to buy bonds.",
+        "The People's Bank of China lowered its benchmark interest rate to zero.",
+        "Alibaba and Tencent launched new artificial intelligence models with lower task costs.",
+        "The APEC gathering mandated foreign institutional investments in local sovereign debt."
+      ],
+      "a": 0,
+      "e": "Non-resident capital inflows into local-currency sovereign debt surged to their highest level since May due to a distinct safe-haven bid for domestic fixed income. The PBOC strengthened its fixing to counter dollar strength, but the bond buying itself reflected haven demand."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Currencies",
+      "q": "What primarily drove the Indian rupee to open twenty paise higher at 93.73 against the dollar?",
+      "o": [
+        "Lower crude prices and robust equity inflows.",
+        "A massive government program to build road infrastructure across domestic transit networks.",
+        "Regulatory restrictions imposed by the United States on semiconductor chip exports.",
+        "Persistent deflation across regional consumer price indices."
+      ],
+      "a": 0,
+      "e": "The rupee appreciated by twenty paise to open at 93.73 against the dollar, driven by lower crude prices and robust equity inflows. Offshore participants unwound legacy positions against the dollar while currency desks noted carry trade adjustments."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Monetary policy",
+      "q": "Why did Brazilian economists lift their terminal rate assumptions and 2027 <span class='term' data-t='inflation'>inflation</span> expectations?",
+      "o": [
+        "Incoming domestic activity data signaled changing consensus regarding medium-term price pressures.",
+        "Petrobras collected roughly 1.9 billion reais from a diesel subsidy program.",
+        "Management confirmed a binding agreement to purchase a stake in Bumerangue.",
+        "International crude oil markets suffered an abrupt structural collapse."
+      ],
+      "a": 0,
+      "e": "Forecasters in Brazil marked up their terminal rate assumptions and 2027 inflation expectations in response to incoming domestic activity data. Higher expected price growth prompted analysts to adjust their monetary policy trajectory."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Macroeconomics",
+      "q": "Why did headline <span class='term' data-t='inflation'>inflation</span> compress to between 14.05% and 14.06% for October in Nigeria?",
+      "o": [
+        "The National Bureau of Statistics reported price normalization just ahead of the monetary policy committee deliberation.",
+        "Dangote deployed ₦3.3 trillion into road upgrade projects.",
+        "Foreign exchange reserves expanded by $391 million over a 16-day window.",
+        "Seasonal US dollar demand pushed down exchange rates in parallel markets."
+      ],
+      "a": 0,
+      "e": "National Bureau of Statistics data showed headline inflation compressed to 14.05% through 14.06% for October ahead of the monetary policy committee deliberation. Official reserve assets simultaneously dropped due to foreign exchange absorption rather than driving the rate itself."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Commodities",
+      "q": "Why did Fortescue equities trade under pressure and spot prices contract?",
+      "o": [
+        "Deteriorating iron ore market dynamics compressed producer margins.",
+        "The ASX absorbed domestic commodity expansion driven by surging crude oil prices.",
+        "Major miners acted as a secondary index support amid rising raw material valuations.",
+        "Offshore demand shocks completely bypassed domestic bulk extractors."
+      ],
+      "a": 0,
+      "e": "Fortescue shares absorbed sustained selling pressure as bearish sentiment intensified across iron ore markets. Valuation models faced downward revisions as spot price contraction compressed producer margins amid prevailing sectoral headwinds."
+    },
+    {
+      "lvl": "i",
+      "tag": "United States of America · Technology",
+      "q": "What counterbalanced persistent profitability concerns at Super Micro Computer?",
+      "o": [
+        "Robust artificial intelligence hardware demand.",
+        "A 12% expansion in the Nasdaq index.",
+        "Gene Munster's announcement that Apple's multiple expansion path had halted.",
+        "Direct capital injections from the Federal Reserve."
+      ],
+      "a": 0,
+      "e": "Super Micro Computer continued to battle persistent profitability concerns despite robust artificial intelligence demand. Tom Lee maintained that the broader AI trade remains intact despite the tech drawdown."
+    },
+    {
+      "lvl": "i",
+      "tag": "China · Technology",
+      "q": "How did Alibaba and Tencent disrupt the regional technology market with their new model releases?",
+      "o": [
+        "They undercut competitor pricing by 88% while slashing single-task execution costs by 58%.",
+        "They acquired the exclusive rights to distribute advanced United States semiconductor hardware.",
+        "They increased export restrictions on artificial intelligence chips for mainland China.",
+        "They raised single-task execution fees to match rival rates across Asia."
+      ],
+      "a": 0,
+      "e": "Alibaba deployed Qwen4-Max alongside Tencent's Hy4 Flash, undercutting competitor pricing by 88% while slashing single-task execution costs by 58%. This occurred while broader Asian equity markets retreated following US regulatory tightening."
+    },
+    {
+      "lvl": "i",
+      "tag": "Saudi Arabia · Energy",
+      "q": "What drove the October rebound in aggregate OPEC+ output?",
+      "o": [
+        "Saudi Arabia spearheaded the supply recovery across the group.",
+        "Nigeria abandoned its six-month OPEC target streak to flood global markets.",
+        "Missiles and drones targeted the Aramco Tower in Riyadh.",
+        "Incoming kinetic intercept debris disrupted regional oil extraction."
+      ],
+      "a": 0,
+      "e": "OPEC+ aggregate output posted a notable rebound in October, driven primarily by Saudi Arabia spearheading the supply recovery. Meanwhile, Nigeria maintained operational discipline by sustaining its six-month target streak."
+    },
+    {
+      "lvl": "i",
+      "tag": "Japan · Corporate finance",
+      "q": "Why did Watami's chairman launch a 32-billion-yen management buyout proposal?",
+      "o": [
+        "Corporate leadership attempted to take the firm private through this transaction.",
+        "The Bank of Japan raised benchmark interest rates to combat index declines.",
+        "Semiconductor shares slumped and pushed the Nikkei 225 toward bear market thresholds.",
+        "Foreign exchange interventions forced retail investors to liquidate equity holdings."
+      ],
+      "a": 0,
+      "e": "Watami's chairman tabled a 32-billion-yen management buyout proposal as a corporate take-private initiative within the Japanese equity space. Pricing and terms are evaluated against macro-driven index declines."
+    },
+    {
+      "lvl": "i",
+      "tag": "Nigeria · Infrastructure",
+      "q": "What was the primary objective of Dangote committing ₦3.3 trillion in capital allocation toward road upgrades?",
+      "o": [
+        "To remediate arterial transport bottlenecks across the country.",
+        "To counter seasonal foreign exchange outflows in official and parallel liquidity windows.",
+        "To absorb headline <span class='term' data-t='inflation'>inflation</span> prints ahead of the monetary policy meeting.",
+        "To replenish official foreign reserve assets contracted over a 16-day window."
+      ],
+      "a": 0,
+      "e": "Dangote committed ₦3.3 trillion in capital allocation toward national road infrastructure upgrades to remediate arterial transport bottlenecks across the country. Private balance sheet financing of this scale directly addresses federal capital expenditure constraints."
+    },
+    {
+      "lvl": "i",
+      "tag": "Brazil · Corporate",
+      "q": "Why did Petrobras equity close 5.67% lower on November 16?",
+      "o": [
+        "Shifting asset evaluations and multiple corporate updates weighed on the stock.",
+        "The firm distributed roughly 1.9 billion reais to a diesel subsidy program instead of collecting it.",
+        "Executives signed a binding agreement regarding the targeted acquisition of a Bumerangue stake.",
+        "The Selic rate was unexpectedly slashed by the central bank."
+      ],
+      "a": 0,
+      "e": "Petrobras equity closed 5.67% lower on November 16 following multiple corporate updates. The firm actually collected approximately 1.9 billion reais tied to a diesel subsidy mechanism and denied any binding agreement exists for Bumerangue."
+    },
+    {
+      "lvl": "i",
+      "tag": "Australia · Mining",
+      "q": "Why did major ASX mining stocks act as the primary index drag?",
+      "o": [
+        "Softening underlying raw material spot prices created dual headwinds alongside US technology weakness.",
+        "Fortescue shares traded above estimated fair value thresholds amid bullish sentiment.",
+        "Iron ore market dynamics improved and expanded producer margins.",
+        "Domestic commodity contraction was offset by surging offshore demand."
+      ],
+      "a": 0,
+      "e": "Major miners acted as the primary index drag amid softening underlying raw material spot prices. The ASX retraced sharply, pressured by dual headwinds from US technology equity weakness and domestic commodity contraction."
+    },
+    {
+      "lvl": "i",
+      "tag": "Germany · Central banking",
+      "q": "What specific mechanism was tested by the Deutsche Bundesbank and the Monetary Authority of Singapore?",
+      "o": [
+        "Wholesale central bank digital currencies to clear cross-border foreign exchange transactions between the euro and the Singapore dollar.",
+        "A cross-border <span class='term' data-t='gilt'>settlement</span> trial linking domestic stock indices directly to the DAX.",
+        "Automated interest rate adjustments to counter technology sector drag on European equities.",
+        "Physical gold deliveries to clear bilateral trade imbalances between Germany and Singapore."
+      ],
+      "a": 0,
+      "e": "The Deutsche Bundesbank and the Monetary Authority of Singapore finalized a cross-border settlement trial utilizing wholesale central bank digital currencies to clear foreign exchange transactions between the euro and the Singapore dollar."
+    },
+    {
+      "lvl": "i",
+      "tag": "United Kingdom · Equities",
+      "q": "How did the FTSE 100 perform at the bell alongside European markets?",
+      "o": [
+        "It closed lower, reflecting divergent regional sentiment across major indices.",
+        "It maintained intraday parity by tracking the broader European rally.",
+        "It surged higher as technology stocks drove regional buying pressure.",
+        "It ignored regional sentiment divergence and decoupled from European price action."
+      ],
+      "a": 0,
+      "e": "The FTSE 100 closed lower alongside a fractured European close. Price action in London reflected divergent regional sentiment across major indices, and the benchmark failed to hold intraday parity."
+    },
+    {
+      "lvl": "i",
+      "tag": "India · Technology",
+      "q": "What fueled the debate among analysts regarding the 21% advance in the Nifty IT index over four months?",
+      "o": [
+        "Disagreement over whether the move constitutes a durable trend reversal or a transient technical bounce.",
+        "An unexpected removal of all international semiconductor export controls by the United States.",
+        "A complete cessation of carry trade adjustments on currency desks.",
+        "A permanent drop in crude oil prices to zero."
+      ],
+      "a": 0,
+      "e": "The Nifty IT index advanced 21% over a four-month horizon, sparking debate over whether the move constitutes a durable trend reversal or a transient technical bounce. Sector valuations remained sensitive to international semiconductor export controls imposed by the United States."
+    },
     {
       "lvl": "a",
       "tag": "United States of America · Equities",
-      "q": "What second-order transmission channel linked the Commerce Department's chip access rules to the S&P 500's 2% decline?",
+      "q": "How did the 12% drawdown in the Nasdaq impact analysts' views on the artificial intelligence trade according to Tom Lee?",
       "o": [
-        "Growth multiple compression via falling yields compounded the equity sell-off triggered by Nvidia-led liquidations.",
-        "Direct profit margin contraction across retail lenders offset the gains in large-cap semiconductor holdings.",
-        "Arbitrage models forced passive index funds to liquidate defensive utility holdings to maintain sector neutrality.",
-        "Foreign exchange hedging by overseas institutional investors drained dollar liquidity from broader equity books."
+        "Tom Lee reported no underlying weaknesses in the trade, maintaining that it remains intact.",
+        "Tom Lee called for an immediate exit from artificial intelligence hardware producers.",
+        "Tom Lee argued that valuation multiples must contract permanently to match Apple.",
+        "Tom Lee revised his 2027 forecasts downward to reflect systemic profitability failures."
       ],
       "a": 0,
-      "e": "The text explicitly notes that falling yields accompanied the equity declines and compounded the sell-off as growth multiples compressed. The most tempting wrong answer involves margin contraction, which is not mentioned in the sources."
+      "e": "Tom Lee maintained that the artificial intelligence trade remains intact despite the 12% drawdown in the Nasdaq, reporting no underlying weaknesses. The alternative choices misstate his assessment by projecting forced exits or multiple contractions not present in the source text."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Commodities",
-      "q": "What assumption regarding supply dynamics underlies the retreat of US crude futures to $85 a barrel?",
+      "tag": "Germany · Central Banking",
+      "q": "What specific technological mechanism was utilized by the Deutsche Bundesbank and the Monetary Authority of Singapore in their recent cross-border test?",
       "o": [
-        "Fourth-quarter surplus projections and recovering Middle East export volumes accelerated downward momentum.",
-        "Strategic Petroleum Reserve releases permanently altered baseline commercial inventory expectations.",
-        "Refinery maintenance schedules in the Gulf Coast created an absolute ceiling for physical prompt deliveries.",
-        "Freight rate volatility eliminated export parity arbitrage for North American producers."
+        "Wholesale central bank digital currencies were used to clear foreign exchange transactions between the euro and the Singapore dollar.",
+        "A decentralized private cryptocurrency network cleared bilateral trade debt without central bank intermediation.",
+        "Cross-border <span class='term' data-t='gilt'>settlement</span> relied entirely on commercial tokenized bank deposits pegged to the US dollar.",
+        "Legacy RTGS systems processed the foreign exchange transactions using automated overnight liquidity swaps."
       ],
       "a": 0,
-      "e": "Fourth-quarter surplus forecasts and recovering Middle East exports drove the oil sell-off and accelerated downward momentum. The other options introduce unmentioned structural factors about reserves or freight rates."
+      "e": "The Bundesbank and the Monetary Authority of Singapore utilized wholesale central bank digital currencies to finalize the cross-border settlement trial clearing transactions between the euro and the Singapore dollar. Private or legacy options contradict the specific wholesale central bank digital currency mechanism noted in the text."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Public Finance",
-      "q": "What structural distortion is implied by ECU's analysis of Great Britain's legacy renewable subsidy mechanisms?",
+      "tag": "Japan · Currencies",
+      "q": "Which combined factors drove the AUD/JPY cross into the lower 107 range?",
       "o": [
-        "Legacy support contracts expose consumers to severe levy burdens as approximately one-third of wind and solar farms capture high market pricing.",
-        "Guaranteed feed-in tariffs insulate renewable operators entirely from wholesale market clearing prices, creating chronic overproduction.",
-        "Fixed capital expenditure grants force developers to bid negative wholesale prices during peak generation intervals.",
-        "Tax-funded subsidies eliminate the incentive for independent generators to participate in ancillary balancing services."
+        "The artificial intelligence stock slump and expectations for Bank of Japan rate hikes.",
+        "A sudden surge in United States retail sales and immediate Federal Reserve rate cuts.",
+        "Direct intervention by the Ministry of Finance selling yen against the Australian dollar.",
+        "Persistent deflation across Japanese semiconductor manufacturing sectors."
       ],
       "a": 0,
-      "e": "The ECU analysis shows that roughly a third of wind and solar farms reliant on legacy contracts benefit from soaring market pricing, creating distortionary effects on consumer bills funded through levies and taxation. The other options misstate the nature of the contracts."
+      "e": "The AUD/JPY cross retreated into the lower 107 range under the combined weight of the artificial intelligence stock slump and expectations for Bank of Japan rate hikes. The other options introduce unmentioned macroeconomic drivers or incorrect central bank policy directions."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Banking",
-      "q": "What market failure do the UK government's statutory interventions in physical retail banking seek to address?",
+      "tag": "China · Fixed Income",
+      "q": "Why did non-resident capital inflows into local-currency sovereign debt reach their highest level since May?",
       "o": [
-        "Financial exclusion risks inherent in the digital transition for segments reliant on physical infrastructure.",
-        "Systemic contagion risks originating from uninsured deposit flight in regional building societies.",
-        "Interbank clearing delays caused by the decommissioning of legacy mainframe ledger systems.",
-        "Concentration risk resulting from excessive merger activity among tier-one retail institutions."
+        "Overseas investors sought a safe-haven bid as the People's Bank of China countered dollar strength with a stronger daily fixing ahead of APEC.",
+        "The People's Bank of China eliminated all foreign exchange controls on capital account transactions.",
+        "Global index providers forcibly rebalanced benchmark weights away from western sovereign debt.",
+        "Chinese banks offered guaranteed double-digit yields funded by aggressive quantitative easing."
       ],
       "a": 0,
-      "e": "The regulatory mandates address financial exclusion risks inherent in the digital transition by preventing the complete removal of in-person services. Systemic contagion and clearing delays are not mentioned in the source."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Banking",
-      "q": "How do proportional supervisory frameworks for less significant credit institutions aim to stabilize the euro area?",
-      "o": [
-        "They adapt supervisory transmission channels to localized asset quality deteriorations without imposing disproportionate compliance burdens.",
-        "They enforce mandatory capital surcharges on all institutions falling outside the primary systemic footprint.",
-        "They centralize all commercial loan underwriting decisions directly under the European Central Bank's executive board.",
-        "They mandate the immediate consolidation of smaller banks into systemic cross-border banking unions."
-      ],
-      "a": 0,
-      "e": "Frank Elderson noted that supervisory transmission channels must adapt to localized asset quality deteriorations without imposing disproportionate compliance burdens. The alternative options incorrectly assume mandatory consolidation or capital surcharges."
-    },
-    {
-      "lvl": "a",
-      "tag": "Germany · Financial Stability",
-      "q": "What feedback loop did Boris Vujcic identify as a potential threat to euro area banking capital adequacy under adverse macro scenarios?",
-      "o": [
-        "Asset repricing dynamics within capital markets testing banking sector capital buffers.",
-        "Interbank lending freezes caused by sovereign debt exposure mismatches.",
-        "Wholesale funding cost spikes driven by commercial real estate default cascades.",
-        "Currency devaluation spirals eroding foreign-denominated tier-one capital reserves."
-      ],
-      "a": 0,
-      "e": "Vujcic evaluated macroprudential buffers and potential feedback loops within capital markets, noting asset repricing dynamics could test banking capital adequacy. The other options refer to specific risks not cited in the source."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Equities",
-      "q": "What structural driver underpinned the Nikkei index breaching 60,000 to the downside alongside Advantest's 11.12% drop?",
-      "o": [
-        "Wider pressures transmitting across global artificial intelligence supply chains during the Tokyo semiconductor rout.",
-        "A surprise monetary tightening cycle initiated by the central bank to curb domestic asset bubbles.",
-        "Regulatory forced liquidations of cross-shareholding blocks held by domestic commercial lenders.",
-        "A sharp appreciation of the local currency destroying the export competitiveness of heavy manufacturers."
-      ],
-      "a": 0,
-      "e": "The regional correction mirrored wider pressures across global artificial intelligence supply chains during the semiconductor rout. Monetary tightening and forced cross-shareholding liquidations are not mentioned."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Trade",
-      "q": "How do the European Union's new protective tariffs on steel imports alter the operating environment for regional producers?",
-      "o": [
-        "They alter import cost structures for regional steel producers originating from a targeted group of five countries.",
-        "They establish absolute volume quotas that restrict aggregate foreign shipments to pre-pandemic baselines.",
-        "They introduce mandatory carbon border adjustments based on scope-one emissions intensity.",
-        "They provide direct production subsidies to offset domestic energy input cost differentials."
-      ],
-      "a": 0,
-      "e": "The measures institute protective tariffs on steel imports from Japan, India, Taiwan, Turkey, and Vietnam, altering import cost structures for regional producers. The other choices invent carbon adjustments or production subsidies."
-    },
-    {
-      "lvl": "a",
-      "tag": "Japan · Foreign Exchange",
-      "q": "What positioning dynamic accompanied the Japanese yen's appreciation amid heightened vigilance regarding official intervention?",
-      "o": [
-        "Market participants increased long positions as safe-haven demand intensified across currency desks.",
-        "Hedge funds aggressively built short volatility positions ahead of expected central bank rate hikes.",
-        "Commercial exporters dumped foreign currency receipts to avoid projected repatriation penalties.",
-        "Retail margin accounts engaged in high-leverage carry trades funded by low-yielding European debt."
-      ],
-      "a": 0,
-      "e": "The yen appreciated as safe-haven demand intensified and market participants increased long positions amid vigilance over intervention or rate checks. The other options misrepresent the positioning or funding currencies."
-    },
-    {
-      "lvl": "a",
-      "tag": "China · Credit",
-      "q": "What macroeconomic signal accompanied Huafa's debt distress and the resurgence of credit risk in China's property sector?",
-      "o": [
-        "Aggregate economic activity softened as both factory output and household spending decelerated under subdued domestic demand.",
-        "Fixed asset investment collapsed due to international trade restrictions imposed by the Commerce Department.",
-        "Commercial bank non-performing loan ratios spiked past statutory limits following mortgage boycotts.",
-        "Local government financing vehicle debt defaults forced a sharp contraction in infrastructure spending."
-      ],
-      "a": 0,
-      "e": "Aggregate economic activity softened as factory output and household spending decelerated alongside subdued domestic demand. The other choices reference specific metrics like NPL spikes or LGFV defaults not found in the text."
+      "e": "Non-resident capital inflows into local-currency sovereign debt reached their highest level since May as overseas investors responded to a distinct safe-haven bid while the PBOC countered dollar strength with its fixing ahead of APEC. The other options rely on structural regulatory changes or monetary policies not mentioned in the text."
     },
     {
       "lvl": "a",
       "tag": "China · Technology",
-      "q": "Which institutional bodies formulated the export restrictions targeting China's remote access to advanced microprocessors?",
+      "q": "What direct market pricing pressure resulted from Alibaba and Tencent releasing the Qwen4-Max and Hy4 Flash models?",
       "o": [
-        "The Commerce Department, the Treasury Department, and the National Security Council following scrutiny over Howard Lutnick.",
-        "The Federal Reserve, the Office of the United States Trade Representative, and the Department of Energy.",
-        "The Securities and Exchange Commission, the Department of Justice, and the National Economic Council.",
-        "The Department of Defense, the International Trade Commission, and the Department of State."
+        "The new models undercut competitor pricing by 88% while slashing single-task execution costs by 58%.",
+        "Domestic software providers raised subscription fees to offset higher semiconductor import tariffs.",
+        "Cloud computing margins expanded as enterprise clients accepted premium pricing for localized AI models.",
+        "Foreign competitors matched the price cuts instantly to protect their mainland market share."
       ],
       "a": 0,
-      "e": "The Commerce Department, Treasury Department, and National Security Council drafted the policy following criticism directed at Commerce Secretary Howard Lutnick. The other agencies listed are incorrect."
+      "e": "Alibaba deployed Qwen4-Max alongside Tencent's Hy4 Flash, undercutting competitor pricing by 88% while slashing single-task execution costs by 58%. The incorrect options suggest pricing power expansions or retaliatory foreign actions unsupported by the briefing."
     },
     {
       "lvl": "a",
-      "tag": "India · Monetary Policy",
-      "q": "What operational objective did the Reserve Bank of India pursue by simultaneously scheduling a dated securities auction and a variable rate reverse repo?",
+      "tag": "India · Currencies",
+      "q": "What drove the opening appreciation of the Indian rupee by twenty paise to 93.73 against the dollar?",
       "o": [
-        "It drained 50,000 crore rupees of systemic liquidity under the liquidity adjustment facility while managing 33,000 crore rupees in dated securities.",
-        "It injected emergency liquidity to offset foreign portfolio outflows driven by rising international crude prices.",
-        "It altered the benchmark policy rate to signal tightening to corporate borrowers ahead of mandatory listings.",
-        "It sterilized foreign exchange intervention reserves accumulated through heavy foreign fund inflows."
+        "Lower crude prices and robust equity inflows, alongside offshore participants unwinding legacy positions.",
+        "An emergency rate hike by the Reserve Bank of India targeting imported <span class='term' data-t='inflation'>inflation</span>.",
+        "Complete elimination of corporate foreign exchange hedging requirements by the central bank.",
+        "A sharp contraction in domestic import demand driven by severe energy shortages."
       ],
       "a": 0,
-      "e": "The central bank deployed a two-day variable rate reverse repo auction to drain 50,000 crore rupees of systemic liquidity alongside the auction of 33,000 crore rupees in dated securities. The other options invent interventions or rate signals not present in the sources."
+      "e": "The rupee appreciated due to lower crude prices, robust equity inflows, and offshore participants unwinding legacy positions against the dollar. The incorrect choices fabricate policy interventions or trade deficits not found in the source text."
     },
     {
       "lvl": "a",
-      "tag": "India · Equities",
-      "q": "What underlying market catalysts lifted the Sensex by 512 points alongside the record valuation of the National Stock Exchange?",
+      "tag": "Brazil · Macroeconomics",
+      "q": "How did local forecasters in Brazil adjust their projections for 2027 in response to incoming domestic activity data?",
       "o": [
-        "Foreign fund inflows and lower crude oil prices boosted market sentiment.",
-        "Aggressive domestic institutional buying driven by mandatory pension fund asset allocation rules.",
-        "A coordinated interest rate cut by the central bank to stimulate manufacturing output.",
-        "Tax exemptions granted to foreign portfolio investors participating in primary market issuances."
+        "They marked up their terminal rate assumptions and 2027 <span class='term' data-t='inflation'>inflation</span> expectations.",
+        "They lowered benchmark interest rates to stimulate credit growth across industrial sectors.",
+        "They projected a multi-year period of systemic <span class='term' data-t='deflation'>deflation</span> driven by currency appreciation.",
+        "They maintained constant monetary policy targets despite shifting fiscal deficits."
       ],
       "a": 0,
-      "e": "Foreign fund inflows and lower crude oil prices drove the Sensex up by 512 points and boosted sentiment. Pension allocation rules or central bank rate cuts are not mentioned in the source material."
+      "e": "Forecasters in Brazil marked up their terminal rate assumptions and 2027 <span class='term' data-t='inflation'>inflation</span> expectations in response to incoming domestic activity data. Lowering rates or forecasting deflation contradicts the upward revision described in the briefing."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Equities",
-      "q": "What confluence of macro pressures drove the Ibovespa index down by nearly 2% during the session?",
+      "tag": "Nigeria · Monetary Policy",
+      "q": "What macroeconomic conditions preceded the monetary policy committee deliberation in Nigeria regarding headline price prints?",
       "o": [
-        "Inflation expectations and fiscal concerns collided with falling iron ore prices and broad-based seller pressure.",
-        "An unexpected interest rate hike by the central bank to defend the real against stablecoin capital flights.",
-        "Massive liquidations in agricultural commodity futures following downward revisions to export quotas.",
-        " Sovereign credit rating downgrades triggered by capital controls imposed on fintech enterprises."
+        "Headline <span class='term' data-t='inflation'>inflation</span> compressed to 14.05% through 14.06% for October while official reserve assets dropped by $391 million.",
+        "Foreign exchange reserves expanded rapidly as seasonal agricultural exports peaked.",
+        "The naira achieved parity with the US dollar following aggressive central bank sterilization.",
+        "Commercial banks reported zero non-performing loans due to government infrastructure guarantees."
       ],
       "a": 0,
-      "e": "The Ibovespa slumped as inflation expectations and fiscal concerns collided with falling iron ore prices across multiple timeframes. The alternative options invent rate hikes, credit downgrades, or agricultural export quota revisions."
+      "e": "Headline <span class='term' data-t='inflation'>inflation</span> compressed to 14.05% through 14.06% for October while official reserve assets dropped by $391 million across 16 days ahead of the committee meeting. The other answers describe favorable reserve growth or exchange rate parities that directly contradict the text."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Regulation",
-      "q": "What foreign exchange reaction followed the implementation of new regulatory frameworks across Brazil's fintech and crypto markets?",
+      "tag": "Australia · Commodities",
+      "q": "Why did major Australian miners act as the primary index drag on the ASX during the session?",
       "o": [
-        "The USD/BRL spot rate climbed approximately 1.5% alongside EUR/BRL gains exceeding 1% as stablecoin curbs took effect.",
-        "The Brazilian real appreciated sharply as capital repatriation mandates forced domestic entities to liquidate offshore holdings.",
-        "The central bank exhausted foreign reserves defending a hard currency peg against speculative short selling.",
-        "Cross-border payment volumes collapsed, causing the real to decouple entirely from global commodity benchmarks."
+        "Dual headwinds from US technology equity weakness and domestic commodity contraction compressed raw material spot prices.",
+        "Strict environmental caps forced domestic mining conglomerates to halt iron ore extraction entirely.",
+        "The Reserve Bank of Australia imposed a punitive windfall tax on bulk commodity exports.",
+        "A complete blockade of shipping lanes in the Coral Sea halted all seaborne trade."
       ],
       "a": 0,
-      "e": "The US dollar appreciated roughly 1.5% and the euro advanced over 1% against the real as stablecoin curbs took effect and new regulations tightened oversight. The other options describe unmentioned peg defences or repatriation mandates."
+      "e": "Major miners acted as the primary index drag due to dual headwinds from US tech weakness and domestic commodity contraction, driven by softening raw material spot prices. The alternative answers invent regulatory bans, taxes, or blockades not mentioned in the source."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Commodities",
-      "q": "What supply-side dynamics characterized OPEC+ output in October according to the production data?",
+      "tag": "United States of America · Equities",
+      "q": "What structural indicator accompanied the 2.5% decline in the Nasdaq index during the broader tech sell-off?",
       "o": [
-        "Aggregate output posted a notable rebound driven primarily by Saudi Arabia spearheading recovery, alongside Nigeria sustaining its target streak.",
-        "Voluntary production cuts by Gulf producers completely offset surging non-OPEC shale output across North America.",
-        "Force majeure declarations in Red Sea shipping lanes restricted total export volumes despite quota increases.",
-        "Disruptions in Eastern Province processing facilities forced member nations to draw down commercial inventories."
+        "Market breadth deteriorated as the tech index printed 670 new lows.",
+        "High-frequency trading algorithms shut down trading across all primary exchanges.",
+        "Institutional investors executed massive block purchases of defensive utility equities.",
+        "Short interest ratios dropped to historic multi-decade lows across index constituents."
       ],
       "a": 0,
-      "e": "OPEC+ aggregate output posted a rebound in October as Saudi Arabia drove the supply recovery, while Nigeria sustained its six-month target streak. Shale output and force majeure declarations are outside the source facts."
+      "e": "Market breadth deteriorated further as the tech index printed 670 new lows during the session when the Nasdaq fell by 2.5%. The other choices introduce market actions that contradict the widespread selling and deteriorating breadth."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Inflation",
-      "q": "What divergence characterized the National Bureau of Statistics' October inflation report for Nigeria?",
+      "tag": "Germany · Equities",
+      "q": "What was the primary driver of the DAX closing 0.57% lower at 26,598.64 on Monday?",
       "o": [
-        "Headline inflation touched a six-year low at 14.06%, while high-frequency monthly momentum accelerated due to persistent food pressures.",
-        "Core inflation collapsed to zero while wholesale price pressures surged past historical medians.",
-        "Annual headline figures rose sharply, but high-frequency monthly prints showed pronounced deflation.",
-        "Urban inflation rates diverged completely from rural price indices due to currency devaluations."
+        "Technology constituents served as the primary drag on the session.",
+        "Unanticipated interest rate hikes by the European Central Bank rattled industrial exporters.",
+        "A sudden disruption in cross-border <span class='term' data-t='gilt'>settlement</span> systems froze banking liquidity.",
+        "Massive corporate bankruptcies within the German automotive manufacturing sector."
       ],
       "a": 0,
-      "e": "Headline inflation registered at 14.06% down from 14.63%, marking a six-year low, though monthly momentum diverged as food pressures persisted. The other options mention deflation, core collapses, or rural divides not in the text."
+      "e": "Technology constituents served as the primary drag on the session, causing the DAX to drift 0.57% lower. The alternative answers falsely attribute the index decline to ECB rate actions, banking freezes, or car manufacturer defaults."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Retail",
-      "q": "What risk management steps did Coles take following its disclosure of a targeted cyber-attack?",
+      "tag": "Japan · Corporate Finance",
+      "q": "How are investors evaluating Watami's 32-billion-yen management buyout proposal?",
       "o": [
-        "Management advised precautionary password updates while confirming no customer, team, or supplier data was compromised.",
-        "The retailer suspended all online point-of-sale transactions and froze automated supply chain replenishment systems.",
-        "Management drew down revolving credit facilities to fund anticipated regulatory data breach penalties.",
-        "The company issued a profit warning reflecting estimated losses from business interruption insurance deductibles."
+        "Investors are evaluating pricing and terms against a backdrop of macro-driven index declines.",
+        "Shareholders are demanding a hostile counter-offer from foreign private equity firms.",
+        "The Tokyo Stock Exchange has suspended the transaction due to insider trading investigations.",
+        "Bondholders are threatening default proceedings over unapproved capital allocation shifts."
       ],
       "a": 0,
-      "e": "Coles stated no data was compromised and advised precautionary password updates while initial assessments continued. Halting online sales or issuing profit warnings are not supported by the sources."
+      "e": "Investors are evaluating pricing and terms against a backdrop of macro-driven index declines in Tokyo. The other options imply active regulatory suspensions, hostile bids, or bondholder litigation not present in the text."
+    },
+    {
+      "lvl": "a",
+      "tag": "China · Regulation",
+      "q": "How did United States regulatory tightening on semiconductor exports impact regional Asian equity markets?",
+      "o": [
+        "Equities retreated as the export restrictions constrained mainland access to advanced artificial intelligence hardware.",
+        "Regional supply chains decoupled entirely from western technology standards within twenty-four hours.",
+        "Domestic chipmakers surpassed US production yields to offset the supply shock.",
+        "Semiconductor valuations surged as domestic firms captured monopoly pricing power."
+      ],
+      "a": 0,
+      "e": "Broader Asian equity markets retreated following US regulatory tightening on semiconductor exports constraining mainland access to advanced artificial intelligence hardware. The incorrect options assume instantaneous decoupling, yield dominance, or monopoly surges."
+    },
+    {
+      "lvl": "a",
+      "tag": "India · Technology",
+      "q": "What characterized the performance of the Nifty IT index over the four-month horizon prior to the current valuation debate?",
+      "o": [
+        "The index advanced 21%, sparking debate over whether the move constitutes a durable trend reversal or a transient technical bounce.",
+        "The index suffered a complete collapse following the liquidation of all venture-backed tech startups.",
+        "Trading volumes dried up entirely as institutional investors awaited domestic monetary easing.",
+        "Sector earnings grew by precisely 50% year-on-year, validating aggressive multiple expansion."
+      ],
+      "a": 0,
+      "e": "The Nifty IT index advanced 21% over a four-month horizon, sparking debate over whether the move constitutes a durable trend reversal or a transient technical bounce. The alternative choices invent market liquidations, volume freezes, or precise earnings multiples."
+    },
+    {
+      "lvl": "a",
+      "tag": "Brazil · Energy",
+      "q": "What corporate update did Petrobras provide regarding its financial position and asset evaluations on November 16?",
+      "o": [
+        "The firm collected approximately 1.9 billion reais tied to a diesel subsidy mechanism and denied any binding agreement regarding Bumerangue.",
+        "Petrobras announced an immediate write-down of all offshore drilling assets due to falling crude prices.",
+        "Management signed a binding contract to acquire a controlling stake in Bumerangue using state subsidies.",
+        "The energy producer defaulted on its foreign-denominated debt obligations following the stock drop."
+      ],
+      "a": 0,
+      "e": "Petrobras collected approximately 1.9 billion reais tied to a diesel subsidy mechanism and executives denied any binding agreement exists regarding the targeted acquisition of a Bumerangue stake. The other options falsely claim debt defaults, immediate asset write-downs, or completed acquisitions."
+    },
+    {
+      "lvl": "a",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "What physical impact resulted from the Saudi-led coalition intercepting inbound missiles and drones targeting Riyadh and the Eastern Province?",
+      "o": [
+        "Resulting kinetic intercept debris impacted the Aramco Tower in Riyadh, causing physical damage.",
+        "Critical oil refining operations in the Eastern Province were halted for three weeks.",
+        "All commercial air traffic across the kingdom was grounded indefinitely by aviation authorities.",
+        "The main pipeline infrastructure suffered catastrophic structural explosions."
+      ],
+      "a": 0,
+      "e": "Resulting kinetic intercept debris impacted the Aramco Tower in Riyadh, causing physical damage. The incorrect choices describe widespread refining halts, indefinite aviation groundings, or pipeline explosions not found in the briefing."
+    },
+    {
+      "lvl": "a",
+      "tag": "Nigeria · Infrastructure",
+      "q": "How does Dangote's capital allocation of ₦3.3 trillion interact with broader macroeconomic conditions in Nigeria?",
+      "o": [
+        "Private balance sheet financing of this scale directly addresses federal capital expenditure constraints by upgrading national road infrastructure.",
+        "The project is entirely funded by emergency loans issued by the central bank's foreign exchange reserves.",
+        "The capital expenditure program replaces private corporate bond issuance across all commercial sectors.",
+        "Foreign direct investment inflows collapsed because private infrastructure spending crowded out sovereign debt."
+      ],
+      "a": 0,
+      "e": "Dangote committed ₦3.3 trillion in capital allocation toward national road infrastructure upgrades, directly addressing federal capital expenditure constraints. The incorrect answers falsely claim central bank loan funding, commercial bond replacement, or collapsing foreign investment."
+    },
+    {
+      "lvl": "a",
+      "tag": "Australia · Mining",
+      "q": "Why did Fortescue equities trade under pressure as iron ore market dynamics deteriorated?",
+      "o": [
+        "Valuation models faced downward revisions as spot price contraction compressed producer margins.",
+        "Fortescue was ejected from the benchmark ASX index following repeated compliance failures.",
+        "The company announced an immediate cessation of all dividend distributions to fund overseas acquisitions.",
+        "Aggressive labor strikes paralyzed all bulk commodity extraction facilities across Western Australia."
+      ],
+      "a": 0,
+      "e": "Fortescue shares absorbed sustained selling pressure as valuation models faced downward revisions from spot price contraction compressing producer margins. The alternative options involve index ejections, dividend halts, or labor strikes not supported by the sources."
     }
   ]
 }
