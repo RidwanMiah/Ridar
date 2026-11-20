@@ -1,473 +1,707 @@
 {
-  "generated": "2026-11-19T21:30:51.025Z",
+  "generated": "2026-11-20T03:09:00.225Z",
   "questions": [
     {
+      "lvl": "b",
+      "tag": "United States of America · Equity markets",
+      "q": "What happened to the Nasdaq index when Anthropic completed its public market debut?",
+      "o": [
+        "The Nasdaq index retreated by 2.3% as technology stocks gave back earlier gains.",
+        "The Nasdaq index rose by 2.3% due to high excitement over the new listing.",
+        "The Nasdaq index remained completely unchanged because the debut was fully priced in.",
+        "The Nasdaq index surged by 4% driven by heavy buying in the financial sector."
+      ],
+      "a": 0,
+      "e": "The Nasdaq fell 2.3% as tech shares surrendered prior gains despite the high-profile listing. A major public offering failed to insulate the broader sector from profit-taking."
+    },
+    {
+      "lvl": "b",
+      "tag": "United States of America · Equity valuations",
+      "q": "How did Netflix shares trade ahead of their January guidance?",
+      "o": [
+        "Netflix shares traded at half their historical multiple.",
+        "Netflix shares traded at double their historical multiple.",
+        "Netflix shares traded exactly at their long-term historical average.",
+        "Netflix shares were temporarily suspended from trading."
+      ],
+      "a": 0,
+      "e": "Netflix equity traded at fifty percent of its historical multiple as investors awaited January guidance. This valuation compression highlights shifting risk appetites."
+    },
+    {
+      "lvl": "b",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "How did the British currency perform against the Australian dollar?",
+      "o": [
+        "The British currency held steady against the Australian dollar.",
+        "The British currency dropped sharply by 5% against the Australian dollar.",
+        "The British currency appreciated to a 52-week high against the Australian dollar.",
+        "Trading between the two currencies was halted due to extreme volatility."
+      ],
+      "a": 0,
+      "e": "The British currency held steady against the Australian dollar while foreign exchange markets processed new inflation figures and employment data."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Index movements",
+      "q": "What happened to the DAX 40 index during the trading session?",
+      "o": [
+        "The DAX 40 index dropped 1.06% to finish at 25,463.81.",
+        "The DAX 40 index rose 1.06% to reach new record highs.",
+        "The DAX 40 index closed flat with zero percentage change.",
+        "The DAX 40 index rallied after a surprise interest rate cut."
+      ],
+      "a": 0,
+      "e": "The DAX 40 index dropped 1.06% to finish at 25,463.81, pressured by geopolitical overhangs and late US market weakness."
+    },
+    {
+      "lvl": "b",
+      "tag": "Germany · Corporate restructuring",
+      "q": "Which company is the German economy ministry holding discussions with regarding job cuts?",
+      "o": [
+        "Ford",
+        "Evonik",
+        "Volkswagen",
+        "Aramco"
+      ],
+      "a": 0,
+      "e": "The German economy ministry opened discussions with Ford to address planned job cuts announced by the company, involving state oversight."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Equity markets",
+      "q": "What caused the Nikkei average index to drop by over 2,800 points?",
+      "o": [
+        "Spillover from a United States artificial intelligence stock sell-off drove the losses.",
+        "A sudden emergency interest rate hike by the Bank of Japan triggered the drop.",
+        "A massive earthquake forced the temporary closure of the Tokyo Stock Exchange.",
+        "New domestic export tariffs crushed the profits of major manufacturing firms."
+      ],
+      "a": 0,
+      "e": "The Nikkei index shed over 2,800 points to breach 57,000 as equity markets in Tokyo absorbed contagion from United States artificial intelligence valuations."
+    },
+    {
+      "lvl": "b",
+      "tag": "Japan · Price reports",
+      "q": "What happened to inflation in Japan in October?",
+      "o": [
+        "Inflation gained pace, strengthening the case for a central bank rate hike.",
+        "Inflation fell sharply into negative territory, prompting fears of a severe slump.",
+        "Inflation remained completely unchanged from the previous month.",
+        "Inflation data was suppressed due to a government reporting error."
+      ],
+      "a": 0,
+      "e": "Japan reported that inflation gained pace in October, which strengthened the case for a Bank of Japan rate hike and strengthened the Japanese yen."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Debt markets",
+      "q": "What milestone did the BRICS New Development Bank reach in domestic debt markets?",
+      "o": [
+        "Cumulative issuance of panda bonds crossed the 100 billion yuan threshold.",
+        "The bank defaulted on its first batch of sovereign debt securities.",
+        "Foreign investors bought 100 billion dollars worth of offshore bonds.",
+        "The bank ceased all domestic debt issuance to restructure its balance sheet."
+      ],
+      "a": 0,
+      "e": "The BRICS New Development Bank expanded its funding footprint as cumulative issuance of panda bonds crossed the 100 billion yuan threshold."
+    },
+    {
+      "lvl": "b",
+      "tag": "China · Real estate",
+      "q": "How much did CSC Smart Land and Mao Yuan pay for the Tuofangying residential plots in Beijing?",
+      "o": [
+        "9.2 billion yuan",
+        "100 billion yuan",
+        "500 million yuan",
+        "2.6 billion yuan"
+      ],
+      "a": 0,
+      "e": "CSC Smart Land and Mao Yuan secured the Tuofangying residential plots for 9.2 billion yuan, introducing severe cost pressure on rival developers."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Futures and markets",
+      "q": "How much did GIFT Nifty futures plunge on November 20, 2026?",
+      "o": [
+        "Over 200 points",
+        "Exactly 50 points",
+        "500 points",
+        "1,000 points"
+      ],
+      "a": 0,
+      "e": "GIFT Nifty futures plunged over 200 points on November 20, 2026, signaling a sharp gap-down opening for the Sensex and Nifty following an overnight Nasdaq drop."
+    },
+    {
+      "lvl": "b",
+      "tag": "India · Currency and assets",
+      "q": "Why did the Indian rupee strengthen on November 20, 2026?",
+      "o": [
+        "Global risk jitters prompted capital inflows into domestic assets.",
+        "The central bank executed a massive forced devaluation of foreign currencies.",
+        "Exports surged to record highs following a sudden trade agreement.",
+        "Domestic interest rates were slashed to zero by financial regulators."
+      ],
+      "a": 0,
+      "e": "The Indian rupee strengthened as global risk jitters prompted safe-haven capital inflows into domestic instruments amid international risk aversion."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Fiscal policy",
+      "q": "What happened to the Ibovespa index as lawmakers advanced a fiscal package to the lower house?",
+      "o": [
+        "The index initially gained 0.24% before dropping 0.74% to close at 166,302 points.",
+        "The index surged by 5% and maintained those gains for the entire session.",
+        "The index plummeted by 10% due to an immediate rejection of the package.",
+        "The index was halted for the rest of the week due to extreme volume."
+      ],
+      "a": 0,
+      "e": "The Ibovespa index gained 0.24% as lawmakers advanced a fiscal package to the lower house, but persistent inflation worries caused it to drop 0.74% to close at 166,302 points."
+    },
+    {
+      "lvl": "b",
+      "tag": "Brazil · Corporate governance",
+      "q": "What issue did a Petrobras board nominee chosen by Bolsonaro face from their past?",
+      "o": [
+        "A 2016 penalty for insider trading",
+        "A major conviction for corporate tax evasion",
+        "A public reprimand for environmental safety violations",
+        "An expulsion from the national banking association"
+      ],
+      "a": 0,
+      "e": "A Petrobras board nominee chosen by Bolsonaro faced a 2016 penalty for insider trading, which returned to focus as options markets priced in elevated volatility."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Geopolitics",
+      "q": "Which building in Riyadh was struck by a suspected Houthi missile?",
+      "o": [
+        "The Public Investment Fund Tower",
+        "The Saudi Central Bank Headquarters",
+        "The Aramco Main Oil Refinery Complex",
+        "The Riyadh Stock Exchange Building"
+      ],
+      "a": 0,
+      "e": "A suspected Houthi missile struck the Public Investment Fund Tower in Riyadh, damaging the tallest skyscraper in the city which houses the $900 billion state fund."
+    },
+    {
+      "lvl": "b",
+      "tag": "Saudi Arabia · Corporate updates",
+      "q": "How much annual value did Saudi Aramco generate through artificial intelligence applications?",
+      "o": [
+        "$2.6 billion",
+        "$900 billion",
+        "$23.50",
+        "$502.88 million"
+      ],
+      "a": 0,
+      "e": "Saudi Aramco generated $2.6 billion in annual value through artificial intelligence applications while expanding its data center operations and warning of oil refining underinvestment."
+    },
+    {
+      "lvl": "b",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "To what level did the Nigerian naira slide against the US dollar in official trading?",
+      "o": [
+        "N1,440",
+        "N1,000",
+        "N1,376",
+        "N2,000"
+      ],
+      "a": 0,
+      "e": "The naira slid to N1,440 against the dollar in official trading as a broader US dollar surge pressured multiple African currencies from earlier levels around N1,376."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Equity markets",
+      "q": "How did local Australian technology shares react to Anthropic securing significant backing?",
+      "o": [
+        "They experienced a sharp sell-off, with SCX.ai Holdings dropping 11.77%.",
+        "They surged to record highs as domestic firms partnered directly with Anthropic.",
+        "They experienced zero impact because Australian tech is entirely insulated from US markets.",
+        "They rallied strongly as local investors rejected American artificial intelligence platforms."
+      ],
+      "a": 0,
+      "e": "The Australian stock market declined as local technology shares experienced a sharp sell-off, leaving domestic firms out of similar partnerships and causing SCX.ai Holdings to drop 11.77%."
+    },
+    {
+      "lvl": "b",
+      "tag": "Australia · Resource exploration",
+      "q": "Which resource exploration company declined by 13.33% on the Australian exchange?",
+      "o": [
+        "Black Rock Mining",
+        "US1 Critical Minerals",
+        "Nexus Minerals",
+        "SCX.ai Holdings"
+      ],
+      "a": 0,
+      "e": "Black Rock Mining declined 13.33% alongside details regarding its Mahenge funding structure, while other junior resources also recorded steep losses."
+    },
+    {
       "lvl": "i",
       "tag": "United States of America · Equity markets",
-      "q": "Why did major Wall Street indices finish sharply lower following a record-breaking artificial intelligence listing?",
+      "q": "Why did the Nasdaq index fall by 2.3% despite a high-profile technology stock debut?",
       "o": [
-        "The marquee equity float failed to catalyze fresh sector participation and reignite momentum.",
-        "The Federal Reserve announced an unexpected emergency interest rate hike during the session.",
-        "Regulatory authorities suspended trading on the Nasdaq due to severe technical malfunctions.",
-        "Anthropic announced the immediate cancellation of its initial public offering after pricing."
+        "Technology shares surrendered prior gains and investors engaged in profit-taking.",
+        "The Federal Reserve announced an unexpected emergency interest rate hike.",
+        "New government regulations banned public listings for artificial intelligence firms.",
+        "Major institutional investors liquidated their entire portfolios to buy bonds."
       ],
       "a": 0,
-      "e": "The briefings state that Wall Street finished sharply lower as the major artificial intelligence listing failed to reignite sector momentum or catalyze fresh participation. The other options involve events not mentioned in the source material."
+      "e": "The Nasdaq fell 2.3% as tech shares surrendered prior gains and broader equity benchmarks mirrored the reversal, showing that a premier AI flotation failed to insulate the sector from profit-taking. The other choices involve events not mentioned in the text."
     },
     {
       "lvl": "i",
-      "tag": "United States of America · Corporate restructuring",
-      "q": "What were the financial terms of the Intuit transaction regarding its digital marketing unit?",
+      "tag": "United Kingdom · Foreign exchange",
+      "q": "What drove the performance of the British pound against other currencies according to foreign exchange desks?",
       "o": [
-        "Intuit agreed to sell Mailchimp to Bending Spoons for $3.68 billion.",
-        "Intuit purchased Mailchimp from Bending Spoons for $1.08 billion.",
-        "Bending Spoons acquired Intuit's entire cloud division for $3.68 billion.",
-        "Intuit divested its artificial intelligence subsidiary to Bending Spoons for $1.08 billion."
+        "Processing domestic inflation prints alongside Antipodean labour statistics and strong demand for the Indian rupee.",
+        "A massive trade surplus generated by North Sea oil exports and unexpected tax cuts.",
+        "Direct intervention by the Bank of England to devalue the currency against the euro.",
+        "A sharp drop in UK sovereign debt yields triggered by lower public borrowing."
       ],
       "a": 0,
-      "e": "The sources explicitly confirm that Intuit agreed to divest Mailchimp to Bending Spoons for a transaction value of $3.68 billion. The alternative figures and buyers misrepresent the reported text."
+      "e": "Sterling maintained its range against the Australian dollar as macro desks processed domestic inflation prints alongside Antipodean labour statistics, while facing persistent selling pressure against the Indian rupee amid robust local currency demand. The alternative scenarios are entirely fabricated."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Monetary policy",
-      "q": "How did Greene explain the recent economic deviation in inflation data?",
+      "tag": "Germany · Equities and geopolitics",
+      "q": "What contributed to the 1.06% drop in the DAX 40 index alongside corporate share declines?",
       "o": [
-        "Greene blamed excessively loose monetary settings rather than stochastic noise.",
-        "Greene stated that bad luck was the sole driver behind the unexpected deviation.",
-        "Greene argued that strict central bank tightening caused an unwarranted recession.",
-        "Greene claimed that foreign portfolio outflows completely distorted the domestic price index."
+        "Geopolitical overhangs including US-Iran negotiations and Ukraine-Russia talks, compounded by late US session weakness.",
+        "A sudden nationwide strike by manufacturing unions demanding higher wages across the automotive sector.",
+        "The complete collapse of the German banking system due to failing commercial real estate loans.",
+        "Emergency monetary tightening by the European Central Bank to combat surging energy prices."
       ],
       "a": 0,
-      "e": "Greene explicitly attributed the inflation miss to loose monetary policy settings rather than stochastic noise or bad luck. The other options contradict the given text."
+      "e": "The DAX 40 retreated 1.06% to 25,463.81 as Evonik shares tumbled 16% amid geopolitical overhangs including US-Iran negotiations and Ukraine-Russia talks, alongside late US session weakness that erased an earlier equity boost. The wrong options invent macroeconomic shocks not found in the source text."
     },
     {
       "lvl": "i",
-      "tag": "United Kingdom · Equity markets",
-      "q": "What drove the FTSE 100 index down to a six-week low during the trading session?",
+      "tag": "Japan · Monetary policy",
+      "q": "Why did the Japanese yen appreciate following the release of Tokyo's October consumer price figures?",
       "o": [
-        "A broad risk-off sentiment and systematic equity liquidations compressed valuations.",
-        "An unexpected emergency interest rate cut by the central bank triggered panic.",
-        "A massive wave of corporate bankruptcies across the telecommunications sector.",
-        "The complete failure of the domestic banking system to clear daily transactions."
+        "Accelerating inflation prints reinforced market expectations for a Bank of Japan policy rate adjustment.",
+        "The Japanese government announced a direct foreign exchange market intervention to buy yen.",
+        "Foreign investors rushed to purchase Japanese equities following the Anthropic public offering.",
+        "Commercial banks lowered their lending rates to stimulate domestic consumer spending."
       ],
       "a": 0,
-      "e": "The briefings note that broad risk-off sentiment and systematic equity liquidations compressed valuations and drove the FTSE 100 to a six-week low. The other choices invent external market crashes not present in the text."
+      "e": "October inflation prints in Japan accelerated, reinforcing expectations for a Bank of Japan policy rate adjustment, which caused the currency to appreciate as traders priced in a higher probability of tightening. The incorrect choices describe interventions or equity flows that do not match the text's causal chain."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Central banking",
-      "q": "What economic developments did the Bundesbank project for domestic output and prices?",
+      "tag": "China · Debt markets",
+      "q": "What does the BRICS New Development Bank reaching over 100 billion yuan in panda bond issuance indicate?",
       "o": [
-        "An acceleration in domestic output alongside rising inflation prints.",
-        "A sharp contraction in domestic output accompanied by severe deflation.",
-        "Stagnant economic growth with inflation remaining permanently at zero.",
-        "Rapidly falling price pressures driven by excessive borrowing costs."
+        "Heavy reliance on local liquidity pools and robust institutional appetite for supranational paper issued in domestic currency.",
+        "A complete shift away from international lending in favour of direct foreign aid disbursements.",
+        "Severe financial distress caused by a sudden freeze in mainland Chinese credit markets.",
+        "An official government mandate forcing foreign entities to hold domestic government debt."
       ],
       "a": 0,
-      "e": "The Bundesbank projected an acceleration in domestic output alongside rising inflation prints, expecting price momentum to materialise by early 2027. The other options describe opposite economic conditions."
+      "e": "Aggregate issuance eclipsing 100 billion yuan underscores heavy reliance on local liquidity pools, and the implied demand curve highlights robust institutional appetite for supranational paper issued in domestic currency. The other options misrepresent the nature of the milestone."
     },
     {
       "lvl": "i",
-      "tag": "Germany · Corporate treasury",
-      "q": "Why did DAX-listed companies increase their holdings of fixed-income instruments?",
+      "tag": "China · Real estate",
+      "q": "How did the 9.2 billion yuan Tuofangying residential land auction affect rival developers like China Overseas Xincheng?",
       "o": [
-        "Firms deployed these assets to structurally hedge duration risk on their liabilities.",
-        "Regulators forced all retail banks to liquidate equities in favour of government bonds.",
-        "Corporates wanted to speculate aggressively on short-term currency fluctuations.",
-        "Firms sought to acquire controlling stakes in distressed commercial real estate lenders."
+        "It compounded input cost pressures on their adjacent Jiuxianqiao development as land acquisition costs outpaced realisable end-unit sales prices.",
+        "It forced them to abandon urban residential projects entirely and pivot exclusively to commercial real estate.",
+        "It allowed them to acquire neighbouring land plots at a significantly discounted rate through government subsidies.",
+        "It triggered an immediate government bailout to help them manage their growing debt obligations."
       ],
       "a": 0,
-      "e": "DAX-listed companies expanded bond allocations to structurally hedge duration risk on their liabilities amid shifting monetary conditions. The alternative options attribute corporate treasury actions to incorrect regulatory or speculative motivations."
+      "e": "CSC Smart Land and Mao Yuan clearing the auction at 9.2 billion yuan compounded input cost pressures on China Overseas Xincheng's adjacent development, deteriorating marginal project economics as land costs outpaced realisable end-unit sales prices. The distractors propose outcomes opposite to the market squeeze described."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Foreign exchange",
-      "q": "What caused the spot dollar-yen exchange rate to push into the upper 159 range?",
+      "tag": "India · Equities and fixed income",
+      "q": "Why do rising sovereign bond yields pose a challenge to the Indian stock market rally despite safe-haven capital inflows?",
       "o": [
-        "A rate-hike hint from the Bank of Japan chief spurred risk-on flows as the dollar retreated.",
-        "The Bank of Japan unexpectedly announced quantitative easing to weaken the national currency.",
-        "A sharp collapse in domestic Japanese retail participation during the Anthropic initial public offering.",
-        "Massive intervention by the Federal Reserve to artificially inflate the yen."
+        "Higher sovereign yields threaten to compress equity valuations and challenge the durability of the recent stock market rally.",
+        "The central bank automatically freezes all stock market trading whenever benchmark bond yields increase.",
+        "Foreign institutional investors are legally prohibited from holding both equities and government bonds simultaneously.",
+        "Rising yields guarantee an immediate recession and a complete halt to corporate earnings growth."
       ],
       "a": 0,
-      "e": "The dollar retreated from a peak and spot dollar-yen climbed into the upper 159 range following a rate-hike hint from the Bank of Japan governor. The wrong answers misattribute the currency movement to monetary loosening or Federal Reserve intervention."
+      "e": "Rising sovereign yields threaten to compress equity valuations and challenge the durability of the recent stock market rally even as safe-haven capital inflows support the rupee. The wrong choices introduce regulatory bans or absolute economic guarantees absent from the source."
     },
     {
       "lvl": "i",
-      "tag": "Japan · Corporate partnerships",
-      "q": "What strategic objective anchored the joint partnership formed between Itochu and Sony?",
+      "tag": "Brazil · Fiscal policy and currencies",
+      "q": "Why did the Brazilian real remain near fifty-two week troughs despite the lower house advancing a fiscal package?",
       "o": [
-        "Targeting artist-branded merchandise as part of a push into intellectual property monetisation.",
-        "Developing a new artificial intelligence cloud computing infrastructure to rival US tech giants.",
-        "Acquiring distressed retail and pharmaceutical companies across European equity markets.",
-        "Consolidating domestic banking operations to manage short-term liquidity auctions."
+        "Persistent fiscal anxieties and inflation worries overrode legislative progress, causing markets to price ongoing currency vulnerability off sovereign debt trajectory assumptions.",
+        "The central bank slashed interest rates to zero to protest the government's delayed budget reforms.",
+        "Foreign trade partners imposed immediate economic sanctions due to disagreements over the tax package.",
+        "Commercial banks refused to process foreign exchange transactions until the Senate approved the bill."
       ],
       "a": 0,
-      "e": "Itochu and Sony executed a partnership targeting artist-branded merchandise to anchor a strategic push into intellectual property monetisation across media channels. The other options confuse the corporate venture with tech infrastructure or banking operations."
+      "e": "Persistent fiscal anxieties continue to pin the Brazilian real near fifty-two week troughs, overriding legislative progress as markets price ongoing currency vulnerability directly off sovereign debt trajectory assumptions. The incorrect answers rely on extreme banking or sanction scenarios not mentioned."
     },
     {
       "lvl": "i",
-      "tag": "China · Corporate results",
-      "q": "How did Alibaba and PDD achieve their respective financial results during the reporting period?",
+      "tag": "Saudi Arabia · Corporate and infrastructure",
+      "q": "What operational updates did Saudi Aramco provide alongside kinetic strikes targeting its corporate infrastructure?",
       "o": [
-        "Alibaba exceeded estimates via artificial intelligence cloud growth, while PDD improved unit economics through marketing rationalisation.",
-        "Alibaba relied entirely on retail store expansions, while PDD increased marketing expenditure to boost top-line revenue.",
-        "Both companies suffered severe profit declines due to a widespread domestic consumer recovery failure.",
-        "Alibaba cut all technology investments while PDD expanded its cloud division aggressively."
+        "The company captured $2.6 billion in annual enterprise value via artificial intelligence deployments while warning of persistent structural underinvestment across global oil refining capacity.",
+        "The firm announced the complete suspension of all oil exploration activities to focus entirely on renewable energy projects.",
+        "Management reported a catastrophic loss of data center assets due to a major software failure rather than military action.",
+        "Aramco slashed its capital expenditure budget to zero in response to falling international crude oil prices."
       ],
       "a": 0,
-      "e": "Alibaba exceeded consensus revenue expectations on accelerating artificial intelligence cloud adoption, while PDD demonstrated improved unit economics through aggressive marketing rationalisation. The other choices invert the reported business drivers."
+      "e": "Saudi Aramco captured $2.6 billion in annual enterprise value via artificial intelligence deployments alongside expanding its data center operations, while executive commentary highlighted persistent structural underinvestment across global oil refining capacity. The distractors describe shutdowns or strategy changes not found in the text."
     },
     {
       "lvl": "i",
-      "tag": "China · Capital allocation",
-      "q": "What economic action did CATL execute on November 19, 2026, alongside DeepSeek's funding round?",
+      "tag": "Nigeria · Foreign exchange",
+      "q": "What dynamic accompanied the decline of the Nigerian naira to N1,440 per dollar in official trading?",
       "o": [
-        "CATL executed an open-market repurchase of 850,473 A-shares valued at 199.98 million yuan.",
-        "CATL issued a massive block of new equity to finance a foreign corporate acquisition.",
-        "CATL defaulted on its domestic bond obligations due to tightening liquidity constraints.",
-        "CATL sold its entire portfolio of fixed-income instruments to purchase foreign currency."
+        "Foreign reserves contracted by $406 million while interbank FX turnover expanded by 38.7% to $502.88 million.",
+        "The central bank dismantled all currency controls, allowing the exchange rate to float completely free of intervention.",
+        "Commercial lenders hoarded foreign currency, causing interbank trading volume to drop to zero.",
+        "A massive influx of foreign portfolio investment forced the central bank to buy dollars to weaken the local currency."
       ],
       "a": 0,
-      "e": "CATL executed an open-market repurchase of 850,473 A-shares valued at 199.98 million yuan on November 19, 2026. The incorrect options suggest debt default or equity issuance instead of a share buyback."
+      "e": "Foreign reserves contracted by $406 million reflecting ongoing defensive liquidity management, while interbank FX turnover expanded by 38.7% to reach $502.88 million as market participants cleared higher volumes. The other choices contradict the reported expansion in interbank turnover and reserve drawdowns."
     },
     {
       "lvl": "i",
-      "tag": "India · Monetary operations",
-      "q": "Why did the Reserve Bank of India schedule a 3-day variable rate repo auction for 50,000 crore rupees?",
+      "tag": "Australia · Tech sector valuation",
+      "q": "How did the public listing and capital allocation toward Anthropic impact domestic Australian artificial intelligence equities like SCX.ai Holdings?",
       "o": [
-        "To address evolving liquidity conditions by absorbing or supplying short-term funds.",
-        "To permanently nationalize the retail banking and automotive sectors across all states.",
-        "To finance state government security re-issues specifically for Assam and Bihar.",
-        "To counteract sudden portfolio outflows that caused the Indian rupee to collapse."
+        "They experienced a sharp repricing and fell 11.77% amid broader disappointment over domestic deal flow and a widening valuation gap with US-backed alternatives.",
+        "They rallied strongly as investors sought local alternatives following the overcrowded US technology listings.",
+        "They were acquired directly by foreign sovereign wealth funds to prevent further losses on the stock exchange.",
+        "They suspended trading pending a mandatory government review of artificial intelligence technology standards."
       ],
       "a": 0,
-      "e": "The Reserve Bank of India scheduled the variable rate repo auction to intervene in the monetary transmission apparatus and manage short-term liquidity conditions. The other options invent policy goals not supported by the text."
+      "e": "Domestic equities faced a sharp repricing following major capital allocation toward Anthropic, with local exposures like SCX.ai Holdings falling 11.77% amid broader disappointment over domestic deal flow, implying a widening valuation gap. The wrong options suggest a boost or regulatory halt that did not occur."
     },
     {
       "lvl": "i",
-      "tag": "India · Equity and currency markets",
-      "q": "What drove the strong upward move in the Indian Sensex and the appreciation of the rupee?",
+      "tag": "Australia · Mining equities",
+      "q": "Why did junior resource exploration companies like Black Rock Mining record steep losses on the Australian stock exchange?",
       "o": [
-        "Outperformance in auto and bank equities drove the Sensex up, while portfolio inflows bolstered the rupee.",
-        "An aggressive central bank interest rate cut caused domestic equities and the currency to surge simultaneously.",
-        "The successful initial public offering of Anthropic on the domestic stock exchange.",
-        "A massive surge in crude oil production across state-owned enterprises."
+        "They dropped 13.33% following disclosures tied to its Mahenge funding mechanism amidst broad liquidations across junior resource equities.",
+        "The government revoked all mining permits due to new environmental regulations passed during the trading session.",
+        "A sudden discovery of massive domestic mineral reserves drove down the market price of existing commodities.",
+        "International mining conglomerates launched a hostile takeover bid that depressed short-term share prices."
       ],
       "a": 0,
-      "e": "The Sensex soared on outperformance in auto and bank equities, while the rupee appreciated due to portfolio inflows. The wrong options attribute the market rally to unrelated monetary actions or foreign equity floats."
+      "e": "Junior resource equities faced broad liquidations across the board, with Black Rock Mining dropping 13.33% following disclosures tied to its Mahenge funding mechanism. The alternative options invent policy shifts or market takeovers absent from the source data."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Commodity markets",
-      "q": "How did foreign exchange pressures on the Brazilian real impact domestic sugar and soybean assets?",
+      "tag": "United States of America · Corporate valuation",
+      "q": "What characterized the trading position of Netflix shares ahead of their January guidance?",
       "o": [
-        "Spot currency pressures transmitted directly into soft commodities, causing sugar prices to cascade lower and soybeans to face technical liquidation.",
-        "A stronger exchange rate caused sugar futures to surge to historic highs across international trading venues.",
-        "Currency depreciation forced the Brazilian government to ban all agricultural exports entirely.",
-        "Rising fiscal surpluses insulated commodity prices completely from foreign exchange volatility."
+        "They traded at fifty percent of their historical multiple as investors awaited guidance, highlighting valuation compression and shifting risk appetites.",
+        "They hit record-high valuations driven by an unexpected surge in subscriber growth across international markets.",
+        "They were temporarily suspended from public exchanges pending an investigation into corporate accounting practices.",
+        "They experienced massive institutional buying as analysts upgraded their long-term earnings forecasts significantly."
       ],
       "a": 0,
-      "e": "Spot foreign exchange pressures on the weak real transmitted directly into soft commodities, cascading sugar lower and driving technical liquidation in soybeans. The alternative options incorrectly assume currency strength or export bans."
+      "e": "Netflix equity traded at fifty percent of its historical multiple as investors awaited January guidance, highlighting valuation compression and shifting risk appetites across major platform stocks. The incorrect choices describe bullish surges or regulatory suspensions not stated in the text."
     },
     {
       "lvl": "i",
-      "tag": "Brazil · Corporate finance",
-      "q": "Which financial institution initiated coverage on Petrobras with a buy rating and a $23.50 price target?",
+      "tag": "Japan · Equity markets",
+      "q": "What triggered the Nikkei index to shed over 2,800 points and breach the 57,000 threshold?",
       "o": [
-        "J.P. Morgan initiated coverage on the energy firm.",
-        "The Bundesbank initiated coverage following a domestic fiscal package approval.",
-        "The Reserve Bank of India initiated coverage during state security auctions.",
-        "Bending Spoons initiated coverage as part of its software acquisition strategy."
+        "Equity markets in Tokyo absorbed contagion from United States artificial intelligence valuations following the Anthropic listing.",
+        "The Bank of Japan unexpectedly announced an immediate doubling of its policy interest rate.",
+        "A massive earthquake caused widespread physical damage to the Tokyo Stock Exchange trading floor.",
+        "Foreign governments placed severe economic embargoes on Japanese manufactured technology exports."
       ],
       "a": 0,
-      "e": "J.P. Morgan initiated coverage on Petrobras with a buy rating and a $23.50 price target while shares traded under heightened implied volatility. The other institutions mentioned in the briefings operate in completely different regions or sectors."
+      "e": "The Nikkei index shed over 2,800 points as equity markets in Tokyo absorbed contagion from United States artificial intelligence valuations following the Anthropic listing, where a lack of enthusiasm triggered broad liquidations. The distractors propose domestic disasters or trade wars not mentioned."
     },
     {
       "lvl": "i",
-      "tag": "Saudi Arabia · Geopolitics and energy",
-      "q": "How did state producers respond regarding the Arab Light official selling price for Asia?",
+      "tag": "Germany · Corporate restructuring",
+      "q": "Why did the German economy ministry engage in direct talks with Ford management?",
       "o": [
-        "They lowered the official selling price for Asia by the largest margin in over two decades.",
-        "They increased the selling price to record highs following a skyscraper attack in Riyadh.",
-        "They suspended all crude exports to test cartel supply trajectories against regional competitors.",
-        "They froze prices at fixed nominal levels to protect domestic foreign exchange reserves."
+        "The dialogue centered on the structural execution of planned job cuts and state-level stakeholder evaluation of the employment impact.",
+        "The ministry sought to acquire a controlling equity stake in the automaker to prevent foreign acquisition.",
+        "Ford requested an emergency multibillion-euro bailout package to fund electric vehicle manufacturing.",
+        "Government officials planned to force the company to relocate its headquarters from Germany to another European nation."
       ],
       "a": 0,
-      "e": "State producers lowered the Arab Light official selling price for Asia by the largest margin in over two decades. The incorrect choices describe price hikes, export suspensions, or price freezes."
+      "e": "The German economy ministry engaged in direct talks centered on the structural execution of planned job cuts, with state-level stakeholders evaluating the employment impact. The wrong choices invent nationalisation, bailout requests, or relocation mandates."
     },
     {
       "lvl": "i",
-      "tag": "Nigeria · Macroeconomics",
-      "q": "What trend did Nigerian foreign exchange rates and foreign reserves exhibit during the reporting period?",
+      "tag": "Brazil · Corporate governance",
+      "q": "How did options markets and financial analysts respond to the Petrobras board nomination of a Bolsonaro pick with a past penalty?",
       "o": [
-        "Official and parallel market rates depreciated while gross foreign reserves contracted over twelve days.",
-        "Exchange rates strengthened significantly as national crude output dropped to zero.",
-        "Foreign reserves expanded rapidly to record highs while parallel market rates stabilized.",
-        "The central bank pegged the naira successfully to eliminate the parallel market spread."
+        "Options markets priced in elevated implied volatility while J.P. Morgan initiated coverage with a buy recommendation and a $23.50 price target.",
+        "Rating agencies immediately downgraded all Brazilian sovereign debt to junk status to punish the state-controlled firm.",
+        "Institutional investors launched a successful proxy fight to block the nomination and replace the board entirely.",
+        "Petrobras suspended all dividend payments and halted daily oil production pending a compliance review."
       ],
       "a": 0,
-      "e": "Official and parallel rates weakened while gross foreign reserves fell by $530m over 12 days, compounding downside currency pressure. The other answers state the exact opposite of the reported metrics."
+      "e": "Petrobras equities softened as options markets priced in elevated implied volatility, while J.P. Morgan initiated coverage with a buy recommendation and a $23.50 price target, implying confidence outweighing governance friction. The other choices involve sovereign downgrades or operational halts not found in the text."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Sector performance",
-      "q": "Which sectors led gains on the Australian Securities Exchange (ASX) while others faced heavy selling?",
+      "tag": "Saudi Arabia · Geopolitics and sovereign wealth",
+      "q": "What was the physical and institutional target of the Houthi projectile that breached defenses in Riyadh?",
       "o": [
-        "Telecommunications and technology led gains, while mining stocks experienced heavy selling.",
-        "Mining and financials outperformed, while technology equities suffered massive liquidation.",
-        "Retail and pharmaceutical firms rallied, while telecommunications lagged behind.",
-        "Auto and bank equities surged, while energy conglomerates experienced sharp declines."
+        "It struck the Public Investment Fund Tower, directly targeting the administrative nexus of the $900 billion sovereign wealth vehicle.",
+        "It hit the central oil pipeline connecting Saudi Aramco production facilities to export terminals on the coast.",
+        "It targeted the main data center facility housing Saudi Aramco's artificial intelligence server infrastructure.",
+        "It struck the central bank headquarters to disrupt the national currency peg and foreign exchange reserves."
       ],
       "a": 0,
-      "e": "Telecommunications and technology sectors led gains on the ASX, whereas heavy selling hit mining equities and financials transitioned into lagging status. The wrong options scramble the sector winners and losers."
+      "e": "A Houthi projectile breached defenses to strike the Public Investment Fund Tower in Riyadh, directly targeting the administrative nexus of the $900 billion sovereign wealth vehicle. The distractors misidentify the targeted building as an oil pipeline, a data center, or the central bank."
     },
     {
       "lvl": "i",
-      "tag": "Australia · Currency markets",
-      "q": "What catalyzed the breakdown of the AUD/USD exchange rate from its multi-month range?",
+      "tag": "India · Regional futures",
+      "q": "What did GIFT Nifty futures tumbling over 200 points on November 20, 2026, signal for domestic markets?",
       "o": [
-        "A weak domestic employment report triggered the move to a ten-month low.",
-        "An unexpected interest rate hike by the central bank to combat rising inflation.",
-        "A massive influx of foreign portfolio capital into mining and technology shares.",
-        "The complete collapse of global crude oil production figures reported by OPEC."
+        "A sharp gap-down opening for domestic benchmarks following a 2.3% overnight decline in the Nasdaq and broader Asian risk aversion.",
+        "An immediate suspension of all derivative trading by the Securities and Exchange Board of India.",
+        "A record-breaking surge in retail investor participation driven by positive earnings surprises.",
+        "A permanent decoupling of Indian stock exchanges from international macroeconomic trends."
       ],
       "a": 0,
-      "e": "A weak employment report catalyzed the breakdown of the AUD/USD exchange rate to a ten-month low. The alternative options invent macroeconomic catalysts not found in the source text."
+      "e": "GIFT Nifty futures tumbled over 200 points, discounting a sharp gap-down opening for domestic benchmarks following a 2.3% overnight decline in the Nasdaq and broad-based Asian weakness stemming from AI valuation anxieties and macro risk aversion. The incorrect choices describe regulatory suspensions or market decouplings unsupported by the text."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Equity markets",
-      "q": "What does the 17% gain on Anthropic's initial public offering, contrasted with the subsequent 1,084-point drop in the Dow Jones, imply about market structure dynamics?",
+      "tag": "United States of America · Equity Markets",
+      "q": "What does the 2.3% drop in the Nasdaq alongside Anthropic's public market debut imply about current technology sector pricing dynamics?",
       "o": [
-        "Idiosyncratic retail and institutional demand concentrated in a marquee asset failed to offset broader index-level risk aversion and sector skepticism.",
-        "The heavy oversubscription of the Nasdaq debut triggered systematic margin liquidations across traditional value equities.",
-        "Index providers were forced to rebalance their technology weightings immediately, causing widespread selling in non-tech components.",
-        "Broad market indices dropped because institutional investors exhausted all available liquidity pools buying the Anthropic primary offering."
+        "A marquee artificial intelligence flotation failed to insulate the broader sector from profit-taking and systemic contagion.",
+        "The market was entirely insulated from systemic risks because retail investors heavily bought the dip in legacy tech shares.",
+        "Anthropic's listing caused an immediate arbitrage opportunity that permanently eliminated sector-wide valuation multiples.",
+        "Broader equity benchmarks rose because high-profile tech listings always decouple completely from macro indices."
       ],
       "a": 0,
-      "e": "The co-existence of a successful single-stock listing and a broad index sell-off demonstrates that sector skepticism and risk-off rotation can dominate general equity performance even when marquee floats succeed. The wrong answers assume mechanical index rebalancing or liquidity exhaustion that is not supported by the text."
+      "e": "The sources show that the Nasdaq fell 2.3% and broader equity benchmarks mirrored the reversal despite the high-profile Anthropic listing, demonstrating that a premier AI flotation failed to prevent profit-taking. The incorrect options rely on unmentioned retail dynamics or decoupling assumptions not supported by the text."
     },
     {
       "lvl": "a",
-      "tag": "United Kingdom · Monetary policy",
-      "q": "Why did Greene's criticism of the central bank's inflation miss target monetary settings rather than stochastic economic noise?",
+      "tag": "United States of America · Corporate Valuation",
+      "q": "How are market participants currently treating Netflix equity relative to its historical multiples ahead of January guidance?",
       "o": [
-        "The official argued that policy calibration errors and excessively loose monetary settings drove the deviation.",
-        "The critique assumed that quantitative easing programs had permanently impaired the transmission mechanism of gilts.",
-        "The central bank had officially adopted a rule-based reaction function that eliminated stochastic forecasting errors.",
-        "Inflation misses are exclusively caused by structural labour market rigidities rather than interest rate adjustments."
+        "Shares are trading at fifty percent of their historical multiple, reflecting compressed valuations and shifting risk appetites.",
+        "Equities are trading at double their historical multiple because incoming corporate forecasts guarantee record earnings expansion.",
+        "Multiples remain entirely unchanged as market participants ignore forward earnings expectations during periods of macro stability.",
+        "Valuations have decoupled from wider market volatility due to aggressive central bank interventions in platform stocks."
       ],
       "a": 0,
-      "e": "Greene specifically rejected stochastic noise as the driver, instead targeting loose monetary settings and central bank reaction functions as calibration errors. The other choices misattribute the critique to structural gilt mechanics or rigidities not mentioned in the source."
+      "e": "Netflix equity traded at fifty percent of its historical multiple as investors awaited January guidance, highlighting compressed valuations and shifting risk appetites. The incorrect options assume multiple expansion or total market decoupling, which directly contradicts the source text's mention of valuation compression."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Corporate treasury",
-      "q": "How does the increase in bond holdings by DAX-listed companies interact with shifting monetary conditions?",
+      "tag": "United Kingdom · Foreign Exchange",
+      "q": "How did sterling behave against the Australian dollar and the Indian rupee according to the macro desk prints?",
       "o": [
-        "Corporates deploy fixed-income instruments to structurally hedge duration risk on their liabilities amidst yield curve volatility.",
-        "Firms expand their bond allocations purely to capture higher short-term risk-free rates while ignoring liability structures.",
-        "Treasury departments buy long-term debt to artificially depress domestic borrowing costs ahead of central bank rate hikes.",
-        "Companies swap equity shares for corporate bonds to avoid regulatory disclosures regarding their cash reserves."
+        "It maintained its range against the Australian dollar while facing persistent selling pressure against the Indian rupee.",
+        "It appreciated aggressively against both currencies due to unexpected monetary policy loosening in domestic markets.",
+        "It crashed against the Australian dollar while doubling in value against the Indian rupee due to massive capital flight.",
+        "It decoupled entirely from foreign exchange flows as local <span class='term' data-t='inflation'>inflation</span> figures triggered a currency peg."
       ],
       "a": 0,
-      "e": "The briefings state that DAX companies increased bond holdings to structurally hedge duration risk on liabilities, reflecting sensitivity to yield curve volatility. The alternatives suggest profit-seeking or liability manipulation rather than duration risk management."
+      "e": "Sterling maintained its range against the Australian dollar while facing persistent selling pressure and robust local currency demand against the Indian rupee. The incorrect options invent dramatic currency movements or policy shifts not present in the briefings."
     },
     {
       "lvl": "a",
-      "tag": "Germany · Macroeconomics",
-      "q": "What does the Bundesbank's framing of further monetary tightening as a 'commitment mechanism' imply for price momentum forecasts?",
+      "tag": "Germany · Index Movement",
+      "q": "What drove the DAX 40 index down 1.06% to 25,463.81 during the session?",
       "o": [
-        "Policymakers are using borrowing cost increases to anchor expectations ahead of an anticipated upward shift in price pressures by early 2027.",
-        "The central bank is attempting to force commercial banks to write down legacy mortgage portfolios before inflation peaks.",
-        "Monetary tightening serves as an automatic stabilizer that neutralizes fiscal deficits projected for the 2027 budget.",
-        "Higher interest rates will immediately cause deflation in the retail and pharmaceutical sectors by the end of the current quarter."
+        "Evonik shares tumbled 16% amid geopolitical overhangs and late US session weakness that erased earlier AI-driven gains.",
+        "The German economy ministry announced mandatory structural job cuts that instantly liquidated all banking sector liquidity.",
+        "A sudden collapse in regional <span class='term' data-t='inflation'>inflation</span> expectations forced automated algorithmic selling across all industrial equities.",
+        "Unprecedented sovereign <span class='term' data-t='gilt'>bond</span> defaults in the domestic market triggered emergency exchange closures."
       ],
       "a": 0,
-      "e": "The Bundesbank views borrowing cost increases as a decisive signal against rising prices, guiding markets toward an upward price momentum in early 2027. The incorrect options introduce regulatory write-downs or fiscal stabilization concepts absent from the text."
+      "e": "The DAX 40 retreated 1.06% to 25,463.81 as Evonik shares tumbled 16% amid geopolitical overhangs and late US session weakness erasing the Anthropic boost. The incorrect options introduce fabricated structural defaults or ministry-driven liquidations not supported by the text."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Foreign exchange",
-      "q": "What underlying market mechanism caused the dollar-yen spot rate to push into the upper 159 range despite a rate-hike hint from the Bank of Japan chief?",
+      "tag": "Germany · Structural Restructuring",
+      "q": "What is the primary focus of the ongoing discussions between the German economy ministry and Ford management?",
       "o": [
-        "Risk-on flows from the Anthropic debut spurred strong demand for the dollar, temporarily offsetting anticipated monetary tightening expectations.",
-        "Japanese retail investors dumped foreign assets to buy domestic equities, driving the cross higher through massive capital repatriation.",
-        "The Bank of Japan intervened directly in the spot market to weaken the currency and support export-oriented DAX conglomerates.",
-        "Consensus forecasts priced an immediate rate cut instead of a December liftoff, triggering structural capital outflows."
+        "The structural execution of planned job cuts and the evaluation of their employment impact by state-level stakeholders.",
+        "The immediate nationalisation of domestic automotive manufacturing plants to counteract foreign <span class='term' data-t='inflation'>inflation</span> pressures.",
+        "The negotiation of multilateral trade tariffs to offset supply chain disruptions caused by regional geopolitical conflicts.",
+        "The allocation of direct fiscal subsidies to prevent impending corporate insolvency across all regional assembly sites."
       ],
       "a": 0,
-      "e": "The dollar retreated from a 19-month peak as the Anthropic debut spurred risk-on flows, yet spot dollar-yen pushed into the upper 159 range following the rate-hike hint. The incorrect answers rely on capital repatriation or direct interventions not supported by the sources."
+      "e": "The German economy ministry engaged in direct talks with Ford focusing on the structural execution of planned job cuts and state-level evaluation of the employment impact. The incorrect options rely on nationalisation, trade tariffs, or subsidies, none of which appear in the source text."
     },
     {
       "lvl": "a",
-      "tag": "China · Corporate finance",
-      "q": "How do Alibaba's and PDD's recent financial results illustrate differing corporate strategies within the Chinese internet equity space?",
+      "tag": "Japan · Monetary Policy Transmission",
+      "q": "What does the acceleration in October <span class='term' data-t='inflation'>inflation</span> prints imply for the Bank of Japan's policy trajectory?",
       "o": [
-        "Alibaba exceeded revenue estimates through accelerated cloud adoption and investment returns, whereas PDD achieved profit beats via aggressive marketing rationalisation despite top-line stagnation.",
-        "Both companies relied entirely on domestic consumer recovery to drive top-line expansion while cutting research and development expenditures.",
-        "Alibaba engaged in massive share buybacks to absorb short-term market liquidity, while PDD issued new equity to fund international expansion.",
-        "Alibaba and PDD both decoupled their bottom-line performance from cloud division growth by divesting their core e-commerce units."
+        "It reinforced expectations for a Bank of Japan policy rate adjustment, causing traders to bid up the currency.",
+        "It forced the central bank to implement emergency quantitative easing to combat aggressive consumer price <span class='term' data-t='deflation'>deflation</span>.",
+        "It triggered an immediate interest rate cut to protect regional technology holdings from overseas AI contagion.",
+        "It had zero impact on currency markets because exchange rates are entirely disconnected from domestic price prints."
       ],
       "a": 0,
-      "e": "Alibaba exceeded estimates via AI cloud adoption and investment returns, while PDD demonstrated improved unit economics through aggressive marketing rationalisation despite top-line stagnation. The incorrect options misstate the specific drivers of each company's financial results."
+      "e": "October <span class='term' data-t='inflation'>inflation</span> prints accelerated, reinforcing expectations for a Bank of Japan policy rate adjustment and causing the currency to appreciate as traders priced in tighter policy. The incorrect options suggest easing or total market disconnection, which contradicts the source text's account of a strengthening yen and tighter expectations."
     },
     {
       "lvl": "a",
-      "tag": "China · Capital allocation",
-      "q": "What is the primary market impact of CATL's open-market A-share repurchase and DeepSeek's 100 billion yuan financing cycle?",
+      "tag": "Japan · Equity Markets",
+      "q": "Why did the Nikkei index shed over 2,800 points to breach the 57,000 threshold?",
       "o": [
-        "CATL's buyback directly adjusts the equity float and absorbs short-term market liquidity, while DeepSeek's financing solidifies institutional backing across media and entertainment conglomerates.",
-        "CATL's share repurchase signals financial distress, while DeepSeek's funding round dilutes existing shareholders to expand overseas manufacturing capacity.",
-        "Both transactions act as automatic monetary transmission levers controlled by the central bank to manage domestic consumer price inflation.",
-        "The share buyback forces index providers to remove CATL from benchmark listings, while the financing cycle increases systemic credit risk."
+        "It absorbed contagion from United States artificial intelligence valuations following the Anthropic listing.",
+        "Domestic retail investors panicked over rising <span class='term' data-t='inflation'>inflation</span> figures and closed all margin accounts simultaneously.",
+        "The Bank of Japan unexpectedly slashed interest rates below zero, inducing a massive foreign exchange <span class='term' data-t='carry trade'>carry trade</span> unwind.",
+        "Supranational multilateral lenders defaulted on their onshore <span class='term' data-t='gilt'>bond</span> obligations in regional clearinghouses."
       ],
       "a": 0,
-      "e": "CATL's open-market repurchase adjusts the equity float and absorbs short-term market liquidity, and DeepSeek secured a landmark financing cycle cementing institutional backing across media and entertainment conglomerates. The wrong options invent distress signals or central bank interventions."
+      "e": "The Nikkei index fell over 4% because equities absorbed contagion from United States artificial intelligence valuations following the Anthropic listing. The incorrect options attribute the drop to domestic retail panic, rate cuts, or supranational defaults, none of which are mentioned in the text."
     },
     {
       "lvl": "a",
-      "tag": "India · Monetary operations",
-      "q": "How does the Reserve Bank of India's 3-day variable rate repo auction interact with state government security auctions?",
+      "tag": "China · Domestic Debt Markets",
+      "q": "What does the BRICS New Development Bank crossing 100 billion yuan in cumulative panda <span class='term' data-t='gilt'>bond</span> issuance signify?",
       "o": [
-        "The central bank manages short-term liquidity conditions in the monetary transmission apparatus concurrently with state governments raising funds via security re-issues.",
-        "The variable rate repo auction is designed to absorb all capital raised by state governments to prevent currency depreciation against the US dollar.",
-        "State government security auctions serve as the primary collateral for the Reserve Bank of India's foreign exchange interventions.",
-        "The Reserve Bank of India uses variable rate repos to directly finance the fiscal deficits of Assam and Bihar without issuing new securities."
+        "A heavy reliance on local liquidity pools and robust institutional appetite for supranational paper issued in domestic currency.",
+        "An absolute exhaustion of mainland capital channels that forces the multilateral lender into immediate default.",
+        "A deliberate strategy to replace all foreign exchange reserves with offshore sovereign <span class='term' data-t='gilt'>gilts</span>.",
+        "The complete elimination of marginal project economics across adjacent urban residential developments."
       ],
       "a": 0,
-      "e": "State governments lined up auctions to raise funds while the Reserve Bank of India scheduled a variable rate repo auction to manage evolving short-term liquidity conditions. The other options falsely link liquidity operations to direct deficit financing or foreign exchange manipulation."
+      "e": "Aggregate issuance eclipsing 100 billion yuan underscores heavy reliance on local liquidity pools and robust institutional appetite for supranational paper issued in domestic currency via the panda <span class='term' data-t='gilt'>bond</span> channel. The incorrect options mention default, reserve replacement, or project economics that misapply the text's separate real estate metrics."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Foreign exchange",
-      "q": "Through what transmission channel did spot foreign exchange pressures on the Brazilian real impact Chicago Board of Trade soybean futures?",
+      "tag": "China · Real Estate Development",
+      "q": "How does the 9.2 billion yuan Tuofangying land auction affect rival developers like China Overseas Xincheng?",
       "o": [
-        "Currency depreciation transmitted directly into soft commodity complexes, triggering technical liquidation and lower futures pricing.",
-        "The Brazilian central bank sold US dollar reserves to defend the real, which forced international agricultural traders to liquidate soybean holdings.",
-        "Higher borrowing costs in Brazil caused domestic soybean farmers to hoard physical inventory, creating an artificial supply glut abroad.",
-        "Depreciation of the real increased local production costs, leading to immediate export bans on all agricultural commodities."
+        "It compounds input cost pressures on adjacent developments, squeezing profit margins as land acquisition costs outpace end-unit sales prices.",
+        "It permanently caps regional land values, allowing rival developers to expand their profit margins significantly.",
+        "It triggers mandatory government price controls that freeze all land acquisition expenses across mainland urban centers.",
+        "It isolates adjacent sites from broader sector deleveraging and guarantees higher realisable end-unit sales prices."
       ],
       "a": 0,
-      "e": "Spot foreign exchange pressures on the real transmitted directly into soft commodity complexes, causing technical liquidation in CBOT soybeans. The alternative choices incorrectly cite central bank dollar sales or export bans."
+      "e": "The Tuofangying auction cleared at 9.2 billion yuan, immediately compounding input cost pressures on China Overseas Xincheng's adjacent Jiuxianqiao development where acquisition costs outpace realisable end-unit sales prices. The incorrect options claim capping, price controls, or guaranteed sales prices, none of which reflect the margin compression described in the sources."
     },
     {
       "lvl": "a",
-      "tag": "Saudi Arabia · Geopolitics and commodities",
-      "q": "What is the structural significance of the PIF headquarters attack coinciding with state producers lowering the Arab Light official selling price for Asia?",
+      "tag": "India · Derivatives and Equity Slashes",
+      "q": "What drove GIFT Nifty futures to tumble over 200 points on November 20, 2026?",
       "o": [
-        "A targeted strike introduces acute geopolitical risk premiums into core state financial infrastructure just as the largest OSP reduction in two decades tests cartel market share dynamics.",
-        "The damage to the sovereign wealth fund forces the cartel to cut total output to offset declining physical oil demand in Asian markets.",
-        "Geopolitical instability in Riyadh automatically triggers a depreciation of the Saudi riyal, necessitating price cuts for exported crude oil.",
-        "State producers lowered prices to compensate international investors for the asset damage sustained by the public investment fund tower."
+        "Compounding AI valuation anxieties and macro risk aversion following a 2.3% overnight decline in the Nasdaq.",
+        "An emergency domestic interest rate hike designed to cool an overheated real estate sector in Beijing.",
+        "Unanticipated sovereign debt downgrades that crippled the operational capacity of the BRICS New Development Bank.",
+        "A sudden collapse in interbank FX turnover across regional emerging market currencies."
       ],
       "a": 0,
-      "e": "The strike introduces acute geopolitical risk premiums into core domestic financial infrastructure, while the OSP reduction tests regional market share dynamics against cartel supply trajectories. The wrong choices confuse geopolitical risk premiums with automatic currency depreciations or compensation payments."
+      "e": "GIFT Nifty futures tumbled over 200 points following a 2.3% overnight decline in the Nasdaq amid compounding AI valuation anxieties and macro risk aversion. The incorrect options bring in Beijing real estate, sovereign downgrades, or interbank turnover, which are entirely unrelated to the GIFT Nifty data."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Macroeconomics",
-      "q": "What do the concurrent movements in Nigeria's official and parallel exchange rates alongside contracting foreign reserves imply for the currency?",
+      "tag": "India · Sovereign Yields and Capital Flows",
+      "q": "What counterbalancing risk threatens the durability of the recent stock market rally in India despite safe-haven capital inflows supporting the rupee?",
       "o": [
-        "Depreciating spot rates and a $530m reserve contraction over 12 days compound downside pressure, driving the currency to four-month troughs.",
-        "Foreign reserve accumulation in the parallel market successfully stabilized the official exchange rate at N1,379.99 per dollar.",
-        "The widening gap between official and parallel quotes indicates that the central bank has successfully eliminated all arbitrage opportunities.",
-        "Cartel output expansions of 1.97 million barrels per day automatically replenished gross foreign reserves and strengthened the naira."
+        "Rising sovereign yields that threaten to compress equity valuations.",
+        "Massive outflows of domestic capital into offshore panda <span class='term' data-t='gilt'>bonds</span>.",
+        "An uncontrollable surge in foreign exchange reserves caused by excessive central bank defensive selling.",
+        "Immediate corporate restructuring talks managed directly by the German economy ministry."
       ],
       "a": 0,
-      "e": "Official and parallel rates weakened while foreign reserves fell by $530m, compounding downside pressure to four-month troughs. The incorrect choices falsely claim reserve replenishment or arbitrage elimination."
+      "e": "The rupee appreciated from safe-haven inflows, but rising sovereign yields threaten to compress equity valuations and challenge the durability of the rally. The incorrect options cite panda <span class='term' data-t='gilt'>bonds</span>, reserve surges, or ministry talks, which belong to different geographical contexts in the briefings."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Market breadth",
-      "q": "What does the divergence between technology sector gains and heavy selling in mining equities on the ASX indicate about broader market breadth?",
+      "tag": "Brazil · Fiscal Policy and Currency Dynamics",
+      "q": "How did the Brazilian currency react to the lower house transmission of the fiscal package?",
       "o": [
-        "Sector rotation favoured telecommunications and technology while breadth indicators showed fifty-two-week lows vastly outnumbering highs amidst lagging financials.",
-        "Mining equities sold off because the Reserve Bank of Australia raised interest rates to combat telecommunications inflation.",
-        "Technology gains were entirely driven by retail investors liquidating their mining portfolios to purchase overseas artificial intelligence assets.",
-        "Financials transitioned into a leading status because mining stocks absorbed all available institutional liquidity on the exchange."
+        "It remained pinned near fifty-two week troughs as markets continued to price ongoing currency vulnerability off sovereign debt trajectory assumptions.",
+        "It surged past historical highs, decoupling entirely from domestic fiscal anxieties and sovereign debt metrics.",
+        "It depreciated rapidly because lawmakers voted to eliminate all central bank <span class='term' data-t='inflation'>inflation</span> targets.",
+        "It appreciated strongly as foreign investors rushed to buy Petrobras options at a $23.50 price target."
       ],
       "a": 0,
-      "e": "Sector divergence widened as tech outperformed, mining saw heavy selling, financials lagged, and 52-week lows vastly outnumbered highs. The alternative answers invent central bank interest rate hikes or speculative liquidations not present in the text."
+      "e": "The Ibovespa advanced temporarily following the fiscal package transmission before reversing, while persistent fiscal anxieties pinned the Brazilian real near fifty-two week troughs as markets priced vulnerability off sovereign debt trajectory assumptions. The incorrect options claim currency surges or eliminated targets, ignoring the stated persistence of fiscal lows."
     },
     {
       "lvl": "a",
-      "tag": "United States of America · Corporate M&A",
-      "q": "How does Intuit's agreement to divest Mailchimp to Bending Spoons alter the corporate landscape for the digital marketing platform?",
+      "tag": "Brazil · Corporate Governance and Volatility",
+      "q": "What dynamic is currently evident in Petrobras options markets following the board nomination of a Bolsonaro pick with a past insider trading fine?",
       "o": [
-        "The $3.68 billion transaction transfers ownership of the asset directly to the private software company.",
-        "The sale forces Mailchimp to transition from a private entity into a publicly listed company on the Nasdaq index.",
-        "Intuit retains a controlling equity stake in Mailchimp to hedge against future technology sector sell-offs.",
-        "The transaction requires Bending Spoons to spin off its artificial intelligence cloud division to satisfy antitrust regulators."
+        "Elevated implied volatility, even as J.P. Morgan initiated coverage with a buy recommendation and a $23.50 price target.",
+        "A complete cessation of options trading due to immediate regulatory liquidation by the central bank.",
+        "A sharp drop in volatility because market participants entirely ignored historical governance friction.",
+        "Guaranteed downside protection engineered directly through state-level restructuring oversight."
       ],
       "a": 0,
-      "e": "Intuit finalized an agreement to divest Mailchimp to Bending Spoons for $3.68 billion, transferring ownership of the digital marketing platform to the private software company. The wrong options incorrectly suggest public listings or retained controlling stakes."
+      "e": "Petrobras equities softened as options markets priced in elevated implied volatility following the board nomination, alongside J.P. Morgan initiating coverage with a buy recommendation and a $23.50 target. The incorrect options suggest halted trading, zero volatility, or state restructuring guarantees not found in the text."
     },
     {
       "lvl": "a",
-      "tag": "Japan · Corporate partnerships",
-      "q": "What is the strategic rationale behind the joint partnership formed between Itochu and Sony?",
+      "tag": "Saudi Arabia · Sovereign Infrastructure and Energy",
+      "q": "What structural issue did Saudi Aramco executive commentary highlight alongside its deployment of artificial intelligence applications?",
       "o": [
-        "The collaboration anchors a strategic push into intellectual property monetisation and artist-branded merchandise across media channels by integrating their commercial ecosystems.",
-        "Both conglomerates merged their core supply chains to hedge against foreign exchange volatility in the dollar-yen spot market.",
-        "Sony acquired a controlling stake in Itochu to monopolize retail demand for artificial intelligence initial public offerings.",
-        "The joint venture was established to liquidate underperforming intellectual property assets and reduce corporate bond holdings."
+        "Persistent structural underinvestment across global oil refining capacity.",
+        "An immediate oversupply of domestic residential land that is squeezing profit margins across urban development projects.",
+        "A catastrophic depletion of foreign exchange reserves caused by defensive interbank FX turnover.",
+        "Severe capital flight driven by rising sovereign yields in domestic debt markets."
       ],
       "a": 0,
-      "e": "Itochu and Sony executed a partnership targeting artist-branded merchandise as part of a push into intellectual property monetisation, intending to integrate their commercial ecosystems. The incorrect options falsely claim currency hedging or hostile takeovers."
+      "e": "Executive commentary from Saudi Aramco highlighted persistent structural underinvestment across global oil refining capacity alongside capturing enterprise value via artificial intelligence deployments. The incorrect options misattribute residential land issues, reserves, or sovereign yields from other countries to Aramco."
     },
     {
       "lvl": "a",
-      "tag": "Brazil · Corporate equity",
-      "q": "How do J.P. Morgan's initiation of coverage on Petrobras and the company's subsea contract award affect its market perception?",
+      "tag": "Saudi Arabia · Security and Wealth Management",
+      "q": "Which critical administrative nexus was physically targeted by the kinetic impact of a Houthi projectile in Riyadh?",
       "o": [
-        "Petrobras shares traded under heightened implied volatility while securing a $410 million subsea contract alongside a buy rating and a $23.50 price target.",
-        "The buy rating and price target forced the company to cancel all subsea infrastructure projects to preserve short-term liquidity.",
-        "J.P. Morgan's initiation of coverage eliminated all foreign exchange risk tied to the Brazilian real for energy investors.",
-        "The $410 million contract award caused the Ibovespa index to decouple entirely from domestic fiscal package negotiations."
+        "The Public Investment Fund Tower, which houses the headquarters of the $900 billion sovereign wealth vehicle.",
+        "The central bank vault responsible for maintaining the official spot rate of the national currency.",
+        "The primary data center operations facility generating $2.6 billion in annual artificial intelligence value.",
+        "The national petroleum refining headquarters overseeing global underinvestment metrics."
       ],
       "a": 0,
-      "e": "Petrobras shares traded under heightened implied volatility while securing the $410 million subsea contract and receiving a buy rating with a $23.50 price target from J.P. Morgan. The incorrect options suggest cancellations of projects or elimination of foreign exchange risk."
+      "e": "A Houthi projectile breached defenses to strike the Public Investment Fund Tower, directly targeting the administrative nexus of the $900 billion sovereign wealth vehicle. The incorrect options guess central bank vaults or data center facilities not named as the target of the strike."
     },
     {
       "lvl": "a",
-      "tag": "Nigeria · Energy production",
-      "q": "What role did Nigerian production play in the broader OPEC output figures for October?",
+      "tag": "Nigeria · Foreign Exchange and Reserves",
+      "q": "What mechanism accompanied the depreciation of the naira to N1,440 per dollar in official trading?",
       "o": [
-        "National production printed at 1.51 million barrels per day, contributing to the wider cartel output expansion of 1.97 million barrels per day.",
-        "Nigerian output accounted for the entirety of the cartel's production increase, offsetting sharp supply cuts in Saudi Arabia.",
-        "Nigeria's production was entirely withheld from the market to protest falling official selling prices in Asia.",
-        "Cartel output rose because Nigerian fields replaced all lost production from Houthi attacks on Middle Eastern infrastructure."
+        "A contraction in foreign reserves by $406m as part of ongoing defensive liquidity management amid higher interbank turnover.",
+        "A massive injection of central bank capital that drove spot rates down to N1,376 per dollar.",
+        "A sudden spike in domestic <span class='term' data-t='inflation'>inflation</span> that forced the central bank to abandon all interbank FX clearing.",
+        "An aggressive expansion of sovereign <span class='term' data-t='gilt'>bond</span> issuance through onshore panda channels."
       ],
       "a": 0,
-      "e": "National production printed at 1.51 million barrels per day for October, while wider cartel output expanded to 1.97 million barrels per day over the same period. The wrong answers claim Nigeria accounted for the entire cartel increase or replaced Middle Eastern supply entirely."
+      "e": "Foreign reserves contracted by $406m, reflecting ongoing defensive liquidity management as interbank FX turnover expanded to $502.88m during the currency decline. The incorrect options describe currency appreciation injections, <span class='term' data-t='inflation'>inflation</span> abandonments, or panda <span class='term' data-t='gilt'>bonds</span> that contradict or misplace the Nigerian reserve data."
     },
     {
       "lvl": "a",
-      "tag": "Australia · Foreign exchange",
-      "q": "What market mechanism linked the weak employment report to the breakdown of the AUD/USD exchange rate's multi-month range?",
+      "tag": "Australia · Technology Sector Repricing",
+      "q": "How did the local Australian stock market react to major capital allocation toward Anthropic in the United States?",
       "o": [
-        "The weak jobs report catalyzed a technical breakdown, prompting market participants to re-evaluate domestic data flow and push the currency to a ten-month low.",
-        "The employment data forced the Reserve Bank of Australia to intervene directly in foreign exchange markets to peg the currency.",
-        "Strong employment figures triggered massive capital inflows that broke the multi-month range by overvaluing the Australian dollar.",
-        "Traders liquidated all Australian technology shares to buy US dollars following the employment data release."
+        "Domestic equities dropped as local artificial intelligence exposures like SCX.ai Holdings faced a sharp repricing and a widening valuation gap.",
+        "Australian technology firms surged past US counterparts due to exclusive regional partnerships and unfinalised assay disclosures.",
+        "The central bank intervened directly to purchase junior resource equities, insulating them from overseas tech sell-offs.",
+        "All mining stocks experienced immediate liquidations while tech valuations decoupled completely from foreign deal flow."
       ],
       "a": 0,
-      "e": "A weak employment report catalyzed the breakdown of the multi-month range to a ten-month low as market participants re-evaluated domestic data flow. The alternative choices invent direct central bank currency pegs or contradictory employment strength."
+      "e": "Domestic equities dropped as the local technology sector faced a sharp repricing following major capital allocation toward Anthropic, with local exposures like SCX.ai Holdings falling amid a widening valuation gap. The incorrect options claim tech surges, central bank resource buying, or total decoupling, which contradict the text's account of regional declines."
     },
     {
       "lvl": "a",
-      "tag": "India · Equity markets",
-      "q": "What drove the Sensex to surge nearly 1,000 points while the rupee appreciated against the US dollar?",
+      "tag": "Australia · Resource Exploration",
+      "q": "What common trend affected junior resource equities such as Black Rock Mining, US1 Critical Minerals, and Nexus Minerals on the ASX?",
       "o": [
-        "Strong outperformance in auto and bank equities drove the index higher, while portfolio inflows provided concurrent support for the currency.",
-        "The Reserve Bank of India lowered interest rates across all commercial banks, triggering a massive wave of retail stock purchases.",
-        "State governments injected billions of rupees directly into the foreign exchange market to artificially appreciate the local currency.",
-        "Foreign institutional investors sold all holdings in auto and bank sectors to purchase state government security re-issues."
+        "Broad liquidations across the board following funding mechanism disclosures, unfinalised developments, and pending assay results.",
+        "Massive capital inflows driven by safe-haven investors fleeing rising sovereign yields in domestic debt markets.",
+        "Mandatory state-level restructuring talks aimed at curbing excess operational capacity in Tanzania.",
+        "Record high price targets initiated by international investment banks due to surging artificial intelligence demand."
       ],
       "a": 0,
-      "e": "The Sensex surged nearly 1,000 points on outperformance in auto and bank equities, while the rupee appreciated due to bolstered portfolio inflows. The wrong options incorrectly cite central bank rate cuts or direct government foreign exchange interventions."
+      "e": "Junior resource equities faced broad liquidations, with Black Rock Mining, US1 Critical Minerals, and Nexus Minerals dropping following disclosures tied to funding mechanisms, unfinalised developments, and upcoming assay results. The incorrect options invent safe-haven inflows, state restructuring, or investment bank targets for these specific mining stocks."
     }
   ]
 }
